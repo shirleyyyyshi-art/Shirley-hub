@@ -50,9 +50,10 @@
   }
 
   *{box-sizing:border-box;}
+  html, body{ height:100%; }
   body{
-    margin:0; min-height:100vh; display:flex; flex-direction:column; align-items:center; gap:20px;
-    padding:32px 16px 56px;
+    margin:0; min-height:100dvh; display:flex; flex-direction:column; align-items:center; gap:0;
+    padding:0;
     background:radial-gradient(1200px 500px at 50% -10%, color-mix(in srgb, var(--accent) 12%, transparent), transparent), var(--bg-page);
     font-family:-apple-system,BlinkMacSystemFont,"SF Pro Rounded","Helvetica Neue",Arial,sans-serif;
     color:var(--ink);
@@ -60,34 +61,29 @@
   }
   svg.defs{ position:absolute; width:0; height:0; }
 
-  .intro{ max-width:420px; text-align:center; }
-  .intro .eyebrow{ font-size:11.5px; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); font-weight:700; margin:0 0 6px; }
-  .intro h1{ font-size:21px; margin:0 0 6px; letter-spacing:-0.01em; text-wrap:balance; }
-  .intro p{ margin:0; font-size:13px; color:var(--muted); line-height:1.5; }
+  .intro{ display:none; }
 
   .phone{
-    position:relative; width:min(390px,92vw); aspect-ratio:390/844; background:var(--bg);
-    border-radius:52px; padding:14px;
-    box-shadow:var(--shadow), 0 0 0 2px color-mix(in srgb, var(--ink) 6%, transparent);
-    border:6px solid color-mix(in srgb, var(--ink) 88%, var(--bg));
+    position:relative; width:100vw; max-width:none; height:100dvh; background:var(--bg);
+    border-radius:0; padding:0; box-shadow:none; border:none;
   }
-  .screen{ position:relative; width:100%; height:100%; background:var(--bg); border-radius:36px; overflow:hidden; display:flex; flex-direction:column; }
+  .screen{ position:relative; width:100%; height:100%; background:var(--bg); border-radius:0; overflow:hidden; display:flex; flex-direction:column; }
   .blob-bg{ position:absolute; inset:0; overflow:hidden; z-index:0; pointer-events:none; }
   .blob-bg span{ position:absolute; border-radius:50%; filter:blur(38px); opacity:0.6; transition:background .4s ease; }
   .blob-bg .b1{ width:210px;height:210px; background:var(--blob-1); top:-50px; left:-60px; }
   .blob-bg .b2{ width:190px;height:190px; background:var(--blob-2); bottom:120px; right:-70px; }
   .blob-bg .b3{ width:170px;height:170px; background:var(--blob-3); bottom:-70px; left:50px; }
-  .notch{ position:absolute; top:0; left:50%; transform:translateX(-50%); width:34%; height:26px; background:color-mix(in srgb, var(--ink) 88%, var(--bg)); border-radius:0 0 16px 16px; z-index:80; }
-  .statusbar{ position:relative; z-index:1; display:flex; align-items:center; justify-content:space-between; padding:16px 26px 6px; font-size:15px; font-weight:700; color:var(--status-fg); flex:0 0 auto; }
+  .notch{ display:none; }
+  .statusbar{ display:none; }
   .statusbar .icons{ display:flex; align-items:center; gap:5px; }
 
-  .appbar{ position:relative; z-index:1; display:flex; align-items:center; gap:12px; padding:6px 18px 14px; flex:0 0 auto; background:var(--surface); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); border-bottom:1px solid var(--line); }
+  .appbar{ position:relative; z-index:1; display:flex; align-items:center; gap:12px; padding:calc(14px + env(safe-area-inset-top)) 18px 14px; flex:0 0 auto; background:var(--surface); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); border-bottom:1px solid var(--line); }
   .iconbtn{ width:36px;height:36px; border-radius:11px; border:none; background:var(--surface-alt); display:flex;align-items:center;justify-content:center; cursor:pointer; color:var(--ink); flex:0 0 auto; }
   .iconbtn svg{ width:18px; height:18px; }
   .appbar .title{ font-size:17px; font-weight:700; flex:1; }
   .streak-chip{ display:flex; align-items:center; gap:4px; background:var(--accent-2-soft); color:var(--accent-2); font-weight:700; font-size:12px; padding:6px 10px; border-radius:999px; }
 
-  .content{ position:relative; z-index:1; flex:1; overflow-y:auto; padding:2px 18px 26px; scrollbar-width:none; }
+  .content{ position:relative; z-index:1; flex:1; overflow-y:auto; padding:2px 18px calc(26px + env(safe-area-inset-bottom)); scrollbar-width:none; }
   .content::-webkit-scrollbar{ display:none; }
 
   .card, .row-card, .stat, .plan-item, .drawer, .detail, .bio-sheet{ backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); }
@@ -264,11 +260,6 @@
   .photo-gallery .photo-item .rm{ position:absolute; top:-6px; right:-6px; width:20px; height:20px; border-radius:50%; background:var(--danger); color:#fff; border:none; font-size:11px; cursor:pointer; line-height:1; padding:0; }
   .expense-row{ display:flex; align-items:center; gap:6px; font-size:11px; padding:5px 0; border-bottom:1px solid var(--line); }
   .expense-row:last-child{ border-bottom:none; }
-  .swipe-row{ position:relative; overflow:hidden; border-radius:15px; margin:6px 0; flex-shrink:0; }
-  .swipe-del{ position:absolute; inset:0; background:var(--danger); color:#fff; display:flex; align-items:center; justify-content:flex-end; padding-right:14px; font-weight:700; font-size:11px; border:none; }
-  .swipe-content{ position:relative; z-index:1; box-sizing:border-box; background:var(--surface); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); border:1px solid var(--line); border-radius:15px; padding:10px 13px; font-size:11.5px; touch-action:pan-y; }
-  .swipe-content.dragging{ transition:none; }
-  .swipe-content:not(.dragging){ transition:transform .2s ease; }
   .legend-dot{ width:9px;height:9px;border-radius:50%; flex:0 0 auto; }
   .best-price{ color:var(--ok); font-weight:800; }
 
@@ -341,6 +332,9 @@
     .drawer, .detail, .nav-children, .scrim, .nav-row .chev, .bio-overlay, .bio-sheet{ transition:none !important; }
     .record-btn.recording{ animation:none !important; }
   }
+
+  .drawer-foot span:first-child{ display:none; }
+  .drawer-foot{ justify-content:flex-end; }
 </style>
 </head>
 <body>
@@ -523,6 +517,15 @@
     var months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
     return d.getDate()+" "+months[d.getMonth()]+" "+d.getFullYear();
   }
+  function formatJournalDate(dateStr, tab){
+    if(!dateStr) return "";
+    var d = new Date(dateStr+"T00:00:00");
+    if(isNaN(d.getTime())) return dateStr;
+    var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+    if(tab === "Monthly") return months[d.getMonth()]+" "+d.getFullYear();
+    if(tab === "Yearly") return String(d.getFullYear());
+    return formatDateEn(dateStr);
+  }
   function plainText(html){ var d=document.createElement('div'); d.innerHTML=html; return d.textContent||""; }
   function row(title, sub){ return '<div class="row-card"><p class="row-title">'+title+'</p><p class="row-sub">'+sub+'</p></div>'; }
   function bar(label, pct){ return '<div class="row-card"><p class="row-title">'+label+'</p><div class="bar-track"><div class="bar-fill" style="width:'+pct+'%"></div></div></div>'; }
@@ -680,10 +683,10 @@
 
     newsLevel:"intermediate",
 
-    vlogSceneInput:"", vlogScriptOutput:null,
-    xhsIdea:"", xhsPhoto:null, xhsOutput:null,
+    vlogSceneInput:"", vlogScripts:[], vlogScriptEditIdx:null,
+    xhsIdea:"", xhsPhoto:null, xhsOutput:null, xhsEditing:false,
 
-    foodPhoto:null,
+    foodPhoto:null, foodEditIdx:null,
     foodEntries:[
       {photo:null, address:"328 Katong Laksa, East Coast Rd", price:"S$8", review:"Rich coconut broth, generous cockles, worth the queue."},
       {photo:null, address:"Chilli Padi Nonya, Joo Chiat", price:"S$26", review:"Ayam buah keluak was fantastic, portions a little small for the price."}
@@ -719,6 +722,7 @@
     ],
     budgetTarget:4500,
     editingBudgetTarget:false,
+    budgetEditIdx:null,
     budgetMonth:"2026-07",
 
     priceEntries:[
@@ -732,12 +736,12 @@
 
     speakingInput:"", speakingOutput:null,
     writingInput:"", writingOutput:null,
-    listeningLookup:null, listeningIdx:0, customDict:[],
+    listeningLookup:null, listeningIdx:0,
     wordGame:null,
     rehearsal:null,
 
-    journal:{Daily:[{date:"2026-07-26", text:"Small win today: finished a full mock interview recording without stopping."}], Weekly:[], Monthly:[], Yearly:[]},
-    journalTab:"Daily"
+    journal:{Daily:[{date:"2026-07-26", text:"Small win today: finished a full mock interview recording without stopping.", photos:[]}], Weekly:[], Monthly:[], Yearly:[]},
+    journalTab:"Daily", journalPhotos:[], journalEditIdx:null
   };
 
   var PET_SPECIES = [
@@ -977,29 +981,6 @@
      transcript:'More companies are experimenting with shorter work weeks, and the early data looks promising. Employees report feeling less <span class="dict-word" data-action="lookup-word" data-def="fatigued (adj.) 疲惫的 &mdash; extremely tired, especially after exertion.">fatigued</span> by Friday, and turnover has dropped at several trial firms. Critics remain <span class="dict-word" data-action="lookup-word" data-def="skeptical (adj.) 持怀疑态度的 &mdash; having doubts about whether something is true or will work.">skeptical</span>, arguing the model does not scale to every industry. Still, the trend has clearly gained enough <span class="dict-word" data-action="lookup-word" data-def="momentum (n.) 势头；动力 &mdash; the force that keeps something moving or developing.">momentum</span> to reshape how some companies think about the workweek.'}
   ];
 
-  var MASTER_DICT = null;
-  function buildMasterDict(){
-    var dict = {};
-    ["intermediate","upper"].forEach(function(lvl){
-      ECONOMIST[lvl].vocab.forEach(function(v){ dict[v.w.toLowerCase()] = v.w+" "+v.ipa+" "+v.pos+" — "+v.mean+" ("+v.def+")"; });
-    });
-    LEVEL_VOCAB.forEach(function(v){ dict[v.w.toLowerCase()] = v.w+" "+v.ipa+" "+v.pos+" — "+v.cn+" ("+v.def+")"; });
-    LIFE_VOCAB.forEach(function(v){ dict[v.en.toLowerCase()] = v.en+" — "+v.def+" ("+v.cn+")"; });
-    LISTENING_POOL.forEach(function(p){
-      var tmp = document.createElement('div'); tmp.innerHTML = p.transcript;
-      tmp.querySelectorAll('.dict-word').forEach(function(sp){
-        var w = sp.textContent.trim().toLowerCase();
-        if(!dict[w]) dict[w] = sp.dataset.def;
-      });
-    });
-    return dict;
-  }
-  function aiLookup(word){
-    if(!MASTER_DICT) MASTER_DICT = buildMasterDict();
-    var key = word.trim().toLowerCase();
-    if(MASTER_DICT[key]) return "🤖 "+MASTER_DICT[key];
-    return "🤖 AI lookup: \""+word+"\" is not in this demo's mini-dictionary yet, in the full app this would call a real dictionary/translation API for an accurate definition.";
-  }
 
   var NAV = [
     {id:"plan", label:"Daily Plan", emoji:"📋"},
@@ -1173,7 +1154,8 @@
     return out;
   }
   function pageInterview(){
-    var html = rehearsalSection();
+    var html = '<div class="row-card"><p class="row-sub">All audio on this page — questions, your self-introduction, the AI-tailored version — plays back in whichever accent you pick below.</p>'+accentToggle()+'</div>';
+    html += rehearsalSection();
 
     html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Self-Introduction</p>'+audioBtnSrc('selfIntroBox')+'</div>'
       +'<p class="row-sub" style="margin:6px 0 8px;">Edit this for each interview, the audio button reads your latest version aloud.</p>'
@@ -1294,17 +1276,13 @@
     html += '<div class="row-card"><p class="row-title">'+passage.title+'</p><p class="row-sub" style="margin-top:4px;">'+passage.source+', tap any underlined word for its meaning.</p>'+accentToggle()+'</div>';
     html += '<div class="row-card"><div class="row-head">'+audioBtn(plainText(passage.transcript))+'<button class="refresh-btn" data-action="refresh-listening">↻ Refresh</button></div><p class="row-sub" style="margin-top:8px; line-height:1.7;">'+passage.transcript+'</p></div>';
     html += '<div class="row-card"><p class="row-title">Word Lookup</p><p class="row-sub">'+(state.listeningLookup||"Tap a word above to see its meaning here.")+'</p></div>';
-    html += '<div class="divider-label">Add Your Own Word</div>';
-    html += '<div class="row-card"><p class="row-sub" style="margin-bottom:8px;">Add a word you spotted in the passage, AI fills in the meaning.</p><input class="field" id="dictWord" placeholder="Word from the passage"/><button class="btn-primary" style="margin-top:8px;" data-action="add-dict-word">🤖 Add with AI Meaning</button></div>';
-    state.customDict.slice().reverse().forEach(function(d){
-      html += row(d.word, d.meaning);
-    });
     return html;
   }
 
   function pageSpeaking(){
     var supported = !!(window.SpeechRecognition || window.webkitSpeechRecognition);
-    var html = '<div class="row-card"><p class="row-sub">Tap the mic to record, tap again to stop, your speech becomes text below.'+(supported?'':' Live recording is not supported in this browser, type instead.')+'</p>'
+    var html = '<div class="row-card"><p class="row-sub">Tap the mic to record, tap again to stop, your speech becomes text below.'+(supported?'':' Live recording is not supported in this browser, type instead.')+'</p>'+accentToggle()+'</div>';
+    html += '<div class="row-card">'
       +'<button class="record-btn" id="recordBtn" data-action="toggle-record">🎙 Start Recording</button>'
       +'<textarea class="field" id="speakingInput" placeholder="e.g. I think I are good fit for this role because I have lot of experience." style="margin-top:10px;">'+esc(state.speakingInput)+'</textarea>'
       +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-speaking">Get AI Feedback</button></div>';
@@ -1339,7 +1317,10 @@
       +'<button class="btn-primary" style="margin-top:8px;" data-action="add-notes">Add Entry</button></div>';
     html += '<div class="divider-label">Study Log</div>';
     state.dailyNotes.slice().reverse().forEach(function(n){
-      html += '<div class="row-card">'+(n.photo?'<img class="thumb" src="'+n.photo+'"/>':'')+'<p class="row-title" style="margin-top:'+(n.photo?"8px":"0")+';">'+n.date+'</p><p class="row-sub">'+esc(n.text)+'</p></div>';
+      var realIdx = state.dailyNotes.indexOf(n);
+      html += '<div class="row-card">'+(n.photo?'<img class="thumb" src="'+n.photo+'"/>':'')
+        +'<div style="display:flex; align-items:center; gap:8px; margin-top:'+(n.photo?"8px":"0")+';"><div style="flex:1;"><p class="row-title" style="margin:0;">'+n.date+'</p><p class="row-sub">'+esc(n.text)+'</p></div>'
+        +'<button class="del-btn" data-action="delete-notes" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div></div>';
     });
     return html;
   }
@@ -1473,11 +1454,24 @@
     html += '<div class="row-card"><p class="row-sub">Describe your scene, text, or the gist of a photo/clip, and get an English shot-by-shot script.</p>'
       +'<textarea class="field" id="vlogSceneInput" placeholder="e.g. Trying laksa for the first time at a hawker centre, reacting to the spice level">'+esc(state.vlogSceneInput)+'</textarea>'
       +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-vlog">Generate Script</button></div>';
-    if(state.vlogScriptOutput){
-      html += '<div class="row-card"><p class="row-title">Shot-by-shot Script</p>'
-        + state.vlogScriptOutput.shots.map(function(s){ return '<p class="row-sub">• '+s+'</p>'; }).join('')
-        + '<p class="row-title" style="margin-top:8px;">Caption</p><p class="row-sub">'+state.vlogScriptOutput.caption+'</p></div>';
-    }
+    state.vlogScripts.slice().reverse().forEach(function(v){
+      var realIdx = state.vlogScripts.indexOf(v);
+      html += '<div class="row-card">';
+      if(state.vlogScriptEditIdx === realIdx){
+        html += '<p class="row-title">Edit Script</p>'
+          +'<textarea class="field" id="editVlogShots" rows="6">'+esc(v.shots.join('\n'))+'</textarea>'
+          +'<p class="field-label" style="margin-top:8px;">Caption</p>'
+          +'<textarea class="field" id="editVlogCaption">'+esc(v.caption)+'</textarea>'
+          +'<button class="btn-primary" style="margin-top:8px;" data-action="save-vlog-script" data-idx="'+realIdx+'">Save</button>';
+      } else {
+        html += '<div class="row-head"><p class="row-title" style="flex:1;">Shot-by-shot Script</p>'
+          +'<button class="edit-icon-btn" data-action="edit-vlog-script" data-idx="'+realIdx+'">✎ Edit</button>'
+          +'<button class="del-btn" data-action="delete-vlog-script" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>'
+          + v.shots.map(function(s){ return '<p class="row-sub">• '+s+'</p>'; }).join('')
+          + '<p class="row-title" style="margin-top:8px;">Caption</p><p class="row-sub">'+v.caption+'</p>';
+      }
+      html += '</div>';
+    });
     return html;
   }
 
@@ -1489,8 +1483,17 @@
     if(state.xhsPhoto){ html += '<img class="thumb" style="margin-top:8px;" src="'+state.xhsPhoto+'"/>'; }
     html += '<button class="btn-primary" style="margin-top:10px;" data-action="gen-xhs">Generate Caption</button></div>';
     if(state.xhsOutput){
-      html += '<div class="row-card"><p class="row-title">Generated Caption</p><p class="row-sub">'+state.xhsOutput.caption+'</p>'
-        + chipRow(state.xhsOutput.tags) + '</div>';
+      if(state.xhsEditing){
+        html += '<div class="row-card"><p class="row-title">Edit Caption</p>'
+          +'<textarea class="field" id="editXhsCaption">'+esc(state.xhsOutput.caption)+'</textarea>'
+          +'<button class="btn-primary" style="margin-top:8px;" data-action="save-xhs-caption">Save</button></div>';
+      } else {
+        html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Generated Caption</p>'
+          +'<button class="edit-icon-btn" data-action="edit-xhs-caption">✎ Edit</button>'
+          +'<button class="del-btn" data-action="delete-xhs-caption">'+TRASH_ICON+'</button></div>'
+          +'<p class="row-sub">'+state.xhsOutput.caption+'</p>'
+          + chipRow(state.xhsOutput.tags) + '</div>';
+      }
     }
     return html;
   }
@@ -1504,10 +1507,20 @@
       +'<button class="btn-primary" style="margin-top:8px;" data-action="add-food">Add</button></div>';
     html += '<div class="divider-label">Your Food Log</div>';
     state.foodEntries.forEach(function(f,i){
-      html += '<div class="row-card" style="display:flex; gap:11px; align-items:flex-start;">';
-      html += f.photo ? '<img src="'+f.photo+'" style="width:64px;height:64px;border-radius:11px;object-fit:cover;flex:0 0 auto;"/>' : '<div class="swatch" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;font-size:22px;">🍽️</div>';
-      html += '<div style="flex:1;"><p class="row-title">'+esc(f.address)+'</p><p class="row-sub">'+esc(f.price)+'</p>'+(f.review? '<p class="row-sub" style="margin-top:3px;">"'+esc(f.review)+'"</p>' : '')+'</div>'
-        +'<button class="del-btn" data-action="delete-food" data-idx="'+i+'">'+TRASH_ICON+'</button></div>';
+      html += '<div class="row-card">';
+      if(state.foodEditIdx === i){
+        html += (f.photo ? '<img src="'+f.photo+'" style="width:64px;height:64px;border-radius:11px;object-fit:cover;margin-bottom:8px;"/>' : '')
+          +'<div class="field-row"><input class="field" id="editFoodAddress" value="'+attrEsc(f.address)+'"/><input class="field" id="editFoodPrice" value="'+attrEsc(f.price)+'" style="max-width:110px;"/></div>'
+          +'<textarea class="field" id="editFoodReview" style="margin-top:8px;">'+esc(f.review)+'</textarea>'
+          +'<button class="btn-primary" style="margin-top:8px;" data-action="save-food" data-idx="'+i+'">Save</button>';
+      } else {
+        html += '<div style="display:flex; gap:11px; align-items:flex-start;">';
+        html += f.photo ? '<img src="'+f.photo+'" style="width:64px;height:64px;border-radius:11px;object-fit:cover;flex:0 0 auto;"/>' : '<div class="swatch" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;font-size:22px;">🍽️</div>';
+        html += '<div style="flex:1;"><p class="row-title">'+esc(f.address)+'</p><p class="row-sub">'+esc(f.price)+'</p>'+(f.review? '<p class="row-sub" style="margin-top:3px;">"'+esc(f.review)+'"</p>' : '')+'</div>'
+          +'<button class="edit-icon-btn" data-action="edit-food" data-idx="'+i+'">✎ Edit</button>'
+          +'<button class="del-btn" data-action="delete-food" data-idx="'+i+'">'+TRASH_ICON+'</button></div>';
+      }
+      html += '</div>';
     });
     return html;
   }
@@ -1647,7 +1660,8 @@
         html += '<div style="display:flex; align-items:center; gap:9px;">'
           +'<span class="chk chk-ok'+(b.done?" on":"")+'" data-action="toggle-book" data-idx="'+i+'">'+CHECK_ICON+'</span>'
           +'<div style="flex:1;"><p class="row-title" style="'+(b.done?"color:var(--ok);":"")+'">'+esc(b.title)+'</p><p class="row-sub">'+esc(b.author)+' · '+b.lang+(b.startDate?" · started "+b.startDate:"")+(b.finishDate?" · finished "+b.finishDate:"")+'</p></div>'
-          +'<button class="edit-icon-btn" data-action="edit-book" data-idx="'+i+'">✎ Edit</button></div>';
+          +'<button class="edit-icon-btn" data-action="edit-book" data-idx="'+i+'">✎ Edit</button>'
+          +'<button class="del-btn" data-action="delete-book" data-idx="'+i+'">'+TRASH_ICON+'</button></div>';
         if(b.done){
           html += '<textarea class="field" style="margin-top:8px;" data-action="report-input" data-idx="'+i+'" placeholder="Your book report...">'+esc(b.report)+'</textarea>'
             +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-book-copy" data-idx="'+i+'">Turn into Social Copy</button>';
@@ -1750,7 +1764,17 @@
     html += '<div class="divider-label">Transactions</div>';
     monthEntries.slice().reverse().forEach(function(e){
       var realIdx = state.budgetEntries.indexOf(e);
-      html += '<div class="row-card" style="display:flex; align-items:center; gap:10px;"><div style="flex:1;"><p class="row-title">'+(e.item||e.cat)+' · S$'+e.amt+'</p><p class="row-sub">'+e.cat+' · '+e.date+'</p></div><button class="del-btn" data-action="delete-budget" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>';
+      html += '<div class="row-card">';
+      if(state.budgetEditIdx === realIdx){
+        html += '<div class="field-row"><input class="field" id="editBudgetDate" type="date" value="'+e.date+'"/><select class="field" id="editBudgetCat">'+BUDGET_CATS.map(function(c){return '<option'+(c===e.cat?" selected":"")+'>'+c+'</option>';}).join('')+'</select></div>'
+          +'<div class="field-row" style="margin-top:8px;"><input class="field" id="editBudgetItem" value="'+attrEsc(e.item)+'"/><input class="field" id="editBudgetAmt" value="'+e.amt+'"/></div>'
+          +'<button class="btn-primary" style="margin-top:8px;" data-action="save-budget" data-idx="'+realIdx+'">Save</button>';
+      } else {
+        html += '<div style="display:flex; align-items:center; gap:10px;"><div style="flex:1;"><p class="row-title">'+(e.item||e.cat)+' · S$'+e.amt+'</p><p class="row-sub">'+e.cat+' · '+e.date+'</p></div>'
+          +'<button class="edit-icon-btn" data-action="edit-budget" data-idx="'+realIdx+'">✎ Edit</button>'
+          +'<button class="del-btn" data-action="delete-budget" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>';
+      }
+      html += '</div>';
     });
     return html;
   }
@@ -1774,16 +1798,15 @@
       var allTimeMin = g.items[0];
       var recentItems = g.items.filter(function(p){ return (nowMs - new Date(p.date).getTime()) <= 30*86400000; });
       var recentMin = recentItems.length ? recentItems.reduce(function(a,b){ return b.price<a.price ? b : a; }) : null;
-      html += '<p class="row-title" style="margin:10px 2px 4px;">'+esc(g.label)+'</p>';
-      g.items.forEach(function(p){
+      html += '<div class="row-card" style="margin-top:10px;"><p class="row-title" style="margin:0 0 8px;">'+esc(g.label)+'</p>';
+      g.items.forEach(function(p, idx){
         var isAllTime = p===allTimeMin;
         var isRecent = recentMin && p===recentMin && !isAllTime;
         var badge = isAllTime ? '<span class="trophy-gold">🏆 </span>' : isRecent ? '<span class="trophy-silver">🥈 </span>' : '';
         var realIdx = state.priceEntries.indexOf(p);
-        html += '<div class="swipe-row"><button class="swipe-del" data-action="delete-price" data-idx="'+realIdx+'">Delete</button>'
-          +'<div class="swipe-content" style="display:flex; justify-content:space-between; align-items:center;" data-idx="'+realIdx+'"><span>'+badge+esc(p.store)+' · '+p.date+'</span><span style="font-weight:700;" class="'+(isAllTime?"cheapest-price":"")+'">S$'+p.price.toFixed(2)+'</span></div></div>';
+        html += '<div style="display:flex; justify-content:space-between; align-items:center; padding:'+(idx>0?"8px 0 0":"0")+';'+(idx>0?" margin-top:8px; border-top:1px solid var(--line);":"")+'"><span>'+badge+esc(p.store)+' · '+p.date+'</span><div style="display:flex; align-items:center; gap:8px;"><span style="font-weight:700;" class="'+(isAllTime?"cheapest-price":"")+'">S$'+p.price.toFixed(2)+'</span><button class="del-btn" data-action="delete-price" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div></div>';
       });
-      html += '<p class="row-sub" style="margin:4px 2px 0;">Swipe a row left to delete.</p>';
+      html += '</div>';
     });
     return html;
   }
@@ -1791,10 +1814,27 @@
   function pageJournal(){
     var tab = state.journalTab;
     var html = '<div class="journal-tabs">' + JOURNAL_TABS.map(function(t){return '<span class="journal-tab'+(t===tab?" active":"")+'" data-action="set-journal-tab" data-v="'+t+'">'+t+'</span>';}).join('') + '</div>';
-    html += '<div class="row-card" style="margin-top:12px;"><input class="field" id="journalDate" type="date"/><textarea class="field" id="journalText" placeholder="Write freely..." style="margin-top:8px;"></textarea><button class="btn-primary" style="margin-top:8px;" data-action="add-journal">Add Entry</button></div>';
+    html += '<div class="row-card" style="margin-top:12px;"><input class="field" id="journalDate" type="date"/><textarea class="field" id="journalText" placeholder="Write freely..." style="margin-top:8px;"></textarea>'
+      +'<label class="upload-label" style="margin-top:8px;"><input type="file" accept="image/*" data-action="journal-photo-add"/>📷 Add a photo (optional)</label>'
+      + photoGallery(state.journalPhotos, 'journal-photo-remove-new', '')
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-journal">Add Entry</button></div>';
     html += '<div class="divider-label">'+tab+' Entries</div>';
     state.journal[tab].slice().reverse().forEach(function(e){
-      html += row(e.date, e.text);
+      var realIdx = state.journal[tab].indexOf(e);
+      html += '<div class="row-card">';
+      if(state.journalEditIdx === realIdx){
+        html += photoGallery(e.photos, 'journal-edit-photo-remove', 'data-idx="'+realIdx+'"')
+          +'<label class="upload-label" style="margin-top:8px; margin-bottom:8px;"><input type="file" accept="image/*" data-action="journal-edit-photo-add" data-idx="'+realIdx+'"/>📷 Add another photo</label>'
+          +'<input class="field" id="journalEditDate" type="date" value="'+(e.date||"")+'"/>'
+          +'<textarea class="field" id="journalEditText" style="margin-top:8px;">'+esc(e.text)+'</textarea>'
+          +'<button class="btn-primary" style="margin-top:8px;" data-action="save-journal" data-idx="'+realIdx+'">Save</button>';
+      } else {
+        html += photoGallery(e.photos, null, '')
+          +'<div style="display:flex; align-items:center; gap:8px; margin-top:'+(e.photos&&e.photos.length?"8px":"0")+';"><div style="flex:1;"><p class="row-title">'+formatJournalDate(e.date, tab)+'</p><p class="row-sub">'+esc(e.text)+'</p></div>'
+          +'<button class="edit-icon-btn" data-action="edit-journal" data-idx="'+realIdx+'">✎ Edit</button>'
+          +'<button class="del-btn" data-action="delete-journal" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>';
+      }
+      html += '</div>';
     });
     return html;
   }
@@ -2012,6 +2052,7 @@
     var page = PAGES[id];
     if(!page){ closeDrawer(); return; }
     stopAudio();
+    stopRecordingIfActive();
     navList.querySelectorAll('.nav-row').forEach(function(el){ el.classList.remove('active'); });
     var btn = navList.querySelector('[data-id="'+id+'"]');
     if(btn) btn.classList.add('active');
@@ -2029,7 +2070,7 @@
     scheduleSave();
   }
 
-  document.getElementById('backBtn').addEventListener('click', function(){ app.classList.remove('detail-open'); app.classList.remove('rail-open'); });
+  document.getElementById('backBtn').addEventListener('click', function(){ app.classList.remove('detail-open'); app.classList.remove('rail-open'); stopRecordingIfActive(); });
 
   function readImg(file, cb){
     var reader = new FileReader();
@@ -2134,12 +2175,6 @@
       state.listeningIdx = (state.listeningIdx+1) % LISTENING_POOL.length;
       state.listeningLookup = null;
       renderDetail();
-    } else if(action === 'add-dict-word'){
-      var dw = document.getElementById('dictWord').value.trim();
-      if(dw){
-        state.customDict.push({word:dw, meaning:aiLookup(dw)});
-        renderDetail();
-      }
     } else if(action === 'gen-speaking'){
       var stxt = document.getElementById('speakingInput').value.trim() || "I think I are good fit for this role because I have lot of experience.";
       state.speakingInput = stxt;
@@ -2153,7 +2188,8 @@
     } else if(action === 'gen-vlog'){
       var scene = document.getElementById('vlogSceneInput').value.trim() || "your everyday moment in Singapore";
       state.vlogSceneInput = scene;
-      state.vlogScriptOutput = {
+      state.vlogScripts.push({
+        scene: scene,
         shots:[
           "Shot 1 (0-3s, hook): \"I did not expect this...\" jump cut into "+scene+".",
           "Shot 2 (3-10s): Establish the setting in one wide shot, natural sound up.",
@@ -2162,12 +2198,38 @@
           "Shot 5 (30-35s, CTA): Direct address to camera, \"Follow for more of my Singapore life.\""
         ],
         caption:"POV: "+scene+" 🇸🇬 #SingaporeLife #EnglishVlog #ExpatDiaries"
-      };
+      });
+      renderDetail();
+    } else if(action === 'edit-vlog-script'){
+      state.vlogScriptEditIdx = Number(el.dataset.idx);
+      renderDetail();
+    } else if(action === 'save-vlog-script'){
+      var vs = state.vlogScripts[el.dataset.idx];
+      var newShots = document.getElementById('editVlogShots').value.split('\n').map(function(s){return s.trim();}).filter(function(s){return s.length;});
+      vs.shots = newShots.length ? newShots : vs.shots;
+      vs.caption = document.getElementById('editVlogCaption').value.trim() || vs.caption;
+      state.vlogScriptEditIdx = null;
+      renderDetail();
+    } else if(action === 'delete-vlog-script'){
+      state.vlogScripts.splice(el.dataset.idx,1);
+      state.vlogScriptEditIdx = null;
       renderDetail();
     } else if(action === 'gen-xhs'){
       var idea = document.getElementById('xhsIdeaInput').value.trim() || "a new spot worth sharing";
       state.xhsIdea = idea;
       state.xhsOutput = {caption:"发现了一个宝藏地方 ✨ "+idea+"。氛围感拉满，拍照也很出片，姐妹们冲！", tags:["#新加坡生活","#探店日记","#今日份分享"]};
+      state.xhsEditing = false;
+      renderDetail();
+    } else if(action === 'edit-xhs-caption'){
+      state.xhsEditing = true;
+      renderDetail();
+    } else if(action === 'save-xhs-caption'){
+      state.xhsOutput.caption = document.getElementById('editXhsCaption').value.trim() || state.xhsOutput.caption;
+      state.xhsEditing = false;
+      renderDetail();
+    } else if(action === 'delete-xhs-caption'){
+      state.xhsOutput = null;
+      state.xhsEditing = false;
       renderDetail();
     } else if(action === 'add-food'){
       var addr = document.getElementById('foodAddress').value.trim();
@@ -2180,6 +2242,16 @@
       }
     } else if(action === 'delete-food'){
       state.foodEntries.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'edit-food'){
+      state.foodEditIdx = Number(el.dataset.idx);
+      renderDetail();
+    } else if(action === 'save-food'){
+      var fe = state.foodEntries[el.dataset.idx];
+      fe.address = document.getElementById('editFoodAddress').value.trim() || fe.address;
+      fe.price = document.getElementById('editFoodPrice').value.trim() || fe.price;
+      fe.review = document.getElementById('editFoodReview').value.trim();
+      state.foodEditIdx = null;
       renderDetail();
     } else if(action === 'travel-style'){
       state.travelStyle = el.dataset.v;
@@ -2361,6 +2433,17 @@
     } else if(action === 'delete-budget'){
       state.budgetEntries.splice(el.dataset.idx,1);
       renderDetail();
+    } else if(action === 'edit-budget'){
+      state.budgetEditIdx = Number(el.dataset.idx);
+      renderDetail();
+    } else if(action === 'save-budget'){
+      var be = state.budgetEntries[el.dataset.idx];
+      be.date = document.getElementById('editBudgetDate').value || be.date;
+      be.cat = document.getElementById('editBudgetCat').value;
+      be.item = document.getElementById('editBudgetItem').value.trim();
+      be.amt = Number(document.getElementById('editBudgetAmt').value) || be.amt;
+      state.budgetEditIdx = null;
+      renderDetail();
     } else if(action === 'add-price'){
       var pitem = document.getElementById('priceItem').value.trim();
       var pstore = document.getElementById('priceStore').value.trim();
@@ -2400,6 +2483,10 @@
       if(rb.finishDate) rb.done = true;
       state.readingEditIdx = null;
       renderDetail();
+    } else if(action === 'delete-book'){
+      state.readingBooks.splice(el.dataset.idx,1);
+      state.readingEditIdx = null;
+      renderDetail();
     } else if(action === 'edit-budget-target'){
       state.editingBudgetTarget = true;
       renderDetail();
@@ -2410,14 +2497,35 @@
       renderDetail();
     } else if(action === 'set-journal-tab'){
       state.journalTab = el.dataset.v;
+      state.journalEditIdx = null;
       renderDetail();
     } else if(action === 'add-journal'){
       var jd = document.getElementById('journalDate').value || new Date().toISOString().slice(0,10);
       var jt = document.getElementById('journalText').value.trim();
       if(jt){
-        state.journal[state.journalTab].push({date:jd, text:jt});
+        state.journal[state.journalTab].push({date:jd, text:jt, photos:state.journalPhotos.slice()});
+        state.journalPhotos = [];
         renderDetail();
       }
+    } else if(action === 'journal-photo-remove-new'){
+      state.journalPhotos.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'journal-edit-photo-remove'){
+      state.journal[state.journalTab][el.dataset.idx].photos.splice(el.dataset.pidx,1);
+      renderDetail();
+    } else if(action === 'edit-journal'){
+      state.journalEditIdx = Number(el.dataset.idx);
+      renderDetail();
+    } else if(action === 'save-journal'){
+      var je = state.journal[state.journalTab][el.dataset.idx];
+      je.date = document.getElementById('journalEditDate').value || je.date;
+      je.text = document.getElementById('journalEditText').value.trim() || je.text;
+      state.journalEditIdx = null;
+      renderDetail();
+    } else if(action === 'delete-journal'){
+      state.journal[state.journalTab].splice(el.dataset.idx,1);
+      state.journalEditIdx = null;
+      renderDetail();
     } else if(action === 'add-notes'){
       var ntext = document.getElementById('notesText').value.trim();
       if(ntext || state.notesPhoto){
@@ -2425,6 +2533,9 @@
         state.notesPhoto = null;
         renderDetail();
       }
+    } else if(action === 'delete-notes'){
+      state.dailyNotes.splice(el.dataset.idx,1);
+      renderDetail();
     } else if(action === 'start-word-game'){
       startWordGame();
     } else if(action === 'answer-quiz'){
@@ -2440,30 +2551,10 @@
     else if(el.dataset.action === 'notes-photo' && el.files[0]){ readImg(el.files[0], function(url){ state.notesPhoto = url; renderDetail(); }); }
     else if(el.dataset.action === 'tj-photo-add' && el.files[0]){ readImg(el.files[0], function(url){ state.travelJournalPhotos.push(url); renderDetail(); }); }
     else if(el.dataset.action === 'tj-edit-photo-add' && el.files[0]){ var tjIdx = el.dataset.idx; readImg(el.files[0], function(url){ state.travelJournal[tjIdx].photos = state.travelJournal[tjIdx].photos || []; state.travelJournal[tjIdx].photos.push(url); renderDetail(); }); }
+    else if(el.dataset.action === 'journal-photo-add' && el.files[0]){ readImg(el.files[0], function(url){ state.journalPhotos.push(url); renderDetail(); }); }
+    else if(el.dataset.action === 'journal-edit-photo-add' && el.files[0]){ var jIdx = el.dataset.idx; readImg(el.files[0], function(url){ var je = state.journal[state.journalTab][jIdx]; je.photos = je.photos || []; je.photos.push(url); renderDetail(); }); }
     else if(el.dataset.action === 'report-input'){ state.readingBooks[el.dataset.idx].report = el.value; }
   });
-
-  var swipeState = { el:null, startX:0, curX:0 };
-  detailBody.addEventListener('pointerdown', function(e){
-    var content = e.target.closest('.swipe-content');
-    if(!content) return;
-    swipeState.el = content; swipeState.startX = e.clientX; swipeState.curX = 0;
-    content.classList.add('dragging');
-  });
-  detailBody.addEventListener('pointermove', function(e){
-    if(!swipeState.el) return;
-    var dx = e.clientX - swipeState.startX;
-    swipeState.curX = Math.max(-80, Math.min(0, dx));
-    swipeState.el.style.transform = 'translateX('+swipeState.curX+'px)';
-  });
-  function endSwipe(){
-    if(!swipeState.el) return;
-    swipeState.el.classList.remove('dragging');
-    swipeState.el.style.transform = swipeState.curX < -40 ? 'translateX(-80px)' : 'translateX(0)';
-    swipeState.el = null;
-  }
-  detailBody.addEventListener('pointerup', endSwipe);
-  detailBody.addEventListener('pointercancel', endSwipe);
 
   var recognitionObj = null, isRecording = false;
   function updateRecordBtnUI(targetId){
@@ -2500,6 +2591,9 @@
       recognitionObj.stop();
       isRecording=false; updateRecordBtnUI(targetId);
     }
+  }
+  function stopRecordingIfActive(){
+    if(isRecording && recognitionObj){ recognitionObj.stop(); isRecording=false; }
   }
 
   /* ---------------- home dashboard ---------------- */
