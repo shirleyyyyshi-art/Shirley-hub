@@ -1,0 +1,2637 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
+<title>Shirley · Personal Growth Hub</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Shirley">
+<meta name="theme-color" content="#ff4d94">
+<style>
+  :root{
+    --bg-page:linear-gradient(160deg, #ffd9ec 0%, #ffe9c9 55%, #e9d4ff 100%); --bg:rgba(255,247,250,0.55); --surface:rgba(255,255,255,0.55); --surface-alt:rgba(255,255,255,0.35);
+    --line:rgba(255,255,255,0.5); --ink:#3a1f26; --muted:#6b4a54; --accent:#ff4d94;
+    --accent-ink:#ffffff; --accent-soft:rgba(255,77,148,0.18); --accent-2:#ffb020; --accent-2-soft:rgba(255,176,32,0.2);
+    --accent-grad:linear-gradient(135deg, #ff4d94, #ffb020);
+    --warn:#e2a63b; --warn-soft:rgba(226,166,59,0.2); --danger:#ff5a5f; --danger-soft:rgba(255,90,95,0.18);
+    --ok:#20c997; --ok-soft:rgba(32,201,151,0.18);
+    --blob-1:#ff8fc7; --blob-2:#ffd166; --blob-3:#c77dff;
+    --shadow:0 30px 60px -30px rgba(120,20,50,0.35); --status-fg:#3a1f26; color-scheme:light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg-page:#1c1014; --bg:#241419; --surface:#2c1920; --surface-alt:#331b23;
+      --line:#452530; --ink:#f7e8ec; --muted:#c79aa6; --accent:#ef6a90;
+      --accent-ink:#241419; --accent-soft:#3d2029; --accent-2:#d9b969; --accent-2-soft:#3a2f1c;
+      --warn:#eab454; --warn-soft:#3c2f16; --danger:#e5615c; --danger-soft:#3a1e1d;
+      --ok:#63c98d; --ok-soft:#183b28;
+      --shadow:0 30px 60px -30px rgba(0,0,0,0.6); --status-fg:#f7e8ec; color-scheme:dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg-page:#1c1014; --bg:#241419; --surface:#2c1920; --surface-alt:#331b23;
+    --line:#452530; --ink:#f7e8ec; --muted:#c79aa6; --accent:#ef6a90;
+    --accent-ink:#241419; --accent-soft:#3d2029; --accent-2:#d9b969; --accent-2-soft:#3a2f1c;
+    --warn:#eab454; --warn-soft:#3c2f16; --danger:#e5615c; --danger-soft:#3a1e1d;
+    --ok:#63c98d; --ok-soft:#183b28;
+    --shadow:0 30px 60px -30px rgba(0,0,0,0.6); --status-fg:#f7e8ec; color-scheme:dark;
+  }
+  :root[data-theme="light"]{
+    --bg-page:#fbeef1; --bg:#fff7f9; --surface:#ffffff; --surface-alt:#fce7ed;
+    --line:#f4d7e0; --ink:#3a1f26; --muted:#8f6672; --accent:#db5079;
+    --accent-ink:#ffffff; --accent-soft:#fbdce6; --accent-2:#c9a24a; --accent-2-soft:#f5ebd2;
+    --warn:#e2a63b; --warn-soft:#fbeacb; --danger:#d6433f; --danger-soft:#f9dcda;
+    --ok:#3fa66b; --ok-soft:#dcf1e4;
+    --shadow:0 30px 60px -30px rgba(120,20,50,0.35); --status-fg:#3a1f26; color-scheme:light;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    margin:0; min-height:100vh; display:flex; flex-direction:column; align-items:center; gap:20px;
+    padding:32px 16px 56px;
+    background:radial-gradient(1200px 500px at 50% -10%, color-mix(in srgb, var(--accent) 12%, transparent), transparent), var(--bg-page);
+    font-family:-apple-system,BlinkMacSystemFont,"SF Pro Rounded","Helvetica Neue",Arial,sans-serif;
+    color:var(--ink);
+    overflow-x:hidden;
+  }
+  svg.defs{ position:absolute; width:0; height:0; }
+
+  .intro{ max-width:420px; text-align:center; }
+  .intro .eyebrow{ font-size:11.5px; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); font-weight:700; margin:0 0 6px; }
+  .intro h1{ font-size:21px; margin:0 0 6px; letter-spacing:-0.01em; text-wrap:balance; }
+  .intro p{ margin:0; font-size:13px; color:var(--muted); line-height:1.5; }
+
+  .phone{
+    position:relative; width:min(390px,92vw); aspect-ratio:390/844; background:var(--bg);
+    border-radius:52px; padding:14px;
+    box-shadow:var(--shadow), 0 0 0 2px color-mix(in srgb, var(--ink) 6%, transparent);
+    border:6px solid color-mix(in srgb, var(--ink) 88%, var(--bg));
+  }
+  .screen{ position:relative; width:100%; height:100%; background:var(--bg); border-radius:36px; overflow:hidden; display:flex; flex-direction:column; }
+  .blob-bg{ position:absolute; inset:0; overflow:hidden; z-index:0; pointer-events:none; }
+  .blob-bg span{ position:absolute; border-radius:50%; filter:blur(38px); opacity:0.6; transition:background .4s ease; }
+  .blob-bg .b1{ width:210px;height:210px; background:var(--blob-1); top:-50px; left:-60px; }
+  .blob-bg .b2{ width:190px;height:190px; background:var(--blob-2); bottom:120px; right:-70px; }
+  .blob-bg .b3{ width:170px;height:170px; background:var(--blob-3); bottom:-70px; left:50px; }
+  .notch{ position:absolute; top:0; left:50%; transform:translateX(-50%); width:34%; height:26px; background:color-mix(in srgb, var(--ink) 88%, var(--bg)); border-radius:0 0 16px 16px; z-index:80; }
+  .statusbar{ position:relative; z-index:1; display:flex; align-items:center; justify-content:space-between; padding:16px 26px 6px; font-size:15px; font-weight:700; color:var(--status-fg); flex:0 0 auto; }
+  .statusbar .icons{ display:flex; align-items:center; gap:5px; }
+
+  .appbar{ position:relative; z-index:1; display:flex; align-items:center; gap:12px; padding:6px 18px 14px; flex:0 0 auto; background:var(--surface); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); border-bottom:1px solid var(--line); }
+  .iconbtn{ width:36px;height:36px; border-radius:11px; border:none; background:var(--surface-alt); display:flex;align-items:center;justify-content:center; cursor:pointer; color:var(--ink); flex:0 0 auto; }
+  .iconbtn svg{ width:18px; height:18px; }
+  .appbar .title{ font-size:17px; font-weight:700; flex:1; }
+  .streak-chip{ display:flex; align-items:center; gap:4px; background:var(--accent-2-soft); color:var(--accent-2); font-weight:700; font-size:12px; padding:6px 10px; border-radius:999px; }
+
+  .content{ position:relative; z-index:1; flex:1; overflow-y:auto; padding:2px 18px 26px; scrollbar-width:none; }
+  .content::-webkit-scrollbar{ display:none; }
+
+  .card, .row-card, .stat, .plan-item, .drawer, .detail, .bio-sheet{ backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); }
+  .card{ background:var(--surface); border:1px solid var(--line); border-radius:20px; padding:16px; }
+  .greet-card{
+    background:linear-gradient(150deg, var(--accent) 0%, color-mix(in srgb, var(--accent) 74%, #7a1230) 100%);
+    color:#fff; border:none; display:flex; align-items:center; gap:14px;
+    box-shadow:0 14px 26px -14px color-mix(in srgb, var(--accent) 60%, transparent);
+  }
+  .greet-card .txt h2{ margin:0 0 3px; font-size:16px; font-weight:700; }
+  .greet-card .txt p{ margin:0; font-size:12px; opacity:.88; }
+
+  .stats-row{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:10px; margin-top:12px; }
+  .stat{ background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:11px 8px; text-align:center; }
+  .stat .num{ font-size:17px; font-weight:800; font-variant-numeric:tabular-nums; display:flex; align-items:center; justify-content:center; gap:3px; }
+  .stat .num.gold{ color:var(--accent-2); }
+  .stat .num.accent{ color:var(--accent); }
+  .stat .lbl{ font-size:10px; color:var(--muted); margin-top:2px; }
+
+  .section-title{ display:flex; align-items:center; justify-content:space-between; margin:16px 2px 8px; }
+  .section-title h3{ font-size:13.5px; margin:0; }
+  .section-title span{ font-size:11px; color:var(--accent); font-weight:700; cursor:pointer; }
+
+  .plan-list{ display:flex; flex-direction:column; gap:8px; }
+  .plan-item{ display:flex; align-items:center; gap:10px; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:9px 12px; font-size:12.5px; }
+  .plan-item .txt{ flex:1; }
+  .plan-item.done .txt{ color:var(--muted); text-decoration:line-through; }
+  .plan-item .tag{ font-size:9.5px; color:var(--muted); background:color-mix(in srgb, var(--ink) 10%, transparent); padding:3px 7px; border-radius:999px; flex:0 0 auto; }
+
+  .quote-card{ margin-top:14px; background:var(--accent-2-soft); border:none; color:var(--ink); }
+  .quote-card p{ margin:0; font-size:12.5px; line-height:1.6; font-style:italic; }
+  .quote-card .who{ margin-top:6px; font-size:11px; color:var(--muted); font-style:normal; font-weight:700; }
+
+  .chk{ width:19px;height:19px; border-radius:7px; border:1.6px solid var(--line); flex:0 0 auto; cursor:pointer; display:flex; align-items:center; justify-content:center; background:var(--surface); }
+  .chk.on{ background:var(--accent-grad); border-color:var(--accent); color:#fff; }
+  .chk.chk-ok.on{ background:var(--ok); border-color:var(--ok); }
+  .chk svg{ width:11px; height:11px; opacity:0; }
+  .chk.on svg{ opacity:1; }
+
+  .del-btn{ width:24px;height:24px; border-radius:8px; border:none; background:transparent; color:var(--muted); cursor:pointer; display:flex; align-items:center; justify-content:center; flex:0 0 auto; }
+  .del-btn:hover{ background:var(--danger-soft); color:var(--danger); }
+
+  .scrim{ position:absolute; inset:0; background:rgba(30,10,20,0.42); opacity:0; pointer-events:none; transition:opacity .28s ease; z-index:60; }
+  .drawer{ position:absolute; top:0; left:0; bottom:0; width:78%; max-width:300px; background:var(--surface); transform:translateX(-105%); transition:transform .32s cubic-bezier(.32,.72,.35,1); z-index:70; display:flex; flex-direction:column; border-radius:0 30px 30px 0; box-shadow:24px 0 50px -30px rgba(0,0,0,0.35); }
+  .app.drawer-open .scrim{ opacity:1; pointer-events:auto; }
+  .app.drawer-open .drawer{ transform:translateX(0); }
+
+  .drawer-head{ display:flex; align-items:center; gap:12px; padding:34px 18px 16px; border-bottom:1px solid var(--line); flex:0 0 auto; cursor:pointer; background:none; border-top:none; border-left:none; border-right:none; width:100%; text-align:left; font:inherit; color:inherit; }
+  .avatar-sm{ width:52px; height:52px; border-radius:50%; flex:0 0 auto; background:var(--accent-soft); }
+  .avatar-lg{ width:96px; height:96px; border-radius:50%; background:var(--accent-soft); }
+  .drawer-head .name{ font-size:16px; font-weight:800; }
+  .drawer-head .role{ font-size:11px; color:var(--muted); margin-top:2px; }
+  .drawer-head .tap-hint{ margin-left:auto; font-size:10px; color:var(--accent); font-weight:700; flex:0 0 auto; }
+
+  .drawer-list{ flex:1; overflow-y:auto; padding:8px 10px 18px; scrollbar-width:none; }
+  .drawer-list::-webkit-scrollbar{ display:none; }
+
+  .nav-row{ display:flex; align-items:center; gap:11px; width:100%; border:none; background:transparent; color:var(--ink); text-align:left; padding:10px 10px; border-radius:13px; font-size:13.5px; font-weight:600; cursor:pointer; font-family:inherit; }
+  .nav-row .emoji{ width:26px;height:26px; border-radius:9px; background:var(--surface-alt); display:flex;align-items:center;justify-content:center; font-size:14px; flex:0 0 auto; }
+  .nav-row .label{ flex:1; }
+  .nav-row .chev{ color:var(--muted); font-size:11px; transition:transform .2s ease; flex:0 0 auto; }
+  .nav-row.active{ background:var(--accent-grad); color:var(--accent-ink); }
+  .nav-row.active .emoji{ background:rgba(255,255,255,0.22); }
+  .nav-row.active .chev{ color:var(--accent-ink); }
+  .nav-row.parent-open .chev{ transform:rotate(90deg); }
+
+  .nav-children{ display:grid; grid-template-rows:0fr; transition:grid-template-rows .24s ease; }
+  .nav-children > div{ overflow:hidden; }
+  .nav-group.open .nav-children{ grid-template-rows:1fr; }
+  .nav-children .nav-row{ padding-left:44px; font-size:12.5px; font-weight:500; }
+  .nav-children .nav-row .emoji{ width:22px;height:22px;font-size:12px; }
+
+  .drawer-foot{ padding:12px 20px 20px; font-size:10px; color:var(--muted); border-top:1px solid var(--line); display:flex; justify-content:space-between; flex:0 0 auto; }
+
+  .rail{ position:absolute; top:50px; left:0; bottom:0; width:56px; background:var(--surface); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); border-right:1px solid var(--line); z-index:50; transform:translateX(-100%); transition:transform .28s ease; display:flex; flex-direction:column; align-items:center; padding:10px 0; gap:6px; overflow-y:auto; scrollbar-width:none; }
+  .rail::-webkit-scrollbar{ display:none; }
+  .app.rail-open .rail{ transform:translateX(0); }
+  .app.rail-open .appbar{ margin-left:56px; }
+  .app.rail-open .content{ margin-left:56px; }
+  .app.rail-open .detail{ left:56px; }
+  .rail-icon{ width:38px; height:38px; border-radius:12px; border:none; background:transparent; display:flex; align-items:center; justify-content:center; font-size:17px; cursor:pointer; color:var(--ink); flex:0 0 auto; }
+  .rail-icon.active{ background:var(--accent-grad); color:var(--accent-ink); }
+  .rail-menu-btn{ width:38px;height:38px; border-radius:12px; border:none; background:var(--surface-alt); display:flex; align-items:center; justify-content:center; cursor:pointer; margin-bottom:6px; flex:0 0 auto; color:var(--ink); }
+
+  .reorder-toggle{ margin:8px 14px 0; border:1px solid var(--line); background:var(--surface-alt); color:var(--accent); font-weight:700; font-size:11px; padding:7px; border-radius:11px; cursor:pointer; text-align:center; }
+  .reorder-btns{ display:flex; flex-direction:column; gap:2px; flex:0 0 auto; }
+  .reorder-btns button{ width:20px; height:15px; border:none; background:var(--surface-alt); color:var(--ink); font-size:9px; border-radius:4px; cursor:pointer; line-height:1; padding:0; }
+
+  .detail{ position:absolute; inset:0; background:var(--bg); display:flex; flex-direction:column; transform:translateX(100%); transition:transform .3s cubic-bezier(.32,.72,.35,1); z-index:40; }
+  .app.detail-open .detail{ transform:translateX(0); }
+  .detail-bar{ display:flex; align-items:center; gap:12px; padding:16px 18px 12px; flex:0 0 auto; }
+  .detail-bar .title{ font-size:15.5px; font-weight:800; flex:1; }
+  .detail-body{ flex:1; overflow-y:auto; padding:2px 18px 30px; scrollbar-width:none; display:flex; flex-direction:column; gap:12px; }
+  .detail-body::-webkit-scrollbar{ display:none; }
+
+  .detail-hero{ background:var(--surface-alt); border-radius:18px; padding:16px; display:flex; align-items:center; gap:12px; }
+  .detail-hero .big-emoji{ width:44px;height:44px; border-radius:13px; background:var(--surface); display:flex;align-items:center;justify-content:center; font-size:22px; flex:0 0 auto; }
+  .detail-hero h4{ margin:0 0 3px; font-size:14px; }
+  .detail-hero p{ margin:0; font-size:11.5px; color:var(--muted); }
+
+  .row-card{ background:var(--surface); border:1px solid var(--line); border-radius:15px; padding:12px 13px; }
+  .row-title{ font-size:13px; font-weight:700; margin:0 0 3px; }
+  .row-sub{ font-size:11.5px; color:var(--muted); margin:0; line-height:1.55; }
+  .row-head{ display:flex; align-items:center; gap:8px; }
+
+  .bar-track{ height:8px; background:var(--surface-alt); border-radius:999px; overflow:hidden; margin-top:8px; }
+  .bar-fill{ height:100%; background:var(--accent-grad); border-radius:999px; }
+
+  .chip-row{ display:flex; gap:6px; flex-wrap:wrap; margin-top:8px; }
+  .chip{ font-size:10px; padding:4px 9px; border-radius:999px; background:var(--accent-soft); color:var(--accent); font-weight:700; }
+  .sel-chip{ font-size:11.5px; padding:6px 11px; border-radius:999px; background:var(--surface-alt); color:var(--ink); border:1px solid var(--line); font-weight:600; cursor:pointer; }
+  .sel-chip.active{ background:var(--accent-grad); color:var(--accent-ink); border-color:var(--accent); }
+
+  .swatch{ width:34px;height:34px; border-radius:10px; flex:0 0 auto; }
+
+  .badge{ font-size:9.5px; font-weight:800; padding:3px 8px; border-radius:999px; letter-spacing:.02em; }
+  .badge.tt{ background:#111; color:#fff; }
+  .badge.xhs{ background:#fe3266; color:#fff; }
+  .badge.yt{ background:#ff0033; color:#fff; }
+
+  .link-btn{ display:inline-flex; align-items:center; gap:4px; font-size:11.5px; font-weight:700; color:var(--accent); background:var(--accent-soft); padding:6px 11px; border-radius:999px; border:none; cursor:pointer; text-decoration:none; margin-top:8px; }
+  .audio-btn{ display:inline-flex; align-items:center; gap:4px; font-size:11px; font-weight:700; color:var(--accent); background:var(--accent-soft); border:none; padding:5px 10px; border-radius:999px; cursor:pointer; flex:0 0 auto; white-space:nowrap; }
+  .refresh-btn{ font-size:11px; font-weight:700; color:var(--accent); background:var(--accent-soft); border:none; padding:5px 10px; border-radius:999px; cursor:pointer; flex:0 0 auto; white-space:nowrap; }
+
+  .field-label{ font-size:11px; font-weight:700; color:var(--muted); margin:0 0 5px; display:block; }
+  .field{ width:100%; border:1px solid var(--line); background:var(--surface); border-radius:11px; padding:9px 11px; font-size:12.5px; color:var(--ink); font-family:inherit; }
+  .field:focus{ outline:2px solid var(--accent); outline-offset:1px; }
+  textarea.field{ resize:vertical; min-height:64px; }
+  .field-row{ display:flex; gap:8px; }
+  .field-row .field{ flex:1; min-width:0; }
+
+  .btn-primary{ width:100%; border:none; background:var(--accent-grad); color:var(--accent-ink); font-weight:700; font-size:13px; padding:10px; border-radius:12px; cursor:pointer; font-family:inherit; }
+  .btn-ghost{ border:1px dashed var(--line); background:transparent; color:var(--muted); font-weight:700; font-size:12px; padding:9px; border-radius:11px; cursor:pointer; font-family:inherit; width:100%; }
+
+  .add-row{ display:flex; gap:8px; }
+  .add-row .field{ flex:1; }
+  .add-row button{ flex:0 0 auto; width:44px; border:none; background:var(--accent-grad); color:var(--accent-ink); border-radius:11px; font-size:18px; font-weight:700; cursor:pointer; }
+
+  .banner{ border-radius:15px; padding:12px 14px; font-size:12px; font-weight:700; display:flex; align-items:center; gap:8px; }
+  .banner.ok{ background:var(--ok-soft); color:var(--ok); }
+  .banner.warn{ background:var(--warn-soft); color:var(--warn); }
+  .banner.danger{ background:var(--danger-soft); color:var(--danger); }
+
+  .thumb{ width:100%; aspect-ratio:4/3; border-radius:13px; object-fit:cover; background:var(--surface-alt); }
+  .upload-label{ display:flex; align-items:center; justify-content:center; gap:6px; border:1.5px dashed var(--line); border-radius:13px; padding:14px; font-size:12px; color:var(--muted); font-weight:700; cursor:pointer; }
+  .upload-label input{ display:none; }
+
+  .voc{ font-weight:700; text-decoration:underline; text-decoration-color:var(--accent); text-underline-offset:2px; }
+  .gem{ font-weight:700; font-style:italic; text-decoration:underline; text-decoration-color:var(--accent-2); text-underline-offset:2px; }
+  .dict-word{ text-decoration:underline dotted; text-decoration-color:var(--accent); text-underline-offset:2px; cursor:pointer; font-weight:700; color:var(--ink); }
+
+  .divider-label{ font-size:11px; font-weight:800; letter-spacing:.06em; text-transform:uppercase; color:var(--accent); margin:2px 0 -2px; }
+
+  .flatlay{ display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+  .flatlay .slot{ aspect-ratio:1/1; border-radius:12px; overflow:hidden; background:var(--surface-alt); display:flex; align-items:center; justify-content:center; font-size:11px; color:var(--muted); text-align:center; padding:6px; font-weight:700; }
+  .flatlay .slot img{ width:100%; height:100%; object-fit:cover; }
+
+  .month-tabs{ display:flex; gap:6px; overflow-x:auto; padding-bottom:2px; }
+  .month-tab{ flex:0 0 auto; font-size:11px; font-weight:700; padding:6px 12px; border-radius:999px; border:1px solid var(--line); background:var(--surface); color:var(--muted); cursor:pointer; white-space:nowrap; }
+  .month-tab.active{ background:var(--accent-grad); color:var(--accent-ink); border-color:var(--accent); }
+
+  .cal-grid{ display:grid; grid-template-columns:repeat(7,1fr); gap:4px; margin-top:8px; }
+  .cal-dow{ font-size:9px; color:var(--muted); text-align:center; font-weight:700; }
+  .cal-cell{ aspect-ratio:1/1; border-radius:8px; background:var(--surface-alt); display:flex; flex-direction:column; align-items:center; justify-content:center; font-size:8px; color:var(--muted); gap:1px; }
+  .cal-cell .d{ font-weight:700; font-size:10px; color:var(--ink); }
+  .cal-cell.spent{ background:var(--accent-grad); color:#fff; }
+  .cal-cell.spent .d{ color:#fff; }
+  .cal-cell.empty{ background:transparent; }
+
+  .legend-row{ display:flex; align-items:center; gap:8px; font-size:11.5px; padding:4px 0; }
+  .photo-gallery{ display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
+  .photo-gallery .photo-item{ position:relative; width:72px; height:72px; flex:0 0 auto; }
+  .photo-gallery .photo-item img{ width:100%; height:100%; object-fit:cover; border-radius:10px; }
+  .photo-gallery .photo-item .rm{ position:absolute; top:-6px; right:-6px; width:20px; height:20px; border-radius:50%; background:var(--danger); color:#fff; border:none; font-size:11px; cursor:pointer; line-height:1; padding:0; }
+  .expense-row{ display:flex; align-items:center; gap:6px; font-size:11px; padding:5px 0; border-bottom:1px solid var(--line); }
+  .expense-row:last-child{ border-bottom:none; }
+  .swipe-row{ position:relative; overflow:hidden; border-radius:15px; margin:6px 0; flex-shrink:0; }
+  .swipe-del{ position:absolute; inset:0; background:var(--danger); color:#fff; display:flex; align-items:center; justify-content:flex-end; padding-right:14px; font-weight:700; font-size:11px; border:none; }
+  .swipe-content{ position:relative; z-index:1; box-sizing:border-box; background:var(--surface); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); border:1px solid var(--line); border-radius:15px; padding:10px 13px; font-size:11.5px; touch-action:pan-y; }
+  .swipe-content.dragging{ transition:none; }
+  .swipe-content:not(.dragging){ transition:transform .2s ease; }
+  .legend-dot{ width:9px;height:9px;border-radius:50%; flex:0 0 auto; }
+  .best-price{ color:var(--ok); font-weight:800; }
+
+  .bio-overlay{ position:absolute; inset:0; background:rgba(30,10,20,0.42); opacity:0; pointer-events:none; transition:opacity .25s ease; z-index:90; display:flex; align-items:flex-end; }
+  .app.bio-open .bio-overlay{ opacity:1; pointer-events:auto; }
+  .bio-sheet{ width:100%; background:var(--surface); border-radius:26px 26px 0 0; padding:22px 22px 30px; transform:translateY(100%); transition:transform .3s cubic-bezier(.32,.72,.35,1); text-align:center; }
+  .app.bio-open .bio-sheet{ transform:translateY(0); }
+  .bio-sheet h3{ margin:12px 0 2px; font-size:16px; }
+  .bio-sheet .sub{ font-size:11.5px; color:var(--accent); font-weight:700; margin:0 0 12px; }
+  .bio-sheet p{ font-size:12.5px; color:var(--muted); line-height:1.6; margin:0 0 16px; }
+  .bio-close{ border:none; background:var(--surface-alt); color:var(--ink); font-weight:700; font-size:12.5px; padding:9px 20px; border-radius:999px; cursor:pointer; }
+
+  .home-indicator{ position:absolute; bottom:8px; left:50%; transform:translateX(-50%); width:120px; height:5px; border-radius:999px; background:color-mix(in srgb, var(--ink) 45%, transparent); z-index:95; }
+
+  .theme-picker{ display:flex; gap:12px; justify-content:center; padding:2px 2px 14px; }
+  .theme-swatch{ width:36px; height:36px; border-radius:50%; border:2px solid transparent; cursor:pointer; padding:0; }
+  .theme-swatch.active{ border-color:var(--ink); }
+  .avatar-picker{ display:flex; gap:10px; overflow-x:auto; padding:4px 2px 10px; justify-content:center; }
+  .avatar-opt{ flex:0 0 auto; width:56px; text-align:center; cursor:pointer; border:none; background:none; font:inherit; color:var(--ink); padding:0; }
+  .avatar-opt svg, .avatar-opt img{ width:52px; height:52px; border-radius:50%; border:2px solid transparent; object-fit:cover; background:var(--accent-soft); display:block; }
+  .avatar-opt.active svg, .avatar-opt.active img{ border-color:var(--accent); }
+  .avatar-opt .lbl{ font-size:9px; margin-top:3px; color:var(--muted); display:block; }
+  .avatar-opt.upload-tile div{ width:52px;height:52px;border-radius:50%; border:1.5px dashed var(--line); display:flex; align-items:center; justify-content:center; font-size:18px; color:var(--muted); margin:0 auto; overflow:hidden; }
+
+  .bio-name-input{ text-align:center; font-size:16px; font-weight:800; border:none; background:transparent; color:var(--ink); width:100%; font-family:inherit; }
+  .bio-name-input:focus{ outline:none; }
+  .bio-textarea{ width:100%; border:1px solid var(--line); border-radius:12px; background:var(--surface-alt); padding:10px; font-size:12.5px; color:var(--muted); line-height:1.6; font-family:inherit; resize:vertical; min-height:70px; text-align:left; margin-top:6px; }
+
+  .pet-card{ display:flex; gap:12px; align-items:center; margin-top:12px; }
+  .pet-face{ font-size:32px; flex:0 0 auto; width:56px;height:56px;border-radius:50%;background:var(--accent-soft);display:flex;align-items:center;justify-content:center; }
+  .pet-meters{ flex:1; min-width:0; }
+  .pet-meter-row{ display:flex; align-items:center; gap:6px; margin-top:4px; font-size:10px; color:var(--muted); }
+  .pet-meter-row .bar-track{ flex:1; margin-top:0; }
+
+  .zombie-lane{ position:relative; height:52px; background:var(--surface-alt); border-radius:14px; overflow:hidden; margin-top:8px; border:1px solid var(--line); }
+  .zombie-lane .base{ position:absolute; top:50%; transform:translate(-50%,-50%); font-size:24px; transition:left .5s ease, opacity .4s ease; }
+  .zombie-lane .zombie{ position:absolute; top:50%; transform:translate(-50%,-50%); font-size:24px; transition:left .35s ease, opacity .4s ease; }
+  .zombie-lane .path{ position:absolute; left:8px; right:8px; top:50%; height:3px; background:var(--line); transform:translateY(-50%); border-radius:2px; }
+  .word-score-row{ display:flex; gap:8px; margin-top:8px; }
+  .word-score-row .stat{ flex:1; padding:8px; }
+  .quiz-prompt{ text-align:center; }
+  .quiz-prompt .word{ font-size:22px; font-weight:800; margin-top:6px; text-wrap:balance; }
+  .quiz-grid{ display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-top:10px; }
+  .quiz-option{ padding:14px 10px; border-radius:14px; border:1px solid var(--line); background:var(--surface); backdrop-filter:blur(18px); -webkit-backdrop-filter:blur(18px); font-size:12.5px; font-weight:700; text-align:center; cursor:pointer; color:var(--ink); font-family:inherit; }
+  .quiz-option.correct{ background:var(--ok-soft); border-color:var(--ok); color:var(--ok); }
+  .quiz-option.wrong{ background:var(--danger-soft); border-color:var(--danger); color:var(--danger); }
+
+  .scene-card{ position:relative; border-radius:20px; overflow:hidden; border:none; color:#fff; min-height:150px; display:flex; align-items:flex-end; }
+  .scene-card svg.bg{ position:absolute; inset:0; width:100%; height:100%; display:block; }
+  .scene-card .txt{ position:relative; z-index:2; padding:16px; width:100%; background:rgba(255,255,255,0.16); backdrop-filter:blur(8px); -webkit-backdrop-filter:blur(8px); border-top:1px solid rgba(255,255,255,0.3); }
+  .scene-card .txt h2, .scene-card .txt p{ text-shadow:0 1px 8px rgba(0,0,0,0.4); }
+  .scene-card .txt h2{ margin:0 0 3px; font-size:16px; font-weight:700; }
+  .scene-card .txt p{ margin:0; font-size:12px; opacity:.95; }
+
+  .record-btn{ width:100%; border:none; border-radius:12px; padding:12px; font-weight:700; font-size:13px; cursor:pointer; font-family:inherit; background:var(--accent-grad); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; gap:6px; }
+  .record-btn.recording{ background:var(--danger); animation:pulse 1.2s infinite; }
+  @keyframes pulse{ 0%,100%{opacity:1;} 50%{opacity:.6;} }
+
+  .edit-icon-btn{ border:none; background:var(--surface-alt); color:var(--accent); font-size:11px; font-weight:700; padding:4px 9px; border-radius:999px; cursor:pointer; flex:0 0 auto; }
+
+  .trophy-gold{ color:#c9932e; }
+  .trophy-silver{ color:#9aa3ad; }
+  .cheapest-price{ color:var(--danger) !important; }
+
+  .journal-tabs{ display:flex; gap:6px; }
+  .journal-tab{ flex:1; text-align:center; font-size:11px; font-weight:700; padding:8px 4px; border-radius:11px; border:1px solid var(--line); background:var(--surface); color:var(--muted); cursor:pointer; }
+  .journal-tab.active{ background:var(--accent-grad); color:var(--accent-ink); border-color:var(--accent); }
+
+  @media (prefers-reduced-motion: reduce){
+    .drawer, .detail, .nav-children, .scrim, .nav-row .chev, .bio-overlay, .bio-sheet{ transition:none !important; }
+    .record-btn.recording{ animation:none !important; }
+  }
+</style>
+</head>
+<body>
+
+<svg class="defs" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fd3d8"/><stop offset="1" stop-color="#bfe6c4"/></linearGradient>
+    <linearGradient id="skyGrad2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6c9a8"/><stop offset="1" stop-color="#f3e0bf"/></linearGradient>
+  </defs>
+  <symbol id="shirley-avatar-sweet" viewBox="0 0 100 100">
+    <circle cx="50" cy="51" r="41" fill="var(--accent-soft)"/>
+    <ellipse cx="49" cy="46" rx="27" ry="29" fill="#2a1a15"/>
+    <circle cx="24" cy="42" r="8.5" fill="#2a1a15"/>
+    <path d="M17 40 q-5 6 -3 13" stroke="#2a1a15" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M19 47 q-4 5 -2 11" stroke="#2a1a15" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <ellipse cx="50" cy="53" rx="21" ry="23" fill="#f6cda4"/>
+    <path d="M31 43 q6 -9 15 -9" stroke="#2a1a15" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+    <path d="M40 47 q4 3 8 0" stroke="#3a2620" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <path d="M58 47 q4 3 8 0" stroke="#3a2620" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <path d="M39 53 q4 4 8 0" stroke="#2b1c17" stroke-width="2.1" fill="none" stroke-linecap="round"/>
+    <path d="M57 53 q4 4 8 0" stroke="#2b1c17" stroke-width="2.1" fill="none" stroke-linecap="round"/>
+    <path d="M35.5 52 l-2.5 -3" stroke="#2b1c17" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M67 52 l2.5 -3" stroke="#2b1c17" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="34" cy="60" rx="5.2" ry="3.4" fill="var(--accent)" opacity="0.45"/>
+    <ellipse cx="66" cy="60" rx="5.2" ry="3.4" fill="var(--accent)" opacity="0.45"/>
+    <path d="M40 62 q10 12 20 0 q-10 5 -20 0 Z" fill="#fff"/>
+    <path d="M40 62 q10 12 20 0" stroke="#b23a55" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <circle cx="31" cy="55" r="2.6" fill="#e7e7ee" stroke="#c9c9d6" stroke-width="0.6"/>
+    <circle cx="30" cy="60" r="1.7" fill="#e7e7ee"/>
+    <circle cx="29.5" cy="64" r="1.3" fill="#e7e7ee"/>
+    <circle cx="69" cy="55" r="2.6" fill="#e7e7ee" stroke="#c9c9d6" stroke-width="0.6"/>
+    <circle cx="70" cy="60" r="1.7" fill="#e7e7ee"/>
+    <circle cx="70.5" cy="64" r="1.3" fill="#e7e7ee"/>
+    <path d="M17 92 q6 -14 20 -14 h26 q14 0 20 14 Z" fill="var(--accent)"/>
+    <circle cx="30" cy="82" r="1.1" fill="#fff" opacity="0.8"/>
+    <circle cx="70" cy="82" r="1.1" fill="#fff" opacity="0.8"/>
+    <circle cx="40" cy="88" r="1" fill="#fff" opacity="0.7"/>
+    <circle cx="60" cy="88" r="1" fill="#fff" opacity="0.7"/>
+  </symbol>
+
+  <symbol id="shirley-avatar-elegant" viewBox="0 0 100 100">
+    <circle cx="50" cy="51" r="41" fill="var(--accent-soft)"/>
+    <path d="M20 60 Q18 30 50 24 Q82 30 80 60 L80 78 Q80 84 74 84 L26 84 Q20 84 20 78 Z" fill="#3a2a20"/>
+    <ellipse cx="50" cy="52" rx="20" ry="22" fill="#f6cda4"/>
+    <path d="M32 42 q6 -7 14 -7" stroke="#3a2a20" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M54 42 q6 -7 14 -7" stroke="#3a2a20" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M39 51 q4 3 8 0" stroke="#2b1c17" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <path d="M57 51 q4 3 8 0" stroke="#2b1c17" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <ellipse cx="35" cy="58" rx="4.2" ry="2.8" fill="var(--accent)" opacity="0.35"/>
+    <ellipse cx="65" cy="58" rx="4.2" ry="2.8" fill="var(--accent)" opacity="0.35"/>
+    <path d="M42 62 q8 5 16 0" stroke="#b23a55" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <circle cx="30" cy="56" r="2" fill="#fdfdfd" stroke="#ddd" stroke-width="0.5"/>
+    <circle cx="70" cy="56" r="2" fill="#fdfdfd" stroke="#ddd" stroke-width="0.5"/>
+    <path d="M20 92 q8 -12 30 -12 h0 q22 0 30 12 Z" fill="#5c4a63"/>
+    <path d="M40 82 q10 6 20 0 l2 8 q-12 5 -24 0 Z" fill="#fff"/>
+  </symbol>
+
+  <symbol id="shirley-avatar-cute" viewBox="0 0 100 100">
+    <circle cx="50" cy="51" r="41" fill="var(--accent-2-soft)"/>
+    <ellipse cx="49" cy="46" rx="26" ry="27" fill="#3a2a20"/>
+    <ellipse cx="16" cy="52" rx="7" ry="10" fill="#3a2a20"/>
+    <ellipse cx="84" cy="52" rx="7" ry="10" fill="#3a2a20"/>
+    <path d="M13 44 q-3 8 2 15" stroke="#3a2a20" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M87 44 q3 8 -2 15" stroke="#3a2a20" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <ellipse cx="50" cy="54" rx="21" ry="22" fill="#f9d3ac"/>
+    <circle cx="39" cy="52" r="4.4" fill="#2b1c17"/>
+    <circle cx="61" cy="52" r="4.4" fill="#2b1c17"/>
+    <circle cx="40.3" cy="50.3" r="1.4" fill="#fff"/>
+    <circle cx="62.3" cy="50.3" r="1.4" fill="#fff"/>
+    <ellipse cx="33" cy="60" rx="5" ry="3.2" fill="var(--accent)" opacity="0.5"/>
+    <ellipse cx="67" cy="60" rx="5" ry="3.2" fill="var(--accent)" opacity="0.5"/>
+    <path d="M44 63 q6 5 12 0" stroke="#b23a55" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M18 92 q7 -13 32 -13 t32 13 Z" fill="var(--accent-2)"/>
+  </symbol>
+
+  <symbol id="shirley-avatar-dorky" viewBox="0 0 100 100">
+    <circle cx="50" cy="51" r="41" fill="var(--accent-soft)"/>
+    <ellipse cx="49" cy="45" rx="25" ry="26" fill="#4a3324"/>
+    <path d="M48 20 q-2 -10 4 -12 q3 6 -1 12" fill="#4a3324"/>
+    <ellipse cx="50" cy="55" rx="20" ry="21" fill="#f6cda4"/>
+    <circle cx="38" cy="52" r="1.8" fill="#2b1c17"/>
+    <circle cx="62" cy="52" r="1.8" fill="#2b1c17"/>
+    <circle cx="38" cy="52" r="7" fill="none" stroke="#5b4636" stroke-width="1.8"/>
+    <circle cx="62" cy="52" r="7" fill="none" stroke="#5b4636" stroke-width="1.8"/>
+    <path d="M45 52 h10" stroke="#5b4636" stroke-width="1.8"/>
+    <circle cx="41" cy="60" r="0.8" fill="#d98a5f" opacity="0.6"/>
+    <circle cx="44" cy="62" r="0.8" fill="#d98a5f" opacity="0.6"/>
+    <circle cx="58" cy="62" r="0.8" fill="#d98a5f" opacity="0.6"/>
+    <circle cx="61" cy="60" r="0.8" fill="#d98a5f" opacity="0.6"/>
+    <ellipse cx="34" cy="61" rx="4" ry="2.6" fill="var(--accent)" opacity="0.4"/>
+    <ellipse cx="66" cy="61" rx="4" ry="2.6" fill="var(--accent)" opacity="0.4"/>
+    <ellipse cx="50" cy="65" rx="4" ry="3.2" fill="#fff" stroke="#b23a55" stroke-width="1.4"/>
+    <path d="M18 92 q8 -12 32 -12 t32 12 Z" fill="var(--accent-2)"/>
+  </symbol>
+</svg>
+
+<div class="intro">
+  <p class="eyebrow">App Demo · v0.4</p>
+  <h1>Shirley&rsquo;s Personal Growth Hub</h1>
+  <p>Tap the menu icon for the sidebar, tap Shirley&rsquo;s avatar for a quick bio, and try any nav item &mdash; to-dos, audio playback, generators and trackers are all live in this prototype.</p>
+</div>
+
+<div class="phone">
+  <div class="screen app" id="app">
+    <div class="notch"></div>
+    <div class="blob-bg"><span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+
+    <div class="statusbar">
+      <span id="clock">10:34</span>
+      <div class="icons">
+        <svg width="18" height="10" viewBox="0 0 18 10" fill="none"><rect x="0" y="6" width="3" height="4" rx="0.5" fill="currentColor"/><rect x="4.5" y="4" width="3" height="6" rx="0.5" fill="currentColor"/><rect x="9" y="2" width="3" height="8" rx="0.5" fill="currentColor"/><rect x="13.5" y="0" width="3" height="10" rx="0.5" fill="currentColor"/></svg>
+        <svg width="15" height="11" viewBox="0 0 15 11" fill="none"><path d="M7.5 10.2C7 10.2 6.5 10 6.15 9.6C5.4 8.75 5.4 7.45 6.15 6.6C6.9 5.75 8.1 5.75 8.85 6.6C9.6 7.45 9.6 8.75 8.85 9.6C8.5 10 8 10.2 7.5 10.2Z" fill="currentColor"/><path d="M3.3 6.2C2.95 6.2 2.62 6.06 2.38 5.8C1.9 5.28 1.9 4.44 2.38 3.92C5.2 0.85 9.8 0.85 12.62 3.92C13.1 4.44 13.1 5.28 12.62 5.8C12.14 6.32 11.36 6.32 10.88 5.8C8.95 3.7 6.05 3.7 4.12 5.8C3.88 6.06 3.55 6.2 3.3 6.2Z" fill="currentColor"/></svg>
+        <svg width="24" height="11" viewBox="0 0 24 11" fill="none"><rect x="0.5" y="0.5" width="20" height="10" rx="2.5" stroke="currentColor"/><rect x="2" y="2" width="15.5" height="7" rx="1.2" fill="currentColor"/><rect x="21.5" y="3.2" width="1.6" height="4.6" rx="0.8" fill="currentColor"/></svg>
+      </div>
+    </div>
+
+    <div class="appbar">
+      <button class="iconbtn" id="menuBtn" aria-label="Open menu">
+        <svg viewBox="0 0 20 20" fill="none"><path d="M3 5.5H17M3 10H17M3 14.5H17" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+      </button>
+      <div class="title">Shirley</div>
+      <div class="streak-chip" id="streakChip">🐰 Mochi 50% fed</div>
+    </div>
+
+    <div class="content" id="homeContent"></div>
+
+    <div class="rail" id="rail"></div>
+
+    <div class="scrim" id="scrim"></div>
+    <div class="drawer" id="drawer">
+      <button class="drawer-head" id="avatarBtn" aria-label="View profile">
+        <span id="drawerAvatarWrap"></span>
+        <div>
+          <div class="name" id="drawerNameLabel">Shirley</div>
+          <div class="role">Personal Growth Hub</div>
+        </div>
+        <span class="tap-hint">tap ›</span>
+      </button>
+      <button class="reorder-toggle" id="reorderToggle">⇅ Reorder Menu</button>
+
+      <nav class="drawer-list" id="navList"></nav>
+
+      <div class="drawer-foot">
+        <span>Running · v0.4 demo</span>
+        <span id="todayShort">Jul 27</span>
+      </div>
+    </div>
+
+    <div class="detail" id="detail">
+      <div class="detail-bar">
+        <button class="iconbtn" id="backBtn" aria-label="Back">
+          <svg viewBox="0 0 20 20" fill="none"><path d="M12.5 4.5L6.5 10L12.5 15.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="title" id="detailTitle">Daily Plan</div>
+      </div>
+      <div class="detail-body" id="detailBody"></div>
+    </div>
+
+    <div class="bio-overlay" id="bioOverlay">
+      <div class="bio-sheet">
+        <div id="bioSheetBody"></div>
+      </div>
+    </div>
+
+    <div class="home-indicator"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var CHECK_ICON = '<svg viewBox="0 0 12 12" fill="none"><path d="M2 6.2L4.7 9L10 3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  var TRASH_ICON = '<svg viewBox="0 0 16 16" fill="none" width="13" height="13"><path d="M3 4.5H13M6.3 4.5V3.2C6.3 2.7 6.7 2.3 7.2 2.3H8.8C9.3 2.3 9.7 2.7 9.7 3.2V4.5M4.4 4.5L4.9 12.3C4.95 13 5.5 13.5 6.2 13.5H9.8C10.5 13.5 11.05 13 11.1 12.3L11.6 4.5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+  function esc(s){ return (s==null?"":String(s)).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+  function attrEsc(s){ return esc(s).replace(/"/g,"&quot;"); }
+  function formatDateEn(dateStr){
+    if(!dateStr) return "";
+    var d = new Date(dateStr+"T00:00:00");
+    if(isNaN(d.getTime())) return dateStr;
+    var months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    return d.getDate()+" "+months[d.getMonth()]+" "+d.getFullYear();
+  }
+  function plainText(html){ var d=document.createElement('div'); d.innerHTML=html; return d.textContent||""; }
+  function row(title, sub){ return '<div class="row-card"><p class="row-title">'+title+'</p><p class="row-sub">'+sub+'</p></div>'; }
+  function bar(label, pct){ return '<div class="row-card"><p class="row-title">'+label+'</p><div class="bar-track"><div class="bar-fill" style="width:'+pct+'%"></div></div></div>'; }
+  function chipRow(list){ return '<div class="chip-row">'+list.map(function(c){return '<span class="chip">'+c+'</span>';}).join('')+'</div>'; }
+  function linkBtn(label, url){ return '<a class="link-btn" href="'+url+'" target="_blank" rel="noopener">'+label+' ↗</a>'; }
+  var audioBtnCounter = 0;
+  function audioBtn(text){ audioBtnCounter++; return '<button class="audio-btn" id="ab'+audioBtnCounter+'" data-action="play-audio" data-tts="'+attrEsc(text)+'">🔊 Play</button>'; }
+  function audioBtnSrc(id){ audioBtnCounter++; return '<button class="audio-btn" id="ab'+audioBtnCounter+'" data-action="play-audio" data-tts-src="'+id+'">🔊 Play</button>'; }
+  function accentToggle(){
+    var html = '<div class="chip-row"><span class="sel-chip'+(state.voiceLang==="en-GB"?" active":"")+'" data-action="set-accent" data-v="en-GB">🇬🇧 British</span><span class="sel-chip'+(state.voiceLang==="en-US"?" active":"")+'" data-action="set-accent" data-v="en-US">🇺🇸 American</span><span class="sel-chip" data-action="toggle-voice-diag">🔍 '+(state.showVoiceDiag?"Hide":"Check")+' My Voices</span></div>';
+    html += voiceDiagPanel();
+    return html;
+  }
+  function voiceDiagPanel(){
+    if(!state.showVoiceDiag) return '';
+    if(!VOICES.length){ return '<p class="row-sub" style="margin-top:8px;">No voices detected. Some browsers only populate this after the page has been open a moment, or after speech has run once — try tapping 🔊 Play, then reopen this panel.</p>'; }
+    var picked = pickVoice(state.voiceLang);
+    var enVoices = VOICES.filter(function(v){ return v.lang && v.lang.toLowerCase().indexOf('en')===0; });
+    var list = (enVoices.length?enVoices:VOICES).map(function(v){
+      var isPicked = picked && v.name===picked.name && v.lang===picked.lang;
+      return '<p class="row-sub" style="margin-top:2px;'+(isPicked?" font-weight:700; color:var(--accent);":"")+'">'+(isPicked?"👉 ":"")+v.name+' <span style="color:var(--muted); font-weight:400;">('+v.lang+', '+(v.localService?"on-device":"network")+')</span></p>';
+    }).join('');
+    var tip = enVoices.length ? "This is what's actually installed, if none of these say Google/Natural/Neural/Enhanced/Premium, the browser only has basic robotic voices and no amount of code here can fix that, better voices have to come from your OS or a paid cloud TTS." : "No English voices found at all, definitely worth trying a different browser.";
+    return '<div class="row-card" style="margin-top:8px;"><p class="row-title">Voices available on this device/browser</p>'+list+'<p class="row-sub" style="margin-top:8px;">'+tip+'</p></div>';
+  }
+  var VOICES = [];
+  function loadVoices(){ VOICES = ('speechSynthesis' in window) ? window.speechSynthesis.getVoices() : []; }
+  if('speechSynthesis' in window){ loadVoices(); window.speechSynthesis.onvoiceschanged = loadVoices; }
+  function pickVoice(lang){
+    var candidates = VOICES.filter(function(v){ return v.lang===lang; });
+    if(!candidates.length){ candidates = VOICES.filter(function(v){ return v.lang && v.lang.indexOf(lang.slice(0,2))===0; }); }
+    var natural = candidates.find(function(v){ return /google|natural|neural|enhanced|premium/i.test(v.name); });
+    if(natural) return natural;
+    var female = candidates.find(function(v){ return /female|woman|samantha|serena|kate|zira|susan|fiona|moira|tessa|karen|victoria/i.test(v.name); });
+    return female || candidates[0] || null;
+  }
+  function splitSentences(text){
+    var m = text.match(/[^.!?]+[.!?]+(\s+|$)/g);
+    if(!m || !m.length) return [text];
+    return m.map(function(s){ return s.trim(); }).filter(function(s){ return s.length; });
+  }
+  var audioState = {playingId:null, paused:false};
+  function resetAudioButtons(){
+    document.querySelectorAll('.audio-btn').forEach(function(b){ if(b.id!==audioState.playingId) b.textContent="🔊 Play"; });
+  }
+  function stopAudio(){
+    if('speechSynthesis' in window) window.speechSynthesis.cancel();
+    audioState.playingId=null; audioState.paused=false;
+    resetAudioButtons();
+  }
+  function toggleAudioButton(el, text){
+    if(!text || !('speechSynthesis' in window)) return;
+    if(audioState.playingId === el.id){
+      if(audioState.paused){ window.speechSynthesis.resume(); audioState.paused=false; el.textContent="⏸ Pause"; }
+      else { window.speechSynthesis.pause(); audioState.paused=true; el.textContent="▶ Resume"; }
+      return;
+    }
+    window.speechSynthesis.cancel();
+    resetAudioButtons();
+    var sentences = splitSentences(text);
+    var v = pickVoice(state.voiceLang);
+    var i = 0;
+    function prosodyFor(sentence, idx){
+      var last = sentence.trim().slice(-1);
+      var words = sentence.trim().split(/\s+/).length;
+      if(last==='?') return {rate:0.95, pitch:1.09};
+      if(last==='!') return {rate:0.98, pitch:1.06};
+      if(words>22) return {rate:0.89, pitch:0.99};
+      var jitter = [0.98,1.0,1.02,1.0][idx%4];
+      return {rate: words<8 ? 0.95 : 0.92, pitch: jitter};
+    }
+    function speakNext(){
+      if(audioState.playingId !== el.id) return;
+      if(i >= sentences.length){
+        audioState.playingId=null; audioState.paused=false;
+        if(document.getElementById(el.id)) el.textContent="🔊 Play";
+        return;
+      }
+      var sentence = sentences[i];
+      var p = prosodyFor(sentence, i);
+      var u = new SpeechSynthesisUtterance(sentence);
+      u.lang = state.voiceLang; if(v) u.voice = v;
+      u.rate = p.rate; u.pitch = p.pitch;
+      var isLast = (i+1) >= sentences.length;
+      i++;
+      u.onend = function(){
+        if(audioState.playingId !== el.id) return;
+        if(isLast){ speakNext(); return; }
+        setTimeout(speakNext, 180);
+      };
+      u.onerror = function(){ audioState.playingId=null; audioState.paused=false; if(document.getElementById(el.id)) el.textContent="🔊 Play"; };
+      window.speechSynthesis.speak(u);
+    }
+    audioState.playingId = el.id; audioState.paused=false;
+    el.textContent = "⏸ Pause";
+    speakNext();
+  }
+  function politeUpgrade(text){
+    var repl = [
+      [/\bvery good\b/gi,"excellent"], [/\ba lot of\b/gi,"a great deal of"], [/\bI think\b/gi,"In my view,"],
+      [/\bkind of\b/gi,"somewhat"], [/\bstuff\b/gi,"materials"], [/\bwanna\b/gi,"want to"], [/\bgonna\b/gi,"going to"],
+      [/\bbig problem\b/gi,"significant challenge"], [/\bhelp(ed)? me a lot\b/gi,"was extremely helpful"],
+      [/\bI are\b/gi,"I am"], [/\bI have lot of\b/gi,"I have extensive"], [/\bgood fit\b/gi,"strong fit"]
+    ];
+    var out = text;
+    repl.forEach(function(r){ out = out.replace(r[0], r[1]); });
+    out = out.charAt(0).toUpperCase()+out.slice(1);
+    if(!/[.!?]$/.test(out.trim())) out = out.trim()+".";
+    return out;
+  }
+  function segCard(time, title, desc, e, cn){
+    return '<div class="row-card"><div style="display:flex; gap:10px;">'
+      +'<div style="width:52px;height:52px;border-radius:11px;background:linear-gradient(135deg, var(--accent-soft), var(--accent-2-soft));display:flex;align-items:center;justify-content:center;font-size:20px;flex:0 0 auto;">'+e+'</div>'
+      +'<div style="flex:1;"><p class="row-sub" style="font-weight:700;color:var(--accent);margin:0;">'+time+'</p><p class="row-title" style="margin:2px 0 3px;">'+title+'</p><p class="row-sub">'+desc+'</p>'
+      + (cn ? '<p class="row-sub" style="margin-top:4px; color:var(--muted);">'+cn+'</p>' : '')
+      + '</div></div></div>';
+  }
+  function travelDur(text){ return '<p class="row-sub" style="text-align:center; margin:0;">↓ '+text+'</p>'; }
+
+  var state = {
+    tasks: [
+      {id:1, text:"Interview Prep", cat:"Career", done:false},
+      {id:2, text:"IHRP Study", cat:"Career", done:false},
+      {id:3, text:"Read the News", cat:"English", done:true},
+      {id:4, text:"Learn New Words", cat:"English", done:false}
+    ],
+    nextTaskId:5,
+
+    palette:"pink",
+    navOrder:[], childOrder:{}, reorderMode:false,
+    petSpecies:"bunny", petBirthDate:"2026-07-21", petPickerOpen:false,
+    avatarChoice:"sweet", avatarCustomPhoto:null,
+    bioName:"Shirley", bioRole:"HR Professional · Singapore",
+    bioText:"7 years in HR. Loves spicy food and meat. Moved to Singapore at 30, building new habits, one day at a time.",
+    voiceLang:"en-GB", showVoiceDiag:false,
+
+    selfIntro:"Hi, I am Shirley, an HR professional with 7 years of experience across talent acquisition and employee relations. I moved to Singapore to grow into a regional HR role, and I am currently sharpening my interview English and preparing for IHRP-CP certification.",
+    interviewCompany:"", interviewRole:"", interviewJd:"", interviewQA:null,
+    interviewFeedbackList:[
+      {company:"PropertyGuru", role:"Senior HRBP", round:"1", interviewDate:"2026-06-10", date:"2026-06-12",
+       self:"Confident on the STAR structure, but rambled on the compensation question.",
+       interviewer:"Strong culture fit, would like more specifics on past hiring metrics.",
+       reflect:"🤖 Keep leaning into what worked — confident on the star structure. For next round, directly address the interviewer's note: strong culture fit, would like more specifics on past hiring metrics. Turn this into one concrete change you'll rehearse before the next interview."}
+    ],
+
+    ihrpVideos:[
+      {t:"IHRP-CP Overview & Exam Format", done:true},
+      {t:"Talent Acquisition Competency Deep-Dive", done:true},
+      {t:"Compensation & Benefits Frameworks", done:false},
+      {t:"Employee Relations Case Studies", done:false},
+      {t:"HR Business Partnering in Practice", done:false}
+    ],
+    ihrpKnowledgeIdx:0,
+    momIdx:0,
+
+    newsLevel:"intermediate",
+
+    vlogSceneInput:"", vlogScriptOutput:null,
+    xhsIdea:"", xhsPhoto:null, xhsOutput:null,
+
+    foodPhoto:null,
+    foodEntries:[
+      {photo:null, address:"328 Katong Laksa, East Coast Rd", price:"S$8", review:"Rich coconut broth, generous cockles, worth the queue."},
+      {photo:null, address:"Chilli Padi Nonya, Joo Chiat", price:"S$26", review:"Ayam buah keluak was fantastic, portions a little small for the price."}
+    ],
+
+    travelAddress:"", travelBudget:"", travelGroup:"2", travelNotes:"", travelStyle:"Balanced", travelInterests:[], travelOutput:null,
+    travelHistory:[],
+    travelJournal:[], travelJournalPhotos:[], travelJournalEditIdx:null,
+
+    readingBooks:[
+      {title:"Atomic Habits", author:"James Clear", lang:"English", startDate:"2026-07-05", finishDate:"", done:false, report:"", copy:null}
+    ],
+    readingEditIdx:null,
+
+    dailyNotes:[
+      {date:"2026-07-20", photo:null, text:"Reviewed phrasal verbs unit 5 and did the listening quiz on 友邻优课."}
+    ],
+    notesPhoto:null,
+
+    closetItems:{Tops:[], Bottoms:[], Shoes:[], Jewelry:[]},
+    closetWeather:"Sunny", closetMood:"Confident", closetOccasion:"Work", closetSuggestion:null,
+
+    budgetEntries:[
+      {date:"2026-06-05", cat:"Meal", item:"Groceries", amt:640},
+      {date:"2026-06-12", cat:"Transport", item:"Grab rides", amt:210},
+      {date:"2026-06-18", cat:"Necessities", item:"Household supplies", amt:1200},
+      {date:"2026-06-25", cat:"Play", item:"Movie night", amt:150},
+      {date:"2026-07-03", cat:"Necessities", item:"New bedsheets", amt:2200},
+      {date:"2026-07-08", cat:"Meal", item:"Groceries + dining out", amt:1800},
+      {date:"2026-07-14", cat:"Transport", item:"MRT top-up", amt:420},
+      {date:"2026-07-19", cat:"Health", item:"Dental checkup", amt:680},
+      {date:"2026-07-24", cat:"Drink", item:"Coffee runs", amt:500}
+    ],
+    budgetTarget:4500,
+    editingBudgetTarget:false,
+    budgetMonth:"2026-07",
+
+    priceEntries:[
+      {item:"Oat Milk (1L)", store:"NTUC promo", price:3.50, date:"2026-05-01"},
+      {item:"Oat Milk (1L)", store:"FairPrice", price:4.50, date:"2026-07-10"},
+      {item:"Oat Milk (1L)", store:"Cold Storage", price:5.20, date:"2026-07-15"},
+      {item:"Oat Milk (1L)", store:"Sheng Siong", price:3.90, date:"2026-07-20"},
+      {item:"Running Shoes", store:"Decathlon", price:69.00, date:"2026-06-28"},
+      {item:"Running Shoes", store:"Foot Locker", price:99.00, date:"2026-07-02"}
+    ],
+
+    speakingInput:"", speakingOutput:null,
+    writingInput:"", writingOutput:null,
+    listeningLookup:null, listeningIdx:0, customDict:[],
+    wordGame:null,
+    rehearsal:null,
+
+    journal:{Daily:[{date:"2026-07-26", text:"Small win today: finished a full mock interview recording without stopping."}], Weekly:[], Monthly:[], Yearly:[]},
+    journalTab:"Daily"
+  };
+
+  var PET_SPECIES = [
+    {id:"bunny", label:"Bunny", emoji:"🐰", name:"Mochi"},
+    {id:"puppy", label:"Puppy", emoji:"🐶", name:"Buddy"},
+    {id:"kitten", label:"Kitten", emoji:"🐱", name:"Luna"},
+    {id:"chick", label:"Chick", emoji:"🐥", name:"Pip"},
+    {id:"panda", label:"Panda", emoji:"🐼", name:"Wangwang"}
+  ];
+
+  var AVATAR_STYLES = [
+    {id:"sweet", label:"Sweet"},
+    {id:"elegant", label:"Elegant"},
+    {id:"cute", label:"Cute"},
+    {id:"dorky", label:"Dorky"}
+  ];
+
+  var PALETTES = {
+    pink:{swatch:"#ff4d94", vars:{
+      "--bg-page":"linear-gradient(160deg, #ffd9ec 0%, #ffe9c9 55%, #e9d4ff 100%)","--bg":"rgba(255,247,250,0.55)","--surface":"rgba(255,255,255,0.55)","--surface-alt":"rgba(255,255,255,0.35)",
+      "--line":"rgba(255,255,255,0.5)","--ink":"#3a1f26","--muted":"#6b4a54","--accent":"#ff4d94","--accent-ink":"#ffffff",
+      "--accent-soft":"rgba(255,77,148,0.18)","--accent-2":"#ffb020","--accent-2-soft":"rgba(255,176,32,0.2)",
+      "--accent-grad":"linear-gradient(135deg, #ff4d94, #ffb020)",
+      "--warn":"#e2a63b","--warn-soft":"rgba(226,166,59,0.2)","--danger":"#ff5a5f","--danger-soft":"rgba(255,90,95,0.18)",
+      "--ok":"#20c997","--ok-soft":"rgba(32,201,151,0.18)","--status-fg":"#3a1f26",
+      "--blob-1":"#ff8fc7","--blob-2":"#ffd166","--blob-3":"#c77dff"
+    }},
+    purple:{swatch:"#8b5cf6", vars:{
+      "--bg-page":"linear-gradient(160deg, #e4d4ff 0%, #ffd6ec 55%, #c3e8ff 100%)","--bg":"rgba(250,247,255,0.55)","--surface":"rgba(255,255,255,0.55)","--surface-alt":"rgba(255,255,255,0.35)",
+      "--line":"rgba(255,255,255,0.5)","--ink":"#2c1a4a","--muted":"#5c4a7a","--accent":"#8b5cf6","--accent-ink":"#ffffff",
+      "--accent-soft":"rgba(139,92,246,0.18)","--accent-2":"#f472b6","--accent-2-soft":"rgba(244,114,182,0.18)",
+      "--accent-grad":"linear-gradient(135deg, #8b5cf6, #f472b6)",
+      "--warn":"#e2a63b","--warn-soft":"rgba(226,166,59,0.2)","--danger":"#ff5a7a","--danger-soft":"rgba(255,90,122,0.18)",
+      "--ok":"#22d3ee","--ok-soft":"rgba(34,211,238,0.18)","--status-fg":"#2c1a4a",
+      "--blob-1":"#c084fc","--blob-2":"#67e8f9","--blob-3":"#f9a8d4"
+    }},
+    night:{swatch:"#a78bfa", vars:{
+      "--bg-page":"linear-gradient(160deg, #0b0a1a 0%, #1c1240 55%, #2a0f30 100%)","--bg":"rgba(20,18,40,0.6)","--surface":"rgba(40,36,70,0.55)","--surface-alt":"rgba(40,36,70,0.35)",
+      "--line":"rgba(255,255,255,0.12)","--ink":"#f2eaff","--muted":"#b3a6d9","--accent":"#a78bfa","--accent-ink":"#150f2e",
+      "--accent-soft":"rgba(167,139,250,0.22)","--accent-2":"#67e8f9","--accent-2-soft":"rgba(103,232,249,0.2)",
+      "--accent-grad":"linear-gradient(135deg, #a78bfa, #67e8f9)",
+      "--warn":"#facc15","--warn-soft":"rgba(250,204,21,0.18)","--danger":"#fb7185","--danger-soft":"rgba(251,113,133,0.18)",
+      "--ok":"#34d399","--ok-soft":"rgba(52,211,153,0.18)","--status-fg":"#f2eaff",
+      "--blob-1":"#5b21b6","--blob-2":"#1e3a8a","--blob-3":"#831843"
+    }},
+    mint:{swatch:"#10b981", vars:{
+      "--bg-page":"linear-gradient(160deg, #c8f7e2 0%, #fef3c7 55%, #bfe4ff 100%)","--bg":"rgba(247,255,251,0.55)","--surface":"rgba(255,255,255,0.55)","--surface-alt":"rgba(255,255,255,0.35)",
+      "--line":"rgba(255,255,255,0.5)","--ink":"#0d3b2e","--muted":"#3f6b5c","--accent":"#10b981","--accent-ink":"#ffffff",
+      "--accent-soft":"rgba(16,185,129,0.18)","--accent-2":"#fb923c","--accent-2-soft":"rgba(251,146,60,0.18)",
+      "--accent-grad":"linear-gradient(135deg, #10b981, #fb923c)",
+      "--warn":"#e2a63b","--warn-soft":"rgba(226,166,59,0.2)","--danger":"#ef4444","--danger-soft":"rgba(239,68,68,0.18)",
+      "--ok":"#0ea5e9","--ok-soft":"rgba(14,165,233,0.18)","--status-fg":"#0d3b2e",
+      "--blob-1":"#5eead4","--blob-2":"#fde68a","--blob-3":"#93c5fd"
+    }}
+  };
+  function applyPalette(name){
+    var p = PALETTES[name] || PALETTES.pink;
+    Object.keys(p.vars).forEach(function(k){ document.documentElement.style.setProperty(k, p.vars[k]); });
+    state.palette = name;
+  }
+
+  var BUDGET_CATS = ["Drink","Health","Meal","Necessities","Play","Snack","Transport"];
+  var TRAVEL_EXPENSE_CATS = ["Food","Transport","Accommodation","Shopping","Activities","Other"];
+  var CURRENCIES = ["SGD","USD","THB","JPY","KRW","EUR","CNY","GBP"];
+  function computeDayTotals(day){
+    var totals = {};
+    (day.expenses||[]).forEach(function(e){ var amt = Number(e.amount)||0; totals[e.currency] = (totals[e.currency]||0)+amt; });
+    return totals;
+  }
+  function computeTripTotals(days){
+    var totals = {};
+    (days||[]).forEach(function(day){
+      var dt = computeDayTotals(day);
+      Object.keys(dt).forEach(function(c){ totals[c] = (totals[c]||0)+dt[c]; });
+    });
+    return totals;
+  }
+  function formatTotals(totals){
+    var keys = Object.keys(totals);
+    if(!keys.length) return "No expenses logged yet";
+    return keys.map(function(c){ return c+" "+totals[c].toFixed(2); }).join("  +  ");
+  }
+  var JOURNAL_TABS = ["Daily","Weekly","Monthly","Yearly"];
+
+  var TRAVEL_DB = {
+    bangkok:{
+      hotels:{"Budget-friendly":"Lub d Bangkok Siam, a social hostel with private rooms, 5 min from BTS Siam",
+        "Comfortable":"Ibis Styles Bangkok Sukhumvit 4, <span class=\"voc\" title=\"CEFR B2\">boutique</span> rooms with a rooftop pool, steps from BTS",
+        "Comfort+":"The Standard, Bangkok Mahanakhon, design hotel with <span class=\"voc\" title=\"CEFR B2\">panoramic</span> city views"},
+      hotelsCn:{"Budget-friendly":"曼谷暹罗Lub d青年旅舍，社交型旅舍带独立房间，距离BTS暹罗站5分钟",
+        "Comfortable":"曼谷素坤逸4号宜必思尚品酒店，精品客房带天台泳池，紧邻BTS",
+        "Comfort+":"曼谷马哈那空标准酒店，设计感十足，可俯瞰城市全景"},
+      food:["Jay Fai, the Michelin-starred street stall famous for crab omelette","Thipsamai Pad Thai, a Bangkok institution since 1966","Chatuchak Weekend Market stalls for mango sticky rice and boat noodles"],
+      foodCn:["泰式一姐（Jay Fai），米其林星级路边摊，招牌蟹肉蛋",
+        "泰迪泰式炒河粉，1966年至今的曼谷老字号",
+        "恰图恰周末市场摊位，芒果糯米饭和船面"],
+      attractions:["Grand Palace & Wat Phra Kaew, best visited right at opening to beat the heat","Wat Arun (Temple of Dawn) across the river at sunset","Chatuchak Weekend Market for shopping and street food","Asiatique The Riverfront for evening river views"],
+      attractionsCn:["大皇宫和玉佛寺，建议开门时段前往避开炎热",
+        "郑王庙（黎明寺），日落时分隔江眺望最美",
+        "恰图恰周末市场，购物和小吃",
+        "河滨夜市，傍晚欣赏河景"]
+    },
+    tokyo:{
+      hotels:{"Budget-friendly":"Nui.Tokyo Central Hostel, a stylish hostel in Asakusa with private rooms",
+        "Comfortable":"Hotel Gracery Shinjuku, reliable mid-range right by Shinjuku station",
+        "Comfort+":"Park Hyatt Tokyo, of Lost in Translation fame, with skyline views"},
+      hotelsCn:{"Budget-friendly":"东京Nui中央旅舍，浅草区风格旅舍，带独立房间",
+        "Comfortable":"新宿格拉斯丽酒店，可靠的中档选择，紧邻新宿站",
+        "Comfort+":"东京柏悦酒店，电影《迷失东京》取景地，可眺望城市天际线"},
+      food:["Ichiran Ramen, solo-booth tonkotsu ramen ordered by ticket machine","Tsukiji Outer Market for a fresh sushi breakfast and street snacks","Nonbei Yokocho in Shibuya, a tiny izakaya alley for skewers and sake"],
+      foodCn:["一兰拉面，独立隔间豚骨拉面，售票机点单",
+        "筑地场外市场，新鲜寿司早餐和街头小吃",
+        "涩谷酩酊横丁，狭窄的居酒屋小巷，串烧配清酒"],
+      attractions:["Senso-ji Temple in Asakusa, best visited early morning","Shibuya Crossing and the Shibuya Sky observation deck","teamLab Planets or Borderless for <span class=\"voc\" title=\"CEFR C1\">immersive</span> digital art","Meiji Shrine, a quiet forested escape near Harajuku"],
+      attractionsCn:["浅草寺，建议清晨前往",
+        "涩谷十字路口和涩谷天空观景台",
+        "teamLab Planets或Borderless沉浸式数字艺术展",
+        "明治神宫，原宿附近的静谧森林"]
+    },
+    seoul:{
+      hotels:{"Budget-friendly":"Hotel Skypark Central Myeongdong, simple and walkable to shopping",
+        "Comfortable":"Lotte Hotel L7 Myeongdong, stylish mid-range with a rooftop bar",
+        "Comfort+":"Four Seasons Hotel Seoul, five-star in the Gwanghwamun area"},
+      hotelsCn:{"Budget-friendly":"明洞Skypark中央酒店，简洁实用，步行可达购物区",
+        "Comfortable":"乐天L7明洞酒店，时尚中档，带天台酒吧",
+        "Comfort+":"首尔四季酒店，光化门区域五星级"},
+      food:["Gwangjang Market for bindaetteok and mayak gimbap","Myeongdong street food alley for tteokbokki, hotteok, and skewers","Baekjeong for Korean BBQ, book ahead on weekends"],
+      foodCn:["广藏市场，绿豆煎饼和麻药紫菜包饭",
+        "明洞小吃街，辣炒年糕、糖饼和串烧",
+        "百丁烤肉，周末建议提前预订"],
+      attractions:["Gyeongbokgung Palace, catch the changing of the guard","Bukchon Hanok Village for traditional architecture","Myeongdong for shopping and skincare","N Seoul Tower at Namsan for sunset views"],
+      attractionsCn:["景福宫，可以看守卫换岗仪式",
+        "北村韩屋村，传统建筑",
+        "明洞，购物和护肤品",
+        "南山首尔塔，日落景观"]
+    }
+  };
+
+  var QUOTES = [
+    {q:"The secret of getting ahead is getting started.", a:"Mark Twain"},
+    {q:"Success is the sum of small efforts, repeated day in and day out.", a:"Robert Collier"},
+    {q:"Do what you can, with what you have, where you are.", a:"Theodore Roosevelt"},
+    {q:"The future belongs to those who believe in the beauty of their dreams.", a:"Eleanor Roosevelt"},
+    {q:"It always seems impossible until it is done.", a:"Nelson Mandela"},
+    {q:"Well done is better than well said.", a:"Benjamin Franklin"},
+    {q:"Opportunities do not happen. You create them.", a:"Chris Grosser"}
+  ];
+
+  var IHRP_KNOWLEDGE = [
+    "Competency Domain: Talent Acquisition covers workforce planning, sourcing strategy, and employer branding.",
+    "IHRP-CP exam tip: expect case-study questions that test how you would apply a competency, not just define it.",
+    "Competency Domain: Learning & Development focuses on training needs analysis and evaluating training ROI.",
+    "Competency Domain: Total Rewards means understanding job evaluation methods like point-factor and market pricing.",
+    "IHRP-CP exam tip: time-box each case study to about 12 minutes so you do not run out of time on the last section."
+  ];
+
+  var MOM_POLICIES = [
+    {en:"Work Pass renewals now require 60 days notice", body:"Employers must submit renewal applications at least 60 days before a Work Pass expires, up from 30 days previously.", cn:"雇主须在工作准证到期前至少 60 天提交续签申请，此前为 30 天。"},
+    {en:"Statutory annual leave minimums", body:"Employees are entitled to at least 7 days of paid annual leave after 3 months of service.", cn:"员工在入职满 3 个月后，享有至少 7 天带薪年假。"},
+    {en:"CPF contribution tiers for PRs", body:"Permanent Residents contribute at graduated CPF rates during their first two years of PR status.", cn:"永久居民在获批身份的头两年，按阶梯比例缴纳公积金。"},
+    {en:"Progressive Wage Model expansion", body:"More sectors, including retail support roles, are now covered under mandatory progressive wage schedules.", cn:"更多行业（包括零售支持岗位）现已纳入强制性渐进式薪金模式。"},
+    {en:"Flexible work request guidelines", body:"Employers must formally consider any employee request for flexible work arrangements under the new Tripartite Guidelines.", cn:"根据新的三方指导原则，雇主必须正式考虑员工提出的弹性工作安排申请。"}
+  ];
+
+  var ECONOMIST = {
+    intermediate:{
+      title:"The Quiet Rise of the Four-Day Week",
+      paras:[
+        'For decades, the five-day working week has felt like a <span class="voc">fixture</span> of modern life. Now, a growing number of companies are testing a four-day model instead, paying staff the same salary for one less day of work.',
+        'Early <span class="voc">trials</span> in Britain and Iceland found that productivity held steady, or even improved, while employees reported better sleep and lower stress. <span class="gem">The results were good enough to persuade sceptics that shorter weeks are not simply a perk, but a serious productivity strategy.</span>',
+        'Critics argue the model suits office jobs more easily than <span class="voc">frontline</span> roles such as retail or healthcare, where someone must always be present. Scheduling four-day shifts across a hospital ward is far trickier than doing so in a marketing team.',
+        'Still, momentum is building. Several governments now fund pilot programmes, and job listings that <span class="voc">advertise</span> a four-day week attract noticeably more applicants than those that do not.',
+        'Whether the idea becomes standard practice or stays a niche <span class="voc">perk</span>, it has already shifted the conversation: employers are asked not just what they pay, but how much of your life they expect in return.'
+      ],
+      cn:"几十年来，五天工作制一直是现代生活理所当然的一部分。如今，越来越多的公司开始尝试四天工作制——员工少工作一天，薪水却不变。英国和冰岛的早期试验发现，生产力保持稳定甚至有所提升，员工的睡眠质量和压力水平也都有所改善。批评者认为，这种模式更适合办公室工作，而非零售、医疗等一线岗位，因为这些岗位必须时刻有人在场。尽管如此，这股势头仍在增长：多国政府已开始资助试点项目，标注“四天工作制”的招聘信息也明显吸引了更多求职者。无论这一理念最终能否成为主流，它都已经改变了讨论的方向——员工关心的不再只是薪水，还有雇主到底想要占用他们生活中的多少时间。",
+      vocab:[
+        {w:"fixture", ipa:"/ˈfɪkstʃər/", pos:"n.", mean:"固定不变的事物；惯例", ex:"Sunday lunch became a fixture of family life.", def:"a person or thing that has become permanently associated with a particular place or situation."},
+        {w:"trial", ipa:"/ˈtraɪəl/", pos:"n.", mean:"试验；试用", ex:"The trial showed a clear drop in stress levels.", def:"a test of the performance, qualities, or suitability of someone or something."},
+        {w:"frontline", ipa:"/ˈfrʌntlaɪn/", pos:"adj.", mean:"一线的；直接面对公众的", ex:"Frontline staff cannot easily work from home.", def:"involving direct contact with customers or the public, rather than administrative work."},
+        {w:"advertise", ipa:"/ˈædvətaɪz/", pos:"v.", mean:"公开宣传；招聘广告中注明", ex:"The listing advertised flexible hours.", def:"to make a fact known publicly, especially to promote a product, service, or job."},
+        {w:"perk", ipa:"/pɜːk/", pos:"n.", mean:"额外福利", ex:"Free lunch is just one of many perks.", def:"an extra benefit gained from a job in addition to salary."}
+      ],
+      gems:[{s:"The results were good enough to persuade sceptics that shorter weeks are not simply a perk, but a serious productivity strategy.", why:"用 not-simply-X-but-Y 的对比结构把研究结论升级为观点，读起来干脆有力。 Uses a not-simply-X-but-Y contrast to turn a finding into a confident claim, crisp and persuasive."}]
+    },
+    upper:{
+      title:"Remote Work and the Erosion of the Office Ladder",
+      paras:[
+        'Junior employees, research increasingly suggests, are the <span class="voc">quiet</span> casualties of remote work. Senior staff, with established networks and reputations, thrive away from the office; newcomers, who once <span class="voc">absorbed</span> norms simply by sitting near experienced colleagues, now struggle to do so through a screen.',
+        '<span class="gem">The office, it turns out, was never just a place to do tasks; it was an informal curriculum, teaching everything from how to phrase an awkward email to when silence in a meeting means disagreement.</span> Without it, that curriculum has to be redesigned deliberately, or it simply disappears.',
+        'Some firms have responded with structured mentorship programmes and mandatory in-person weeks for new hires, treating onboarding as a distinct problem rather than an <span class="voc">afterthought</span>. Others have done nothing, betting that talented juniors will figure it out on their own.',
+        'The early evidence is not encouraging for the second group: promotion rates for remote-first juniors lag behind their office-based peers in several recent studies, even when output metrics look identical.',
+        'The lesson is not that remote work fails, but that it removes a layer of learning that once happened automatically, and companies now have to build that layer back, on purpose.'
+      ],
+      cn:"越来越多研究表明，初级员工是远程办公中悄悄受损的一群人。资深员工凭借已建立的人脉和声誉，在离开办公室后依然如鱼得水；而新人过去只需坐在经验丰富的同事身边就能耳濡目染，如今隔着屏幕却很难做到。事实证明，办公室从来不只是完成任务的场所，它更像一门非正式的课程，教会员工如何措辞一封为难的邮件，或者何时会议中的沉默意味着分歧。少了这门课程，公司要么刻意重新设计它，要么它就会悄然消失。一些公司已经通过结构化导师制度和新人强制到岗周来应对；也有公司什么都没做，赌年轻人能自己摸索出门道。早期数据对后者并不乐观：多项近期研究显示，即便产出指标看起来相同，远程优先的初级员工晋升速度仍落后于在办公室工作的同龄人。这说明远程办公本身并非失败，而是它抽走了曾经自然发生的一层学习——公司现在必须有意识地把这一层补回来。",
+      vocab:[
+        {w:"quiet", ipa:"/ˈkwaɪət/", pos:"adj.", mean:"不为人注意的；悄然的", ex:"They became the quiet casualties of the policy change.", def:"not attracting attention; understated."},
+        {w:"absorb", ipa:"/əbˈzɔːb/", pos:"v.", mean:"吸收；潜移默化地学会", ex:"She absorbed office etiquette just by watching others.", def:"to take in and understand information or an idea gradually."},
+        {w:"afterthought", ipa:"/ˈɑːftəθɔːt/", pos:"n.", mean:"事后才想起的事；次要考虑", ex:"Onboarding was treated as an afterthought.", def:"something not included as part of an original plan and thought of only later."}
+      ],
+      gems:[{s:"The office, it turns out, was never just a place to do tasks; it was an informal curriculum, teaching everything from how to phrase an awkward email to when silence in a meeting means disagreement.", why:"用分号连接两个对照句，再用具体例子把抽象论点落地，是经济学人常见的说理节奏。 A semicolon pivots from claim to metaphor, then concrete examples ground the abstraction, classic Economist rhythm."}]
+    }
+  };
+
+  var ST_FULL = "Resale prices in Singapore’s public housing market eased for a second straight month in June, according to flash estimates from the Housing Board. Analysts point to a wave of new Build-To-Order launches and tighter loan curbs as key drivers behind the slowdown. Demand for larger flats in mature estates remains resilient, even as smaller units see softer bidding. Economists expect prices to stabilise further into the second half of the year, barring any major rate shifts.";
+  var CNA_FULL = "A growing share of companies worldwide are rolling out AI copilots for everyday office tasks, from drafting emails to summarising meetings, according to a new workplace survey. Early adopters report meaningful time savings on routine writing, though many employees say they still double-check AI output before sending it out. Trust remains the biggest barrier: nearly half of respondents worry about factual errors slipping through unnoticed. Companies that paired the rollout with clear usage guidelines saw markedly higher employee confidence in the tools.";
+
+  var LIFE_VOCAB = [
+    {en:"lion", cn:"狮子", emoji:"🦁", def:"a large wild cat with a mane, found in Africa and known as the king of the jungle.", ex:"The lion roared loudly from the top of the rock."},
+    {en:"elephant", cn:"大象", emoji:"🐘", def:"a very large animal with a long trunk and big ears, the largest land mammal.", ex:"The elephant used its trunk to spray water on itself."},
+    {en:"giraffe", cn:"长颈鹿", emoji:"🦒", def:"a tall African animal with a very long neck and legs.", ex:"The giraffe stretched its neck to reach the highest leaves."},
+    {en:"enclosure", cn:"围栏/展区", emoji:"🚧", def:"an area with a fence or wall around it, used to keep animals in a zoo.", ex:"Visitors gathered around the enclosure to watch the tigers."},
+    {en:"feeding time", cn:"喂食时间", emoji:"🍽️", def:"the scheduled time when zoo animals are given their food.", ex:"Feeding time at the penguin pool always draws a crowd."},
+    {en:"zookeeper", cn:"饲养员", emoji:"🧑‍🌾", def:"a person whose job is to look after animals in a zoo.", ex:"The zookeeper explained how she cares for the elephants."},
+    {en:"aquarium", cn:"水族馆", emoji:"🐟", def:"a building where fish and other water animals are kept and shown to the public.", ex:"We watched the sharks glide past the aquarium's glass tunnel."},
+    {en:"souvenir shop", cn:"纪念品商店", emoji:"🎁", def:"a shop that sells small gifts and items to remember a place you visited.", ex:"She bought a stuffed panda from the souvenir shop."}
+  ];
+  var LEVEL_VOCAB = [
+    {w:"articulate", ipa:"/ɑːˈtɪkjəleɪt/", pos:"adj.", cn:"表达清晰的", def:"able to express thoughts and ideas clearly and effectively.", ex:"She is an articulate speaker who explains complex ideas simply."},
+    {w:"leverage", ipa:"/ˈliːvərɪdʒ/", pos:"v.", cn:"利用、借助", def:"to use something you already have to get an advantage or better result.", ex:"We should leverage our network to find new clients."},
+    {w:"mitigate", ipa:"/ˈmɪtɪɡeɪt/", pos:"v.", cn:"减轻、缓和", def:"to make a problem or its effects less severe.", ex:"The new policy aims to mitigate traffic congestion."},
+    {w:"ambiguous", ipa:"/æmˈbɪɡjuəs/", pos:"adj.", cn:"模糊不清的", def:"open to more than one interpretation; not clearly stated.", ex:"The contract wording was ambiguous and caused confusion."},
+    {w:"proactive", ipa:"/ˌproʊˈæktɪv/", pos:"adj.", cn:"积极主动的", def:"acting in advance to deal with an expected problem, rather than reacting after it happens.", ex:"Being proactive about deadlines saves stress later."},
+    {w:"candid", ipa:"/ˈkændɪd/", pos:"adj.", cn:"坦率的", def:"honest and direct, even about things that may be uncomfortable to say.", ex:"I appreciated her candid feedback on my presentation."},
+    {w:"viable", ipa:"/ˈvaɪəbl/", pos:"adj.", cn:"可行的", def:"capable of working successfully; realistic and workable.", ex:"Is remote work still a viable option for this role?"},
+    {w:"reluctant", ipa:"/rɪˈlʌktənt/", pos:"adj.", cn:"不情愿的", def:"unwilling and hesitant to do something.", ex:"He was reluctant to change his usual routine."}
+  ];
+
+  var LISTENING_POOL = [
+    {source:"BBC Learning English style · Intermediate",
+     title:"Singapore’s MRT Network Keeps Growing",
+     transcript:'Singapore’s <span class="dict-word" data-action="lookup-word" data-def="commute (n.) 通勤；上下班往返 &mdash; the journey a person makes regularly between home and work.">commute</span> times have been shrinking as the MRT network expands into new towns. Engineers say the biggest challenge is not laying track, it is managing <span class="dict-word" data-action="lookup-word" data-def="infrastructure (n.) 基础设施 &mdash; the basic physical systems a country or organisation needs to function, such as roads, power and transport.">infrastructure</span> work without disrupting daily services. Ridership has seen a sharp <span class="dict-word" data-action="lookup-word" data-def="surge (n./v.) 激增；剧增 &mdash; a sudden, large increase.">surge</span> on newly opened lines, which has, in turn, eased <span class="dict-word" data-action="lookup-word" data-def="congestion (n.) (交通)拥堵 &mdash; a state of being overcrowded or blocked, especially with traffic.">congestion</span> on the roads above.'},
+    {source:"CNA style · Intermediate",
+     title:"Singapore Hawker Culture, Reimagined",
+     transcript:'A new generation of hawkers is bringing fresh energy to Singapore’s food centres. Many stalls are <span class="dict-word" data-action="lookup-word" data-def="subsidise (v.) 补贴 &mdash; to help pay the costs of something, often to make it more affordable.">subsidised</span> by government grants aimed at keeping rents low. Some have also started to <span class="dict-word" data-action="lookup-word" data-def="diversify (v.) 使多样化 &mdash; to add variety by expanding into new areas.">diversify</span> their menus, blending old recipes with modern twists. Regulars say the biggest change is not the food, but the growing <span class="dict-word" data-action="lookup-word" data-def="footfall (n.) 客流量 &mdash; the number of people entering a shop or area.">footfall</span> from younger diners discovering hawker food for the first time.'},
+    {source:"BBC Learning English style · Upper-Intermediate",
+     title:"The Four-Day Week, Revisited",
+     transcript:'More companies are experimenting with shorter work weeks, and the early data looks promising. Employees report feeling less <span class="dict-word" data-action="lookup-word" data-def="fatigued (adj.) 疲惫的 &mdash; extremely tired, especially after exertion.">fatigued</span> by Friday, and turnover has dropped at several trial firms. Critics remain <span class="dict-word" data-action="lookup-word" data-def="skeptical (adj.) 持怀疑态度的 &mdash; having doubts about whether something is true or will work.">skeptical</span>, arguing the model does not scale to every industry. Still, the trend has clearly gained enough <span class="dict-word" data-action="lookup-word" data-def="momentum (n.) 势头；动力 &mdash; the force that keeps something moving or developing.">momentum</span> to reshape how some companies think about the workweek.'}
+  ];
+
+  var MASTER_DICT = null;
+  function buildMasterDict(){
+    var dict = {};
+    ["intermediate","upper"].forEach(function(lvl){
+      ECONOMIST[lvl].vocab.forEach(function(v){ dict[v.w.toLowerCase()] = v.w+" "+v.ipa+" "+v.pos+" — "+v.mean+" ("+v.def+")"; });
+    });
+    LEVEL_VOCAB.forEach(function(v){ dict[v.w.toLowerCase()] = v.w+" "+v.ipa+" "+v.pos+" — "+v.cn+" ("+v.def+")"; });
+    LIFE_VOCAB.forEach(function(v){ dict[v.en.toLowerCase()] = v.en+" — "+v.def+" ("+v.cn+")"; });
+    LISTENING_POOL.forEach(function(p){
+      var tmp = document.createElement('div'); tmp.innerHTML = p.transcript;
+      tmp.querySelectorAll('.dict-word').forEach(function(sp){
+        var w = sp.textContent.trim().toLowerCase();
+        if(!dict[w]) dict[w] = sp.dataset.def;
+      });
+    });
+    return dict;
+  }
+  function aiLookup(word){
+    if(!MASTER_DICT) MASTER_DICT = buildMasterDict();
+    var key = word.trim().toLowerCase();
+    if(MASTER_DICT[key]) return "🤖 "+MASTER_DICT[key];
+    return "🤖 AI lookup: \""+word+"\" is not in this demo's mini-dictionary yet, in the full app this would call a real dictionary/translation API for an accurate definition.";
+  }
+
+  var NAV = [
+    {id:"plan", label:"Daily Plan", emoji:"📋"},
+    {id:"career", label:"Professional Development", emoji:"💼", children:[
+      {id:"interview", label:"Mock Interview", emoji:"🗣️"},
+      {id:"ihrp", label:"IHRP", emoji:"🎓"},
+      {id:"mom", label:"MOM Policy", emoji:"📜"}
+    ]},
+    {id:"english", label:"English Learning", emoji:"🌍", children:[
+      {id:"news", label:"English News", emoji:"📰"},
+      {id:"vocab", label:"Vocabulary", emoji:"🔤"},
+      {id:"listening", label:"Listening", emoji:"🎧"},
+      {id:"speaking", label:"Speaking", emoji:"🎙️"},
+      {id:"writing", label:"Writing", emoji:"✍️"},
+      {id:"dailynotes", label:"Daily Study Notes", emoji:"📓"},
+      {id:"wordgame", label:"Word Game", emoji:"🧟"}
+    ]},
+    {id:"create", label:"Social Media Creation", emoji:"✨", children:[
+      {id:"vlog", label:"English Vlog Creation", emoji:"🎥"},
+      {id:"xhs", label:"Xiaohongshu Creation", emoji:"📕"}
+    ]},
+    {id:"food", label:"Food Sharing", emoji:"🍜"},
+    {id:"traveltop", label:"Travel", emoji:"✈️", children:[
+      {id:"travel", label:"Travel Plan", emoji:"🗺️"},
+      {id:"traveljournal", label:"Travel Journal", emoji:"📔"}
+    ]},
+    {id:"reading", label:"Reading Plan", emoji:"📚"},
+    {id:"closet", label:"My Closet", emoji:"👗"},
+    {id:"cost", label:"Cost", emoji:"💰", children:[
+      {id:"budget", label:"Monthly Budget", emoji:"📊"},
+      {id:"pricecompare", label:"Price Comparison", emoji:"🏷️"}
+    ]},
+    {id:"review", label:"Journal", emoji:"🖋️"}
+  ];
+  var NAV_BY_ID = {};
+  var CHILD_BY_ID = {};
+  NAV.forEach(function(item){ NAV_BY_ID[item.id] = item; if(item.children){ item.children.forEach(function(c){ CHILD_BY_ID[c.id] = c; }); } });
+  state.navOrder = NAV.map(function(item){ return item.id; });
+  state.childOrder = {};
+  NAV.forEach(function(item){ if(item.children){ state.childOrder[item.id] = item.children.map(function(c){ return c.id; }); } });
+
+  /* ---------------- persistence: versioned save / load / migrate ---------------- */
+  var STORAGE_KEY = 'shirley-app-data';
+  var SCHEMA_VERSION = 1;
+
+  // Add a migration function here whenever SCHEMA_VERSION is bumped in the future.
+  // Each entry transforms the raw saved `data` object from the version before it
+  // into the shape the current code expects, WITHOUT dropping fields it doesn't
+  // recognize yet (so a half-finished migration never wipes real user data).
+  // Example for the future:
+  // var MIGRATIONS = {
+  //   2: function(data){ data.newField = data.newField || "default"; return data; }
+  // };
+  var MIGRATIONS = {};
+
+  function migrateState(saved){
+    var version = saved.__version || 0;
+    var data = saved.data || {};
+    while(version < SCHEMA_VERSION){
+      version++;
+      if(MIGRATIONS[version]){
+        try{ data = MIGRATIONS[version](data); }
+        catch(e){ break; } // a broken migration should never crash the app or lose the raw data
+      }
+    }
+    return data;
+  }
+
+  function loadState(){
+    try{
+      var raw = localStorage.getItem(STORAGE_KEY);
+      if(!raw) return;
+      var saved = JSON.parse(raw);
+      var data = migrateState(saved);
+      Object.keys(data).forEach(function(k){ state[k] = data[k]; });
+    } catch(e){ /* corrupted save — start fresh rather than crash */ }
+  }
+
+  function saveState(){
+    try{
+      localStorage.setItem(STORAGE_KEY, JSON.stringify({__version:SCHEMA_VERSION, data:state}));
+    } catch(e){ /* storage full or unavailable — fail silently, app still works this session */ }
+  }
+  var saveTimer = null;
+  function scheduleSave(){
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(saveState, 500);
+  }
+
+  function exportBackup(){
+    var payload = JSON.stringify({__version:SCHEMA_VERSION, data:state}, null, 2);
+    var blob = new Blob([payload], {type:'application/json'});
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = 'shirley-app-backup-'+new Date().toISOString().slice(0,10)+'.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function(){ URL.revokeObjectURL(url); }, 1000);
+  }
+  function importBackup(file){
+    var reader = new FileReader();
+    reader.onload = function(e){
+      try{
+        var saved = JSON.parse(e.target.result);
+        var data = migrateState(saved);
+        Object.keys(data).forEach(function(k){ state[k] = data[k]; });
+        saveState();
+        applyPalette(state.palette);
+        updateAvatars();
+        renderHome();
+        renderNav();
+        if(currentPageId) renderDetail();
+      } catch(err){ alert('This file could not be read as a Shirley app backup.'); }
+    };
+    reader.readAsText(file);
+  }
+
+  loadState();
+
+  /* ---------------- page renderers ---------------- */
+
+  function pagePlan(){
+    var html = '<div class="row-card"><p class="row-sub">4 core tasks are generated automatically every day. Add your own below, every task can be checked off or deleted.</p></div>';
+    html += '<div class="plan-list" id="taskList">';
+    state.tasks.forEach(function(t){
+      html += '<div class="plan-item'+(t.done?' done':'')+'">'
+        +'<span class="chk'+(t.done?' on':'')+'" data-action="toggle-task" data-id="'+t.id+'">'+CHECK_ICON+'</span>'
+        +'<span class="txt">'+esc(t.text)+'</span>'
+        +'<span class="tag">'+t.cat+'</span>'
+        +'<button class="del-btn" data-action="delete-task" data-id="'+t.id+'">'+TRASH_ICON+'</button>'
+        +'</div>';
+    });
+    html += '</div>';
+    html += '<div class="add-row" style="margin-top:12px;"><input class="field" id="newTaskInput" placeholder="Add a custom task..."/><button data-action="add-task">+</button></div>';
+    return html;
+  }
+
+  function rehearsalSection(){
+    var html = '<div class="divider-label">Interview Rehearsal</div>';
+    if(!state.rehearsal){
+      html += '<div class="row-card"><p class="row-sub">Practice out loud with a mock interviewer — starts with "Tell me about yourself," then moves through the questions generated above.</p>'
+        +'<button class="btn-primary" style="margin-top:8px;" data-action="start-rehearsal">🎤 Start Rehearsal</button></div>';
+      return html;
+    }
+    var r = state.rehearsal;
+    if(r.done){
+      html += '<div class="row-card"><div class="banner ok">🎉 Rehearsal complete — you practiced '+r.questions.length+' question'+(r.questions.length>1?"s":"")+'.</div>'
+        +'<button class="btn-primary" style="margin-top:8px;" data-action="start-rehearsal">Restart Rehearsal</button></div>';
+      return html;
+    }
+    var q = r.questions[r.idx];
+    html += '<div class="row-card"><p class="row-sub">Question '+(r.idx+1)+' of '+r.questions.length+'</p>'
+      +'<div class="row-head" style="margin-top:6px;"><p class="row-title" style="flex:1;">🎙️ "'+esc(q.q)+'"</p>'+audioBtn(q.q)+'</div>'
+      +'<button class="record-btn" id="rehearsalRecordBtn" style="margin-top:10px;" data-action="toggle-record" data-target="rehearsalAnswerBox">🎙 Start Recording</button>'
+      +'<textarea class="field" id="rehearsalAnswerBox" placeholder="Type or record your answer..." style="margin-top:10px;"></textarea>'
+      +'<div class="chip-row" style="margin-top:8px;"><span class="sel-chip" data-action="toggle-rehearsal-model">'+(r.showModel?"Hide":"Show")+' Model Answer</span></div>'
+      + (r.showModel ? '<p class="row-sub" style="margin-top:8px;"><b>Model answer:</b> '+esc(q.modelAnswer)+'</p>' : '')
+      +'<button class="btn-primary" style="margin-top:10px;" data-action="rehearsal-next">'+(r.idx<r.questions.length-1?"Next Question →":"Finish Rehearsal")+'</button>'
+      +'</div>';
+    return html;
+  }
+  function generateReflection(selfFb, interviewerFb){
+    var selfSnippet = selfFb ? selfFb.split(/[.!?]/)[0].trim() : "";
+    var intSnippet = interviewerFb ? interviewerFb.split(/[.!?]/)[0].trim() : "";
+    var out = "🤖 ";
+    if(selfSnippet) out += "Keep leaning into what worked — "+selfSnippet.toLowerCase()+". ";
+    if(intSnippet) out += "For next round, directly address the interviewer's note: "+intSnippet.toLowerCase()+". ";
+    out += "Turn this into one concrete change you'll rehearse before the next interview.";
+    return out;
+  }
+  function pageInterview(){
+    var html = rehearsalSection();
+
+    html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Self-Introduction</p>'+audioBtnSrc('selfIntroBox')+'</div>'
+      +'<p class="row-sub" style="margin:6px 0 8px;">Edit this for each interview, the audio button reads your latest version aloud.</p>'
+      +'<textarea class="field" id="selfIntroBox" rows="5">'+esc(state.selfIntro)+'</textarea></div>';
+
+    html += '<div class="row-card"><p class="row-title">Company &amp; Role Prep</p>'
+      +'<p class="row-sub" style="margin:4px 0 8px;">Add the company, role and JD, get likely questions with suggested answers.</p>'
+      +'<input class="field" id="intCompany" placeholder="Company" value="'+esc(state.interviewCompany)+'" style="margin-bottom:8px;"/>'
+      +'<input class="field" id="intRole" placeholder="Role" value="'+esc(state.interviewRole)+'" style="margin-bottom:8px;"/>'
+      +'<textarea class="field" id="intJd" placeholder="Paste the JD (optional)">'+esc(state.interviewJd)+'</textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-interview">Generate Questions &amp; Answers</button></div>';
+
+    if(state.interviewQA){
+      html += '<div class="row-card"><p class="row-title">Tailored for '+esc(state.interviewQA.role)+' at '+esc(state.interviewQA.company)+'</p>'
+        + state.interviewQA.list.map(function(qa){ return '<div style="margin-top:10px;"><p class="row-sub" style="font-weight:700; color:var(--ink);">Q: '+qa.q+'</p><p class="row-sub" style="margin-top:3px;">A: '+qa.a+'</p></div>'; }).join('')
+        + '</div>';
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">AI-Tailored Self-Introduction</p>'+audioBtn(state.interviewQA.tailoredIntro)+'</div>'
+        +'<p class="row-sub" style="margin-top:6px;">'+state.interviewQA.tailoredIntro+'</p></div>';
+    }
+
+    html += '<div class="divider-label">Feedback Summary</div>';
+    html += '<div class="row-card"><input class="field" id="fbCompany" placeholder="Company" style="margin-bottom:8px;"/>'
+      +'<div class="field-row" style="margin-bottom:8px;"><input class="field" id="fbRole" placeholder="Role" style="flex:1;"/><input class="field" id="fbRound" placeholder="Round, e.g. 2" style="max-width:110px;"/></div>'
+      +'<div class="field-row" style="margin-bottom:8px;"><div style="flex:1;"><p class="field-label">Interview Date</p><input class="field" id="fbInterviewDate" type="date"/></div><div style="flex:1;"><p class="field-label">Feedback Date</p><input class="field" id="fbDate" type="date"/></div></div>'
+      +'<textarea class="field" id="fbSelf" placeholder="Your self-feedback" style="margin-bottom:8px;"></textarea>'
+      +'<textarea class="field" id="fbInterviewer" placeholder="Interviewer feedback"></textarea>'
+      +'<p class="row-sub" style="margin-top:6px;">Reflection is generated automatically from the two feedback fields above.</p>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-feedback">Add Feedback</button></div>';
+
+    state.interviewFeedbackList.slice().reverse().forEach(function(f){
+      var realIdx = state.interviewFeedbackList.indexOf(f);
+      html += '<div class="row-card"><div style="display:flex; align-items:center; gap:8px;"><div style="flex:1;"><p class="row-title">'+esc(f.company)+' · '+esc(f.role)+(f.round?" · Round "+esc(f.round):"")+'</p><p class="row-sub">Interviewed '+(f.interviewDate||"—")+' · Feedback recorded '+f.date+'</p></div><button class="del-btn" data-action="delete-feedback" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>'
+        +'<p class="row-sub" style="margin-top:6px;"><b>Self:</b> '+esc(f.self)+'</p>'
+        +'<p class="row-sub" style="margin-top:4px;"><b>Interviewer:</b> '+esc(f.interviewer)+'</p>'
+        + (f.reflect? '<p class="row-sub" style="margin-top:4px;"><b>Reflection:</b> '+esc(f.reflect)+'</p>' : '')
+        + '</div>';
+    });
+    return html;
+  }
+
+  function pageIhrp(){
+    var watched = state.ihrpVideos.filter(function(v){return v.done;}).length;
+    var pct = Math.round(watched/state.ihrpVideos.length*100);
+    var html = '<div class="row-card"><p class="row-title">IHRP Body of Competencies</p><p class="row-sub">Official framework for the IHRP-CP certification.</p>'
+      + linkBtn("Open ihrp.sg", "https://ihrp.sg/body-of-competencies/") + '</div>';
+    html += bar("IHRP-CP video prep, "+watched+"/"+state.ihrpVideos.length+" watched", pct);
+    html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Today’s IHRP Knowledge Point</p><button class="refresh-btn" data-action="refresh-ihrp">↻ Refresh</button></div>'
+      +'<p class="row-sub" style="margin-top:6px;">'+IHRP_KNOWLEDGE[state.ihrpKnowledgeIdx]+'</p>'
+      +'<p class="row-sub" style="margin-top:6px; color:var(--accent); font-weight:700;">Delivered daily at 8:00 AM (demo preview)</p></div>';
+    html += '<div class="divider-label">Course Videos</div>';
+    html += '<div class="plan-list">';
+    state.ihrpVideos.forEach(function(v,i){
+      html += '<div class="plan-item'+(v.done?' done':'')+'">'
+        +'<span class="chk'+(v.done?' on':'')+'" data-action="toggle-video" data-idx="'+i+'">'+CHECK_ICON+'</span>'
+        +'<span class="txt">'+esc(v.t)+'</span></div>';
+    });
+    html += '</div>';
+    return html;
+  }
+
+  function pageMom(){
+    var p = MOM_POLICIES[state.momIdx];
+    var html = '<div class="row-card"><p class="row-sub">Auto-delivered every morning at 8:00 AM (demo preview) from the Ministry of Manpower.</p>'+linkBtn("Open mom.gov.sg","https://www.mom.gov.sg/")+'</div>';
+    html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Today’s Labor Law Update</p><button class="refresh-btn" data-action="refresh-mom">↻ Refresh</button></div>'
+      +'<p class="row-title" style="margin-top:8px;">'+p.en+'</p>'
+      +'<p class="row-sub">'+p.body+'</p>'
+      +'<p class="row-sub" style="margin-top:6px;">中文翻译：'+p.cn+'</p>'
+      + linkBtn("View Original", "https://www.mom.gov.sg/") + '</div>';
+    return html;
+  }
+
+  function pageNews(){
+    var art = ECONOMIST[state.newsLevel];
+    var html = '<div class="row-card"><p class="row-sub">Delivered daily at 8:00 AM (demo preview), two parts: an Economist reading, then two headlines from ST and CNA (not limited to Singapore topics). Audio can be paused and resumed, pick an accent below.</p>'+accentToggle()+'</div>';
+    html += '<div class="divider-label">Part 1 · The Economist</div>';
+    html += '<div class="chip-row">'
+      +'<span class="sel-chip'+(state.newsLevel==="intermediate"?" active":"")+'" data-action="news-level" data-level="intermediate">Intermediate</span>'
+      +'<span class="sel-chip'+(state.newsLevel==="upper"?" active":"")+'" data-action="news-level" data-level="upper">Upper-Intermediate</span>'
+      +'</div>';
+    html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">'+art.title+'</p>'+audioBtn(art.paras.map(plainText).join(' '))+'</div>'
+      + art.paras.map(function(p){ return '<p class="row-sub" style="margin-top:8px;">'+p+'</p>'; }).join('')
+      + '</div>';
+    html += '<div class="row-card"><p class="row-title">中文翻译</p><p class="row-sub">'+art.cn+'</p></div>';
+    html += '<div class="divider-label">Vocabulary</div>';
+    art.vocab.forEach(function(v){
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1; margin:0;">'+v.w+' <span style="color:var(--muted); font-weight:500;">'+v.ipa+' '+v.pos+'</span></p>'+audioBtn(v.w+". "+v.ex)+'</div>'
+        +'<p class="row-sub" style="margin-top:4px;">'+v.mean+' &mdash; <em>'+v.def+'</em></p>'
+        +'<p class="row-sub" style="margin-top:4px;">e.g. "'+v.ex+'"</p></div>';
+    });
+    html += '<div class="divider-label">Great Sentences</div>';
+    art.gems.forEach(function(g){
+      html += '<div class="row-card"><p class="row-sub" style="font-style:italic;">"'+g.s+'"</p><p class="row-sub" style="margin-top:6px;">'+g.why+'</p></div>';
+    });
+    html += '<div class="divider-label">Part 2 · Straits Times &amp; CNA</div>';
+    html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#c8102e;color:#fff;">The Straits Times</span>'+audioBtn(ST_FULL)+'</div><p class="row-title" style="margin-top:8px;">HDB resale prices ease for second straight month</p><p class="row-sub" style="margin-top:6px;">'+ST_FULL+'</p>'+linkBtn("Read on ST","https://www.straitstimes.com/")+'</div>';
+    html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#000;color:#fff;">CNA</span>'+audioBtn(CNA_FULL)+'</div><p class="row-title" style="margin-top:8px;">Companies race to roll out AI copilots at work</p><p class="row-sub" style="margin-top:6px;">'+CNA_FULL+'</p>'+linkBtn("Read on CNA","https://www.channelnewsasia.com/")+'</div>';
+    return html;
+  }
+
+  function pageVocab(){
+    var html = '<div class="row-card"><p class="row-sub">Two decks are delivered every morning at 9:00 AM (demo preview): real-life scenes, and intermediate/upper-intermediate words, each with audio.</p>'+accentToggle()+'</div>';
+    html += '<div class="divider-label">Life Vocabulary &middot; At the Zoo ('+LIFE_VOCAB.length+' words)</div>';
+    LIFE_VOCAB.forEach(function(w){
+      html += '<div class="row-card"><div class="row-head"><span style="font-size:22px;">'+w.emoji+'</span><p class="row-title" style="flex:1; margin:0;">'+w.en+'</p>'+audioBtn(w.en+". "+w.ex)+'</div>'
+        +'<p class="row-sub" style="margin-top:4px;"><em>'+w.def+'</em> &mdash; '+w.cn+'</p>'
+        +'<p class="row-sub" style="margin-top:4px;">"'+w.ex+'"</p></div>';
+    });
+    html += '<div class="divider-label">Intermediate / Upper-Intermediate ('+LEVEL_VOCAB.length+' words)</div>';
+    LEVEL_VOCAB.forEach(function(w){
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1; margin:0;">'+w.w+' <span style="color:var(--muted); font-weight:500;">'+w.ipa+' '+w.pos+'</span></p>'+audioBtn(w.w+". "+w.ex)+'</div><p class="row-sub" style="margin-top:4px;"><em>'+w.def+'</em> &mdash; '+w.cn+'</p><p class="row-sub" style="margin-top:4px;">"'+w.ex+'"</p></div>';
+    });
+    return html;
+  }
+
+  function pageListening(){
+    var passage = LISTENING_POOL[state.listeningIdx];
+    var html = '<div class="row-card"><p class="row-sub">Delivered daily at 9:00 AM (demo preview).</p></div>';
+    html += '<div class="row-card"><p class="row-title">'+passage.title+'</p><p class="row-sub" style="margin-top:4px;">'+passage.source+', tap any underlined word for its meaning.</p>'+accentToggle()+'</div>';
+    html += '<div class="row-card"><div class="row-head">'+audioBtn(plainText(passage.transcript))+'<button class="refresh-btn" data-action="refresh-listening">↻ Refresh</button></div><p class="row-sub" style="margin-top:8px; line-height:1.7;">'+passage.transcript+'</p></div>';
+    html += '<div class="row-card"><p class="row-title">Word Lookup</p><p class="row-sub">'+(state.listeningLookup||"Tap a word above to see its meaning here.")+'</p></div>';
+    html += '<div class="divider-label">Add Your Own Word</div>';
+    html += '<div class="row-card"><p class="row-sub" style="margin-bottom:8px;">Add a word you spotted in the passage, AI fills in the meaning.</p><input class="field" id="dictWord" placeholder="Word from the passage"/><button class="btn-primary" style="margin-top:8px;" data-action="add-dict-word">🤖 Add with AI Meaning</button></div>';
+    state.customDict.slice().reverse().forEach(function(d){
+      html += row(d.word, d.meaning);
+    });
+    return html;
+  }
+
+  function pageSpeaking(){
+    var supported = !!(window.SpeechRecognition || window.webkitSpeechRecognition);
+    var html = '<div class="row-card"><p class="row-sub">Tap the mic to record, tap again to stop, your speech becomes text below.'+(supported?'':' Live recording is not supported in this browser, type instead.')+'</p>'
+      +'<button class="record-btn" id="recordBtn" data-action="toggle-record">🎙 Start Recording</button>'
+      +'<textarea class="field" id="speakingInput" placeholder="e.g. I think I are good fit for this role because I have lot of experience." style="margin-top:10px;">'+esc(state.speakingInput)+'</textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-speaking">Get AI Feedback</button></div>';
+    if(state.speakingOutput){
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Polished Version</p>'+audioBtn(state.speakingOutput.improved)+'</div>'
+        +'<p class="row-sub" style="margin-top:6px;">'+state.speakingOutput.improved+'</p></div>';
+      html += '<div class="row-card"><p class="row-title">Coaching Notes</p>'
+        + state.speakingOutput.notes.map(function(n){return '<p class="row-sub">• '+n+'</p>';}).join('')
+        + '</div>';
+    }
+    return html;
+  }
+
+  function pageWriting(){
+    var html = '<div class="row-card"><p class="row-sub">Paste your writing, get a more idiomatic version with notes on what changed.</p>'
+      +'<textarea class="field" id="writingInput" placeholder="e.g. I wanna say thanks for helping me a lot with the project.">'+esc(state.writingInput)+'</textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-writing">Make It More Idiomatic</button></div>';
+    if(state.writingOutput){
+      html += row("Improved Version", state.writingOutput.improved);
+      html += '<div class="row-card"><p class="row-title">What Changed</p>'
+        + state.writingOutput.notes.map(function(n){return '<p class="row-sub">• '+n+'</p>';}).join('')
+        + '</div>';
+    }
+    return html;
+  }
+
+  function pageDailyNotes(){
+    var html = '<div class="row-card"><p class="row-sub">Upload today’s notes from 友邻优课, or any course you are following.</p>'
+      +'<label class="upload-label"><input type="file" accept="image/*" data-action="notes-photo"/>📷 '+(state.notesPhoto?"Change photo":"Add a photo")+'</label>';
+    if(state.notesPhoto){ html += '<img class="thumb" style="margin-top:8px;" src="'+state.notesPhoto+'"/>'; }
+    html += '<textarea class="field" id="notesText" placeholder="What did you study today?" style="margin-top:8px;"></textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-notes">Add Entry</button></div>';
+    html += '<div class="divider-label">Study Log</div>';
+    state.dailyNotes.slice().reverse().forEach(function(n){
+      html += '<div class="row-card">'+(n.photo?'<img class="thumb" src="'+n.photo+'"/>':'')+'<p class="row-title" style="margin-top:'+(n.photo?"8px":"0")+';">'+n.date+'</p><p class="row-sub">'+esc(n.text)+'</p></div>';
+    });
+    return html;
+  }
+
+  function shuffleArr(arr){
+    var a = arr.slice();
+    for(var i=a.length-1; i>0; i--){ var j=Math.floor(Math.random()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; }
+    return a;
+  }
+  function buildWordPool(){
+    var pool = [];
+    LIFE_VOCAB.forEach(function(w){ pool.push({en:w.en, cn:w.cn}); });
+    LEVEL_VOCAB.forEach(function(w){ pool.push({en:w.w, cn:w.cn}); });
+    return pool;
+  }
+  function nextQuestion(g){
+    if(g.poolIdx >= g.pool.length){ g.pool = shuffleArr(buildWordPool()); g.poolIdx = 0; }
+    var entry = g.pool[g.poolIdx++];
+    var promptLang = (g.qCount % 2 === 0) ? 'en' : 'cn';
+    g.qCount++;
+    var prompt = promptLang==='en' ? entry.en : entry.cn;
+    var correct = promptLang==='en' ? entry.cn : entry.en;
+    var others = buildWordPool().filter(function(e){ return e.en !== entry.en; });
+    var distractors = shuffleArr(others).slice(0,3).map(function(e){ return promptLang==='en' ? e.cn : e.en; });
+    g.current = {prompt:prompt, promptLang:promptLang, correct:correct, options:shuffleArr([correct].concat(distractors))};
+  }
+  function startWordGame(){
+    var pool = shuffleArr(buildWordPool());
+    state.wordGame = {pool:pool, poolIdx:0, qCount:0, current:null, correct:0, wrong:0, zombieSteps:0, maxSteps:6, hp:6, maxHp:6, over:false, result:null, busy:false, feedback:null};
+    nextQuestion(state.wordGame);
+    renderDetail();
+  }
+  function answerQuestion(optionText){
+    var g = state.wordGame;
+    if(!g || g.over || g.busy) return;
+    g.busy = true;
+    var isCorrect = optionText === g.current.correct;
+    g.feedback = {picked:optionText, correct:isCorrect};
+    if(isCorrect){ g.correct++; g.hp = Math.max(0, g.hp-1); }
+    else { g.wrong++; g.zombieSteps = Math.min(g.maxSteps, g.zombieSteps+1); }
+    renderDetail();
+    setTimeout(function(){
+      if(currentPageId !== 'wordgame') return;
+      if(g.hp<=0){ g.over=true; g.result='win'; }
+      else if(g.zombieSteps>=g.maxSteps){ g.over=true; g.result='eaten'; }
+      else { nextQuestion(g); }
+      g.busy=false; g.feedback=null;
+      renderDetail();
+    }, 700);
+  }
+  function pageWordGame(){
+    var species = PET_SPECIES.find(function(s){ return s.id===state.petSpecies; }) || PET_SPECIES[0];
+    if(!state.wordGame){
+      return '<div class="row-card"><p class="row-title">Word Zombies 🧟</p>'
+        +'<p class="row-sub" style="margin-top:6px;">Pick the matching meaning for each word. Answer right, you hit the zombie. Answer wrong, it takes a step toward '+species.name+'. Defeat it before it reaches your pet.</p>'
+        +'<button class="btn-primary" style="margin-top:10px;" data-action="start-word-game">Start Game</button></div>';
+    }
+    var g = state.wordGame;
+    var rate = (g.correct+g.wrong) ? Math.round(g.correct/(g.correct+g.wrong)*100) : 0;
+    var petIdlePct = 88;
+    var zombiePct = Math.min(petIdlePct, (g.zombieSteps/g.maxSteps)*petIdlePct);
+    var showZombie = !(g.over && g.result==='win');
+    var showPet = !(g.over && g.result==='eaten');
+    var petPct = (g.over && g.result==='win') ? zombiePct : petIdlePct;
+    var html = '<div class="row-card">';
+    html += '<div class="zombie-lane"><div class="path"></div>'
+      + (showZombie ? '<div class="zombie" style="left:'+zombiePct+'%;">🧟</div>' : '')
+      + (showPet ? '<div class="base" style="left:'+petPct+'%;">'+species.emoji+'</div>' : '<div class="base" style="left:'+petIdlePct+'%; opacity:.3;">💨</div>')
+      + '</div>';
+    html += bar("Zombie HP — "+g.hp+"/"+g.maxHp, Math.round(g.hp/g.maxHp*100));
+    html += '<div class="word-score-row"><div class="stat"><div class="num" style="color:var(--ok);">'+g.correct+'</div><div class="lbl">Correct</div></div><div class="stat"><div class="num" style="color:var(--danger);">'+g.wrong+'</div><div class="lbl">Wrong</div></div><div class="stat"><div class="num accent">'+rate+'%</div><div class="lbl">Accuracy</div></div></div>';
+    html += '</div>';
+    if(g.over){
+      var bannerText = g.result==='win' ? '🧟💀 Zombie defeated! '+species.name+' wins with '+rate+'% accuracy.' : '🧟 The zombie reached '+species.name+'... better luck next time.';
+      html += '<div class="banner '+(g.result==='win'?"ok":"danger")+'">'+bannerText+'</div>';
+      html += '<button class="btn-primary" data-action="start-word-game">Play Again</button>';
+    } else if(g.current){
+      html += '<div class="row-card quiz-prompt"><p class="row-sub">'+(g.current.promptLang==='en'?"What does this mean?":"Pick the English word:")+'</p><p class="word">'+esc(g.current.prompt)+'</p></div>';
+      html += '<div class="quiz-grid">';
+      g.current.options.forEach(function(opt){
+        var cls = '';
+        if(g.feedback){
+          if(opt===g.current.correct) cls = 'correct';
+          else if(opt===g.feedback.picked) cls = 'wrong';
+        }
+        html += '<button class="quiz-option '+cls+'" data-action="answer-quiz" data-text="'+attrEsc(opt)+'">'+esc(opt)+'</button>';
+      });
+      html += '</div>';
+    }
+    return html;
+  }
+
+  function viralCard(platformClass, platformName, category, rank, caption, whyEn, whyCn, tipsEn, tipsCn, url){
+    return '<div class="row-card">'
+      +'<div style="display:flex; align-items:center; gap:8px;"><span class="badge '+platformClass+'">'+platformName+'</span><span class="chip">'+category+'</span><span class="chip">'+rank+'</span></div>'
+      +'<p class="row-title" style="margin-top:8px;">'+caption+'</p>'
+      +'<p class="row-sub" style="margin-top:8px; font-weight:700; color:var(--ink);">Why it went viral / 爆火原因</p>'
+      +'<p class="row-sub">'+whyEn+'</p><p class="row-sub">'+whyCn+'</p>'
+      +'<p class="row-sub" style="margin-top:8px; font-weight:700; color:var(--ink);">Creative takeaway / 创作启发</p>'
+      +'<p class="row-sub">'+tipsEn+'</p><p class="row-sub">'+tipsCn+'</p>'
+      + linkBtn("View Original (demo link)", url)
+      +'</div>';
+  }
+
+  function pageVlog(){
+    var html = '<div class="divider-label">Part 1 · Trending Videos</div>';
+    html += '<div class="row-card"><p class="row-sub">Auto-scraped daily at 11:00 AM (demo preview) across TikTok, Xiaohongshu and YouTube, ranked by 24h engagement.</p></div>';
+    html += viralCard("tt","TikTok","Career","#1 Trending",
+      "\"I recorded my English interview answer 20 times, here is what changed\"",
+      "Hook in first 2 seconds, a visible before/after, and a relatable struggle (accent anxiety).",
+      "开头两秒的钩子、明显的前后对比，加上一个有共鸣的困扰（口音焦虑）。",
+      "Show a real rehearsal clip, not just tips, process footage builds trust faster than advice alone.",
+      "展示真实的练习片段而不是单纯讲道理，过程感比单纯建议更容易建立信任。",
+      "https://www.tiktok.com/");
+    html += viralCard("xhs","Xiaohongshu","Lifestyle","#2 Trending",
+      "\"Moved to Singapore alone at 30, day 1 vlog\"",
+      "Strong emotional arc (nervous to relieved) and specific, checkable details (rent, MRT card, first meal).",
+      "情绪弧线明显（紧张到安心），细节具体可核实（房租、地铁卡、第一顿饭）。",
+      "Anchor abstract topics (a big move) in small concrete moments viewers can picture themselves in.",
+      "把抽象话题（搬家）落在观众能代入的具体小瞬间里。",
+      "https://www.xiaohongshu.com/");
+    html += viralCard("yt","YouTube","Education","#1 Trending",
+      "\"IHRP-CP exam: everything I wish I knew before starting\"",
+      "Clear structure (numbered pain points) plus a twist, the biggest mistake was not studying, it was scheduling.",
+      "结构清晰（编号痛点），加上一个反转——最大的错误不是学习方法，而是时间安排。",
+      "A numbered-list structure with one genuine twist keeps retention high without feeling like clickbait.",
+      "编号式结构加一个真实的反转，既能提高完播率又不显得标题党。",
+      "https://www.youtube.com/");
+
+    html += '<div class="divider-label">Part 2 · Script Generator</div>';
+    html += '<div class="row-card"><p class="row-sub">Describe your scene, text, or the gist of a photo/clip, and get an English shot-by-shot script.</p>'
+      +'<textarea class="field" id="vlogSceneInput" placeholder="e.g. Trying laksa for the first time at a hawker centre, reacting to the spice level">'+esc(state.vlogSceneInput)+'</textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-vlog">Generate Script</button></div>';
+    if(state.vlogScriptOutput){
+      html += '<div class="row-card"><p class="row-title">Shot-by-shot Script</p>'
+        + state.vlogScriptOutput.shots.map(function(s){ return '<p class="row-sub">• '+s+'</p>'; }).join('')
+        + '<p class="row-title" style="margin-top:8px;">Caption</p><p class="row-sub">'+state.vlogScriptOutput.caption+'</p></div>';
+    }
+    return html;
+  }
+
+  function pageXhs(){
+    var html = '<div class="row-card"><p class="field-label">Your idea</p>'
+      +'<textarea class="field" id="xhsIdeaInput" placeholder="e.g. New cafe in Tiong Bahru, minimalist interior, great oat milk latte">'+esc(state.xhsIdea)+'</textarea>'
+      +'<p class="field-label" style="margin-top:10px;">Photo</p>'
+      +'<label class="upload-label"><input type="file" accept="image/*" data-action="xhs-photo"/>📷 '+(state.xhsPhoto?"Change photo":"Attach a photo")+'</label>';
+    if(state.xhsPhoto){ html += '<img class="thumb" style="margin-top:8px;" src="'+state.xhsPhoto+'"/>'; }
+    html += '<button class="btn-primary" style="margin-top:10px;" data-action="gen-xhs">Generate Caption</button></div>';
+    if(state.xhsOutput){
+      html += '<div class="row-card"><p class="row-title">Generated Caption</p><p class="row-sub">'+state.xhsOutput.caption+'</p>'
+        + chipRow(state.xhsOutput.tags) + '</div>';
+    }
+    return html;
+  }
+
+  function pageFood(){
+    var html = '<div class="row-card"><p class="field-label">Add a place</p>'
+      +'<label class="upload-label"><input type="file" accept="image/*" data-action="food-photo"/>📷 '+(state.foodPhoto?"Change photo":"Add a photo")+'</label>';
+    if(state.foodPhoto){ html += '<img class="thumb" style="margin-top:8px;" src="'+state.foodPhoto+'"/>'; }
+    html += '<div class="field-row" style="margin-top:8px;"><input class="field" id="foodAddress" placeholder="Address"/><input class="field" id="foodPrice" placeholder="Price, e.g. S$12" style="max-width:110px;"/></div>'
+      +'<textarea class="field" id="foodReview" placeholder="Your review after eating" style="margin-top:8px;"></textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-food">Add</button></div>';
+    html += '<div class="divider-label">Your Food Log</div>';
+    state.foodEntries.forEach(function(f,i){
+      html += '<div class="row-card" style="display:flex; gap:11px; align-items:flex-start;">';
+      html += f.photo ? '<img src="'+f.photo+'" style="width:64px;height:64px;border-radius:11px;object-fit:cover;flex:0 0 auto;"/>' : '<div class="swatch" style="width:64px;height:64px;display:flex;align-items:center;justify-content:center;font-size:22px;">🍽️</div>';
+      html += '<div style="flex:1;"><p class="row-title">'+esc(f.address)+'</p><p class="row-sub">'+esc(f.price)+'</p>'+(f.review? '<p class="row-sub" style="margin-top:3px;">"'+esc(f.review)+'"</p>' : '')+'</div>'
+        +'<button class="del-btn" data-action="delete-food" data-idx="'+i+'">'+TRASH_ICON+'</button></div>';
+    });
+    return html;
+  }
+
+  function pageTravel(){
+    var html = '<div class="row-card"><p class="row-sub">For Bangkok, Tokyo or Seoul this demo gives named hotel, food and attraction picks with Chinese translations, other destinations get a general plan. Bold underlined words mark advanced vocabulary (hover for CEFR level).</p></div>';
+    html += '<div class="row-card"><p class="field-label">Destination</p><input class="field" id="travelAddress" placeholder="e.g. Bangkok, Thailand" value="'+esc(state.travelAddress)+'"/>'
+      +'<div class="field-row" style="margin-top:8px;"><input class="field" id="travelStart" type="date"/><input class="field" id="travelEnd" type="date"/></div>'
+      +'<div class="field-row" style="margin-top:8px;"><input class="field" id="travelBudget" placeholder="Budget (S$)" value="'+esc(state.travelBudget)+'"/><input class="field" id="travelGroup" placeholder="Travelers" value="'+esc(state.travelGroup)+'"/></div>'
+      +'<p class="field-label" style="margin-top:10px;">Style</p><div class="chip-row">'+["Relaxed","Balanced","Packed"].map(function(s){return '<span class="sel-chip'+(state.travelStyle===s?" active":"")+'" data-action="travel-style" data-v="'+s+'">'+s+'</span>';}).join('')+'</div>'
+      +'<p class="field-label" style="margin-top:10px;">Interests</p><div class="chip-row">'+["Food","Culture","Nature","Shopping","Nightlife"].map(function(s){return '<span class="sel-chip'+(state.travelInterests.indexOf(s)>-1?" active":"")+'" data-action="travel-interest" data-v="'+s+'">'+s+'</span>';}).join('')+'</div>'
+      +'<textarea class="field" id="travelNotes" placeholder="Anything else? Dietary needs, must-see spots, pace..." style="margin-top:10px;">'+esc(state.travelNotes)+'</textarea>'
+      +'<button class="btn-primary" style="margin-top:10px;" data-action="gen-travel">Generate Detailed Itinerary</button></div>';
+
+    if(state.travelOutput){
+      var o = state.travelOutput;
+      html += '<div class="row-card"><p class="row-title">'+esc(o.dest)+' · '+o.tier+' · S$'+o.budget+'</p><p class="row-sub">Hotel: '+o.hotel+'</p>'+(o.hotelCn?'<p class="row-sub" style="margin-top:4px; color:var(--muted);">酒店：'+o.hotelCn+'</p>':'')+'</div>';
+      o.days.forEach(function(day){
+        html += '<div class="divider-label">'+day.label+'</div>';
+        day.segs.forEach(function(s){
+          html += segCard(s.time, s.title, s.desc, s.e, s.cn);
+          if(s.after) html += travelDur(s.after);
+        });
+      });
+      html += '<button class="btn-primary" data-action="save-trip">💾 Save This Trip to My Trips</button>';
+    }
+    if(state.travelHistory.length){
+      html += '<div class="divider-label">My Trips</div>';
+      state.travelHistory.slice().reverse().forEach(function(t){
+        var realIdx = state.travelHistory.indexOf(t);
+        html += '<div class="row-card"><div style="display:flex; align-items:center; gap:10px;"><div style="flex:1;"><p class="row-title">'+esc(t.dest)+' · '+t.tier+'</p><p class="row-sub">S$'+t.budget+' · '+(t.days?t.days.length:0)+'-day plan · saved '+formatDateEn(t.savedDate)+'</p></div><button class="del-btn" data-action="delete-trip" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>'
+          +'<div class="chip-row" style="margin-top:8px;"><span class="sel-chip" data-action="toggle-trip-detail" data-idx="'+realIdx+'">'+(t.expanded?"Hide":"View")+' Full Itinerary</span></div>';
+        if(t.expanded){
+          html += '<p class="row-sub" style="margin-top:8px;">Hotel: '+t.hotel+'</p>'+(t.hotelCn?'<p class="row-sub" style="margin-top:2px; color:var(--muted);">酒店：'+t.hotelCn+'</p>':'');
+          (t.days||[]).forEach(function(day){
+            html += '<div class="divider-label" style="margin-top:8px;">'+day.label+'</div>';
+            day.segs.forEach(function(s){
+              html += segCard(s.time, s.title, s.desc, s.e, s.cn);
+              if(s.after) html += travelDur(s.after);
+            });
+          });
+        }
+        html += '<button class="link-btn" style="margin-top:8px;" data-action="paste-to-journal" data-idx="'+realIdx+'">📋 Paste to Travel Journal</button></div>';
+      });
+    }
+    return html;
+  }
+
+  function photoGallery(photos, removeAction, removeDataAttrs){
+    if(!photos || !photos.length) return '';
+    return '<div class="photo-gallery">' + photos.map(function(p,i){
+      var rm = removeAction ? '<button class="rm" data-action="'+removeAction+'" '+removeDataAttrs+' data-pidx="'+i+'">✕</button>' : '';
+      return '<div class="photo-item"><img src="'+p+'"/>'+rm+'</div>';
+    }).join('') + '</div>';
+  }
+  function pageTravelJournal(){
+    var html = '<div class="row-card"><p class="row-sub" style="margin-bottom:8px;">Log a trip you actually took — location, dates, spend, and photos.</p>'
+      +'<input class="field" id="tjLocation" placeholder="Location" style="margin-bottom:8px;"/>'
+      +'<div class="field-row" style="margin-bottom:8px;"><input class="field" id="tjDate" type="date"/><input class="field" id="tjExpense" placeholder="Expense (S$)"/></div>'
+      +'<label class="upload-label"><input type="file" accept="image/*" data-action="tj-photo-add"/>📷 Add a travel photo</label>'
+      + photoGallery(state.travelJournalPhotos, 'tj-photo-remove-new', '');
+    html += '<textarea class="field" id="tjNotes" placeholder="Notes (optional)" style="margin-top:8px;"></textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-journal-entry">Add Entry</button></div>';
+
+    html += '<div class="divider-label">My Travel Journal</div>';
+    state.travelJournal.slice().reverse().forEach(function(t){
+      var realIdx = state.travelJournal.indexOf(t);
+      html += '<div class="row-card">';
+      if(state.travelJournalEditIdx === realIdx){
+        html += photoGallery(t.photos, 'tj-edit-photo-remove', 'data-idx="'+realIdx+'"')
+          +'<label class="upload-label" style="margin-top:8px; margin-bottom:8px;"><input type="file" accept="image/*" data-action="tj-edit-photo-add" data-idx="'+realIdx+'"/>📷 Add another travel photo</label>'
+          +'<input class="field" id="tjEditLocation" value="'+attrEsc(t.location)+'" style="margin-bottom:8px;"/>'
+          +'<div class="field-row" style="margin-bottom:8px;"><input class="field" id="tjEditDate" type="date" value="'+(t.date||"")+'"/><input class="field" id="tjEditExpense" value="'+attrEsc(t.expense)+'"/></div>'
+          +'<textarea class="field" id="tjEditNotes">'+esc(t.notes||"")+'</textarea>';
+        if(t.fullItinerary){
+          html += '<div class="divider-label" style="margin-top:10px;">Edit Itinerary</div>';
+          (t.fullItinerary.days||[]).forEach(function(day, di){
+            html += '<div class="row-card" style="margin-top:8px;"><input class="field" id="itDay_'+realIdx+'_'+di+'" value="'+attrEsc(day.label)+'" style="font-weight:700; margin-bottom:8px;"/>';
+            day.segs.forEach(function(seg, si){
+              html += '<div class="field-row" style="margin-bottom:6px;"><input class="field" id="itTime_'+realIdx+'_'+di+'_'+si+'" value="'+attrEsc(seg.time)+'" style="max-width:90px;"/><input class="field" id="itTitle_'+realIdx+'_'+di+'_'+si+'" value="'+attrEsc(seg.title)+'"/></div>'
+                +'<textarea class="field" id="itDesc_'+realIdx+'_'+di+'_'+si+'" style="margin-bottom:8px;">'+esc(seg.desc)+'</textarea>';
+            });
+            html += '</div>';
+          });
+        }
+        html += '<button class="btn-primary" style="margin-top:8px;" data-action="save-journal-entry" data-idx="'+realIdx+'">Save</button>';
+      } else {
+        html += photoGallery(t.photos, null, '')
+          +'<div style="display:flex; align-items:center; gap:8px; margin-top:'+(t.photos&&t.photos.length?"8px":"0")+';"><div style="flex:1;"><p class="row-title">'+esc(t.location)+'</p><p class="row-sub">'+formatDateEn(t.date)+' · S$'+esc(t.expense)+'</p>'+(t.notes?'<p class="row-sub" style="margin-top:4px;">'+esc(t.notes)+'</p>':'')+'</div>'
+          +'<button class="edit-icon-btn" data-action="edit-journal-entry" data-idx="'+realIdx+'">✎ Edit</button>'
+          +'<button class="del-btn" data-action="delete-journal-entry" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>';
+        if(!t.photos || !t.photos.length){ html += '<p class="row-sub" style="margin-top:6px; font-style:italic;">No travel photos yet — tap ✎ Edit to add some.</p>'; }
+        if(t.fullItinerary){
+          html += '<div class="chip-row" style="margin-top:8px;"><span class="sel-chip" data-action="toggle-journal-itinerary" data-idx="'+realIdx+'">'+(t.itineraryOpen?"Hide":"View")+' Full Itinerary</span></div>';
+          if(t.itineraryOpen){
+            html += '<p class="row-sub" style="margin-top:8px;">Hotel: '+t.fullItinerary.hotel+'</p>'+(t.fullItinerary.hotelCn?'<p class="row-sub" style="margin-top:2px; color:var(--muted);">酒店：'+t.fullItinerary.hotelCn+'</p>':'');
+            (t.fullItinerary.days||[]).forEach(function(day, di){
+              html += '<div class="divider-label" style="margin-top:8px;">'+day.label+'</div>';
+              day.segs.forEach(function(s){
+                html += segCard(s.time, s.title, s.desc, s.e, s.cn);
+                if(s.after) html += travelDur(s.after);
+              });
+              html += '<div class="row-card" style="margin-top:6px;"><p class="row-title">💰 Day Expenses</p>';
+              (day.expenses||[]).forEach(function(exp, ei){
+                html += '<div class="expense-row"><span style="flex:0 0 auto; color:var(--muted);">'+esc(exp.time||"")+'</span><span class="chip">'+esc(exp.category)+'</span><span style="flex:1;">'+esc(exp.item)+'</span><span style="font-weight:700; flex:0 0 auto;">'+esc(exp.currency)+' '+Number(exp.amount).toFixed(2)+'</span><button class="del-btn" data-action="delete-day-expense" data-tidx="'+realIdx+'" data-dayidx="'+di+'" data-eidx="'+ei+'">'+TRASH_ICON+'</button></div>';
+              });
+              html += '<div class="field-row" style="margin-top:8px;"><input class="field" id="expTime_'+realIdx+'_'+di+'" placeholder="Time" style="max-width:70px;"/><select class="field" id="expCat_'+realIdx+'_'+di+'">'+TRAVEL_EXPENSE_CATS.map(function(c){return '<option>'+c+'</option>';}).join('')+'</select></div>'
+                +'<input class="field" id="expItem_'+realIdx+'_'+di+'" placeholder="Item" style="margin-top:6px;"/>'
+                +'<div class="field-row" style="margin-top:6px;"><select class="field" id="expCur_'+realIdx+'_'+di+'" style="max-width:90px;">'+CURRENCIES.map(function(c){return '<option>'+c+'</option>';}).join('')+'</select><input class="field" id="expAmt_'+realIdx+'_'+di+'" placeholder="Amount"/></div>'
+                +'<button class="btn-primary" style="margin-top:8px;" data-action="add-day-expense" data-tidx="'+realIdx+'" data-dayidx="'+di+'">Add Expense</button>'
+                +'<p class="row-sub" style="margin-top:8px; font-weight:700;">Day total: '+formatTotals(computeDayTotals(day))+'</p>'
+                +'</div>';
+            });
+            html += '<div class="banner ok" style="margin-top:8px;">💰 Trip total: '+formatTotals(computeTripTotals(t.fullItinerary.days))+'</div>';
+          }
+        }
+      }
+      html += '</div>';
+    });
+    return html;
+  }
+
+  function pageReading(){
+    var html = '<div class="row-card"><div class="field-row"><input class="field" id="bookTitle" placeholder="Title"/><input class="field" id="bookAuthor" placeholder="Author"/></div>'
+      +'<div class="field-row" style="margin-top:8px;"><select class="field" id="bookLang"><option>English</option><option>Chinese</option></select></div>'
+      +'<div class="field-row" style="margin-top:8px;"><div style="flex:1;"><p class="field-label">Start Reading</p><input class="field" id="bookStart" type="date"/></div><div style="flex:1;"><p class="field-label">Finish By</p><input class="field" id="bookFinish" type="date"/></div></div>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-book">Add Book</button></div>';
+    html += '<div class="divider-label">Reading List</div>';
+    state.readingBooks.forEach(function(b,i){
+      html += '<div class="row-card">';
+      if(state.readingEditIdx===i){
+        html += '<div class="field-row"><input class="field" id="editTitle" value="'+esc(b.title)+'"/><input class="field" id="editAuthor" value="'+esc(b.author)+'"/></div>'
+          +'<div class="field-row" style="margin-top:8px;"><select class="field" id="editLang"><option'+(b.lang==="English"?" selected":"")+'>English</option><option'+(b.lang==="Chinese"?" selected":"")+'>Chinese</option></select></div>'
+          +'<div class="field-row" style="margin-top:8px;"><input class="field" id="editStart" type="date" value="'+(b.startDate||"")+'"/><input class="field" id="editFinish" type="date" value="'+(b.finishDate||"")+'"/></div>'
+          +'<button class="btn-primary" style="margin-top:8px;" data-action="save-book" data-idx="'+i+'">Save</button>';
+      } else {
+        html += '<div style="display:flex; align-items:center; gap:9px;">'
+          +'<span class="chk chk-ok'+(b.done?" on":"")+'" data-action="toggle-book" data-idx="'+i+'">'+CHECK_ICON+'</span>'
+          +'<div style="flex:1;"><p class="row-title" style="'+(b.done?"color:var(--ok);":"")+'">'+esc(b.title)+'</p><p class="row-sub">'+esc(b.author)+' · '+b.lang+(b.startDate?" · started "+b.startDate:"")+(b.finishDate?" · finished "+b.finishDate:"")+'</p></div>'
+          +'<button class="edit-icon-btn" data-action="edit-book" data-idx="'+i+'">✎ Edit</button></div>';
+        if(b.done){
+          html += '<textarea class="field" style="margin-top:8px;" data-action="report-input" data-idx="'+i+'" placeholder="Your book report...">'+esc(b.report)+'</textarea>'
+            +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-book-copy" data-idx="'+i+'">Turn into Social Copy</button>';
+          if(b.copy){ html += '<div class="row-card" style="margin-top:8px;"><p class="row-title">Social Copy</p><p class="row-sub">'+b.copy+'</p></div>'; }
+        }
+      }
+      html += '</div>';
+    });
+    return html;
+  }
+
+  var CLOSET_CATS = ["Tops","Bottoms","Shoes","Jewelry"];
+  function pageCloset(){
+    var html = '<div class="divider-label">My Wardrobe</div>';
+    CLOSET_CATS.forEach(function(cat){
+      html += '<div class="row-card"><p class="row-title">'+cat+'</p><div class="chip-row" style="margin-top:8px;">';
+      state.closetItems[cat].forEach(function(img){
+        html += '<img src="'+img+'" style="width:52px;height:52px;border-radius:10px;object-fit:cover;"/>';
+      });
+      html += '</div><label class="upload-label" style="margin-top:8px;"><input type="file" accept="image/*" data-action="closet-photo" data-cat="'+cat+'"/>📷 Add '+cat.toLowerCase()+'</label></div>';
+    });
+    html += '<div class="divider-label">Today’s Vibe</div>';
+    html += '<div class="row-card"><p class="field-label">Weather</p><div class="chip-row">'+["Sunny","Rainy","Hot","Cool"].map(function(w){return '<span class="sel-chip'+(state.closetWeather===w?" active":"")+'" data-action="closet-weather" data-v="'+w+'">'+w+'</span>';}).join('')+'</div>'
+      +'<p class="field-label" style="margin-top:10px;">Mood</p><div class="chip-row">'+["Confident","Relaxed","Playful","Professional"].map(function(w){return '<span class="sel-chip'+(state.closetMood===w?" active":"")+'" data-action="closet-mood" data-v="'+w+'">'+w+'</span>';}).join('')+'</div>'
+      +'<p class="field-label" style="margin-top:10px;">Occasion</p><div class="chip-row">'+["Work","Date","Casual","Interview"].map(function(w){return '<span class="sel-chip'+(state.closetOccasion===w?" active":"")+'" data-action="closet-occasion" data-v="'+w+'">'+w+'</span>';}).join('')
+      +'</div><button class="btn-primary" style="margin-top:10px;" data-action="gen-outfit">Suggest an Outfit</button></div>';
+    if(state.closetSuggestion){ html += state.closetSuggestion; }
+    return html;
+  }
+
+  var MONTHS = ["2026-06","2026-07","2026-08"];
+  function formatMonthLabel(ym){ var p=ym.split("-"); var names=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; return names[Number(p[1])-1]+"-"+p[0]; }
+  var CHART_COLORS = ["#db5079","#c9a24a","#3fa66b","#5b8def","#e2a63b","#9b6bd6","#4bbfc0"];
+
+  function buildDonut(byCat, total){
+    var cats = Object.keys(byCat);
+    if(!cats.length) return '<p class="row-sub" style="text-align:center;padding:16px 0;">No spending recorded for this month yet.</p>';
+    var r=42, c=2*Math.PI*r, offset=0, arcs='';
+    cats.forEach(function(cat,i){
+      var len = byCat[cat]/total*c;
+      arcs += '<circle cx="50" cy="50" r="'+r+'" fill="none" stroke="'+CHART_COLORS[i%CHART_COLORS.length]+'" stroke-width="14" stroke-dasharray="'+len+' '+(c-len)+'" stroke-dashoffset="'+(-offset)+'" transform="rotate(-90 50 50)"/>';
+      offset += len;
+    });
+    var svg = '<svg viewBox="0 0 100 100" style="width:150px;height:150px;display:block;margin:0 auto;">'+arcs+'<text x="50" y="47" text-anchor="middle" font-size="8" fill="currentColor" opacity="0.6" font-weight="700">TOTAL</text><text x="50" y="60" text-anchor="middle" font-size="11" fill="currentColor" font-weight="800">S$'+total+'</text></svg>';
+    var legend = cats.map(function(cat,i){ var pct=Math.round(byCat[cat]/total*100); return '<div class="legend-row"><span class="legend-dot" style="background:'+CHART_COLORS[i%CHART_COLORS.length]+'"></span><span style="flex:1;">'+cat+'</span><span style="color:var(--muted);">'+pct+'%</span><span style="font-weight:700;margin-left:6px;">S$'+byCat[cat]+'</span></div>'; }).join('');
+    return svg + '<div style="margin-top:10px;color:var(--ink);">'+legend+'</div>';
+  }
+
+  function buildCalendar(ym, entries){
+    var byDay = {};
+    entries.forEach(function(e){ byDay[e.date] = (byDay[e.date]||0)+Number(e.amt); });
+    var maxDay = Math.max.apply(null, Object.keys(byDay).map(function(d){return byDay[d];}).concat([1]));
+    var p = ym.split("-"); var y=Number(p[0]), mo=Number(p[1])-1;
+    var firstDow = new Date(y,mo,1).getDay();
+    var daysInMonth = new Date(y,mo+1,0).getDate();
+    var dows = ["S","M","T","W","T","F","S"];
+    var html = '<div class="cal-grid">' + dows.map(function(d){return '<div class="cal-dow">'+d+'</div>';}).join('');
+    for(var i=0;i<firstDow;i++){ html+='<div class="cal-cell empty"></div>'; }
+    for(var d=1; d<=daysInMonth; d++){
+      var dateStr = ym+"-"+(d<10?"0"+d:d);
+      var amt = byDay[dateStr];
+      if(amt){ html += '<div class="cal-cell spent" style="opacity:'+(0.45+0.55*(amt/maxDay)).toFixed(2)+'"><span class="d">'+d+'</span><span>'+amt+'</span></div>'; }
+      else { html += '<div class="cal-cell"><span class="d">'+d+'</span></div>'; }
+    }
+    html += '</div>';
+    return html;
+  }
+
+  function pageBudget(){
+    var ym = state.budgetMonth;
+    var monthEntries = state.budgetEntries.filter(function(e){ return e.date.slice(0,7)===ym; });
+    var byCat = {}, total = 0;
+    monthEntries.forEach(function(e){ byCat[e.cat]=(byCat[e.cat]||0)+Number(e.amt); total+=Number(e.amt); });
+    var over = total - state.budgetTarget;
+    var bannerClass = "ok", bannerIcon = "✅", bannerText = "On track, S$"+(state.budgetTarget-total)+" left this month.";
+    if(over > 2000){ bannerClass="danger"; bannerIcon="⚠️"; bannerText="S$"+over+" over your S$"+state.budgetTarget+" budget."; }
+    else if(over > 1000){ bannerClass="warn"; bannerIcon="⚠️"; bannerText="S$"+over+" over your S$"+state.budgetTarget+" budget."; }
+    else if(over > 0){ bannerClass="warn"; bannerIcon="⚠️"; bannerText="S$"+over+" over your S$"+state.budgetTarget+" budget, keep an eye on it."; }
+
+    var html = '<div class="month-tabs">' + MONTHS.map(function(m){return '<span class="month-tab'+(m===ym?" active":"")+'" data-action="select-month" data-m="'+m+'">'+formatMonthLabel(m)+'</span>';}).join('') + '</div>';
+    html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Monthly Budget Target</p>'
+      + (state.editingBudgetTarget
+          ? '<input class="field" id="budgetTargetInput" value="'+state.budgetTarget+'" style="max-width:100px;"/><button class="refresh-btn" data-action="save-budget-target">Save</button>'
+          : '<span style="font-weight:800;">S$'+state.budgetTarget+'</span><button class="edit-icon-btn" data-action="edit-budget-target">✎</button>')
+      + '</div></div>';
+    html += '<div class="banner '+bannerClass+'">'+bannerIcon+' '+bannerText+'</div>';
+    html += '<div class="row-card"><p class="row-title">Spending by Category</p>' + buildDonut(byCat, total) + '</div>';
+    html += '<div class="row-card"><p class="row-title">Daily Spend, '+formatMonthLabel(ym)+'</p>' + buildCalendar(ym, monthEntries) + '</div>';
+
+    if(Object.keys(byCat).length){
+      html += '<div class="row-card"><p class="row-title">Category Totals</p>';
+      Object.keys(byCat).forEach(function(cat){ html += '<div style="display:flex; justify-content:space-between; padding:4px 0; font-size:12px;"><span>'+cat+'</span><span style="font-weight:700;">S$'+byCat[cat]+'</span></div>'; });
+      html += '<div style="display:flex; justify-content:space-between; padding:6px 0 0; margin-top:4px; border-top:1px solid var(--line); font-size:12.5px; font-weight:800;"><span>Grand Total</span><span>S$'+total+'</span></div></div>';
+    }
+
+    html += '<div class="row-card"><div class="field-row"><input class="field" id="budgetDate" type="date" value="'+ym+'-01"/><select class="field" id="budgetCat">'+BUDGET_CATS.map(function(c){return '<option>'+c+'</option>';}).join('')+'</select></div>'
+      +'<div class="field-row" style="margin-top:8px;"><input class="field" id="budgetItem" placeholder="Item, e.g. Oat milk"/><input class="field" id="budgetAmt" placeholder="Amount (S$)"/></div>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-budget">Add Transaction</button></div>';
+
+    html += '<div class="divider-label">Transactions</div>';
+    monthEntries.slice().reverse().forEach(function(e){
+      var realIdx = state.budgetEntries.indexOf(e);
+      html += '<div class="row-card" style="display:flex; align-items:center; gap:10px;"><div style="flex:1;"><p class="row-title">'+(e.item||e.cat)+' · S$'+e.amt+'</p><p class="row-sub">'+e.cat+' · '+e.date+'</p></div><button class="del-btn" data-action="delete-budget" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>';
+    });
+    return html;
+  }
+
+  function groupPrices(){
+    var groups = {};
+    state.priceEntries.forEach(function(p){ var k=p.item.trim().toLowerCase(); if(!groups[k]) groups[k]={label:p.item, items:[]}; groups[k].items.push(p); });
+    Object.keys(groups).forEach(function(k){ groups[k].items.sort(function(a,b){return a.price-b.price;}); });
+    return groups;
+  }
+  function pagePriceCompare(){
+    var html = '<div class="row-card"><p class="row-sub">Log prices as you shop. The cheapest price ever seen is bold red with a gold trophy, the cheapest in the last 30 days gets silver.</p>'
+      +'<input class="field" id="priceItem" placeholder="Item, e.g. Oat Milk (1L)" style="margin-bottom:8px;"/>'
+      +'<div class="field-row" style="margin-bottom:8px;"><input class="field" id="priceStore" placeholder="Store"/><input class="field" id="pricePrice" placeholder="Price (S$)"/></div>'
+      +'<input class="field" id="priceDate" type="date"/>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-price">Add Price</button></div>';
+    var groups = groupPrices();
+    var nowMs = Date.now();
+    Object.keys(groups).forEach(function(k){
+      var g = groups[k];
+      var allTimeMin = g.items[0];
+      var recentItems = g.items.filter(function(p){ return (nowMs - new Date(p.date).getTime()) <= 30*86400000; });
+      var recentMin = recentItems.length ? recentItems.reduce(function(a,b){ return b.price<a.price ? b : a; }) : null;
+      html += '<p class="row-title" style="margin:10px 2px 4px;">'+esc(g.label)+'</p>';
+      g.items.forEach(function(p){
+        var isAllTime = p===allTimeMin;
+        var isRecent = recentMin && p===recentMin && !isAllTime;
+        var badge = isAllTime ? '<span class="trophy-gold">🏆 </span>' : isRecent ? '<span class="trophy-silver">🥈 </span>' : '';
+        var realIdx = state.priceEntries.indexOf(p);
+        html += '<div class="swipe-row"><button class="swipe-del" data-action="delete-price" data-idx="'+realIdx+'">Delete</button>'
+          +'<div class="swipe-content" style="display:flex; justify-content:space-between; align-items:center;" data-idx="'+realIdx+'"><span>'+badge+esc(p.store)+' · '+p.date+'</span><span style="font-weight:700;" class="'+(isAllTime?"cheapest-price":"")+'">S$'+p.price.toFixed(2)+'</span></div></div>';
+      });
+      html += '<p class="row-sub" style="margin:4px 2px 0;">Swipe a row left to delete.</p>';
+    });
+    return html;
+  }
+
+  function pageJournal(){
+    var tab = state.journalTab;
+    var html = '<div class="journal-tabs">' + JOURNAL_TABS.map(function(t){return '<span class="journal-tab'+(t===tab?" active":"")+'" data-action="set-journal-tab" data-v="'+t+'">'+t+'</span>';}).join('') + '</div>';
+    html += '<div class="row-card" style="margin-top:12px;"><input class="field" id="journalDate" type="date"/><textarea class="field" id="journalText" placeholder="Write freely..." style="margin-top:8px;"></textarea><button class="btn-primary" style="margin-top:8px;" data-action="add-journal">Add Entry</button></div>';
+    html += '<div class="divider-label">'+tab+' Entries</div>';
+    state.journal[tab].slice().reverse().forEach(function(e){
+      html += row(e.date, e.text);
+    });
+    return html;
+  }
+
+  var PAGES = {
+    plan:{label:"Daily Plan", emoji:"📋", tag:"Auto-generated daily", body:pagePlan},
+    interview:{label:"Mock Interview", emoji:"🗣️", tag:"Practice & feedback", body:pageInterview},
+    ihrp:{label:"IHRP", emoji:"🎓", tag:"Certification prep", body:pageIhrp},
+    mom:{label:"MOM Policy", emoji:"📜", tag:"Daily 8:00 AM push", body:pageMom},
+    news:{label:"English News", emoji:"📰", tag:"Daily 8:00 AM push", body:pageNews},
+    vocab:{label:"Vocabulary", emoji:"🔤", tag:"Daily 9:00 AM push", body:pageVocab},
+    listening:{label:"Listening", emoji:"🎧", tag:"Transcript & word lookup", body:pageListening},
+    speaking:{label:"Speaking", emoji:"🎙️", tag:"AI correction", body:pageSpeaking},
+    writing:{label:"Writing", emoji:"✍️", tag:"AI correction", body:pageWriting},
+    dailynotes:{label:"Daily Study Notes", emoji:"📓", tag:"友邻优课 & more", body:pageDailyNotes},
+    wordgame:{label:"Word Game", emoji:"🧟", tag:"Match words, fight the zombie", body:pageWordGame},
+    vlog:{label:"English Vlog Creation", emoji:"🎥", tag:"Trends + script generator", body:pageVlog},
+    xhs:{label:"Xiaohongshu Creation", emoji:"📕", tag:"AI caption generator", body:pageXhs},
+    food:{label:"Food Sharing", emoji:"🍜", tag:"Your food log", body:pageFood},
+    travel:{label:"Travel Plan", emoji:"🗺️", tag:"AI itinerary generator", body:pageTravel},
+    traveljournal:{label:"Travel Journal", emoji:"📔", tag:"Your travel memories", body:pageTravelJournal},
+    reading:{label:"Reading Plan", emoji:"📚", tag:"Books & reports", body:pageReading},
+    closet:{label:"My Closet", emoji:"👗", tag:"Wardrobe & outfit ideas", body:pageCloset},
+    budget:{label:"Monthly Budget", emoji:"📊", tag:"Spend tracker", body:pageBudget},
+    pricecompare:{label:"Price Comparison", emoji:"🏷️", tag:"Find the best price", body:pagePriceCompare},
+    review:{label:"Journal", emoji:"🖋️", tag:"Write freely, any time scale", body:pageJournal}
+  };
+
+  /* ---------------- shell wiring ---------------- */
+  var app = document.getElementById('app');
+  var navList = document.getElementById('navList');
+  var detailBody = document.getElementById('detailBody');
+  var detailTitle = document.getElementById('detailTitle');
+  var homeContent = document.getElementById('homeContent');
+  var currentPageId = null;
+
+  function reorderControls(idx, len, parentId, itemId){
+    return '<span class="reorder-btns">'
+      +'<button data-action="move-nav-up" data-parent="'+(parentId||"")+'" data-idx="'+idx+'" '+(idx===0?"disabled":"")+'>▲</button>'
+      +'<button data-action="move-nav-down" data-parent="'+(parentId||"")+'" data-idx="'+idx+'" '+(idx===len-1?"disabled":"")+'>▼</button>'
+      +'</span>'
+      +'<button class="del-btn" data-action="delete-nav-item" data-parent="'+(parentId||"")+'" data-id="'+itemId+'" style="flex:0 0 auto;">'+TRASH_ICON+'</button>';
+  }
+  function renderNav(){
+    var html = '';
+    state.navOrder.forEach(function(id, idx){
+      var item = NAV_BY_ID[id];
+      if(!item) return;
+      var topReorderCtl = state.reorderMode ? reorderControls(idx, state.navOrder.length, null, id) : '';
+      var rowUnit;
+      if(item.children){
+        var childIds = state.childOrder[item.id] || [];
+        rowUnit = '<div class="nav-group'+(state.reorderMode?" open":"")+'" data-group="'+item.id+'" style="flex:1; min-width:0;">'
+          + '<button class="nav-row parent'+(state.reorderMode?" parent-open":"")+'" data-id="'+item.id+'"><span class="emoji">'+item.emoji+'</span><span class="label">'+item.label+'</span><span class="chev">›</span></button>'
+          + '<div class="nav-children"><div>'
+          + childIds.map(function(cid, cidx){
+              var c = CHILD_BY_ID[cid];
+              if(!c) return '';
+              var childRow = '<button class="nav-row child" data-id="'+c.id+'"><span class="emoji">'+c.emoji+'</span><span class="label">'+c.label+'</span></button>';
+              if(state.reorderMode){
+                return '<div style="display:flex; align-items:center; gap:4px;">'+childRow+reorderControls(cidx, childIds.length, item.id, c.id)+'</div>';
+              }
+              return childRow;
+            }).join('')
+          + '</div></div></div>';
+      } else {
+        rowUnit = '<button class="nav-row leaf" data-id="'+item.id+'" style="flex:1; min-width:0;"><span class="emoji">'+item.emoji+'</span><span class="label">'+item.label+'</span></button>';
+      }
+      html += state.reorderMode ? ('<div style="display:flex; align-items:center; gap:4px;">'+rowUnit+topReorderCtl+'</div>') : rowUnit;
+    });
+    navList.innerHTML = html;
+    scheduleSave();
+  }
+  renderNav();
+  function renderRail(){
+    var rail = document.getElementById('rail');
+    var html = '<button class="rail-menu-btn" id="railExpandBtn" aria-label="Expand menu">☰</button>';
+    state.navOrder.forEach(function(id){
+      var item = NAV_BY_ID[id];
+      if(!item) return;
+      html += '<button class="rail-icon'+(currentPageId && (currentPageId===item.id || (item.children && item.children.some(function(c){return c.id===currentPageId;})))?" active":"")+'" data-rail-id="'+item.id+'" title="'+item.label+'">'+item.emoji+'</button>';
+    });
+    rail.innerHTML = html;
+  }
+  document.getElementById('rail').addEventListener('click', function(e){
+    var expandBtn = e.target.closest('#railExpandBtn');
+    if(expandBtn){ openDrawer(); return; }
+    var iconBtn = e.target.closest('.rail-icon');
+    if(!iconBtn) return;
+    var id = iconBtn.dataset.railId;
+    var item = NAV_BY_ID[id];
+    if(item && item.children){
+      openDrawer();
+      navList.querySelectorAll('.nav-group.open').forEach(function(g){ g.classList.remove('open'); g.querySelector('.nav-row.parent').classList.remove('parent-open'); });
+      var group = navList.querySelector('.nav-group[data-group="'+id+'"]');
+      if(group){ group.classList.add('open'); group.querySelector('.nav-row.parent').classList.add('parent-open'); }
+    } else {
+      selectItem(id);
+    }
+  });
+  document.getElementById('reorderToggle').addEventListener('click', function(){
+    state.reorderMode = !state.reorderMode;
+    this.textContent = state.reorderMode ? '✓ Done Reordering' : '⇅ Reorder Menu';
+    renderNav();
+  });
+
+  function openDrawer(){ app.classList.remove('rail-open'); app.classList.add('drawer-open'); }
+  function closeDrawer(){ app.classList.remove('drawer-open'); app.classList.add('rail-open'); renderRail(); }
+  document.getElementById('menuBtn').addEventListener('click', openDrawer);
+  document.getElementById('scrim').addEventListener('click', closeDrawer);
+
+  function avatarHTML(sizeClass){
+    if(state.avatarChoice==='custom' && state.avatarCustomPhoto){
+      return '<img class="'+sizeClass+'" src="'+state.avatarCustomPhoto+'" style="object-fit:cover;"/>';
+    }
+    return '<svg class="'+sizeClass+'"><use href="#shirley-avatar-'+state.avatarChoice+'"></use></svg>';
+  }
+  function renderBioSheet(){
+    var html = '<p class="field-label" style="text-align:center;">Theme</p><div class="theme-picker">';
+    Object.keys(PALETTES).forEach(function(name){
+      html += '<button class="theme-swatch'+(state.palette===name?" active":"")+'" data-action="pick-palette" data-name="'+name+'" style="background:'+PALETTES[name].swatch+';" title="'+name+'"></button>';
+    });
+    html += '</div>';
+    html += '<div class="avatar-picker">';
+    AVATAR_STYLES.forEach(function(s){
+      var active = state.avatarChoice===s.id ? ' active' : '';
+      html += '<button class="avatar-opt'+active+'" data-action="pick-avatar" data-id="'+s.id+'"><svg><use href="#shirley-avatar-'+s.id+'"></use></svg><span class="lbl">'+s.label+'</span></button>';
+    });
+    var activeCustom = state.avatarChoice==='custom' ? ' active' : '';
+    html += '<label class="avatar-opt upload-tile'+activeCustom+'"><input type="file" accept="image/*" data-action="upload-avatar" style="display:none;"/><div>'+(state.avatarCustomPhoto?'<img src="'+state.avatarCustomPhoto+'" style="width:100%;height:100%;border-radius:50%;object-fit:cover;"/>':'📷')+'</div><span class="lbl">Upload</span></label>';
+    html += '</div>';
+    html += avatarHTML('avatar-lg');
+    html += '<input class="bio-name-input" id="bioNameInput" value="'+attrEsc(state.bioName)+'"/>';
+    html += '<p class="sub">'+state.bioRole+'</p>';
+    html += '<textarea class="bio-textarea" id="bioTextInput">'+esc(state.bioText)+'</textarea>';
+    html += '<div class="row-card" style="margin-top:14px; text-align:left;"><p class="row-title">Data &amp; Backup</p><p class="row-sub" style="margin:4px 0 8px;">Everything here is saved on this device automatically. Export a backup file before a big update, just in case.</p>'
+      +'<div class="field-row"><button class="btn-primary" id="exportBackupBtn" style="margin:0;">⬇️ Export Backup</button><label class="upload-label" style="margin:0; padding:9px;"><input type="file" accept="application/json" id="importBackupInput" style="display:none;"/>⬆️ Import</label></div></div>';
+    html += '<button class="bio-close" id="bioCloseBtn2" style="margin-top:14px;">Close</button>';
+    document.getElementById('bioSheetBody').innerHTML = html;
+    document.getElementById('bioCloseBtn2').addEventListener('click', function(){ app.classList.remove('bio-open'); });
+    document.getElementById('exportBackupBtn').addEventListener('click', exportBackup);
+    document.getElementById('importBackupInput').addEventListener('change', function(e){ if(e.target.files[0]) importBackup(e.target.files[0]); });
+    scheduleSave();
+  }
+  function updateAvatars(){
+    document.getElementById('drawerAvatarWrap').innerHTML = avatarHTML('avatar-sm');
+    document.getElementById('drawerNameLabel').textContent = state.bioName;
+    renderBioSheet();
+  }
+
+  document.getElementById('avatarBtn').addEventListener('click', function(){ app.classList.add('bio-open'); });
+  document.getElementById('bioOverlay').addEventListener('click', function(e){
+    if(e.target.id==='bioOverlay'){ app.classList.remove('bio-open'); return; }
+    var pickBtn = e.target.closest('[data-action="pick-avatar"]');
+    if(pickBtn){ state.avatarChoice = pickBtn.dataset.id; updateAvatars(); renderHome(); return; }
+    var paletteBtn = e.target.closest('[data-action="pick-palette"]');
+    if(paletteBtn){ applyPalette(paletteBtn.dataset.name); renderBioSheet(); }
+  });
+  document.getElementById('bioOverlay').addEventListener('change', function(e){
+    if(e.target.dataset.action==='upload-avatar' && e.target.files[0]){
+      readImg(e.target.files[0], function(url){ state.avatarCustomPhoto = url; state.avatarChoice = 'custom'; updateAvatars(); renderHome(); });
+    }
+  });
+  document.getElementById('bioOverlay').addEventListener('input', function(e){
+    if(e.target.id==='bioNameInput'){ state.bioName = e.target.value; document.getElementById('drawerNameLabel').textContent = state.bioName; }
+    else if(e.target.id==='bioTextInput'){ state.bioText = e.target.value; }
+  });
+
+  navList.addEventListener('click', function(e){
+    var moveBtn = e.target.closest('[data-action="move-nav-up"], [data-action="move-nav-down"]');
+    if(moveBtn){
+      var parentId = moveBtn.dataset.parent;
+      var arr = parentId ? state.childOrder[parentId] : state.navOrder;
+      var idx = Number(moveBtn.dataset.idx);
+      var dir = moveBtn.dataset.action === 'move-nav-up' ? -1 : 1;
+      var swapIdx = idx + dir;
+      if(arr && swapIdx>=0 && swapIdx<arr.length){
+        var tmp = arr[idx];
+        arr[idx] = arr[swapIdx];
+        arr[swapIdx] = tmp;
+        renderNav(); renderRail();
+      }
+      return;
+    }
+    var delBtn = e.target.closest('[data-action="delete-nav-item"]');
+    if(delBtn){
+      var dParent = delBtn.dataset.parent;
+      var dId = delBtn.dataset.id;
+      if(dParent){
+        var carr = state.childOrder[dParent];
+        var ci = carr ? carr.indexOf(dId) : -1;
+        if(ci>-1) carr.splice(ci,1);
+      } else {
+        var ti = state.navOrder.indexOf(dId);
+        if(ti>-1) state.navOrder.splice(ti,1);
+      }
+      if(currentPageId === dId){ currentPageId = null; app.classList.remove('detail-open'); }
+      renderNav(); renderRail();
+      return;
+    }
+    if(state.reorderMode) return;
+    var parentBtn = e.target.closest('.nav-row.parent');
+    if(parentBtn){
+      var group = parentBtn.closest('.nav-group');
+      var wasOpen = group.classList.contains('open');
+      navList.querySelectorAll('.nav-group.open').forEach(function(g){ g.classList.remove('open'); g.querySelector('.nav-row.parent').classList.remove('parent-open'); });
+      if(!wasOpen){ group.classList.add('open'); parentBtn.classList.add('parent-open'); }
+      return;
+    }
+    var leafBtn = e.target.closest('.nav-row.leaf, .nav-row.child');
+    if(leafBtn){ selectItem(leafBtn.dataset.id); }
+  });
+
+  function selectItem(id){
+    var page = PAGES[id];
+    if(!page){ closeDrawer(); return; }
+    stopAudio();
+    navList.querySelectorAll('.nav-row').forEach(function(el){ el.classList.remove('active'); });
+    var btn = navList.querySelector('[data-id="'+id+'"]');
+    if(btn) btn.classList.add('active');
+    currentPageId = id;
+    renderDetail();
+    closeDrawer();
+    setTimeout(function(){ app.classList.add('detail-open'); }, 180);
+  }
+
+  function renderDetail(){
+    if(!currentPageId) return;
+    var page = PAGES[currentPageId];
+    detailTitle.textContent = page.label;
+    detailBody.innerHTML = '<div class="detail-hero"><div class="big-emoji">'+page.emoji+'</div><div><h4>'+page.label+'</h4><p>'+page.tag+'</p></div></div>' + page.body();
+    scheduleSave();
+  }
+
+  document.getElementById('backBtn').addEventListener('click', function(){ app.classList.remove('detail-open'); app.classList.remove('rail-open'); });
+
+  function readImg(file, cb){
+    var reader = new FileReader();
+    reader.onload = function(e){ cb(e.target.result); };
+    reader.readAsDataURL(file);
+  }
+
+  detailBody.addEventListener('input', function(e){
+    var id = e.target.id;
+    if(id==='selfIntroBox') state.selfIntro = e.target.value;
+    else if(id==='intCompany') state.interviewCompany = e.target.value;
+    else if(id==='intRole') state.interviewRole = e.target.value;
+    else if(id==='intJd') state.interviewJd = e.target.value;
+    else if(id==='travelAddress') state.travelAddress = e.target.value;
+    else if(id==='travelBudget') state.travelBudget = e.target.value;
+    else if(id==='travelGroup') state.travelGroup = e.target.value;
+    else if(id==='travelNotes') state.travelNotes = e.target.value;
+  });
+
+  detailBody.addEventListener('click', function(e){
+    var el = e.target.closest('[data-action]');
+    if(!el) return;
+    var action = el.dataset.action;
+
+    if(action === 'toggle-task'){
+      var t = state.tasks.find(function(x){return x.id==el.dataset.id;});
+      if(t) t.done = !t.done;
+      renderDetail(); renderHome();
+    } else if(action === 'delete-task'){
+      state.tasks = state.tasks.filter(function(x){return x.id!=el.dataset.id;});
+      renderDetail(); renderHome();
+    } else if(action === 'add-task'){
+      var input = document.getElementById('newTaskInput');
+      if(input && input.value.trim()){
+        state.tasks.push({id:state.nextTaskId++, text:input.value.trim(), cat:"Custom", done:false});
+        renderDetail(); renderHome();
+      }
+    } else if(action === 'toggle-video'){
+      state.ihrpVideos[el.dataset.idx].done = !state.ihrpVideos[el.dataset.idx].done;
+      renderDetail();
+    } else if(action === 'refresh-ihrp'){
+      state.ihrpKnowledgeIdx = (state.ihrpKnowledgeIdx+1) % IHRP_KNOWLEDGE.length;
+      renderDetail();
+    } else if(action === 'refresh-mom'){
+      state.momIdx = (state.momIdx+1) % MOM_POLICIES.length;
+      renderDetail();
+    } else if(action === 'gen-interview'){
+      var co = document.getElementById('intCompany').value.trim() || "the company";
+      var role = document.getElementById('intRole').value.trim() || "the role";
+      var jd = document.getElementById('intJd').value.trim();
+      state.interviewCompany = co; state.interviewRole = role; state.interviewJd = jd;
+      var list = [
+        {q:"Why are you interested in the "+role+" position at "+co+"?", a:"I have followed "+co+"'s growth and I am drawn to how the "+role+" role blends people strategy with hands-on execution, that mix is exactly where I do my best work."},
+        {q:"Tell me about a time you managed a difficult stakeholder.", a:"Using the STAR method: a hiring manager kept changing requirements mid-search. I set a weekly 15-minute sync to lock scope, which cut our time-to-fill by three weeks."},
+        {q:"How would you approach your first 90 days in this role?", a:"First 30 days listening and mapping stakeholders, next 30 shipping one visible quick win, final 30 proposing a longer-term plan backed by data."},
+        {q:"What is a mistake you made in HR and what did you learn?", a:"Early on I under-communicated a policy change and it caused confusion. Now I always pair any policy update with a short FAQ and a live Q&A session."}
+      ];
+      if(jd){ list.unshift({q:"Based on the JD, what is the top priority for this role?", a:"Reading the JD closely, the core priority looks like "+jd.split(/[.\n]/)[0].slice(0,80)+", I would focus my first weeks proving traction there."}); }
+      var tailored = state.selfIntro.replace(/\.\s*$/, "")+", and I'm especially excited about the "+role+" opportunity at "+co+(jd ? ", where my background lines up closely with what the JD is asking for." : ".");
+      state.interviewQA = {company:co, role:role, list:list, tailoredIntro:tailored};
+      renderDetail();
+    } else if(action === 'add-feedback'){
+      var fco = document.getElementById('fbCompany').value.trim();
+      var frole = document.getElementById('fbRole').value.trim();
+      var fround = document.getElementById('fbRound').value.trim();
+      var fInterviewDate = document.getElementById('fbInterviewDate').value;
+      var fdate = document.getElementById('fbDate').value || new Date().toISOString().slice(0,10);
+      var fself = document.getElementById('fbSelf').value.trim();
+      var finterviewer = document.getElementById('fbInterviewer').value.trim();
+      if(fco || frole){
+        state.interviewFeedbackList.push({company:fco||"—", role:frole||"—", round:fround, interviewDate:fInterviewDate, date:fdate, self:fself||"—", interviewer:finterviewer||"—", reflect:generateReflection(fself, finterviewer)});
+        renderDetail();
+      }
+    } else if(action === 'delete-feedback'){
+      state.interviewFeedbackList.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'start-rehearsal'){
+      var qs = [{q:"Tell me about yourself.", modelAnswer: state.selfIntro}];
+      if(state.interviewQA && state.interviewQA.list && state.interviewQA.list.length){
+        state.interviewQA.list.forEach(function(item){ qs.push({q:item.q, modelAnswer:item.a}); });
+      } else {
+        qs.push({q:"What are your greatest strengths?", modelAnswer:"Use a specific STAR-method example that proves this strength in action."});
+        qs.push({q:"Why are you looking to leave your current role?", modelAnswer:"Frame it around what you're moving toward, not what you're escaping."});
+      }
+      state.rehearsal = {questions:qs, idx:0, showModel:false, done:false};
+      renderDetail();
+    } else if(action === 'toggle-rehearsal-model'){
+      state.rehearsal.showModel = !state.rehearsal.showModel;
+      renderDetail();
+    } else if(action === 'rehearsal-next'){
+      var rh = state.rehearsal;
+      if(rh.idx < rh.questions.length-1){ rh.idx++; rh.showModel=false; }
+      else { rh.done = true; }
+      renderDetail();
+    } else if(action === 'news-level'){
+      state.newsLevel = el.dataset.level;
+      renderDetail();
+    } else if(action === 'lookup-word'){
+      state.listeningLookup = el.dataset.def;
+      renderDetail();
+    } else if(action === 'refresh-listening'){
+      state.listeningIdx = (state.listeningIdx+1) % LISTENING_POOL.length;
+      state.listeningLookup = null;
+      renderDetail();
+    } else if(action === 'add-dict-word'){
+      var dw = document.getElementById('dictWord').value.trim();
+      if(dw){
+        state.customDict.push({word:dw, meaning:aiLookup(dw)});
+        renderDetail();
+      }
+    } else if(action === 'gen-speaking'){
+      var stxt = document.getElementById('speakingInput').value.trim() || "I think I are good fit for this role because I have lot of experience.";
+      state.speakingInput = stxt;
+      state.speakingOutput = {improved: politeUpgrade(stxt), notes:["Watch pacing, pause briefly after key points instead of rushing on.","Lead with the outcome, then explain how you got there.","Keep quantifying results the way you did here, it is convincing."]};
+      renderDetail();
+    } else if(action === 'gen-writing'){
+      var wtxt = document.getElementById('writingInput').value.trim() || "I wanna say thanks for helping me a lot with the project, it was kind of a big problem for me.";
+      state.writingInput = wtxt;
+      state.writingOutput = {improved: politeUpgrade(wtxt), notes:["Swapped casual phrasing for more polished word choices.","Tightened the sentence so the key point lands first.","Consider adding one concrete detail to make this land harder."]};
+      renderDetail();
+    } else if(action === 'gen-vlog'){
+      var scene = document.getElementById('vlogSceneInput').value.trim() || "your everyday moment in Singapore";
+      state.vlogSceneInput = scene;
+      state.vlogScriptOutput = {
+        shots:[
+          "Shot 1 (0-3s, hook): \"I did not expect this...\" jump cut into "+scene+".",
+          "Shot 2 (3-10s): Establish the setting in one wide shot, natural sound up.",
+          "Shot 3 (10-20s): Close-up reaction, voiceover explains what is happening and why it matters.",
+          "Shot 4 (20-30s): The twist or payoff, deliver the punchline or key takeaway.",
+          "Shot 5 (30-35s, CTA): Direct address to camera, \"Follow for more of my Singapore life.\""
+        ],
+        caption:"POV: "+scene+" 🇸🇬 #SingaporeLife #EnglishVlog #ExpatDiaries"
+      };
+      renderDetail();
+    } else if(action === 'gen-xhs'){
+      var idea = document.getElementById('xhsIdeaInput').value.trim() || "a new spot worth sharing";
+      state.xhsIdea = idea;
+      state.xhsOutput = {caption:"发现了一个宝藏地方 ✨ "+idea+"。氛围感拉满，拍照也很出片，姐妹们冲！", tags:["#新加坡生活","#探店日记","#今日份分享"]};
+      renderDetail();
+    } else if(action === 'add-food'){
+      var addr = document.getElementById('foodAddress').value.trim();
+      var price = document.getElementById('foodPrice').value.trim();
+      var review = document.getElementById('foodReview').value.trim();
+      if(addr){
+        state.foodEntries.push({photo:state.foodPhoto, address:addr, price:price||"—", review:review});
+        state.foodPhoto = null;
+        renderDetail();
+      }
+    } else if(action === 'delete-food'){
+      state.foodEntries.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'travel-style'){
+      state.travelStyle = el.dataset.v;
+      renderDetail();
+    } else if(action === 'travel-interest'){
+      var v = el.dataset.v; var idx = state.travelInterests.indexOf(v);
+      if(idx>-1) state.travelInterests.splice(idx,1); else state.travelInterests.push(v);
+      renderDetail();
+    } else if(action === 'gen-travel'){
+      var dest = document.getElementById('travelAddress').value.trim() || "Bangkok, Thailand";
+      var budget = Number(document.getElementById('travelBudget').value) || 800;
+      var group = document.getElementById('travelGroup').value.trim() || "2";
+      var notes = document.getElementById('travelNotes').value.trim();
+      state.travelAddress = dest; state.travelBudget = budget; state.travelGroup = group; state.travelNotes = notes;
+      var style = state.travelStyle;
+      var interests = state.travelInterests.length ? state.travelInterests : ["Food"];
+      var tier = budget>=2000 ? "Comfort+" : budget>=800 ? "Comfortable" : "Budget-friendly";
+      var destKey = Object.keys(TRAVEL_DB).find(function(k){ return dest.toLowerCase().indexOf(k)>-1; });
+      var db = destKey ? TRAVEL_DB[destKey] : null;
+      var hotel = db ? db.hotels[tier] : (tier==="Budget-friendly" ? "Cozy Riverside Hostel, shared taxi to the centre (~15 min)" : tier==="Comfortable" ? "City Central Boutique Hotel, 10 min walk to the Old Town" : "Riverside Grand Suites, river-view rooms with private transfers");
+      var hotelCn = db ? db.hotelsCn[tier] : "舒适型住宿，靠近市中心，交通方便";
+      var hotelShort = plainText(hotel).split(",")[0];
+      var attr1 = db ? db.attractions[0] : "top "+interests[0].toLowerCase()+" experience";
+      var attr2 = db ? db.attractions[1] : "a second highlight nearby";
+      var attr1Cn = db ? db.attractionsCn[0] : "最具代表性的"+interests[0]+"体验";
+      var attr2Cn = db ? db.attractionsCn[1] : "附近的第二个亮点";
+      var food1 = db ? db.food[0] : "a well-reviewed spot near your hotel";
+      var food2 = db ? db.food[1] : "a local favourite known for the regional specialty";
+      var food1Cn = db ? db.foodCn[0] : "酒店附近口碑不错的餐厅";
+      var food2Cn = db ? db.foodCn[1] : "当地招牌菜的人气小店";
+      var day2Segs = [
+        {time:"09:00–12:00", title:"Morning: "+attr1, cn:"上午："+attr1Cn, desc: style==="Relaxed" ? "An unhurried visit with plenty of breaks built in." : "A must-see stop, best visited early before the crowds.", e:"🎟️", after:"~20 min by taxi to lunch"},
+        {time:"12:30–14:00", title:"Lunch: "+food2, cn:"午餐："+food2Cn, desc:"Refuel before the afternoon.", e:"🍽️", after:"~10 min walk to the afternoon stop"},
+        {time:"15:00–18:00", title: style==="Packed" ? "Afternoon: "+attr2+" + market run" : "Afternoon: "+attr2+", easy pace", cn:"下午："+attr2Cn, desc:"Built around "+interests.join(" & ").toLowerCase()+".", e:"🛍️"}
+      ];
+      if(style==="Relaxed"){ day2Segs.push({time:"19:00 onward", title:"Free evening", cn:"自由活动的夜晚", desc:"No fixed plans, wander, rest, or revisit a favourite spot.", e:"🌆"}); }
+      else { day2Segs.push({time:"19:30–21:00", title:"Dinner + evening stroll", cn:"晚餐和夜间散步", desc:"Wind down with a relaxed dinner and a walk.", e:"🌃"}); }
+      state.travelOutput = {
+        dest:dest, budget:budget, tier:tier, hotel:hotel, hotelCn:hotelCn,
+        days:[
+          {label:"Day 1 — Arrival", segs:[
+            {time:"14:00–15:00", title:"Check in, "+hotelShort, cn:"入住 "+hotelShort, desc:"Settle in for "+group+" traveler(s) and freshen up before heading out.", e:"🏨"},
+            {time:"16:00–18:00", title:db ? db.attractions[2]||attr1 : "Explore the old quarter", cn:db ? db.attractionsCn[2]||attr1Cn : "探索老城区", desc:"An easy first walk built around your interest in "+interests.join(" & ").toLowerCase()+".", e:"📍", after:"~15 min walk to dinner"},
+            {time:"19:00–20:30", title:"Dinner: "+food1, cn:"晚餐："+food1Cn, desc:(notes?notes+". ":"")+"A well-reviewed pick for your first night.", e:"🍜"}
+          ]},
+          {label:"Day 2 — "+(style==="Packed"?"Full Day Out":style==="Relaxed"?"Easy Exploring":"City Highlights"), segs:day2Segs},
+          {label:"Day 3 — Departure", segs:[
+            {time:"09:00–11:00", title:db ? "Last visit: "+(db.attractions[3]||db.attractions[0]) : "Last-minute souvenirs", cn:db ? "最后一站："+(db.attractionsCn[3]||db.attractionsCn[0]) : "最后购买伴手礼", desc:"Pick up gifts near your hotel before packing up.", e:"🎁"},
+            {time:"12:00", title:"Check out & head to the airport", cn:"退房并前往机场", desc:"Budget ~45 min transfer time to be safe.", e:"🧳"}
+          ]}
+        ]
+      };
+      renderDetail();
+    } else if(action === 'save-trip'){
+      var o2 = state.travelOutput;
+      if(o2){
+        state.travelHistory.push({dest:o2.dest, tier:o2.tier, budget:o2.budget, hotel:o2.hotel, hotelCn:o2.hotelCn||"", days:o2.days, savedDate:new Date().toISOString().slice(0,10), expanded:false});
+        renderDetail();
+      }
+    } else if(action === 'toggle-trip-detail'){
+      state.travelHistory[el.dataset.idx].expanded = !state.travelHistory[el.dataset.idx].expanded;
+      renderDetail();
+    } else if(action === 'delete-trip'){
+      state.travelHistory.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'paste-to-journal'){
+      var trip = state.travelHistory[el.dataset.idx];
+      if(trip){
+        state.travelJournal.push({location:trip.dest, date:trip.savedDate, expense:trip.budget, photos:[], notes:"Pasted from a "+trip.tier+" "+(trip.days?trip.days.length:0)+"-day plan.", fullItinerary:{hotel:trip.hotel, hotelCn:trip.hotelCn, days:trip.days}, itineraryOpen:false});
+        selectItem('traveljournal');
+      }
+    } else if(action === 'add-journal-entry'){
+      var tjLoc = document.getElementById('tjLocation').value.trim();
+      var tjDate = document.getElementById('tjDate').value;
+      var tjExp = document.getElementById('tjExpense').value.trim();
+      var tjNotes = document.getElementById('tjNotes').value.trim();
+      if(tjLoc){
+        state.travelJournal.push({location:tjLoc, date:tjDate, expense:tjExp, photos:state.travelJournalPhotos.slice(), notes:tjNotes});
+        state.travelJournalPhotos = [];
+        renderDetail();
+      }
+    } else if(action === 'tj-photo-remove-new'){
+      state.travelJournalPhotos.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'tj-edit-photo-remove'){
+      state.travelJournal[el.dataset.idx].photos.splice(el.dataset.pidx,1);
+      renderDetail();
+    } else if(action === 'edit-journal-entry'){
+      state.travelJournalEditIdx = Number(el.dataset.idx);
+      renderDetail();
+    } else if(action === 'toggle-journal-itinerary'){
+      state.travelJournal[el.dataset.idx].itineraryOpen = !state.travelJournal[el.dataset.idx].itineraryOpen;
+      renderDetail();
+    } else if(action === 'save-journal-entry'){
+      var tj = state.travelJournal[el.dataset.idx];
+      tj.location = document.getElementById('tjEditLocation').value.trim() || tj.location;
+      tj.date = document.getElementById('tjEditDate').value;
+      tj.expense = document.getElementById('tjEditExpense').value.trim();
+      tj.notes = document.getElementById('tjEditNotes').value.trim();
+      if(tj.fullItinerary){
+        (tj.fullItinerary.days||[]).forEach(function(day, di){
+          var dayLabelEl = document.getElementById('itDay_'+el.dataset.idx+'_'+di);
+          if(dayLabelEl) day.label = dayLabelEl.value;
+          day.segs.forEach(function(seg, si){
+            var tEl = document.getElementById('itTime_'+el.dataset.idx+'_'+di+'_'+si);
+            var titleEl = document.getElementById('itTitle_'+el.dataset.idx+'_'+di+'_'+si);
+            var descEl = document.getElementById('itDesc_'+el.dataset.idx+'_'+di+'_'+si);
+            if(tEl) seg.time = tEl.value;
+            if(titleEl) seg.title = titleEl.value;
+            if(descEl) seg.desc = descEl.value;
+          });
+        });
+      }
+      state.travelJournalEditIdx = null;
+      renderDetail();
+    } else if(action === 'add-day-expense'){
+      var expDay = state.travelJournal[el.dataset.tidx].fullItinerary.days[el.dataset.dayidx];
+      var eTime = document.getElementById('expTime_'+el.dataset.tidx+'_'+el.dataset.dayidx).value.trim();
+      var eCat = document.getElementById('expCat_'+el.dataset.tidx+'_'+el.dataset.dayidx).value;
+      var eItem = document.getElementById('expItem_'+el.dataset.tidx+'_'+el.dataset.dayidx).value.trim();
+      var eCur = document.getElementById('expCur_'+el.dataset.tidx+'_'+el.dataset.dayidx).value;
+      var eAmt = Number(document.getElementById('expAmt_'+el.dataset.tidx+'_'+el.dataset.dayidx).value);
+      if(eItem && eAmt){
+        expDay.expenses = expDay.expenses || [];
+        expDay.expenses.push({time:eTime, category:eCat, item:eItem, currency:eCur, amount:eAmt});
+        renderDetail();
+      }
+    } else if(action === 'delete-day-expense'){
+      state.travelJournal[el.dataset.tidx].fullItinerary.days[el.dataset.dayidx].expenses.splice(el.dataset.eidx,1);
+      renderDetail();
+    } else if(action === 'delete-journal-entry'){
+      state.travelJournal.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'add-book'){
+      var title = document.getElementById('bookTitle').value.trim();
+      var author = document.getElementById('bookAuthor').value.trim();
+      var lang = document.getElementById('bookLang').value;
+      var startDate = document.getElementById('bookStart').value;
+      var finish = document.getElementById('bookFinish').value;
+      if(title){
+        state.readingBooks.push({title:title, author:author, lang:lang, startDate:startDate, finishDate:finish, done:!!finish, report:"", copy:null});
+        renderDetail();
+      }
+    } else if(action === 'toggle-book'){
+      var b = state.readingBooks[el.dataset.idx];
+      b.done = !b.done;
+      if(b.done && !b.finishDate){ b.finishDate = new Date().toISOString().slice(0,10); }
+      renderDetail();
+    } else if(action === 'gen-book-copy'){
+      var bk = state.readingBooks[el.dataset.idx];
+      var reportText = (bk.report||"").trim() || "A short, honest read that changed how I think about small daily habits.";
+      bk.copy = "📖 Just finished \""+bk.title+"\" by "+bk.author+". "+reportText+" Highly recommend if you are building your own routines. #ReadingList #"+bk.title.replace(/\s+/g,"");
+      renderDetail();
+    } else if(action === 'closet-weather'){ state.closetWeather = el.dataset.v; renderDetail(); }
+    else if(action === 'closet-mood'){ state.closetMood = el.dataset.v; renderDetail(); }
+    else if(action === 'closet-occasion'){ state.closetOccasion = el.dataset.v; renderDetail(); }
+    else if(action === 'gen-outfit'){
+      var lines = CLOSET_CATS.map(function(c){ return state.closetItems[c].length ? "your "+c.toLowerCase() : "a "+c.toLowerCase().replace(/s$/,''); });
+      var desc = "For a "+state.closetWeather.toLowerCase()+" day, feeling "+state.closetMood.toLowerCase()+", heading to "+state.closetOccasion.toLowerCase()+": pair "+lines[0]+" with "+lines[1]+", finish with "+lines[2]+", and add "+lines[3]+" for a polished touch.";
+      var flat = '<div class="flatlay">' + CLOSET_CATS.map(function(cat){
+        var imgs = state.closetItems[cat];
+        var img = imgs.length ? imgs[imgs.length-1] : null;
+        return '<div class="slot">'+(img?'<img src="'+img+'"/>':cat)+'</div>';
+      }).join('') + '</div>';
+      state.closetSuggestion = '<div class="row-card"><p class="row-title">Today’s Outfit</p>'+flat+'<p class="row-sub" style="margin-top:8px;">'+desc+'</p></div>';
+      renderDetail();
+    } else if(action === 'select-month'){
+      state.budgetMonth = el.dataset.m;
+      renderDetail();
+    } else if(action === 'add-budget'){
+      var bd = document.getElementById('budgetDate').value || (state.budgetMonth+"-01");
+      var bcat = document.getElementById('budgetCat').value;
+      var bitem = document.getElementById('budgetItem').value.trim();
+      var bamt = Number(document.getElementById('budgetAmt').value);
+      if(bamt){
+        state.budgetEntries.push({date:bd, cat:bcat, item:bitem, amt:bamt});
+        renderDetail();
+      }
+    } else if(action === 'delete-budget'){
+      state.budgetEntries.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'add-price'){
+      var pitem = document.getElementById('priceItem').value.trim();
+      var pstore = document.getElementById('priceStore').value.trim();
+      var pprice = Number(document.getElementById('pricePrice').value);
+      var pdate = document.getElementById('priceDate').value || new Date().toISOString().slice(0,10);
+      if(pitem && pprice){
+        state.priceEntries.push({item:pitem, store:pstore||"—", price:pprice, date:pdate});
+        renderDetail();
+      }
+    } else if(action === 'delete-price'){
+      state.priceEntries.splice(el.dataset.idx,1);
+      renderDetail();
+    } else if(action === 'play-audio'){
+      var text;
+      if(el.dataset.ttsSrc){ var srcEl = document.getElementById(el.dataset.ttsSrc); text = srcEl ? srcEl.value : ""; }
+      else { text = el.dataset.tts || ""; }
+      toggleAudioButton(el, text);
+    } else if(action === 'set-accent'){
+      state.voiceLang = el.dataset.v;
+      renderDetail();
+    } else if(action === 'toggle-voice-diag'){
+      loadVoices();
+      state.showVoiceDiag = !state.showVoiceDiag;
+      renderDetail();
+    } else if(action === 'toggle-record'){
+      toggleRecording(el.dataset.target);
+    } else if(action === 'edit-book'){
+      state.readingEditIdx = Number(el.dataset.idx);
+      renderDetail();
+    } else if(action === 'save-book'){
+      var rb = state.readingBooks[el.dataset.idx];
+      rb.title = document.getElementById('editTitle').value.trim() || rb.title;
+      rb.author = document.getElementById('editAuthor').value.trim();
+      rb.lang = document.getElementById('editLang').value;
+      rb.startDate = document.getElementById('editStart').value;
+      rb.finishDate = document.getElementById('editFinish').value;
+      if(rb.finishDate) rb.done = true;
+      state.readingEditIdx = null;
+      renderDetail();
+    } else if(action === 'edit-budget-target'){
+      state.editingBudgetTarget = true;
+      renderDetail();
+    } else if(action === 'save-budget-target'){
+      var newTarget = Number(document.getElementById('budgetTargetInput').value);
+      if(newTarget) state.budgetTarget = newTarget;
+      state.editingBudgetTarget = false;
+      renderDetail();
+    } else if(action === 'set-journal-tab'){
+      state.journalTab = el.dataset.v;
+      renderDetail();
+    } else if(action === 'add-journal'){
+      var jd = document.getElementById('journalDate').value || new Date().toISOString().slice(0,10);
+      var jt = document.getElementById('journalText').value.trim();
+      if(jt){
+        state.journal[state.journalTab].push({date:jd, text:jt});
+        renderDetail();
+      }
+    } else if(action === 'add-notes'){
+      var ntext = document.getElementById('notesText').value.trim();
+      if(ntext || state.notesPhoto){
+        state.dailyNotes.push({date:new Date().toISOString().slice(0,10), photo:state.notesPhoto, text:ntext});
+        state.notesPhoto = null;
+        renderDetail();
+      }
+    } else if(action === 'start-word-game'){
+      startWordGame();
+    } else if(action === 'answer-quiz'){
+      answerQuestion(el.dataset.text);
+    }
+  });
+
+  detailBody.addEventListener('change', function(e){
+    var el = e.target;
+    if(el.dataset.action === 'xhs-photo' && el.files[0]){ readImg(el.files[0], function(url){ state.xhsPhoto = url; renderDetail(); }); }
+    else if(el.dataset.action === 'food-photo' && el.files[0]){ readImg(el.files[0], function(url){ state.foodPhoto = url; renderDetail(); }); }
+    else if(el.dataset.action === 'closet-photo' && el.files[0]){ var cat = el.dataset.cat; readImg(el.files[0], function(url){ state.closetItems[cat].push(url); renderDetail(); }); }
+    else if(el.dataset.action === 'notes-photo' && el.files[0]){ readImg(el.files[0], function(url){ state.notesPhoto = url; renderDetail(); }); }
+    else if(el.dataset.action === 'tj-photo-add' && el.files[0]){ readImg(el.files[0], function(url){ state.travelJournalPhotos.push(url); renderDetail(); }); }
+    else if(el.dataset.action === 'tj-edit-photo-add' && el.files[0]){ var tjIdx = el.dataset.idx; readImg(el.files[0], function(url){ state.travelJournal[tjIdx].photos = state.travelJournal[tjIdx].photos || []; state.travelJournal[tjIdx].photos.push(url); renderDetail(); }); }
+    else if(el.dataset.action === 'report-input'){ state.readingBooks[el.dataset.idx].report = el.value; }
+  });
+
+  var swipeState = { el:null, startX:0, curX:0 };
+  detailBody.addEventListener('pointerdown', function(e){
+    var content = e.target.closest('.swipe-content');
+    if(!content) return;
+    swipeState.el = content; swipeState.startX = e.clientX; swipeState.curX = 0;
+    content.classList.add('dragging');
+  });
+  detailBody.addEventListener('pointermove', function(e){
+    if(!swipeState.el) return;
+    var dx = e.clientX - swipeState.startX;
+    swipeState.curX = Math.max(-80, Math.min(0, dx));
+    swipeState.el.style.transform = 'translateX('+swipeState.curX+'px)';
+  });
+  function endSwipe(){
+    if(!swipeState.el) return;
+    swipeState.el.classList.remove('dragging');
+    swipeState.el.style.transform = swipeState.curX < -40 ? 'translateX(-80px)' : 'translateX(0)';
+    swipeState.el = null;
+  }
+  detailBody.addEventListener('pointerup', endSwipe);
+  detailBody.addEventListener('pointercancel', endSwipe);
+
+  var recognitionObj = null, isRecording = false;
+  function updateRecordBtnUI(targetId){
+    var btnId = targetId==='rehearsalAnswerBox' ? 'rehearsalRecordBtn' : 'recordBtn';
+    var btn = document.getElementById(btnId);
+    if(!btn) return;
+    if(isRecording){ btn.textContent="⏹ Stop Recording"; btn.classList.add('recording'); }
+    else { btn.textContent="🎙 Start Recording"; btn.classList.remove('recording'); }
+  }
+  function toggleRecording(targetId){
+    targetId = targetId || 'speakingInput';
+    var SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if(!SR){
+      var ta = document.getElementById(targetId);
+      if(ta){ ta.placeholder = "Live recording isn't supported in this browser, type what you said instead."; }
+      return;
+    }
+    if(!isRecording){
+      recognitionObj = new SR();
+      recognitionObj.lang = state.voiceLang === 'en-GB' ? 'en-GB' : 'en-US';
+      recognitionObj.interimResults = false;
+      recognitionObj.maxAlternatives = 1;
+      recognitionObj.onresult = function(ev){
+        var t = ev.results[0][0].transcript;
+        var ta = document.getElementById(targetId);
+        if(ta){ ta.value = t; }
+        if(targetId==='speakingInput') state.speakingInput = t;
+      };
+      recognitionObj.onerror = function(){ isRecording=false; updateRecordBtnUI(targetId); };
+      recognitionObj.onend = function(){ isRecording=false; updateRecordBtnUI(targetId); };
+      try{ recognitionObj.start(); isRecording=true; updateRecordBtnUI(targetId); }
+      catch(err){ isRecording=false; updateRecordBtnUI(targetId); }
+    } else {
+      recognitionObj.stop();
+      isRecording=false; updateRecordBtnUI(targetId);
+    }
+  }
+
+  /* ---------------- home dashboard ---------------- */
+  var SCENE_DOG = '<svg class="bg" viewBox="0 0 300 130" preserveAspectRatio="xMidYMax slice">'
+    +'<rect width="300" height="130" fill="url(#skyGrad)"/>'
+    +'<circle cx="250" cy="30" r="18" fill="#ffe08a" opacity="0.9"/>'
+    +'<path d="M0 95 Q75 75 150 95 T300 95 V130 H0 Z" fill="#8fcf8a"/>'
+    +'<path d="M0 105 Q75 88 150 105 T300 105 V130 H0 Z" fill="#79bd76"/>'
+    +'<circle cx="120" cy="72" r="10" fill="#f6cda4"/>'
+    +'<path d="M112 68 q8 -10 16 0" stroke="#3a2a20" stroke-width="3" fill="none" stroke-linecap="round"/>'
+    +'<rect x="112" y="80" width="16" height="24" rx="7" fill="#db5079"/>'
+    +'<line x1="120" y1="104" x2="115" y2="122" stroke="#3a1f26" stroke-width="3" stroke-linecap="round"/>'
+    +'<line x1="120" y1="104" x2="127" y2="122" stroke="#3a1f26" stroke-width="3" stroke-linecap="round"/>'
+    +'<line x1="128" y1="88" x2="145" y2="98" stroke="#f6cda4" stroke-width="3" stroke-linecap="round"/>'
+    +'<line x1="145" y1="98" x2="165" y2="104" stroke="#3a1f26" stroke-width="1.5"/>'
+    +'<ellipse cx="178" cy="108" rx="14" ry="9" fill="#c98a4b"/>'
+    +'<circle cx="192" cy="103" r="7" fill="#c98a4b"/>'
+    +'<path d="M190 98 l-2 -6 M195 98 l2 -6" stroke="#c98a4b" stroke-width="3" stroke-linecap="round"/>'
+    +'<line x1="168" y1="112" x2="166" y2="120" stroke="#8a5a2f" stroke-width="2.5" stroke-linecap="round"/>'
+    +'<line x1="186" y1="112" x2="188" y2="120" stroke="#8a5a2f" stroke-width="2.5" stroke-linecap="round"/>'
+    +'<path d="M164 106 q-8 -4 -10 2" stroke="#c98a4b" stroke-width="3" fill="none" stroke-linecap="round"/>'
+    +'</svg>';
+  var SCENE_COFFEE = '<svg class="bg" viewBox="0 0 300 130" preserveAspectRatio="xMidYMax slice">'
+    +'<rect width="300" height="130" fill="url(#skyGrad2)"/>'
+    +'<circle cx="40" cy="28" r="16" fill="#ffe08a" opacity="0.85"/>'
+    +'<path d="M0 100 H300 V130 H0 Z" fill="#e9cfa3"/>'
+    +'<rect x="150" y="86" width="46" height="4" rx="2" fill="#8a5a2f"/>'
+    +'<line x1="160" y1="90" x2="160" y2="112" stroke="#8a5a2f" stroke-width="3"/>'
+    +'<line x1="186" y1="90" x2="186" y2="112" stroke="#8a5a2f" stroke-width="3"/>'
+    +'<circle cx="168" cy="78" r="9" fill="#f6cda4"/>'
+    +'<path d="M161 75 q7 -9 14 0" stroke="#3a2a20" stroke-width="3" fill="none" stroke-linecap="round"/>'
+    +'<rect x="160" y="86" width="16" height="20" rx="7" fill="#c9a24a"/>'
+    +'<rect x="140" y="94" width="10" height="12" rx="2" fill="#fff"/>'
+    +'<path d="M148 96 q6 2 4 8" stroke="#fff" stroke-width="1.5" fill="none"/>'
+    +'<path d="M141 92 q2 -5 -1 -8 M145 92 q2 -6 0 -9" stroke="#cbb9a6" stroke-width="1.2" fill="none" stroke-linecap="round"/>'
+    +'</svg>';
+
+  function detectCountry(){
+    try{
+      var tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      var MAP = {
+        "Asia/Singapore":"Singapore","Asia/Kuala_Lumpur":"Malaysia","Asia/Bangkok":"Thailand",
+        "Asia/Tokyo":"Japan","Asia/Seoul":"South Korea","Asia/Shanghai":"China","Asia/Hong_Kong":"Hong Kong",
+        "Asia/Jakarta":"Indonesia","Australia/Sydney":"Australia","Europe/London":"United Kingdom",
+        "America/New_York":"United States","America/Los_Angeles":"United States"
+      };
+      return MAP[tz] || "Singapore";
+    } catch(e){ return "Singapore"; }
+  }
+  function renderHome(){
+    var doneCount = state.tasks.filter(function(t){return t.done;}).length;
+    var totalTasks = state.tasks.length || 1;
+    var frac = doneCount/totalTasks;
+    var food = Math.round(20 + frac*80);
+    var water = Math.round(15 + frac*85);
+    var species = PET_SPECIES.find(function(s){return s.id===state.petSpecies;}) || PET_SPECIES[0];
+    var ageDays = Math.max(0, Math.floor((Date.now() - new Date(state.petBirthDate).getTime())/86400000));
+    var stage = ageDays<3 ? "Baby" : ageDays<10 ? "Growing" : "Grown";
+    var faceSize = stage==="Baby" ? 24 : stage==="Growing" ? 32 : 40;
+    var moodEmoji = species.emoji + " " + (frac>=1 ? "❤️" : frac>=0.5 ? "🙂" : frac>0 ? "😐" : "😢");
+    var moodText = frac>=1 ? species.name+" is fully fed and happy!" : frac>=0.5 ? species.name+" is doing well, keep going!" : frac>0 ? species.name+" could use a bit more." : species.name+" is hungry, finish a task to feed!";
+    document.getElementById('streakChip').textContent = species.emoji+" "+species.name+" "+food+"% fed";
+
+    var dayIdx = Math.floor((Date.now()/86400000)) % QUOTES.length;
+    var quote = QUOTES[dayIdx];
+    var sceneSvg = (Math.floor(Date.now()/86400000) % 2 === 0) ? SCENE_DOG : SCENE_COFFEE;
+    var today = new Date();
+    var hour = today.getHours();
+    var greetWord = hour<5 ? "Good night" : hour<12 ? "Good morning" : hour<17 ? "Good afternoon" : hour<21 ? "Good evening" : "Good night";
+    var greetEmoji = hour<5 ? "🌙" : hour<12 ? "☀️" : hour<17 ? "🌤️" : hour<21 ? "🌆" : "🌙";
+    var country = detectCountry();
+    var dateStr = today.toLocaleDateString('en-US', {month:'long', day:'numeric', weekday:'long'});
+
+    var html = '<div class="card scene-card">'+sceneSvg+'<div class="txt"><h2>'+greetWord+', '+esc(state.bioName)+' '+greetEmoji+'</h2><p>'+dateStr+' · '+country+'</p>'
+      +'<p style="margin-top:8px; font-style:italic; font-size:12px;">"'+quote.q+'"</p><p style="margin:2px 0 0; font-size:11px; font-weight:700;">&mdash; '+quote.a+'</p>'
+      +'</div></div>';
+    html += '<div class="card pet-card"><div class="pet-face" style="font-size:'+faceSize+'px;">'+species.emoji+'</div><div class="pet-meters">'
+      +'<div class="row-head"><p class="row-title" style="margin:0; flex:1;">'+species.name+' &middot; '+stage+'</p><button class="edit-icon-btn" data-action="toggle-pet-picker">✎ Change</button></div>'
+      +'<div class="pet-meter-row"><span>🍚</span><div class="bar-track"><div class="bar-fill" style="width:'+food+'%; background:var(--ok);"></div></div><span>'+food+'%</span></div>'
+      +'<div class="pet-meter-row"><span>💧</span><div class="bar-track"><div class="bar-fill" style="width:'+water+'%; background:#5b8def;"></div></div><span>'+water+'%</span></div>'
+      +'<p class="row-sub" style="margin-top:6px;">'+moodText+'</p></div></div>';
+    if(state.petPickerOpen){
+      html += '<div class="chip-row" style="margin-top:8px;">'+PET_SPECIES.map(function(s){ return '<span class="sel-chip'+(state.petSpecies===s.id?" active":"")+'" data-action="pick-pet" data-id="'+s.id+'">'+s.emoji+' '+s.label+'</span>'; }).join('')+'</div>';
+    }
+    html += '<div class="stats-row">'
+      +'<div class="stat"><div class="num gold">'+moodEmoji+'</div><div class="lbl">'+species.name+'’s mood</div></div>'
+      +'<div class="stat"><div class="num accent">'+doneCount+'/'+state.tasks.length+'</div><div class="lbl">Done today</div></div>'
+      +'<div class="stat"><div class="num accent">86</div><div class="lbl">Words learned</div></div>'
+      +'</div>';
+    html += '<div class="section-title"><h3>Today’s Plan</h3><span data-action="goto-plan">View all ›</span></div>';
+    html += '<div class="plan-list" id="homeTaskList">';
+    state.tasks.slice(0,4).forEach(function(t){
+      html += '<div class="plan-item'+(t.done?' done':'')+'"><span class="chk'+(t.done?' on':'')+'" data-action="home-toggle-task" data-id="'+t.id+'">'+CHECK_ICON+'</span><span class="txt">'+esc(t.text)+'</span><span class="tag">'+t.cat+'</span></div>';
+    });
+    html += '</div>';
+    homeContent.innerHTML = html;
+    scheduleSave();
+  }
+  homeContent.addEventListener('click', function(e){
+    var el = e.target.closest('[data-action]');
+    if(!el) return;
+    if(el.dataset.action === 'home-toggle-task'){
+      var t = state.tasks.find(function(x){return x.id==el.dataset.id;});
+      if(t) t.done = !t.done;
+      renderHome();
+    } else if(el.dataset.action === 'goto-plan'){
+      selectItem('plan');
+    } else if(el.dataset.action === 'toggle-pet-picker'){
+      state.petPickerOpen = !state.petPickerOpen;
+      renderHome();
+    } else if(el.dataset.action === 'pick-pet'){
+      state.petSpecies = el.dataset.id;
+      state.petPickerOpen = false;
+      renderHome();
+    }
+  });
+  applyPalette(state.palette);
+  updateAvatars();
+  renderHome();
+
+  function tick(){
+    var now = new Date();
+    var h = now.getHours(), m = now.getMinutes();
+    document.getElementById('clock').textContent = (h<10?'0':'')+h+':'+(m<10?'0':'')+m;
+  }
+  tick();
+  setInterval(tick, 15000);
+
+  setInterval(saveState, 4000);
+  window.addEventListener('pagehide', saveState);
+  document.addEventListener('visibilitychange', function(){ if(document.hidden) saveState(); });
+})();
+</script>
+</body>
+</html>

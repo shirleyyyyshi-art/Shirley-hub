@@ -1,0 +1,12 @@
+{
+  "name": "Shirley's Personal Growth Hub",
+  "short_name": "Shirley",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffe9c9",
+  "theme_color": "#ff4d94",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-1024.png", "sizes": "1024x1024", "type": "image/png" }
+  ]
+}
