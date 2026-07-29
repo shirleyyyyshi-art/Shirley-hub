@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-29T08:23:33.974515+00:00",
+  "economist": {
+    "headline": "AI revenues are growing fast, but not fast enough",
+    "teaser": "The returns on trillions of dollars of spending are deeply uncertain",
+    "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+    "vocab": [
+      {
+        "word": "revenues",
+        "phonetic": "/ˈɹɛvənjuːz/",
+        "def": "The income returned by an investment."
+      },
+      {
+        "word": "growing",
+        "phonetic": "/ˈɡɹəʊɪŋ/",
+        "def": "To become larger, to increase in magnitude."
+      }
+    ]
+  },
+  "st": {
+    "headline": "BMW to cut several thousand jobs under voluntary redundancy programme",
+    "teaser": "About half of BMW’s German employees in desk-based jobs will be offered voluntary redundancy.",
+    "url": "https://www.straitstimes.com/business/bmw-to-cut-several-thousand-jobs-under-voluntary-redundancy-programme"
+  },
+  "cna": {
+    "headline": "UEFA to hold emergency meeting with members over FIFA private investment plan, BBC reports",
+    "teaser": "UEFA to hold emergency meeting with members over FIFA private investment plan, BBC reports",
+    "url": "https://www.channelnewsasia.com/sport/uefa-hold-emergency-meeting-members-over-fifa-private-investment-plan-bbc-reports-6285456"
+  },
+  "mom": {
+    "headline": "Multi-Agency Workplace Safety and Health Taskforce (MAST) calls for greater vigilance amidst rise in work‑related traffic accidents this year",
+    "teaser": "The Multi ‑ Agency Workplace Safety and Health Taskforce (MAST) [1] has called on industry stakeholders, employers, workers and road users to strengthen vigilance on the roads and in navigation. This is amidst a rise in road traffic accidents in recent years [2] and work ‑ related traffic accidents (WRTAs) this year.",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0728-mast-calls-for-greater-vigilance"
+  }
+}

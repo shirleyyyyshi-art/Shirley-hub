@@ -527,7 +527,32 @@
     return formatDateEn(dateStr);
   }
   function plainText(html){ var d=document.createElement('div'); d.innerHTML=html; return d.textContent||""; }
+  function dayIndex(){ return Math.floor(Date.now()/86400000); }
+  function dailyPick(pool, count){
+    count = count || 1;
+    var start = dayIndex() % pool.length;
+    var out = [];
+    for(var i=0;i<Math.min(count,pool.length);i++){ out.push(pool[(start+i)%pool.length]); }
+    return out;
+  }
   function row(title, sub){ return '<div class="row-card"><p class="row-title">'+title+'</p><p class="row-sub">'+sub+'</p></div>'; }
+  function callGeminiJSON(apiKey, prompt){
+    var url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key='+encodeURIComponent(apiKey);
+    return fetch(url, {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        contents:[{parts:[{text:prompt}]}],
+        generationConfig:{temperature:0.9, responseMimeType:'application/json'}
+      })
+    }).then(function(r){
+      if(!r.ok) throw new Error('Gemini request failed ('+r.status+')');
+      return r.json();
+    }).then(function(data){
+      var text = data.candidates[0].content.parts[0].text;
+      return JSON.parse(text);
+    });
+  }
   function bar(label, pct){ return '<div class="row-card"><p class="row-title">'+label+'</p><div class="bar-track"><div class="bar-fill" style="width:'+pct+'%"></div></div></div>'; }
   function chipRow(list){ return '<div class="chip-row">'+list.map(function(c){return '<span class="chip">'+c+'</span>';}).join('')+'</div>'; }
   function linkBtn(label, url){ return '<a class="link-btn" href="'+url+'" target="_blank" rel="noopener">'+label+' ↗</a>'; }
@@ -663,7 +688,8 @@
     voiceLang:"en-GB", showVoiceDiag:false,
 
     selfIntro:"Hi, I am Shirley, an HR professional with 7 years of experience across talent acquisition and employee relations. I moved to Singapore to grow into a regional HR role, and I am currently sharpening my interview English and preparing for IHRP-CP certification.",
-    interviewCompany:"", interviewRole:"", interviewJd:"", interviewQA:null,
+    interviewCompany:"", interviewRole:"", interviewJd:"", interviewCompanyInfo:"", interviewCustomNotes:"", interviewQA:null, interviewQAGenerating:false, interviewQAError:null,
+    geminiApiKey:"",
     interviewFeedbackList:[
       {company:"PropertyGuru", role:"Senior HRBP", round:"1", interviewDate:"2026-06-10", date:"2026-06-12",
        self:"Confident on the STAR structure, but rambled on the compensation question.",
@@ -684,6 +710,7 @@
     newsLevel:"intermediate",
 
     vlogSceneInput:"", vlogScripts:[], vlogScriptEditIdx:null,
+    socialLinks:{tt:[], xhs:[], yt:[]},
     xhsIdea:"", xhsPhoto:null, xhsOutput:null, xhsEditing:false,
 
     foodPhoto:null, foodEditIdx:null,
@@ -736,7 +763,7 @@
 
     speakingInput:"", speakingOutput:null,
     writingInput:"", writingOutput:null,
-    listeningLookup:null, listeningIdx:0,
+    listeningLookup:null,
     wordGame:null,
     rehearsal:null,
 
@@ -956,7 +983,19 @@
     {en:"feeding time", cn:"喂食时间", emoji:"🍽️", def:"the scheduled time when zoo animals are given their food.", ex:"Feeding time at the penguin pool always draws a crowd."},
     {en:"zookeeper", cn:"饲养员", emoji:"🧑‍🌾", def:"a person whose job is to look after animals in a zoo.", ex:"The zookeeper explained how she cares for the elephants."},
     {en:"aquarium", cn:"水族馆", emoji:"🐟", def:"a building where fish and other water animals are kept and shown to the public.", ex:"We watched the sharks glide past the aquarium's glass tunnel."},
-    {en:"souvenir shop", cn:"纪念品商店", emoji:"🎁", def:"a shop that sells small gifts and items to remember a place you visited.", ex:"She bought a stuffed panda from the souvenir shop."}
+    {en:"souvenir shop", cn:"纪念品商店", emoji:"🎁", def:"a shop that sells small gifts and items to remember a place you visited.", ex:"She bought a stuffed panda from the souvenir shop."},
+    {en:"penguin", cn:"企鹅", emoji:"🐧", def:"a black-and-white flightless bird that swims well, mostly found in cold regions.", ex:"The penguin waddled across the ice before diving into the pool."},
+    {en:"otter", cn:"水獭", emoji:"🦦", def:"a small, playful mammal that lives in or near water and has a sleek, waterproof coat.", ex:"The otter cracked open a shellfish using a small rock."},
+    {en:"exhibit", cn:"展览区/展品", emoji:"🖼️", def:"a display of an animal, object, or collection for the public to see.", ex:"The new reptile exhibit opened to long queues this weekend."},
+    {en:"habitat", cn:"栖息地", emoji:"🌿", def:"the natural environment in which an animal or plant normally lives.", ex:"The zoo rebuilt the habitat to look more like the wild."},
+    {en:"nocturnal", cn:"夜行性的", emoji:"🦉", def:"active mainly during the night rather than the day.", ex:"Owls are nocturnal, so they sleep for most of the day."},
+    {en:"conservation", cn:"保育、保护", emoji:"🌍", def:"the protection of animals, plants, and natural resources.", ex:"The zoo runs a conservation programme for endangered turtles."},
+    {en:"stroller", cn:"婴儿手推车", emoji:"👶", def:"a small wheeled seat used to push a young child around.", ex:"Strollers can be rented near the main entrance."},
+    {en:"ticket counter", cn:"售票处", emoji:"🎫", def:"the place where visitors buy entry tickets.", ex:"There was a short line at the ticket counter this morning."},
+    {en:"picnic area", cn:"野餐区", emoji:"🧺", def:"a designated outdoor space where visitors can sit and eat their own food.", ex:"We had lunch at the picnic area near the lake."},
+    {en:"tram", cn:"园区观光车", emoji:"🚋", def:"a small vehicle that carries visitors around a large park or zoo.", ex:"The tram stops at every major exhibit along the route."},
+    {en:"veterinarian", cn:"兽医", emoji:"🩺", def:"a doctor who is trained to treat sick or injured animals.", ex:"The veterinarian checked on the newborn giraffe calf."},
+    {en:"species", cn:"物种", emoji:"🧬", def:"a group of animals or plants that share the same basic characteristics.", ex:"This zoo is home to over two hundred species."}
   ];
   var LEVEL_VOCAB = [
     {w:"articulate", ipa:"/ɑːˈtɪkjəleɪt/", pos:"adj.", cn:"表达清晰的", def:"able to express thoughts and ideas clearly and effectively.", ex:"She is an articulate speaker who explains complex ideas simply."},
@@ -966,7 +1005,19 @@
     {w:"proactive", ipa:"/ˌproʊˈæktɪv/", pos:"adj.", cn:"积极主动的", def:"acting in advance to deal with an expected problem, rather than reacting after it happens.", ex:"Being proactive about deadlines saves stress later."},
     {w:"candid", ipa:"/ˈkændɪd/", pos:"adj.", cn:"坦率的", def:"honest and direct, even about things that may be uncomfortable to say.", ex:"I appreciated her candid feedback on my presentation."},
     {w:"viable", ipa:"/ˈvaɪəbl/", pos:"adj.", cn:"可行的", def:"capable of working successfully; realistic and workable.", ex:"Is remote work still a viable option for this role?"},
-    {w:"reluctant", ipa:"/rɪˈlʌktənt/", pos:"adj.", cn:"不情愿的", def:"unwilling and hesitant to do something.", ex:"He was reluctant to change his usual routine."}
+    {w:"reluctant", ipa:"/rɪˈlʌktənt/", pos:"adj.", cn:"不情愿的", def:"unwilling and hesitant to do something.", ex:"He was reluctant to change his usual routine."},
+    {w:"consolidate", ipa:"/kənˈsɒlɪdeɪt/", pos:"v.", cn:"巩固、整合", def:"to combine several things into a single, more effective whole.", ex:"The team consolidated three reports into one dashboard."},
+    {w:"discrepancy", ipa:"/dɪˈskrepənsi/", pos:"n.", cn:"差异、不一致", def:"a difference between two things that should be the same.", ex:"There was a discrepancy between the invoice and the receipt."},
+    {w:"streamline", ipa:"/ˈstriːmlaɪn/", pos:"v.", cn:"简化、使高效", def:"to make a process simpler and more efficient.", ex:"We streamlined the approval process to save everyone time."},
+    {w:"redundant", ipa:"/rɪˈdʌndənt/", pos:"adj.", cn:"多余的、冗余的", def:"not or no longer needed; superfluous.", ex:"That last paragraph felt redundant, so we cut it."},
+    {w:"tentative", ipa:"/ˈtentətɪv/", pos:"adj.", cn:"暂定的、试探性的", def:"not certain or fixed; done as a first, cautious step.", ex:"We have a tentative agreement, pending final sign-off."},
+    {w:"escalate", ipa:"/ˈeskəleɪt/", pos:"v.", cn:"升级、上报", def:"to make a problem more serious, or to pass it to someone more senior.", ex:"Please escalate the issue if it isn't fixed by Friday."},
+    {w:"feasible", ipa:"/ˈfiːzəbl/", pos:"adj.", cn:"可行的", def:"possible to do easily or practically.", ex:"Is it feasible to launch before the end of the quarter?"},
+    {w:"forthcoming", ipa:"/ˌfɔːθˈkʌmɪŋ/", pos:"adj.", cn:"即将到来的；乐于提供信息的", def:"about to happen soon, or willing to give information freely.", ex:"She was forthcoming about the risks of the plan."},
+    {w:"meticulous", ipa:"/məˈtɪkjələs/", pos:"adj.", cn:"一丝不苟的", def:"showing great attention to detail; very careful and precise.", ex:"He is meticulous about checking every figure twice."},
+    {w:"pragmatic", ipa:"/præɡˈmætɪk/", pos:"adj.", cn:"务实的", def:"dealing with problems in a sensible, realistic way rather than by fixed theory.", ex:"We need a pragmatic solution we can ship this week."},
+    {w:"scrutinise", ipa:"/ˈskruːtənaɪz/", pos:"v.", cn:"仔细审查", def:"to examine something closely and carefully.", ex:"Auditors will scrutinise every line of the budget."},
+    {w:"unprecedented", ipa:"/ʌnˈpresɪdentɪd/", pos:"adj.", cn:"史无前例的", def:"never having happened or existed before.", ex:"The company saw unprecedented growth this year."}
   ];
 
   var LISTENING_POOL = [
@@ -978,7 +1029,22 @@
      transcript:'A new generation of hawkers is bringing fresh energy to Singapore’s food centres. Many stalls are <span class="dict-word" data-action="lookup-word" data-def="subsidise (v.) 补贴 &mdash; to help pay the costs of something, often to make it more affordable.">subsidised</span> by government grants aimed at keeping rents low. Some have also started to <span class="dict-word" data-action="lookup-word" data-def="diversify (v.) 使多样化 &mdash; to add variety by expanding into new areas.">diversify</span> their menus, blending old recipes with modern twists. Regulars say the biggest change is not the food, but the growing <span class="dict-word" data-action="lookup-word" data-def="footfall (n.) 客流量 &mdash; the number of people entering a shop or area.">footfall</span> from younger diners discovering hawker food for the first time.'},
     {source:"BBC Learning English style · Upper-Intermediate",
      title:"The Four-Day Week, Revisited",
-     transcript:'More companies are experimenting with shorter work weeks, and the early data looks promising. Employees report feeling less <span class="dict-word" data-action="lookup-word" data-def="fatigued (adj.) 疲惫的 &mdash; extremely tired, especially after exertion.">fatigued</span> by Friday, and turnover has dropped at several trial firms. Critics remain <span class="dict-word" data-action="lookup-word" data-def="skeptical (adj.) 持怀疑态度的 &mdash; having doubts about whether something is true or will work.">skeptical</span>, arguing the model does not scale to every industry. Still, the trend has clearly gained enough <span class="dict-word" data-action="lookup-word" data-def="momentum (n.) 势头；动力 &mdash; the force that keeps something moving or developing.">momentum</span> to reshape how some companies think about the workweek.'}
+     transcript:'More companies are experimenting with shorter work weeks, and the early data looks promising. Employees report feeling less <span class="dict-word" data-action="lookup-word" data-def="fatigued (adj.) 疲惫的 &mdash; extremely tired, especially after exertion.">fatigued</span> by Friday, and turnover has dropped at several trial firms. Critics remain <span class="dict-word" data-action="lookup-word" data-def="skeptical (adj.) 持怀疑态度的 &mdash; having doubts about whether something is true or will work.">skeptical</span>, arguing the model does not scale to every industry. Still, the trend has clearly gained enough <span class="dict-word" data-action="lookup-word" data-def="momentum (n.) 势头；动力 &mdash; the force that keeps something moving or developing.">momentum</span> to reshape how some companies think about the workweek.'},
+    {source:"CNA style · Intermediate",
+     title:"Jurong Lake District Takes Shape",
+     transcript:'Singapore’s second central business district is slowly <span class="dict-word" data-action="lookup-word" data-def="materialise (v.) (使)成为现实、显现 &mdash; to become actual or real, especially after being planned.">materialising</span> in Jurong. Planners say the district was designed to <span class="dict-word" data-action="lookup-word" data-def="decentralise (v.) 分散、去中心化 &mdash; to move activity away from a single central point.">decentralise</span> jobs away from the traditional downtown core. Early tenants say the biggest draw is not rent, but the <span class="dict-word" data-action="lookup-word" data-def="connectivity (n.) 连通性 &mdash; how easily a place can be reached by transport or communication links.">connectivity</span> once the new MRT line opens.'},
+    {source:"BBC Learning English style · Intermediate",
+     title:"Singapore’s Push Toward Solar Power",
+     transcript:'Land is scarce in Singapore, so solar panels are increasingly being <span class="dict-word" data-action="lookup-word" data-def="mounted (v.) 安装、架设 &mdash; fixed in position for use.">mounted</span> on reservoirs and rooftops instead of open fields. Engineers say the biggest hurdle is not the panels themselves, but <span class="dict-word" data-action="lookup-word" data-def="intermittency (n.) 间歇性 &mdash; the quality of stopping and starting rather than being continuous.">intermittency</span>, since output drops sharply on cloudy days. Storage technology is <span class="dict-word" data-action="lookup-word" data-def="advancing (v.) 推进、进步 &mdash; moving forward or developing.">advancing</span> quickly enough that planners are now confident about hitting the 2030 target.'},
+    {source:"CNA style · Upper-Intermediate",
+     title:"The Quiet Return of Night Markets",
+     transcript:'Pasar malam culture is experiencing a modest <span class="dict-word" data-action="lookup-word" data-def="resurgence (n.) 复苏、再度兴起 &mdash; a renewal of activity or popularity after a period of decline.">resurgence</span> as younger vendors bring fresh branding to an old format. Analysts note that the appeal is largely <span class="dict-word" data-action="lookup-word" data-def="nostalgic (adj.) 怀旧的 &mdash; evoking a sentimental longing for the past.">nostalgic</span>, drawing crowds who grew up visiting these markets with family. Organisers admit the biggest challenge remains <span class="dict-word" data-action="lookup-word" data-def="logistics (n.) 后勤、物流安排 &mdash; the detailed coordination of a complex operation.">logistics</span>, since temporary stalls need power and permits arranged from scratch each time.'},
+    {source:"BBC Learning English style · Intermediate",
+     title:"Libraries Rethink Their Role",
+     transcript:'Public libraries are being <span class="dict-word" data-action="lookup-word" data-def="repositioned (v.) 重新定位 &mdash; given a new role or purpose.">repositioned</span> as community spaces rather than just places to borrow books. Visitor numbers have <span class="dict-word" data-action="lookup-word" data-def="rebounded (v.) 反弹、回升 &mdash; increased again after a period of decline.">rebounded</span> since new maker spaces and podcast studios were added. Staff say the biggest shift is not in what people borrow, but in how long they choose to stay.'},
+    {source:"CNA style · Intermediate",
+     title:"Coffee Shops Face a Manpower Crunch",
+     transcript:'Traditional coffee shops are struggling to find workers willing to take on <span class="dict-word" data-action="lookup-word" data-def="irregular (adj.) 不规律的 &mdash; not following a fixed or predictable pattern.">irregular</span> hours for modest pay. Some stall owners have started to <span class="dict-word" data-action="lookup-word" data-def="automate (v.) 使自动化 &mdash; to use machines instead of people to do a task.">automate</span> simple tasks like drink preparation to cope with the shortage. Industry groups warn the shift could gradually erode the <span class="dict-word" data-action="lookup-word" data-def="authenticity (n.) 真实性、原汁原味 &mdash; the quality of being genuine or true to the original.">authenticity</span> that regulars say they value most.'}
   ];
 
 
@@ -1102,6 +1168,17 @@
 
   loadState();
 
+  var liveDaily = null;
+  function loadLiveDaily(){
+    fetch('./data/daily.json', {cache:'no-store'}).then(function(r){
+      return r.ok ? r.json() : null;
+    }).then(function(d){
+      liveDaily = d;
+      if(currentPageId==='news' || currentPageId==='mom') renderDetail();
+    }).catch(function(){});
+  }
+  loadLiveDaily();
+
   /* ---------------- page renderers ---------------- */
 
   function pagePlan(){
@@ -1162,18 +1239,25 @@
       +'<textarea class="field" id="selfIntroBox" rows="5">'+esc(state.selfIntro)+'</textarea></div>';
 
     html += '<div class="row-card"><p class="row-title">Company &amp; Role Prep</p>'
-      +'<p class="row-sub" style="margin:4px 0 8px;">Add the company, role and JD, get likely questions with suggested answers.</p>'
+      +'<p class="row-sub" style="margin:4px 0 8px;">Add the company, role and JD, get likely questions with suggested answers.'+(state.geminiApiKey?'':' Add a free Gemini API key in your profile to make these genuinely tailored instead of generic.')+'</p>'
       +'<input class="field" id="intCompany" placeholder="Company" value="'+esc(state.interviewCompany)+'" style="margin-bottom:8px;"/>'
       +'<input class="field" id="intRole" placeholder="Role" value="'+esc(state.interviewRole)+'" style="margin-bottom:8px;"/>'
       +'<textarea class="field" id="intJd" placeholder="Paste the JD (optional)">'+esc(state.interviewJd)+'</textarea>'
-      +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-interview">Generate Questions &amp; Answers</button></div>';
+      +'<p class="field-label" style="margin-top:8px;">Company Portal Link / Intro</p>'
+      +'<textarea class="field" id="intCompanyInfo" placeholder="Paste the company\'s careers portal link, or a short intro/description of the company (optional)">'+esc(state.interviewCompanyInfo)+'</textarea>'
+      +'<p class="field-label" style="margin-top:8px;">Your Own Requirements for This Mock Interview</p>'
+      +'<textarea class="field" id="intCustomNotes" placeholder="e.g. give me 10 questions, focus on behavioral questions, ask about salary negotiation... (optional)">'+esc(state.interviewCustomNotes)+'</textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="gen-interview"'+(state.interviewQAGenerating?' disabled':'')+'>'+(state.interviewQAGenerating?'Generating…':'Generate Questions & Answers')+'</button></div>';
 
+    if(state.interviewQAError){
+      html += '<div class="banner warn">⚠️ '+esc(state.interviewQAError)+'</div>';
+    }
     if(state.interviewQA){
-      html += '<div class="row-card"><p class="row-title">Tailored for '+esc(state.interviewQA.role)+' at '+esc(state.interviewQA.company)+'</p>'
-        + state.interviewQA.list.map(function(qa){ return '<div style="margin-top:10px;"><p class="row-sub" style="font-weight:700; color:var(--ink);">Q: '+qa.q+'</p><p class="row-sub" style="margin-top:3px;">A: '+qa.a+'</p></div>'; }).join('')
+      html += '<div class="row-card"><p class="row-title">Tailored for '+esc(state.interviewQA.role)+' at '+esc(state.interviewQA.company)+(state.interviewQA.aiGenerated?' <span style="color:var(--ok); font-weight:700; font-size:11px;">✨ AI-tailored</span>':' <span style="color:var(--muted); font-weight:700; font-size:11px;">(generic template — add a Gemini key for real tailoring)</span>')+'</p>'
+        + state.interviewQA.list.map(function(qa){ return '<div style="margin-top:10px;"><p class="row-sub" style="font-weight:700; color:var(--ink);">Q: '+esc(qa.q)+'</p><p class="row-sub" style="margin-top:3px;">A: '+esc(qa.a)+'</p></div>'; }).join('')
         + '</div>';
       html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">AI-Tailored Self-Introduction</p>'+audioBtn(state.interviewQA.tailoredIntro)+'</div>'
-        +'<p class="row-sub" style="margin-top:6px;">'+state.interviewQA.tailoredIntro+'</p></div>';
+        +'<p class="row-sub" style="margin-top:6px;">'+esc(state.interviewQA.tailoredIntro)+'</p></div>';
     }
 
     html += '<div class="divider-label">Feedback Summary</div>';
@@ -1217,9 +1301,15 @@
   }
 
   function pageMom(){
+    if(liveDaily && liveDaily.mom){
+      var m = liveDaily.mom;
+      var html = '<div class="row-card"><p class="row-sub">Live from mom.gov.sg &middot; updated '+formatDateEn(liveDaily.date)+'.</p></div>';
+      html += '<div class="row-card"><p class="row-title">'+esc(m.headline)+'</p><p class="row-sub" style="margin-top:6px;">'+esc(m.teaser)+'</p>'+linkBtn("Read on mom.gov.sg", m.url)+'</div>';
+      return html;
+    }
     var p = MOM_POLICIES[state.momIdx];
-    var html = '<div class="row-card"><p class="row-sub">Auto-delivered every morning at 8:00 AM (demo preview) from the Ministry of Manpower.</p>'+linkBtn("Open mom.gov.sg","https://www.mom.gov.sg/")+'</div>';
-    html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Today’s Labor Law Update</p><button class="refresh-btn" data-action="refresh-mom">↻ Refresh</button></div>'
+    var html = '<div class="row-card"><p class="row-sub">Live feed hasn\'t loaded yet, showing an example update instead.</p>'+linkBtn("Open mom.gov.sg","https://www.mom.gov.sg/")+'</div>';
+    html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Example Labor Law Update</p><button class="refresh-btn" data-action="refresh-mom">↻ Refresh</button></div>'
       +'<p class="row-title" style="margin-top:8px;">'+p.en+'</p>'
       +'<p class="row-sub">'+p.body+'</p>'
       +'<p class="row-sub" style="margin-top:6px;">中文翻译：'+p.cn+'</p>'
@@ -1228,53 +1318,80 @@
   }
 
   function pageNews(){
-    var art = ECONOMIST[state.newsLevel];
-    var html = '<div class="row-card"><p class="row-sub">Delivered daily at 8:00 AM (demo preview), two parts: an Economist reading, then two headlines from ST and CNA (not limited to Singapore topics). Audio can be paused and resumed, pick an accent below.</p>'+accentToggle()+'</div>';
+    var html = '<div class="row-card"><p class="row-sub">'+(liveDaily?('Live headlines from The Economist, Straits Times and CNA &middot; updated '+formatDateEn(liveDaily.date)+'.'):'Live feed hasn\'t loaded yet, showing example articles instead.')+' Audio can be paused and resumed, pick an accent below.</p>'+accentToggle()+'</div>';
     html += '<div class="divider-label">Part 1 · The Economist</div>';
-    html += '<div class="chip-row">'
-      +'<span class="sel-chip'+(state.newsLevel==="intermediate"?" active":"")+'" data-action="news-level" data-level="intermediate">Intermediate</span>'
-      +'<span class="sel-chip'+(state.newsLevel==="upper"?" active":"")+'" data-action="news-level" data-level="upper">Upper-Intermediate</span>'
-      +'</div>';
-    html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">'+art.title+'</p>'+audioBtn(art.paras.map(plainText).join(' '))+'</div>'
-      + art.paras.map(function(p){ return '<p class="row-sub" style="margin-top:8px;">'+p+'</p>'; }).join('')
-      + '</div>';
-    html += '<div class="row-card"><p class="row-title">中文翻译</p><p class="row-sub">'+art.cn+'</p></div>';
-    html += '<div class="divider-label">Vocabulary</div>';
-    art.vocab.forEach(function(v){
-      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1; margin:0;">'+v.w+' <span style="color:var(--muted); font-weight:500;">'+v.ipa+' '+v.pos+'</span></p>'+audioBtn(v.w+". "+v.ex)+'</div>'
-        +'<p class="row-sub" style="margin-top:4px;">'+v.mean+' &mdash; <em>'+v.def+'</em></p>'
-        +'<p class="row-sub" style="margin-top:4px;">e.g. "'+v.ex+'"</p></div>';
-    });
-    html += '<div class="divider-label">Great Sentences</div>';
-    art.gems.forEach(function(g){
-      html += '<div class="row-card"><p class="row-sub" style="font-style:italic;">"'+g.s+'"</p><p class="row-sub" style="margin-top:6px;">'+g.why+'</p></div>';
-    });
+    if(liveDaily && liveDaily.economist){
+      var e = liveDaily.economist;
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">'+esc(e.headline)+'</p>'+audioBtn(e.teaser)+'</div>'
+        +'<p class="row-sub" style="margin-top:8px;">'+esc(e.teaser)+'</p>'+linkBtn("Read on Economist.com", e.url)+'</div>';
+      if(e.vocab && e.vocab.length){
+        html += '<div class="divider-label">Vocabulary from Today\'s Headline</div>';
+        e.vocab.forEach(function(v){
+          html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1; margin:0;">'+esc(v.word)+(v.phonetic?' <span style="color:var(--muted); font-weight:500;">'+esc(v.phonetic)+'</span>':'')+'</p>'+audioBtn(v.word)+'</div><p class="row-sub" style="margin-top:4px;">'+esc(v.def)+'</p></div>';
+        });
+      }
+    } else {
+      var art = ECONOMIST[state.newsLevel];
+      html += '<div class="chip-row">'
+        +'<span class="sel-chip'+(state.newsLevel==="intermediate"?" active":"")+'" data-action="news-level" data-level="intermediate">Intermediate</span>'
+        +'<span class="sel-chip'+(state.newsLevel==="upper"?" active":"")+'" data-action="news-level" data-level="upper">Upper-Intermediate</span>'
+        +'</div>';
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">'+art.title+'</p>'+audioBtn(art.paras.map(plainText).join(' '))+'</div>'
+        + art.paras.map(function(p){ return '<p class="row-sub" style="margin-top:8px;">'+p+'</p>'; }).join('')
+        + '</div>';
+      html += '<div class="row-card"><p class="row-title">中文翻译</p><p class="row-sub">'+art.cn+'</p></div>';
+      html += '<div class="divider-label">Vocabulary</div>';
+      art.vocab.forEach(function(v){
+        html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1; margin:0;">'+v.w+' <span style="color:var(--muted); font-weight:500;">'+v.ipa+' '+v.pos+'</span></p>'+audioBtn(v.w+". "+v.ex)+'</div>'
+          +'<p class="row-sub" style="margin-top:4px;">'+v.mean+' &mdash; <em>'+v.def+'</em></p>'
+          +'<p class="row-sub" style="margin-top:4px;">e.g. "'+v.ex+'"</p></div>';
+      });
+      html += '<div class="divider-label">Great Sentences</div>';
+      art.gems.forEach(function(g){
+        html += '<div class="row-card"><p class="row-sub" style="font-style:italic;">"'+g.s+'"</p><p class="row-sub" style="margin-top:6px;">'+g.why+'</p></div>';
+      });
+    }
     html += '<div class="divider-label">Part 2 · Straits Times &amp; CNA</div>';
-    html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#c8102e;color:#fff;">The Straits Times</span>'+audioBtn(ST_FULL)+'</div><p class="row-title" style="margin-top:8px;">HDB resale prices ease for second straight month</p><p class="row-sub" style="margin-top:6px;">'+ST_FULL+'</p>'+linkBtn("Read on ST","https://www.straitstimes.com/")+'</div>';
-    html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#000;color:#fff;">CNA</span>'+audioBtn(CNA_FULL)+'</div><p class="row-title" style="margin-top:8px;">Companies race to roll out AI copilots at work</p><p class="row-sub" style="margin-top:6px;">'+CNA_FULL+'</p>'+linkBtn("Read on CNA","https://www.channelnewsasia.com/")+'</div>';
+    if(liveDaily && liveDaily.st){
+      var st = liveDaily.st;
+      html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#c8102e;color:#fff;">The Straits Times</span>'+audioBtn(st.teaser)+'</div><p class="row-title" style="margin-top:8px;">'+esc(st.headline)+'</p><p class="row-sub" style="margin-top:6px;">'+esc(st.teaser)+'</p>'+linkBtn("Read on ST", st.url)+'</div>';
+    } else {
+      html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#c8102e;color:#fff;">The Straits Times</span>'+audioBtn(ST_FULL)+'</div><p class="row-title" style="margin-top:8px;">HDB resale prices ease for second straight month</p><p class="row-sub" style="margin-top:6px;">'+ST_FULL+'</p>'+linkBtn("Read on ST","https://www.straitstimes.com/")+'</div>';
+    }
+    if(liveDaily && liveDaily.cna){
+      var cna = liveDaily.cna;
+      html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#000;color:#fff;">CNA</span>'+audioBtn(cna.teaser)+'</div><p class="row-title" style="margin-top:8px;">'+esc(cna.headline)+'</p><p class="row-sub" style="margin-top:6px;">'+esc(cna.teaser)+'</p>'+linkBtn("Read on CNA", cna.url)+'</div>';
+    } else {
+      html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#000;color:#fff;">CNA</span>'+audioBtn(CNA_FULL)+'</div><p class="row-title" style="margin-top:8px;">Companies race to roll out AI copilots at work</p><p class="row-sub" style="margin-top:6px;">'+CNA_FULL+'</p>'+linkBtn("Read on CNA","https://www.channelnewsasia.com/")+'</div>';
+    }
     return html;
   }
 
+  var VOCAB_DECK_SIZE = 5;
   function pageVocab(){
-    var html = '<div class="row-card"><p class="row-sub">Two decks are delivered every morning at 9:00 AM (demo preview): real-life scenes, and intermediate/upper-intermediate words, each with audio.</p>'+accentToggle()+'</div>';
-    html += '<div class="divider-label">Life Vocabulary &middot; At the Zoo ('+LIFE_VOCAB.length+' words)</div>';
-    LIFE_VOCAB.forEach(function(w){
-      html += '<div class="row-card"><div class="row-head"><span style="font-size:22px;">'+w.emoji+'</span><p class="row-title" style="flex:1; margin:0;">'+w.en+'</p>'+audioBtn(w.en+". "+w.ex)+'</div>'
-        +'<p class="row-sub" style="margin-top:4px;"><em>'+w.def+'</em> &mdash; '+w.cn+'</p>'
-        +'<p class="row-sub" style="margin-top:4px;">"'+w.ex+'"</p></div>';
+    var live = liveDaily && liveDaily.lifeVocab && liveDaily.levelVocab;
+    var lifeDeck = live ? liveDaily.lifeVocab : dailyPick(LIFE_VOCAB, VOCAB_DECK_SIZE);
+    var levelDeck = live ? liveDaily.levelVocab : dailyPick(LEVEL_VOCAB, VOCAB_DECK_SIZE);
+    var html = '<div class="row-card"><p class="row-sub">'+(live?('Freshly generated for today, '+formatDateEn(liveDaily.date)+'.'):'Two decks rotate automatically based on today\'s date.')+' Each word has audio.</p>'+accentToggle()+'</div>';
+    html += '<div class="divider-label">Life Vocabulary'+(live?'':' &middot; At the Zoo')+'</div>';
+    lifeDeck.forEach(function(w){
+      html += '<div class="row-card"><div class="row-head"><span style="font-size:22px;">'+esc(w.emoji||"")+'</span><p class="row-title" style="flex:1; margin:0;">'+esc(w.en)+'</p>'+audioBtn(w.en+". "+w.ex)+'</div>'
+        +'<p class="row-sub" style="margin-top:4px;"><em>'+esc(w.def)+'</em> &mdash; '+esc(w.cn)+'</p>'
+        +'<p class="row-sub" style="margin-top:4px;">"'+esc(w.ex)+'"</p></div>';
     });
-    html += '<div class="divider-label">Intermediate / Upper-Intermediate ('+LEVEL_VOCAB.length+' words)</div>';
-    LEVEL_VOCAB.forEach(function(w){
-      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1; margin:0;">'+w.w+' <span style="color:var(--muted); font-weight:500;">'+w.ipa+' '+w.pos+'</span></p>'+audioBtn(w.w+". "+w.ex)+'</div><p class="row-sub" style="margin-top:4px;"><em>'+w.def+'</em> &mdash; '+w.cn+'</p><p class="row-sub" style="margin-top:4px;">"'+w.ex+'"</p></div>';
+    html += '<div class="divider-label">Intermediate / Upper-Intermediate</div>';
+    levelDeck.forEach(function(w){
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1; margin:0;">'+esc(w.w)+' <span style="color:var(--muted); font-weight:500;">'+esc(w.ipa)+' '+esc(w.pos)+'</span></p>'+audioBtn(w.w+". "+w.ex)+'</div><p class="row-sub" style="margin-top:4px;"><em>'+esc(w.def)+'</em> &mdash; '+esc(w.cn)+'</p><p class="row-sub" style="margin-top:4px;">"'+esc(w.ex)+'"</p></div>';
     });
     return html;
   }
 
   function pageListening(){
-    var passage = LISTENING_POOL[state.listeningIdx];
-    var html = '<div class="row-card"><p class="row-sub">Delivered daily at 9:00 AM (demo preview).</p></div>';
+    var live = liveDaily && liveDaily.listening;
+    var passage = live ? liveDaily.listening : LISTENING_POOL[dayIndex() % LISTENING_POOL.length];
+    var html = '<div class="row-card"><p class="row-sub">'+(live?('Freshly generated for today, '+formatDateEn(liveDaily.date)+'.'):'Rotates automatically based on today\'s date.')+'</p></div>';
     html += '<div class="row-card"><p class="row-title">'+passage.title+'</p><p class="row-sub" style="margin-top:4px;">'+passage.source+', tap any underlined word for its meaning.</p>'+accentToggle()+'</div>';
-    html += '<div class="row-card"><div class="row-head">'+audioBtn(plainText(passage.transcript))+'<button class="refresh-btn" data-action="refresh-listening">↻ Refresh</button></div><p class="row-sub" style="margin-top:8px; line-height:1.7;">'+passage.transcript+'</p></div>';
+    html += '<div class="row-card"><div class="row-head">'+audioBtn(plainText(passage.transcript))+'</div><p class="row-sub" style="margin-top:8px; line-height:1.7;">'+passage.transcript+'</p></div>';
     html += '<div class="row-card"><p class="row-title">Word Lookup</p><p class="row-sub">'+(state.listeningLookup||"Tap a word above to see its meaning here.")+'</p></div>';
     return html;
   }
@@ -1413,42 +1530,27 @@
     return html;
   }
 
-  function viralCard(platformClass, platformName, category, rank, caption, whyEn, whyCn, tipsEn, tipsCn, url){
-    return '<div class="row-card">'
-      +'<div style="display:flex; align-items:center; gap:8px;"><span class="badge '+platformClass+'">'+platformName+'</span><span class="chip">'+category+'</span><span class="chip">'+rank+'</span></div>'
-      +'<p class="row-title" style="margin-top:8px;">'+caption+'</p>'
-      +'<p class="row-sub" style="margin-top:8px; font-weight:700; color:var(--ink);">Why it went viral / 爆火原因</p>'
-      +'<p class="row-sub">'+whyEn+'</p><p class="row-sub">'+whyCn+'</p>'
-      +'<p class="row-sub" style="margin-top:8px; font-weight:700; color:var(--ink);">Creative takeaway / 创作启发</p>'
-      +'<p class="row-sub">'+tipsEn+'</p><p class="row-sub">'+tipsCn+'</p>'
-      + linkBtn("View Original (demo link)", url)
-      +'</div>';
+  function socialLinkSection(key, platformClass, platformName, placeholder){
+    var html = '<div class="row-card"><div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;"><span class="badge '+platformClass+'">'+platformName+'</span></div>'
+      +'<input class="field" id="social_'+key+'_url" placeholder="'+placeholder+'"/>'
+      +'<textarea class="field" id="social_'+key+'_note" placeholder="What made it worth saving? (optional)" style="margin-top:8px;"></textarea>'
+      +'<button class="btn-primary" style="margin-top:8px;" data-action="add-social-link" data-platform="'+key+'">Save Link</button></div>';
+    state.socialLinks[key].slice().reverse().forEach(function(l){
+      var realIdx = state.socialLinks[key].indexOf(l);
+      html += '<div class="row-card"><div class="row-head"><a href="'+attrEsc(l.url)+'" target="_blank" rel="noopener" style="flex:1; font-size:12.5px; font-weight:700; color:var(--accent); word-break:break-all; text-decoration:none;">'+esc(l.url)+'</a>'
+        +'<button class="del-btn" data-action="delete-social-link" data-platform="'+key+'" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>'
+        + (l.note ? '<p class="row-sub" style="margin-top:6px;">'+esc(l.note)+'</p>' : '')
+        + '<p class="row-sub" style="margin-top:4px; color:var(--muted);">Saved '+formatDateEn(l.date)+'</p></div>';
+    });
+    return html;
   }
 
   function pageVlog(){
-    var html = '<div class="divider-label">Part 1 · Trending Videos</div>';
-    html += '<div class="row-card"><p class="row-sub">Auto-scraped daily at 11:00 AM (demo preview) across TikTok, Xiaohongshu and YouTube, ranked by 24h engagement.</p></div>';
-    html += viralCard("tt","TikTok","Career","#1 Trending",
-      "\"I recorded my English interview answer 20 times, here is what changed\"",
-      "Hook in first 2 seconds, a visible before/after, and a relatable struggle (accent anxiety).",
-      "开头两秒的钩子、明显的前后对比，加上一个有共鸣的困扰（口音焦虑）。",
-      "Show a real rehearsal clip, not just tips, process footage builds trust faster than advice alone.",
-      "展示真实的练习片段而不是单纯讲道理，过程感比单纯建议更容易建立信任。",
-      "https://www.tiktok.com/");
-    html += viralCard("xhs","Xiaohongshu","Lifestyle","#2 Trending",
-      "\"Moved to Singapore alone at 30, day 1 vlog\"",
-      "Strong emotional arc (nervous to relieved) and specific, checkable details (rent, MRT card, first meal).",
-      "情绪弧线明显（紧张到安心），细节具体可核实（房租、地铁卡、第一顿饭）。",
-      "Anchor abstract topics (a big move) in small concrete moments viewers can picture themselves in.",
-      "把抽象话题（搬家）落在观众能代入的具体小瞬间里。",
-      "https://www.xiaohongshu.com/");
-    html += viralCard("yt","YouTube","Education","#1 Trending",
-      "\"IHRP-CP exam: everything I wish I knew before starting\"",
-      "Clear structure (numbered pain points) plus a twist, the biggest mistake was not studying, it was scheduling.",
-      "结构清晰（编号痛点），加上一个反转——最大的错误不是学习方法，而是时间安排。",
-      "A numbered-list structure with one genuine twist keeps retention high without feeling like clickbait.",
-      "编号式结构加一个真实的反转，既能提高完播率又不显得标题党。",
-      "https://www.youtube.com/");
+    var html = '<div class="divider-label">Part 1 · Worth Learning From</div>';
+    html += '<div class="row-card"><p class="row-sub">Paste links to videos you found worth studying — a good hook, structure, or pacing — organised by platform.</p></div>';
+    html += socialLinkSection('tt','tt','TikTok','Paste a TikTok link');
+    html += socialLinkSection('xhs','xhs','Xiaohongshu','Paste a Xiaohongshu link');
+    html += socialLinkSection('yt','yt','YouTube','Paste a YouTube link');
 
     html += '<div class="divider-label">Part 2 · Script Generator</div>';
     html += '<div class="row-card"><p class="row-sub">Describe your scene, text, or the gist of a photo/clip, and get an English shot-by-shot script.</p>'
@@ -1972,6 +2074,8 @@
     html += '<textarea class="bio-textarea" id="bioTextInput">'+esc(state.bioText)+'</textarea>';
     html += '<div class="row-card" style="margin-top:14px; text-align:left;"><p class="row-title">Data &amp; Backup</p><p class="row-sub" style="margin:4px 0 8px;">Everything here is saved on this device automatically. Export a backup file before a big update, just in case.</p>'
       +'<div class="field-row"><button class="btn-primary" id="exportBackupBtn" style="margin:0;">⬇️ Export Backup</button><label class="upload-label" style="margin:0; padding:9px;"><input type="file" accept="application/json" id="importBackupInput" style="display:none;"/>⬆️ Import</label></div></div>';
+    html += '<div class="row-card" style="margin-top:10px; text-align:left;"><p class="row-title">AI Features</p><p class="row-sub" style="margin:4px 0 8px;">Add a free Gemini API key to unlock real AI-tailored Mock Interview questions based on the company, role and JD you enter. Get one at aistudio.google.com — it stays only on this device and is sent directly from your browser to Google, never through any server of mine.</p>'
+      +'<input class="field" id="geminiKeyInput" type="password" placeholder="Paste your Gemini API key" value="'+attrEsc(state.geminiApiKey)+'"/></div>';
     html += '<button class="bio-close" id="bioCloseBtn2" style="margin-top:14px;">Close</button>';
     document.getElementById('bioSheetBody').innerHTML = html;
     document.getElementById('bioCloseBtn2').addEventListener('click', function(){ app.classList.remove('bio-open'); });
@@ -2001,6 +2105,7 @@
   document.getElementById('bioOverlay').addEventListener('input', function(e){
     if(e.target.id==='bioNameInput'){ state.bioName = e.target.value; document.getElementById('drawerNameLabel').textContent = state.bioName; }
     else if(e.target.id==='bioTextInput'){ state.bioText = e.target.value; }
+    else if(e.target.id==='geminiKeyInput'){ state.geminiApiKey = e.target.value.trim(); }
   });
 
   navList.addEventListener('click', function(e){
@@ -2121,17 +2226,50 @@
       var co = document.getElementById('intCompany').value.trim() || "the company";
       var role = document.getElementById('intRole').value.trim() || "the role";
       var jd = document.getElementById('intJd').value.trim();
+      var companyInfo = document.getElementById('intCompanyInfo').value.trim();
+      var customNotes = document.getElementById('intCustomNotes').value.trim();
       state.interviewCompany = co; state.interviewRole = role; state.interviewJd = jd;
-      var list = [
-        {q:"Why are you interested in the "+role+" position at "+co+"?", a:"I have followed "+co+"'s growth and I am drawn to how the "+role+" role blends people strategy with hands-on execution, that mix is exactly where I do my best work."},
-        {q:"Tell me about a time you managed a difficult stakeholder.", a:"Using the STAR method: a hiring manager kept changing requirements mid-search. I set a weekly 15-minute sync to lock scope, which cut our time-to-fill by three weeks."},
-        {q:"How would you approach your first 90 days in this role?", a:"First 30 days listening and mapping stakeholders, next 30 shipping one visible quick win, final 30 proposing a longer-term plan backed by data."},
-        {q:"What is a mistake you made in HR and what did you learn?", a:"Early on I under-communicated a policy change and it caused confusion. Now I always pair any policy update with a short FAQ and a live Q&A session."}
-      ];
-      if(jd){ list.unshift({q:"Based on the JD, what is the top priority for this role?", a:"Reading the JD closely, the core priority looks like "+jd.split(/[.\n]/)[0].slice(0,80)+", I would focus my first weeks proving traction there."}); }
-      var tailored = state.selfIntro.replace(/\.\s*$/, "")+", and I'm especially excited about the "+role+" opportunity at "+co+(jd ? ", where my background lines up closely with what the JD is asking for." : ".");
-      state.interviewQA = {company:co, role:role, list:list, tailoredIntro:tailored};
-      renderDetail();
+      state.interviewCompanyInfo = companyInfo; state.interviewCustomNotes = customNotes;
+
+      function templateQA(){
+        var list = [
+          {q:"Why are you interested in the "+role+" position at "+co+"?", a:"I have followed "+co+"'s growth and I am drawn to how the "+role+" role blends people strategy with hands-on execution, that mix is exactly where I do my best work."},
+          {q:"Tell me about a time you managed a difficult stakeholder.", a:"Using the STAR method: a hiring manager kept changing requirements mid-search. I set a weekly 15-minute sync to lock scope, which cut our time-to-fill by three weeks."},
+          {q:"How would you approach your first 90 days in this role?", a:"First 30 days listening and mapping stakeholders, next 30 shipping one visible quick win, final 30 proposing a longer-term plan backed by data."},
+          {q:"What is a mistake you made in HR and what did you learn?", a:"Early on I under-communicated a policy change and it caused confusion. Now I always pair any policy update with a short FAQ and a live Q&A session."}
+        ];
+        if(jd){ list.unshift({q:"Based on the JD, what is the top priority for this role?", a:"Reading the JD closely, the core priority looks like "+jd.split(/[.\n]/)[0].slice(0,80)+", I would focus my first weeks proving traction there."}); }
+        var tailored = state.selfIntro.replace(/\.\s*$/, "")+", and I'm especially excited about the "+role+" opportunity at "+co+(jd ? ", where my background lines up closely with what the JD is asking for." : ".");
+        return {company:co, role:role, list:list, tailoredIntro:tailored, aiGenerated:false};
+      }
+
+      if(!state.geminiApiKey){
+        state.interviewQA = templateQA();
+        state.interviewQAError = null;
+        renderDetail();
+      } else {
+        state.interviewQAGenerating = true;
+        state.interviewQAError = null;
+        renderDetail();
+        var prompt = "You are helping someone prepare for a real job interview. Company: \""+co+"\". Role: \""+role+"\"."
+          + (jd ? " Job description:\n"+jd.slice(0,3000) : " No job description was provided.")
+          + (companyInfo ? "\n\nCompany portal link or company intro provided by the candidate (use it for real context about the company, if it's a URL just use your knowledge of that company/site if you recognise it): "+companyInfo.slice(0,1000) : "")
+          + "\n\nThe candidate's own self-introduction (use it for tone/background, weave real details from it into the tailored intro): \""+state.selfIntro+"\""
+          + (customNotes ? "\n\nThe candidate's own requirements for this mock interview, follow these closely (e.g. desired number of questions, topics to focus on): "+customNotes.slice(0,500) : "")
+          + "\n\nReply with ONLY raw JSON, no markdown fences, in exactly this shape:\n"
+          + '{"questions":[{"q":"...","a":"..."} ... at least 8 items unless the candidate\'s own requirements above ask for a different number, genuinely specific to this company/role/JD, not generic filler],"tailoredIntro":"a 3-4 sentence self-introduction rewritten to foreground the parts of the candidate\'s background most relevant to this exact company and role"}'
+          + "\nMake the questions the kind a real interviewer at this specific company would ask for this specific role, referencing the JD and company info where relevant, and honouring the candidate's own requirements above.";
+        callGeminiJSON(state.geminiApiKey, prompt).then(function(data){
+          state.interviewQA = {company:co, role:role, list:data.questions, tailoredIntro:data.tailoredIntro, aiGenerated:true};
+          state.interviewQAGenerating = false;
+          renderDetail();
+        }).catch(function(err){
+          state.interviewQA = templateQA();
+          state.interviewQAError = "Couldn't reach Gemini (check your API key), showing a generic template instead. " + (err && err.message ? err.message : "");
+          state.interviewQAGenerating = false;
+          renderDetail();
+        });
+      }
     } else if(action === 'add-feedback'){
       var fco = document.getElementById('fbCompany').value.trim();
       var frole = document.getElementById('fbRole').value.trim();
@@ -2171,10 +2309,6 @@
     } else if(action === 'lookup-word'){
       state.listeningLookup = el.dataset.def;
       renderDetail();
-    } else if(action === 'refresh-listening'){
-      state.listeningIdx = (state.listeningIdx+1) % LISTENING_POOL.length;
-      state.listeningLookup = null;
-      renderDetail();
     } else if(action === 'gen-speaking'){
       var stxt = document.getElementById('speakingInput').value.trim() || "I think I are good fit for this role because I have lot of experience.";
       state.speakingInput = stxt;
@@ -2184,6 +2318,17 @@
       var wtxt = document.getElementById('writingInput').value.trim() || "I wanna say thanks for helping me a lot with the project, it was kind of a big problem for me.";
       state.writingInput = wtxt;
       state.writingOutput = {improved: politeUpgrade(wtxt), notes:["Swapped casual phrasing for more polished word choices.","Tightened the sentence so the key point lands first.","Consider adding one concrete detail to make this land harder."]};
+      renderDetail();
+    } else if(action === 'add-social-link'){
+      var spKey = el.dataset.platform;
+      var spUrl = document.getElementById('social_'+spKey+'_url').value.trim();
+      var spNote = document.getElementById('social_'+spKey+'_note').value.trim();
+      if(spUrl){
+        state.socialLinks[spKey].push({url:spUrl, note:spNote, date:new Date().toISOString().slice(0,10)});
+        renderDetail();
+      }
+    } else if(action === 'delete-social-link'){
+      state.socialLinks[el.dataset.platform].splice(el.dataset.idx,1);
       renderDetail();
     } else if(action === 'gen-vlog'){
       var scene = document.getElementById('vlogSceneInput').value.trim() || "your everyday moment in Singapore";
