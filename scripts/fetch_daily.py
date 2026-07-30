@@ -10,8 +10,8 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from xml.etree import ElementTree
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
 
 UA = "Mozilla/5.0 (compatible; ShirleyAppDailyFetch/1.0)"
 
@@ -173,32 +173,51 @@ def get_mom_content():
         return None
 
 
-GEMINI_PROMPT = """Generate fresh English-learning material for a Singapore-based learner. Reply with ONLY raw JSON, no markdown fences, matching exactly this shape:
+def groq_prompt(econ_seed):
+    econ_line = ""
+    if econ_seed:
+        econ_line = ('\n\nA real Economist headline from today, use it as the inspiration/topic for "economist_article" below '
+                     '(do not just repeat the headline, write a genuine ~5-paragraph article exploring the topic): '
+                     '"' + econ_seed.get("headline", "") + '" — ' + econ_seed.get("teaser", ""))
+    return """Generate fresh English-learning material for a Singapore-based learner. Reply with ONLY raw JSON, no markdown fences, matching exactly this shape:
 {
-  "life_vocab": [ {"en": "word or short phrase", "cn": "Chinese translation", "def": "simple English definition", "ex": "one example sentence", "emoji": "one relevant emoji"} ... 5 items, everyday life topic (pick a fresh theme each time, e.g. supermarket, gym, clinic, hawker centre, MRT, weather, cooking) ],
-  "level_vocab": [ {"w": "word", "ipa": "IPA in slashes", "pos": "part of speech abbreviation e.g. adj./v./n.", "cn": "Chinese translation", "def": "simple English definition", "ex": "one example sentence"} ... 5 intermediate/upper-intermediate professional-English words, different from common ones like articulate/leverage/mitigate/ambiguous/proactive/candid/viable/reluctant/consolidate/discrepancy/streamline/redundant/tentative/escalate/feasible/forthcoming/meticulous/pragmatic/scrutinise/unprecedented ],
+  "life_vocab": [ {"en": "word or short phrase", "cn": "Chinese translation", "def": "simple English definition", "ex": "one example sentence", "emoji": "one relevant emoji"} ... 10 items, everyday life topic (pick a fresh theme each time, e.g. supermarket, gym, clinic, hawker centre, MRT, weather, cooking) ],
+  "level_vocab": [ {"w": "word", "ipa": "IPA in slashes", "pos": "part of speech abbreviation e.g. adj./v./n.", "cn": "Chinese translation", "def": "simple English definition", "ex": "one example sentence"} ... 10 intermediate/upper-intermediate professional-English words, different from common ones like articulate/leverage/mitigate/ambiguous/proactive/candid/viable/reluctant/consolidate/discrepancy/streamline/redundant/tentative/escalate/feasible/forthcoming/meticulous/pragmatic/scrutinise/unprecedented/cohesive/deploy/expedite/holistic/incentivise/nuanced/onboard/resilient/substantiate/versatile ],
   "listening": {
     "source": "BBC Learning English style · Intermediate  (or Upper-Intermediate, or 'CNA style · Intermediate' etc, vary it)",
     "title": "short title for a Singapore-relevant news-style topic",
     "transcript": "3-4 sentence short passage, Singapore or Asia relevant, natural spoken style",
     "vocab_words": [ {"word": "a word appearing verbatim in the transcript", "def": "IPA + part of speech + English definition + Chinese translation combined in one string, e.g. '/wɜːd/ (n.) short meaning — 中文翻译'"} ... 2 to 3 items ]
+  },
+  "economist_article": {
+    "title": "article title",
+    "paras": ["paragraph 1", "paragraph 2", "paragraph 3", "paragraph 4", "paragraph 5"],
+    "cn": "a full Chinese translation of the whole article, as one string",
+    "vocab": [ {"w": "word appearing in the article", "ipa": "IPA in slashes", "pos": "adj./v./n. etc", "mean": "Chinese meaning", "def": "English definition", "ex": "example sentence"} ... 10 items, genuinely advanced/business vocabulary drawn from the article text ],
+    "gems": [ {"s": "one genuinely well-constructed sentence copied verbatim from the article", "why": "one sentence in English explaining the rhetorical technique, then the same explanation in Chinese"} ... 1 to 2 items ]
   }
-}
+}""" + econ_line + """
 Make it genuinely different from a typical example, vary the topic each time. Output nothing except the JSON object."""
 
 
-def call_gemini(prompt):
-    if not GEMINI_API_KEY:
+def call_groq(prompt):
+    if not GROQ_API_KEY:
         return None
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+    url = "https://api.groq.com/openai/v1/chat/completions"
     payload = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 1.0, "responseMimeType": "application/json"},
+        "model": GROQ_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 1.0,
+        "response_format": {"type": "json_object"},
     }).encode("utf-8")
-    req = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
-    with urllib.request.urlopen(req, timeout=30) as r:
+    req = urllib.request.Request(
+        url, data=payload,
+        headers={"Content-Type": "application/json", "Authorization": f"Bearer {GROQ_API_KEY}"},
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=45) as r:
         data = json.loads(r.read())
-    text = data["candidates"][0]["content"]["parts"][0]["text"]
+    text = data["choices"][0]["message"]["content"]
     return json.loads(text)
 
 
@@ -219,12 +238,12 @@ def build_listening_html(listening):
     }
 
 
-def get_ai_vocab_and_listening():
-    if not GEMINI_API_KEY:
-        print("[info] GEMINI_API_KEY not set, skipping AI-generated vocab/listening (local pools will be used instead)")
+def get_ai_content(econ_seed):
+    if not GROQ_API_KEY:
+        print("[info] GROQ_API_KEY not set, skipping AI-generated vocab/listening/article (local pools will be used instead)")
         return None
     try:
-        data = call_gemini(GEMINI_PROMPT)
+        data = call_groq(groq_prompt(econ_seed))
         out = {}
         if data.get("life_vocab"):
             out["lifeVocab"] = data["life_vocab"]
@@ -232,9 +251,11 @@ def get_ai_vocab_and_listening():
             out["levelVocab"] = data["level_vocab"]
         if data.get("listening"):
             out["listening"] = build_listening_html(data["listening"])
+        if data.get("economist_article"):
+            out["economistArticle"] = data["economist_article"]
         return out or None
     except Exception as e:
-        print(f"[warn] Gemini generation failed: {e}")
+        print(f"[warn] Groq generation failed: {e}")
         return None
 
 
@@ -262,7 +283,7 @@ def main():
     if mom:
         result["mom"] = mom
 
-    ai = get_ai_vocab_and_listening()
+    ai = get_ai_content(econ)
     if ai:
         result.update(ai)
 
