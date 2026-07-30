@@ -265,7 +265,7 @@
 
   .bio-overlay{ position:absolute; inset:0; background:rgba(30,10,20,0.42); opacity:0; pointer-events:none; transition:opacity .25s ease; z-index:90; display:flex; align-items:flex-end; }
   .app.bio-open .bio-overlay{ opacity:1; pointer-events:auto; }
-  .bio-sheet{ width:100%; background:var(--surface); border-radius:26px 26px 0 0; padding:22px 22px 30px; transform:translateY(100%); transition:transform .3s cubic-bezier(.32,.72,.35,1); text-align:center; }
+  .bio-sheet{ width:100%; max-height:calc(100% - env(safe-area-inset-top) - 24px); overflow-y:auto; background:var(--surface); border-radius:26px 26px 0 0; padding:22px 22px calc(30px + env(safe-area-inset-bottom)); transform:translateY(100%); transition:transform .3s cubic-bezier(.32,.72,.35,1); text-align:center; }
   .app.bio-open .bio-sheet{ transform:translateY(0); }
   .bio-sheet h3{ margin:12px 0 2px; font-size:16px; }
   .bio-sheet .sub{ font-size:11.5px; color:var(--accent); font-weight:700; margin:0 0 12px; }
@@ -536,20 +536,22 @@
     return out;
   }
   function row(title, sub){ return '<div class="row-card"><p class="row-title">'+title+'</p><p class="row-sub">'+sub+'</p></div>'; }
-  function callGeminiJSON(apiKey, prompt){
-    var url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key='+encodeURIComponent(apiKey);
+  function callGroqJSON(apiKey, prompt){
+    var url = 'https://api.groq.com/openai/v1/chat/completions';
     return fetch(url, {
       method:'POST',
-      headers:{'Content-Type':'application/json'},
+      headers:{'Content-Type':'application/json', 'Authorization':'Bearer '+apiKey},
       body: JSON.stringify({
-        contents:[{parts:[{text:prompt}]}],
-        generationConfig:{temperature:0.9, responseMimeType:'application/json'}
+        model:'llama-3.3-70b-versatile',
+        messages:[{role:'user', content:prompt}],
+        temperature:0.9,
+        response_format:{type:'json_object'}
       })
     }).then(function(r){
-      if(!r.ok) throw new Error('Gemini request failed ('+r.status+')');
+      if(!r.ok) throw new Error('Groq request failed ('+r.status+')');
       return r.json();
     }).then(function(data){
-      var text = data.candidates[0].content.parts[0].text;
+      var text = data.choices[0].message.content;
       return JSON.parse(text);
     });
   }
@@ -689,7 +691,7 @@
 
     selfIntro:"Hi, I am Shirley, an HR professional with 7 years of experience across talent acquisition and employee relations. I moved to Singapore to grow into a regional HR role, and I am currently sharpening my interview English and preparing for IHRP-CP certification.",
     interviewCompany:"", interviewRole:"", interviewJd:"", interviewCompanyInfo:"", interviewCustomNotes:"", interviewQA:null, interviewQAGenerating:false, interviewQAError:null,
-    geminiApiKey:"",
+    groqApiKey:"",
     interviewFeedbackList:[
       {company:"PropertyGuru", role:"Senior HRBP", round:"1", interviewDate:"2026-06-10", date:"2026-06-12",
        self:"Confident on the STAR structure, but rambled on the compensation question.",
@@ -995,7 +997,17 @@
     {en:"picnic area", cn:"野餐区", emoji:"🧺", def:"a designated outdoor space where visitors can sit and eat their own food.", ex:"We had lunch at the picnic area near the lake."},
     {en:"tram", cn:"园区观光车", emoji:"🚋", def:"a small vehicle that carries visitors around a large park or zoo.", ex:"The tram stops at every major exhibit along the route."},
     {en:"veterinarian", cn:"兽医", emoji:"🩺", def:"a doctor who is trained to treat sick or injured animals.", ex:"The veterinarian checked on the newborn giraffe calf."},
-    {en:"species", cn:"物种", emoji:"🧬", def:"a group of animals or plants that share the same basic characteristics.", ex:"This zoo is home to over two hundred species."}
+    {en:"species", cn:"物种", emoji:"🧬", def:"a group of animals or plants that share the same basic characteristics.", ex:"This zoo is home to over two hundred species."},
+    {en:"binoculars", cn:"双筒望远镜", emoji:"🔭", def:"a device with two lenses used to see distant things more closely.", ex:"She used binoculars to spot the bird's nest high in the tree."},
+    {en:"feather", cn:"羽毛", emoji:"🪶", def:"one of the light, soft coverings that grow on a bird's body.", ex:"A bright blue feather drifted down from the parrot's cage."},
+    {en:"crawl space", cn:"爬行区/攀爬空间", emoji:"🕳️", def:"a small tunnel or gap children can crawl through in a play area.", ex:"The kids loved the crawl space between the two exhibits."},
+    {en:"reptile", cn:"爬行动物", emoji:"🦎", def:"a cold-blooded animal such as a snake, lizard, or turtle.", ex:"The reptile house was warm and dimly lit."},
+    {en:"feeding schedule", cn:"喂食时间表", emoji:"🗓️", def:"a fixed timetable showing when each animal is fed.", ex:"Check the feeding schedule so you don't miss the sea lions."},
+    {en:"guide map", cn:"导览图", emoji:"🗺️", def:"a printed or digital map showing where everything is located.", ex:"Pick up a guide map at the entrance gate."},
+    {en:"encounter", cn:"近距离接触活动", emoji:"🤝", def:"a scheduled activity where visitors can get close to an animal.", ex:"We booked a koala encounter for two in the afternoon."},
+    {en:"admission fee", cn:"门票费用", emoji:"💳", def:"the amount of money you must pay to enter.", ex:"The admission fee includes access to the aquarium too."},
+    {en:"stroller rental", cn:"婴儿车租赁", emoji:"🛒", def:"a service where visitors can rent a stroller for the day.", ex:"Stroller rental is available near the ticket counter."},
+    {en:"shaded rest area", cn:"遮阳休息区", emoji:"⛱️", def:"a covered spot where visitors can sit and cool down.", ex:"We took a break at the shaded rest area near the entrance."}
   ];
   var LEVEL_VOCAB = [
     {w:"articulate", ipa:"/ɑːˈtɪkjəleɪt/", pos:"adj.", cn:"表达清晰的", def:"able to express thoughts and ideas clearly and effectively.", ex:"She is an articulate speaker who explains complex ideas simply."},
@@ -1017,7 +1029,17 @@
     {w:"meticulous", ipa:"/məˈtɪkjələs/", pos:"adj.", cn:"一丝不苟的", def:"showing great attention to detail; very careful and precise.", ex:"He is meticulous about checking every figure twice."},
     {w:"pragmatic", ipa:"/præɡˈmætɪk/", pos:"adj.", cn:"务实的", def:"dealing with problems in a sensible, realistic way rather than by fixed theory.", ex:"We need a pragmatic solution we can ship this week."},
     {w:"scrutinise", ipa:"/ˈskruːtənaɪz/", pos:"v.", cn:"仔细审查", def:"to examine something closely and carefully.", ex:"Auditors will scrutinise every line of the budget."},
-    {w:"unprecedented", ipa:"/ʌnˈpresɪdentɪd/", pos:"adj.", cn:"史无前例的", def:"never having happened or existed before.", ex:"The company saw unprecedented growth this year."}
+    {w:"unprecedented", ipa:"/ʌnˈpresɪdentɪd/", pos:"adj.", cn:"史无前例的", def:"never having happened or existed before.", ex:"The company saw unprecedented growth this year."},
+    {w:"cohesive", ipa:"/koʊˈhiːsɪv/", pos:"adj.", cn:"有凝聚力的", def:"forming a unified whole; well-integrated.", ex:"The new manager built a cohesive team within months."},
+    {w:"deploy", ipa:"/dɪˈplɔɪ/", pos:"v.", cn:"部署、调配", def:"to move resources or people into position for a purpose.", ex:"We deployed extra staff during the busy season."},
+    {w:"expedite", ipa:"/ˈekspədaɪt/", pos:"v.", cn:"加快、加速办理", def:"to make a process happen more quickly.", ex:"Can we expedite the approval given the tight deadline?"},
+    {w:"holistic", ipa:"/hoʊˈlɪstɪk/", pos:"adj.", cn:"整体的", def:"considering the whole of something rather than just its parts.", ex:"We take a holistic view of employee wellbeing."},
+    {w:"incentivise", ipa:"/ɪnˈsentɪvaɪz/", pos:"v.", cn:"激励、给予奖励", def:"to motivate someone with a reward.", ex:"The bonus scheme incentivises early project delivery."},
+    {w:"nuanced", ipa:"/ˈnjuːɑːnst/", pos:"adj.", cn:"细致入微的", def:"having subtle shades of meaning or expression.", ex:"Her feedback was nuanced rather than simply positive or negative."},
+    {w:"onboard", ipa:"/ˈɒnbɔːd/", pos:"v.", cn:"使入职、使融入", def:"to integrate a new employee or partner into an organisation.", ex:"We onboard new hires with a two-week orientation."},
+    {w:"resilient", ipa:"/rɪˈzɪliənt/", pos:"adj.", cn:"有韧性的", def:"able to recover quickly from difficulties.", ex:"The team stayed resilient through a tough quarter."},
+    {w:"substantiate", ipa:"/səbˈstænʃieɪt/", pos:"v.", cn:"证实、提供依据", def:"to provide evidence to support a claim.", ex:"Please substantiate that estimate with real data."},
+    {w:"versatile", ipa:"/ˈvɜːsətaɪl/", pos:"adj.", cn:"多才多艺的、通用的", def:"able to adapt to many different functions or situations.", ex:"She is a versatile hire who can cover several roles."}
   ];
 
   var LISTENING_POOL = [
@@ -1239,7 +1261,7 @@
       +'<textarea class="field" id="selfIntroBox" rows="5">'+esc(state.selfIntro)+'</textarea></div>';
 
     html += '<div class="row-card"><p class="row-title">Company &amp; Role Prep</p>'
-      +'<p class="row-sub" style="margin:4px 0 8px;">Add the company, role and JD, get likely questions with suggested answers.'+(state.geminiApiKey?'':' Add a free Gemini API key in your profile to make these genuinely tailored instead of generic.')+'</p>'
+      +'<p class="row-sub" style="margin:4px 0 8px;">Add the company, role and JD, get likely questions with suggested answers.'+(state.groqApiKey?'':' Add a free Groq API key in your profile to make these genuinely tailored instead of generic.')+'</p>'
       +'<input class="field" id="intCompany" placeholder="Company" value="'+esc(state.interviewCompany)+'" style="margin-bottom:8px;"/>'
       +'<input class="field" id="intRole" placeholder="Role" value="'+esc(state.interviewRole)+'" style="margin-bottom:8px;"/>'
       +'<textarea class="field" id="intJd" placeholder="Paste the JD (optional)">'+esc(state.interviewJd)+'</textarea>'
@@ -1253,7 +1275,7 @@
       html += '<div class="banner warn">⚠️ '+esc(state.interviewQAError)+'</div>';
     }
     if(state.interviewQA){
-      html += '<div class="row-card"><p class="row-title">Tailored for '+esc(state.interviewQA.role)+' at '+esc(state.interviewQA.company)+(state.interviewQA.aiGenerated?' <span style="color:var(--ok); font-weight:700; font-size:11px;">✨ AI-tailored</span>':' <span style="color:var(--muted); font-weight:700; font-size:11px;">(generic template — add a Gemini key for real tailoring)</span>')+'</p>'
+      html += '<div class="row-card"><p class="row-title">Tailored for '+esc(state.interviewQA.role)+' at '+esc(state.interviewQA.company)+(state.interviewQA.aiGenerated?' <span style="color:var(--ok); font-weight:700; font-size:11px;">✨ AI-tailored</span>':' <span style="color:var(--muted); font-weight:700; font-size:11px;">(generic template — add a Groq key for real tailoring)</span>')+'</p>'
         + state.interviewQA.list.map(function(qa){ return '<div style="margin-top:10px;"><p class="row-sub" style="font-weight:700; color:var(--ink);">Q: '+esc(qa.q)+'</p><p class="row-sub" style="margin-top:3px;">A: '+esc(qa.a)+'</p></div>'; }).join('')
         + '</div>';
       html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">AI-Tailored Self-Introduction</p>'+audioBtn(state.interviewQA.tailoredIntro)+'</div>'
@@ -1320,7 +1342,28 @@
   function pageNews(){
     var html = '<div class="row-card"><p class="row-sub">'+(liveDaily?('Live headlines from The Economist, Straits Times and CNA &middot; updated '+formatDateEn(liveDaily.date)+'.'):'Live feed hasn\'t loaded yet, showing example articles instead.')+' Audio can be paused and resumed, pick an accent below.</p>'+accentToggle()+'</div>';
     html += '<div class="divider-label">Part 1 · The Economist</div>';
-    if(liveDaily && liveDaily.economist){
+    if(liveDaily && liveDaily.economistArticle){
+      var gart = liveDaily.economistArticle;
+      if(liveDaily.economist){
+        html += '<div class="row-card"><p class="row-sub">Inspired by today\'s real Economist headline: <b>'+esc(liveDaily.economist.headline)+'</b></p>'+linkBtn("Read the original on Economist.com", liveDaily.economist.url)+'</div>';
+      }
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">'+esc(gart.title)+'</p>'+audioBtn(gart.paras.map(plainText).join(' '))+'</div>'
+        + gart.paras.map(function(p){ return '<p class="row-sub" style="margin-top:8px;">'+esc(p)+'</p>'; }).join('')
+        + '</div>';
+      html += '<div class="row-card"><p class="row-title">中文翻译</p><p class="row-sub">'+esc(gart.cn)+'</p></div>';
+      html += '<div class="divider-label">Vocabulary</div>';
+      (gart.vocab||[]).forEach(function(v){
+        html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1; margin:0;">'+esc(v.w)+' <span style="color:var(--muted); font-weight:500;">'+esc(v.ipa)+' '+esc(v.pos)+'</span></p>'+audioBtn(v.w+". "+v.ex)+'</div>'
+          +'<p class="row-sub" style="margin-top:4px;">'+esc(v.mean)+' &mdash; <em>'+esc(v.def)+'</em></p>'
+          +'<p class="row-sub" style="margin-top:4px;">e.g. "'+esc(v.ex)+'"</p></div>';
+      });
+      if(gart.gems && gart.gems.length){
+        html += '<div class="divider-label">Great Sentences</div>';
+        gart.gems.forEach(function(g){
+          html += '<div class="row-card"><p class="row-sub" style="font-style:italic;">"'+esc(g.s)+'"</p><p class="row-sub" style="margin-top:6px;">'+esc(g.why)+'</p></div>';
+        });
+      }
+    } else if(liveDaily && liveDaily.economist){
       var e = liveDaily.economist;
       html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">'+esc(e.headline)+'</p>'+audioBtn(e.teaser)+'</div>'
         +'<p class="row-sub" style="margin-top:8px;">'+esc(e.teaser)+'</p>'+linkBtn("Read on Economist.com", e.url)+'</div>';
@@ -1367,7 +1410,7 @@
     return html;
   }
 
-  var VOCAB_DECK_SIZE = 5;
+  var VOCAB_DECK_SIZE = 10;
   function pageVocab(){
     var live = liveDaily && liveDaily.lifeVocab && liveDaily.levelVocab;
     var lifeDeck = live ? liveDaily.lifeVocab : dailyPick(LIFE_VOCAB, VOCAB_DECK_SIZE);
@@ -2072,10 +2115,10 @@
     html += '<input class="bio-name-input" id="bioNameInput" value="'+attrEsc(state.bioName)+'"/>';
     html += '<p class="sub">'+state.bioRole+'</p>';
     html += '<textarea class="bio-textarea" id="bioTextInput">'+esc(state.bioText)+'</textarea>';
-    html += '<div class="row-card" style="margin-top:14px; text-align:left;"><p class="row-title">Data &amp; Backup</p><p class="row-sub" style="margin:4px 0 8px;">Everything here is saved on this device automatically. Export a backup file before a big update, just in case.</p>'
+    html += '<div class="row-card" style="margin-top:14px; text-align:left;"><p class="row-title">Data &amp; Backup</p><p class="row-sub" style="margin:4px 0 8px;">Saved on this device. Export before a big update, just in case.</p>'
       +'<div class="field-row"><button class="btn-primary" id="exportBackupBtn" style="margin:0;">⬇️ Export Backup</button><label class="upload-label" style="margin:0; padding:9px;"><input type="file" accept="application/json" id="importBackupInput" style="display:none;"/>⬆️ Import</label></div></div>';
-    html += '<div class="row-card" style="margin-top:10px; text-align:left;"><p class="row-title">AI Features</p><p class="row-sub" style="margin:4px 0 8px;">Add a free Gemini API key to unlock real AI-tailored Mock Interview questions based on the company, role and JD you enter. Get one at aistudio.google.com — it stays only on this device and is sent directly from your browser to Google, never through any server of mine.</p>'
-      +'<input class="field" id="geminiKeyInput" type="password" placeholder="Paste your Gemini API key" value="'+attrEsc(state.geminiApiKey)+'"/></div>';
+    html += '<div class="row-card" style="margin-top:10px; text-align:left;"><p class="row-title">AI Features</p><p class="row-sub" style="margin:4px 0 8px;">Free Groq key unlocks real AI-tailored interview prep. Get one at console.groq.com — stays on this device only.</p>'
+      +'<input class="field" id="groqKeyInput" type="password" placeholder="Paste your Groq API key" value="'+attrEsc(state.groqApiKey)+'"/></div>';
     html += '<button class="bio-close" id="bioCloseBtn2" style="margin-top:14px;">Close</button>';
     document.getElementById('bioSheetBody').innerHTML = html;
     document.getElementById('bioCloseBtn2').addEventListener('click', function(){ app.classList.remove('bio-open'); });
@@ -2105,7 +2148,7 @@
   document.getElementById('bioOverlay').addEventListener('input', function(e){
     if(e.target.id==='bioNameInput'){ state.bioName = e.target.value; document.getElementById('drawerNameLabel').textContent = state.bioName; }
     else if(e.target.id==='bioTextInput'){ state.bioText = e.target.value; }
-    else if(e.target.id==='geminiKeyInput'){ state.geminiApiKey = e.target.value.trim(); }
+    else if(e.target.id==='groqKeyInput'){ state.groqApiKey = e.target.value.trim(); }
   });
 
   navList.addEventListener('click', function(e){
@@ -2243,7 +2286,7 @@
         return {company:co, role:role, list:list, tailoredIntro:tailored, aiGenerated:false};
       }
 
-      if(!state.geminiApiKey){
+      if(!state.groqApiKey){
         state.interviewQA = templateQA();
         state.interviewQAError = null;
         renderDetail();
@@ -2259,13 +2302,13 @@
           + "\n\nReply with ONLY raw JSON, no markdown fences, in exactly this shape:\n"
           + '{"questions":[{"q":"...","a":"..."} ... at least 8 items unless the candidate\'s own requirements above ask for a different number, genuinely specific to this company/role/JD, not generic filler],"tailoredIntro":"a 3-4 sentence self-introduction rewritten to foreground the parts of the candidate\'s background most relevant to this exact company and role"}'
           + "\nMake the questions the kind a real interviewer at this specific company would ask for this specific role, referencing the JD and company info where relevant, and honouring the candidate's own requirements above.";
-        callGeminiJSON(state.geminiApiKey, prompt).then(function(data){
+        callGroqJSON(state.groqApiKey, prompt).then(function(data){
           state.interviewQA = {company:co, role:role, list:data.questions, tailoredIntro:data.tailoredIntro, aiGenerated:true};
           state.interviewQAGenerating = false;
           renderDetail();
         }).catch(function(err){
           state.interviewQA = templateQA();
-          state.interviewQAError = "Couldn't reach Gemini (check your API key), showing a generic template instead. " + (err && err.message ? err.message : "");
+          state.interviewQAError = "Couldn't reach Groq (check your API key), showing a generic template instead. " + (err && err.message ? err.message : "");
           state.interviewQAGenerating = false;
           renderDetail();
         });
