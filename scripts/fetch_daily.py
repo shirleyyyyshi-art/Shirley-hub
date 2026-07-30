@@ -10,8 +10,8 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from xml.etree import ElementTree
 
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
-GROQ_MODEL = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
 
 UA = "Mozilla/5.0 (compatible; ShirleyAppDailyFetch/1.0)"
 
@@ -173,7 +173,7 @@ def get_mom_content():
         return None
 
 
-def groq_prompt(econ_seed):
+def gemini_prompt(econ_seed):
     econ_line = ""
     if econ_seed:
         econ_line = ('\n\nA real Economist headline from today, use it as the inspiration/topic for "economist_article" below '
@@ -200,24 +200,18 @@ def groq_prompt(econ_seed):
 Make it genuinely different from a typical example, vary the topic each time. Output nothing except the JSON object."""
 
 
-def call_groq(prompt):
-    if not GROQ_API_KEY:
+def call_gemini(prompt):
+    if not GEMINI_API_KEY:
         return None
-    url = "https://api.groq.com/openai/v1/chat/completions"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
     payload = json.dumps({
-        "model": GROQ_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 1.0,
-        "response_format": {"type": "json_object"},
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 1.0, "responseMimeType": "application/json"},
     }).encode("utf-8")
-    req = urllib.request.Request(
-        url, data=payload,
-        headers={"Content-Type": "application/json", "Authorization": f"Bearer {GROQ_API_KEY}"},
-        method="POST",
-    )
+    req = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
     with urllib.request.urlopen(req, timeout=45) as r:
         data = json.loads(r.read())
-    text = data["choices"][0]["message"]["content"]
+    text = data["candidates"][0]["content"]["parts"][0]["text"]
     return json.loads(text)
 
 
@@ -239,11 +233,11 @@ def build_listening_html(listening):
 
 
 def get_ai_content(econ_seed):
-    if not GROQ_API_KEY:
-        print("[info] GROQ_API_KEY not set, skipping AI-generated vocab/listening/article (local pools will be used instead)")
+    if not GEMINI_API_KEY:
+        print("[info] GEMINI_API_KEY not set, skipping AI-generated vocab/listening/article (local pools will be used instead)")
         return None
     try:
-        data = call_groq(groq_prompt(econ_seed))
+        data = call_gemini(gemini_prompt(econ_seed))
         out = {}
         if data.get("life_vocab"):
             out["lifeVocab"] = data["life_vocab"]
@@ -255,7 +249,7 @@ def get_ai_content(econ_seed):
             out["economistArticle"] = data["economist_article"]
         return out or None
     except Exception as e:
-        print(f"[warn] Groq generation failed: {e}")
+        print(f"[warn] Gemini generation failed: {e}")
         return None
 
 
