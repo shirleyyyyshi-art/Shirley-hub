@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generatedAt": "2026-07-30T04:29:56.581624+00:00",
+  "generatedAt": "2026-07-30T04:42:38.094990+00:00",
   "economist": {
     "headline": "AI revenues are growing fast, but not fast enough",
     "teaser": "The returns on trillions of dollars of spending are deeply uncertain",
@@ -19,9 +19,9 @@
     ]
   },
   "st": {
-    "headline": "Keppel’s first-half overall profit takes hit from M1 sale collapse, non-core losses",
-    "teaser": "Excluding its non-core portfolio, New Keppel's profits grew 25% to hit $530 million for the period.",
-    "url": "https://www.straitstimes.com/business/keppels-first-half-overall-profit-takes-hit-from-m1-sale-collapse-non-core-losses"
+    "headline": "Oil holds gain as US military launches fresh strike against Iran",
+    "teaser": "Brent traded near US$90 a barrel, while West Texas Intermediate was below US$84.",
+    "url": "https://www.straitstimes.com/business/oil-holds-gain-as-us-military-launches-fresh-strike-against-iran"
   },
   "cna": {
     "headline": "Asian stocks stutters after rout, Fed leaves markets guessing on rates",
@@ -32,5 +32,267 @@
     "headline": "Multi-Agency Workplace Safety and Health Taskforce (MAST) calls for greater vigilance amidst rise in work‑related traffic accidents this year",
     "teaser": "The Multi ‑ Agency Workplace Safety and Health Taskforce (MAST) [1] has called on industry stakeholders, employers, workers and road users to strengthen vigilance on the roads and in navigation. This is amidst a rise in road traffic accidents in recent years [2] and work ‑ related traffic accidents (WRTAs) this year.",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0728-mast-calls-for-greater-vigilance"
+  },
+  "lifeVocab": [
+    {
+      "en": "void deck",
+      "cn": "组屋底层空地",
+      "def": "the open, sheltered ground floor area of a HDB public housing block",
+      "ex": "Residents often gather at the void deck to chat or attend community events.",
+      "emoji": "🏢"
+    },
+    {
+      "en": "sheltered walkway",
+      "cn": "有盖走廊",
+      "def": "a covered pedestrian path connecting buildings to protect people from rain or sun",
+      "ex": "I was grateful for the sheltered walkway when the sudden afternoon thunderstorm hit.",
+      "emoji": "☂️"
+    },
+    {
+      "en": "Town Council",
+      "cn": "市镇理事会",
+      "def": "the organization responsible for managing and maintaining the common property in HDB estates",
+      "ex": "You should call the Town Council if the corridor lights are faulty.",
+      "emoji": "🏛️"
+    },
+    {
+      "en": "bulky item disposal",
+      "cn": "大件物品清运",
+      "def": "a service provided to residents to clear large waste items like old sofas or wardrobes",
+      "ex": "We arranged for a bulky item disposal service when we bought a new dining table.",
+      "emoji": "🛋️"
+    },
+    {
+      "en": "multi-purpose hall",
+      "cn": "多功能礼堂",
+      "def": "a communal indoor space used for weddings, funerals, and grassroots activities",
+      "ex": "The neighborhood blood donation drive is being held at the multi-purpose hall today.",
+      "emoji": "🏫"
+    },
+    {
+      "en": "Resident Network",
+      "cn": "居民网络（前称居民委员会）",
+      "def": "a grassroots organization that plans community activities and fosters neighborliness",
+      "ex": "The Resident Network is organizing a mid-autumn festival celebration next Friday.",
+      "emoji": "🤝"
+    },
+    {
+      "en": "pest control",
+      "cn": "害虫防治 / 灭虫服务",
+      "def": "the regulation or management of species defined as pests, such as rats or mosquitoes",
+      "ex": "The Town Council scheduled pest control oiling to prevent dengue breeding in the estate.",
+      "emoji": "🦟"
+    },
+    {
+      "en": "rubbish chute",
+      "cn": "垃圾通道",
+      "def": "a vertical pipe down which waste can be dropped from individual flats to a central bin",
+      "ex": "Please seal your waste in trash bags tightly before throwing them down the rubbish chute.",
+      "emoji": "🗑️"
+    },
+    {
+      "en": "fitness corner",
+      "cn": "健身角落",
+      "def": "an outdoor area equipped with basic exercise machines for public use",
+      "ex": "My grandfather exercises at the neighborhood fitness corner every morning.",
+      "emoji": "💪"
+    },
+    {
+      "en": "conservancy charges",
+      "cn": "杂费 / 组屋保养与服务费",
+      "def": "monthly fees paid by HDB residents for the cleaning and maintenance of their estate",
+      "ex": "The monthly service and conservancy charges are due on the first of every month.",
+      "emoji": "💵"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "amplify",
+      "ipa": "/ˈæmplɪfaɪ/",
+      "pos": "v.",
+      "cn": "放大，增强",
+      "def": "to increase the strength, volume, or intensity of something",
+      "ex": "Social media algorithms tend to amplify sensational stories over factual reporting."
+    },
+    {
+      "w": "concur",
+      "ipa": "/kənˈkɜːr/",
+      "pos": "v.",
+      "cn": "同意，赞同",
+      "def": "to agree with someone or match an opinion",
+      "ex": "The board of directors concurred with the CEO's proposal to expand into the Asian market."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsɛmɪneɪt/",
+      "pos": "v.",
+      "cn": "传播，散播",
+      "def": "to spread information, knowledge, or ideas widely",
+      "ex": "The health ministry works hard to disseminate accurate guidelines during a disease outbreak."
+    },
+    {
+      "w": "efficacy",
+      "ipa": "/ˈɛfɪkəsi/",
+      "pos": "n.",
+      "cn": "功效，效力",
+      "def": "the ability to produce a desired or intended result",
+      "ex": "Clinical trials are underway to test the long-term efficacy of the new medication."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈpɛrətɪv/",
+      "pos": "adj.",
+      "cn": "迫切的，至关重要的",
+      "def": "extremely important or urgent; needing immediate action",
+      "ex": "It is imperative that we complete the security audit before launching the mobile application."
+    },
+    {
+      "w": "lucrative",
+      "ipa": "/ˈluːkrətɪv/",
+      "pos": "adj.",
+      "cn": "获利丰厚的，赚钱的",
+      "def": "producing a great deal of profit",
+      "ex": "The software engineer left his corporate job to start a highly lucrative consultancy firm."
+    },
+    {
+      "w": "obviate",
+      "ipa": "/ˈɒbvieɪt/",
+      "pos": "v.",
+      "cn": "排除，消除（需要或困难）",
+      "def": "to remove a need or difficulty, making a action unnecessary",
+      "ex": "A disaster recovery plan can obviate the panic associated with unexpected system failures."
+    },
+    {
+      "w": "rectify",
+      "ipa": "/ˈrɛktɪfaɪ/",
+      "pos": "v.",
+      "cn": "纠正，整顿",
+      "def": "to put right or correct a mistake or bad situation",
+      "ex": "The customer service team promised to rectify the billing error immediately."
+    },
+    {
+      "w": "spearhead",
+      "ipa": "/ˈspɪəhɛd/",
+      "pos": "v.",
+      "cn": "带头，做先锋",
+      "def": "to lead an initiative, campaign, or attack",
+      "ex": "She was chosen to spearhead the company's new environmental sustainability initiative."
+    },
+    {
+      "w": "unilateral",
+      "ipa": "/ˌjuːnɪˈlætərəl/",
+      "pos": "adj.",
+      "cn": "单方面的",
+      "def": "performed by or affecting only one person, group, or country involved in a situation",
+      "ex": "The country faced international criticism after its unilateral decision to pull out of the trade pact."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Green Charging in the Heartlands",
+    "transcript": "Singapore is rapidly expanding its electric vehicle charging network, aiming to install chargers in all HDB carparks by 2025. This massive <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈrəʊlaʊt/ (n.) the official launch or introduction of a new product or system — 首次展示，正式推出\">rollout</span> is designed to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əˈliːvieɪt/ (v.) to make suffering or a problem less severe — 减轻，极大缓解\">alleviate</span> range anxiety among drivers living in high-rise public housing. However, challenges remain regarding electrical grid capacity and fair charging rates for peak hours. Residents are closely watching how these upgrades will impact their daily <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəˈmjuːts/ (n.) regular journeys of some distance between one's home and place of work — 通勤路程\">commutes</span> and overall sustainability efforts."
+  },
+  "economistArticle": {
+    "title": "The AI Reckoning: High Capital, Slow Returns",
+    "paras": [
+      "Tech giants are pouring hundreds of billions of dollars into artificial intelligence infrastructure, building massive data centers and snapping up advanced microchips. Yet, a shadow of skepticism is falling over Silicon Valley as investors begin to question the timeline for profitable returns. While subscription revenues for generative AI tools are undeniably climbing, they represent a mere trickle compared to the torrent of capital expenditure.",
+      "This widening asymmetry between capital expenditure and actual monetization has triggered anxiety on Wall Street. Tech executives argue that building the infrastructure beforehand is imperative to secure a dominant market share in the next computing paradigm. However, history suggests that infrastructure-heavy gold rushes often lead to overcapacity and painful consolidations before sustainable business models eventually emerge.",
+      "Enterprise adoption of AI has also proved more halting than expected. Companies are finding that integrating large language models into existing workflows requires painstaking data cleaning, rigorous security compliance, and cultural adaptation. Consequently, many corporate pilots remain experimental, failing to transition into high-paying enterprise contracts that software vendors desperately need to justify their massive valuations.",
+      "Moreover, the operational costs of running these advanced systems are exorbitant. Every query processed by an advanced neural network consumes a significant amount of electricity and compute power, eroding the high gross margins traditionally enjoyed by software companies. If software-as-a-service (SaaS) businesses cannot maintain their lucrative margins due to heavy compute overheads, the foundational economics of the entire tech sector will require a fundamental rewrite.",
+      "Ultimately, the current AI boom is caught in a race against patience. The technology is undoubtedly revolutionary, but its financial viability hinges on rapid cost reductions and a dramatic surge in high-value enterprise use cases. Until these breakthroughs materialize, tech conglomerates must navigate the precarious gap between stellar promise and sobering financial reality, or risk a severe market correction."
+    ],
+    "cn": "科技巨头正将数千亿美元倾注于人工智能基础设施，建设庞大的数据中心并抢购先进的微芯片。然而，随着投资者开始质疑盈利回报的时间表，硅谷正笼罩在一片怀疑的阴影之中。尽管生成式人工智能工具的订阅收入确实在攀升，但与汹涌的资本支出洪流相比，这些收入不过是九牛一毛。\n这种资本支出与实际变现之间不断扩大的不对称性引发了华尔街的焦虑。科技高管们辩称，为了在下一个计算范式中占领主导的市场份额，提前建设基础设施是必不可少的。然而，历史表明，以基础设施为主导的淘金热在可持续商业模式最终出现之前，往往会导致产能过剩和痛苦的行业整合。\n企业对人工智能的采用也比预期更为迟缓。公司发现，将大语言模型整合到现有工作流中需要进行艰苦的数据清洗、严格的安全合规以及文化适应。因此，许多企业试点仍停留在实验阶段，未能转化为软件供应商急需用以支撑其高估值的高额企业合同。\n此外，运行这些先进系统的运营成本极其高昂。先进神经网络处理的每一次查询都会消耗大量的电力和算力，从而侵蚀了软件公司传统上享有的高毛利率。如果软件即服务（SaaS）业务由于沉重的算力开销而无法维持其丰厚的利润率，那么整个科技行业的根本经济逻辑将需要彻底重写。\n归根结底，当前的人工智能热潮正处于一场与“耐心”赛跑的博弈中。这项技术无疑具有革命性，但其财务可行性取决于成本的快速降低以及高价值企业应用场景的急剧增加。在这些突破实现之前，科技巨头必须在耀眼的前景与冷静的财务现实之间艰难地寻找平衡，否则就将面临剧烈的市场回调。",
+    "vocab": [
+      {
+        "w": "asymmetry",
+        "ipa": "/æˈsɪmɪtri/",
+        "pos": "n.",
+        "mean": "不对称性，不平衡",
+        "def": "an imbalance or lack of equivalence between two things",
+        "ex": "The growing asymmetry between the software's cost and its utility frustrated corporate buyers."
+      },
+      {
+        "w": "monetization",
+        "ipa": "/ˌmʌnɪtaɪˈzeɪʃən/",
+        "pos": "n.",
+        "mean": "货币化，变现",
+        "def": "the process of converting an asset or feature into a source of revenue",
+        "ex": "The app developer struggled with monetization, as most users preferred the free basic version."
+      },
+      {
+        "w": "paradigm",
+        "ipa": "/ˈpærədaɪm/",
+        "pos": "n.",
+        "mean": "范式，典型模式",
+        "def": "a typical example, pattern, or model of something",
+        "ex": "The transition to remote work created a new paradigm for office collaboration."
+      },
+      {
+        "w": "overcapacity",
+        "ipa": "/ˌəʊvəkəˈpæsɪti/",
+        "pos": "n.",
+        "mean": "产能过剩",
+        "def": "a situation in which an industry or business is capable of producing more than is needed",
+        "ex": "Slowing global demand has left the solar panel sector plagued by severe overcapacity."
+      },
+      {
+        "w": "halting",
+        "ipa": "/ˈhɔːltɪŋ/",
+        "pos": "adj.",
+        "mean": "迟缓的，断断续续的",
+        "def": "slow, hesitant, and constantly stopping",
+        "ex": "Despite their halting efforts at peace talks, both nations remained deeply suspicious of each other."
+      },
+      {
+        "w": "painstaking",
+        "ipa": "/ˈpeɪnzteɪkɪŋ/",
+        "pos": "adj.",
+        "mean": "艰苦的，煞费苦心的",
+        "def": "done with employing great care and thoroughness",
+        "ex": "The archaeological team made a painstaking recovery of the delicate pottery fragments."
+      },
+      {
+        "w": "exorbitant",
+        "ipa": "/ɪɡˈzɔːbɪtənt/",
+        "pos": "adj.",
+        "mean": "价格过高的，极其昂贵的",
+        "def": "unreasonably high or excessive, especially of a price or fee",
+        "ex": "They refused to pay the exorbitant interest rates demanded by the private lenders."
+      },
+      {
+        "w": "compute",
+        "ipa": "/kəmˈpjuːt/",
+        "pos": "n.",
+        "mean": "计算，算力",
+        "def": "computational power or resources, specifically referring to hardware capacity",
+        "ex": "AI startups require massive amounts of compute to train their latest large language models."
+      },
+      {
+        "w": "hinges",
+        "ipa": "/ˈhɪndʒɪz/",
+        "pos": "v.",
+        "mean": "取决于，视乎",
+        "def": "depends entirely on a specific point or outcome",
+        "ex": "The future of the trade agreement hinges on the upcoming environmental talks."
+      },
+      {
+        "w": "precarious",
+        "ipa": "/prɪˈkɛərɪəs/",
+        "pos": "adj.",
+        "mean": "摇摆不定的，危险的，不稳固的",
+        "def": "not securely held or in position; dangerously likely to fall or collapse",
+        "ex": "The political party maintained a precarious hold on power after a slim election victory."
+      }
+    ],
+    "gems": [
+      {
+        "s": "While subscription revenues for generative AI tools are undeniably climbing, they represent a mere trickle compared to the torrent of capital expenditure.",
+        "why": "This sentence masterfully uses the metaphorical contrast of water ('trickle' vs. 'torrent') to highlight the massive scale discrepancy between AI revenues and costs. / 这句话巧妙地运用了水的比喻对比（“涓涓细流”对比“汹涌洪流”），突显了人工智能收入与成本之间巨大的规模差异。"
+      },
+      {
+        "s": "Ultimately, the current AI boom is caught in a race against patience.",
+        "why": "Personifying 'patience' as an opponent in a race creates a vivid, dramatic image of the psychological tension between eager technology developers and anxious investors. / 将“耐心”拟人化为赛跑中的竞争对手，生动、戏剧化地展现了急切的技术开发者与焦虑的投资者之间的心理博弈。"
+      }
+    ]
   }
 }
