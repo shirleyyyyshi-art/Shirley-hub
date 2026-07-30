@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
-<title>Shirley · Personal Growth Hub</title>
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -11,6 +10,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Shirley">
 <meta name="theme-color" content="#ff4d94">
+<title>Shirley · Personal Growth Hub</title>
 <style>
   :root{
     --bg-page:linear-gradient(160deg, #ffd9ec 0%, #ffe9c9 55%, #e9d4ff 100%); --bg:rgba(255,247,250,0.55); --surface:rgba(255,255,255,0.55); --surface-alt:rgba(255,255,255,0.35);
@@ -594,22 +594,62 @@
     if(!m || !m.length) return [text];
     return m.map(function(s){ return s.trim(); }).filter(function(s){ return s.length; });
   }
-  var audioState = {playingId:null, paused:false};
+  var audioState = {playingId:null, paused:false, engine:null, audioEl:null};
   function resetAudioButtons(){
     document.querySelectorAll('.audio-btn').forEach(function(b){ if(b.id!==audioState.playingId) b.textContent="🔊 Play"; });
   }
   function stopAudio(){
     if('speechSynthesis' in window) window.speechSynthesis.cancel();
-    audioState.playingId=null; audioState.paused=false;
+    if(audioState.audioEl){ audioState.audioEl.pause(); audioState.audioEl = null; }
+    audioState.playingId=null; audioState.paused=false; audioState.engine=null;
     resetAudioButtons();
   }
-  function toggleAudioButton(el, text){
-    if(!text || !('speechSynthesis' in window)) return;
-    if(audioState.playingId === el.id){
-      if(audioState.paused){ window.speechSynthesis.resume(); audioState.paused=false; el.textContent="⏸ Pause"; }
-      else { window.speechSynthesis.pause(); audioState.paused=true; el.textContent="▶ Resume"; }
-      return;
-    }
+
+  function pcmToWavBlob(base64Pcm, sampleRate){
+    var binary = atob(base64Pcm);
+    var len = binary.length;
+    var pcmBytes = new Uint8Array(len);
+    for(var i=0;i<len;i++){ pcmBytes[i] = binary.charCodeAt(i); }
+    var numChannels=1, bitsPerSample=16;
+    var byteRate = sampleRate*numChannels*bitsPerSample/8;
+    var blockAlign = numChannels*bitsPerSample/8;
+    var buffer = new ArrayBuffer(44+pcmBytes.length);
+    var view = new DataView(buffer);
+    function writeStr(offset,str){ for(var j=0;j<str.length;j++) view.setUint8(offset+j, str.charCodeAt(j)); }
+    writeStr(0,'RIFF'); view.setUint32(4, 36+pcmBytes.length, true); writeStr(8,'WAVE');
+    writeStr(12,'fmt '); view.setUint32(16,16,true); view.setUint16(20,1,true); view.setUint16(22,numChannels,true);
+    view.setUint32(24,sampleRate,true); view.setUint32(28,byteRate,true); view.setUint16(32,blockAlign,true); view.setUint16(34,bitsPerSample,true);
+    writeStr(36,'data'); view.setUint32(40,pcmBytes.length,true);
+    new Uint8Array(buffer,44).set(pcmBytes);
+    return new Blob([buffer], {type:'audio/wav'});
+  }
+  var ttsCache = {};
+  function callGeminiTTS(apiKey, text){
+    if(ttsCache[text]) return Promise.resolve(ttsCache[text]);
+    var url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent?key='+encodeURIComponent(apiKey);
+    return fetch(url, {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        contents:[{parts:[{text:text}]}],
+        generationConfig:{ responseModalities:["AUDIO"], speechConfig:{voiceConfig:{prebuiltVoiceConfig:{voiceName:"Kore"}}} }
+      })
+    }).then(function(r){
+      if(!r.ok) throw new Error('Gemini TTS failed ('+r.status+')');
+      return r.json();
+    }).then(function(data){
+      var part = data.candidates[0].content.parts[0];
+      var base64 = part.inlineData.data;
+      var mime = part.inlineData.mimeType || '';
+      var rateMatch = /rate=(\d+)/.exec(mime);
+      var sampleRate = rateMatch ? Number(rateMatch[1]) : 24000;
+      var blobUrl = URL.createObjectURL(pcmToWavBlob(base64, sampleRate));
+      ttsCache[text] = blobUrl;
+      return blobUrl;
+    });
+  }
+
+  function playWithSystemVoice(el, text){
+    if(!('speechSynthesis' in window)) return;
     window.speechSynthesis.cancel();
     resetAudioButtons();
     var sentences = splitSentences(text);
@@ -646,9 +686,45 @@
       u.onerror = function(){ audioState.playingId=null; audioState.paused=false; if(document.getElementById(el.id)) el.textContent="🔊 Play"; };
       window.speechSynthesis.speak(u);
     }
-    audioState.playingId = el.id; audioState.paused=false;
+    audioState.playingId = el.id; audioState.paused=false; audioState.engine='system';
     el.textContent = "⏸ Pause";
     speakNext();
+  }
+
+  function toggleAudioButton(el, text){
+    if(!text) return;
+    if(audioState.playingId === el.id){
+      if(audioState.engine === 'gemini' && audioState.audioEl){
+        if(audioState.paused){ audioState.audioEl.play(); audioState.paused=false; el.textContent="⏸ Pause"; }
+        else { audioState.audioEl.pause(); audioState.paused=true; el.textContent="▶ Resume"; }
+      } else if('speechSynthesis' in window){
+        if(audioState.paused){ window.speechSynthesis.resume(); audioState.paused=false; el.textContent="⏸ Pause"; }
+        else { window.speechSynthesis.pause(); audioState.paused=true; el.textContent="▶ Resume"; }
+      }
+      return;
+    }
+    stopAudio();
+    if(state.geminiApiKey){
+      audioState.playingId = el.id; audioState.paused=false; audioState.engine='gemini';
+      el.textContent = "⏳ Loading…";
+      callGeminiTTS(state.geminiApiKey, text).then(function(url){
+        if(audioState.playingId !== el.id) return;
+        var audioEl = new Audio(url);
+        audioState.audioEl = audioEl;
+        audioEl.onended = function(){
+          if(audioState.playingId !== el.id) return;
+          audioState.playingId=null; audioState.paused=false;
+          if(document.getElementById(el.id)) el.textContent="🔊 Play";
+        };
+        audioEl.play();
+        if(document.getElementById(el.id)) el.textContent = "⏸ Pause";
+      }).catch(function(){
+        if(audioState.playingId === el.id){ audioState.playingId=null; audioState.engine=null; }
+        playWithSystemVoice(el, text);
+      });
+    } else {
+      playWithSystemVoice(el, text);
+    }
   }
   function politeUpgrade(text){
     var repl = [
@@ -692,7 +768,7 @@
     selfIntro:"Hi, I am Shirley, an HR professional with 7 years of experience across talent acquisition and employee relations. I moved to Singapore to grow into a regional HR role, and I am currently sharpening my interview English and preparing for IHRP-CP certification.",
     interviewCompany:"", interviewRole:"", interviewJd:"", interviewCompanyInfo:"", interviewCustomNotes:"", interviewQA:null, interviewQAGenerating:false, interviewQAError:null,
     resumeFileName:"", resumeText:"",
-    groqApiKey:"",
+    groqApiKey:"", geminiApiKey:"",
     interviewFeedbackList:[
       {company:"PropertyGuru", role:"Senior HRBP", round:"1", interviewDate:"2026-06-10", date:"2026-06-12",
        self:"Confident on the STAR structure, but rambled on the compensation question.",
@@ -1397,7 +1473,7 @@
         html += '<div class="row-card"><p class="row-sub">Inspired by today\'s real Economist headline: <b>'+esc(liveDaily.economist.headline)+'</b></p>'+linkBtn("Read the original on Economist.com", liveDaily.economist.url)+'</div>';
       }
       html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">'+esc(gart.title)+'</p>'+audioBtn(gart.paras.map(plainText).join(' '))+'</div>'
-        + gart.paras.map(function(p){ return '<p class="row-sub" style="margin-top:8px;">'+esc(p)+'</p>'; }).join('')
+        + gart.paras.map(function(p){ return '<p class="row-sub" style="margin-top:8px;">'+p+'</p>'; }).join('')
         + '</div>';
       html += '<div class="row-card"><p class="row-title">中文翻译</p><p class="row-sub">'+esc(gart.cn)+'</p></div>';
       html += '<div class="divider-label">Vocabulary</div>';
@@ -2184,8 +2260,10 @@
     html += '<textarea class="bio-textarea" id="bioTextInput">'+esc(state.bioText)+'</textarea>';
     html += '<div class="row-card" style="margin-top:14px; text-align:left;"><p class="row-title">Data &amp; Backup</p><p class="row-sub" style="margin:4px 0 8px;">Saved on this device. Export before a big update, just in case.</p>'
       +'<div class="field-row"><button class="btn-primary" id="exportBackupBtn" style="margin:0;">⬇️ Export Backup</button><label class="upload-label" style="margin:0; padding:9px;"><input type="file" accept="application/json" id="importBackupInput" style="display:none;"/>⬆️ Import</label></div></div>';
-    html += '<div class="row-card" style="margin-top:10px; text-align:left;"><p class="row-title">AI Features</p><p class="row-sub" style="margin:4px 0 8px;">Free Groq key unlocks real AI-tailored interview prep. Get one at console.groq.com — stays on this device only.</p>'
-      +'<input class="field" id="groqKeyInput" type="password" placeholder="Paste your Groq API key" value="'+attrEsc(state.groqApiKey)+'"/></div>';
+    html += '<div class="row-card" style="margin-top:10px; text-align:left;"><p class="row-title">AI Features</p><p class="row-sub" style="margin:4px 0 8px;">Free Groq key unlocks real AI-tailored interview prep, video analysis and travel plans. Get one at console.groq.com — stays on this device only.</p>'
+      +'<input class="field" id="groqKeyInput" type="password" placeholder="Paste your Groq API key" value="'+attrEsc(state.groqApiKey)+'"/>'
+      +'<p class="row-sub" style="margin-top:10px;">Gemini key switches every 🔊 Play button to natural AI-generated speech instead of your device\'s built-in voice. Get one at aistudio.google.com.</p>'
+      +'<input class="field" id="geminiKeyInput" type="password" placeholder="Paste your Gemini API key" style="margin-top:6px;" value="'+attrEsc(state.geminiApiKey)+'"/></div>';
     html += '<button class="bio-close" id="bioCloseBtn2" style="margin-top:14px;">Close</button>';
     document.getElementById('bioSheetBody').innerHTML = html;
     document.getElementById('bioCloseBtn2').addEventListener('click', function(){ app.classList.remove('bio-open'); });
@@ -2216,6 +2294,7 @@
     if(e.target.id==='bioNameInput'){ state.bioName = e.target.value; document.getElementById('drawerNameLabel').textContent = state.bioName; }
     else if(e.target.id==='bioTextInput'){ state.bioText = e.target.value; }
     else if(e.target.id==='groqKeyInput'){ state.groqApiKey = e.target.value.trim(); }
+    else if(e.target.id==='geminiKeyInput'){ state.geminiApiKey = e.target.value.trim(); }
   });
 
   navList.addEventListener('click', function(e){
