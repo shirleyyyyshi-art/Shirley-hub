@@ -232,6 +232,37 @@ def build_listening_html(listening):
     }
 
 
+def highlight_article(article):
+    paras = list(article.get("paras", []))
+
+    def mark_first(pattern, css_class):
+        for i, para in enumerate(paras):
+            new_para, n = pattern.subn(
+                lambda m: f'<span class="{css_class}">{m.group(0)}</span>', para, count=1
+            )
+            if n:
+                paras[i] = new_para
+                return True
+        return False
+
+    for g in article.get("gems", []):
+        sentence = g.get("s", "").strip()
+        if not sentence:
+            continue
+        pattern = re.compile(re.escape(sentence))
+        mark_first(pattern, "gem")
+
+    for v in article.get("vocab", []):
+        word = v.get("w", "").strip()
+        if not word:
+            continue
+        pattern = re.compile(r"\b" + re.escape(word) + r"\b", re.IGNORECASE)
+        mark_first(pattern, "voc")
+
+    article["paras"] = paras
+    return article
+
+
 def get_ai_content(econ_seed):
     if not GEMINI_API_KEY:
         print("[info] GEMINI_API_KEY not set, skipping AI-generated vocab/listening/article (local pools will be used instead)")
@@ -246,7 +277,7 @@ def get_ai_content(econ_seed):
         if data.get("listening"):
             out["listening"] = build_listening_html(data["listening"])
         if data.get("economist_article"):
-            out["economistArticle"] = data["economist_article"]
+            out["economistArticle"] = highlight_article(data["economist_article"])
         return out or None
     except Exception as e:
         print(f"[warn] Gemini generation failed: {e}")
