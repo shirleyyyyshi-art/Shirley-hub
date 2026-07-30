@@ -691,6 +691,7 @@
 
     selfIntro:"Hi, I am Shirley, an HR professional with 7 years of experience across talent acquisition and employee relations. I moved to Singapore to grow into a regional HR role, and I am currently sharpening my interview English and preparing for IHRP-CP certification.",
     interviewCompany:"", interviewRole:"", interviewJd:"", interviewCompanyInfo:"", interviewCustomNotes:"", interviewQA:null, interviewQAGenerating:false, interviewQAError:null,
+    resumeFileName:"", resumeText:"",
     groqApiKey:"",
     interviewFeedbackList:[
       {company:"PropertyGuru", role:"Senior HRBP", round:"1", interviewDate:"2026-06-10", date:"2026-06-12",
@@ -712,7 +713,7 @@
     newsLevel:"intermediate",
 
     vlogSceneInput:"", vlogScripts:[], vlogScriptEditIdx:null,
-    socialLinks:{tt:[], xhs:[], yt:[]},
+    socialLinks:{tt:[], xhs:[], yt:[]}, socialLinkError:null,
     xhsIdea:"", xhsPhoto:null, xhsOutput:null, xhsEditing:false,
 
     foodPhoto:null, foodEditIdx:null,
@@ -722,6 +723,7 @@
     ],
 
     travelAddress:"", travelBudget:"", travelGroup:"2", travelNotes:"", travelStyle:"Balanced", travelInterests:[], travelOutput:null,
+    travelGenerating:false, travelError:null,
     travelHistory:[],
     travelJournal:[], travelJournalPhotos:[], travelJournalEditIdx:null,
 
@@ -824,6 +826,42 @@
       "--warn":"#e2a63b","--warn-soft":"rgba(226,166,59,0.2)","--danger":"#ef4444","--danger-soft":"rgba(239,68,68,0.18)",
       "--ok":"#0ea5e9","--ok-soft":"rgba(14,165,233,0.18)","--status-fg":"#0d3b2e",
       "--blob-1":"#5eead4","--blob-2":"#fde68a","--blob-3":"#93c5fd"
+    }},
+    orange:{swatch:"#ff7a30", vars:{
+      "--bg-page":"linear-gradient(160deg, #fff3b0 0%, #ffc266 55%, #ff8a80 100%)","--bg":"rgba(255,251,240,0.55)","--surface":"rgba(255,255,255,0.55)","--surface-alt":"rgba(255,255,255,0.35)",
+      "--line":"rgba(255,255,255,0.5)","--ink":"#4a2410","--muted":"#8a5a3a","--accent":"#ff7a30","--accent-ink":"#ffffff",
+      "--accent-soft":"rgba(255,122,48,0.18)","--accent-2":"#ff5e62","--accent-2-soft":"rgba(255,94,98,0.18)",
+      "--accent-grad":"linear-gradient(135deg, #ffcc4d, #ff5e62)",
+      "--warn":"#e2a63b","--warn-soft":"rgba(226,166,59,0.2)","--danger":"#e0392b","--danger-soft":"rgba(224,57,43,0.18)",
+      "--ok":"#20c997","--ok-soft":"rgba(32,201,151,0.18)","--status-fg":"#4a2410",
+      "--blob-1":"#ffd166","--blob-2":"#ff8a65","--blob-3":"#ff6b6b"
+    }},
+    aqua:{swatch:"#2dd4bf", vars:{
+      "--bg-page":"linear-gradient(160deg, #d1fae5 0%, #a5f3ea 55%, #bae6fd 100%)","--bg":"rgba(240,255,253,0.55)","--surface":"rgba(255,255,255,0.55)","--surface-alt":"rgba(255,255,255,0.35)",
+      "--line":"rgba(255,255,255,0.5)","--ink":"#0b3b3f","--muted":"#3e6e72","--accent":"#14b8a6","--accent-ink":"#ffffff",
+      "--accent-soft":"rgba(20,184,166,0.18)","--accent-2":"#38bdf8","--accent-2-soft":"rgba(56,189,248,0.18)",
+      "--accent-grad":"linear-gradient(135deg, #2dd4bf, #38bdf8)",
+      "--warn":"#e2a63b","--warn-soft":"rgba(226,166,59,0.2)","--danger":"#ef4444","--danger-soft":"rgba(239,68,68,0.18)",
+      "--ok":"#22c55e","--ok-soft":"rgba(34,197,94,0.18)","--status-fg":"#0b3b3f",
+      "--blob-1":"#5eead4","--blob-2":"#67e8f9","--blob-3":"#7dd3fc"
+    }},
+    indigo:{swatch:"#4f46e5", vars:{
+      "--bg-page":"linear-gradient(160deg, #051937 0%, #1e2a63 55%, #0f2027 100%)","--bg":"rgba(10,15,35,0.6)","--surface":"rgba(30,35,70,0.55)","--surface-alt":"rgba(30,35,70,0.35)",
+      "--line":"rgba(255,255,255,0.12)","--ink":"#e6f7ff","--muted":"#9fb3d9","--accent":"#4f46e5","--accent-ink":"#ffffff",
+      "--accent-soft":"rgba(79,70,229,0.25)","--accent-2":"#00e5c7","--accent-2-soft":"rgba(0,229,199,0.2)",
+      "--accent-grad":"linear-gradient(135deg, #4f46e5, #00e5c7)",
+      "--warn":"#facc15","--warn-soft":"rgba(250,204,21,0.18)","--danger":"#fb7185","--danger-soft":"rgba(251,113,133,0.18)",
+      "--ok":"#00e5c7","--ok-soft":"rgba(0,229,199,0.18)","--status-fg":"#e6f7ff",
+      "--blob-1":"#1e3a8a","--blob-2":"#4338ca","--blob-3":"#0891b2"
+    }},
+    champagne:{swatch:"#c9a227", vars:{
+      "--bg-page":"linear-gradient(160deg, #fdfaf5 0%, #f0e0c0 55%, #e2c9a0 100%)","--bg":"rgba(253,250,245,0.6)","--surface":"rgba(255,255,255,0.6)","--surface-alt":"rgba(255,255,255,0.4)",
+      "--line":"rgba(180,150,100,0.25)","--ink":"#4a3826","--muted":"#8a7358","--accent":"#c9a227","--accent-ink":"#ffffff",
+      "--accent-soft":"rgba(201,162,39,0.18)","--accent-2":"#8b6f47","--accent-2-soft":"rgba(139,111,71,0.18)",
+      "--accent-grad":"linear-gradient(135deg, #d4af37, #8b6f47)",
+      "--warn":"#e2a63b","--warn-soft":"rgba(226,166,59,0.2)","--danger":"#c0392b","--danger-soft":"rgba(192,57,43,0.18)",
+      "--ok":"#6b8e5a","--ok-soft":"rgba(107,142,90,0.18)","--status-fg":"#4a3826",
+      "--blob-1":"#e8d5b7","--blob-2":"#d4af37","--blob-3":"#c9a877"
     }}
   };
   function applyPalette(name){
@@ -1144,6 +1182,13 @@
       var saved = JSON.parse(raw);
       var data = migrateState(saved);
       Object.keys(data).forEach(function(k){ state[k] = data[k]; });
+      if(state.socialLinks){
+        Object.keys(state.socialLinks).forEach(function(k){
+          (state.socialLinks[k]||[]).forEach(function(l){ l.analyzing = false; });
+        });
+      }
+      state.interviewQAGenerating = false;
+      state.travelGenerating = false;
     } catch(e){ /* corrupted save — start fresh rather than crash */ }
   }
 
@@ -1265,6 +1310,10 @@
       +'<input class="field" id="intCompany" placeholder="Company" value="'+esc(state.interviewCompany)+'" style="margin-bottom:8px;"/>'
       +'<input class="field" id="intRole" placeholder="Role" value="'+esc(state.interviewRole)+'" style="margin-bottom:8px;"/>'
       +'<textarea class="field" id="intJd" placeholder="Paste the JD (optional)">'+esc(state.interviewJd)+'</textarea>'
+      +'<p class="field-label" style="margin-top:8px;">Your Resume</p>'
+      +'<label class="upload-label"><input type="file" accept=".txt,.md,text/plain,.pdf,.doc,.docx" id="resumeFileInput" style="display:none;"/>📄 '+(state.resumeFileName?"Change file: "+esc(state.resumeFileName):"Upload your resume")+'</label>'
+      + (state.resumeFileName && !state.resumeText ? '<p class="row-sub" style="margin-top:4px;">Saved as a reference, but this file type can\'t be read as text — paste key points below too so the AI can actually use them.</p>' : '')
+      +'<textarea class="field" id="resumeHighlights" placeholder="Paste a few resume highlights (roles, achievements, skills) so the AI can ground questions in your real background (optional)" style="margin-top:8px;">'+esc(state.resumeText)+'</textarea>'
       +'<p class="field-label" style="margin-top:8px;">Company Portal Link / Intro</p>'
       +'<textarea class="field" id="intCompanyInfo" placeholder="Paste the company\'s careers portal link, or a short intro/description of the company (optional)">'+esc(state.interviewCompanyInfo)+'</textarea>'
       +'<p class="field-label" style="margin-top:8px;">Your Own Requirements for This Mock Interview</p>'
@@ -1580,17 +1629,34 @@
       +'<button class="btn-primary" style="margin-top:8px;" data-action="add-social-link" data-platform="'+key+'">Save Link</button></div>';
     state.socialLinks[key].slice().reverse().forEach(function(l){
       var realIdx = state.socialLinks[key].indexOf(l);
-      html += '<div class="row-card"><div class="row-head"><a href="'+attrEsc(l.url)+'" target="_blank" rel="noopener" style="flex:1; font-size:12.5px; font-weight:700; color:var(--accent); word-break:break-all; text-decoration:none;">'+esc(l.url)+'</a>'
+      html += '<div class="row-card"><div class="row-head"><span style="flex:1; font-size:12.5px; font-weight:700; color:var(--ink); word-break:break-all;">'+esc(l.url)+'</span>'
+        + linkBtn("View Original", l.url)
         +'<button class="del-btn" data-action="delete-social-link" data-platform="'+key+'" data-idx="'+realIdx+'">'+TRASH_ICON+'</button></div>'
         + (l.note ? '<p class="row-sub" style="margin-top:6px;">'+esc(l.note)+'</p>' : '')
-        + '<p class="row-sub" style="margin-top:4px; color:var(--muted);">Saved '+formatDateEn(l.date)+'</p></div>';
+        + '<p class="row-sub" style="margin-top:4px; color:var(--muted);">Saved '+formatDateEn(l.date)+'</p>';
+      if(l.analyzing){
+        html += '<p class="row-sub" style="margin-top:8px;">🤖 Analyzing…</p>';
+      } else if(!l.analysis){
+        html += '<button class="btn-primary" style="margin-top:8px;" data-action="analyze-social-link" data-platform="'+key+'" data-idx="'+realIdx+'">🔍 Analyze This Video</button>';
+      }
+      html += '</div>';
+      if(l.analysis){
+        html += '<div class="row-card" style="margin-top:8px;"><p class="row-title">🔥 Why It Went Viral / 爆火核心原因</p>'
+          + (l.analysis.viralReasons||[]).map(function(r){ return '<p class="row-sub" style="margin-top:6px;">• '+esc(r.en)+'</p><p class="row-sub" style="margin-top:2px; color:var(--muted);">'+esc(r.cn)+'</p>'; }).join('')
+          + '</div>';
+        html += '<div class="row-card" style="margin-top:8px;"><p class="row-title">💡 Creative Takeaways / 可借鉴的创作启发</p>'
+          + (l.analysis.takeaways||[]).map(function(t){ return '<p class="row-sub" style="margin-top:6px;">• '+esc(t.en)+'</p><p class="row-sub" style="margin-top:2px; color:var(--muted);">'+esc(t.cn)+'</p>'; }).join('')
+          + '<div class="chip-row" style="margin-top:8px;"><span class="sel-chip" data-action="analyze-social-link" data-platform="'+key+'" data-idx="'+realIdx+'">↻ Re-analyze</span></div>'
+          + '</div>';
+      }
     });
     return html;
   }
 
   function pageVlog(){
     var html = '<div class="divider-label">Part 1 · Worth Learning From</div>';
-    html += '<div class="row-card"><p class="row-sub">Paste links to videos you found worth studying — a good hook, structure, or pacing — organised by platform.</p></div>';
+    html += '<div class="row-card"><p class="row-sub">Paste links to videos you found worth studying — a good hook, structure, or pacing — organised by platform.'+(state.groqApiKey?'':' Add a free Groq API key in your profile to unlock the "Analyze" button.')+'</p></div>';
+    if(state.socialLinkError){ html += '<div class="banner warn">⚠️ '+esc(state.socialLinkError)+'</div>'; }
     html += socialLinkSection('tt','tt','TikTok','Paste a TikTok link');
     html += socialLinkSection('xhs','xhs','Xiaohongshu','Paste a Xiaohongshu link');
     html += socialLinkSection('yt','yt','YouTube','Paste a YouTube link');
@@ -1671,18 +1737,19 @@
   }
 
   function pageTravel(){
-    var html = '<div class="row-card"><p class="row-sub">For Bangkok, Tokyo or Seoul this demo gives named hotel, food and attraction picks with Chinese translations, other destinations get a general plan. Bold underlined words mark advanced vocabulary (hover for CEFR level).</p></div>';
+    var html = '<div class="row-card"><p class="row-sub">'+(state.groqApiKey?'With a Groq key added, this generates a genuinely specific plan for whatever destination you enter — real-style hotel areas, named restaurants and attractions.':'Without a Groq key this gives a generic template, and only Bangkok/Tokyo/Seoul get named picks. Add a free Groq API key in your profile for a real, specific plan for any destination.')+' Bold underlined words mark advanced vocabulary (hover for CEFR level).</p></div>';
     html += '<div class="row-card"><p class="field-label">Destination</p><input class="field" id="travelAddress" placeholder="e.g. Bangkok, Thailand" value="'+esc(state.travelAddress)+'"/>'
       +'<div class="field-row" style="margin-top:8px;"><input class="field" id="travelStart" type="date"/><input class="field" id="travelEnd" type="date"/></div>'
       +'<div class="field-row" style="margin-top:8px;"><input class="field" id="travelBudget" placeholder="Budget (S$)" value="'+esc(state.travelBudget)+'"/><input class="field" id="travelGroup" placeholder="Travelers" value="'+esc(state.travelGroup)+'"/></div>'
       +'<p class="field-label" style="margin-top:10px;">Style</p><div class="chip-row">'+["Relaxed","Balanced","Packed"].map(function(s){return '<span class="sel-chip'+(state.travelStyle===s?" active":"")+'" data-action="travel-style" data-v="'+s+'">'+s+'</span>';}).join('')+'</div>'
       +'<p class="field-label" style="margin-top:10px;">Interests</p><div class="chip-row">'+["Food","Culture","Nature","Shopping","Nightlife"].map(function(s){return '<span class="sel-chip'+(state.travelInterests.indexOf(s)>-1?" active":"")+'" data-action="travel-interest" data-v="'+s+'">'+s+'</span>';}).join('')+'</div>'
       +'<textarea class="field" id="travelNotes" placeholder="Anything else? Dietary needs, must-see spots, pace..." style="margin-top:10px;">'+esc(state.travelNotes)+'</textarea>'
-      +'<button class="btn-primary" style="margin-top:10px;" data-action="gen-travel">Generate Detailed Itinerary</button></div>';
+      +'<button class="btn-primary" style="margin-top:10px;" data-action="gen-travel"'+(state.travelGenerating?' disabled':'')+'>'+(state.travelGenerating?'Generating…':'Generate Detailed Itinerary')+'</button></div>';
 
+    if(state.travelError){ html += '<div class="banner warn">⚠️ '+esc(state.travelError)+'</div>'; }
     if(state.travelOutput){
       var o = state.travelOutput;
-      html += '<div class="row-card"><p class="row-title">'+esc(o.dest)+' · '+o.tier+' · S$'+o.budget+'</p><p class="row-sub">Hotel: '+o.hotel+'</p>'+(o.hotelCn?'<p class="row-sub" style="margin-top:4px; color:var(--muted);">酒店：'+o.hotelCn+'</p>':'')+'</div>';
+      html += '<div class="row-card"><p class="row-title">'+esc(o.dest)+' · '+o.tier+' · S$'+o.budget+(o.aiGenerated?' <span style="color:var(--ok); font-weight:700; font-size:11px;">✨ AI-tailored</span>':' <span style="color:var(--muted); font-weight:700; font-size:11px;">(generic template)</span>')+'</p><p class="row-sub">Hotel: '+o.hotel+'</p>'+(o.hotelCn?'<p class="row-sub" style="margin-top:4px; color:var(--muted);">酒店：'+o.hotelCn+'</p>':'')+'</div>';
       o.days.forEach(function(day){
         html += '<div class="divider-label">'+day.label+'</div>';
         day.segs.forEach(function(s){
@@ -2271,8 +2338,10 @@
       var jd = document.getElementById('intJd').value.trim();
       var companyInfo = document.getElementById('intCompanyInfo').value.trim();
       var customNotes = document.getElementById('intCustomNotes').value.trim();
+      var resumeHighlights = document.getElementById('resumeHighlights').value.trim();
       state.interviewCompany = co; state.interviewRole = role; state.interviewJd = jd;
       state.interviewCompanyInfo = companyInfo; state.interviewCustomNotes = customNotes;
+      state.resumeText = resumeHighlights;
 
       function templateQA(){
         var list = [
@@ -2294,14 +2363,15 @@
         state.interviewQAGenerating = true;
         state.interviewQAError = null;
         renderDetail();
-        var prompt = "You are helping someone prepare for a real job interview. Company: \""+co+"\". Role: \""+role+"\"."
+        var prompt = "Roleplay setup: you are the interviewer, conducting a real job interview. I am the candidate being interviewed. Company: \""+co+"\". Role: \""+role+"\"."
           + (jd ? " Job description:\n"+jd.slice(0,3000) : " No job description was provided.")
           + (companyInfo ? "\n\nCompany portal link or company intro provided by the candidate (use it for real context about the company, if it's a URL just use your knowledge of that company/site if you recognise it): "+companyInfo.slice(0,1000) : "")
-          + "\n\nThe candidate's own self-introduction (use it for tone/background, weave real details from it into the tailored intro): \""+state.selfIntro+"\""
+          + "\n\nThe candidate's own self-introduction (use it for tone/background): \""+state.selfIntro+"\""
+          + (resumeHighlights ? "\n\nThe candidate's actual resume highlights, ground the questions and tailored intro in these real specifics rather than generic language: "+resumeHighlights.slice(0,2000) : "")
           + (customNotes ? "\n\nThe candidate's own requirements for this mock interview, follow these closely (e.g. desired number of questions, topics to focus on): "+customNotes.slice(0,500) : "")
           + "\n\nReply with ONLY raw JSON, no markdown fences, in exactly this shape:\n"
-          + '{"questions":[{"q":"...","a":"..."} ... at least 8 items unless the candidate\'s own requirements above ask for a different number, genuinely specific to this company/role/JD, not generic filler],"tailoredIntro":"a 3-4 sentence self-introduction rewritten to foreground the parts of the candidate\'s background most relevant to this exact company and role"}'
-          + "\nMake the questions the kind a real interviewer at this specific company would ask for this specific role, referencing the JD and company info where relevant, and honouring the candidate's own requirements above.";
+          + '{"questions":[{"q":"...","a":"..."} ... at least 8 items unless the candidate\'s own requirements above ask for a different number, genuinely specific to this company/role/JD (and resume, if provided), not generic filler],"tailoredIntro":"a 3-4 sentence self-introduction, written in the candidate\'s own voice as if answering \'tell me about yourself\', reworked to foreground the parts of the candidate\'s background (especially resume highlights, if given) most relevant to this exact company and role"}'
+          + "\nWrite every question exactly as you, the interviewer, would ask it out loud to the candidate at this specific company for this specific role, referencing the JD, company info and resume where relevant, and honouring the candidate's own requirements above. Write every answer in the candidate's voice, as a strong model response.";
         callGroqJSON(state.groqApiKey, prompt).then(function(data){
           state.interviewQA = {company:co, role:role, list:data.questions, tailoredIntro:data.tailoredIntro, aiGenerated:true};
           state.interviewQAGenerating = false;
@@ -2373,6 +2443,31 @@
     } else if(action === 'delete-social-link'){
       state.socialLinks[el.dataset.platform].splice(el.dataset.idx,1);
       renderDetail();
+    } else if(action === 'analyze-social-link'){
+      var alPlatform = el.dataset.platform, alIdx = el.dataset.idx;
+      var alLink = state.socialLinks[alPlatform][alIdx];
+      if(!state.groqApiKey){
+        state.socialLinkError = "Add a free Groq API key in your profile to analyze videos.";
+        renderDetail();
+      } else {
+        state.socialLinkError = null;
+        alLink.analyzing = true;
+        renderDetail();
+        var alPlatformNames = {tt:"TikTok", xhs:"Xiaohongshu", yt:"YouTube"};
+        var alPrompt = "Analyze this "+alPlatformNames[alPlatform]+" video for someone learning short-form video creation. URL: "+alLink.url+(alLink.note?" Note from the person studying it: "+alLink.note:"")
+          + "\n\nYou cannot actually watch the video, so give your best-informed, illustrative analysis based on the URL, typical conventions for this platform/genre, and the note given — do not claim to have watched it."
+          + "\n\nReply with ONLY raw JSON, no markdown fences, in exactly this shape:\n"
+          + '{"viralReasons":[{"en":"...","cn":"..."} ... 3 to 5 bullet points, e.g. strong hook, emotional resonance, plot-twist structure, visual impact],"takeaways":[{"en":"...","cn":"..."} ... 3 to 5 concrete, actionable creative lessons the person could apply to their own videos]}';
+        callGroqJSON(state.groqApiKey, alPrompt).then(function(data){
+          alLink.analysis = data;
+          alLink.analyzing = false;
+          renderDetail();
+        }).catch(function(err){
+          alLink.analyzing = false;
+          state.socialLinkError = "Couldn't reach Groq: " + (err && err.message ? err.message : "");
+          renderDetail();
+        });
+      }
     } else if(action === 'gen-vlog'){
       var scene = document.getElementById('vlogSceneInput').value.trim() || "your everyday moment in Singapore";
       state.vlogSceneInput = scene;
@@ -2453,46 +2548,82 @@
       var budget = Number(document.getElementById('travelBudget').value) || 800;
       var group = document.getElementById('travelGroup').value.trim() || "2";
       var notes = document.getElementById('travelNotes').value.trim();
+      var tStart = document.getElementById('travelStart').value;
+      var tEnd = document.getElementById('travelEnd').value;
       state.travelAddress = dest; state.travelBudget = budget; state.travelGroup = group; state.travelNotes = notes;
       var style = state.travelStyle;
       var interests = state.travelInterests.length ? state.travelInterests : ["Food"];
       var tier = budget>=2000 ? "Comfort+" : budget>=800 ? "Comfortable" : "Budget-friendly";
-      var destKey = Object.keys(TRAVEL_DB).find(function(k){ return dest.toLowerCase().indexOf(k)>-1; });
-      var db = destKey ? TRAVEL_DB[destKey] : null;
-      var hotel = db ? db.hotels[tier] : (tier==="Budget-friendly" ? "Cozy Riverside Hostel, shared taxi to the centre (~15 min)" : tier==="Comfortable" ? "City Central Boutique Hotel, 10 min walk to the Old Town" : "Riverside Grand Suites, river-view rooms with private transfers");
-      var hotelCn = db ? db.hotelsCn[tier] : "舒适型住宿，靠近市中心，交通方便";
-      var hotelShort = plainText(hotel).split(",")[0];
-      var attr1 = db ? db.attractions[0] : "top "+interests[0].toLowerCase()+" experience";
-      var attr2 = db ? db.attractions[1] : "a second highlight nearby";
-      var attr1Cn = db ? db.attractionsCn[0] : "最具代表性的"+interests[0]+"体验";
-      var attr2Cn = db ? db.attractionsCn[1] : "附近的第二个亮点";
-      var food1 = db ? db.food[0] : "a well-reviewed spot near your hotel";
-      var food2 = db ? db.food[1] : "a local favourite known for the regional specialty";
-      var food1Cn = db ? db.foodCn[0] : "酒店附近口碑不错的餐厅";
-      var food2Cn = db ? db.foodCn[1] : "当地招牌菜的人气小店";
-      var day2Segs = [
-        {time:"09:00–12:00", title:"Morning: "+attr1, cn:"上午："+attr1Cn, desc: style==="Relaxed" ? "An unhurried visit with plenty of breaks built in." : "A must-see stop, best visited early before the crowds.", e:"🎟️", after:"~20 min by taxi to lunch"},
-        {time:"12:30–14:00", title:"Lunch: "+food2, cn:"午餐："+food2Cn, desc:"Refuel before the afternoon.", e:"🍽️", after:"~10 min walk to the afternoon stop"},
-        {time:"15:00–18:00", title: style==="Packed" ? "Afternoon: "+attr2+" + market run" : "Afternoon: "+attr2+", easy pace", cn:"下午："+attr2Cn, desc:"Built around "+interests.join(" & ").toLowerCase()+".", e:"🛍️"}
-      ];
-      if(style==="Relaxed"){ day2Segs.push({time:"19:00 onward", title:"Free evening", cn:"自由活动的夜晚", desc:"No fixed plans, wander, rest, or revisit a favourite spot.", e:"🌆"}); }
-      else { day2Segs.push({time:"19:30–21:00", title:"Dinner + evening stroll", cn:"晚餐和夜间散步", desc:"Wind down with a relaxed dinner and a walk.", e:"🌃"}); }
-      state.travelOutput = {
-        dest:dest, budget:budget, tier:tier, hotel:hotel, hotelCn:hotelCn,
-        days:[
-          {label:"Day 1 — Arrival", segs:[
-            {time:"14:00–15:00", title:"Check in, "+hotelShort, cn:"入住 "+hotelShort, desc:"Settle in for "+group+" traveler(s) and freshen up before heading out.", e:"🏨"},
-            {time:"16:00–18:00", title:db ? db.attractions[2]||attr1 : "Explore the old quarter", cn:db ? db.attractionsCn[2]||attr1Cn : "探索老城区", desc:"An easy first walk built around your interest in "+interests.join(" & ").toLowerCase()+".", e:"📍", after:"~15 min walk to dinner"},
-            {time:"19:00–20:30", title:"Dinner: "+food1, cn:"晚餐："+food1Cn, desc:(notes?notes+". ":"")+"A well-reviewed pick for your first night.", e:"🍜"}
-          ]},
-          {label:"Day 2 — "+(style==="Packed"?"Full Day Out":style==="Relaxed"?"Easy Exploring":"City Highlights"), segs:day2Segs},
-          {label:"Day 3 — Departure", segs:[
-            {time:"09:00–11:00", title:db ? "Last visit: "+(db.attractions[3]||db.attractions[0]) : "Last-minute souvenirs", cn:db ? "最后一站："+(db.attractionsCn[3]||db.attractionsCn[0]) : "最后购买伴手礼", desc:"Pick up gifts near your hotel before packing up.", e:"🎁"},
-            {time:"12:00", title:"Check out & head to the airport", cn:"退房并前往机场", desc:"Budget ~45 min transfer time to be safe.", e:"🧳"}
-          ]}
-        ]
-      };
-      renderDetail();
+      var numDays = 3;
+      if(tStart && tEnd){
+        var d1 = new Date(tStart+"T00:00:00"), d2 = new Date(tEnd+"T00:00:00");
+        var diff = Math.round((d2-d1)/86400000)+1;
+        if(diff >= 1 && diff <= 14) numDays = diff;
+      }
+
+      function templateTravel(){
+        var destKey = Object.keys(TRAVEL_DB).find(function(k){ return dest.toLowerCase().indexOf(k)>-1; });
+        var db = destKey ? TRAVEL_DB[destKey] : null;
+        var hotel = db ? db.hotels[tier] : (tier==="Budget-friendly" ? "Cozy Riverside Hostel, shared taxi to the centre (~15 min)" : tier==="Comfortable" ? "City Central Boutique Hotel, 10 min walk to the Old Town" : "Riverside Grand Suites, river-view rooms with private transfers");
+        var hotelCn = db ? db.hotelsCn[tier] : "舒适型住宿，靠近市中心，交通方便";
+        var hotelShort = plainText(hotel).split(",")[0];
+        var attr1 = db ? db.attractions[0] : "top "+interests[0].toLowerCase()+" experience";
+        var attr2 = db ? db.attractions[1] : "a second highlight nearby";
+        var attr1Cn = db ? db.attractionsCn[0] : "最具代表性的"+interests[0]+"体验";
+        var attr2Cn = db ? db.attractionsCn[1] : "附近的第二个亮点";
+        var food1 = db ? db.food[0] : "a well-reviewed spot near your hotel";
+        var food2 = db ? db.food[1] : "a local favourite known for the regional specialty";
+        var food1Cn = db ? db.foodCn[0] : "酒店附近口碑不错的餐厅";
+        var food2Cn = db ? db.foodCn[1] : "当地招牌菜的人气小店";
+        var day2Segs = [
+          {time:"09:00–12:00", title:"Morning: "+attr1, cn:"上午："+attr1Cn, desc: style==="Relaxed" ? "An unhurried visit with plenty of breaks built in." : "A must-see stop, best visited early before the crowds.", e:"🎟️", after:"~20 min by taxi to lunch"},
+          {time:"12:30–14:00", title:"Lunch: "+food2, cn:"午餐："+food2Cn, desc:"Refuel before the afternoon.", e:"🍽️", after:"~10 min walk to the afternoon stop"},
+          {time:"15:00–18:00", title: style==="Packed" ? "Afternoon: "+attr2+" + market run" : "Afternoon: "+attr2+", easy pace", cn:"下午："+attr2Cn, desc:"Built around "+interests.join(" & ").toLowerCase()+".", e:"🛍️"}
+        ];
+        if(style==="Relaxed"){ day2Segs.push({time:"19:00 onward", title:"Free evening", cn:"自由活动的夜晚", desc:"No fixed plans, wander, rest, or revisit a favourite spot.", e:"🌆"}); }
+        else { day2Segs.push({time:"19:30–21:00", title:"Dinner + evening stroll", cn:"晚餐和夜间散步", desc:"Wind down with a relaxed dinner and a walk.", e:"🌃"}); }
+        return {
+          dest:dest, budget:budget, tier:tier, hotel:hotel, hotelCn:hotelCn, aiGenerated:false,
+          days:[
+            {label:"Day 1 — Arrival", segs:[
+              {time:"14:00–15:00", title:"Check in, "+hotelShort, cn:"入住 "+hotelShort, desc:"Settle in for "+group+" traveler(s) and freshen up before heading out.", e:"🏨"},
+              {time:"16:00–18:00", title:db ? db.attractions[2]||attr1 : "Explore the old quarter", cn:db ? db.attractionsCn[2]||attr1Cn : "探索老城区", desc:"An easy first walk built around your interest in "+interests.join(" & ").toLowerCase()+".", e:"📍", after:"~15 min walk to dinner"},
+              {time:"19:00–20:30", title:"Dinner: "+food1, cn:"晚餐："+food1Cn, desc:(notes?notes+". ":"")+"A well-reviewed pick for your first night.", e:"🍜"}
+            ]},
+            {label:"Day 2 — "+(style==="Packed"?"Full Day Out":style==="Relaxed"?"Easy Exploring":"City Highlights"), segs:day2Segs},
+            {label:"Day 3 — Departure", segs:[
+              {time:"09:00–11:00", title:db ? "Last visit: "+(db.attractions[3]||db.attractions[0]) : "Last-minute souvenirs", cn:db ? "最后一站："+(db.attractionsCn[3]||db.attractionsCn[0]) : "最后购买伴手礼", desc:"Pick up gifts near your hotel before packing up.", e:"🎁"},
+              {time:"12:00", title:"Check out & head to the airport", cn:"退房并前往机场", desc:"Budget ~45 min transfer time to be safe.", e:"🧳"}
+            ]}
+          ]
+        };
+      }
+
+      if(!state.groqApiKey){
+        state.travelOutput = templateTravel();
+        state.travelError = null;
+        renderDetail();
+      } else {
+        state.travelGenerating = true;
+        state.travelError = null;
+        renderDetail();
+        var travelPrompt = "Plan a genuinely specific, real "+numDays+"-day trip to \""+dest+"\" for "+group+" traveler(s), total budget roughly S$"+budget+" ("+tier+" tier), pace: "+style+", interests: "+interests.join(", ")+"."
+          + (notes ? " Extra notes from the traveler: "+notes : "")
+          + "\n\nUse real, specific, well-known hotel areas/hotel names, real named restaurants or dishes, and real named attractions for this exact destination — not generic placeholders like 'a well-reviewed restaurant'. If you are not fully certain a specific business still exists, prefer a well-known real neighbourhood/landmark over inventing a business name."
+          + "\n\nReply with ONLY raw JSON, no markdown fences, in exactly this shape:\n"
+          + '{"hotel":"a specific real hotel or area recommendation, one sentence","hotelCn":"Chinese translation of that","days":[{"label":"Day 1 — Arrival","segs":[{"time":"14:00–15:00","title":"short title","cn":"Chinese translation of the title","desc":"one sentence of real, specific detail (why this place, what to order, what to see)","e":"one relevant emoji"}, ... 3-4 segs per day]}, ... '+numDays+' day objects total, last day should be a lighter departure day]}'
+          + "\nKeep each day to 3-4 segments covering morning/lunch/afternoon/dinner as relevant, in the same style as a real specific travel guide.";
+        callGroqJSON(state.groqApiKey, travelPrompt).then(function(data){
+          state.travelOutput = {dest:dest, budget:budget, tier:tier, hotel:data.hotel, hotelCn:data.hotelCn, days:data.days, aiGenerated:true};
+          state.travelGenerating = false;
+          renderDetail();
+        }).catch(function(err){
+          state.travelOutput = templateTravel();
+          state.travelError = "Couldn't reach Groq (check your API key), showing a generic template instead. " + (err && err.message ? err.message : "");
+          state.travelGenerating = false;
+          renderDetail();
+        });
+      }
     } else if(action === 'save-trip'){
       var o2 = state.travelOutput;
       if(o2){
@@ -2742,6 +2873,18 @@
     else if(el.dataset.action === 'journal-photo-add' && el.files[0]){ readImg(el.files[0], function(url){ state.journalPhotos.push(url); renderDetail(); }); }
     else if(el.dataset.action === 'journal-edit-photo-add' && el.files[0]){ var jIdx = el.dataset.idx; readImg(el.files[0], function(url){ var je = state.journal[state.journalTab][jIdx]; je.photos = je.photos || []; je.photos.push(url); renderDetail(); }); }
     else if(el.dataset.action === 'report-input'){ state.readingBooks[el.dataset.idx].report = el.value; }
+    else if(el.id === 'resumeFileInput' && el.files[0]){
+      var resumeFile = el.files[0];
+      state.resumeFileName = resumeFile.name;
+      var isTextLike = resumeFile.type === 'text/plain' || /\.(txt|md)$/i.test(resumeFile.name);
+      if(isTextLike){
+        var resumeReader = new FileReader();
+        resumeReader.onload = function(ev){ state.resumeText = ev.target.result; renderDetail(); };
+        resumeReader.readAsText(resumeFile);
+      } else {
+        renderDetail();
+      }
+    }
   });
 
   var recognitionObj = null, isRecording = false;
