@@ -243,10 +243,12 @@ def gemini_prompt(econ_seed):
     "paras": ["paragraph 1", "paragraph 2", "paragraph 3", "paragraph 4" ... "paragraph N", N is 4 to 7, never more than 10],
     "cn": "a full Chinese translation of the whole article, as one string",
     "vocab": [ {"w": "word appearing in the article", "ipa": "IPA in slashes", "pos": "adj./v./n. etc", "mean": "Chinese meaning", "def": "English definition", "ex": "example sentence"} ... 10 items, genuinely advanced/business vocabulary drawn from the article text ],
-    "gems": [ {"s": "one genuinely well-constructed sentence copied verbatim from the article", "why": "one sentence in English explaining the rhetorical technique, then the same explanation in Chinese"} ... 1 to 2 items ]
+    "gems": [ {"s": "one genuinely well-constructed sentence copied verbatim from the article, prefer sentences that do not themselves contain quotation marks so the JSON stays simple to escape", "why": "one sentence in English explaining the rhetorical technique, then the same explanation in Chinese"} ... 1 to 2 items ]
   }
 }""" + econ_line + """
-Make it genuinely different from a typical example, vary the topic each time. Output nothing except the JSON object."""
+Make it genuinely different from a typical example, vary the topic each time. Output nothing except the JSON object.
+The output MUST be strictly valid JSON: escape every double-quote character that appears inside a string value as \\", escape
+newlines inside string values as \\n, and do not truncate — finish every field and close every bracket."""
 
 
 def call_gemini(prompt):
@@ -255,10 +257,10 @@ def call_gemini(prompt):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
     payload = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 1.0, "responseMimeType": "application/json"},
+        "generationConfig": {"temperature": 1.0, "responseMimeType": "application/json", "maxOutputTokens": 8192},
     }).encode("utf-8")
     req = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
-    with urllib.request.urlopen(req, timeout=45) as r:
+    with urllib.request.urlopen(req, timeout=60) as r:
         data = json.loads(r.read())
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     return json.loads(text)
@@ -316,8 +318,20 @@ def get_ai_content(econ_seed):
     if not GEMINI_API_KEY:
         print("[info] GEMINI_API_KEY not set, skipping AI-generated vocab/listening/article (local pools will be used instead)")
         return None
+    prompt = gemini_prompt(econ_seed)
+    data = None
+    last_err = None
+    for attempt in range(2):
+        try:
+            data = call_gemini(prompt)
+            break
+        except Exception as e:
+            last_err = e
+            print(f"[warn] Gemini generation attempt {attempt + 1} failed: {e}")
+    if data is None:
+        print(f"[warn] Gemini generation failed after retry: {last_err}")
+        return None
     try:
-        data = call_gemini(gemini_prompt(econ_seed))
         out = {}
         if data.get("life_vocab"):
             out["lifeVocab"] = data["life_vocab"]
