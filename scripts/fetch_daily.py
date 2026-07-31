@@ -130,6 +130,54 @@ def pick_vocab(text, max_words=2):
     return out
 
 
+NOISE_MARKERS = (
+    "cna games", "guess word", "buzzword", "crack the word", "word search",
+    "subscribe", "advertisement", "newsletter", "download our app",
+    "top stories and thought-provoking articles in your inbox",
+    "stay updated with notifications",
+    "join our channel for the top reads",
+    "preferred chat app",
+)
+
+
+def get_full_article_text(source, url, max_paras=30):
+    try:
+        html = fetch(url).decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"[warn] failed to fetch full article for {source}: {e}")
+        return None
+    try:
+        if source == "st":
+            paras_raw = re.findall(
+                r'<p[^>]*data-testid="article-paragraph-annotation-test-id"[^>]*>(.*?)</p>', html, re.S
+            )
+        elif source == "cna":
+            idx = html.find("block-field-blocknodearticlefield-content")
+            if idx == -1:
+                return None
+            window = html[idx : idx + 20000]
+            tl_idx = window.find('class="text-long"')
+            if tl_idx == -1:
+                return None
+            chunk = window[tl_idx : tl_idx + 16000]
+            paras_raw = re.findall(r"<p[^>]*>(.*?)</p>", chunk, re.S)
+        else:
+            return None
+        paras = []
+        for p in paras_raw:
+            clean = strip_html(p)
+            low = clean.lower()
+            if len(clean) < 40 or any(marker in low for marker in NOISE_MARKERS):
+                continue
+            paras.append(clean)
+            if len(paras) >= max_paras:
+                break
+        return paras or None
+    except Exception as e:
+        print(f"[warn] failed to parse full article for {source}: {e}")
+        return None
+
+
 def get_rss_content(key, url):
     try:
         item = parse_rss_first_clean_item(fetch(url))
@@ -177,7 +225,8 @@ def gemini_prompt(econ_seed):
     econ_line = ""
     if econ_seed:
         econ_line = ('\n\nA real Economist headline from today, use it as the inspiration/topic for "economist_article" below '
-                     '(do not just repeat the headline, write a genuine ~5-paragraph article exploring the topic): '
+                     '(do not just repeat the headline, write a genuine 4-to-7-paragraph article exploring the topic, '
+                     'never more than 10 paragraphs): '
                      '"' + econ_seed.get("headline", "") + '" — ' + econ_seed.get("teaser", ""))
     return """Generate fresh English-learning material for a Singapore-based learner. Reply with ONLY raw JSON, no markdown fences, matching exactly this shape:
 {
@@ -191,7 +240,7 @@ def gemini_prompt(econ_seed):
   },
   "economist_article": {
     "title": "article title",
-    "paras": ["paragraph 1", "paragraph 2", "paragraph 3", "paragraph 4", "paragraph 5"],
+    "paras": ["paragraph 1", "paragraph 2", "paragraph 3", "paragraph 4" ... "paragraph N", N is 4 to 7, never more than 10],
     "cn": "a full Chinese translation of the whole article, as one string",
     "vocab": [ {"w": "word appearing in the article", "ipa": "IPA in slashes", "pos": "adj./v./n. etc", "mean": "Chinese meaning", "def": "English definition", "ex": "example sentence"} ... 10 items, genuinely advanced/business vocabulary drawn from the article text ],
     "gems": [ {"s": "one genuinely well-constructed sentence copied verbatim from the article", "why": "one sentence in English explaining the rhetorical technique, then the same explanation in Chinese"} ... 1 to 2 items ]
@@ -298,10 +347,16 @@ def main():
 
     st = get_rss_content("st", SOURCES["st"])
     if st:
+        full = get_full_article_text("st", st["url"])
+        if full:
+            st["fullText"] = full
         result["st"] = st
 
     cna = get_rss_content("cna", SOURCES["cna"])
     if cna:
+        full = get_full_article_text("cna", cna["url"])
+        if full:
+            cna["fullText"] = full
         result["cna"] = cna
 
     mom = get_mom_content()

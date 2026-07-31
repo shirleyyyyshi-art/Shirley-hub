@@ -339,6 +339,7 @@
 </head>
 <body>
 
+
 <svg class="defs" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fd3d8"/><stop offset="1" stop-color="#bfe6c4"/></linearGradient>
@@ -561,23 +562,6 @@
   var audioBtnCounter = 0;
   function audioBtn(text){ audioBtnCounter++; return '<button class="audio-btn" id="ab'+audioBtnCounter+'" data-action="play-audio" data-tts="'+attrEsc(text)+'">🔊 Play</button>'; }
   function audioBtnSrc(id){ audioBtnCounter++; return '<button class="audio-btn" id="ab'+audioBtnCounter+'" data-action="play-audio" data-tts-src="'+id+'">🔊 Play</button>'; }
-  function accentToggle(){
-    var html = '<div class="chip-row"><span class="sel-chip'+(state.voiceLang==="en-GB"?" active":"")+'" data-action="set-accent" data-v="en-GB">🇬🇧 British</span><span class="sel-chip'+(state.voiceLang==="en-US"?" active":"")+'" data-action="set-accent" data-v="en-US">🇺🇸 American</span><span class="sel-chip" data-action="toggle-voice-diag">🔍 '+(state.showVoiceDiag?"Hide":"Check")+' My Voices</span></div>';
-    html += voiceDiagPanel();
-    return html;
-  }
-  function voiceDiagPanel(){
-    if(!state.showVoiceDiag) return '';
-    if(!VOICES.length){ return '<p class="row-sub" style="margin-top:8px;">No voices detected. Some browsers only populate this after the page has been open a moment, or after speech has run once — try tapping 🔊 Play, then reopen this panel.</p>'; }
-    var picked = pickVoice(state.voiceLang);
-    var enVoices = VOICES.filter(function(v){ return v.lang && v.lang.toLowerCase().indexOf('en')===0; });
-    var list = (enVoices.length?enVoices:VOICES).map(function(v){
-      var isPicked = picked && v.name===picked.name && v.lang===picked.lang;
-      return '<p class="row-sub" style="margin-top:2px;'+(isPicked?" font-weight:700; color:var(--accent);":"")+'">'+(isPicked?"👉 ":"")+v.name+' <span style="color:var(--muted); font-weight:400;">('+v.lang+', '+(v.localService?"on-device":"network")+')</span></p>';
-    }).join('');
-    var tip = enVoices.length ? "This is what's actually installed, if none of these say Google/Natural/Neural/Enhanced/Premium, the browser only has basic robotic voices and no amount of code here can fix that, better voices have to come from your OS or a paid cloud TTS." : "No English voices found at all, definitely worth trying a different browser.";
-    return '<div class="row-card" style="margin-top:8px;"><p class="row-title">Voices available on this device/browser</p>'+list+'<p class="row-sub" style="margin-top:8px;">'+tip+'</p></div>';
-  }
   var VOICES = [];
   function loadVoices(){ VOICES = ('speechSynthesis' in window) ? window.speechSynthesis.getVoices() : []; }
   if('speechSynthesis' in window){ loadVoices(); window.speechSynthesis.onvoiceschanged = loadVoices; }
@@ -763,7 +747,7 @@
     avatarChoice:"sweet", avatarCustomPhoto:null,
     bioName:"Shirley", bioRole:"HR Professional · Singapore",
     bioText:"7 years in HR. Loves spicy food and meat. Moved to Singapore at 30, building new habits, one day at a time.",
-    voiceLang:"en-GB", showVoiceDiag:false,
+    voiceLang:"en-GB",
 
     selfIntro:"Hi, I am Shirley, an HR professional with 7 years of experience across talent acquisition and employee relations. I moved to Singapore to grow into a regional HR role, and I am currently sharpening my interview English and preparing for IHRP-CP certification.",
     interviewCompany:"", interviewRole:"", interviewJd:"", interviewCompanyInfo:"", interviewCustomNotes:"", interviewQA:null, interviewQAGenerating:false, interviewQAError:null,
@@ -1374,7 +1358,7 @@
     return out;
   }
   function pageInterview(){
-    var html = '<div class="row-card"><p class="row-sub">All audio on this page — questions, your self-introduction, the AI-tailored version — plays back in whichever accent you pick below.</p>'+accentToggle()+'</div>';
+    var html = '<div class="row-card"><p class="row-sub">All audio on this page — questions, your self-introduction, the AI-tailored version — can be paused and resumed.</p></div>';
     html += rehearsalSection();
 
     html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Self-Introduction</p>'+audioBtnSrc('selfIntroBox')+'</div>'
@@ -1465,7 +1449,7 @@
   }
 
   function pageNews(){
-    var html = '<div class="row-card"><p class="row-sub">'+(liveDaily?('Live headlines from The Economist, Straits Times and CNA &middot; updated '+formatDateEn(liveDaily.date)+'.'):'Live feed hasn\'t loaded yet, showing example articles instead.')+' Audio can be paused and resumed, pick an accent below.</p>'+accentToggle()+'</div>';
+    var html = '<div class="row-card"><p class="row-sub">'+(liveDaily?('Live headlines from The Economist, Straits Times and CNA &middot; updated '+formatDateEn(liveDaily.date)+'.'):'Live feed hasn\'t loaded yet, showing example articles instead.')+' Audio can be paused and resumed.</p></div>';
     html += '<div class="divider-label">Part 1 · The Economist</div>';
     if(liveDaily && liveDaily.economistArticle){
       var gart = liveDaily.economistArticle;
@@ -1522,13 +1506,17 @@
     html += '<div class="divider-label">Part 2 · Straits Times &amp; CNA</div>';
     if(liveDaily && liveDaily.st){
       var st = liveDaily.st;
-      html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#c8102e;color:#fff;">The Straits Times</span>'+audioBtn(st.teaser)+'</div><p class="row-title" style="margin-top:8px;">'+esc(st.headline)+'</p><p class="row-sub" style="margin-top:6px;">'+esc(st.teaser)+'</p>'+linkBtn("Read on ST", st.url)+'</div>';
+      var stHasFull = st.fullText && st.fullText.length;
+      var stBody = stHasFull ? st.fullText.map(function(p){ return '<p class="row-sub" style="margin-top:8px;">'+esc(p)+'</p>'; }).join('') : '<p class="row-sub" style="margin-top:6px;">'+esc(st.teaser)+'</p>';
+      html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#c8102e;color:#fff;">The Straits Times</span>'+audioBtn(stHasFull ? st.fullText.join(' ') : st.teaser)+'</div><p class="row-title" style="margin-top:8px;">'+esc(st.headline)+'</p>'+stBody+linkBtn("Read on ST", st.url)+'</div>';
     } else {
       html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#c8102e;color:#fff;">The Straits Times</span>'+audioBtn(ST_FULL)+'</div><p class="row-title" style="margin-top:8px;">HDB resale prices ease for second straight month</p><p class="row-sub" style="margin-top:6px;">'+ST_FULL+'</p>'+linkBtn("Read on ST","https://www.straitstimes.com/")+'</div>';
     }
     if(liveDaily && liveDaily.cna){
       var cna = liveDaily.cna;
-      html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#000;color:#fff;">CNA</span>'+audioBtn(cna.teaser)+'</div><p class="row-title" style="margin-top:8px;">'+esc(cna.headline)+'</p><p class="row-sub" style="margin-top:6px;">'+esc(cna.teaser)+'</p>'+linkBtn("Read on CNA", cna.url)+'</div>';
+      var cnaHasFull = cna.fullText && cna.fullText.length;
+      var cnaBody = cnaHasFull ? cna.fullText.map(function(p){ return '<p class="row-sub" style="margin-top:8px;">'+esc(p)+'</p>'; }).join('') : '<p class="row-sub" style="margin-top:6px;">'+esc(cna.teaser)+'</p>';
+      html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#000;color:#fff;">CNA</span>'+audioBtn(cnaHasFull ? cna.fullText.join(' ') : cna.teaser)+'</div><p class="row-title" style="margin-top:8px;">'+esc(cna.headline)+'</p>'+cnaBody+linkBtn("Read on CNA", cna.url)+'</div>';
     } else {
       html += '<div class="row-card"><div class="row-head"><span class="badge" style="background:#000;color:#fff;">CNA</span>'+audioBtn(CNA_FULL)+'</div><p class="row-title" style="margin-top:8px;">Companies race to roll out AI copilots at work</p><p class="row-sub" style="margin-top:6px;">'+CNA_FULL+'</p>'+linkBtn("Read on CNA","https://www.channelnewsasia.com/")+'</div>';
     }
@@ -1540,7 +1528,7 @@
     var live = liveDaily && liveDaily.lifeVocab && liveDaily.levelVocab;
     var lifeDeck = live ? liveDaily.lifeVocab : dailyPick(LIFE_VOCAB, VOCAB_DECK_SIZE);
     var levelDeck = live ? liveDaily.levelVocab : dailyPick(LEVEL_VOCAB, VOCAB_DECK_SIZE);
-    var html = '<div class="row-card"><p class="row-sub">'+(live?('Freshly generated for today, '+formatDateEn(liveDaily.date)+'.'):'Two decks rotate automatically based on today\'s date.')+' Each word has audio.</p>'+accentToggle()+'</div>';
+    var html = '<div class="row-card"><p class="row-sub">'+(live?('Freshly generated for today, '+formatDateEn(liveDaily.date)+'.'):'Two decks rotate automatically based on today\'s date.')+' Each word has audio.</p></div>';
     html += '<div class="divider-label">Life Vocabulary'+(live?'':' &middot; At the Zoo')+'</div>';
     lifeDeck.forEach(function(w){
       html += '<div class="row-card"><div class="row-head"><span style="font-size:22px;">'+esc(w.emoji||"")+'</span><p class="row-title" style="flex:1; margin:0;">'+esc(w.en)+'</p>'+audioBtn(w.en+". "+w.ex)+'</div>'
@@ -1558,7 +1546,7 @@
     var live = liveDaily && liveDaily.listening;
     var passage = live ? liveDaily.listening : LISTENING_POOL[dayIndex() % LISTENING_POOL.length];
     var html = '<div class="row-card"><p class="row-sub">'+(live?('Freshly generated for today, '+formatDateEn(liveDaily.date)+'.'):'Rotates automatically based on today\'s date.')+'</p></div>';
-    html += '<div class="row-card"><p class="row-title">'+passage.title+'</p><p class="row-sub" style="margin-top:4px;">'+passage.source+', tap any underlined word for its meaning.</p>'+accentToggle()+'</div>';
+    html += '<div class="row-card"><p class="row-title">'+passage.title+'</p><p class="row-sub" style="margin-top:4px;">'+passage.source+', tap any underlined word for its meaning.</p></div>';
     html += '<div class="row-card"><div class="row-head">'+audioBtn(plainText(passage.transcript))+'</div><p class="row-sub" style="margin-top:8px; line-height:1.7;">'+passage.transcript+'</p></div>';
     html += '<div class="row-card"><p class="row-title">Word Lookup</p><p class="row-sub">'+(state.listeningLookup||"Tap a word above to see its meaning here.")+'</p></div>';
     return html;
@@ -1566,7 +1554,7 @@
 
   function pageSpeaking(){
     var supported = !!(window.SpeechRecognition || window.webkitSpeechRecognition);
-    var html = '<div class="row-card"><p class="row-sub">Tap the mic to record, tap again to stop, your speech becomes text below.'+(supported?'':' Live recording is not supported in this browser, type instead.')+'</p>'+accentToggle()+'</div>';
+    var html = '<div class="row-card"><p class="row-sub">Tap the mic to record, tap again to stop, your speech becomes text below.'+(supported?'':' Live recording is not supported in this browser, type instead.')+'</p></div>';
     html += '<div class="row-card">'
       +'<button class="record-btn" id="recordBtn" data-action="toggle-record">🎙 Start Recording</button>'
       +'<textarea class="field" id="speakingInput" placeholder="e.g. I think I are good fit for this role because I have lot of experience." style="margin-top:10px;">'+esc(state.speakingInput)+'</textarea>'
@@ -2859,13 +2847,6 @@
       if(el.dataset.ttsSrc){ var srcEl = document.getElementById(el.dataset.ttsSrc); text = srcEl ? srcEl.value : ""; }
       else { text = el.dataset.tts || ""; }
       toggleAudioButton(el, text);
-    } else if(action === 'set-accent'){
-      state.voiceLang = el.dataset.v;
-      renderDetail();
-    } else if(action === 'toggle-voice-diag'){
-      loadVoices();
-      state.showVoiceDiag = !state.showVoiceDiag;
-      renderDetail();
     } else if(action === 'toggle-record'){
       toggleRecording(el.dataset.target);
     } else if(action === 'edit-book'){
