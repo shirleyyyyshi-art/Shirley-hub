@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generatedAt": "2026-07-31T03:55:44.361869+00:00",
+  "generatedAt": "2026-07-31T10:19:20.145042+00:00",
   "economist": {
     "headline": "Oil prices remain highly flammable",
     "teaser": "As tensions flare in the Gulf, triple digits could return in a flash",
@@ -19,43 +19,38 @@
     ]
   },
   "st": {
-    "headline": "China factory activity surprises with first slump in five months",
-    "teaser": "The declines suggest economic weakness is becoming more entrenched.",
-    "url": "https://www.straitstimes.com/business/economy/china-factory-activity-surprises-with-first-slump-in-5-months",
+    "headline": "Universal Music falls most in two years on subscription miss",
+    "teaser": "The company’s subscription revenue growth fell short of expectations in the second quarter.",
+    "url": "https://www.straitstimes.com/business/universal-music-falls-most-in-two-years-on-subscription-miss",
     "fullText": [
-      "BEIJING – China’s factory activity unexpectedly contracted for the first time in five months, adding to signs of slowing economic momentum.",
-      "The official manufacturing purchasing managers’ index was 49.2 in July, down from 50.3 in June, the National Bureau of Statistics said on July 31. The median estimate of economists surveyed by Bloomberg was 50.1.",
-      "The non-manufacturing measure of activity in construction and services fell more than forecast to 49 – the lowest since December 2022 – from 50.2 in June, the statistics office said. A reading below 50 indicates contraction.",
-      "The declines suggest economic weakness is becoming more entrenched, with soft domestic demand outweighing resilience in exports.",
-      "Investors are increasingly focused on whether policymakers will roll out stimulus measures to stabilise the economy after the government dialled back spending on infrastructure in recent months.",
-      "Concerns over the health of China’s economy have been intensifying since April as growth weakened and became more unbalanced. Though the energy shock unleashed by the war in Iran has helped drag China out of its years-long deflation, consumer and business confidence is still sluggish.",
-      "Economic growth in the second quarter slowed to 4.3 per cent from 2025, the weakest quarterly growth in more than three years. But a strong first quarter means that growth in the January-June period was 4.7 per cent, within the official 2026 target range of 4.5 per cent to 5 per cent.",
-      "Top officials pledged to “roll out pragmatic and effective new policies in a timely manner” during a key policy meeting on July 30.",
-      "With exports soaring at a double-digit pace in 2026, economists expect officials to act with little urgency for now in rolling out any fresh stimulus measures.",
-      "Policymakers have also pledged to speed up the pace of public spending and the use of funds raised through government bonds. BLOOMBERG"
+      "Amsterdam – Universal Music Group’s shares plummeted the most since July 2024, after the company’s subscription revenue growth fell short of expectations in the second quarter.",
+      "The world’s largest record label’s subscription revenues grew 16.6 per cent in constant currency, including the impact of its purchase of Downtown Music Holdings, to reach €1.37 billion (S$2 billion) in the second quarter. Analysts surveyed by Bloomberg had expected a 19.2 per cent increase.",
+      "Excluding the Downtown acquisition, subscription revenue grew 6.7per cent in constant currency, below analyst expectations and slower than the prior quarter.",
+      "“Overall delivery on sub streaming and total streaming has been lacklustre,” Barclays’ analyst Julien Roch wrote in a note. “The last time results were this poor” was in the second quarter of 2024, he said.",
+      "Universal Music’s shares fell more than 20 per cent in Amsterdam on the morning of July 31.",
+      "Netherlands-based Universal, which owns the rights to some of the world’s biggest artistes including American singers Taylor Swift and Chappell Roan, said “market share headwinds” offset more expensive music subscription prices at Spotify, YouTube and Apple Music.",
+      "In January, Spotify raised prices for its American premium subscription by 8 per cent, while Apple Music also hiked American prices in July, citing higher music-licensing costs.",
+      "Universal reported earnings before interest, taxes, depreciation and amortisation of €610 million for the second quarter, including Downtown, missing analysts’ estimates for €643 million.",
+      "The label said improvements in its Recorded Music and Music Publishing businesses were partially offset by a decline in its Merchandising unit, where revenue fell 10.7 per cent in constant currency, as the poor timing of tours and product releases weighed on sales.",
+      "Its plan, known as Streaming 2.0, involves better monetisation of so-called superfans through paid subscription tiers and opportunities for deeper engagement with their favourite artistes. Universal’s top-selling artistes in the second quarter included American singer Noah Kahan, K-pop boy band BTS, American singer Olivia Rodrigo and Canadian rapper Drake.",
+      "Music labels have been grappling with the risks posed by a new generation of artificial intelligence (AI) tools that can easily replicate human-made songs.",
+      "Universal has been quick to take legal action when AI developers have trained models on copyrighted music without a licence, but is simultaneously racing to cut deals with partners from Nvidia to smaller companies, including Klay Vision, in a bid to profit from the latest developments in the technology.",
+      "In June, activist investor Bill Ackman sold his €1.42 billion stake in Universal Music after the label rejected a €56 billion takeover bid from the hedge fund billionaire’s Pershing Square, which would have involved moving its listing to the US from Amsterdam. Universal bought back about 14.2 million shares from Pershing’s offering.",
+      "The label said last quarter that it would sell half its stake in Spotify and increase its share buyback programme, addressing some of the issues raised by Ackman around Universal’s undervalued stock. Bloomberg"
     ]
   },
   "cna": {
-    "headline": "Ferrari says AI boom is driving demand for personalised supercars",
-    "teaser": "Customers are spending more on custom features, prompting Ferrari to raise its profit forecast as its order book remains full through 2027.",
-    "url": "https://www.channelnewsasia.com/obsessions/ferrari-raises-profit-forecast-ai-wealth-6289711",
+    "headline": "EU says necessary to monitor high risk AI systems after OpenAI, Anthropic AI hacking incidents",
+    "teaser": "EU says necessary to monitor high risk AI systems after OpenAI, Anthropic AI hacking incidents",
+    "url": "https://www.channelnewsasia.com/business/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-incidents-6290876",
     "fullText": [
-      "Ferrari said it expected to generate more profit than expected this year after customers, including the new AI super-rich, splurged on expensive custom features for their supercars.",
-      "The Italian luxury group became the only European carmaker to lift its full-year guidance with its order book covered for the whole of 2027, as it rides a wave of hyper-personalisation.",
-      "Chief executive Benedetto Vigna said the new AI wealth was “a good opportunity” for Ferrari, although he added that the company was seeing greater interest “from all the clients, not only from the AI situation, to personalise more and more cars”.",
-      "Ferrari said it now expected an adjusted operating profit of at least €2.26 billion (US$2.6 billion; S$3.34 billion) this year rather than €2.22 billion, giving the group an industry-beating margin of at least 29.5 per cent.",
-      "The results help settle nerves among investors about whether Ferrari would be able to maintain its ultra-high profit levels as the industry shifts to electric vehicles.",
-      "Vehicle shipments during the second quarter fell 3.7 per cent from a year earlier to 3,366 units but the company’s operating profit rose 10 per cent to €605 million due to spending to customise vehicles.",
-      "Analysts also said Ferrari was in a good position to capture demand from new customers emerging from the wealth created by the surge in artificial intelligence-related shares in the US.",
-      "Among its special-edition models, Bernstein analyst Stephen Reitman said the 296 Speciale was probably enjoying “extremely high levels of personalisation, especially in the USA”.",
-      "“A good set of results and a small raise in guidance were certainly welcome after concerns have been raised about the health of the luxury consumer and about the cadence of Ferrari’s own margin development,” Reitman said, predicting that the group was likely to raise its guidance again in the third quarter.",
-      "Vigna said the personalisation demand was driven both by “aesthetics” needs, such as the type of leather, and “functional” needs such as the number of cameras in a vehicle.",
-      "Ferrari’s chief financial officer Antonio Picca Piccon said personalisation was likely to account for more than 20 per cent of its annual revenue.",
-      "Regarding demand for its first electric vehicle model, Vigna said he was satisfied with the level of uptake, which he claimed was coming from various regions across the world. But he declined to comment on how many EVs had been sold so far.",
-      "The FT reported on Wednesday (Jul 29) that Ferrari achieved this year’s sales target for the Luce off the back of strong demand from China despite a polarising design that drew a backlash from investors and enthusiasts.",
-      "By Kana Inagaki © 2026 The Financial Times.",
-      "This article originally appeared in The Financial Times.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day.",
+      "BRUSSELS, July 31 : Artificial intelligence developers should have in place tools to monitor their systems for security risks, senior European Commission officials said on Friday, following hacking incidents by OpenAI and Anthropic AI models.",
+      "The comments came two days ahead before Europe's landmark AI Act with transparency rules kick in, the first in the world to regulate a technology used in almost all sectors of businesses and society.",
+      "Anthropic said on Thursday some of its Claude AI models had hacked into the systems of three companies during cybersecurity tests, days after rival OpenAI revealed that one of its AI agents went on a rogue attack.",
+      "Both companies have briefed the Commission on the AI incidents, the officials told reporters.",
+      "Another official talked up the crucial role of Europe's AI rules.",
+      "\"So I think all these, let's say, incidents highlight the importance of really putting in place the necessary monitoring activities by the developers,\" the official said.",
+      "The AI rules requires providers of general-purpose AI (GPAI) or foundation models to draw up technical documentation, adopt copyright policies and provide detailed summaries about the content used for algorithm training.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
@@ -66,259 +61,259 @@
   },
   "lifeVocab": [
     {
-      "en": "gantry",
-      "cn": "地铁/公路闸机",
-      "def": "a structure containing gates or electronic readers that commuters pass through",
-      "ex": "Please tap your EZ-Link card at the gantry before entering the MRT platform.",
-      "emoji": "🎫"
+      "en": "wet market",
+      "cn": "湿巴刹 / 菜市场",
+      "def": "a market selling fresh meat, fish, and produce, typically with wet floors from washing down stalls",
+      "ex": "I prefer buying my fish from the Tiong Bahru wet market because it is much fresher than the supermarket.",
+      "emoji": "🐟"
     },
     {
-      "en": "commute",
-      "cn": "通勤",
-      "def": "to travel regularly between one's home and place of work",
-      "ex": "Many Singaporeans choose to read or listen to podcasts during their morning commute.",
-      "emoji": "🚆"
+      "en": "stallholder",
+      "cn": "摊主 / 档主",
+      "def": "a person who rents or owns a stall in a market",
+      "ex": "The friendly vegetable stallholder always gives me extra curry leaves for free.",
+      "emoji": "🧑‍🌾"
     },
     {
-      "en": "concourse",
-      "cn": "（车站等）大厅",
-      "def": "a large open area inside a station where people gather or pass through",
-      "ex": "Let's meet near the passenger service centre at the station concourse.",
-      "emoji": "🏢"
+      "en": "produce",
+      "cn": "农产品",
+      "def": "fresh fruits and vegetables",
+      "ex": "This wet market is famous for importing high-quality organic produce from Malaysia.",
+      "emoji": "🥦"
     },
     {
-      "en": "peak hour",
-      "cn": "高峰时间",
-      "def": "the times of highest demand or traffic during the day",
-      "ex": "The trains are extremely crowded during peak hours from 8:00 AM to 9:00 AM.",
-      "emoji": "⏰"
+      "en": "haggle",
+      "cn": "讨价还价",
+      "def": "dispute or bargain persistently over the cost of something",
+      "ex": "While some elderly shoppers love to haggle, most younger customers just pay the stated price.",
+      "emoji": "🗣️"
     },
     {
-      "en": "feeder bus",
-      "cn": "接驳巴士",
-      "def": "a local bus service that transports passengers to a main transport hub like an MRT station",
-      "ex": "He took a short feeder bus ride from his HDB block to the nearest interchange.",
-      "emoji": "🚌"
+      "en": "poultry",
+      "cn": "家禽 / 禽肉",
+      "def": "domestic fowl, such as chickens, turkeys, ducks, and geese",
+      "ex": "The poultry stall has a long queue every Saturday morning as people prepare for weekend family dinners.",
+      "emoji": "🐓"
     },
     {
-      "en": "tap in",
-      "cn": "刷卡进站",
-      "def": "to press a transit card against a reader to pay for a journey upon entry",
-      "ex": "If you forget to tap in properly, you might face issues when trying to exit later.",
-      "emoji": "💳"
+      "en": "fillet",
+      "cn": "去骨鱼片 / 肉片",
+      "def": "a fleshy boneless piece of meat or fish",
+      "ex": "Can you ask the fishmonger to fillet the red snapper for the baby's porridge?",
+      "emoji": "🔪"
     },
     {
-      "en": "transit",
-      "cn": "中转 / 过渡",
-      "def": "the carrying of people or goods from one place to another",
-      "ex": "The new integrated transport hub makes the transit between bus and train seamless.",
-      "emoji": "🔄"
+      "en": "grated coconut",
+      "cn": "椰丝",
+      "def": "coconut meat that has been shredded into small pieces, often used in Southeast Asian cooking",
+      "ex": "The dessert stall at the market sells freshly squeezed coconut milk and grated coconut for making nonya kueh.",
+      "emoji": "🥥"
     },
     {
-      "en": "disruption",
-      "cn": "中断 / 故障",
-      "def": "an interruption in the normal flow or activity of a system",
-      "ex": "The operator issued a travel advisory about a fifteen-minute disruption on the East-West Line.",
-      "emoji": "⚠️"
+      "en": "staple",
+      "cn": "主食 / 日常必需品",
+      "def": "a basic food that is used frequently and in large amounts",
+      "ex": "Rice and basic vegetables are staples that you can find at any neighborhood market.",
+      "emoji": "🍚"
     },
     {
-      "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "sliding doors at station platforms that prevent passengers from falling onto the tracks",
-      "ex": "Stand behind the yellow line and wait for the platform screen doors to open fully.",
-      "emoji": "🚪"
+      "en": "damp",
+      "cn": "潮湿的",
+      "def": "slightly wet",
+      "ex": "Be careful when walking in the wet market as the floor is always damp and slippery.",
+      "emoji": "💦"
     },
     {
-      "en": "priority seat",
-      "cn": "优先座",
-      "def": "designated seats in public transport reserved for the elderly, pregnant, or injured",
-      "ex": "She immediately stood up to offer her priority seat to an elderly uncle who boarded the train.",
-      "emoji": "👵"
+      "en": "bargain",
+      "cn": "特价商品 / 便宜货",
+      "def": "something bought or offered for sale much more cheaply than is usual",
+      "ex": "If you visit the wet market just before they close at noon, you can find some great bargains on seafood.",
+      "emoji": "🏷️"
     }
   ],
   "levelVocab": [
     {
-      "w": "contingency",
-      "ipa": "/kənˈtɪndʒənsi/",
-      "pos": "n.",
-      "cn": "应急预案 / 偶发事件",
-      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "The multinational corporation drafted a robust contingency plan to address sudden supply chain disruptions."
-    },
-    {
-      "w": "pervasive",
-      "ipa": "/pəˈveɪsɪv/",
-      "pos": "adj.",
-      "cn": "无处不在的 / 充斥各处的",
-      "def": "spreading widely throughout an area or a group of people",
-      "ex": "Digital transformation has had a pervasive influence on how businesses interact with customers."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsemɪneɪt/",
+      "w": "calibrate",
+      "ipa": "/ˈkælɪbreɪt/",
       "pos": "v.",
-      "cn": "传播 / 散播",
-      "def": "to spread information, knowledge, or ideas widely",
-      "ex": "The human resources department will disseminate the new remote-work guidelines by tomorrow afternoon."
+      "cn": "精确调整，校准",
+      "def": "adjust precisely for accuracy or to suit a specific standard",
+      "ex": "The central bank had to carefully calibrate its monetary policy to curb inflation without slowing down economic growth."
     },
     {
-      "w": "stagnant",
-      "ipa": "/ˈstæɡnənt/",
-      "pos": "adj.",
-      "cn": "停滞的 / 不景气的",
-      "def": "showing no activity, growth, or pace",
-      "ex": "Despite rising global demands, wages in that particular industry have remained stagnant for three years."
-    },
-    {
-      "w": "discretionary",
-      "ipa": "/dɪˈskreʃəneri/",
-      "pos": "adj.",
-      "cn": "自主决定的 / 自由支配的",
-      "def": "available for use at the discretion of the user; not restricted by fixed rules",
-      "ex": "As inflation bites, many consumers are scaling back on their discretionary spending, such as luxury travel."
-    },
-    {
-      "w": "unilateral",
-      "ipa": "/ˌjuːnɪˈlætərəl/",
-      "pos": "adj.",
-      "cn": "单方面的 / 单边的",
-      "def": "performed by or affecting only one person, group, or country involved in a situation",
-      "ex": "The country was widely criticised for taking a unilateral decision to impose tariffs on foreign imports."
-    },
-    {
-      "w": "adversary",
-      "ipa": "/ˈædvərseri/",
-      "pos": "n.",
-      "cn": "对手 / 敌手",
-      "def": "one's opponent in a contest, conflict, or dispute",
-      "ex": "In negotiations, it is wise to treat the other party as a partner rather than a hostile adversary."
-    },
-    {
-      "w": "reconcile",
-      "ipa": "/ˈrekənsaɪl/",
+      "w": "alleviate",
+      "ipa": "/əˈliːvieɪt/",
       "pos": "v.",
-      "cn": "调和 / 妥协",
-      "def": "to find a way of making two different ideas, facts, or situations agree with each other",
-      "ex": "It can be incredibly difficult to reconcile rapid economic growth with environmental sustainability goals."
+      "cn": "缓解，减轻",
+      "def": "make suffering or a problem less severe",
+      "ex": "The government introduced new subsidies to alleviate the financial burden on low-income families."
+    },
+    {
+      "w": "foster",
+      "ipa": "/ˈfɒstə(r)/",
+      "pos": "v.",
+      "cn": "促进，培养",
+      "def": "encourage or promote the development of something desirable",
+      "ex": "Our office tries to foster a collaborative culture by holding weekly cross-department brainstorming sessions."
+    },
+    {
+      "w": "deviate",
+      "ipa": "/ˈdiːvieɪt/",
+      "pos": "v.",
+      "cn": "偏离",
+      "def": "depart from an established course or standards",
+      "ex": "We must not deviate from the original project timeline, or we will miss the product launch date."
+    },
+    {
+      "w": "underscore",
+      "ipa": "/ˌʌndəˈskɔː(r)/",
+      "pos": "v.",
+      "cn": "强调",
+      "def": "emphasize or show that something is important",
+      "ex": "The sudden system outage served to underscore the urgent need for a more robust cybersecurity backup."
+    },
+    {
+      "w": "synthesize",
+      "ipa": "/ˈsɪnθəsaɪz/",
+      "pos": "v.",
+      "cn": "综合，合成",
+      "def": "combine different ideas or components into a single coherent whole",
+      "ex": "Her job as a market analyst is to synthesize complex data into simple, actionable recommendations for clients."
+    },
+    {
+      "w": "perpetuate",
+      "ipa": "/pəˈpetʃueɪt/",
+      "pos": "v.",
+      "cn": "使持续，使长存",
+      "def": "make something (typically an undesirable situation) continue indefinitely",
+      "ex": "Failing to address customer complaints quickly will only perpetuate negative reviews online."
     },
     {
       "w": "imperative",
       "ipa": "/ɪmˈperətɪv/",
       "pos": "adj.",
-      "cn": "极重要的 / 迫切的",
-      "def": "extremely important or urgent; needing immediate attention",
-      "ex": "It is absolutely imperative that we upgrade our cybersecurity infrastructure to protect client data."
+      "cn": "极其重要的，迫切的",
+      "def": "of vital importance; crucial",
+      "ex": "It is absolutely imperative that all security protocols are followed during the software migration."
     },
     {
-      "w": "predicament",
-      "ipa": "/prɪˈdɪkəmənt/",
+      "w": "predilection",
+      "ipa": "/ˌpriːdɪˈlekʃn/",
       "pos": "n.",
-      "cn": "困境 / 窘境",
-      "def": "a difficult, unpleasant, or embarrassing situation",
-      "ex": "The manufacturing sector is in a difficult predicament due to a sudden shortage of raw materials."
+      "cn": "偏爱，嗜好",
+      "def": "a preference or special liking for something; a bias in favor of something",
+      "ex": "Many corporate investors have a strong predilection for tech startups that show immediate cash flow."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsemɪneɪt/",
+      "pos": "v.",
+      "cn": "传播，散布",
+      "def": "spread information or knowledge widely",
+      "ex": "The HR department used the company intranet to disseminate the updated work-from-home guidelines."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Vertical Farming Revolution",
-    "transcript": "As a small city-state, Singapore imports over ninety percent of its food. To <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈbəʊlstə(r)/ (v.) to support or strengthen something — 增强/巩固\">bolster</span> food security, local agritech firms are transforming high-tech warehouses into vertical farms. While these indoor farms shield crops from unpredictable weather, high energy costs remain a major <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɜːdl/ (n.) a problem or difficulty that must be overcome — 障碍/难关\">hurdle</span> for growers."
+    "title": "Singapore's National Steps Challenge Returns with Smartwatch Tech",
+    "transcript": "Singapore's Health Promotion Board has launched the latest season of the National Steps Challenge, hoping to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/nʌdʒ/ (v.) gently encourage someone to take action — 悄悄推动，轻推\">nudge</span> citizens toward healthier lifestyles. This year, participants can sync their fitness trackers directly to the Healthy 365 app to earn grocery vouchers. While younger Singaporeans have embraced the tech effortlessly, volunteers are stationed at community clubs to assist elderly residents who face a <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/stiːp/ (adj.) rising or falling sharply; difficult to overcome — 陡峭的，急剧的\">steep</span> learning curve. Experts believe these <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌɪŋkrəˈmentl/ (adj.) increasing gradually by regular degrees — 递增的，渐进的\">incremental</span> rewards could significantly reduce long-term healthcare burdens."
   },
   "economistArticle": {
-    "title": "The Sparks of Volatility: Why Global Oil Prices Keep Smouldering",
+    "title": "The Volatile Spark: Why Crude Markets Remain Highly Flammable",
     "paras": [
-      "The geopolitical chessboard in the Middle East is once again sending <span class=\"voc\">tremors</span> through global energy markets. With shipping lanes in the Red Sea facing persistent disruptions and rhetorical hostility escalating among key regional actors, energy traders are pricing in a substantial risk premium. Oil, the <span class=\"voc\">lifeblood</span> of global commerce, is notoriously sensitive to such friction, making triple-digit prices a distinct near-term possibility.",
-      "Underlying this immediate panic is a delicate supply-demand <span class=\"voc\">equilibrium</span>. For months, OPEC+ cartel members have implemented production cuts to prop up prices against a backdrop of <span class=\"voc\">tepid</span> economic growth in China and Europe. However, these artificial curbs mean that any sudden supply shock—such as a direct strike on energy infrastructure—cannot be easily offset by spare capacity elsewhere, thereby <span class=\"voc\">exacerbating</span> price spikes.",
-      "The <span class=\"voc\">ramifications</span> of a sustained oil surge would be severe and regressive. Central banks, which have spent the last two years raising interest rates to subdue stubborn inflation, find themselves in a <span class=\"voc\">precarious</span> position. A spike in energy costs would immediately feed into transport logistics and manufacturing overheads, potentially triggering a dreaded second wave of inflation just as rate cuts seemed imminent.",
-      "Furthermore, the psychological impact of crude crossing the hundred-dollar threshold can alter consumer behaviour almost instantly. Businesses may postpone capital expenditure, while households, squeezed by higher fuel prices, are likely to <span class=\"voc\">curtail</span> discretionary spending. This double whammy of rising costs and falling demand threatens to <span class=\"voc\">derail</span> the fragile economic soft landing that policymakers have painstakingly engineered.",
-      "Ultimately, the current volatility underscores the precarious nature of our transition to cleaner energy. <span class=\"gem\">Until renewable alternatives can completely <span class=\"voc\">supplant</span> fossil fuels, global economic stability remains hostage to the volatile geopolitics of oil-producing regions.</span> Investors and policymakers alike must brace for a turbulent ride, as the spark of conflict could ignite the energy markets at any moment."
+      "For months, global commodity traders have operated under a fragile truce with reality. Despite escalating geopolitical anxieties in the Middle East, crude oil prices had hovered in a deceptively <span class=\"voc\">placid</span> range. However, as proxy conflicts threaten to spill over into direct regional confrontations, this calm is evaporating. <span class=\"gem\">The energy market, long insulated by <span class=\"voc\">buoyant</span> American shale production, now faces a reckoning where triple-digit prices could return in a flash.</span>",
+      "The immediate <span class=\"voc\">catalyst</span> for this anxiety is the vulnerability of critical maritime choke points. The Strait of Hormuz, through which a fifth of the world’s petroleum passes daily, remains a potential flashpoint. Any prolonged disruption to shipping lanes there would immediately choke off supply, forcing importing nations to scramble for alternative, costlier sources. Even a minor <span class=\"voc\">skirmish</span> could ignite a speculative frenzy on Wall Street and London's ICE.",
+      "Crucially, the buffers that once cushioned the global economy against supply shocks have grown <span class=\"voc\">precariously</span> thin. OPEC+ members, led by Saudi Arabia and Russia, have consistently maintained production cuts to prop up prices. While these cartels hold spare capacity that could theoretically offset disruptions, their willingness to deploy this supply quickly remains doubtful. Furthermore, the US Strategic Petroleum Reserve, heavily <span class=\"voc\">depleted</span> after post-pandemic drawdowns, offers little reassurance to anxious buyers.",
+      "Central bankers, who have spent the past two years battling stubborn domestic inflation, are watching these developments with rising <span class=\"voc\">trepidation</span>. A sudden oil price spike would act as a <span class=\"voc\">regressive</span> tax on consumers, depressing disposable income while simultaneously driving up manufacturing and transport costs. This toxic combination of <span class=\"voc\">stagnating</span> growth and renewed inflation—stagflation—could derail the delicate economic soft landings currently projected across Western economies and Asian hubs like Singapore.",
+      "Ultimately, the global energy landscape remains structural rather than seasonal in its fragility. As long as transition to renewable alternatives remains incomplete, the global economy will remain <span class=\"voc\">beholden</span> to the highly combustible politics of fossil fuel production. It takes only a single match to set the global crude market ablaze, and currently, there are far too many sparks flying around the Gulf."
     ],
-    "cn": "中东的地缘政治棋局再次给全球能源市场带来震荡。随着红海航线面临持续干扰，以及主要地区角色之间的敌对言论不断升级，能源交易商正在将庞大的风险溢价计入资产价格。石油作为全球商业的命脉，对这类摩擦极为敏感，这使得油价重回三位数成为短期内的一个明显可能。\n\n在这场眼前的恐慌之下，隐藏着一种脆弱的供需平衡。数月来，欧佩克+（OPEC+）卡特尔成员国一直在实施减产，以在欧中经济增长放缓的背景下支撑油价。然而，这些人为的限制意味着任何突如其来的供应冲击——比如对能源基础设施的直接袭击——都无法轻易被其他地方的闲置产能所抵消，从而加剧了价格的飙升。\n\n油价持续飙升的后果将是严重且具有倒退性的。在过去两年里通过提高利率来平抑顽固通胀的各国央行，如今正处于尴尬而危险的境地。能源成本的飙升将立即传导至交通物流和制造业日常开支中，并在降息看似近在咫尺之际，可能引发令人担忧的第二波通胀潮。\n\n此外，原油价格突破百元大关的心理影响会几乎瞬间改变消费者的行为。企业可能会推迟资本支出，而受到高油价挤压的家庭则可能缩减可自由支配的支出。这种成本上升与需求下降的双重打击，威胁到政策制定者们苦心经营的脆弱经济软着陆。\n\n归根结底，当前的波动凸显了我们向清洁能源转型过程中不稳定的本质。在可再生替代能源能够完全取代化石燃料之前，全球经济稳定仍将受制于产油区动荡的地缘政治。投资者和政策制定者都必须为动荡的旅程做好准备，因为冲突的火花随时可能点燃能源市场。",
+    "cn": "几个月来，全球大宗商品交易商一直在与现实维持着脆弱的妥协。尽管中东地区地缘政治焦虑不断升级，原油价格之前却一直徘徊在看似平静的区间。然而，随着代理人冲突威胁到可能演变成直接的区域对抗，这种平静正在烟消云散。长期受惠于蓬勃发展的美国页岩油产量保护的能源市场，如今正面临一场考验，三位数的价格可能会在瞬间卷土重来。\n\n引起这种焦虑的直接催化剂是关键海上瓶颈路段的脆弱性。每日有全球五分之一石油通过的霍尔木兹海峡仍然是一个潜在的引爆点。该航道若发生任何持久的阻断，都将立即切断供应，迫使进口国争相寻找昂贵的替代来源。即使是微小的冲突也可能激起华尔街和伦敦洲际交易所的投机狂潮。\n\n至关重要的是，过去缓冲全球经济免受供应冲击影响的手段已变得极其薄弱。由沙特阿拉伯和俄罗斯领导的欧佩克+成员国一直在维持减产以支撑油价。虽然这些垄断联盟拥有理论上可以抵消供应中断的闲置产能，但他们迅速调动这些供应的意愿仍然令人怀疑。此外，在疫情后动用并严重枯竭的美国战略石油储备，几乎无法给焦虑的买家带来安慰。\n\n过去两年一直在与顽固的国内通货膨胀作斗争的各国央行行长，正怀着越来越不安的心情关注着这些事态发展。油价的突然飙升对消费者来说无异于一种累退税，在压低可支配收入的同时，也会推高制造和运输成本。这种增长停滞与通胀复苏的毒性结合——即滞胀——可能会使西方经济体和新加坡等亚洲枢纽目前预测的微妙经济软着陆偏离轨道。\n\n归根结底，全球能源格局的脆弱性是结构性的，而非季节性的。只要向可再生替代能源的过渡尚未完成，全球经济就将继续受制于极易引发冲突的化石燃料生产政治。只需一根火柴就能点燃全球原油市场，而目前，波斯湾周围飞溅的火花实在太多了。",
     "vocab": [
       {
-        "w": "tremors",
-        "ipa": "/ˈtreməz/",
-        "pos": "n.",
-        "mean": "震颤 / 动荡",
-        "def": "involuntary trembling or slight shaking movements, often metaphorically used to describe economic or political instability",
-        "ex": "Rumours of bank insolvencies sent tremors throughout the financial sector."
-      },
-      {
-        "w": "lifeblood",
-        "ipa": "/ˈlaɪfblʌd/",
-        "pos": "n.",
-        "mean": "生命线 / 命脉",
-        "def": "the indispensable factor or force that gives something its strength and vitality",
-        "ex": "Small and medium enterprises are the lifeblood of Singapore's domestic economy."
-      },
-      {
-        "w": "equilibrium",
-        "ipa": "/ˌiːkwɪˈlɪbriəm/",
-        "pos": "n.",
-        "mean": "平衡 / 均衡状态",
-        "def": "a state in which opposing forces or influences are perfectly balanced",
-        "ex": "It took several weeks for the market to regain its equilibrium after the sudden regulatory changes."
-      },
-      {
-        "w": "tepid",
-        "ipa": "/ˈtepɪd/",
+        "w": "placid",
+        "ipa": "/ˈplæsɪd/",
         "pos": "adj.",
-        "mean": "微温的 / 不热情的 / 增长缓慢的",
-        "def": "showing little enthusiasm; lukewarm or weak in growth",
-        "ex": "The company's new quarterly earnings report received a tepid response from Wall Street analysts."
+        "mean": "平静的，温和的",
+        "def": "calm and peaceful, with little movement or activity",
+        "ex": "Despite the storm of controversy, the CEO remained placid throughout the press conference."
       },
       {
-        "w": "exacerbating",
-        "ipa": "/ɪɡˈzæsəbeɪtɪŋ/",
-        "pos": "v.",
-        "mean": "使恶化 / 使加剧",
-        "def": "making a problem, bad situation, or negative feeling worse",
-        "ex": "The severe drought is exacerbating food shortages across the entire sub-continent."
-      },
-      {
-        "w": "ramifications",
-        "ipa": "/ˌræmɪfɪˈkeɪʃnz/",
-        "pos": "n.",
-        "mean": "衍生的后果 / 复杂影响",
-        "def": "complex or unwelcome consequences of an action or event",
-        "ex": "We must carefully consider the legal ramifications before signing this cross-border merger."
-      },
-      {
-        "w": "precarious",
-        "ipa": "/prɪˈkeəriəs/",
+        "w": "buoyant",
+        "ipa": "/ˈbɔɪənt/",
         "pos": "adj.",
-        "mean": "不稳定的 / 危险的",
-        "def": "not securely held or in position; dangerously likely to fall or collapse",
-        "ex": "The airline's financial situation remains precarious despite the recent capital injection."
+        "mean": "蓬勃的，活跃的",
+        "def": "(of an economy, market, or business) active or successful, remaining at a high level",
+        "ex": "Singapore's tourism sector remains buoyant due to a surge in international concert events."
       },
       {
-        "w": "curtail",
-        "ipa": "/kɜːˈteɪl/",
-        "pos": "v.",
-        "mean": "缩减 / 限制",
-        "def": "to reduce in extent or quantity; impose a restriction on",
-        "ex": "The government had to curtail public spending in order to balance the national budget."
+        "w": "catalyst",
+        "ipa": "/ˈkætəlɪst/",
+        "pos": "n.",
+        "mean": "催化剂，促进因素",
+        "def": "an event or person that causes important change to happen quickly",
+        "ex": "The expansion of the tech park served as a major catalyst for job creation in the eastern region."
       },
       {
-        "w": "derail",
-        "ipa": "/dɪˈreɪl/",
-        "pos": "v.",
-        "mean": "阻挠 / 使脱轨",
-        "def": "to obstruct a process by diverting it from its intended course",
-        "ex": "An unexpected political scandal threatened to derail the ongoing trade negotiations."
+        "w": "skirmish",
+        "ipa": "/ˈskɜːmɪʃ/",
+        "pos": "n.",
+        "mean": "小规模冲突",
+        "def": "a minor short-lived fight or disagreement, especially between small groups of soldiers",
+        "ex": "A minor border skirmish between the two nations sent ripples of worry through international stock markets."
       },
       {
-        "w": "supplant",
-        "ipa": "/səˈplɑːnt/",
-        "pos": "v.",
-        "mean": "取代 / 替代",
-        "def": "to supersede and replace, especially by force or through superior utility",
-        "ex": "Artificial intelligence is expected to supplant many repetitive administrative roles over the next decade."
+        "w": "precariously",
+        "ipa": "/trɪˈkeəriəsli/",
+        "pos": "adv.",
+        "mean": "不稳定地，危险地",
+        "def": "in a way that is not securely in position and is likely to fall or collapse",
+        "ex": "The country's financial stability rests precariously on its highly leveraged real estate sector."
+      },
+      {
+        "w": "depleted",
+        "ipa": "/dɪˈpliːtɪd/",
+        "pos": "adj.",
+        "mean": "耗尽的，枯竭的",
+        "def": "seriously reduced in quantity, resource, or strength",
+        "ex": "After consecutive months of overtime work, the team's creative energy was completely depleted."
+      },
+      {
+        "w": "trepidation",
+        "ipa": "/ˌtrepɪˈdeɪʃn/",
+        "pos": "n.",
+        "mean": "惊恐，惶恐",
+        "def": "a feeling of fear or anxiety about something that may happen",
+        "ex": "Retailers are waiting for the year-end sales figures with a mix of excitement and trepidation."
+      },
+      {
+        "w": "regressive",
+        "ipa": "/rɪˈɡresɪv/",
+        "pos": "adj.",
+        "mean": "累退的（税收等对低收入者负担更重的）",
+        "def": "taking a proportionally greater amount from those on lower incomes than from those on higher incomes",
+        "ex": "Critics argue that consumption taxes are regressive because they place a heavier burden on poorer citizens."
+      },
+      {
+        "w": "stagnating",
+        "ipa": "/stæɡˈneɪtɪŋ/",
+        "pos": "adj.",
+        "mean": "停滞的，不景气的",
+        "def": "not growing or developing; remaining inactive",
+        "ex": "Firms with stagnating revenues are finding it increasingly difficult to attract venture capital."
+      },
+      {
+        "w": "beholden",
+        "ipa": "/bɪˈhəʊldən/",
+        "pos": "adj.",
+        "mean": "受制于人的，蒙恩的",
+        "def": "owing thanks or having a duty to someone in return for help or service",
+        "ex": "By securing independent funding, the startup avoided being beholden to any single tech giant."
       }
     ],
     "gems": [
       {
-        "s": "Until renewable alternatives can completely supplant fossil fuels, global economic stability remains hostage to the volatile geopolitics of oil-producing regions.",
-        "why": "This sentence uses a powerful metaphor ('remains hostage to...') to highlight vulnerability. Starting with the subordinating conjunction 'Until' effectively builds anticipation and highlights the central, unresolved challenge before offering the main conclusion. 这句话使用了强有力的隐喻（'remains hostage to...' 沦为...的人质/受制于...）来凸显脆弱性。以从属连词'Until'开头，能有效制造悬念，在给出主要结论之前，重点强调了核心的、尚未解决的挑战。"
+        "s": "The energy market, long insulated by buoyant American shale production, now faces a reckoning where triple-digit prices could return in a flash.",
+        "why": "This sentence uses a masterful metaphorical structure ('insulated', 'reckoning', 'return in a flash') to link market dynamics to physical vulnerabilities. This explains how economic buffers are slipping away in a dramatic, urgent tone. / 这句话运用了精彩的比喻结构（“被保护”、“清算”、“瞬间回归”），将市场动态与物理脆弱性联系起来。这以戏剧性且紧迫的口吻解释了经济缓冲手段正如何逐渐失效。"
       }
     ]
   }
