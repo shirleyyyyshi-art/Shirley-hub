@@ -252,6 +252,11 @@
   .cal-cell.spent{ background:var(--accent-grad); color:#fff; }
   .cal-cell.spent .d{ color:#fff; }
   .cal-cell.empty{ background:transparent; }
+  .cal-cell.cal-today{ box-shadow:inset 0 0 0 2px var(--accent); }
+  .cal-cell.cal-selected{ box-shadow:inset 0 0 0 2px var(--ink); }
+  .month-switcher{ display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:8px; }
+  .month-switcher .month-switcher-label{ font-weight:800; font-size:13px; flex:1; text-align:center; }
+  .month-nav-btn{ border:1px solid var(--line); background:var(--surface-alt); color:var(--ink); border-radius:999px; width:28px; height:28px; font-weight:700; cursor:pointer; }
 
   .legend-row{ display:flex; align-items:center; gap:8px; font-size:11.5px; padding:4px 0; }
   .photo-gallery{ display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
@@ -746,6 +751,7 @@
     navOrder:[], childOrder:{}, reorderMode:false,
     petSpecies:"bunny", petBirthDate:"2026-07-21", petPickerOpen:false,
     petStreakDays:1, petLastActiveDate:"", petStreakInitialized:false, petDead:false, petReminder:false,
+    planHistory:{}, planLastSavedDate:"", planCalMonth:todayStr().slice(0,7), planCalSelectedDate:null,
     avatarChoice:"sweet", avatarCustomPhoto:null,
     bioName:"Shirley", bioRole:"HR Professional · Singapore",
     bioText:"7 years in HR. Loves spicy food and meat. Moved to Singapore at 30, building new habits, one day at a time.",
@@ -816,7 +822,7 @@
     budgetTarget:4500,
     editingBudgetTarget:false,
     budgetEditIdx:null,
-    budgetMonth:"2026-07",
+    budgetMonth:todayStr().slice(0,7),
 
     priceEntries:[
       {item:"Oat Milk (1L)", store:"NTUC promo", price:3.50, date:"2026-05-01"},
@@ -1278,6 +1284,18 @@
     state.petLastActiveDate = todayStr();
     state.petBirthDate = todayStr();
   }
+  function shiftMonth(ym, delta){
+    var p = ym.split("-"); var d = new Date(Number(p[0]), Number(p[1])-1+delta, 1);
+    return d.getFullYear()+"-"+((d.getMonth()+1)<10?"0":"")+(d.getMonth()+1);
+  }
+  function updatePlanHistory(){
+    if(!state.planHistory) state.planHistory = {};
+    var today = todayStr();
+    if(state.planLastSavedDate && state.planLastSavedDate !== today){
+      state.planHistory[state.planLastSavedDate] = state.tasks.map(function(t){ return {text:t.text, cat:t.cat, done:t.done}; });
+    }
+    state.planLastSavedDate = today;
+  }
   function loadState(){
     try{
       var raw = localStorage.getItem(STORAGE_KEY);
@@ -1338,6 +1356,7 @@
 
   loadState();
   updatePetStreak();
+  updatePlanHistory();
 
   var liveDaily = null;
   function loadLiveDaily(){
@@ -1365,6 +1384,24 @@
     });
     html += '</div>';
     html += '<div class="add-row" style="margin-top:12px;"><input class="field" id="newTaskInput" placeholder="Add a custom task..."/><button data-action="add-task">+</button></div>';
+
+    html += '<div class="divider-label">Plan History</div>';
+    html += '<div class="row-card"><div class="month-switcher"><button class="month-nav-btn" data-action="plan-month-prev">‹</button><span class="month-switcher-label">'+formatMonthLabel(state.planCalMonth)+'</span><button class="month-nav-btn" data-action="plan-month-next">›</button></div>'
+      + buildPlanCalendar(state.planCalMonth, state.planCalSelectedDate)
+      + '<p class="row-sub" style="margin-top:8px;">Tap a highlighted day to see what was on your plan that day.</p></div>';
+    if(state.planCalSelectedDate){
+      var isToday = state.planCalSelectedDate === todayStr();
+      var dayTasks = isToday ? state.tasks : (state.planHistory[state.planCalSelectedDate]||[]);
+      html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">'+formatDateEn(state.planCalSelectedDate)+(isToday?" (today)":"")+'</p><button class="edit-icon-btn" data-action="close-plan-day">✕</button></div>';
+      if(dayTasks.length){
+        dayTasks.forEach(function(t){
+          html += '<div class="plan-item'+(t.done?' done':'')+'" style="margin-top:6px;"><span class="chk'+(t.done?' on':'')+'">'+CHECK_ICON+'</span><span class="txt">'+esc(t.text)+'</span><span class="tag">'+t.cat+'</span></div>';
+        });
+      } else {
+        html += '<p class="row-sub">No tasks recorded for this day.</p>';
+      }
+      html += '</div>';
+    }
     return html;
   }
 
@@ -2012,7 +2049,12 @@
     return html;
   }
 
-  var MONTHS = ["2026-06","2026-07","2026-08"];
+  function getBudgetMonths(){
+    var set = {};
+    state.budgetEntries.forEach(function(e){ set[e.date.slice(0,7)] = true; });
+    set[todayStr().slice(0,7)] = true;
+    return Object.keys(set).sort();
+  }
   function formatMonthLabel(ym){ var p=ym.split("-"); var names=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; return names[Number(p[1])-1]+"-"+p[0]; }
   var CHART_COLORS = ["#db5079","#c9a24a","#3fa66b","#5b8def","#e2a63b","#9b6bd6","#4bbfc0"];
 
@@ -2050,6 +2092,24 @@
     return html;
   }
 
+  function buildPlanCalendar(ym, selectedDate){
+    var p = ym.split("-"); var y=Number(p[0]), mo=Number(p[1])-1;
+    var firstDow = new Date(y,mo,1).getDay();
+    var daysInMonth = new Date(y,mo+1,0).getDate();
+    var dows = ["S","M","T","W","T","F","S"];
+    var today = todayStr();
+    var html = '<div class="cal-grid">' + dows.map(function(d){return '<div class="cal-dow">'+d+'</div>';}).join('');
+    for(var i=0;i<firstDow;i++){ html+='<div class="cal-cell empty"></div>'; }
+    for(var d=1; d<=daysInMonth; d++){
+      var dateStr = ym+"-"+(d<10?"0"+d:d);
+      var hasData = !!state.planHistory[dateStr] || dateStr===today;
+      var cls = 'cal-cell'+(hasData?' spent':'')+(dateStr===today?' cal-today':'')+(dateStr===selectedDate?' cal-selected':'');
+      html += '<div class="'+cls+'"'+(hasData?' data-action="view-plan-day" data-date="'+dateStr+'"':'')+'><span class="d">'+d+'</span></div>';
+    }
+    html += '</div>';
+    return html;
+  }
+
   function pageBudget(){
     var ym = state.budgetMonth;
     var monthEntries = state.budgetEntries.filter(function(e){ return e.date.slice(0,7)===ym; });
@@ -2061,7 +2121,8 @@
     else if(over > 1000){ bannerClass="warn"; bannerIcon="⚠️"; bannerText="S$"+over+" over your S$"+state.budgetTarget+" budget."; }
     else if(over > 0){ bannerClass="warn"; bannerIcon="⚠️"; bannerText="S$"+over+" over your S$"+state.budgetTarget+" budget, keep an eye on it."; }
 
-    var html = '<div class="month-tabs">' + MONTHS.map(function(m){return '<span class="month-tab'+(m===ym?" active":"")+'" data-action="select-month" data-m="'+m+'">'+formatMonthLabel(m)+'</span>';}).join('') + '</div>';
+    var html = '<div class="month-switcher"><button class="month-nav-btn" data-action="budget-month-prev">‹</button><span class="month-switcher-label">'+formatMonthLabel(ym)+'</span><button class="month-nav-btn" data-action="budget-month-next">›</button></div>';
+    html += '<div class="month-tabs">' + getBudgetMonths().map(function(m){return '<span class="month-tab'+(m===ym?" active":"")+'" data-action="select-month" data-m="'+m+'">'+formatMonthLabel(m)+'</span>';}).join('') + '</div>';
     html += '<div class="row-card"><div class="row-head"><p class="row-title" style="flex:1;">Monthly Budget Target</p>'
       + (state.editingBudgetTarget
           ? '<input class="field" id="budgetTargetInput" value="'+state.budgetTarget+'" style="max-width:100px;"/><button class="refresh-btn" data-action="save-budget-target">Save</button>'
@@ -2434,6 +2495,18 @@
         state.tasks.push({id:state.nextTaskId++, text:input.value.trim(), cat:"Custom", done:false});
         renderDetail(); renderHome();
       }
+    } else if(action === 'plan-month-prev'){
+      state.planCalMonth = shiftMonth(state.planCalMonth, -1);
+      renderDetail();
+    } else if(action === 'plan-month-next'){
+      state.planCalMonth = shiftMonth(state.planCalMonth, 1);
+      renderDetail();
+    } else if(action === 'view-plan-day'){
+      state.planCalSelectedDate = el.dataset.date;
+      renderDetail();
+    } else if(action === 'close-plan-day'){
+      state.planCalSelectedDate = null;
+      renderDetail();
     } else if(action === 'toggle-video'){
       state.ihrpVideos[el.dataset.idx].done = !state.ihrpVideos[el.dataset.idx].done;
       renderDetail();
@@ -2850,6 +2923,12 @@
       renderDetail();
     } else if(action === 'select-month'){
       state.budgetMonth = el.dataset.m;
+      renderDetail();
+    } else if(action === 'budget-month-prev'){
+      state.budgetMonth = shiftMonth(state.budgetMonth, -1);
+      renderDetail();
+    } else if(action === 'budget-month-next'){
+      state.budgetMonth = shiftMonth(state.budgetMonth, 1);
       renderDetail();
     } else if(action === 'add-budget'){
       var bd = document.getElementById('budgetDate').value || (state.budgetMonth+"-01");
