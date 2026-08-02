@@ -340,6 +340,7 @@
 <body>
 
 
+
 <svg class="defs" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fd3d8"/><stop offset="1" stop-color="#bfe6c4"/></linearGradient>
@@ -744,6 +745,7 @@
     palette:"pink",
     navOrder:[], childOrder:{}, reorderMode:false,
     petSpecies:"bunny", petBirthDate:"2026-07-21", petPickerOpen:false,
+    petStreakDays:1, petLastActiveDate:"", petStreakInitialized:false, petDead:false, petReminder:false,
     avatarChoice:"sweet", avatarCustomPhoto:null,
     bioName:"Shirley", bioRole:"HR Professional · Singapore",
     bioText:"7 years in HR. Loves spicy food and meat. Moved to Singapore at 30, building new habits, one day at a time.",
@@ -1235,6 +1237,47 @@
     return data;
   }
 
+  function todayStr(){
+    var d = new Date();
+    var m = d.getMonth()+1, day = d.getDate();
+    return d.getFullYear()+'-'+(m<10?'0':'')+m+'-'+(day<10?'0':'')+day;
+  }
+  function daysBetween(a, b){
+    return Math.round((new Date(b+'T00:00:00').getTime() - new Date(a+'T00:00:00').getTime()) / 86400000);
+  }
+  function updatePetStreak(){
+    var today = todayStr();
+    if(!state.petStreakInitialized){
+      // first time this mechanic runs — seed from the old calendar-age so an existing pet doesn't visually regress
+      var legacyAgeDays = Math.max(1, Math.floor((Date.now() - new Date(state.petBirthDate).getTime())/86400000));
+      state.petStreakDays = legacyAgeDays;
+      state.petStreakInitialized = true;
+      state.petLastActiveDate = today;
+      state.petDead = false;
+      state.petReminder = false;
+      return;
+    }
+    if(state.petDead || state.petLastActiveDate === today) return;
+    var gap = daysBetween(state.petLastActiveDate, today);
+    if(gap === 1){
+      state.petStreakDays = (state.petStreakDays||0) + 1;
+      state.petReminder = false;
+    } else if(gap === 2 || gap === 3){
+      state.petStreakDays = 1;
+      state.petReminder = true;
+    } else if(gap > 3){
+      state.petDead = true;
+      state.petReminder = false;
+    }
+    state.petLastActiveDate = today;
+  }
+  function revivePet(){
+    state.petDead = false;
+    state.petReminder = false;
+    state.petStreakDays = 1;
+    state.petLastActiveDate = todayStr();
+    state.petBirthDate = todayStr();
+  }
   function loadState(){
     try{
       var raw = localStorage.getItem(STORAGE_KEY);
@@ -1294,6 +1337,7 @@
   }
 
   loadState();
+  updatePetStreak();
 
   var liveDaily = null;
   function loadLiveDaily(){
@@ -3041,12 +3085,12 @@
     var food = Math.round(20 + frac*80);
     var water = Math.round(15 + frac*85);
     var species = PET_SPECIES.find(function(s){return s.id===state.petSpecies;}) || PET_SPECIES[0];
-    var ageDays = Math.max(0, Math.floor((Date.now() - new Date(state.petBirthDate).getTime())/86400000));
-    var stage = ageDays<3 ? "Baby" : ageDays<10 ? "Growing" : "Grown";
+    var streakDays = state.petStreakDays||1;
+    var stage = state.petDead ? "Gone" : streakDays<3 ? "Baby" : streakDays<10 ? "Growing" : "Grown";
     var faceSize = stage==="Baby" ? 24 : stage==="Growing" ? 32 : 40;
-    var moodEmoji = species.emoji + " " + (frac>=1 ? "❤️" : frac>=0.5 ? "🙂" : frac>0 ? "😐" : "😢");
+    var moodEmoji = species.emoji + " " + (state.petDead ? "💀" : frac>=1 ? "❤️" : frac>=0.5 ? "🙂" : frac>0 ? "😐" : "😢");
     var moodText = frac>=1 ? species.name+" is fully fed and happy!" : frac>=0.5 ? species.name+" is doing well, keep going!" : frac>0 ? species.name+" could use a bit more." : species.name+" is hungry, finish a task to feed!";
-    document.getElementById('streakChip').textContent = species.emoji+" "+species.name+" "+food+"% fed";
+    document.getElementById('streakChip').textContent = state.petDead ? "💀 "+species.name+" passed away" : species.emoji+" "+species.name+" "+food+"% fed";
 
     var dayIdx = Math.floor((Date.now()/86400000)) % QUOTES.length;
     var quote = QUOTES[dayIdx];
@@ -3061,11 +3105,22 @@
     var html = '<div class="card scene-card">'+sceneSvg+'<div class="txt"><h2>'+greetWord+', '+esc(state.bioName)+' '+greetEmoji+'</h2><p>'+dateStr+' · '+country+'</p>'
       +'<p style="margin-top:8px; font-style:italic; font-size:12px;">"'+quote.q+'"</p><p style="margin:2px 0 0; font-size:11px; font-weight:700;">&mdash; '+quote.a+'</p>'
       +'</div></div>';
-    html += '<div class="card pet-card"><div class="pet-face" style="font-size:'+faceSize+'px;">'+species.emoji+'</div><div class="pet-meters">'
-      +'<div class="row-head"><p class="row-title" style="margin:0; flex:1;">'+species.name+' &middot; '+stage+'</p><button class="edit-icon-btn" data-action="toggle-pet-picker">✎ Change</button></div>'
-      +'<div class="pet-meter-row"><span>🍚</span><div class="bar-track"><div class="bar-fill" style="width:'+food+'%; background:var(--ok);"></div></div><span>'+food+'%</span></div>'
-      +'<div class="pet-meter-row"><span>💧</span><div class="bar-track"><div class="bar-fill" style="width:'+water+'%; background:#5b8def;"></div></div><span>'+water+'%</span></div>'
-      +'<p class="row-sub" style="margin-top:6px;">'+moodText+'</p></div></div>';
+    if(state.petDead){
+      html += '<div class="card pet-card"><div class="pet-face" style="font-size:'+faceSize+'px; filter:grayscale(1); opacity:.6;">💀</div><div class="pet-meters">'
+        +'<p class="row-title" style="margin:0;">'+species.name+' &middot; Gone</p>'
+        +'<p class="row-sub" style="margin-top:6px;">😔 '+species.name+' didn\'t make it — too many days without a visit. Come back daily next time to help them grow.</p>'
+        +'<button class="btn-primary" style="margin-top:10px;" data-action="revive-pet">🐣 Welcome a New '+species.label+'</button>'
+        +'</div></div>';
+    } else {
+      html += '<div class="card pet-card"><div class="pet-face" style="font-size:'+faceSize+'px;">'+species.emoji+'</div><div class="pet-meters">'
+        +'<div class="row-head"><p class="row-title" style="margin:0; flex:1;">'+species.name+' &middot; '+stage+'</p><button class="edit-icon-btn" data-action="toggle-pet-picker">✎ Change</button></div>'
+        +'<div class="pet-meter-row"><span>🍚</span><div class="bar-track"><div class="bar-fill" style="width:'+food+'%; background:var(--ok);"></div></div><span>'+food+'%</span></div>'
+        +'<div class="pet-meter-row"><span>💧</span><div class="bar-track"><div class="bar-fill" style="width:'+water+'%; background:#5b8def;"></div></div><span>'+water+'%</span></div>'
+        +'<p class="row-sub" style="margin-top:6px;">'+moodText+'</p>'
+        +'<p class="row-sub" style="margin-top:4px; font-weight:700; color:var(--accent);">🔥 '+streakDays+'-day streak</p>'
+        + (state.petReminder ? '<p class="row-sub" style="margin-top:6px; color:var(--danger); font-weight:600;">⚠️ '+species.name+' missed you for a day! Visit daily or they won\'t make it past 3 days away.</p>' : '')
+        +'</div></div>';
+    }
     if(state.petPickerOpen){
       html += '<div class="chip-row" style="margin-top:8px;">'+PET_SPECIES.map(function(s){ return '<span class="sel-chip'+(state.petSpecies===s.id?" active":"")+'" data-action="pick-pet" data-id="'+s.id+'">'+s.emoji+' '+s.label+'</span>'; }).join('')+'</div>';
     }
@@ -3098,6 +3153,9 @@
     } else if(el.dataset.action === 'pick-pet'){
       state.petSpecies = el.dataset.id;
       state.petPickerOpen = false;
+      renderHome();
+    } else if(el.dataset.action === 'revive-pet'){
+      revivePet();
       renderHome();
     }
   });
