@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T04:42:55.353563+00:00",
+  "generatedAt": "2026-08-04T04:45:42.802574+00:00",
   "economist": {
     "headline": "How China gets better bang for its buck than America in AI",
     "teaser": "Its investment lags far behind America’s. Its models do not",
@@ -65,270 +65,265 @@
       "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
-  "mom": {
-    "headline": "Labour Market Advance Release – Second Quarter 2026",
-    "teaser": "Advance data indicate that Singapore's labour market continued to expand in 2Q 2026 despite continued global uncertainty. Total employment 1 grew by 10,700, marking the 19 th consecutive quarter of growth, and unemployment rates remained low and stable. Although retrenchments increased, they were driven primarily by bu",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0731-labour-market-advance-release-2q-2026"
-  },
   "lifeVocab": [
     {
-      "en": "polyclinic",
-      "cn": "综合诊疗所",
-      "def": "a government-subsidized clinic in Singapore providing primary healthcare services",
-      "ex": "I need to visit the polyclinic this afternoon to get my regular blood pressure check.",
-      "emoji": "🏥"
-    },
-    {
-      "en": "queue ticket",
-      "cn": "排号单",
-      "def": "a slip of paper showing your turn number in a waiting system",
-      "ex": "As soon as you enter the clinic, press the machine to take a queue ticket.",
-      "emoji": "🎫"
-    },
-    {
-      "en": "triage",
-      "cn": "分诊",
-      "def": "the process of deciding the order of treatment of patients based on their urgency",
-      "ex": "The nurse at the triage counter assessed his high fever and directed him to the emergency area.",
-      "emoji": "🩺"
-    },
-    {
-      "en": "CHAS card",
-      "cn": "新加坡社保援助计划卡",
-      "def": "a card under the Community Health Assist Scheme that provides medical subsidies to eligible Singaporeans",
-      "ex": "Remember to show your blue CHAS card to the clinic receptionist to enjoy the medical subsidy.",
+      "en": "tap in",
+      "cn": "刷卡进站",
+      "def": "to touch your transit card or mobile phone on an electronic reader to enter a train station or board a bus",
+      "ex": "Please remember to tap in with your EZ-Link card at the gantry to avoid getting fined.",
       "emoji": "💳"
     },
     {
-      "en": "consultation",
-      "cn": "问诊/看诊",
-      "def": "a meeting with a doctor to seek medical advice or treatment",
-      "ex": "The doctor listened patiently to my symptoms during the consultation.",
-      "emoji": "💬"
+      "en": "feeder bus",
+      "cn": "接驳巴士",
+      "def": "a local bus service that transports passengers from residential areas to a main transport hub, like an MRT station",
+      "ex": "I usually catch the feeder bus from my block to get to Bedok MRT station.",
+      "emoji": "🚌"
     },
     {
-      "en": "referral letter",
-      "cn": "转介信",
-      "def": "a letter written by a primary doctor to send a patient to a specialist for further treatment",
-      "ex": "The polyclinic doctor gave me a referral letter to see a specialist at the national heart center.",
-      "emoji": "✉️"
+      "en": "concourse",
+      "cn": "大厅",
+      "def": "the large open area inside a station where ticketing machines, passenger services, and fare gates are located",
+      "ex": "Let's meet at the station concourse near the Passenger Service Centre before we go in.",
+      "emoji": "🚉"
     },
     {
-      "en": "dispensary",
-      "cn": "配药处",
-      "def": "the section of a clinic where medicines are prepared and given out to patients",
-      "ex": "Please wait near the dispensary for your name to be called to collect your prescription.",
-      "emoji": "💊"
+      "en": "gantry",
+      "cn": "闸机",
+      "def": "the electronic gate where passengers tap their transit cards to enter or exit a station",
+      "ex": "He had to queue at the passenger service counter because his card was declined at the gantry.",
+      "emoji": "🚪"
     },
     {
-      "en": "chronic illness",
-      "cn": "慢性疾病",
-      "def": "a disease that persists for a long time and requires ongoing medical attention",
-      "ex": "Diabetes is a chronic illness that can be managed well with proper medication and diet.",
-      "emoji": "🍎"
+      "en": "interchange",
+      "cn": "转换站 / 巴士转换站",
+      "def": "a major transit hub where different train lines meet or where bus routes terminate and connect",
+      "ex": "Dhoby Ghaut is a massive interchange station where three major train lines intersect.",
+      "emoji": "🔄"
     },
     {
-      "en": "Medical Certificate (MC)",
-      "cn": "病假单",
-      "def": "an official document from a doctor stating that a patient is unfit for work or school",
-      "ex": "I had to submit my MC to the human resource department because I took a day off for flu.",
-      "emoji": "📄"
+      "en": "peak hour",
+      "cn": "出行高峰期",
+      "def": "the times of day when traffic and public transit are busiest, typically during morning and evening commutes",
+      "ex": "Commuting during peak hour can be quite stressful because the trains are completely packed.",
+      "emoji": "⏰"
     },
     {
-      "en": "subsidized rate",
-      "cn": "津贴价格",
-      "def": "a lower price for services because the government pays for a portion of the cost",
-      "ex": "Singapore citizens enjoy highly subsidized rates at public healthcare institutions.",
-      "emoji": "💰"
+      "en": "alight",
+      "cn": "下车 / 下船",
+      "def": "to step down or get off a public vehicle like a bus or train",
+      "ex": "Passengers should stand clear of the doors and allow others to alight first.",
+      "emoji": "🚶"
+    },
+    {
+      "en": "commuter",
+      "cn": "通勤者",
+      "def": "a person who travels some distance to work or study on a regular, daily basis",
+      "ex": "Thousands of commuters stream through City Hall station every weekday morning.",
+      "emoji": "🏃"
+    },
+    {
+      "en": "platform screen doors",
+      "cn": "站台屏蔽门",
+      "def": "glass barriers at train stations that separate the platform from the tracks and open only when a train arrives",
+      "ex": "For your safety, please stand behind the yellow line and away from the platform screen doors.",
+      "emoji": "🚧"
+    },
+    {
+      "en": "travel concession",
+      "cn": "交通优惠",
+      "def": "discounted fares on public transit available to specific groups such as students, senior citizens, or people with disabilities",
+      "ex": "Senior citizens in Singapore enjoy a subsidized travel concession rate on all MRT rides.",
+      "emoji": "🎟️"
     }
   ],
   "levelVocab": [
     {
-      "w": "conducive",
-      "ipa": "/kənˈdjuːsɪv/",
-      "pos": "adj.",
-      "cn": "有益于……的",
-      "def": "making a certain situation or outcome likely or possible",
-      "ex": "A quiet office environment with ergonomic chairs is highly conducive to productivity."
-    },
-    {
-      "w": "alleviate",
-      "ipa": "/əˈliːvieɪt/",
-      "pos": "v.",
-      "cn": "缓解/减轻",
-      "def": "make a pain, deficiency, or problem less severe",
-      "ex": "The management implemented flexible working hours to alleviate the stress of peak-hour commutes."
-    },
-    {
       "w": "disseminate",
-      "ipa": "/dɪˈsɛmɪneɪt/",
+      "ipa": "/dɪˈsemɪneɪt/",
       "pos": "v.",
-      "cn": "散播/宣传",
-      "def": "spread information or knowledge widely to a large group of people",
-      "ex": "The marketing team will use social media platforms to disseminate the details of the new product launch."
+      "cn": "传播",
+      "def": "to spread info, ideas, or news widely to a large group of people",
+      "ex": "The human resources team will disseminate the updated remote-work policy to all departments tomorrow."
     },
     {
-      "w": "contingency",
-      "ipa": "/kənˈtɪndʒənsi/",
-      "pos": "n.",
-      "cn": "应急预案/偶发事件",
-      "def": "a future event or circumstance that is possible but cannot be predicted with certainty",
-      "ex": "We have developed a comprehensive contingency plan in case the main server suffers a cyberattack."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪmˈpɛrətɪv/",
+      "w": "cognizant",
+      "ipa": "/ˈkɒɡnɪzənt/",
       "pos": "adj.",
-      "cn": "极重要的/势在必行的",
-      "def": "of vital importance or crucial significance",
-      "ex": "It is absolutely imperative that we secure the client's signature before the end of the financial quarter."
+      "cn": "意识到/知晓的",
+      "def": "being fully aware or having conscious knowledge of something",
+      "ex": "We must be cognizant of our competitors' strategies before finalizing our marketing campaign."
     },
     {
-      "w": "precedent",
-      "ipa": "/ˈprɛsɪdənt/",
-      "pos": "n.",
-      "cn": "先例/前例",
-      "def": "an earlier event or action that is regarded as an example or guide for similar circumstances",
-      "ex": "Allowing staff to work fully from home set a precedent that other departments wanted to follow."
+      "w": "ameliorate",
+      "ipa": "/əˈmiːliəreɪt/",
+      "pos": "v.",
+      "cn": "改善/改良",
+      "def": "to make a bad or unsatisfactory situation better",
+      "ex": "The manager introduced flexible working hours to ameliorate employee burnout and stress."
     },
     {
-      "w": "transient",
-      "ipa": "/ˈtrænziənt/",
+      "w": "salient",
+      "ipa": "/ˈseɪliənt/",
       "pos": "adj.",
-      "cn": "短暂的/转瞬即逝的",
-      "def": "lasting only for a short time; impermanent",
-      "ex": "Economists suggest that the sudden dip in tourism is merely transient and will recover by the holidays."
+      "cn": "显著的 / 最突出的",
+      "def": "most noticeable, important, or prominent",
+      "ex": "The executive summary highlights the salient points of the 100-page financial report."
     },
     {
-      "w": "oversight",
-      "ipa": "/ˈəʊvəsaɪt/",
+      "w": "efficacy",
+      "ipa": "/ˈefɪkəsi/",
       "pos": "n.",
-      "cn": "疏忽/监管",
-      "def": "an unintentional failure to notice something, or the state of supervising something",
-      "ex": "Leaving her name off the invitation list was an unfortunate oversight by the organizing committee."
+      "cn": "功效/效力",
+      "def": "the ability to produce a desired or intended result",
+      "ex": "The clinical trial was designed to test the efficacy and safety of the new heart medication."
+    },
+    {
+      "w": "concur",
+      "ipa": "/kənˈkɜːr/",
+      "pos": "v.",
+      "cn": "同意/赞同",
+      "def": "to agree with a decision, opinion, or finding",
+      "ex": "After reviewing the sales figures, the board members concurred that expansion into Europe was necessary."
+    },
+    {
+      "w": "anomalous",
+      "ipa": "/əˈnɒmələs/",
+      "pos": "adj.",
+      "cn": "异常的",
+      "def": "deviating from what is standard, normal, or expected",
+      "ex": "The IT team detected an anomalous spike in server traffic at three o'clock in the morning."
+    },
+    {
+      "w": "subsequent",
+      "ipa": "/ˈsʌbsɪkwənt/",
+      "pos": "adj.",
+      "cn": "随后的/随之而来的",
+      "def": "coming after something in time; following",
+      "ex": "The initial launch was a failure, but subsequent modifications made the app extremely popular."
     },
     {
       "w": "augment",
-      "ipa": "/ɔːɡˈmɛnt/",
+      "ipa": "/ɔːɡˈment/",
       "pos": "v.",
-      "cn": "增加/提高",
-      "def": "make something greater by adding to it; increase",
-      "ex": "We hired freelance designers to augment our in-house creative team during the peak season."
+      "cn": "增加/增强",
+      "def": "to make something greater by adding to it; to increase",
+      "ex": "The university plans to augment its research facilities with a new state-of-the-art laboratory."
     },
     {
-      "w": "benchmark",
-      "ipa": "/ˈbɛntʃmɑːk/",
-      "pos": "n.",
-      "cn": "基准/衡量标准",
-      "def": "a standard or point of reference against which things may be compared or assessed",
-      "ex": "The multinational corporation uses customer satisfaction scores as a benchmark for employee performance."
+      "w": "preclude",
+      "ipa": "/prɪˈkluːd/",
+      "pos": "v.",
+      "cn": "排除/妨碍",
+      "def": "to prevent from happening; to make impossible",
+      "ex": "Signing this non-disclosure agreement will preclude you from working with our direct competitors."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Push for AI in Healthcare",
-    "transcript": "Singapore is actively <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪntɪɡreɪtɪŋ/ (v.) combining two or more things to make them work together — 整合\">integrating</span> artificial intelligence into its primary healthcare network to help doctors spot early signs of chronic illnesses. The Ministry of Health announced a new <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpaɪlət/ (adj.) serving as an experimental trial before introducing something more widely — 试点的\">pilot</span> program that uses machine learning algorithms to analyze patient data at polyclinics. While some seniors worry about digital <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪkˈskluːʒən/ (n.) the state of being excluded or left out from a group or system — 排除/排斥\">exclusion</span>, officers are on-site to assist them with the transition. This initiative is expected to reduce wait times and optimize clinical assessments significantly."
+    "title": "Singapore Polyclinics Trial AI for Faster Diagnosis",
+    "transcript": "Singapore is accelerating its deployment of artificial intelligence in public polyclinics to assist doctors with faster <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌdaɪəɡˈnoʊsiːz/ (n.) plural form of diagnosis; the identification of the nature of an illness — 诊断（复数）\">diagnoses</span>. Under a new pilot programme, AI algorithms are being <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈtraɪəld/ (v.) past tense of trial; tested something to assess its suitability or performance — 试验/测试\">trialled</span> to scan X-rays for early signs of tuberculosis. While tech developers are optimistic about the high accuracy rates, healthcare professionals emphasize that these tools are meant to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈkɒmplɪment/ (v.) to contribute extra features to someone or something in a way that improves them — 补充/相辅相成\">complement</span>, not replace, human clinical judgment."
   },
   "economistArticle": {
-    "title": "Frugal Innovation: Why China’s AI Models Punch Above Their Financial Weight",
+    "title": "Frugal Intelligence: How China gets better bang for its buck in AI",
     "paras": [
-      "In the global race for artificial intelligence supremacy, the headline figures often paint a <span class=\"voc\">lopsided</span> picture. American venture capitalists and tech giants pour staggering sums of capital into training <span class=\"voc\">gargantuan</span> large language models (LLMs), operating on the assumption that sheer computational scale is the ultimate <span class=\"voc\">arbiter</span> of performance. <span class=\"gem\">Yet, beneath the surface of this financial <span class=\"voc\">deluge</span>, Chinese firms are quietly demonstrating that brute-force spending is not the only path to cognitive competence.</span>",
-      "Despite facing <span class=\"voc\">stringent</span> export restrictions on advanced semiconductors and operating with a fraction of Silicon Valley's capital, Chinese AI developers have managed to narrow the performance gap surprisingly quickly. Instead of training massive models from scratch, Chinese engineers have mastered the art of frugal innovation. They focus heavily on optimizing algorithms, pruning unnecessary parameters, and utilizing synthetic data to refine smaller, open-source architectures.",
-      "This <span class=\"voc\">utilitarian</span> approach is born of necessity. Denied access to Nvidia’s top-tier chips, Chinese laboratories have had to extract maximum efficiency from <span class=\"voc\">legacy</span> hardware. This constraint has fostered an engineering culture that prioritizes architectural elegance over raw computing power. As a result, Chinese models often require significantly less electricity and memory to achieve comparable results in reasoning and natural language processing tasks.",
-      "Moreover, the commercial application of AI in China is highly targeted. Rather than chasing the elusive dream of Artificial General Intelligence, Chinese tech firms are harnessing specialized, task-oriented models that address immediate pain points in manufacturing, logistics, and e-commerce. This focus on functional deployment ensures a much quicker return on investment, allowing local startups to survive and <span class=\"voc\">iterate</span> without relying on perpetual rounds of venture subsidies.",
-      "Ultimately, the geopolitical narrative of a binary tech war overlooks the nuanced realities of engineering efficiency. While America continues to set the frontier for foundational model capabilities through massive capital <span class=\"voc\">expenditure</span>, China’s resourceful constraints-driven methodology offers a valuable lesson in efficiency. <span class=\"gem\">In the long run, the winner of the AI race may not be the one who spends the most, but the one who derives the greatest utility from every single watt of power.</span>"
+      "While American tech giants like Microsoft, Google, and Meta funnel tens of billions of dollars into massive data centers and state-of-the-art graphics processing units (GPUs), Chinese entities operate under tight capital constraints and strict geopolitical <span class=\"voc\">embargoes</span>. <span class=\"gem\">Yet, this relative adversity has sparked a peculiar and highly efficient form of engineering <span class=\"voc\">ingenuity</span>.</span> Rather than matching the brute-force spending of Silicon Valley, Chinese labs have mastered the art of algorithmic <span class=\"voc\">thriftiness</span>.",
+      "This divergence is most visible in how models are optimized. Lacking unlimited access to Nvidia's latest chips, Chinese researchers have excelled at refining model efficiency. They frequently repurpose open-source foundations or utilize advanced <span class=\"voc\">quantization</span> techniques. By compressing models to run on older hardware or less intensive computing environments, they squeeze out impressive performance-per-watt metrics, demonstrating that massive capital is not the sole path to innovation.",
+      "Furthermore, the Chinese tech ecosystem has adopted a <span class=\"voc\">hyper-localized</span>, application-focused deployment strategy. While American research labs chase the ambitious, capital-intensive holy grail of Artificial General Intelligence (AGI), Chinese software giants focus on concrete <span class=\"voc\">monetization</span>. From autonomous warehouse robots to intelligent sorting systems for e-commerce, the priority is immediate operational utility and quick financial return.",
+      "Government policy in Beijing acts as another <span class=\"voc\">catalyst</span>, smoothing the path for industrial integration. Combined with the massive pool of proprietary consumer data generated within highly integrated digital ecosystems, domestic AI models can be fine-tuned with remarkable precision. This practical environment bypasses the costly synthetic data generation processes that American firms must fund.",
+      "<span class=\"gem\">In the geopolitical race for AI <span class=\"voc\">supremacy</span>, America undoubtedly possesses the deepest pockets and the raw power of cutting-edge hardware.</span> However, China's enforced <span class=\"voc\">frugality</span> and targeted execution might ultimately prove that strategic restraint and clever engineering, rather than sheer <span class=\"voc\">extravagance</span>, determine the victor in practical everyday utility."
     ],
-    "cn": "在全球人工智能霸权的争夺战中，头条数据往往呈现出一种失衡的局面。美国的风险投资家和科技巨头将惊人的资金注入到训练庞大的大语言模型（LLM）中，他们基于这样一个假设：纯粹的计算规模是决定性能的终极标准。然而，在这场资金洪流的表面之下，中国企业正悄然证明，蛮力投入并非通往认知能力的唯一途径。尽管面临先进半导体的严格出口限制，且仅用硅谷一小部分的资金运营，中国的人工智能开发商却成功地以令人惊讶的速度缩小了性能差距。中国工程师并没有从头开始训练庞大的模型，而是掌握了“节俭创新”的艺术。他们重点关注优化算法、裁剪不必要的参数，并利用合成数据来精炼更小、开源的架构。这种实用主义的方法源于迫切的现实需求。由于无法获得英伟达的顶级芯片，中国实验室不得不从传统硬件中榨取最大效率。这种限制培养了一种将架构优雅置于原始计算能力之上的工程文化。因此，中国模型在推理和自然语言处理任务中达到类似效果时，通常所需的电量和内存要少得多。此外，人工智能在中国商业应用中的针对性极强。中国科技公司并没有一味追求通用人工智能那难以捉摸的梦想，而是利用专门的、面向特定任务的模型，以解决制造业、物流业和电子商务中眼前的痛点。这种对功能性部署的关注确保了更快的投资回报，使本土初创企业无需依赖一轮又一轮的风险补贴即可生存和迭代。最终，关于双边科技战的地缘政治叙事忽略了工程效率中微妙的现实。虽然美国继续通过庞大的资本支出为基础模型能力设定前沿，但中国受制约驱动的资源利用方法在效率方面提供了宝贵的经验。从长远来看，人工智能竞赛的赢家可能不是花钱最多的人，而是能从每一瓦电中获取最大效用的人。",
+    "cn": "尽管微软、谷歌和脸书母公司Meta等美国科技巨头将数百亿美元注入庞大的数据中心和尖端的图形处理器（GPU），但中国企业却在紧张的资金限制和严格的地缘政治贸易禁运下运营。然而，这种相对的逆境激发了一种独特且高效的工程智慧。中国实验室并没有盲目跟风硅谷那种拼资金、拼规模的“蛮力”投入，而是精通了算法节约的艺术。\n\n这种分歧在模型的优化方式上最为明显。由于无法无限获取英伟达最新的芯片，中国研究人员在提高模型效率方面表现出色。他们频繁地重新利用开源基础模型，或使用先进的量化技术。通过压缩模型使其能在较旧的硬件或较低强度的计算环境中运行，他们挤压出了令人瞩目的单瓦特性能指标，证明了巨额资金并非创新的唯一途径。\n\n此外，中国科技生态系统采用了高度本土化、以应用为导向的部署策略。当美国研究实验室在追求雄心勃勃、资金密集型的人工通用智能（AGI）终极目标时，中国软件巨头则专注于具体的商业变现。从自主仓库机器人到电商智能分拣系统，首要任务是眼前的操作实用性和快速的资金回报。\n\n北京的政府政策充当了另一个催化剂，为产业融合铺平了道路。结合高度集成的数字生态系统内产生的庞大专有消费者数据池，国内人工智能模型可以得到极其精准的微调。这种实用的环境避开了美国公司必须资助的昂贵合成数据生成过程。\n\n在地缘政治的人工智能霸权竞争中，美国无疑拥有最雄厚的资金和尖端硬件的原始威力。然而，中国被迫的节俭和有针对性的执行力最终可能会证明，战略上的克制和聪明的工程设计，而非单纯的奢华挥霍，才是决定日常实际应用领域最终胜负的关键因素。",
     "vocab": [
       {
-        "w": "lopsided",
-        "ipa": "/ˈlɒpsaɪdɪd/",
-        "pos": "adj.",
-        "mean": "失衡的/倾斜的",
-        "def": "with one side lower or smaller than the other; unevenly balanced",
-        "ex": "The game was a lopsided affair, with the home team winning by six goals."
-      },
-      {
-        "w": "gargantuan",
-        "ipa": "/ɡɑːˈɡæntʃʊən/",
-        "pos": "adj.",
-        "mean": "巨大的/庞大的",
-        "def": "enormous or gigantic in size, volume, or degree",
-        "ex": "Training a gargantuan model requires thousands of specialized graphic processors working simultaneously."
-      },
-      {
-        "w": "arbiter",
-        "ipa": "/ˈɑːbɪtə/",
+        "w": "embargoes",
+        "ipa": "/ɪmˈbɑːɡəʊz/",
         "pos": "n.",
-        "mean": "主宰者/决定者",
-        "def": "a person or thing that has ultimate authority in a matter",
-        "ex": "In fashion, consumer taste remains the final arbiter of what succeeds on the runway."
+        "mean": "禁运 / 贸易限制",
+        "def": "official bans on trade or other commercial activity with a particular country",
+        "ex": "The technology company struggled to source high-end components due to international embargoes."
       },
       {
-        "w": "deluge",
-        "ipa": "/ˈdɛljuːdʒ/",
+        "w": "ingenuity",
+        "ipa": "/ˌɪndʒəˈnjuːəti/",
         "pos": "n.",
-        "mean": "洪水/泛滥",
-        "def": "a great quantity of something arriving at the same time; a flood",
-        "ex": "The customer service hotline received a deluge of complaints after the system outage."
+        "mean": "独创性 / 聪明才智",
+        "def": "the quality of being clever, original, and inventive",
+        "ex": "The engineers showed great ingenuity in repairing the machine with limited spare parts."
       },
       {
-        "w": "stringent",
-        "ipa": "/ˈstrɪndʒənt/",
-        "pos": "adj.",
-        "mean": "严格的/严厉的",
-        "def": "strict, precise, and exacting in regulations or conditions",
-        "ex": "The laboratory must comply with stringent safety guidelines when handling chemical waste."
-      },
-      {
-        "w": "legacy",
-        "ipa": "/ˈlɛɡəsi/",
-        "pos": "adj.",
-        "mean": "老旧的/继承的",
-        "def": "denoting software or hardware that has been superseded but is difficult to replace",
-        "ex": "The bank is currently upgrading its legacy systems to support mobile payment transactions."
-      },
-      {
-        "w": "utilitarian",
-        "ipa": "/juːˌtɪlɪˈtɛərɪən/",
-        "pos": "adj.",
-        "mean": "实用主义的",
-        "def": "designed to be useful or practical rather than attractive or ornate",
-        "ex": "The building had a cold, utilitarian design that prioritized function over aesthetic beauty."
-      },
-      {
-        "w": "harness",
-        "ipa": "/ˈhɑːnəs/",
-        "pos": "v.",
-        "mean": "利用/控制",
-        "def": "control and make use of natural resources or capabilities to produce energy or achieve a goal",
-        "ex": "Engineers are trying to find better ways to harness solar power in tropical urban areas."
-      },
-      {
-        "w": "iterate",
-        "ipa": "/ˈɪtəreɪt/",
-        "pos": "v.",
-        "mean": "迭代/反复",
-        "def": "perform repeatedly, especially to simplify or improve a computer program or process",
-        "ex": "Software developers must continuously iterate their designs based on user feedback."
-      },
-      {
-        "w": "expenditure",
-        "ipa": "/ɪkˈspɛndɪtʃə/",
+        "w": "thriftiness",
+        "ipa": "/ˈθrɪftɪnəs/",
         "pos": "n.",
-        "mean": "支出/消费",
-        "def": "an amount of money spent, or the action of spending funds",
-        "ex": "The government approved a large capital expenditure for building the new subway line."
+        "mean": "节俭 / 节约",
+        "def": "the quality of using money and resources carefully and not wastefully",
+        "ex": "In times of recession, corporate thriftiness becomes essential for survival."
+      },
+      {
+        "w": "quantization",
+        "ipa": "/ˌkwɒntɪˈzeɪʃən/",
+        "pos": "n.",
+        "mean": "量化",
+        "def": "the process of constraining an input from a continuous or large set of values to a discrete set",
+        "ex": "Model quantization allows complex AI systems to run smoothly on standard mobile phones."
+      },
+      {
+        "w": "hyper-localized",
+        "ipa": "/ˌhaɪpər ˈləʊkəlaɪzd/",
+        "pos": "adj.",
+        "mean": "高度本地化的",
+        "def": "extremely focused on a very specific, small community or geographical area",
+        "ex": "The app success was driven by its hyper-localized food delivery service in downtown Singapore."
+      },
+      {
+        "w": "monetization",
+        "ipa": "/ˌmʌnɪtaɪˈzeɪʃən/",
+        "pos": "n.",
+        "mean": "变现 / 货币化",
+        "def": "the action or process of earning revenue from an asset, business, or website",
+        "ex": "The startup is struggling with the monetization of its popular social media platform."
+      },
+      {
+        "w": "catalyst",
+        "ipa": "/ˈkætəlɪst/",
+        "pos": "n.",
+        "mean": "催化剂",
+        "def": "a person or thing that precipitates or hastens an event or change",
+        "ex": "The government funding acted as a catalyst for rapid growth in the local biotech sector."
+      },
+      {
+        "w": "supremacy",
+        "ipa": "/suːˈpreməsi/",
+        "pos": "n.",
+        "mean": "霸权 / 至高无上的地位",
+        "def": "the state or condition of being superior to all others in authority, power, or status",
+        "ex": "Both nations are competing fiercely for technological supremacy in semi-conductors."
+      },
+      {
+        "w": "frugality",
+        "ipa": "/fruːˈɡælɪti/",
+        "pos": "n.",
+        "mean": "节约 / 朴素",
+        "def": "the quality of being economical with money or resources",
+        "ex": "The company's culture of frugality meant that employees rarely traveled business class."
+      },
+      {
+        "w": "extravagance",
+        "ipa": "/ɪkˈstrævəɡəns/",
+        "pos": "n.",
+        "mean": "奢侈 / 挥霍",
+        "def": "lack of restraint in spending money or using resources",
+        "ex": "Building a luxury headquarters was criticized as an unnecessary extravagance by shareholders."
       }
     ],
     "gems": [
       {
-        "s": "Yet, beneath the surface of this financial deluge, Chinese firms are quietly demonstrating that brute-force spending is not the only path to cognitive competence.",
-        "why": "This sentence uses a striking contrast ('financial deluge' versus 'quietly demonstrating') and a vivid metaphor ('brute-force spending') to build rhetorical tension. 中文解析：该句通过强烈的对比（‘资金洪流’与‘悄然证明’）以及生动的比喻（‘蛮力投入’）建立了修辞张力，引人深思。"
+        "s": "Yet, this relative adversity has sparked a peculiar and highly efficient form of engineering ingenuity.",
+        "why": "This sentence uses a contrastive transition ('Yet') paired with a strong noun phrase ('relative adversity') to pivot the narrative. It demonstrates how to transition from discussing challenges to highlighting unexpected positive results. — 该句使用转折连词 'Yet' 配合强有力的名词短语 'relative adversity' 承上启下，展示了如何从讨论挑战平稳过渡到强调意料之外的积极结果。"
       },
       {
-        "s": "In the long run, the winner of the AI race may not be the one who spends the most, but the one who derives the greatest utility from every single watt of power.",
-        "why": "The author employs a neat 'not... but...' parallel structure at the end of the text to leave the reader with a memorable, balanced concluding thought. 中文解析：作者在文章末尾运用了工整的‘不是……而是……’排比结构，给读者留下了一个令人难忘、结构匀称的结语思考。"
+        "s": "In the geopolitical race for AI supremacy, America undoubtedly possesses the deepest pockets and the raw power of cutting-edge hardware.",
+        "why": "This sentence establishes a concession using the adverb 'undoubtedly' and a vivid idiom ('deepest pockets'). It builds credibility by acknowledging the opponent's strength before presenting the main counterargument. — 该句使用副词 'undoubtedly' 和生动的习语 'deepest pockets'（最雄厚的资金）建立让步语气，在提出自己的核心反驳观点前，先承认对手的优势，从而增强文章的说服力。"
       }
     ]
   }
