@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T05:13:07.910668+00:00",
+  "generatedAt": "2026-08-04T05:21:42.905249+00:00",
   "economist": {
     "headline": "How China gets better bang for its buck than America in AI",
     "teaser": "Its investment lags far behind America’s. Its models do not",
@@ -47,263 +47,263 @@
   },
   "lifeVocab": [
     {
-      "en": "tap in",
-      "cn": "刷卡进站/上车",
-      "def": "to scan a transit card or mobile device at a gantry to pay for your fare",
-      "ex": "Remember to tap in at the MRT gantry or you won't be able to exit at your destination.",
-      "emoji": "🎫"
+      "en": "tap out",
+      "cn": "刷卡出站",
+      "def": "to press a transit card or mobile device against a reader when exiting a station",
+      "ex": "Remember to tap out at the gantry to avoid being charged a maximum fare.",
+      "emoji": "💳"
     },
     {
       "en": "commuter",
       "cn": "通勤者",
-      "def": "a person who travels some distance to work or school on a regular basis",
-      "ex": "During rush hour, thousands of commuters squeeze onto the East-West Line.",
-      "emoji": "🚶"
+      "def": "a person who travels some distance to work on a regular basis",
+      "ex": "Thousands of commuters pack into the North-South Line during the morning rush hour.",
+      "emoji": "🚇"
     },
     {
-      "en": "transit link",
-      "cn": "交通接驳/联运",
-      "def": "a connection point or service linking different modes of public transport",
-      "ex": "The new hub provides a seamless transit link between the MRT station and the bus interchange.",
-      "emoji": "🗺️"
+      "en": "gantry",
+      "cn": "闸机",
+      "def": "the automatic gate where passengers tap their transit cards to enter or exit",
+      "ex": "Please queue up and have your EZ-Link card ready before reaching the gantry.",
+      "emoji": "🚧"
     },
     {
-      "en": "peak hour",
-      "cn": "上下班高峰期",
-      "def": "the busiest periods of the day when public transport is heavily used",
-      "ex": "Train frequencies are increased during peak hours to cope with the crowd.",
-      "emoji": "⏰"
+      "en": "interchange",
+      "cn": "换乘站",
+      "def": "a transit station where passengers can switch to different train lines",
+      "ex": "Dhoby Ghaut is a major interchange connecting three different MRT lines.",
+      "emoji": "🔄"
     },
     {
       "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "sliding doors that separate the passenger platform from the train tracks for safety",
-      "ex": "Please stand behind the yellow line and wait for the platform screen doors to open fully.",
+      "cn": "站台安全门",
+      "def": "sliding doors that separate the station platform from the train tracks for safety",
+      "ex": "Please stand behind the yellow line until the platform screen doors open.",
       "emoji": "🚪"
     },
     {
-      "en": "feeder bus",
-      "cn": "支线/接驳巴士",
-      "def": "a local bus service that transports passengers from residential areas to a major transit hub",
-      "ex": "I usually take a short feeder bus ride from my block to the nearest MRT station.",
+      "en": "concourse",
+      "cn": "大厅",
+      "def": "the open central area of a station where ticketing machines and passenger service centers are located",
+      "ex": "Let's meet at the concourse near the passenger service centre.",
+      "emoji": "🏢"
+    },
+    {
+      "en": "peak hour",
+      "cn": "高峰期",
+      "def": "the busiest times of day for travel, typically morning and evening",
+      "ex": "Train frequencies are significantly increased during peak hours to cope with the crowd.",
+      "emoji": "⏰"
+    },
+    {
+      "en": "bridging bus",
+      "cn": "接驳巴士",
+      "def": "free bus services deployed during train service disruptions to transport affected passengers",
+      "ex": "Bridging buses were quickly deployed when the East-West Line stalled.",
       "emoji": "🚌"
     },
     {
-      "en": "give up one's seat",
-      "cn": "让座",
-      "def": "to offer your seat to someone else who needs it more, such as the elderly or pregnant women",
-      "ex": "She kindly gave up her seat to an elderly uncle carrying heavy groceries.",
-      "emoji": "💺"
+      "en": "track fault",
+      "cn": "轨道故障",
+      "def": "a mechanical or electrical issue on the train tracks causing train delays",
+      "ex": "The delay on the Circle Line this morning was caused by a minor track fault.",
+      "emoji": "🛠️"
     },
     {
-      "en": "disruption",
-      "cn": "运行中断/故障",
-      "def": "an unexpected interruption to a regular train or bus service",
-      "ex": "SMRT deployed free bridging buses to assist passengers affected by the track disruption.",
-      "emoji": "⚠️"
-    },
-    {
-      "en": "concession card",
-      "cn": "特惠乘车卡",
-      "def": "a travel card that offers discounted fares for students, senior citizens, or eligible groups",
-      "ex": "Tertiary students can apply for a monthly concession card to save on transport costs.",
-      "emoji": "💳"
-    },
-    {
-      "en": "escalator etiquette",
-      "cn": "手扶梯礼仪",
-      "def": "the social rule of standing on one side of the escalator to let those in a hurry walk past on the other",
-      "ex": "Good escalator etiquette in Singapore means standing on the left and keeping the right side clear for walkers.",
-      "emoji": "🪜"
+      "en": "feeder service",
+      "cn": "支线/接驳服务",
+      "def": "a local bus service that transports passengers from residential areas to the nearest MRT station",
+      "ex": "I take a feeder service bus to get to the MRT station every morning because it's too hot to walk.",
+      "emoji": "🚍"
     }
   ],
   "levelVocab": [
     {
-      "w": "acquiesce",
-      "ipa": "/ˌækwiˈes/",
-      "pos": "v.",
-      "cn": "默许/勉强同意",
-      "def": "accept something reluctantly but without protest",
-      "ex": "The management decided to acquiesce to the committee's demands to avoid a prolonged dispute."
-    },
-    {
-      "w": "cognisant",
-      "ipa": "/ˈkɒɡnɪzənt/",
+      "w": "vigilant",
+      "ipa": "/ˈvɪdʒ.ɪ.lən t/",
       "pos": "adj.",
-      "cn": "察知的/深领的",
-      "def": "having knowledge or being fully aware of something",
-      "ex": "As leaders, we must be cognisant of how digital restructuring impacts employee morale."
+      "cn": "警惕的",
+      "def": "keeping careful watch for possible danger or difficulties",
+      "ex": "We must remain vigilant against potential cybersecurity breaches in our regional database."
     },
     {
-      "w": "demarcate",
-      "ipa": "/ˈdiːmɑːkeɪt/",
+      "w": "sceptical",
+      "ipa": "/ˈskep.tɪ.kəl/",
+      "pos": "adj.",
+      "cn": "怀疑的",
+      "def": "not easily convinced; having doubts or reservations",
+      "ex": "Management was sceptical about the proposed timeline and requested a more realistic schedule."
+    },
+    {
+      "w": "amplify",
+      "ipa": "/ˈæm.plɪ.faɪ/",
       "pos": "v.",
-      "cn": "划分/界定",
-      "def": "set the boundaries or limits of a concept, project, or area",
-      "ex": "We need to clearly demarcate the responsibilities of the marketing and sales teams."
+      "cn": "放大、增强",
+      "def": "increase the strength of something, or make it more intense",
+      "ex": "Social media can quickly amplify customer complaints, making reputation management critical."
     },
     {
-      "w": "efficacy",
-      "ipa": "/ˈefɪkəsi/",
+      "w": "repercussion",
+      "ipa": "/ˌriː.pəˈkʌʃ.ən/",
       "pos": "n.",
-      "cn": "功效/效力",
-      "def": "the ability to produce a desired or intended result",
-      "ex": "The HR department is evaluating the efficacy of the new hybrid work policy."
+      "cn": "后果、反响",
+      "def": "an unintended consequence of an event or action, especially an unwelcome one",
+      "ex": "The sudden policy shift had immediate repercussions for cross-border logistics."
     },
     {
-      "w": "fortuitous",
-      "ipa": "/fɔːˈtʃuːɪtəs/",
-      "pos": "adj.",
-      "cn": "偶然且幸运的",
-      "def": "happening by a lucky chance rather than design",
-      "ex": "Our meeting with the potential investor at the tech summit was entirely fortuitous."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪmˈperətɪv/",
-      "pos": "adj.",
-      "cn": "极重要的/势在必行的",
-      "def": "of vital importance; crucial or mandatory",
-      "ex": "It is imperative that we secure the server room before upgrading the company databases."
-    },
-    {
-      "w": "juxtapose",
-      "ipa": "/ˌdʒʌkstəˈpəʊz/",
+      "w": "deviate",
+      "ipa": "/ˈdiː.vi.eɪt/",
       "pos": "v.",
-      "cn": "并列对比",
-      "def": "place different things close together to show a contrasting effect",
-      "ex": "The presentation juxtaposed our conservative sales projections with the highly optimistic ones."
+      "cn": "偏离",
+      "def": "depart from an established course or accepted standard",
+      "ex": "The team was instructed not to deviate from the agreed safety protocols."
     },
     {
-      "w": "ostensibly",
-      "ipa": "/ɒˈstensəbli/",
-      "pos": "adv.",
-      "cn": "表面上地",
-      "def": "apparently or purportedly, but perhaps not actually so",
-      "ex": "The policy was ostensibly introduced to save costs, but its main effect was to simplify workflow."
-    },
-    {
-      "w": "preclude",
-      "ipa": "/prɪˈkluːd/",
+      "w": "facilitate",
+      "ipa": "/fəˈsɪl.ɪ.teɪt/",
       "pos": "v.",
-      "cn": "妨碍/排除",
-      "def": "prevent from happening; make something impossible to occur",
-      "ex": "Signing this non-disclosure agreement does not preclude you from working in the same sector later."
+      "cn": "促进、使便利",
+      "def": "make an action or process easy or easier",
+      "ex": "The new project management tool is designed to facilitate smoother collaboration across teams."
     },
     {
-      "w": "salient",
-      "ipa": "/ˈeɪliənt/",
+      "w": "imminent",
+      "ipa": "/ˈɪm.ɪ.nənt/",
       "pos": "adj.",
-      "cn": "显著的/主要的",
-      "def": "most noticeable, important, or prominent",
-      "ex": "She summarized the salient points of the business proposal in a single page."
+      "cn": "即将发生的",
+      "def": "about to happen; fast approaching",
+      "ex": "The HR department announced that a major restructuring of the department is imminent."
+    },
+    {
+      "w": "disrupt",
+      "ipa": "/dɪsˈrʌpt/",
+      "pos": "v.",
+      "cn": "中断、扰乱",
+      "def": "drastically alter or destroy the structure of something",
+      "ex": "Innovative startups continue to disrupt traditional banking sectors with digital wallets."
+    },
+    {
+      "w": "aspirant",
+      "ipa": "/ˈæsp.ɪ.rənt/",
+      "pos": "n.",
+      "cn": "有抱负的人",
+      "def": "a person who has ambitions to achieve something",
+      "ex": "The city-state is nurturing a new crop of tech aspirants through generous national subsidies."
+    },
+    {
+      "w": "oversight",
+      "ipa": "/ˈəʊ.və.saɪt/",
+      "pos": "n.",
+      "cn": "监督",
+      "def": "the action of overseeing something, or supervision",
+      "ex": "The board of directors provides financial oversight to ensure regulatory compliance."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Hawker Culture Goes Digital",
-    "transcript": "As Singapore embraces digital transformation, many traditional <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɔːkərz/ (n.) people who sell food or goods in the street or an open market — 小贩\">hawkers</span> are adopting e-payment systems to streamline transactions. While older vendors initially resisted the shift, government incentives and peer mentoring have successfully <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/brɪdʒd/ (v.) reduced or got rid of a difference between two situations — 消除分歧/架桥桥接\">bridged</span> the digital divide. Today, customers can easily scan SGQR codes to purchase their favorite chicken rice or laksa, ensuring this culinary <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈherɪtɪdʒ/ (n.) valued objects and qualities such as historic buildings and cultural traditions passed down from previous generations — 遗产/传统\">heritage</span> remains active in a cashless society."
+    "title": "Driving AI Adoption in Singapore's SMEs",
+    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈsel.ə.reɪ.tɪŋ/ (v.) speeding up the progress or occurrence of something — 加速\">accelerating</span> its efforts to integrate artificial intelligence across small and medium-sized enterprises. The government recently unveiled new grants to help local <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɑːt.lænd/ (n.) residential suburban areas in Singapore, typically public housing estates — 邻里/心带\">heartland</span> shops digitalise their daily operations. While many business owners welcome the funding, some still express concerns over the steep learning curve. Observers suggest that <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈteɪ.ləd/ (adj.) specially made or adapted for a particular purpose — 量身定制的\">tailored</span> training programmes will be key to bridging this digital divide."
   },
   "economistArticle": {
-    "title": "Frugal Innovation: How China Outpaces America’s AI Bounty",
+    "title": "The Frugal Frontier: How China Wins Better Bang for Its Buck in AI",
     "paras": [
-      "While Silicon Valley continues to pour astronomical sums of capital into massive, compute-heavy artificial intelligence models, Chinese tech giants are charting a <span class=\"voc\">conspicuously</span> different course. <span class=\"gem\">Faced with strict export curbs on high-end semiconductors and tighter venture funding, firms in Beijing and Shenzhen have turned constraints into a catalyst for <span class=\"voc\">ingenuity</span>.</span> They are proving that in the race for AI dominance, financial <span class=\"voc\">extravagance</span> is not the only metric of success.",
-      "The core of China’s strategy lies in architectural efficiency. Instead of blindly chasing raw parameter count—a pursuit that demands thousands of cutting-edge Nvidia chips—Chinese researchers are optimizing existing open-source frameworks. By focusing on algorithmic <span class=\"voc\">refinement</span> and data pruning, developers have managed to train remarkably <span class=\"voc\">agile</span> models. These systems deliver comparable, and sometimes superior, task performance at a fraction of the computational footprint.",
-      "Furthermore, the pragmatic application of AI in China’s domestic market has accelerated this cost-effective evolution. Companies leverage highly specific consumer datasets to fine-tune smaller, domain-specific models rather than bloated general-purpose ones. This targeted approach has yielded robust commercial applications in fintech, smart logistics, and localized e-commerce, offering immediate utility and revenue without the <span class=\"voc\">exorbitant</span> overhead of American alternatives.",
-      "This disparity in resource allocation highlights a deeper philosophical divide between the two superpowers. America’s tech <span class=\"voc\">behemoths</span> operate under a trial-and-error <span class=\"voc\">paradigm</span>, subsidized by venture capital and cloud computing rents. Conversely, Chinese firms operate under severe resource <span class=\"voc\">scarcity</span>, forcing them to treat computing power as a precious commodity. Consequently, their lean engineering teams have mastered the art of squeezing maximal performance out of legacy hardware.",
-      "Ultimately, America’s raw investment leads the world, but its yield per dollar spent is facing <span class=\"voc\">diminishing</span> returns. If China can continue to deliver high-performing AI products while bypassing the need for endless silicon, the global technological landscape may undergo a profound shift. <span class=\"gem\">The future of AI might belong not to those with the deepest pockets, but to those who can squeeze the most value from every byte.</span>"
+      "<span class=\"gem\">While Silicon Valley dominates global headlines with massive capital injections into compute-heavy large language models, China is quietly charting a different, more resource-efficient path.</span> The sheer volume of venture capital flowing into American AI startups dwarfs Beijing’s investments. Yet, Chinese developers are proving that financial <span class=\"voc\">profligacy</span> is not the only route to algorithmic sophistication.",
+      "This <span class=\"voc\">disparity</span> in spending highlights a fundamental strategic <span class=\"voc\">divergence</span>. American tech giants are engaged in a <span class=\"voc\">brute-force</span> arms race, buying up advanced Nvidia chips and consuming vast pools of electricity to train ever-larger models. Conversely, Chinese firms, constrained by Western export restrictions on hardware, have had to innovate under pressure. They are focus-building smaller, highly optimised models designed to run efficiently on less powerful silicon, maximizing their computational output per dollar spent.",
+      "Pragmatism dictates this <span class=\"voc\">frugality</span>. In China, the immediate goal of AI development is not the pursuit of artificial general intelligence, but rather the rapid commercial application of existing tech. From automated smart factories in Shenzhen to hyper-efficient logistics networks in Hangzhou, AI is treated as a practical utility rather than a <span class=\"voc\">speculative</span> scientific frontier. This application-first approach yields immediate commercial dividends and practical data loops, which in turn feed back into model refinement.",
+      "Moreover, Chinese open-source communities are rapidly <span class=\"voc\">democratising</span> these efficient models. By focusing on fine-tuning techniques like Low-Rank Adaptation and quantization, developers can run sophisticated models on standard consumer hardware. This bottom-up innovation reduces the entry barriers for smaller enterprises, fostering a vibrant ecosystem that does not rely on multi-billion-dollar sovereign wealth funds or tech <span class=\"voc\">conglomerates</span>.",
+      "To be sure, America’s deep pockets and cutting-edge research facilities still give it a <span class=\"voc\">formidable</span> edge in raw technological breakthroughs. However, capital efficiency is a metric that investors cannot ignore forever. <span class=\"gem\">As the initial AI hype cycle matures into a demand for sustainable business models, China’s ability to <span class=\"voc\">extract</span> immense utility from modest resources may well redefine the economics of global technology competition.</span>"
     ],
-    "cn": "尽管硅谷继续向庞大、计算量巨大的AI模型投入天文数字般的资金，但中国科技巨头正在开辟一条截然不同的道路。面对高端半导体的严苛出口限制和更紧缩的风险投资，北京和深圳的企业已将限制转化为创新的催化剂。他们正在证明，在AI霸权的竞争中，财务上的奢华并非衡量成功的唯一指标。中国战略的核心在于架构效率。中国研究人员没有盲目追求原始参数数量——这种追求需要成千上万颗尖端的英伟达芯片，而是致力于优化现有的开源框架。通过专注于算法精简和数据剪枝，开发人员已经成功训练出极其敏捷的模型。这些系统以极低的计算占用，实现了可比甚至更优越的任务性能。此外，AI在中国国内市场的务实应用加速了这种具有成本效益的演进。企业利用高度特定的消费者数据集来微调较小的、特定领域的模型，而不是臃肿的通用模型。这种针对性的方法在金融科技、智能物流和本地化电商中产生了强大的商业应用，无需美国替代方案那种高昂的经常性开支即可提供即时效用和收入。这种资源配置上的差异凸显了两大国之间更深层次的哲学分歧。美国的科技巨头在风险资本和云计算租金的支持下，以试错范式运行。相反，中国企业在严峻的资源匮乏下运营，迫使他们将计算能力视为珍贵的商品。因此，他们精干的工程团队已经掌握了从传统硬件中挤出最大性能的艺术。最终，美国的原始投资领先全球，但其每美元投入的产出正面临边际效益递减。如果中国能够继续提供高性能的AI产品，同时避开对无尽芯片的需求，全球技术格局可能会发生深刻转变。AI的未来可能不属于那些口袋最深的人，而属于那些能从每一个字节中挤出最大价值的人。",
+    "cn": "尽管硅谷因向计算密集型大语言模型注入巨额资金而占据全球头条，但中国正默默开辟一条截然不同、且更具资源效率的道路。流向美国人工智能初创公司的风险投资总量让北京的投资相形见绌。然而，中国的开发人员正在证明，资金挥霍并非通往算法精细化的唯一途径。\n\n这种消费上的差距凸显了战略上的根本分歧。美国科技巨头正处于一场“暴力破解”式的军备竞赛中，他们抢购先进的英伟达芯片，并消耗大量电力来训练体量更大的模型。相反，由于面临西方对硬件的出口限制，中国企业不得不在压力下进行创新。他们专注于构建体量更小、高度优化的模型，旨在让其在性能稍逊的芯片上高效运行，从而最大化每美元的计算输出。\n\n务实主义决定了这种节俭。在中国，人工智能发展的直接目标并不是追求通用人工智能（AGI），而是将现有技术迅速进行商业应用。从深圳的自动化智能工厂到杭州的高效物流网络，人工智能被视为一种实用的工具，而非投机性的科学前沿。这种“应用优先”的方法带来了立竿见影的商业红利和实用的数据闭环，进而反哺模型的优化。\n\n此外，中国的开源社区正在迅速普及这些高效的模型。通过专注于低秩适应（LoRA）和量化等微调技术，开发人员可以在普通的消费级硬件上运行复杂的模型。这种自下而上的创新降低了中小企业的准入门槛，培育了一个不依赖于数百亿美元主权财富基金或科技巨头的活力生态系统。\n\n当然，美国雄厚的财力和尖端的研发设施使其在原始技术突破中仍拥有巨大优势。然而，资本效率是投资者永远无法忽视的指标。随着最初的人工智能炒作周期走向成熟、市场转而追求可持续的商业模式，中国从有限资源中榨取巨大效能的能力，很可能会重新定义全球科技竞争的经济学。",
     "vocab": [
       {
-        "w": "conspicuously",
-        "ipa": "/kənˈspɪkjuəsli/",
-        "pos": "adv.",
-        "mean": "显眼地/明显地",
-        "def": "in a clearly visible or noticeable way",
-        "ex": "Chinese tech giants are charting a conspicuously different course."
-      },
-      {
-        "w": "ingenuity",
-        "ipa": "/ˌɪndʒɪˈnjuːəti/",
+        "w": "profligacy",
+        "ipa": "/ˈprɒf.lɪ.ɡə.si/",
         "pos": "n.",
-        "mean": "独创性/心灵手巧",
-        "def": "the quality of being clever, original, and inventive",
-        "ex": "They turned constraints into a catalyst for ingenuity."
+        "mean": "挥霍、浪费",
+        "def": "reckless extravagance or wastefulness",
+        "ex": "American startups are known for their financial profligacy during market booms."
       },
       {
-        "w": "extravagance",
-        "ipa": "/ɪkˈstrævəɡəns/",
+        "w": "disparity",
+        "ipa": "/dɪsˈpær.ə.ti/",
         "pos": "n.",
-        "mean": "奢侈/铺张浪费",
-        "def": "lack of restraint in spending money or use of resources",
-        "ex": "In the race for AI dominance, financial extravagance is not the only metric of success."
+        "mean": "差距、不一致",
+        "def": "a great difference, especially one that is unfair or unexpected",
+        "ex": "The growing disparity in funding between the two sectors is cause for concern."
       },
       {
-        "w": "refinement",
-        "ipa": "/rɪˈfaɪnmənt/",
+        "w": "divergence",
+        "ipa": "/daɪˈvɜː.dʒəns/",
         "pos": "n.",
-        "mean": "精炼/改良",
-        "def": "the improvement or clarification of something by making small changes",
-        "ex": "By focusing on algorithmic refinement and data pruning, developers trained better models."
+        "mean": "分歧、差异",
+        "def": "a situation in which two or more things become different",
+        "ex": "A clear strategic divergence has emerged between Western and Asian tech firms."
       },
       {
-        "w": "agile",
-        "ipa": "/ˈædʒaɪl/",
+        "w": "brute-force",
+        "ipa": "/ˌbruːt ˈfɔːs/",
         "pos": "adj.",
-        "mean": "敏捷的/灵活的",
-        "def": "able to move quickly and easily or adapt quickly to change",
-        "ex": "Developers have managed to train remarkably agile models."
+        "mean": "暴力破解的、蛮力的",
+        "def": "relying on sheer strength or rapid repetition rather than intelligent design",
+        "ex": "Training models on raw computing power alone is a brute-force approach."
       },
       {
-        "w": "exorbitant",
-        "ipa": "/ɪɡˈzɔːbɪtənt/",
+        "w": "frugality",
+        "ipa": "/fruːˈɡæl.ə.ti/",
+        "pos": "n.",
+        "mean": "节约、俭省",
+        "def": "the quality of being economical with resources or money",
+        "ex": "Resource constraints have forced a culture of frugality upon local developers."
+      },
+      {
+        "w": "speculative",
+        "ipa": "/ˈspek.jə.lə.tɪv/",
         "pos": "adj.",
-        "mean": "过高的/昂贵的",
-        "def": "unreasonably high in price, amount, or size",
-        "ex": "They offer immediate utility without the exorbitant overhead of American alternatives."
+        "mean": "投机性的、推测的",
+        "def": "engaged in, expressing, or based on conjecture rather than knowledge",
+        "ex": "Much of the funding in early-stage tech remains highly speculative."
       },
       {
-        "w": "behemoths",
-        "ipa": "/bɪˈhiːmɒθs/",
+        "w": "democratising",
+        "ipa": "/dɪˈmɒk.rə.taɪ.zɪŋ/",
+        "pos": "v.",
+        "mean": "民主化、使普及",
+        "def": "making something accessible to everyone",
+        "ex": "Open-source software is democratising access to advanced machine learning tools."
+      },
+      {
+        "w": "conglomerates",
+        "ipa": "/kənˈɡlɒm.ər.əts/",
         "pos": "n.",
-        "mean": "巨头/庞然大物",
-        "def": "huge or powerful organizations",
-        "ex": "America's tech behemoths operate under a trial-and-error paradigm."
+        "mean": "企业集团",
+        "def": "large corporations made up of several different companies",
+        "ex": "Tech conglomerates dominate the digital advertising landscape."
       },
       {
-        "w": "paradigm",
-        "ipa": "/ˈpærədaɪm/",
-        "pos": "n.",
-        "mean": "范式/模式",
-        "def": "a typical pattern or model of something",
-        "ex": "Their business model operates under a distinct regulatory paradigm."
-      },
-      {
-        "w": "scarcity",
-        "ipa": "/ˈskeəsəti/",
-        "pos": "n.",
-        "mean": "匮乏/稀缺",
-        "def": "the state of being scarce or in extremely short supply",
-        "ex": "Chinese firms operate under severe resource scarcity."
-      },
-      {
-        "w": "diminishing",
-        "ipa": "/dɪˈmɪnɪʃɪŋ/",
+        "w": "formidable",
+        "ipa": "/fɔːˈmɪd.ə.bəl/",
         "pos": "adj.",
-        "mean": "递减的",
-        "def": "becoming smaller, fewer, or less over time",
-        "ex": "America's yield per dollar spent is facing diminishing returns."
+        "mean": "强大的、令人敬畏的",
+        "def": "inspiring fear or respect through being impressively large or powerful",
+        "ex": "The incumbent company possesses a formidable market share in local logistics."
+      },
+      {
+        "w": "extract",
+        "ipa": "/ɪkˈstrækt/",
+        "pos": "v.",
+        "mean": "提取、榨取",
+        "def": "obtain something from a source, especially with effort or difficulty",
+        "ex": "Engineers must find ways to extract maximum performance from limited hardware."
       }
     ],
     "gems": [
       {
-        "s": "Faced with strict export curbs on high-end semiconductors and tighter venture funding, firms in Beijing and Shenzhen have turned constraints into a catalyst for ingenuity.",
-        "why": "This sentence uses an introductory participle phrase ('Faced with...') to establish background context, followed by the metaphor 'turned constraints into a catalyst' which vividly describes overcoming adversity. This is excellent for persuasive writing in professional contexts. / 这句话使用了分词短语作状语（'Faced with...'）来建立背景语境，随后使用了比喻“将限制转化为催化剂”，生动地描述了克服逆境的过程。这非常适合在职场及专业写作中进行说服性表达。"
+        "s": "While Silicon Valley dominates global headlines with massive capital injections into compute-heavy large language models, China is quietly charting a different, more resource-efficient path.",
+        "why": "This sentence uses a 'While X, Y' concessive clause structure to contrast two distinct approaches, setting a balanced yet critical tone. 句中运用了“While X, Y”让步状语从句结构，对两种截然不同的方法进行了对比，立刻为整篇文章奠定了客观而深刻的基调。"
       },
       {
-        "s": "The future of AI might belong not to those with the deepest pockets, but to those who can squeeze the most value from every byte.",
-        "why": "This sentence employs a classic 'not to [X], but to [Y]' parallel structure, which creates a powerful contrast and a memorable closing punchline. / 这句话采用了经典的“不是……而是……”（not to [X], but to [Y]）排比平行结构，创造了强烈的对比效果，并形成了一个令人印象深刻的结尾警句。"
+        "s": "As the initial AI hype cycle matures into a demand for sustainable business models, China’s ability to extract immense utility from modest resources may well redefine the economics of global technology competition.",
+        "why": "This sentence employs a predictive 'As X, Y' structure with strong, academic verbs, giving the conclusion an authoritative and analytical weight. 此句采用了预测性的“As X, Y”结构，并使用了如“matures”和“redefine”等强有力的学术性动词，使结论显得权威且极具分析深度。"
       }
     ]
   }
