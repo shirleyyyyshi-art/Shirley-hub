@@ -24,6 +24,7 @@ jobs:
       - name: Fetch today's content
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.5-flash
         run: python3 scripts/fetch_daily.py
 
       - name: Commit updated data
