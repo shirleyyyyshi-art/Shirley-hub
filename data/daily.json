@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T04:40:10.674952+00:00",
+  "generatedAt": "2026-08-04T04:42:55.353563+00:00",
   "economist": {
     "headline": "How China gets better bang for its buck than America in AI",
     "teaser": "Its investment lags far behind America’s. Its models do not",
@@ -51,35 +51,285 @@
     ]
   },
   "cna": {
-    "headline": "China cues start of leaders' secretive Beidaihe summer retreat",
-    "teaser": "While the retreat has historically provided an opportunity for serving and retired leaders to hold informal discussions and negotiate over policy and personnel, the \"scope for genuine bargaining has narrowed\", says an analyst.",
-    "url": "https://www.channelnewsasia.com/east-asia/china-bedaihe-leaders-summer-retreat-6296721",
+    "headline": "Maroon 5 to perform at Singapore's National Stadium in February 2027",
+    "teaser": "The American pop band is returning to Singapore for a one-night concert on Feb 12, 2027. Tickets go on sale from Aug 11.",
+    "url": "https://www.channelnewsasia.com/entertainment/maroon-5-singapore-concert-2027-national-stadium-6296731",
     "fullText": [
-      "BEIJING: China's Communist Party appeared to kick off its annual closed-door retreat in the seaside resort of Beidaihe, an informal gathering that perennially sparks rumours of power jostling among senior cadres and comes this year ahead of a major party conclave in October on party governance .",
-      "Beijing does not publicly confirm the gathering, but in a sign that it had begun, Chinese President Xi Jinping's chief of staff and close aide Cai Qi on Monday (Aug 3) met with scholars in Beidaihe in northern Hebei province, an appearance analysts say has in past years coincided with the summer retreat.",
-      "\"Historically, the retreat has provided an opportunity for serving and retired leaders to hold informal discussions and negotiate over policy and personnel,\" said Neil Thomas of the Asia Society Policy Institute.",
-      "But, with power increasingly concentrated within the party and in Xi's hands, \"the scope for genuine bargaining has narrowed\", Thomas said.",
-      "State media has nonetheless said that summer visits to Beidaihe by serving and retired senior officials continued, allowing informal contact, comparing the resort town to the US presidential retreat Camp David and Russia's Sochi.",
-      "Beidaihe's state-run guesthouses, heightened security every summer, and proximity to Beijing have long made it a focal point for speculation over elite politics.",
-      "Road closures, restrictions on private aircraft and watercraft — including drones, paragliders, jet skis and speedboats — and a routine, roughly two-week gap in the usually near-daily official coverage of top leaders only add to that speculation.",
-      "Xi last appeared in public during a Politburo group session on Friday on modernising China's military.",
-      "\"The retreat is often China's 'silly season,'\" said Ruby Osman, a senior policy adviser at the Tony Blair Institute for Global Change.",
-      "\"The radio silence from leadership fuels rumours of political infighting or elite coups.\"",
-      "There is little public evidence that the speculation reflects active divisions or a challenge to Xi's authority, analysts say.",
-      "More concrete issues are likely to dominate the party's agenda in the weeks ahead: preparations for October's meeting, the enforcement of internal discipline, personnel management and economic pressures at home.",
-      "\"Leadership will be taking stock of a mixed year: Beijing has successfully steadied the relationship with Washington, largely on its own terms, but faces mounting economic headwinds at home,\" Osman said.",
-      "Xi has also signalled his intention to impose still stricter discipline on leadership ranks already thinned by a years-long anti-graft campaign , in an attempt to keep the broad authority vested in its cadres within tightly constrained parameters.",
-      "A key October party conclave will centre on \"the sustained advancement of full ​and rigorous party self-governance\", Beijing said on Thursday, signalling that internal discipline will remain a central priority.",
-      "Beidaihe may also offer officials an opportunity to gauge and align themselves with Xi's priorities ahead of next year's 21st Party Congress, when a wider leadership reshuffle is expected, Thomas said.",
-      "But questions over the gathering's continuing importance remain.",
-      "\"For decades, this was the single most consequential informal event on the political calendar ... the one retreat where the elders exerted influence,\" said Jean Christopher Mittelstaedt at the University of Zurich.",
-      "\"However, Xi has been very successful in pushing back the elders' influence, so the retreat has lost importance in the last decade.\"",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "Maroon 5 fans can mark their calendars: The Grammy-winning American band will return to Singapore to perform at the National Stadium on Feb 12, 2027.",
+      "Tickets will first be available on Ticketmaster through the Maroon 5 artist presale on Aug 11, from 10am to 11.59pm, for active standard Maroon 5 S.I.N. fan club members.",
+      "The UOB Reserve and Visa Infinite Cards presale will run on Aug 12 from 10am to 3pm, followed by the UOB Visa Cards presale from 5pm on Aug 12 to 10am on Aug 13.",
+      "The Live Nation presale for members will take place on Aug 13, from 12pm to 11.59pm. General ticket sales start on Aug 14 at 10am.",
+      "Known for hits such as She Will Be Loved, Payphone, Moves Like Jagger and Won't Go Home Without You, the band is bringing its latest international tour to Singapore as part of its Asia leg, which also includes stops in Kaohsiung, Tokyo, Seoul, Jakarta, Manila and Bangkok.",
+      "Maroon 5 recently wrapped up the European leg of their tour, as well as 24 arena shows across the United States in support of their latest album Love Is Like. The group's latest single, Heroine, was released in May.",
+      "The band first performed in Singapore at the Singapore Indoor Stadium in 2008 and went on to perform at the 2012 and 2015 Singapore Grand Prix. The group's most recent Singapore concert was at the National Stadium in November 2022.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
     "headline": "Labour Market Advance Release – Second Quarter 2026",
     "teaser": "Advance data indicate that Singapore's labour market continued to expand in 2Q 2026 despite continued global uncertainty. Total employment 1 grew by 10,700, marking the 19 th consecutive quarter of growth, and unemployment rates remained low and stable. Although retrenchments increased, they were driven primarily by bu",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0731-labour-market-advance-release-2q-2026"
+  },
+  "lifeVocab": [
+    {
+      "en": "polyclinic",
+      "cn": "综合诊疗所",
+      "def": "a government-subsidized clinic in Singapore providing primary healthcare services",
+      "ex": "I need to visit the polyclinic this afternoon to get my regular blood pressure check.",
+      "emoji": "🏥"
+    },
+    {
+      "en": "queue ticket",
+      "cn": "排号单",
+      "def": "a slip of paper showing your turn number in a waiting system",
+      "ex": "As soon as you enter the clinic, press the machine to take a queue ticket.",
+      "emoji": "🎫"
+    },
+    {
+      "en": "triage",
+      "cn": "分诊",
+      "def": "the process of deciding the order of treatment of patients based on their urgency",
+      "ex": "The nurse at the triage counter assessed his high fever and directed him to the emergency area.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "CHAS card",
+      "cn": "新加坡社保援助计划卡",
+      "def": "a card under the Community Health Assist Scheme that provides medical subsidies to eligible Singaporeans",
+      "ex": "Remember to show your blue CHAS card to the clinic receptionist to enjoy the medical subsidy.",
+      "emoji": "💳"
+    },
+    {
+      "en": "consultation",
+      "cn": "问诊/看诊",
+      "def": "a meeting with a doctor to seek medical advice or treatment",
+      "ex": "The doctor listened patiently to my symptoms during the consultation.",
+      "emoji": "💬"
+    },
+    {
+      "en": "referral letter",
+      "cn": "转介信",
+      "def": "a letter written by a primary doctor to send a patient to a specialist for further treatment",
+      "ex": "The polyclinic doctor gave me a referral letter to see a specialist at the national heart center.",
+      "emoji": "✉️"
+    },
+    {
+      "en": "dispensary",
+      "cn": "配药处",
+      "def": "the section of a clinic where medicines are prepared and given out to patients",
+      "ex": "Please wait near the dispensary for your name to be called to collect your prescription.",
+      "emoji": "💊"
+    },
+    {
+      "en": "chronic illness",
+      "cn": "慢性疾病",
+      "def": "a disease that persists for a long time and requires ongoing medical attention",
+      "ex": "Diabetes is a chronic illness that can be managed well with proper medication and diet.",
+      "emoji": "🍎"
+    },
+    {
+      "en": "Medical Certificate (MC)",
+      "cn": "病假单",
+      "def": "an official document from a doctor stating that a patient is unfit for work or school",
+      "ex": "I had to submit my MC to the human resource department because I took a day off for flu.",
+      "emoji": "📄"
+    },
+    {
+      "en": "subsidized rate",
+      "cn": "津贴价格",
+      "def": "a lower price for services because the government pays for a portion of the cost",
+      "ex": "Singapore citizens enjoy highly subsidized rates at public healthcare institutions.",
+      "emoji": "💰"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "conducive",
+      "ipa": "/kənˈdjuːsɪv/",
+      "pos": "adj.",
+      "cn": "有益于……的",
+      "def": "making a certain situation or outcome likely or possible",
+      "ex": "A quiet office environment with ergonomic chairs is highly conducive to productivity."
+    },
+    {
+      "w": "alleviate",
+      "ipa": "/əˈliːvieɪt/",
+      "pos": "v.",
+      "cn": "缓解/减轻",
+      "def": "make a pain, deficiency, or problem less severe",
+      "ex": "The management implemented flexible working hours to alleviate the stress of peak-hour commutes."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsɛmɪneɪt/",
+      "pos": "v.",
+      "cn": "散播/宣传",
+      "def": "spread information or knowledge widely to a large group of people",
+      "ex": "The marketing team will use social media platforms to disseminate the details of the new product launch."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "pos": "n.",
+      "cn": "应急预案/偶发事件",
+      "def": "a future event or circumstance that is possible but cannot be predicted with certainty",
+      "ex": "We have developed a comprehensive contingency plan in case the main server suffers a cyberattack."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈpɛrətɪv/",
+      "pos": "adj.",
+      "cn": "极重要的/势在必行的",
+      "def": "of vital importance or crucial significance",
+      "ex": "It is absolutely imperative that we secure the client's signature before the end of the financial quarter."
+    },
+    {
+      "w": "precedent",
+      "ipa": "/ˈprɛsɪdənt/",
+      "pos": "n.",
+      "cn": "先例/前例",
+      "def": "an earlier event or action that is regarded as an example or guide for similar circumstances",
+      "ex": "Allowing staff to work fully from home set a precedent that other departments wanted to follow."
+    },
+    {
+      "w": "transient",
+      "ipa": "/ˈtrænziənt/",
+      "pos": "adj.",
+      "cn": "短暂的/转瞬即逝的",
+      "def": "lasting only for a short time; impermanent",
+      "ex": "Economists suggest that the sudden dip in tourism is merely transient and will recover by the holidays."
+    },
+    {
+      "w": "oversight",
+      "ipa": "/ˈəʊvəsaɪt/",
+      "pos": "n.",
+      "cn": "疏忽/监管",
+      "def": "an unintentional failure to notice something, or the state of supervising something",
+      "ex": "Leaving her name off the invitation list was an unfortunate oversight by the organizing committee."
+    },
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈmɛnt/",
+      "pos": "v.",
+      "cn": "增加/提高",
+      "def": "make something greater by adding to it; increase",
+      "ex": "We hired freelance designers to augment our in-house creative team during the peak season."
+    },
+    {
+      "w": "benchmark",
+      "ipa": "/ˈbɛntʃmɑːk/",
+      "pos": "n.",
+      "cn": "基准/衡量标准",
+      "def": "a standard or point of reference against which things may be compared or assessed",
+      "ex": "The multinational corporation uses customer satisfaction scores as a benchmark for employee performance."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore's Push for AI in Healthcare",
+    "transcript": "Singapore is actively <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪntɪɡreɪtɪŋ/ (v.) combining two or more things to make them work together — 整合\">integrating</span> artificial intelligence into its primary healthcare network to help doctors spot early signs of chronic illnesses. The Ministry of Health announced a new <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpaɪlət/ (adj.) serving as an experimental trial before introducing something more widely — 试点的\">pilot</span> program that uses machine learning algorithms to analyze patient data at polyclinics. While some seniors worry about digital <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪkˈskluːʒən/ (n.) the state of being excluded or left out from a group or system — 排除/排斥\">exclusion</span>, officers are on-site to assist them with the transition. This initiative is expected to reduce wait times and optimize clinical assessments significantly."
+  },
+  "economistArticle": {
+    "title": "Frugal Innovation: Why China’s AI Models Punch Above Their Financial Weight",
+    "paras": [
+      "In the global race for artificial intelligence supremacy, the headline figures often paint a <span class=\"voc\">lopsided</span> picture. American venture capitalists and tech giants pour staggering sums of capital into training <span class=\"voc\">gargantuan</span> large language models (LLMs), operating on the assumption that sheer computational scale is the ultimate <span class=\"voc\">arbiter</span> of performance. <span class=\"gem\">Yet, beneath the surface of this financial <span class=\"voc\">deluge</span>, Chinese firms are quietly demonstrating that brute-force spending is not the only path to cognitive competence.</span>",
+      "Despite facing <span class=\"voc\">stringent</span> export restrictions on advanced semiconductors and operating with a fraction of Silicon Valley's capital, Chinese AI developers have managed to narrow the performance gap surprisingly quickly. Instead of training massive models from scratch, Chinese engineers have mastered the art of frugal innovation. They focus heavily on optimizing algorithms, pruning unnecessary parameters, and utilizing synthetic data to refine smaller, open-source architectures.",
+      "This <span class=\"voc\">utilitarian</span> approach is born of necessity. Denied access to Nvidia’s top-tier chips, Chinese laboratories have had to extract maximum efficiency from <span class=\"voc\">legacy</span> hardware. This constraint has fostered an engineering culture that prioritizes architectural elegance over raw computing power. As a result, Chinese models often require significantly less electricity and memory to achieve comparable results in reasoning and natural language processing tasks.",
+      "Moreover, the commercial application of AI in China is highly targeted. Rather than chasing the elusive dream of Artificial General Intelligence, Chinese tech firms are harnessing specialized, task-oriented models that address immediate pain points in manufacturing, logistics, and e-commerce. This focus on functional deployment ensures a much quicker return on investment, allowing local startups to survive and <span class=\"voc\">iterate</span> without relying on perpetual rounds of venture subsidies.",
+      "Ultimately, the geopolitical narrative of a binary tech war overlooks the nuanced realities of engineering efficiency. While America continues to set the frontier for foundational model capabilities through massive capital <span class=\"voc\">expenditure</span>, China’s resourceful constraints-driven methodology offers a valuable lesson in efficiency. <span class=\"gem\">In the long run, the winner of the AI race may not be the one who spends the most, but the one who derives the greatest utility from every single watt of power.</span>"
+    ],
+    "cn": "在全球人工智能霸权的争夺战中，头条数据往往呈现出一种失衡的局面。美国的风险投资家和科技巨头将惊人的资金注入到训练庞大的大语言模型（LLM）中，他们基于这样一个假设：纯粹的计算规模是决定性能的终极标准。然而，在这场资金洪流的表面之下，中国企业正悄然证明，蛮力投入并非通往认知能力的唯一途径。尽管面临先进半导体的严格出口限制，且仅用硅谷一小部分的资金运营，中国的人工智能开发商却成功地以令人惊讶的速度缩小了性能差距。中国工程师并没有从头开始训练庞大的模型，而是掌握了“节俭创新”的艺术。他们重点关注优化算法、裁剪不必要的参数，并利用合成数据来精炼更小、开源的架构。这种实用主义的方法源于迫切的现实需求。由于无法获得英伟达的顶级芯片，中国实验室不得不从传统硬件中榨取最大效率。这种限制培养了一种将架构优雅置于原始计算能力之上的工程文化。因此，中国模型在推理和自然语言处理任务中达到类似效果时，通常所需的电量和内存要少得多。此外，人工智能在中国商业应用中的针对性极强。中国科技公司并没有一味追求通用人工智能那难以捉摸的梦想，而是利用专门的、面向特定任务的模型，以解决制造业、物流业和电子商务中眼前的痛点。这种对功能性部署的关注确保了更快的投资回报，使本土初创企业无需依赖一轮又一轮的风险补贴即可生存和迭代。最终，关于双边科技战的地缘政治叙事忽略了工程效率中微妙的现实。虽然美国继续通过庞大的资本支出为基础模型能力设定前沿，但中国受制约驱动的资源利用方法在效率方面提供了宝贵的经验。从长远来看，人工智能竞赛的赢家可能不是花钱最多的人，而是能从每一瓦电中获取最大效用的人。",
+    "vocab": [
+      {
+        "w": "lopsided",
+        "ipa": "/ˈlɒpsaɪdɪd/",
+        "pos": "adj.",
+        "mean": "失衡的/倾斜的",
+        "def": "with one side lower or smaller than the other; unevenly balanced",
+        "ex": "The game was a lopsided affair, with the home team winning by six goals."
+      },
+      {
+        "w": "gargantuan",
+        "ipa": "/ɡɑːˈɡæntʃʊən/",
+        "pos": "adj.",
+        "mean": "巨大的/庞大的",
+        "def": "enormous or gigantic in size, volume, or degree",
+        "ex": "Training a gargantuan model requires thousands of specialized graphic processors working simultaneously."
+      },
+      {
+        "w": "arbiter",
+        "ipa": "/ˈɑːbɪtə/",
+        "pos": "n.",
+        "mean": "主宰者/决定者",
+        "def": "a person or thing that has ultimate authority in a matter",
+        "ex": "In fashion, consumer taste remains the final arbiter of what succeeds on the runway."
+      },
+      {
+        "w": "deluge",
+        "ipa": "/ˈdɛljuːdʒ/",
+        "pos": "n.",
+        "mean": "洪水/泛滥",
+        "def": "a great quantity of something arriving at the same time; a flood",
+        "ex": "The customer service hotline received a deluge of complaints after the system outage."
+      },
+      {
+        "w": "stringent",
+        "ipa": "/ˈstrɪndʒənt/",
+        "pos": "adj.",
+        "mean": "严格的/严厉的",
+        "def": "strict, precise, and exacting in regulations or conditions",
+        "ex": "The laboratory must comply with stringent safety guidelines when handling chemical waste."
+      },
+      {
+        "w": "legacy",
+        "ipa": "/ˈlɛɡəsi/",
+        "pos": "adj.",
+        "mean": "老旧的/继承的",
+        "def": "denoting software or hardware that has been superseded but is difficult to replace",
+        "ex": "The bank is currently upgrading its legacy systems to support mobile payment transactions."
+      },
+      {
+        "w": "utilitarian",
+        "ipa": "/juːˌtɪlɪˈtɛərɪən/",
+        "pos": "adj.",
+        "mean": "实用主义的",
+        "def": "designed to be useful or practical rather than attractive or ornate",
+        "ex": "The building had a cold, utilitarian design that prioritized function over aesthetic beauty."
+      },
+      {
+        "w": "harness",
+        "ipa": "/ˈhɑːnəs/",
+        "pos": "v.",
+        "mean": "利用/控制",
+        "def": "control and make use of natural resources or capabilities to produce energy or achieve a goal",
+        "ex": "Engineers are trying to find better ways to harness solar power in tropical urban areas."
+      },
+      {
+        "w": "iterate",
+        "ipa": "/ˈɪtəreɪt/",
+        "pos": "v.",
+        "mean": "迭代/反复",
+        "def": "perform repeatedly, especially to simplify or improve a computer program or process",
+        "ex": "Software developers must continuously iterate their designs based on user feedback."
+      },
+      {
+        "w": "expenditure",
+        "ipa": "/ɪkˈspɛndɪtʃə/",
+        "pos": "n.",
+        "mean": "支出/消费",
+        "def": "an amount of money spent, or the action of spending funds",
+        "ex": "The government approved a large capital expenditure for building the new subway line."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Yet, beneath the surface of this financial deluge, Chinese firms are quietly demonstrating that brute-force spending is not the only path to cognitive competence.",
+        "why": "This sentence uses a striking contrast ('financial deluge' versus 'quietly demonstrating') and a vivid metaphor ('brute-force spending') to build rhetorical tension. 中文解析：该句通过强烈的对比（‘资金洪流’与‘悄然证明’）以及生动的比喻（‘蛮力投入’）建立了修辞张力，引人深思。"
+      },
+      {
+        "s": "In the long run, the winner of the AI race may not be the one who spends the most, but the one who derives the greatest utility from every single watt of power.",
+        "why": "The author employs a neat 'not... but...' parallel structure at the end of the text to leave the reader with a memorable, balanced concluding thought. 中文解析：作者在文章末尾运用了工整的‘不是……而是……’排比结构，给读者留下了一个令人难忘、结构匀称的结语思考。"
+      }
+    ]
   }
 }
