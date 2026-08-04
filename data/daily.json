@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T03:27:32.267811+00:00",
+  "generatedAt": "2026-08-04T03:29:38.877400+00:00",
   "economist": {
     "headline": "How China gets better bang for its buck than America in AI",
     "teaser": "Its investment lags far behind America’s. Its models do not",
@@ -64,5 +64,10 @@
       "At the June meeting, Kiuchi said the BOJ must be held accountable for its decision and respond nimbly if the economy faced \"extreme volatility,\" a summary of opinions at the meeting showed, remarks markets saw as signalling the government's reservations over the central bank's rate-hike plans.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
+  },
+  "mom": {
+    "headline": "Labour Market Advance Release – Second Quarter 2026",
+    "teaser": "Advance data indicate that Singapore's labour market continued to expand in 2Q 2026 despite continued global uncertainty. Total employment 1 grew by 10,700, marking the 19 th consecutive quarter of growth, and unemployment rates remained low and stable. Although retrenchments increased, they were driven primarily by bu",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0731-labour-market-advance-release-2q-2026"
   }
 }
