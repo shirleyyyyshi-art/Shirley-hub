@@ -2,8 +2,10 @@ name: Update daily content
 
 on:
   schedule:
-    # 00:30 UTC = 08:30 Singapore time
-    - cron: '30 0 * * *'
+    # 00:22 UTC = 08:22 Singapore time — off the round-number minute mark
+    # (:00/:15/:30/:45) since GitHub's scheduler is more likely to delay or
+    # skip runs queued at those popular times under high global load.
+    - cron: '22 0 * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -22,7 +24,6 @@ jobs:
       - name: Fetch today's content
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-3.5-flash
         run: python3 scripts/fetch_daily.py
 
       - name: Commit updated data
