@@ -1,62 +1,67 @@
 {
-  "date": "2026-08-03",
-  "generatedAt": "2026-08-03T12:43:39.963444+00:00",
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T03:21:24.728753+00:00",
   "economist": {
-    "headline": "Oil prices remain highly flammable",
-    "teaser": "As tensions flare in the Gulf, triple digits could return in a flash",
-    "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+    "headline": "How China gets better bang for its buck than America in AI",
+    "teaser": "Its investment lags far behind America’s. Its models do not",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
     "vocab": [
       {
-        "word": "flammable",
-        "phonetic": "",
-        "def": "Any flammable substance."
-      },
-      {
-        "word": "tensions",
-        "phonetic": "",
-        "def": "The condition of being held in a state between two or more forces, which are acting in opposition to each other."
+        "word": "investment",
+        "phonetic": "/ɪnˈvɛsmənt/",
+        "def": "The act of investing, or state of being invested."
       }
     ]
   },
   "st": {
-    "headline": "Reddit suffers record stock rout on dearth of new AI deals",
-    "teaser": "Reddit is already exploring a new potential deal with Google.",
-    "url": "https://www.straitstimes.com/business/reddit-suffers-record-stock-rout-on-dearth-of-new-ai-deals",
+    "headline": "Why Japan is propping up the yen - and why the US helped",
+    "teaser": "The yen's weakness has become a worry for the US.",
+    "url": "https://www.straitstimes.com/business/economy/why-japan-is-propping-up-the-yen-and-why-the-us-helped",
     "fullText": [
-      "SAN FRANCISCO – Reddit shares suffered their worst-ever rout after the social media company failed to announce any new data licensing agreements in its latest earnings report, disappointing investors who are hoping to see a shift in revenue streams.",
-      "Reddit’s ads business is the company’s main source of revenue, but investors increasingly are hoping to see the mix shift to data deals for artificial intelligence training.",
-      "The company’s repository of user posts has made it a popular place for marketers to reach consumers in online communities where they’re already discussing a particular topic or company.",
-      "That library has also drawn interest from AI firms seeking new training data, and Reddit has secured licensing deals with OpenAI and Alphabet’s Google worth hundreds of millions of dollars.",
-      "Reddit is already exploring a new potential deal with Google, Bloomberg reported last September, though the company didn’t announce a new arrangement on July 30 as some analysts had hoped.",
-      "Reddit is actively “talking to our partners” and “thinking very consistently about this,” chief operating officer Jen Wong said in an interview.",
-      "Chief executive officer Steve Huffman, speaking on a call with investors, said the data licensing opportunity is “an expanding marketplace” that goes beyond Google and OpenAI. He declined to comment on the status of new agreements.",
-      "The shares plunged 21 per cent on July 31 to close at US$140.67, their steepest single-day drop since the company went public in 2024. The stock has declined 39 per cent so far this year.",
-      "As Reddit negotiates new deals, it’s thinking not just about licensing fees, but also how to bring new users to its products. For example, when a chatbot supplies an answer drawn from Reddit data, executives want to be able to show users that Reddit is the source of the information and direct them to the site.",
-      "“The landscape has changed so much over the last couple of years,” Wong said. “We want to be very thoughtful here on how to maximise value.”",
-      "The share drop overshadowed a revenue forecast for the current quarter that beat Wall Street estimates.",
-      "Revenue in the period ending in September will be US$860 million (S$1.1 billion) to US$870 million, Reddit said on July 30 in a statement, higher than the average analyst estimate of US$829.4 million, according to Bloomberg-compiled data.",
-      "Second-quarter sales also surpassed expectations, jumping 61 per cent to US$805 million, driven mostly by advertising.",
-      "The company reported 130 million daily active users – in line with analysts’ expectations. Huffman said in a letter to shareholders that the company’s top priority is to increase this user base.",
-      "During the call with investors, Huffman was pressed on user growth potential. Analysts expressed concern about the company’s ability to continue to scale its US-based community, particularly in the face of volatile conditions around Google search traffic that has historically driven users to Reddit.",
-      "“We’re focused on what we can control,” Huffman said during the call.",
-      "Wong said in an interview that many shifts in the search landscape “are not visible to us,” and that the company is focused on expanding the share of users who come to Reddit directly.",
-      "Meanwhile, Reddit has seen growth abroad. The company’s international revenue, while just over 20 per cent of its total business, was up 84 per cent from a year earlier, a sign that Reddit is seeing success in an effort to broaden its list of advertising partners.",
-      "“We’re becoming much more diversified,” Wong said. “It’s great for resiliency. It’s great for competition.”",
-      "Wong said that Reddit has seen a 70 per cent increase in advertisers on its platform since last year, with growth being driven by midsize marketers. That’s a welcome development; a quarter of the company’s 2024 revenue came from just 10 large advertisers.",
-      "As the advertising dollars continue to flow in, Reddit has for the first time over a 12-month period generated US$1 billion in free cash flow, Wong said.",
-      "She added that the cash will allow the company to continue to invest in the core business, explore merger and acquisition opportunities, and lure technical talent. BLOOMBERG"
+      "TOKYO – The yen’s weakness has become a growing issue for Japan’s policymakers, given its role in driving up import prices and household living costs. It’s also become a worry for the US.",
+      "Japanese authorities spent almost US$74 billion (S$94.9 billion) in late April to support the currency following two months of steep declines. The resulting rebound was short-lived, however, and by July 23 the yen had slid further to its weakest against the dollar since 1986.",
+      "This prompted one of the most dramatic interventions in global currency markets in decades – a joint Japan-US effort to bolster the yen , accompanied by a joint warning that the two nations wouldn’t hesitate to move again to defend its value if required.",
+      "Several factors are weighing on the yen. Chief among them is the gap between Japan’s ultra-low interest rates and those in the US and other major economies, which has encouraged investors to borrow cheaply in yen and invest in higher-yielding assets overseas. The resulting capital outflows have put persistent pressure on the Japanese currency. While the BOJ raised its benchmark interest rate in June to the highest in 31 years, the rate remains low by international standards.",
+      "Adding to the headwinds are investor concerns about Japan’s fiscal outlook. The country’s heavy debt burden – which exceeds 200 per cent of gross domestic product, the highest among major economies – and persistent budget deficits have raised concerns that Japan’s government is spending beyond its means. That can erode confidence in Japanese assets and the yen.",
+      "The US-Israel war with Iran has also added pressure on the yen. Japan imports almost all of its energy, with the majority of its oil imports coming from the Middle East, making it highly exposed to disruptions in the region. Higher oil prices mean Japan must pay more for energy imports – in US dollars – boosting demand for foreign currency at the expense of the yen.",
+      "Mounting global inflation stemming from the Middle East conflict has also shifted expectations around the trajectory of US interest rates, from cuts to hikes, making US dollar-denominated assets even more attractive, further undermining the local currency.",
+      "The yen’s slide over the past decade or so has helped to transform Japan into an affordable travel destination for millions of foreign tourists while boosting the profits of the nation’s biggest exporters.",
+      "But in an economy heavily dependent on imported energy and raw materials, the feeble yen has also driven up costs, fueling inflation for households and squeezing the profitability of domestically focused businesses. The resulting cost-of-living crunch contributed to the downfall of two prime ministers before current leader Sanae Takaichi took office.",
+      "There is growing concern that domestic inflation is becoming more entrenched. Japanese officials see mounting evidence that companies are passing higher costs on to customers more quickly than in the past.",
+      "US President Donald Trump has repeatedly criticized Japan’s weak currency, arguing that it gives Japanese manufacturers an unfair trade advantage. This issue has featured in trade negotiations between the two nations. In March 2025, he took a more confrontational stance, suggesting tariffs on Japanese goods as a response.",
+      "The US move to help support the yen in late July signalled a shift in tone from Washington, with Trump saying the currency-market intervention was a sign of friendship with Tokyo.",
+      "For the US, a weak yen isn’t just a negative in terms of trade. Japan is also the largest foreign holder of US Treasuries, that is, government bonds. Japanese selling of Treasuries to generate funds to bolster the beleaguered yen risks pushing down US bond prices and increasing borrowing costs that are already under pressure due to a burst of inflation linked to the Iran war.",
+      "Japan has used a handful of options to slow the yen’s decline, with direct intervention being the most immediate tool deployed. This is when authorities buy or sell the currency in the foreign exchange market to influence its value. Such operations signal that officials will not tolerate excessive currency moves and can deter speculators from pushing a currency into free fall or triggering a rapid surge.",
+      "Japan has intervened heavily in currency markets over the years to influence the yen. Historically, authorities have typically sought to weaken the yen, but more recent efforts have been aimed at strengthening it. Before this year’s successive interventions, the last such operations came in 2024, when the government spent almost US$100 billion buying yen to prop up the currency. All four interventions that year occurred when the exchange rate was around 160 yen per US dollar, cementing that level as an informal line in the sand for when policymakers will intervene.",
+      "Authorities don’t always need to actually buy or sell yen to influence trading. Sometimes before – or instead of – direct intervention, senior officials resort to verbal intervention, warning speculators that excessive trading will not be tolerated. Comments by the finance minister or the ministry’s top currency official can quickly move markets. Officials typically use a carefully calibrated set of expressions to ratchet up their warnings and show how close they are to intervening. References to “taking bold action” suggest intervention is close.",
+      "Japan is party to international pacts that stipulate that exchange rates should generally be determined by markets. At the same time, the Group of 20 members acknowledge that excessive or disorderly currency moves can threaten economic and financial stability, giving governments scope to intervene when volatility spikes.",
+      "In Japan, the Finance Ministry decides when to intervene and the BOJ carries out the operation through a small number of commercial banks. Those banks either buy yen and sell dollars to strengthen the local currency, or the reverse to weaken it. The scale of the transactions depends on how much impact the ministry seeks and how quickly the market reacts.",
+      "The dollars used to buy yen typically come from Japan’s foreign exchange reserves in the form of cash or US Treasury holdings. Japan appeared to sell some of its Treasuries when it intervened to prop up the yen in 2024, and there are indications authorities drew on their holdings of foreign securities, including US Treasuries, during their intervention in April this year.",
+      "To keep traders guessing, officials often decline to confirm intervention immediately. Instead, the Finance Ministry discloses the amount spent on intervention at the end of each month. Cultivating doubt and fear of losses in the market is part of the government’s strategy, making comments from officials especially powerful.",
+      "When Japan intervenes in currency markets, the immediate impact is typically sharp. Past episodes show the yen strengthening by around 2 yen against the US dollar within seconds and by 4 to 5 yen within hours. However, the impact is often only temporary unless the economic fundamentals driving the trend are also addressed.",
+      "Foreign reserves are intended to protect the economy during major financial shocks or unexpected events, not to prop up the currency indefinitely. Although intervention can buy time until market dynamics change, unilateral intervention is unlikely to reverse a broader market trend.",
+      "The limits of intervention were on display when authorities intervened on April 30, and potentially in the days that followed. While the effect was immediate and pronounced – with the yen strengthening sharply against the dollar – the rally soon faded. On July 23, the yen hit a 40-year low of 163.99.",
+      "The currency’s rebound in late July came with help from the US, a potential game changer for dealing with yen bears. The joint intervention was likely larger than those undertaken in 1998 and 2011, when US contributions didn’t surpass the US$1 billion mark. Japan alone was estimated to have spent US$53 billion on July 30 – a likely single-day record – before spending an estimated US$34 billion the following day.",
+      "The question is not whether the government can keep intervening but if and when it makes sense to do so. The finance ministry’s foreign reserves – at US$1.09 trillion as of the end of June – gives it ample financial firepower. Japanese Finance Minister Satsuki Katayama has flagged that Japan would also utilise a US Federal Reserve facility that provides central banks with dollars using Treasury holdings as collateral.",
+      "There are other considerations policymakers must also weigh up. Sharp moves caused by direct intervention can create headaches for businesses trying to price goods, make payments and hedge against exchange rate fluctuations. They can also inflict huge losses on traders betting that the currency will keep moving in the previous direction.",
+      "For the government, intervention also carries political and diplomatic risks. It can draw criticism over currency manipulation, although that tends to be more likely when intervention is aimed at weakening the yen, a direction that can help exporters with trade. That charge is harder to argue when the government acts to support the yen.",
+      "Beyond direct intervention, Japan could try to combat the weak yen by addressing broader monetary and economic fundamentals. In theory, tightening monetary policy should help by narrowing the interest-rate differential with the US, making yen-denominated assets more attractive.",
+      "In practice, however, the difference in policy rates between the two nations has already shrunk to less than half of what it was just before the BOJ ended its negative interest-rate regime in March 2024 – yet the yen has continued to retreat.",
+      "Other measures could involve encouraging companies to repatriate capital and invest more at home. Greater domestic investment could increase demand for yen-denominated assets, while stronger economic growth could make Japan more attractive to foreign investors over time. Takaichi released a strategy plan in June aimed at bolstering private-sector investment in key industries such as artificial intelligence, semiconductors, defense and shipbuilding as part of a broader effort to boost Japan’s growth rate."
     ]
   },
   "cna": {
-    "headline": "South Korea's central bank to buy gold from domestic producers",
-    "teaser": "South Korea's central bank to buy gold from domestic producers",
-    "url": "https://www.channelnewsasia.com/business/south-koreas-central-bank-buy-gold-domestic-producers-6295491",
+    "headline": "Japan's economy minister offers sanguine view on inflation",
+    "teaser": "Japan's economy minister offers sanguine view on inflation",
+    "url": "https://www.channelnewsasia.com/business/japans-economy-minister-offers-sanguine-view-inflation-6296671",
     "fullText": [
-      "SEOUL, Aug 3 : South Korea's central bank will buy gold from local producers to diversify its sources of supply and increase its holdings of the precious metal, it said on Monday.",
-      "The Bank of Korea said it has established a framework for domestic gold purchases with local producers, Korea Exchange and Korea Securities Depository.",
-      "It will buy gold from domestic producers at international market prices via transactions, payment and deposit systems of KRX and KSD, the bank said.",
-      "The purchases will have a limited impact on trading prices of gold in the country, since the bank plans to buy gold intended for exports only at contract prices, it added.",
-      "The bank said the purchases would support its management of foreign reserves. They mark the central bank's first domestic gold purchases in 13 years, according to local media reports.",
+      "TOKYO, Aug 4 : Japan has seen only moderate rises in consumer prices so far with the pass-through of higher costs from the Middle East conflict remaining limited, Economy Minister Minoru Kiuchi said on Tuesday, offering a sanguine view on inflationary risks.",
+      "The assessment contrasts with that of the Bank of Japan, which last week issued its strongest warning to date on the risks of inflation overshooting its 2 per cent target.",
+      "\"The overall consumer price index rose 1.7 per cent year-on-year in June, showing only moderate rises,\" Kiuchi told a news conference, when asked about the BOJ's warning.",
+      "\"We do need to be vigilant to the possibility that costs could be gradually passed onto food and other consumer goods from summer through autumn,\" he added.",
+      "\"We hope the BOJ continues to guide appropriate policy to stably and sustainably achieve its 2 per cent inflation target,\" said Kiuchi, who is known as an advocate of loose monetary policy.",
+      "Kiuchi has attended the BOJ's recent policy meetings including last week and in June, when the central bank raised interest rates to a 31-year high of 1 per cent.",
+      "At the June meeting, Kiuchi said the BOJ must be held accountable for its decision and respond nimbly if the economy faced \"extreme volatility,\" a summary of opinions at the meeting showed, remarks markets saw as signalling the government's reservations over the central bank's rate-hike plans.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
@@ -64,267 +69,5 @@
     "headline": "Labour Market Advance Release – Second Quarter 2026",
     "teaser": "Advance data indicate that Singapore's labour market continued to expand in 2Q 2026 despite continued global uncertainty. Total employment 1 grew by 10,700, marking the 19 th consecutive quarter of growth, and unemployment rates remained low and stable. Although retrenchments increased, they were driven primarily by bu",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0731-labour-market-advance-release-2q-2026"
-  },
-  "lifeVocab": [
-    {
-      "en": "produce",
-      "cn": "农产品",
-      "def": "fresh fruits and vegetables",
-      "ex": "The wet market is known for its cheap and fresh produce.",
-      "emoji": "🥬"
-    },
-    {
-      "en": "poultry",
-      "cn": "家禽肉",
-      "def": "meat from birds such as chickens and ducks",
-      "ex": "He bought some fresh poultry from the butcher's stall.",
-      "emoji": "🍗"
-    },
-    {
-      "en": "haggling",
-      "cn": "讨价还价",
-      "def": "arguing about the price of something in order to agree on a lower price",
-      "ex": "Unlike supermarkets, wet markets sometimes allow a bit of haggling.",
-      "emoji": "🗣️"
-    },
-    {
-      "en": "gut",
-      "cn": "给…取出内脏",
-      "def": "to remove the inner organs of a fish or animal",
-      "ex": "The fishmonger will scale and gut the fish for you.",
-      "emoji": "🐟"
-    },
-    {
-      "en": "damp",
-      "cn": "潮湿的",
-      "def": "slightly wet, often in an unpleasant way",
-      "ex": "Watch your step; the wet market floor can get quite damp.",
-      "emoji": "💦"
-    },
-    {
-      "en": "vendor",
-      "cn": "摊主/小贩",
-      "def": "a person who sells things, especially on the street or in a market",
-      "ex": "My grandmother always buys spices from her favourite vendor.",
-      "emoji": "🧑‍🌾"
-    },
-    {
-      "en": "bulk",
-      "cn": "大宗/大量",
-      "def": "in large quantities",
-      "ex": "Buying dried shrimp in bulk is much cheaper.",
-      "emoji": "📦"
-    },
-    {
-      "en": "condiments",
-      "cn": "调味品",
-      "def": "substances such as salt or sauces used to add flavour to food",
-      "ex": "She picked up some fresh condiments like ginger and garlic.",
-      "emoji": "🌶️"
-    },
-    {
-      "en": "brisk",
-      "cn": "繁忙的/兴隆的",
-      "def": "quick, busy, and active",
-      "ex": "Business was brisk at the vegetable stall this morning.",
-      "emoji": "🏃"
-    },
-    {
-      "en": "withered",
-      "cn": "枯萎的",
-      "def": "dry and decaying",
-      "ex": "Throw away those withered spinach leaves.",
-      "emoji": "🍂"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "foster",
-      "ipa": "/ˈfɒs.tər/",
-      "pos": "v.",
-      "cn": "促进/培养",
-      "def": "to encourage the development or growth of something",
-      "ex": "We need to foster a culture of innovation within the team."
-    },
-    {
-      "w": "garner",
-      "ipa": "/ˈɡɑː.nər/",
-      "pos": "v.",
-      "cn": "收集/获得",
-      "def": "to collect or gather something, especially after some effort",
-      "ex": "The new policy managed to garner support from the board of directors."
-    },
-    {
-      "w": "culminate",
-      "ipa": "/ˈkʌl.mɪ.neɪt/",
-      "pos": "v.",
-      "cn": "达到高潮/以…告终",
-      "def": "to reach a climax or point of highest development",
-      "ex": "Years of research will culminate in the launch of our new product next month."
-    },
-    {
-      "w": "delineate",
-      "ipa": "/dɪˈlɪn.i.eɪt/",
-      "pos": "v.",
-      "cn": "描绘/阐明",
-      "def": "to describe or portray something precisely",
-      "ex": "The contract clearly delineates the responsibilities of each partner."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "提高/增加",
-      "def": "to increase the size or value of something by adding to it",
-      "ex": "The company plans to augment its staff with seasonal workers."
-    },
-    {
-      "w": "obviate",
-      "ipa": "/ˈɒb.vi.eɪt/",
-      "pos": "v.",
-      "cn": "消除/排除",
-      "def": "to remove a difficulty or need",
-      "ex": "The new automated system will obviate the need for manual data entry."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪmˈper.ə.tɪv/",
-      "pos": "adj.",
-      "cn": "极重要的/迫切的",
-      "def": "extremely important or urgent",
-      "ex": "It is imperative that we submit the proposal before the deadline."
-    },
-    {
-      "w": "stringent",
-      "ipa": "/ˈstrɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "严格的",
-      "def": "strict, precise, and exacting",
-      "ex": "The financial sector is subject to stringent regulations."
-    },
-    {
-      "w": "contingency",
-      "ipa": "/kənˈtɪn.dʒən.si/",
-      "pos": "n.",
-      "cn": "权宜之计/应急预案",
-      "def": "a future event or circumstance that is possible but cannot be predicted with certainty",
-      "ex": "We have developed a contingency plan in case the supply chain is disrupted."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
-      "pos": "v.",
-      "cn": "传播/散布",
-      "def": "to spread information or ideas to a large number of people",
-      "ex": "The HR department will disseminate the updated safety guidelines tomorrow."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore Bolsters Grid for Green Transition",
-    "transcript": "As Singapore accelerates its transition towards cleaner energy sources, importing low-carbon electricity from neighbouring countries has become a central strategy. The nation's energy authority recently announced plans to scale up these imports, aiming to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈbəʊl.stər/ (v.) to support or strengthen something — 支持，加强\">bolster</span> energy security while cutting down domestic emissions. However, building a strong cross-border grid requires deep regional cooperation to overcome various physical and political <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɜː.dəlz/ (n.) obstacles or difficulties that must be overcome — 障碍，困难\">hurdles</span>. Experts suggest that despite these challenges, the long-term environmental payoffs will be <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌɪn.dɪˈspen.sə.bəl/ (adj.) absolutely necessary; essential — 不可或缺的\">indispensable</span> for the city-state."
-  },
-  "economistArticle": {
-    "title": "Oil prices remain highly flammable",
-    "paras": [
-      "<span class=\"gem\">The global energy market is once again on a <span class=\"voc\">knife-edge</span>.</span> As geopolitical friction intensifies in the Middle East—specifically around vital shipping corridors in the Gulf—crude oil prices are showing acute signs of <span class=\"voc\">volatility</span>. Analysts warn that a single miscalculated skirmish could shatter the fragile <span class=\"voc\">equilibrium</span>, potentially propelling Brent crude back into triple-digit territory. This looming threat comes at a delicate <span class=\"voc\">juncture</span> when central banks are still struggling to tame persistent inflationary pressures.",
-      "The root of the vulnerability lies not just in current supply constraints, but in the psychological premium that traders attach to geopolitical risk. A substantial portion of the world's daily petroleum supply transits through narrow <span class=\"voc\">chokepoints</span> like the Strait of Hormuz. Any tangible threat of disruption there instantly triggers a flurry of <span class=\"voc\">speculative</span> buying. This reflex is compounded by the fact that global spare capacity remains concentrated in a handful of OPEC+ nations, leaving little margin for error should major production facilities go offline.",
-      "For import-dependent economies across Asia and Europe, the prospect of one-hundred-dollar oil is deeply unsettling. Rising fuel costs act as a <span class=\"voc\">regressive</span> tax on consumers, eroding purchasing power and dampening retail sentiment. Furthermore, industrial sectors heavily reliant on petrochemical feedstocks are bracing for margin <span class=\"voc\">compression</span>. If these elevated input costs persist, manufacturers will have little choice but to pass them down the supply chain, rekindling the very inflation that policymakers have spent the last two years trying to suppress.",
-      "Underneath these immediate concerns lies a broader, structural dilemma concerning the pace of the green transition. Proponents of rapid decarbonisation argue that fossil fuel price shocks are the ultimate catalyst for accelerating the shift toward renewable energy. Yet, the stubborn reality is that global infrastructure remains deeply <span class=\"voc\">tethered</span> to hydrocarbons. A premature retreat from oil investment before alternative systems are fully scaled up only guarantees a protracted era of high prices and economic instability.",
-      "Ultimately, the current volatility underscores a sober truth: energy security is national security. As long as geopolitical fault lines remain active, the global economy will remain hostage to the <span class=\"voc\">vagaries</span> of oil-producing regions. <span class=\"gem\">Governments may strive for strategic autonomy, but until systemic reliance on crude is dismantled, the threat of triple-digit oil will continue to loom large, ready to ignite at the slightest spark.</span>"
-    ],
-    "cn": "全球能源市场再次处于千钧一发的时刻。随着中东地区——特别是波斯湾关键航道周边——地缘政治摩擦的加剧，原油价格呈现出剧烈的波动迹象。分析人士警告称，一次失误的冲突就可能打破脆弱的平衡，甚至可能使布伦特原油价格瞬间重回三位数大关。这一迫在眉睫的威胁正值一个微妙的关口，各国央行目前仍在努力遏制持续的通胀压力。\n\n这种脆弱性的根源不仅在于当前的供应限制，更在于交易员因地缘政治风险而产生的心理溢价。全球每日石油供应的很大一部分要经过霍尔木兹海峡等狭窄的海峡。一旦该地区出现任何实质性的中断威胁，都会立即引发恐慌性的投机性买盘。由于全球闲置产能依然集中在少数几个欧佩克+（OPEC+）成员国手中，这一连锁反应进一步加剧，如果主要生产设施停产，几乎没有容错空间。\n\n对于亚洲和欧洲等高度依赖进口的经济体而言，油价升至100美元的前景令人深感不安。燃料成本的上涨相当于对消费者征收倒退税，削弱了购买力并抑制了零售情绪。此外，高度依赖石化原料的工业部门正准备迎接利润空间的压缩。如果这些高企的投入成本持续存在，制造商将别无选择，只能将成本转嫁给供应链下游，从而再次点燃决策者过去两年一直在试图平息的通胀火焰。\n\n在这些眼前隐忧的背后，隐藏着一个关于绿色转型步伐的更深层次的结构性困境。快速脱碳的倡导者认为，化石燃料价格冲击是加速向可再生能源转型的最终催化剂。然而，残酷的现实是，全球基础设施依然深植于碳氢化合物。在替代系统完全规模化之前，过早地减少对石油的投资，只会确保高物价和经济不稳定的长期存在。\n\n归根结底，当前的波动凸显了一个严峻的事实：能源安全就是国家安全。只要地缘政治断裂带依然活跃，全球经济就将继续受制于石油产区的变幻莫测。各国政府或许在争取战略自主，但在彻底消除对原油的系统性依赖之前，三位数油价的威胁仍将像达摩克利斯之剑一样高悬，稍有火星便会瞬间引燃。",
-    "vocab": [
-      {
-        "w": "knife-edge",
-        "ipa": "/ˈnaɪf.edʒ/",
-        "pos": "n.",
-        "mean": "关键时刻/千钧一发",
-        "def": "a very difficult situation in which there are two very different possible outcomes",
-        "ex": "The negotiations are on a knife-edge."
-      },
-      {
-        "w": "volatility",
-        "ipa": "/ˌvɒl.əˈtɪl.ə.ti/",
-        "pos": "n.",
-        "mean": "波动性/不稳定性",
-        "def": "the quality of being subject to frequent, rapid, and significant change",
-        "ex": "The stock market is experiencing high volatility."
-      },
-      {
-        "w": "equilibrium",
-        "ipa": "/ˌiː.kwɪˈlɪb.ri.əm/",
-        "pos": "n.",
-        "mean": "平衡/均衡",
-        "def": "a state of balance",
-        "ex": "Any sudden change could disrupt the economic equilibrium."
-      },
-      {
-        "w": "juncture",
-        "ipa": "/ˈdʒʌŋk.tʃər/",
-        "pos": "n.",
-        "mean": "关头/时刻",
-        "def": "a particular point in time, especially an important one",
-        "ex": "At this critical juncture, we must proceed with caution."
-      },
-      {
-        "w": "chokepoints",
-        "ipa": "/ˈtʃəʊk.pɔɪnts/",
-        "pos": "n.",
-        "mean": "瓶颈/战略要道",
-        "def": "strategic, narrow passages that can be easily blocked",
-        "ex": "The strait is one of the world's most critical maritime chokepoints."
-      },
-      {
-        "w": "speculative",
-        "ipa": "/ˈspek.jə.lə.tɪv/",
-        "pos": "adj.",
-        "mean": "投机性的",
-        "def": "engaged in, expressing, or based on conjecture rather than knowledge",
-        "ex": "Speculative buying has driven up property prices."
-      },
-      {
-        "w": "regressive",
-        "ipa": "/rɪˈɡres.ɪv/",
-        "pos": "adj.",
-        "mean": "倒退的/累退的",
-        "def": "taking a proportionally greater amount from those on lower incomes",
-        "ex": "High consumption taxes are often criticized as regressive."
-      },
-      {
-        "w": "compression",
-        "ipa": "/kəmˈpreʃ.ən/",
-        "pos": "n.",
-        "mean": "压缩/挤压",
-        "def": "the process of squeezing or flattening",
-        "ex": "Rising input costs have led to profit margin compression."
-      },
-      {
-        "w": "tethered",
-        "ipa": "/ˈteð.əd/",
-        "pos": "adj.",
-        "mean": "束缚的/绑定的",
-        "def": "tied or linked to something",
-        "ex": "The country's economy is tightly tethered to the price of oil."
-      },
-      {
-        "w": "vagaries",
-        "ipa": "/ˈveɪ.ɡər.iz/",
-        "pos": "n.",
-        "mean": "变幻莫测",
-        "def": "unexpected and inexplicable changes in a situation",
-        "ex": "Farmers are always subject to the vagaries of the weather."
-      }
-    ],
-    "gems": [
-      {
-        "s": "The global energy market is once again on a knife-edge.",
-        "why": "Uses a vivid metaphor ('on a knife-edge') to immediately grab the reader's attention and convey extreme instability. This creates a high-stakes opening hook. 使用生动的比喻（‘处于千钧一发的时刻/刀刃上’）瞬间吸引读者注意并传达极端的不稳定性。这创造了一个极具张力的开篇悬念。"
-      },
-      {
-        "s": "Governments may strive for strategic autonomy, but until systemic reliance on crude is dismantled, the threat of triple-digit oil will continue to loom large, ready to ignite at the slightest spark.",
-        "why": "Employs an elegant contrast ('strive for strategic autonomy' vs 'systemic reliance') combined with fire-themed imagery ('loom large', 'ignite', 'spark') to tie back to the article's core theme of flammability. 运用优雅的对比（‘争取战略自主’与‘系统性依赖’），并结合火灾意象（‘高悬/若隐若现’、‘引燃’、‘火星’），呼应了文章关于‘易燃性’的核心主题。"
-      }
-    ]
   }
 }
