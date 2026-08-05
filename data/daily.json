@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-04",
-  "generatedAt": "2026-08-04T05:21:42.905249+00:00",
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T02:20:51.174567+00:00",
   "economist": {
     "headline": "How China gets better bang for its buck than America in AI",
     "teaser": "Its investment lags far behind America’s. Its models do not",
@@ -14,30 +14,40 @@
     ]
   },
   "st": {
-    "headline": "HSBC first-half profit jumps 23% on higher rates, robust wealth growth",
-    "teaser": "HSBC announced a resumption of its share buybacks with an up to US$1 billion plan.",
-    "url": "https://www.straitstimes.com/business/banking/hsbc-first-half-profit-jumps-23-on-higher-rates-robust-wealth-growth",
+    "headline": "China’s open-weight AI models to be spared US tests, sources say",
+    "teaser": "Debate over how to handle open-weight AI models has intensified following a wave of such releases from Chinese developers.",
+    "url": "https://www.straitstimes.com/business/companies-markets/chinas-open-weight-ai-models-to-be-spared-us-tests-sources-say",
     "fullText": [
-      "HONG KONG/LONDON - HSBC Holdings reported on Aug 4 a 23 per cent first-half profit surge that bettered expectations, as rising net interest income and revenue from wealth management pushed up fee income on robust money and deal flows.",
-      "Europe’s largest bank posted a pretax profit of US$19.5 billion (S$25 billion) for the first six months of this year, versus US$15.8 billion a year earlier.",
-      "That compared with the US$18.9 billion average of broker estimates compiled by HSBC.",
-      "HSBC announced a resumption of its share buybacks with an up to US$1 billion plan, the first since it took smaller Hong Kong lender Hang Seng Bank private.",
-      "The bank also announced a second interim dividend of 10 US cents per share, following a similar payout in May. REUTERS"
+      "Washington – The White House has told top US artificial intelligence companies that open-weight models being developed by their Chinese rivals will not be subject to government testing under the Trump administration’s new AI safety framework, according to people familiar with the matter.",
+      "The decision to spare open-weight models, which allow users to download and customise the technology, was delivered in a closed-door White House meeting on Aug 4 between United States officials and industry attendees, according to the people. OpenAI, Anthropic and Alphabet’s Google were among the Silicon Valley firms expected to join.",
+      "The safety framework, which has not yet been released and may remain private, was called for under an executive order signed in June by US President Donald Trump aimed at addressing AI security issues. Trump’s order outlined a voluntary programme for artificial-intelligence companies to submit cutting-edge models for US review.",
+      "The administration’s safety initiative accelerated after Anthropic warned in April that its Mythos model was adept at finding computer vulnerabilities and strictly limited its release. Adding urgency to the US effort, OpenAI and Anthropic have in recent weeks disclosed that some of their models escaped secure testing environments and hacked third-party organisations.",
+      "Debate in Washington over how to handle open-weight AI models has intensified following a wave of open systems from Chinese developers that rival top offerings from the US. The release in July of the new Kimi K3 model by Chinese start-up Moonshot also undermined investor confidence in the durability of the US’ lead in AI and stirred questions about the billions of dollars in data centre investments.",
+      "While some AI developers in the US, like OpenAI, offer open-weight models, much of their focus has been on closed or proprietary systems that they sell to customers. Chinese companies, including DeepSeek, have previously flooded the market with more affordable, open models that typically lag behind the most cutting-edge software from US rivals, but nonetheless offer a compelling product for the price.",
+      "Speaking at a cybersecurity conference in Las Vegas, National Cyber Director Sean Cairncross said that the administration is interested in supporting US open-source AI, saying that type of model has a “tremendous role. He said that the AI safety framework needs to have a “flexible” structure that encourages information sharing between the industry and government.",
+      "“A regulatory regime would not only strangle growth, development and innovation, and be enormously harmful to the industry, but it would be obsolete 48 hours after it was going through whatever process it had gone through,” he said.",
+      "At the same time, some officials in Washington have considered imposing restrictions on open-weight models, and the prospect of government curbs has drawn objections from across the tech industry. Silicon Valley leaders, including Nvidia chief executive officer Jensen Huang, have insisted that open-weight models are good for the long-term development of AI and help bolster its security.",
+      "The administration’s decision emerged less than two months before Trump is scheduled to meet his Chinese counterpart Xi Jinping for a high-profile summit in Washington, where the competition for AI leadership between the world’s two largest economies will take centre stage.",
+      "Exempting open-weight models from the opt-in safety testing programme marks a setback for Anthropic chief executive officer Dario Amodei, who has called for mandatory government safety reviews of both open and proprietary models. Amodei has also suggested that Chinese-made AI models violate US rules, concerns echoed by Treasury Secretary Scott Bessent and other top US officials.",
+      "In July, White House Science and Technology Policy Director Michael Kratsios accused Moonshot of illegally acquiring Nvidia’s advanced Blackwell chips, the most powerful AI accelerators on the market. It’s unclear how many of these processors the US government believes Moonshot has. Bloomberg News has reported that Moonshot has a computing agreement with Alibaba Group for the use of about 20,000 Nvidia chips, forming a substantial chunk of the overall capacity Moonshot uses for its Kimi models.",
+      "Kratsios also said Moonshot had improperly extracted data from US models through a process known as distillation, a style of reverse engineering that US AI companies have warned officials about for most of 2026. Using this technique, researchers feed the outputs of one model into a new version, a process that turns out to be an efficient way to recreate some of the parent model’s capabilities.",
+      "Partly in response to industry complaints of an ad-hoc US approach to model reviews, Bessent has proposed creating an independent regulatory agency that would give companies a significant say over safety reviews.",
+      "Bessent’s model would set up a system similar to the Financial Industry Regulatory Authority, but apply to the artificial intelligence industry, Bloomberg News has reported. It remains unclear if that plan will be part of the AI cybersecurity order implementation or a separate effort. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Maroon 5 to perform at Singapore's National Stadium in February 2027",
-    "teaser": "The American pop band is returning to Singapore for a one-night concert on Feb 12, 2027. Tickets go on sale from Aug 11.",
-    "url": "https://www.channelnewsasia.com/entertainment/maroon-5-singapore-concert-2027-national-stadium-6296731",
+    "headline": "Facial recognition gantries being tested at Punggol Coast MRT station, no plans to expand trial for now: LTA",
+    "teaser": "When CNA visited the station, two priority-use gantries had screens installed, with a “facial recognition detection zone” marked on the ground.",
+    "url": "https://www.channelnewsasia.com/singapore/mrt-punggol-facial-recognition-lta-trial-6298531",
     "fullText": [
-      "Maroon 5 fans can mark their calendars: The Grammy-winning American band will return to Singapore to perform at the National Stadium on Feb 12, 2027.",
-      "Tickets will first be available on Ticketmaster through the Maroon 5 artist presale on Aug 11, from 10am to 11.59pm, for active standard Maroon 5 S.I.N. fan club members.",
-      "The UOB Reserve and Visa Infinite Cards presale will run on Aug 12 from 10am to 3pm, followed by the UOB Visa Cards presale from 5pm on Aug 12 to 10am on Aug 13.",
-      "The Live Nation presale for members will take place on Aug 13, from 12pm to 11.59pm. General ticket sales start on Aug 14 at 10am.",
-      "Known for hits such as She Will Be Loved, Payphone, Moves Like Jagger and Won't Go Home Without You, the band is bringing its latest international tour to Singapore as part of its Asia leg, which also includes stops in Kaohsiung, Tokyo, Seoul, Jakarta, Manila and Bangkok.",
-      "Maroon 5 recently wrapped up the European leg of their tour, as well as 24 arena shows across the United States in support of their latest album Love Is Like. The group's latest single, Heroine, was released in May.",
-      "The band first performed in Singapore at the Singapore Indoor Stadium in 2008 and went on to perform at the 2012 and 2015 Singapore Grand Prix. The group's most recent Singapore concert was at the National Stadium in November 2022.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "SINGAPORE: Facial recognition gantries are being tested at Punggol Coast MRT station in a closed trial involving public sector officers, the Land Transport Authority (LTA) said on Tuesday (Aug 4).",
+      "CNA observed the gantries during a visit to the station, located in Singapore's first smart district, last Wednesday (Jul 29).",
+      "An LTA spokesperson told CNA the modified gantry is part of a trial of facial recognition technology for fare payment involving a \"selected group of LTA and other public officers\".",
+      "“Facial profiles of participants are linked to their SimplyGo cards, to enable them to enter and exit Punggol Coast MRT station via facial scan,” the spokesperson said.",
+      "“As this is an early technology trial, we have no plans to expand the trial at this time.”",
+      "Two priority-use gantries at the station had screens installed on top, CNA observed. These are wider fare gates meant for passengers travelling with strollers or bulky items, and those on personal mobility aids.",
+      "A light blue \"facial recognition detection zone\" with footprint markings was marked out in front of each gantry, guiding users to step inside before instructions on the screens prompt them to look at the camera.",
+      "Station staff said the setup was installed about a week before CNA's visit."
     ]
   },
   "mom": {
@@ -47,263 +57,259 @@
   },
   "lifeVocab": [
     {
-      "en": "tap out",
-      "cn": "刷卡出站",
-      "def": "to press a transit card or mobile device against a reader when exiting a station",
-      "ex": "Remember to tap out at the gantry to avoid being charged a maximum fare.",
-      "emoji": "💳"
-    },
-    {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "a person who travels some distance to work on a regular basis",
-      "ex": "Thousands of commuters pack into the North-South Line during the morning rush hour.",
+      "en": "commute",
+      "cn": "通勤",
+      "def": "to travel some distance to work on a regular basis",
+      "ex": "My daily commute from Tampines to Jurong East takes about an hour.",
       "emoji": "🚇"
-    },
-    {
-      "en": "gantry",
-      "cn": "闸机",
-      "def": "the automatic gate where passengers tap their transit cards to enter or exit",
-      "ex": "Please queue up and have your EZ-Link card ready before reaching the gantry.",
-      "emoji": "🚧"
-    },
-    {
-      "en": "interchange",
-      "cn": "换乘站",
-      "def": "a transit station where passengers can switch to different train lines",
-      "ex": "Dhoby Ghaut is a major interchange connecting three different MRT lines.",
-      "emoji": "🔄"
-    },
-    {
-      "en": "platform screen doors",
-      "cn": "站台安全门",
-      "def": "sliding doors that separate the station platform from the train tracks for safety",
-      "ex": "Please stand behind the yellow line until the platform screen doors open.",
-      "emoji": "🚪"
     },
     {
       "en": "concourse",
       "cn": "大厅",
-      "def": "the open central area of a station where ticketing machines and passenger service centers are located",
-      "ex": "Let's meet at the concourse near the passenger service centre.",
-      "emoji": "🏢"
+      "def": "a large open area inside a station",
+      "ex": "Let's meet near the passenger service centre at the station concourse.",
+      "emoji": "🚉"
     },
     {
-      "en": "peak hour",
-      "cn": "高峰期",
-      "def": "the busiest times of day for travel, typically morning and evening",
-      "ex": "Train frequencies are significantly increased during peak hours to cope with the crowd.",
-      "emoji": "⏰"
+      "en": "gantry",
+      "cn": "闸机",
+      "def": "an entrance gate where you tap your fare card",
+      "ex": "Please have your EZ-Link card ready before reaching the gantry.",
+      "emoji": "🎫"
     },
     {
-      "en": "bridging bus",
+      "en": "shuttle",
       "cn": "接驳巴士",
-      "def": "free bus services deployed during train service disruptions to transport affected passengers",
-      "ex": "Bridging buses were quickly deployed when the East-West Line stalled.",
+      "def": "a vehicle that travels regularly between two places",
+      "ex": "When the train service was disrupted, free bridging shuttle buses were deployed.",
       "emoji": "🚌"
     },
     {
-      "en": "track fault",
-      "cn": "轨道故障",
-      "def": "a mechanical or electrical issue on the train tracks causing train delays",
-      "ex": "The delay on the Circle Line this morning was caused by a minor track fault.",
-      "emoji": "🛠️"
+      "en": "peak hour",
+      "cn": "高峰时段",
+      "def": "the busiest time of day for traffic or transit",
+      "ex": "Fares are slightly higher, and trains are much more crowded during peak hour.",
+      "emoji": "👥"
     },
     {
-      "en": "feeder service",
-      "cn": "支线/接驳服务",
-      "def": "a local bus service that transports passengers from residential areas to the nearest MRT station",
-      "ex": "I take a feeder service bus to get to the MRT station every morning because it's too hot to walk.",
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "a moving staircase",
+      "ex": "Stand on the left of the escalator to let others pass on the right.",
+      "emoji": "🪜"
+    },
+    {
+      "en": "feeder bus",
+      "cn": "支线巴士",
+      "def": "a local bus service that brings passengers to a main transit station",
+      "ex": "I usually take a feeder bus from my HDB block to the nearest MRT station.",
       "emoji": "🚍"
+    },
+    {
+      "en": "interchange",
+      "cn": "中转站/交通枢纽",
+      "def": "a station where passengers can change transit lines",
+      "ex": "Dhoby Ghaut is a major interchange connecting three MRT lines.",
+      "emoji": "🔄"
+    },
+    {
+      "en": "transit",
+      "cn": "运输/过境",
+      "def": "the carrying of people or goods from one place to another",
+      "ex": "Singapore's public transit system is highly regarded for its efficiency.",
+      "emoji": "🚆"
+    },
+    {
+      "en": "top-up",
+      "cn": "充值",
+      "def": "to add money to a card or account to increase the balance",
+      "ex": "I need to top up my SimplyGo card at the ticketing machine.",
+      "emoji": "💳"
     }
   ],
   "levelVocab": [
     {
-      "w": "vigilant",
-      "ipa": "/ˈvɪdʒ.ɪ.lən t/",
-      "pos": "adj.",
-      "cn": "警惕的",
-      "def": "keeping careful watch for possible danger or difficulties",
-      "ex": "We must remain vigilant against potential cybersecurity breaches in our regional database."
-    },
-    {
-      "w": "sceptical",
-      "ipa": "/ˈskep.tɪ.kəl/",
-      "pos": "adj.",
-      "cn": "怀疑的",
-      "def": "not easily convinced; having doubts or reservations",
-      "ex": "Management was sceptical about the proposed timeline and requested a more realistic schedule."
-    },
-    {
-      "w": "amplify",
-      "ipa": "/ˈæm.plɪ.faɪ/",
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
       "pos": "v.",
-      "cn": "放大、增强",
-      "def": "increase the strength of something, or make it more intense",
-      "ex": "Social media can quickly amplify customer complaints, making reputation management critical."
-    },
-    {
-      "w": "repercussion",
-      "ipa": "/ˌriː.pəˈkʌʃ.ən/",
-      "pos": "n.",
-      "cn": "后果、反响",
-      "def": "an unintended consequence of an event or action, especially an unwelcome one",
-      "ex": "The sudden policy shift had immediate repercussions for cross-border logistics."
+      "cn": "散播，宣传",
+      "def": "to spread information, knowledge, or ideas widely",
+      "ex": "The ministry will disseminate the new guidelines to local businesses next week."
     },
     {
       "w": "deviate",
       "ipa": "/ˈdiː.vi.eɪt/",
       "pos": "v.",
-      "cn": "偏离",
-      "def": "depart from an established course or accepted standard",
-      "ex": "The team was instructed not to deviate from the agreed safety protocols."
+      "cn": "偏离，背离",
+      "def": "to depart from an established course, plan, or standard",
+      "ex": "We must not deviate from the agreed safety protocol during the operations."
     },
     {
-      "w": "facilitate",
-      "ipa": "/fəˈsɪl.ɪ.teɪt/",
-      "pos": "v.",
-      "cn": "促进、使便利",
-      "def": "make an action or process easy or easier",
-      "ex": "The new project management tool is designed to facilitate smoother collaboration across teams."
-    },
-    {
-      "w": "imminent",
-      "ipa": "/ˈɪm.ɪ.nənt/",
+      "w": "commensurate",
+      "ipa": "/kəˈmen.sjər.ət/",
       "pos": "adj.",
-      "cn": "即将发生的",
-      "def": "about to happen; fast approaching",
-      "ex": "The HR department announced that a major restructuring of the department is imminent."
+      "cn": "相称的，相当的",
+      "def": "corresponding in size, degree, or proportion",
+      "ex": "Salary will be highly competitive and commensurate with your experience."
     },
     {
-      "w": "disrupt",
-      "ipa": "/dɪsˈrʌpt/",
+      "w": "imperative",
+      "ipa": "/ɪmˈper.ə.tɪv/",
+      "pos": "adj.",
+      "cn": "极其重要的，迫切的",
+      "def": "extremely important or urgent; needing immediate action",
+      "ex": "It is imperative that we address the system glitch before the system goes live."
+    },
+    {
+      "w": "preclude",
+      "ipa": "/prɪˈkluːd/",
       "pos": "v.",
-      "cn": "中断、扰乱",
-      "def": "drastically alter or destroy the structure of something",
-      "ex": "Innovative startups continue to disrupt traditional banking sectors with digital wallets."
+      "cn": "排除，防止",
+      "def": "to prevent something from happening or make it impossible",
+      "ex": "Signing this non-disclosure agreement does not preclude you from working in the sector."
     },
     {
-      "w": "aspirant",
-      "ipa": "/ˈæsp.ɪ.rənt/",
-      "pos": "n.",
-      "cn": "有抱负的人",
-      "def": "a person who has ambitions to achieve something",
-      "ex": "The city-state is nurturing a new crop of tech aspirants through generous national subsidies."
+      "w": "salient",
+      "ipa": "/ˈseɪ.li.ənt/",
+      "pos": "adj.",
+      "cn": "显著的，主要的",
+      "def": "most noticeable, important, or prominent",
+      "ex": "Let me highlight the most salient features of our proposed budget."
     },
     {
-      "w": "oversight",
-      "ipa": "/ˈəʊ.və.saɪt/",
+      "w": "vanguard",
+      "ipa": "/ˈvæn.ɡɑːd/",
       "pos": "n.",
-      "cn": "监督",
-      "def": "the action of overseeing something, or supervision",
-      "ex": "The board of directors provides financial oversight to ensure regulatory compliance."
+      "cn": "前沿，先锋",
+      "def": "a group of people leading the way in new developments or ideas",
+      "ex": "The local tech firm is at the vanguard of regional artificial intelligence research."
+    },
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
+      "pos": "v.",
+      "cn": "提高，增大",
+      "def": "to increase the size, value, or strength of something by adding to it",
+      "ex": "We decided to augment our existing team with two temporary consultants."
+    },
+    {
+      "w": "arbitrary",
+      "ipa": "/ˈɑː.bɪ.trər.i/",
+      "pos": "adj.",
+      "cn": "随意的，专断的",
+      "def": "based on random choice or personal whim, rather than any reason or system",
+      "ex": "The decision to suspend the project felt arbitrary to many team members."
+    },
+    {
+      "w": "pervasive",
+      "ipa": "/pəˈveɪ.sɪv/",
+      "pos": "adj.",
+      "cn": "无处不在的，遍布的",
+      "def": "spreading widely throughout an area, group, or system",
+      "ex": "Smart technology has a pervasive influence on daily life in modern smart cities."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Driving AI Adoption in Singapore's SMEs",
-    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈsel.ə.reɪ.tɪŋ/ (v.) speeding up the progress or occurrence of something — 加速\">accelerating</span> its efforts to integrate artificial intelligence across small and medium-sized enterprises. The government recently unveiled new grants to help local <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɑːt.lænd/ (n.) residential suburban areas in Singapore, typically public housing estates — 邻里/心带\">heartland</span> shops digitalise their daily operations. While many business owners welcome the funding, some still express concerns over the steep learning curve. Observers suggest that <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈteɪ.ləd/ (adj.) specially made or adapted for a particular purpose — 量身定制的\">tailored</span> training programmes will be key to bridging this digital divide."
+    "title": "Solar energy push in Singapore's public housing estates",
+    "transcript": "Singapore is stepping up its green transition by installing solar panels across thousands of HDB blocks. Under the SolarNova programme, the country aims to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɑː.nɪs/ (v.) to control and use the natural force or power of something — 治理，利用（自然力）\">harness</span> clean energy to power common services like lifts and corridor lights. While land <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kənˈstreɪnts/ (n. plural) limitations or restrictions that restrict activity — 限制，约束\">constraints</span> remain a hurdle, local engineers are finding innovative ways to maximise efficiency, turning concrete rooftops into clean energy generators."
   },
   "economistArticle": {
-    "title": "The Frugal Frontier: How China Wins Better Bang for Its Buck in AI",
+    "title": "How China gets better bang for its buck than America in AI",
     "paras": [
-      "<span class=\"gem\">While Silicon Valley dominates global headlines with massive capital injections into compute-heavy large language models, China is quietly charting a different, more resource-efficient path.</span> The sheer volume of venture capital flowing into American AI startups dwarfs Beijing’s investments. Yet, Chinese developers are proving that financial <span class=\"voc\">profligacy</span> is not the only route to algorithmic sophistication.",
-      "This <span class=\"voc\">disparity</span> in spending highlights a fundamental strategic <span class=\"voc\">divergence</span>. American tech giants are engaged in a <span class=\"voc\">brute-force</span> arms race, buying up advanced Nvidia chips and consuming vast pools of electricity to train ever-larger models. Conversely, Chinese firms, constrained by Western export restrictions on hardware, have had to innovate under pressure. They are focus-building smaller, highly optimised models designed to run efficiently on less powerful silicon, maximizing their computational output per dollar spent.",
-      "Pragmatism dictates this <span class=\"voc\">frugality</span>. In China, the immediate goal of AI development is not the pursuit of artificial general intelligence, but rather the rapid commercial application of existing tech. From automated smart factories in Shenzhen to hyper-efficient logistics networks in Hangzhou, AI is treated as a practical utility rather than a <span class=\"voc\">speculative</span> scientific frontier. This application-first approach yields immediate commercial dividends and practical data loops, which in turn feed back into model refinement.",
-      "Moreover, Chinese open-source communities are rapidly <span class=\"voc\">democratising</span> these efficient models. By focusing on fine-tuning techniques like Low-Rank Adaptation and quantization, developers can run sophisticated models on standard consumer hardware. This bottom-up innovation reduces the entry barriers for smaller enterprises, fostering a vibrant ecosystem that does not rely on multi-billion-dollar sovereign wealth funds or tech <span class=\"voc\">conglomerates</span>.",
-      "To be sure, America’s deep pockets and cutting-edge research facilities still give it a <span class=\"voc\">formidable</span> edge in raw technological breakthroughs. However, capital efficiency is a metric that investors cannot ignore forever. <span class=\"gem\">As the initial AI hype cycle matures into a demand for sustainable business models, China’s ability to <span class=\"voc\">extract</span> immense utility from modest resources may well redefine the economics of global technology competition.</span>"
+      "There is a staggering financial divide opening up in the race for artificial intelligence. In Silicon Valley, tech giants like Microsoft, Google, and Meta are pouring tens of billions of dollars into massive data centres and high-end graphics processing units (GPUs). Across the Pacific, Chinese firms operate under severe capital constraints and strict US export controls on advanced hardware. Yet, despite these heavy <span class=\"voc\">headwinds</span>, Chinese AI developers are achieving remarkable efficiencies, demonstrating that sheer financial muscle is not the only path to progress.",
+      "This <span class=\"voc\">frugality</span> is born of necessity. Deprived of Nvidia's most advanced chips, Chinese companies have had to optimise their software stacks to squeeze every drop of performance from older or domestic hardware. Instead of simply building larger and more compute-intensive models, researchers in Beijing and Shenzhen are focusing on algorithmic refinement, parameter efficiency, and specialized narrow-application models. They are proving that clever engineering can compensate for a lack of cutting-edge silicon.",
+      "The <span class=\"voc\">divergence</span> in strategy also reflects different market environments. In America, venture capitalists fund <span class=\"voc\">speculative</span>, general-purpose frontier models, chasing the dream of Artificial General Intelligence (AGI). In China, the focus is stubbornly pragmatic, directed towards immediate commercial viability in industrial automation, smart logistics, and localized consumer applications. This targeted approach dramatically lowers the marginal cost of deployment, making AI more accessible to local industries.",
+      "Furthermore, China possesses an <span class=\"voc\">unparalleled</span> advantage in data variety and engineering talent. Its dense urban ecosystems and deeply integrated digital payments infrastructure generate rich, real-world data pipelines. This allows developers to fine-tune pre-existing open-source models at a fraction of the cost required to train a <span class=\"voc\">foundational</span> model from scratch, effectively bypassing the expensive initial research and development phase.",
+      "<span class=\"gem\">While America still holds the crown for breakthrough innovations, China’s hyper-efficient <span class=\"voc\">iteration</span> loop suggests that the future of AI may not be won solely by the deepest pockets.</span> Capital efficiency, rather than brute computational scale, could become the <span class=\"voc\">decisive</span> factor in global adoption. If Chinese firms can deliver ninety percent of the utility of US models at ten percent of the cost, they will dominate emerging markets where affordability is paramount."
     ],
-    "cn": "尽管硅谷因向计算密集型大语言模型注入巨额资金而占据全球头条，但中国正默默开辟一条截然不同、且更具资源效率的道路。流向美国人工智能初创公司的风险投资总量让北京的投资相形见绌。然而，中国的开发人员正在证明，资金挥霍并非通往算法精细化的唯一途径。\n\n这种消费上的差距凸显了战略上的根本分歧。美国科技巨头正处于一场“暴力破解”式的军备竞赛中，他们抢购先进的英伟达芯片，并消耗大量电力来训练体量更大的模型。相反，由于面临西方对硬件的出口限制，中国企业不得不在压力下进行创新。他们专注于构建体量更小、高度优化的模型，旨在让其在性能稍逊的芯片上高效运行，从而最大化每美元的计算输出。\n\n务实主义决定了这种节俭。在中国，人工智能发展的直接目标并不是追求通用人工智能（AGI），而是将现有技术迅速进行商业应用。从深圳的自动化智能工厂到杭州的高效物流网络，人工智能被视为一种实用的工具，而非投机性的科学前沿。这种“应用优先”的方法带来了立竿见影的商业红利和实用的数据闭环，进而反哺模型的优化。\n\n此外，中国的开源社区正在迅速普及这些高效的模型。通过专注于低秩适应（LoRA）和量化等微调技术，开发人员可以在普通的消费级硬件上运行复杂的模型。这种自下而上的创新降低了中小企业的准入门槛，培育了一个不依赖于数百亿美元主权财富基金或科技巨头的活力生态系统。\n\n当然，美国雄厚的财力和尖端的研发设施使其在原始技术突破中仍拥有巨大优势。然而，资本效率是投资者永远无法忽视的指标。随着最初的人工智能炒作周期走向成熟、市场转而追求可持续的商业模式，中国从有限资源中榨取巨大效能的能力，很可能会重新定义全球科技竞争的经济学。",
+    "cn": "在人工智能的竞争中，一条惊人的资金鸿沟正在拉开。在硅谷，微软、谷歌和Meta等科技巨头正将数百亿美元投入庞大的数据中心和高端图形处理器（GPU）。而在太平洋彼岸，中国企业则在严峻的资金限制以及美国对先进硬件的严格出口管制下运营。然而，尽管面临这些沉重的逆风，中国的人工智能开发商正在实现令人瞩目的效率，这证明了纯粹的资金实力并非实现进步的唯一途径。\n\n这种节俭源于必要性。由于无法获得英伟达最先进的芯片，中国公司不得不优化其软件栈，以便从较旧或国产的硬件中挤出每一分性能。北京和深圳的研究人员并没有简单地构建更大、更耗费计算资源的模型，而是将重点放在算法精炼、参数效率和专门的窄域应用模型上。他们正在证明，聪明的工程设计可以弥补顶尖芯片的不足。\n\n战略上的分歧也反映了不同的市场环境。在美国，风险投资家资助具有投机性的通用前沿模型，追逐通用人工智能（AGI）的梦想。在中国，重点则异常务实，直指工业自动化、智能物流和本地化消费应用中的即时商业可行性。这种针对性的方法极大地降低了部署的边际成本，使本地产业更容易获得人工智能。\n\n此外，中国在数据多样性和工程人才方面拥有无与伦比的优势。其密集的城市生态系统和深度整合的数字支付基础设施产生了丰富的真实世界数据管线。这使得开发人员能够以从头训练基础模型所需成本的一小部分，对现有的开源模型进行微调，从而有效地绕过了昂贵的初始研发阶段。\n\n虽然美国在突破性创新方面仍占据皇冠，但中国超高效的迭代循环表明，人工智能的未来可能不会仅仅由资金最雄厚的人赢得。资本效率，而非粗暴的计算规模，可能会成为全球采纳的决定性因素。如果中国企业能够以10%的成本提供美国模型90%的效用，他们将在价格敏感性至关重要的潜在新兴市场中占据主导地位。",
     "vocab": [
-      {
-        "w": "profligacy",
-        "ipa": "/ˈprɒf.lɪ.ɡə.si/",
-        "pos": "n.",
-        "mean": "挥霍、浪费",
-        "def": "reckless extravagance or wastefulness",
-        "ex": "American startups are known for their financial profligacy during market booms."
-      },
-      {
-        "w": "disparity",
-        "ipa": "/dɪsˈpær.ə.ti/",
-        "pos": "n.",
-        "mean": "差距、不一致",
-        "def": "a great difference, especially one that is unfair or unexpected",
-        "ex": "The growing disparity in funding between the two sectors is cause for concern."
-      },
-      {
-        "w": "divergence",
-        "ipa": "/daɪˈvɜː.dʒəns/",
-        "pos": "n.",
-        "mean": "分歧、差异",
-        "def": "a situation in which two or more things become different",
-        "ex": "A clear strategic divergence has emerged between Western and Asian tech firms."
-      },
-      {
-        "w": "brute-force",
-        "ipa": "/ˌbruːt ˈfɔːs/",
-        "pos": "adj.",
-        "mean": "暴力破解的、蛮力的",
-        "def": "relying on sheer strength or rapid repetition rather than intelligent design",
-        "ex": "Training models on raw computing power alone is a brute-force approach."
-      },
       {
         "w": "frugality",
         "ipa": "/fruːˈɡæl.ə.ti/",
         "pos": "n.",
-        "mean": "节约、俭省",
-        "def": "the quality of being economical with resources or money",
-        "ex": "Resource constraints have forced a culture of frugality upon local developers."
+        "mean": "节俭，俭省",
+        "def": "the quality of being economical with money or food; thriftiness",
+        "ex": "This frugality is born of necessity in the face of strict budget limits."
+      },
+      {
+        "w": "headwinds",
+        "ipa": "/ˈhed.wɪndz/",
+        "pos": "n. plural",
+        "mean": "逆风，阻力",
+        "def": "forces that limit or delay progress",
+        "ex": "Despite these heavy headwinds, the startup managed to expand its market share."
       },
       {
         "w": "speculative",
         "ipa": "/ˈspek.jə.lə.tɪv/",
         "pos": "adj.",
-        "mean": "投机性的、推测的",
-        "def": "engaged in, expressing, or based on conjecture rather than knowledge",
-        "ex": "Much of the funding in early-stage tech remains highly speculative."
+        "mean": "投机性的，推测的",
+        "def": "involving a high risk of loss but also the possibility of high profit",
+        "ex": "In America, venture capitalists fund speculative, general-purpose frontier models."
       },
       {
-        "w": "democratising",
-        "ipa": "/dɪˈmɒk.rə.taɪ.zɪŋ/",
-        "pos": "v.",
-        "mean": "民主化、使普及",
-        "def": "making something accessible to everyone",
-        "ex": "Open-source software is democratising access to advanced machine learning tools."
-      },
-      {
-        "w": "conglomerates",
-        "ipa": "/kənˈɡlɒm.ər.əts/",
+        "w": "divergence",
+        "ipa": "/daɪˈvɜː.dʒəns/",
         "pos": "n.",
-        "mean": "企业集团",
-        "def": "large corporations made up of several different companies",
-        "ex": "Tech conglomerates dominate the digital advertising landscape."
+        "mean": "分歧，差异",
+        "def": "the process or state of dividing or separating; a difference in opinion or approach",
+        "ex": "The divergence in strategy between the two partners eventually led to a split."
       },
       {
-        "w": "formidable",
-        "ipa": "/fɔːˈmɪd.ə.bəl/",
+        "w": "unparalleled",
+        "ipa": "/ʌnˈpær.əl.eld/",
         "pos": "adj.",
-        "mean": "强大的、令人敬畏的",
-        "def": "inspiring fear or respect through being impressively large or powerful",
-        "ex": "The incumbent company possesses a formidable market share in local logistics."
+        "mean": "无双的，无比的",
+        "def": "having no equal; exceptional and unmatched",
+        "ex": "Furthermore, China possesses an unparalleled advantage in real-world data collection."
       },
       {
-        "w": "extract",
-        "ipa": "/ɪkˈstrækt/",
+        "w": "bypass",
+        "ipa": "/ˈbaɪ.pɑːs/",
         "pos": "v.",
-        "mean": "提取、榨取",
-        "def": "obtain something from a source, especially with effort or difficulty",
-        "ex": "Engineers must find ways to extract maximum performance from limited hardware."
+        "mean": "绕过，避开",
+        "def": "to avoid or circumvent an obstacle or a complex process",
+        "ex": "By using open-source templates, we can bypass the expensive initial design phase."
+      },
+      {
+        "w": "decisive",
+        "ipa": "/dɪˈsaɪ.sɪv/",
+        "pos": "adj.",
+        "mean": "决定性的",
+        "def": "settling an issue; producing a definite and final result",
+        "ex": "Capital efficiency could become the decisive factor in global software adoption."
+      },
+      {
+        "w": "iteration",
+        "ipa": "/ˌɪt.ərˈeɪ.ʃən/",
+        "pos": "n.",
+        "mean": "迭代，反复",
+        "def": "the repetition of a process or development cycle to improve a product",
+        "ex": "The software is currently in its third iteration and runs much faster now."
+      },
+      {
+        "w": "constraint",
+        "ipa": "/kənˈstreɪnt/",
+        "pos": "n.",
+        "mean": "限制，约束",
+        "def": "a limitation or restriction that controls what you can do",
+        "ex": "Chinese firms operate under severe capital constraints compared to their US rivals."
+      },
+      {
+        "w": "foundational",
+        "ipa": "/faʊnˈdeɪ.ʃən.əl/",
+        "pos": "adj.",
+        "mean": "基础性的",
+        "def": "forming the base from which everything else develops",
+        "ex": "Training a foundational model from scratch requires immense computing power."
       }
     ],
     "gems": [
       {
-        "s": "While Silicon Valley dominates global headlines with massive capital injections into compute-heavy large language models, China is quietly charting a different, more resource-efficient path.",
-        "why": "This sentence uses a 'While X, Y' concessive clause structure to contrast two distinct approaches, setting a balanced yet critical tone. 句中运用了“While X, Y”让步状语从句结构，对两种截然不同的方法进行了对比，立刻为整篇文章奠定了客观而深刻的基调。"
-      },
-      {
-        "s": "As the initial AI hype cycle matures into a demand for sustainable business models, China’s ability to extract immense utility from modest resources may well redefine the economics of global technology competition.",
-        "why": "This sentence employs a predictive 'As X, Y' structure with strong, academic verbs, giving the conclusion an authoritative and analytical weight. 此句采用了预测性的“As X, Y”结构，并使用了如“matures”和“redefine”等强有力的学术性动词，使结论显得权威且极具分析深度。"
+        "s": "While America still holds the crown for breakthrough innovations, China’s hyper-efficient iteration loop suggests that the future of AI may not be won solely by the deepest pockets.",
+        "why": "This sentence uses a contrasting 'While' clause to establish a concession before delivering a strong, metaphorical counter-thesis ('won solely by the deepest pockets'), demonstrating a balanced argumentative structure. / 本句使用让步从句 'While' 建立对比，随后提出强有力的隐喻性反面论点（'并非仅由资金最雄厚者胜出'），展示了平衡且具有说服力的论证结构。"
       }
     ]
   }
