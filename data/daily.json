@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-06",
-  "generatedAt": "2026-08-06T10:17:38.377397+00:00",
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T05:55:41.657682+00:00",
   "economist": {
     "headline": "India’s IT sector is surviving artificial intelligence",
     "teaser": "Though the technology is making life still harder for many graduates",
@@ -19,307 +19,45 @@
     ]
   },
   "st": {
-    "headline": "StarHub to move all MyRepublic Mobile customers onto its network",
-    "teaser": "The move follows StarHub's acquisition of MyRepublic's broadband business in 2025.",
-    "url": "https://www.straitstimes.com/business/companies-markets/starhub-to-move-all-myrepublic-mobile-customers-onto-its-network",
+    "headline": "China exports in July beat forecasts on robust high-tech demand",
+    "teaser": "China’s exports expanded 23.9 per cent year on year in in July, with chip shipments almost doubling.",
+    "url": "https://www.straitstimes.com/business/economy/china-exports-in-july-beat-expectations-on-robust-high-tech-demand",
     "fullText": [
-      "SINGAPORE – StarHub will move all of MyRepublic’s 4G and 5G customers onto its network, expanding its share in the Singapore consumer mobile market.",
-      "Announced by StarHub on Aug 6, the agreement builds on the two companies’ existing mobile virtual network operator (MVNO) 5G partnership established in 2022.",
-      "An MVNO is a mobile service provider that does not own any physical network infrastructure.",
-      "It also comes after StarHub completed its acquisition of MyRepublic’s broadband business in August 2025, when it bought the remaining 49.9 per cent stake for $105.2 million. StarHub had acquired an initial 50.1 per cent stake in 2022.",
-      "The latest move will involve moving MyRepublic’s 4G customers to StarHub’s network from M1’s.",
-      "MyRepublic had been leasing its 4G mobile network from M1 since Sept 2020.",
-      "Both telcos did not disclose how many customers would be affected by the deal, or when the transition would be completed, but noted that customers will be contacted by MyRepublic’s customer service team to ensure a smooth network transition.",
-      "In a statement, StarHub chief executive Nikhil Eapen, who will be stepping down at the end of the year, said the new partnership with MyRepublic further extends the telco’s “already significant lead in revenue market share as Singapore’s strong number two mobile operator”.",
-      "Chief of consumer business group and CEO-designate Matt Williams said: “As the market continues to evolve, we’ll continue to pursue opportunities that strengthen our business.”",
-      "MyRepublic will be the second MVNO in as many months to make a network switch.",
-      "On June 30, MVNO redONE – which was operating on StarHub’s network – ceased operations. Existing customers were encouraged to switch to StarHub’s low-cost subsidiary eight.",
-      "StarHub’s announcement also comes after M1-controlling shareholder Keppel said at its results briefing on July 30 that it is overhauling the telco. This is targeted to cut $70 million in annual costs by 2028 and position the telco for future industry consolidation.",
-      "Keppel had been nearing a deal to divest M1’s telecommunications business to Simba Telecom for $1.4 billion, but the move collapsed after Tuas Ltd – the Australian-listed parent company of Simba – said in May that it had terminated an agreement to acquire M1."
+      "BEIJING – China’s exports beat expectations in July, remaining a key pillar of economic growth for the manufacturing powerhouse, as the global AI infrastructure build-out continued to power demand for high-tech goods.",
+      "The world’s second-largest economy has been relying on external demand to sustain growth amid tepid domestic consumption and an investment downturn, but that reliance also exposes risks, as trading partners may step up protectionism in an uncertain global environment due to the Iran war.",
+      "China’s exports expanded 23.9 per cent year on year in US dollar value terms in July, customs data showed on Aug 7, slowing from a 27 per cent surge the previous month and compared with a 22.2 per cent rise forecast in a Reuters poll.",
+      "Imports were up 27.5 per cent from July 2025, slowing from the 36 per cent jump in June and were in line with an expected 27.9 per cent gain.",
+      "Exports of semiconductors almost doubled in value terms year on year, and overall high-tech products exports expanded 40.7 per cent, customs data showed.",
+      "Those of ceramics slumped 28.3 per cent, in a further sign of the economy’s uneven development where advanced manufacturers ride the artificial intelligence boom but more traditional industries struggle due to limited demand.",
+      "In a meeting in late July, China’s top decision-makers called for a faster transition from old growth drivers to new ones, signalling priority on high-tech sectors.",
+      "China’s economy grew 4.7 per cent in the first half of 2026, keeping it broadly on track to meet Beijing’s official full-year growth target of 4.5 to 5 per cent, but growth slowed to 4.3 per cent in the second quarter as weak consumption and investment clouded strong manufacturing and exports.",
+      "The trade surplus narrowed to US$112.5 billion (S$144.4 billion) in July from US$125.62 billion in June.",
+      "Chinese officials have repeatedly pledged to expand imports and promote balanced trade, yet the country’s trade surplus, on track to top US$1 trillion for a second year, continued to unnerve trading partners concerned about disruptions to their own domestic industries.",
+      "The European Union has been weighing tougher measures to curb its trade deficit with China, while Beijing’s ties with Washington have shown signs of strain as they hit each other with trade restrictions and other measures ahead of an expected leaders’ summit in September.",
+      "With exports booming and factories humming, policymakers may feel more comfortable delaying policies to boost household income and strengthen social security systems to address entrenched weakness in domestic demand.",
+      "Macquarie analysts said Beijing’s policy support for domestic consumption and the property market would remain restrained as long as exports and manufacturing could help the economy achieve policymakers’ annual growth target. REUTERS"
     ]
   },
   "cna": {
-    "headline": "US requests Filipino pastor's extradition on sex charges",
-    "teaser": "US requests Filipino pastor's extradition on sex charges",
-    "url": "https://www.channelnewsasia.com/asia/us-requests-extradition-apollo-quiboloy-sex-charges-6303471",
+    "headline": "Japan set for third quarter of growth on solid domestic demand: Reuters poll",
+    "teaser": "Japan set for third quarter of growth on solid domestic demand: Reuters poll",
+    "url": "https://www.channelnewsasia.com/business/japan-set-third-quarter-growth-solid-domestic-demand-reuters-poll-6305546",
     "fullText": [
-      "MANILA: The United States has formally requested the extradition of a Filipino pastor wanted on sex-trafficking charges, the Philippines' ambassador to Washington said on Thursday (Aug 6).",
-      "Apollo Quiboloy , a self-proclaimed \"Appointed Son of God\" and ally of former President Rodrigo Duterte, was arrested in the Philippines in 2024 on human-trafficking charges.",
-      "He faces life in prison if found guilty in the case, which accuses him of using women and child sect members to sell goods and raise funds for his church.",
-      "Quiboloy, who pleaded not guilty shortly after his August 2024 arrest, has been held in a Manila jail ever since.",
-      "The 2021 US indictment alleges girls and women between the ages of 12 and 25 were recruited as personal assistants for Quiboloy to prepare his meals, clean his residence, give him massages and have sex with him.",
-      "On Thursday, Ambassador Jose Manuel Romualdez told AFP the US had formally asked for the pastor to be handed over.",
-      "\"The formal request has been transmitted to the Dept of Justice,\" he said via text message, without providing further detail.",
-      "The US Embassy and the Philippine Department of Justice did not reply immediately to requests for comment.",
-      "Quiboloy was allowed to run for Senate in the country's 2025 midterm elections despite his incarceration and garnered 5,667,438 votes.",
-      "Police said following his arrest that Quiboloy's alleged victims were told they were having sex with the \"Spirit of God\" and were threatened not to tell anyone on pain of being hunted down by \"angels of death\".",
-      "Quiboloy's Kingdom of Jesus Christ church said at the time that members had \"freedom of choice\" and thus \"anything that happens to you ... is your own voluntary will or choice\".",
-      "The powerful sect claims millions of followers in the mainly Catholic Asian nation and owns a television network.",
-      "Philippine President Ferdinand Marcos said in 2024 that the government was not yet looking to extradite Quiboloy because it was \"focusing on the cases filed in the Philippines\".",
-      "An automated curation of our top stories to start your day."
+      "TOKYO, Aug 7 : Japan's economy is expected to have expanded for a third straight quarter in April-June, as solid domestic demand and a decline in imports offset headwinds from the Middle East conflict, a Reuters poll showed on Friday.",
+      "• Gross domestic product (GDP) in real terms likely expanded an annualised 2.0 per cent in the second quarter, according to the median forecast of 15 economists, after a 1.8 per cent expansion in January-March.",
+      "• The April-June growth rate was estimated at 0.5 per cent against the previous three months.",
+      "• Analysts said private consumption and capital investment remained firm, helped by government measures to ease cost-of-living pressures and progress in securing alternative energy supplies, even as the U.S.-Israeli war with Iran pushed up raw material prices and disrupted supply chains.",
+      "• Junpei Fujita, a senior analyst at Mitsubishi UFJ Research and Consulting, said the contribution from external demand is expected to have been significantly positive, reflecting a temporary upward swing in service exports and a decline in imports, mainly mineral fuels.",
+      "• \"Overall, the figures are likely to confirm that the economy continued to recover gradually. However, the prolonged confrontation between the United States and Iran remains a source of concern going forward,\" Fujita said.",
+      "• Private consumption, which accounts for more than half of Japan's GDP, is expected to have grown 0.5 per cent. Capital expenditure was seen growing 0.4 per cent, bouncing back from the previous quarter's 0.7 per cent contraction.",
+      "• Net external demand, or exports minus imports, probably added 0.3 per centage points to GDP growth, after its contribution increased 0.3 per centage points in the previous quarter.",
+      "• The government will release preliminary April-June GDP data on August 17 at 8:50 a.m. (2350 GMT on August 16).",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
-    "headline": "Enhanced Primary Care Plan brings healthcare closer to migrant workers while lowering or maintaining costs for almost all employers",
-    "teaser": "The Ministry of Manpower (MOM) has appointed four Anchor Operators (AOs) to deliver the enhanced Primary Care Plan (PCP) for migrant workers from 1 April 2027 1 . The enhanced PCP will bring clinics closer to migrant workers, provide an affordable and standardised co-payment of $5 per consultation for physical clinic c",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0806-enhanced-primary-care-plan-appointment-of-new-aos"
-  },
-  "lifeVocab": [
-    {
-      "en": "tap in / tap out",
-      "cn": "刷卡进站/出站",
-      "def": "To press a contactless card or mobile device against a reader to pay for a journey",
-      "ex": "Remember to tap out when you exit the MRT station so you don't get charged the maximum fare.",
-      "emoji": "💳"
-    },
-    {
-      "en": "concession card",
-      "cn": "优惠卡",
-      "def": "A public transport card that offers cheaper fares for students, seniors, or eligible groups",
-      "ex": "Elderly commuters in Singapore can apply for a senior citizen concession card to enjoy discounted rides.",
-      "emoji": "🎫"
-    },
-    {
-      "en": "peak hour",
-      "cn": "高峰期",
-      "def": "The busy times of the day when many people are travelling to or from work",
-      "ex": "During peak hour, the East-West line trains can get incredibly crowded.",
-      "emoji": "⏰"
-    },
-    {
-      "en": "feeder bus",
-      "cn": "接驳巴士",
-      "def": "A bus service that carries passengers short distances to a main transport hub like an MRT station",
-      "ex": "I usually take a feeder bus from my HDB block to the interchange.",
-      "emoji": "🚌"
-    },
-    {
-      "en": "passenger service centre",
-      "cn": "乘客服务中心",
-      "def": "A designated counter at MRT stations where commuters can ask for help or top up travel cards",
-      "ex": "If your card has an error, you can head over to the passenger service centre for assistance.",
-      "emoji": "💁"
-    },
-    {
-      "en": "escalator",
-      "cn": "自动扶梯",
-      "def": "A moving staircase that carries people between different levels of a building or station",
-      "ex": "In Singapore, it is common practice to stand on the left side of the escalator and walk on the right.",
-      "emoji": "🪜"
-    },
-    {
-      "en": "transit",
-      "cn": "中转/换乘",
-      "def": "The act of passing through a place on the way to a final destination",
-      "ex": "Dhoby Ghaut is a major transit station where three MRT lines intersect.",
-      "emoji": "🔄"
-    },
-    {
-      "en": "commute",
-      "cn": "通勤",
-      "def": "To travel some distance between one's home and place of work on a regular basis",
-      "ex": "My daily commute to the office in Raffles Place takes about forty-five minutes.",
-      "emoji": "🚇"
-    },
-    {
-      "en": "platform screen doors",
-      "cn": "站台安全屏蔽门",
-      "def": "Glass doors that separate the station platform from the train tracks for safety",
-      "ex": "The platform screen doors will only open once the train has completely stopped.",
-      "emoji": "🚪"
-    },
-    {
-      "en": "priority seat",
-      "cn": "关怀座/专座",
-      "def": "A seat on public transport reserved for those who need it most, such as the elderly or pregnant women",
-      "ex": "She immediately stood up to offer her priority seat to the pregnant lady who boarded the train.",
-      "emoji": "👵"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
-      "pos": "v.",
-      "cn": "传播/宣传",
-      "def": "To spread information, knowledge, or ideas widely",
-      "ex": "The human resources department will disseminate the new remote-work guidelines tomorrow morning."
-    },
-    {
-      "w": "pivotal",
-      "ipa": "/ˈpɪv.ə.təl/",
-      "pos": "adj.",
-      "cn": "关键的/极重要的",
-      "def": "Of crucial importance in relation to the development or success of something",
-      "ex": "Our client's feedback played a pivotal role in shaping the final product design."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "增加/提高",
-      "def": "To make something greater by adding to it; increase",
-      "ex": "The company decided to augment its customer service team to handle the holiday rush."
-    },
-    {
-      "w": "override",
-      "ipa": "/ˌəʊ.vəˈraɪd/",
-      "pos": "v.",
-      "cn": "推翻/凌驾",
-      "def": "To use authority to reject or cancel a decision, view, or automated signal",
-      "ex": "The manager chose to override the automated booking system to accommodate the VIP client."
-    },
-    {
-      "w": "conducive",
-      "ipa": "/kənˈdʒuː.sɪv/",
-      "pos": "adj.",
-      "cn": "有益的/有促进作用的",
-      "def": "Making a certain situation or outcome likely or possible",
-      "ex": "A quiet open-plan office is not always conducive to deep, focused analytical work."
-    },
-    {
-      "w": "divergent",
-      "ipa": "/daɪˈvɜː.dʒənt/",
-      "pos": "adj.",
-      "cn": "分歧的/不同的",
-      "def": "Tending to be different or develop in different directions",
-      "ex": "The two departments had divergent opinions on how to allocate the annual marketing budget."
-    },
-    {
-      "w": "deviate",
-      "ipa": "/ˈdiː.vi.eɪt/",
-      "pos": "v.",
-      "cn": "偏离",
-      "def": "To depart from an established course, plan, or standard",
-      "ex": "We must not deviate from the agreed safety protocols during the laboratory test."
-    },
-    {
-      "w": "facilitate",
-      "ipa": "/fəˈsɪl.ɪ.teɪt/",
-      "pos": "v.",
-      "cn": "促进/使便利",
-      "def": "To make an action or process easy or easier",
-      "ex": "The new software program is designed to facilitate smoother communication between our regional offices."
-    },
-    {
-      "w": "impediment",
-      "ipa": "/ɪmˈped.ɪ.mənt/",
-      "pos": "n.",
-      "cn": "阻碍/障碍",
-      "def": "A hindrance or obstruction in doing something",
-      "ex": "The lack of reliable high-speed internet is a major impediment to rural business growth."
-    },
-    {
-      "w": "spearhead",
-      "ipa": "/ˈspɪə.hed/",
-      "pos": "v.",
-      "cn": "带头/先锋",
-      "def": "To lead an attack, movement, or collective project",
-      "ex": "Diana was chosen to spearhead the firm’s new sustainability initiative in Southeast Asia."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore's HDB Estates Go Green with Solar Panels",
-    "transcript": "Singapore's Housing and Development Board is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈræmpɪŋ ʌp/ (v. phr.) to increase or boost activity, production, or speed — 逐步增加/加强\">ramping up</span> solar panel installations across thousands of blocks island-wide. This initiative aims to power common services like lifts and lights purely through renewable energy. Residents are generally supportive of these <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/səˌsteɪnəˈbɪləti/ (n.) the quality of being able to continue over a period of time without harming the environment — 可持续性\">sustainability</span> measures, although some express concerns about the initial maintenance costs."
-  },
-  "economistArticle": {
-    "title": "The Digital Shield: How India's Tech Giants are Weathering the AI Storm",
-    "paras": [
-      "For decades, India’s IT outsourcing firms have served as the back office of the global economy, <span class=\"voc\">churning out</span> lines of code and managing legacy databases for Western multinationals. When generative artificial intelligence burst onto the scene, many observers predicted a swift <span class=\"voc\">demise</span> for this labor-intensive business model. Skeptics argued that large language models would render entry-level software developers <span class=\"voc\">obsolete</span> overnight.",
-      "Yet, the anticipated collapse has not <span class=\"voc\">materialized</span>; instead, India’s tech titans are mounting a quiet counteroffensive. Major players like TCS, Infosys, and Wipro are rapidly retraining their massive workforces, <span class=\"voc\">pivoting</span> from routine maintenance to complex AI integration. Rather than replacing human programmers, AI is being utilized as a collaborative tool to increase speed and reduce <span class=\"voc\">turnaround</span> times.",
-      "Nonetheless, this technological shift is redefining the hiring landscape, creating a stark <span class=\"voc\">divergence</span> between top-tier talent and average graduates. While experienced software architects who can navigate neural networks are in high demand, ordinary coders who rely on basic scripting face dwindling opportunities. The barrier to entry has risen <span class=\"voc\">precipitously</span>, leaving many fresh university graduates stranded.",
-      "To survive, Indian service providers are moving up the value chain by offering <span class=\"voc\">proprietary</span> AI solutions tailored to specific industries. They are no longer just selling cheap labor; they are selling sophisticated digital transformation. This strategic transition requires a deep understanding of domain-specific challenges, from healthcare compliance to financial risk management.",
-      "<span class=\"gem\">Ultimately, the survival of India's IT sector hinges on its ability to evolve faster than the algorithms can displace it.</span> While the threat of automation remains acute, the sheer scale of global IT demand suggests that human oversight will remain <span class=\"voc\">indispensable</span>. The code of the future will be written by machines, but it will still need to be guided, audited, and secured by humans."
-    ],
-    "cn": "数十年来，印度的IT外包公司一直扮演着全球经济后台部门的角色，为西方跨国公司编写大量代码并管理遗留数据库。当生成式人工智能轰然问世时，许多观察家预测这种劳动密集型的商业模式将迅速消亡。怀疑论者认为，大语言模型将在一夜之间淘汰入门级软件开发人员。\n然而，预期的崩溃并未发生；相反，印度的科技巨头正在发起一场悄无声息的反攻。塔塔咨询服务（TCS）、Infosys和Wipro等大公司正在迅速重新培训其庞大的员工队伍，从常规维护转向复杂的AI整合。AI并没有取代人类程序员，而是被用作一种协作工具，以提高速度并缩短周转时间。\n尽管如此，这种技术转变正在重新定义招聘格局，在顶尖人才与普通毕业生之间制造了巨大的分歧。虽然能够驾驭神经网络的资深软件架构师需求旺盛，但依赖基础脚本的普通程序员却面临着日益减少的机会。入行门槛急剧上升，使许多刚毕业的大学毕业生陷入困境。\n为了生存，印度的服务商正在通过提供针对特定行业的专有AI解决方案，向价值链上游迈进。他们不再仅仅销售廉价劳动力，而是销售复杂的数字化转型。这一战略转型需要对特定领域的挑战有深刻的理解，从医疗合规到金融风险管理。\n归根结底，印度IT行业的生存取决于其进化速度是否能快于算法的淘汰速度。尽管自动化的威胁依然严峻，但全球IT需求的巨大规模表明，人类的监督仍将是不可或缺的。未来的代码将由机器编写，但仍需要人类进行引导、审计和保障安全。",
-    "vocab": [
-      {
-        "w": "churning out",
-        "ipa": "/ˈtʃɜːnɪŋ aʊt/",
-        "pos": "v. phr.",
-        "mean": "快速生产/大量生产",
-        "def": "To produce something automatically and in large quantities",
-        "ex": "The publication is churning out three cheap novels a week to satisfy the market demand."
-      },
-      {
-        "w": "demise",
-        "ipa": "/dɪˈmaɪz/",
-        "pos": "n.",
-        "mean": "终止/死亡",
-        "def": "The end or failure of an enterprise, concept, or system",
-        "ex": "The sudden rise of streaming services led to the demise of traditional video rental stores."
-      },
-      {
-        "w": "obsolete",
-        "ipa": "/ˈɒb.səl.iːt/",
-        "pos": "adj.",
-        "mean": "淘汰的/过时的",
-        "def": "No longer produced or used; out of date",
-        "ex": "With smartphone navigation becoming universal, paper maps have become nearly obsolete."
-      },
-      {
-        "w": "materialized",
-        "ipa": "/məˈtɪə.ri.ə.laɪzd/",
-        "pos": "v.",
-        "mean": "实现/具体化",
-        "def": "Become fact; happen or appear as expected",
-        "ex": "The rumored leadership shakeup within the company never materialized."
-      },
-      {
-        "w": "pivoting",
-        "ipa": "/ˈpɪv.ət.ɪŋ/",
-        "pos": "v.",
-        "mean": "转型/转向",
-        "def": "Changing direction, strategy, or focus rapidly to adapt to new environments",
-        "ex": "Many restaurants began pivoting to delivery-only models during the pandemic."
-      },
-      {
-        "w": "turnaround",
-        "ipa": "/ˈtɜːn.ə.raʊnd/",
-        "pos": "n.",
-        "mean": "周期/周转时间",
-        "def": "The time taken to complete a process, order, or request",
-        "ex": "By using automated tools, the design agency reduced its project turnaround time to three days."
-      },
-      {
-        "w": "divergence",
-        "ipa": "/daɪˈvɜː.dʒəns/",
-        "pos": "n.",
-        "mean": "差异/分歧",
-        "def": "The process or state of dividing or becoming different",
-        "ex": "A growing divergence in regional economic growth has worried policymakers."
-      },
-      {
-        "w": "precipitously",
-        "ipa": "/prɪˈsɪp.ɪ.təs.li/",
-        "pos": "adv.",
-        "mean": "急剧地",
-        "def": "Very suddenly and to a very great degree; steeply",
-        "ex": "Profit margins fell precipitously when raw material prices unexpectedly doubled."
-      },
-      {
-        "w": "proprietary",
-        "ipa": "/prəˈpraɪə.tər.i/",
-        "pos": "adj.",
-        "mean": "专有的/私有的",
-        "def": "Relating to an owner; held under patent or trademark protection",
-        "ex": "The technology firm developed a proprietary operating system that cannot be used by rivals."
-      },
-      {
-        "w": "indispensable",
-        "ipa": "/ˌɪn.dɪˈspen.sə.bəl/",
-        "pos": "adj.",
-        "mean": "不可或缺的",
-        "def": "Absolutely necessary; essential",
-        "ex": "An experienced secretary is indispensable to the smooth running of this busy law firm."
-      }
-    ],
-    "gems": [
-      {
-        "s": "Ultimately, the survival of India's IT sector hinges on its ability to evolve faster than the algorithms can displace it.",
-        "why": "This sentence uses the phrasal verb 'hinges on' to express complete dependency, combined with a dynamic comparative structure that pits human adaptability ('evolve faster') against machine progression ('displace it'). This creates a sense of urgency and balance. 这句话利用短语动词“hinges on”来表达完全的依赖性，结合了一个动态的比较结构，将人类的适应力（“evolve faster”）与机器的前进速度（“displace it”）对立起来，营造出一种紧迫感与平衡感。"
-      }
-    ]
+    "headline": "The National Wages Council Convenes to Develop Annual Guidelines",
+    "teaser": "1 The National Wages Council (NWC) will convene on 19 August 2026 to develop its annual guidelines on wage and employment-related issues (covering 1 December 2026 &ndash; 30 November 2027). The NWC is a tripartite body comprising representatives of employers, employees and the Government. The list of NWC 2026/2027 memb",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0807-convening-of-nwc-2627"
   }
 }
