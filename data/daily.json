@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-07",
-  "generatedAt": "2026-08-07T05:55:41.657682+00:00",
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T04:32:42.831654+00:00",
   "economist": {
     "headline": "India’s IT sector is surviving artificial intelligence",
     "teaser": "Though the technology is making life still harder for many graduates",
@@ -19,45 +19,305 @@
     ]
   },
   "st": {
-    "headline": "China exports in July beat forecasts on robust high-tech demand",
-    "teaser": "China’s exports expanded 23.9 per cent year on year in in July, with chip shipments almost doubling.",
-    "url": "https://www.straitstimes.com/business/economy/china-exports-in-july-beat-expectations-on-robust-high-tech-demand",
+    "headline": "S&P closes at record high as soft jobs report eases rate-hike concerns",
+    "teaser": "The Dow Jones Industrial Average rose 151.83 points, or 0.28 per cent, to 54,036.93.",
+    "url": "https://www.straitstimes.com/business/companies-markets/sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns",
     "fullText": [
-      "BEIJING – China’s exports beat expectations in July, remaining a key pillar of economic growth for the manufacturing powerhouse, as the global AI infrastructure build-out continued to power demand for high-tech goods.",
-      "The world’s second-largest economy has been relying on external demand to sustain growth amid tepid domestic consumption and an investment downturn, but that reliance also exposes risks, as trading partners may step up protectionism in an uncertain global environment due to the Iran war.",
-      "China’s exports expanded 23.9 per cent year on year in US dollar value terms in July, customs data showed on Aug 7, slowing from a 27 per cent surge the previous month and compared with a 22.2 per cent rise forecast in a Reuters poll.",
-      "Imports were up 27.5 per cent from July 2025, slowing from the 36 per cent jump in June and were in line with an expected 27.9 per cent gain.",
-      "Exports of semiconductors almost doubled in value terms year on year, and overall high-tech products exports expanded 40.7 per cent, customs data showed.",
-      "Those of ceramics slumped 28.3 per cent, in a further sign of the economy’s uneven development where advanced manufacturers ride the artificial intelligence boom but more traditional industries struggle due to limited demand.",
-      "In a meeting in late July, China’s top decision-makers called for a faster transition from old growth drivers to new ones, signalling priority on high-tech sectors.",
-      "China’s economy grew 4.7 per cent in the first half of 2026, keeping it broadly on track to meet Beijing’s official full-year growth target of 4.5 to 5 per cent, but growth slowed to 4.3 per cent in the second quarter as weak consumption and investment clouded strong manufacturing and exports.",
-      "The trade surplus narrowed to US$112.5 billion (S$144.4 billion) in July from US$125.62 billion in June.",
-      "Chinese officials have repeatedly pledged to expand imports and promote balanced trade, yet the country’s trade surplus, on track to top US$1 trillion for a second year, continued to unnerve trading partners concerned about disruptions to their own domestic industries.",
-      "The European Union has been weighing tougher measures to curb its trade deficit with China, while Beijing’s ties with Washington have shown signs of strain as they hit each other with trade restrictions and other measures ahead of an expected leaders’ summit in September.",
-      "With exports booming and factories humming, policymakers may feel more comfortable delaying policies to boost household income and strengthen social security systems to address entrenched weakness in domestic demand.",
-      "Macquarie analysts said Beijing’s policy support for domestic consumption and the property market would remain restrained as long as exports and manufacturing could help the economy achieve policymakers’ annual growth target. REUTERS"
+      "NEW YORK - US stocks advanced on Aug 7, with the S&P closing at a record high to cap off a strong week of gains for the major indexes, after data showed the US economy unexpectedly shed jobs in July and dampened expectations the Federal Reserve would raise interest rates at its September meeting.",
+      "The Labour Department said nonfarm payrolls decreased by 23,000 jobs in July, well below the estimate of economists polled by Reuters that called for an increase of 80,000 jobs.",
+      "Previously reported job gains for the prior two months were also revised sharply lower, while the unemployment rate fell to 4.1 per cent in July from 4.2 per cent in June due to workers leaving the labour force.",
+      "Market expectations for a rate hike from the Fed at its next meeting dropped to about 44 per cent, according to CME FedWatch, down from 55 per cent in the prior session and 67 per cent a week ago.",
+      "Signs of progress for a potential peace deal in the Iran war have helped cool oil prices and, in turn, have eased inflation worries that could prompt a Fed rate hike and pushed Treasury yields lower.",
+      "A strong earnings season has also tempered concerns about the massive spending by AI-related companies, sending each of the three major indexes to their biggest weekly percentage gains since mid-April.",
+      "“You probably have to lower rates to kind of stimulate job growth, but if you lower rates, you’re going to also stimulate inflation. So you’re kind of in a pickle at this point, and yet the market’s just taken off because earnings have been stellar,” said Tom Siomades, chief market economist at AE Wealth Management in Topeka, Kansas.",
+      "“The market should be reacting to weak job numbers and higher inflation and the possibility of a slow-growth economy that may need to have rates raised rather than cut, and yet it’s not. We’re setting records, so go figure.”",
+      "With earnings season entering the final stretch, of the 436 companies in the S&P 500 that have already reported results through Friday morning, 85.1 per cent have topped analyst expectations, according to LSEG data – well above the 68 per cent average since 1994.",
+      "Under new Fed chairman Kevin Warsh, the US central bank has offered investors little forward guidance on monetary policy, leading market participants to focus on economic data and commentary from policymakers.",
+      "The Dow Jones Industrial Average rose 151.83 points, or 0.28 per cent, to 54,036.93, the S&P 500 gained 47.68 points, or 0.62 per cent, to 7,757.64 and the Nasdaq Composite gained 342.26 points, or 1.3 per cent, to 26,690.62.",
+      "For the week, the S&P 500 gained 3.58 per cent, the Nasdaq rose 5.19 per cent, and the Dow climbed 2.96 per cent.",
+      "Elon Musk’s SpaceX surged 15.8 per cent a day after the expiry of the first of several share lockup restrictions following its record public offering in June.",
+      "Collaboration software maker Atlassian shot up 35.3 per cent for its largest-ever daily percentage gain, while chip company Microchip Tech jumped 13.9 per cent, its best daily performance in more than 15 months, after both forecast quarterly revenue above estimates.",
+      "Among other movers, vacation rental company Airbnb rose 17.4 per cent as the best performer on the S&P 500 after beating second-quarter revenue estimates. In contrast, Trade Desk plummeted 21.9 per cent as the worst performer on the benchmark index after the ad-tech firm forecast third-quarter revenue below expectations.",
+      "Advancing issues outnumbered decliners by a 2.49-to-1 ratio on the New York Stock Exchange and by a 2.07-to-1 ratio on the Nasdaq.",
+      "The S&P 500 posted nine new 52-week highs and one new low while the Nasdaq Composite recorded 123 new highs and 77 new lows.",
+      "Volume on U.S. exchanges was 16.94 billion shares, compared with the 17.56 billion average for the full session over the last 20 trading days. REUTERS"
     ]
   },
   "cna": {
-    "headline": "Japan set for third quarter of growth on solid domestic demand: Reuters poll",
-    "teaser": "Japan set for third quarter of growth on solid domestic demand: Reuters poll",
-    "url": "https://www.channelnewsasia.com/business/japan-set-third-quarter-growth-solid-domestic-demand-reuters-poll-6305546",
+    "headline": "Flintoff steps down as England Lions coach",
+    "teaser": "Flintoff steps down as England Lions coach",
+    "url": "https://www.channelnewsasia.com/sport/flintoff-steps-down-england-lions-coach-6307291",
     "fullText": [
-      "TOKYO, Aug 7 : Japan's economy is expected to have expanded for a third straight quarter in April-June, as solid domestic demand and a decline in imports offset headwinds from the Middle East conflict, a Reuters poll showed on Friday.",
-      "• Gross domestic product (GDP) in real terms likely expanded an annualised 2.0 per cent in the second quarter, according to the median forecast of 15 economists, after a 1.8 per cent expansion in January-March.",
-      "• The April-June growth rate was estimated at 0.5 per cent against the previous three months.",
-      "• Analysts said private consumption and capital investment remained firm, helped by government measures to ease cost-of-living pressures and progress in securing alternative energy supplies, even as the U.S.-Israeli war with Iran pushed up raw material prices and disrupted supply chains.",
-      "• Junpei Fujita, a senior analyst at Mitsubishi UFJ Research and Consulting, said the contribution from external demand is expected to have been significantly positive, reflecting a temporary upward swing in service exports and a decline in imports, mainly mineral fuels.",
-      "• \"Overall, the figures are likely to confirm that the economy continued to recover gradually. However, the prolonged confrontation between the United States and Iran remains a source of concern going forward,\" Fujita said.",
-      "• Private consumption, which accounts for more than half of Japan's GDP, is expected to have grown 0.5 per cent. Capital expenditure was seen growing 0.4 per cent, bouncing back from the previous quarter's 0.7 per cent contraction.",
-      "• Net external demand, or exports minus imports, probably added 0.3 per centage points to GDP growth, after its contribution increased 0.3 per centage points in the previous quarter.",
-      "• The government will release preliminary April-June GDP data on August 17 at 8:50 a.m. (2350 GMT on August 16).",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "Aug 8 : Former England all-rounder Andrew Flintoff has stepped down as head coach of the England Lions, the country's cricket board said on Friday, leaving the 48-year-old to focus on his coaching role at Australia's Sydney Thunder in the Big Bash League.",
+      "Flintoff had led England's second-string side since September 2024 and was initially expected to continue in the role alongside his appointment at the Thunder, which was announced in June. He had been due to leave a planned Lions tour of South Africa early to join the Australian franchise.",
+      "However, he opted to leave the national setup ahead of the Lions' upcoming assignments, including Pakistan's four-day warm-up match before a three-match test series against England later this month.",
+      "\"Unfortunately I've made the decision to step away from my role with the Lions,\" Flintoff said in a statement.",
+      "\"I can't wait to get started with the Thunder later in the year and see where coaching takes me.\"",
+      "Flintoff also coached Northern Superchargers in The Hundred and worked with England's white-ball teams in an informal consultant capacity before taking charge of the Lions.",
+      "The cricket board said Mike Yardy would take charge as the head coach of the Professional County Club Select XI for Pakistan's four-day warm-up match at Beckenham beginning on Tuesday.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
     "headline": "The National Wages Council Convenes to Develop Annual Guidelines",
     "teaser": "1 The National Wages Council (NWC) will convene on 19 August 2026 to develop its annual guidelines on wage and employment-related issues (covering 1 December 2026 &ndash; 30 November 2027). The NWC is a tripartite body comprising representatives of employers, employees and the Government. The list of NWC 2026/2027 memb",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0807-convening-of-nwc-2627"
+  },
+  "lifeVocab": [
+    {
+      "en": "produce",
+      "cn": "农产品（尤指蔬菜水果）",
+      "def": "fresh fruits and vegetables",
+      "ex": "My grandmother always buys fresh produce from the wet market early in the morning.",
+      "emoji": "🥦"
+    },
+    {
+      "en": "poultry",
+      "cn": "家禽（如鸡、鸭等）",
+      "def": "birds such as chickens and ducks kept for their meat or eggs",
+      "ex": "The poultry stall at the Tiong Bahru market always has a long queue.",
+      "emoji": "🐔"
+    },
+    {
+      "en": "fillet",
+      "cn": "切除骨头（成鱼片或肉片）",
+      "def": "to cut or slice a piece of meat or fish to remove the bones",
+      "ex": "You can ask the fishmonger to fillet the sea bass for you.",
+      "emoji": "🐟"
+    },
+    {
+      "en": "haggling",
+      "cn": "讨价还价",
+      "def": "arguing about the price of something to get a discount",
+      "ex": "Unlike at supermarkets, a little friendly haggling is sometimes acceptable at traditional markets.",
+      "emoji": "💬"
+    },
+    {
+      "en": "batch",
+      "cn": "一批",
+      "def": "a quantity of goods prepared or produced at one time",
+      "ex": "This batch of papayas is exceptionally sweet, so you should buy some now.",
+      "emoji": "📦"
+    },
+    {
+      "en": "perishable",
+      "cn": "易腐烂的，易变质的",
+      "def": "food that decays or goes bad very quickly",
+      "ex": "Leafy vegetables are highly perishable, so they must be kept in the fridge.",
+      "emoji": "🍓"
+    },
+    {
+      "en": "stallholder",
+      "cn": "摊主",
+      "def": "a person who rents or runs a stall in a market",
+      "ex": "The friendly stallholder threw in some free spring onions with my purchase.",
+      "emoji": "🏪"
+    },
+    {
+      "en": "condiments",
+      "cn": "调味品",
+      "def": "substances like spices, sauces, or herbs used to add flavor to food",
+      "ex": "I need to buy some ginger and garlic, which are essential condiments for chicken rice.",
+      "emoji": "🌶️"
+    },
+    {
+      "en": "sprig",
+      "cn": "小枝（如香菜、小葱）",
+      "def": "a small stem with leaves on it from a plant",
+      "ex": "The uncle decorated the fish with a fresh sprig of coriander.",
+      "emoji": "🌿"
+    },
+    {
+      "en": "steeped",
+      "cn": "浸透的，充满（某种特征）",
+      "def": "completely surrounded by or filled with a particular quality or history",
+      "ex": "Visiting the local market is an experience steeped in authentic Singaporean culture.",
+      "emoji": "🍵"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
+      "pos": "v.",
+      "cn": "增加，提高",
+      "def": "to increase the size or value of something by adding to it",
+      "ex": "Many professionals in Singapore are taking courses to augment their existing skills."
+    },
+    {
+      "w": "conducive",
+      "ipa": "/kənˈdjuːsɪv/",
+      "pos": "adj.",
+      "cn": "有益的，有促进作用的",
+      "def": "making a certain situation or outcome likely or possible",
+      "ex": "Our open-concept office is designed to be highly conducive to teamwork and collaboration."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsemɪneɪt/",
+      "pos": "v.",
+      "cn": "传播，分发（信息、知识等）",
+      "def": "to spread information, knowledge, or ideas widely",
+      "ex": "The human resources department will disseminate the new remote-working policy by Friday."
+    },
+    {
+      "w": "preclude",
+      "ipa": "/prɪˈkluːd/",
+      "pos": "v.",
+      "cn": "排除，妨碍",
+      "def": "to prevent something from happening or make it impossible",
+      "ex": "Taking this night course does not preclude you from continuing your full-time job."
+    },
+    {
+      "w": "scrupulous",
+      "ipa": "/ˈskruːpjələs/",
+      "pos": "adj.",
+      "cn": "严谨的，一丝不苟的",
+      "def": "extremely attentive to details; very honest and fair",
+      "ex": "The legal team conducted a scrupulous review of the commercial contract before signing."
+    },
+    {
+      "w": "vanguard",
+      "ipa": "/ˈvænɡɑːd/",
+      "pos": "n.",
+      "cn": "前沿，先锋",
+      "def": "a group of people leading the way in new developments or ideas",
+      "ex": "The tech firm aims to be at the vanguard of green energy innovations in Asia."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈperətɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的，迫切的",
+      "def": "extremely important or urgent; needing immediate attention",
+      "ex": "It is imperative that we address the system glitch before the national campaign launches."
+    },
+    {
+      "w": "catalyse",
+      "ipa": "/ˈkætəlaɪz/",
+      "pos": "v.",
+      "cn": "催化，促使（改变）",
+      "def": "to cause or accelerate a reaction, development, or change",
+      "ex": "The government funding is expected to catalyse private investments in the digital economy."
+    },
+    {
+      "w": "tenuous",
+      "ipa": "/ˈtenjuəs/",
+      "pos": "adj.",
+      "cn": "微弱的，站不住脚的",
+      "def": "very weak, slight, or uncertain",
+      "ex": "Without concrete evidence, his argument during the board meeting remained tenuous."
+    },
+    {
+      "w": "deviation",
+      "ipa": "/ˌdiːviˈeɪʃn/",
+      "pos": "n.",
+      "cn": "偏差，偏离",
+      "def": "a departure or difference from an established plan or standard",
+      "ex": "Any deviation from the safety guidelines will result in a strict penalty."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Charging Ahead: Singapore’s HDB EV Expansion",
+    "transcript": "As Singapore <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɡɪəz ʌp/ (phrasal v.) to prepare for an activity or event — 做好准备\">gears up</span> for a greener future, electric vehicle charging points are popping up in HDB multi-storey carparks islandwide. This initiative aims to make owning an EV practical for <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɑːtlændəz/ (n. pl.) Singaporeans living in public housing estates, representing the general public — 组屋区居民（新加坡常指普通市民）\">heartlanders</span>, not just those living in private estates. While some residents express concern over parking lots being taken up, the authorities assure that <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌɪmplɪmenˈteɪʃn/ (n.) the process of putting a decision or plan into effect — 实施，执行\">implementation</span> will be gradual and closely monitored."
+  },
+  "economistArticle": {
+    "title": "Adapting on the Fly: How India’s Tech Giants are Navigating the Generative AI Wave",
+    "paras": [
+      "For decades, India’s massive information technology (IT) sector has been the engine of its middle-class growth. Millions of young engineering graduates found stable, white-collar jobs writing basic code and maintaining legacy computer systems for global firms. However, the spectacular rise of generative artificial intelligence (AI) has sparked fears of an <span class=\"voc\">existential</span> crisis. If large language models can write code in seconds, what becomes of India's army of junior coders?",
+      "Yet, early indications suggest that India’s technology giants, from TCS to Infosys, are not merely surviving; they are actively adapting. Instead of <span class=\"voc\">wholesale</span> layoffs, these firms are aggressively <span class=\"voc\">upskilling</span> their workforces. Programmers are being retrained not just to write code manually, but to act as editors and supervisors of AI-generated output. This shift has redefined the entry-level IT role from <span class=\"voc\">rote</span> programming to complex system <span class=\"voc\">integration</span>.",
+      "Nevertheless, the transition is far from painless for the country's vast pool of fresh graduates. The barrier to entry is rising. Firms that once hired thousands of raw recruits straight from university campuses are now far more <span class=\"voc\">discerning</span>. They expect new hires to possess cognitive <span class=\"voc\">agility</span> and a <span class=\"voc\">rudimentary</span> understanding of machine learning architectures, leaving many average graduates stranded in a hyper-competitive job market.",
+      "Crucially, the survival of Indian IT relies on the sheer volume of global demand for digital transformation. Even as AI automates routine tasks, it creates a parallel need for custom enterprise solutions, data <span class=\"voc\">curation</span>, and cybersecurity—domains where Indian firms possess formidable scale. <span class=\"gem\">By positioning themselves as the ultimate executors of AI integration, these firms aim to prove that artificial intelligence is a tool to be <span class=\"voc\">wielded</span>, not a replacement to be feared.</span>"
+    ],
+    "cn": "几十年来，印度庞大的信息技术（IT）行业一直是其中产阶级增长的引擎。数百万年轻工程毕业生在为全球公司编写基础代码和维护传统计算机系统方面找到了稳定的白领工作。然而，生成式人工智能（AI）的惊人崛起引发了人们对其生存危机的担忧。如果大型语言模型能在几秒钟内编写代码，那么印度庞大的初级程序员队伍又将何去何从？然而，早期迹象表明，从塔塔咨询服务（TCS）到印孚瑟斯（Infosys），印度的技术巨头不仅生存了下来，而且正在积极适应。这些公司并没有进行大规模裁员，而是积极提升员工的技能。程序员们正在接受重新培训，不仅要手动编写代码，还要担任AI生成输出的编辑和监督者。这一转变将入门级IT角色从机械式的编程重新定义为复杂的系统集成。然而，对于该国庞大的应届毕业生群体而言，这一过渡远非毫无痛苦。准入门槛正在提高。那些曾经直接从大学校园招收数千名新员工的公司现在变得更加挑剔。他们希望新员工具备认知敏捷性和对机器学习架构的基本了解，这导致许多普通的毕业生在竞争异常激烈的就业市场中陷入困境。关键是，印度IT行业的生存依赖于全球对数字化转型庞大的需求量。即使AI使日常任务实现自动化，它也会创造对定制企业解决方案、数据整理和网络安全等领域的并行需求，而印度公司在这些领域拥有强大的规模。通过将自己定位为AI集成的最终执行者，这些公司旨在证明，人工智能是一个可以利用的工具，而不是一个令人恐惧的替代品。",
+    "vocab": [
+      {
+        "w": "existential",
+        "ipa": "/ˌeɡzɪˈstenʃl/",
+        "pos": "adj.",
+        "mean": "关系到生存的",
+        "def": "relating to existence, especially human survival.",
+        "ex": "The threat of automation is an existential crisis for factory workers."
+      },
+      {
+        "w": "wholesale",
+        "ipa": "/ˈhəʊlseɪl/",
+        "pos": "adj.",
+        "mean": "大规模的，平仓的",
+        "def": "done on a very large scale, affecting almost everything.",
+        "ex": "The company underwent wholesale changes in its management structure."
+      },
+      {
+        "w": "upskilling",
+        "ipa": "/ˌʌpˈskɪlɪŋ/",
+        "pos": "n.",
+        "mean": "提升技能",
+        "def": "the process of learning new skills or teaching workers new skills.",
+        "ex": "Upskilling the workforce is essential for staying competitive in the digital age."
+      },
+      {
+        "w": "rote",
+        "ipa": "/rəʊt/",
+        "pos": "n./adj.",
+        "mean": "死记硬背的，机械的",
+        "def": "mechanical or habitual repetition of something to be learned.",
+        "ex": "Rote learning is no longer sufficient for modern technical jobs."
+      },
+      {
+        "w": "integration",
+        "ipa": "/ˌɪntɪˈɡreɪʃn/",
+        "pos": "n.",
+        "mean": "整合，集成",
+        "def": "the act of combining distinct parts into an interconnected whole.",
+        "ex": "The successful integration of the new software took several months."
+      },
+      {
+        "w": "discerning",
+        "ipa": "/dɪˈsɜːnɪŋ/",
+        "pos": "adj.",
+        "mean": "有眼光的，挑剔的",
+        "def": "showing good judgment and understanding.",
+        "ex": "Discerning customers prefer quality over low prices."
+      },
+      {
+        "w": "agility",
+        "ipa": "/əˈdʒɪləti/",
+        "pos": "n.",
+        "mean": "敏捷，灵活",
+        "def": "the ability to think and understand quickly, or move quickly.",
+        "ex": "Cognitive agility is highly prized in fast-paced tech companies."
+      },
+      {
+        "w": "rudimentary",
+        "ipa": "/ˌruːdɪˈmentri/",
+        "pos": "adj.",
+        "mean": "基础的，初步的",
+        "def": "involving or limited to basic principles.",
+        "ex": "She has only a rudimentary understanding of the local language."
+      },
+      {
+        "w": "curation",
+        "ipa": "/kjʊˈreɪʃn/",
+        "pos": "n.",
+        "mean": "数据整理，策划",
+        "def": "the selection, organization, and presentation of content or items.",
+        "ex": "Data curation is critical for training accurate AI models."
+      },
+      {
+        "w": "wielded",
+        "ipa": "/wiːldɪd/",
+        "pos": "v.",
+        "mean": "掌控，利用（权力或工具）",
+        "def": "held and used as a weapon, tool, or source of power.",
+        "ex": "The new director wielded immense influence over the company's direction."
+      }
+    ],
+    "gems": [
+      {
+        "s": "By positioning themselves as the ultimate executors of AI integration, these firms aim to prove that artificial intelligence is a tool to be wielded, not a replacement to be feared.",
+        "why": "This sentence uses a powerful parallel structure ('a tool to be wielded, not a replacement to be feared') to create contrast and rhetorical balance, showing advanced persuasive writing. 这个句子采用了强有力的平行/对比结构（‘一个可以利用的工具，而不是一个令人恐惧的替代品’）来创造对比和修辞平衡，展示了高级的劝说性写作技巧。"
+      }
+    ]
   }
 }
