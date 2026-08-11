@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-10",
-  "generatedAt": "2026-08-10T05:51:29.972088+00:00",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T04:52:23.009537+00:00",
   "economist": {
     "headline": "India’s IT sector is surviving artificial intelligence",
     "teaser": "Though the technology is making life still harder for many graduates",
@@ -19,36 +19,61 @@
     ]
   },
   "st": {
-    "headline": "Shein valued at US$22 billion to US$25 billion ahead of IPO, Bloomberg Intelligence says",
-    "teaser": "The estimate is below the roughly US$30 billion valuation some investors have pushed for.",
-    "url": "https://www.straitstimes.com/business/companies-markets/shein-valued-at-us22-billion-to-us25-billion-ahead-of-ipo-bloomberg-intelligence-says",
+    "headline": "Even Mercedes can't stop the decline of German cars in China",
+    "teaser": "Mercedes, Audi and BMW are losing their luxury edge because they are perceived as trailing local manufacturers.",
+    "url": "https://www.straitstimes.com/business/companies-markets/even-mercedes-cant-stop-the-decline-of-german-cars-in-china",
     "fullText": [
-      "Shein Global Holdings Ltd’s fast-fashion niche supports a valuation of US$22 billion to US$25 billion, Bloomberg Intelligence (BI) said, putting a fresh marker on one of the biggest questions surrounding the retailer as it prepares for one of the year’s biggest initial public offerings.",
-      "BI’s estimate values Shein at about 13 to 15 times projected 2027 earnings, using that year as a more normalised base after freight and tariff shocks weigh on its 2026 results. Consumer and technology analysts Catherine Lim and Jason Zhu expect earnings to recover to US$1.67 billion in 2027 and then grow about 20 per cent annually through 2029.",
-      "“Shein’s valuation should assume a normalised growth and earnings outlook starting in 2027 rather than a depressed 2026 baseline,” they wrote in a note on Aug 10. The valuation reflects Shein’s unusual position between a China-linked e-commerce platform and a global fast-fashion retailer with a supply chain designed to respond quickly to changing consumer trends.",
-      "The estimate is below the roughly US$30 billion valuation some investors have pushed for and less than half the US$66 billion Shein fetched in a 2023 funding round. The company was valued at about US100 billion at its peak in 2022, underscoring how far expectations have fallen as growth slows and regulatory and trade pressures mount.",
-      "The company disclosed slowing revenue growth and profitability in July, adding to pressure on the valuation.",
-      "Shein is now aiming ​for a US$30 billion to US$40 billion valuation, Reuters reported this month. That range would put the company at a premium to the average of global e-commerce and fast-fashion peers as well as China-linked platforms, according to BI.",
-      "Such a price “would require investors to underwrite both a clean marketplace mix shift and flawless European regulatory execution,” Lim and Zhu wrote.",
-      "Shein also needs to be valued partly as a Chinese exporter, BI said. Its supply chain is concentrated in mainland China while most of its earnings are generated overseas, exposing the company to shipping costs, tariffs and regulatory requirements across markets, according to BI.",
-      "Hong Kong-listed consumer-goods exporters including Lenovo, Haier, Shenzhou, Yue Yuen, Stella International and Crystal International trade at roughly 8 to 13 times projected 2027 earnings, according to BI.",
-      "BI said its 13-to-15-times range for Shein “captures the middle ground” between a China-linked marketplace, which carries lower regulatory risk but narrower margins, and a global fast-fashion company with a differentiated supply chain.",
-      "Founded in mainland China and now headquartered in Singapore, Shein built a global fast-fashion business by selling low-priced, trend-driven clothing shipped directly from suppliers. That model has come under pressure from US tariffs and disruption stemming from the Middle East war, which have pushed up costs and prices for consumers. BLOOMBERG"
+      "BEIJING – After decades of winning over Chinese buyers with its German engineering, Mercedes-Benz took the humbling step last autumn of partnering fast-food chain McDonald’s to hype its newest car.",
+      "In the “So Mc-Benz” campaign, Mercedes allowed a cheeseburger figurine to take the spot of its traditional three-pointed star on the all-electric CLA, a saloon it hoped would stop sales from sliding in the world’s largest car market.",
+      "The ads were supposed to make the vehicle popular with China’s young and hip.",
+      "It did not work. Mercedes sold only 1,153 units in China in the first half of 2026, a fraction of the more than 80,000 similarly priced SU7 saloons Xiaomi Corp delivered in the period.",
+      "The performance echoes the challenges BMW, Volkswagen and Porsche face in China, where they all reported second-quarter sales declines of at least 30 per cent, worse than the overall market’s drop.",
+      "Meanwhile, the likes of Xiaomi and BYD are taking customers from them, depriving the Germans of a key growth and profit driver.",
+      "So far, none of them has found a way to arrest the downward spiral.",
+      "It is not that they’re not trying. Most of them have partnered Chinese companies to gain access to the latest electric vehicle technology and better understand what local drivers want.",
+      "Mercedes built a long-wheelbase version of the CLA to appeal to Chinese tastes for a roomier back seat.",
+      "It packed the car with software including AI-powered voice control and priced it from just 229,000 yuan (S$43,450), roughly 40 per cent cheaper than the European version.",
+      "Instead of winning clients, Mercedes had to concede that competing in China would require even further price cuts that would see it lose money on almost every electric CLA sold, according to people familiar with the matter.",
+      "The company is limiting its push for the car until economics improve, the people said.",
+      "Mercedes said the model was never meant to drive volume but rather show off the company’s latest technology in the hotly contested entry-level segment.",
+      "The carmaker is “focusing on sustainable growth rather than purchasing short-term market share”, it said in an e-mailed statement.",
+      "The company pointed to the electric GLC, a compact sport utility vehicle introduced in China in July, as doing well in terms of market feedback and pre-orders.",
+      "Chinese manufacturers, meanwhile, are willing to endure significant pain to win market share.",
+      "BYD’s first-quarter profit tumbled 55 per cent to its lowest level in more than three years as the price war takes its toll.",
+      "Geely Automobile Holdings’ income also fell in the period.",
+      "At this point, significant parts of German carmakers’ offerings are simply priced out of China, according to JPMorgan analyst Jose Asumendi.",
+      "While the overall Chinese market is down due to a protracted real estate crisis that is weighing on spending, German companies are losing out more because their line-ups tend to be pricier and feature more combustion engine cars, a segment that is in decline.",
+      "BMW slashed its margin outlook due to the China slump, putting it on course to be the least profitable major European automaker in 2026.",
+      "Managers including Mercedes chief executive Ola Kallenius expect the market to remain brutally competitive for years to come.",
+      "In many cases, German carmakers still operate on the development-to-market schedule of the petrol era, refreshing products every four years or longer, and teasing snippets of new cars long before drivers can buy them.",
+      "But in China, the EV market has come to resemble the frenzied pace of consumer electronics, with brands rejuvenating cars as fast as 18 months and having a new model ready for mass purchase right off the bat.",
+      "“And while it’s being sold, you’re already making the next iteration,” said Xing Zhou, an automotive adviser at AlixPartners who has worked in both Germany and China. “There’s no way that this industry will go back to the old way.”",
+      "That is fuelling a fundamental shift in brand perception in China, where Mercedes, Audi and BMW are losing their luxury edge because they are perceived as trailing local manufacturers on software and EV technology.",
+      "Part of why the electric CLA is flopping is because rivals led by Xiaomi’s SU7 dominate the segment at that price point with more advanced automated driving functionality, a mobile phone first entertainment system and hipper branding, said Li Yanwei, who advises the China Automobile Dealers Association.",
+      "The CLA’s sporty design tries to cater to a younger crowd, ignoring Mercedes’ traditional middle-aged customers who tend to have families and prefer bigger interiors, he added.",
+      "The CLA “is in an awkward place where it’s not the most affordable and not the most luxurious”, Li said.",
+      "Beijing’s push of the industry has created some 150 domestic car brands, and they alone churned out some 500 new or updated models in the first half of 2026, according to Volkswagen CEO Oliver Blume. It is a “China Speed” foreign carmakers struggle to match."
     ]
   },
   "cna": {
-    "headline": "Jeongyeon becomes first member of Twice to officially leave longtime agency JYP Entertainment",
-    "teaser": "Jeongyeon made the announcement on Monday (Aug 10).",
-    "url": "https://www.channelnewsasia.com/entertainment/jeongyeon-leaves-jyp-entertainment-6309161",
+    "headline": "BigBang Singapore concert ticket sales see queue numbers exceed 300,000 on first day",
+    "teaser": "The first day of ticket sales for K-pop group BigBang's upcoming XX: Cosmos concert in Singapore saw over 300,000 people in line.",
+    "url": "https://www.channelnewsasia.com/entertainment/bigbang-singapore-ticket-sales-first-day-6311231",
     "fullText": [
-      "Twice member Jeongyeon has officially become the first member of the K-pop group to leave their longtime agency, JYP Entertainment. The 29-year-old made the announcement on Monday (Aug 10) via her Instagram page.",
-      "Posting a photo of a handwritten letter, Jeongyeon, whose full name is Yoo Jeong-yeon, said that leaving JYP Entertainment \"was daunting at first\" but she was able to \"find the courage\" thanks to her fellow Twice members and Once (Twice's fans).",
-      "\"I am deeply grateful to my members and Once; words cannot fully express my gratitude. I am also very grateful to the JYP family who helped me grow into the person I am today,\" wrote Jeongyeon.",
-      "She clarified that she will continue to be a member of Twice, which also comprises Nayeon , Momo , Sana , Jihyo , Mina, Dahyun , Chaeyoung and Tzuyu .",
-      "\"The one thing I truly want to tell Once is that even though I am moving on to a new chapter to take on new challenges, Twice, the centre of my life, will remain unchanged, just as it is now. Standing before Once as a member of Twice will always be my very first priority,\" she added.",
-      "\"I thank you from the bottom of my heart for believing in me and always staying by my side. Since we still have so much time ahead of us to create new memories, I will work hard to fill those moments even more beautifully with Once.\"",
-      "View this post on Instagram Jeongyeon will now be managed by South Korean agency Varo Entertainment, which also manages her sister, actress Gong Seung-yeon, as well as South Korean actor Byeon Woo-seok – both of whom recently starred in the hit Disney+ series Perfect Crown .",
-      "Jeongyeon's announcement comes weeks after South Korean media outlets claimed that her fellow Twice groupmate Tzuyu would also be leaving JYP Entertainment . As of writing, the status of the remaining eight Twice members' solo contracts has not been revealed.",
+      "Ticket sales for BigBang's highly anticipated Singapore concert kicked off at 12pm on Tuesday (Aug 11), with virtual queue numbers surging past 300,000 as of writing.",
+      "A fan of the K-pop group shared a screenshot of her queue number with CNA Lifestyle, showing the sheer demand for tickets to the upcoming show.",
+      "Checks by CNA Lifestyle across social media platforms and various fan groups found that some fans are reporting queue numbers exceeding 500,000.",
+      "Tuesday's ticket sale is limited to fans who hold an official VIP membership on the B.stage platform and have completed a survey to participate in the session.",
+      "However, some fans have stated that they joined the queue without fulfilling these requirements, potentially inflating these figures.",
+      "Another fan, with a queue number of 8,000, told CNA Lifestyle that she experienced issues upon entering the ticketing page, stating that the verification needed to complete her checkout was missing. She was eventually \"bumped out\" of the queue.",
+      "At about 12.14pm, Ticketmaster informed those in line that there were no more VIP Ultimate packages for the presale and that additional tickets would be made available during the general sale.",
+      "Following Tuesday's sale, a presale session for Trip.com members will take place from 10am on Aug 12.",
+      "Finally, general sales will commence at 10am on Aug 13, via Ticketmaster.",
+      "Tickets for BigBang's XX: Cosmos concert in Singapore will cost between S$158 and S$498.",
+      "BigBang, which comprises G-Dragon, Taeyang and Daesung, will stage their XX: Cosmos show at the National Stadium on Oct 17.",
+      "The concert marks BigBang's first performance in Singapore in a decade – the group's last show in the country was in 2016 for their Made VIP fan meeting tour.",
+      "View this post on Instagram Ahead of the Singapore concert, BigBang is set to release their new single, Biiig, on Wednesday (Aug 19).",
+      "BigBang's XX: Cosmos world tour will kick off with a three-night concert at South Korea's Goyang Stadium from Aug 21 to 23. Thereafter, BigBang will perform in the US and Europe.",
       "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
@@ -56,5 +81,267 @@
     "headline": "The National Wages Council Convenes to Develop Annual Guidelines",
     "teaser": "1 The National Wages Council (NWC) will convene on 19 August 2026 to develop its annual guidelines on wage and employment-related issues (covering 1 December 2026 &ndash; 30 November 2027). The NWC is a tripartite body comprising representatives of employers, employees and the Government. The list of NWC 2026/2027 memb",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0807-convening-of-nwc-2627"
+  },
+  "lifeVocab": [
+    {
+      "en": "CHAS card",
+      "cn": "社区关怀辅助计划卡",
+      "def": "A medical card in Singapore that provides subsidies for medical and dental care at participating clinics.",
+      "ex": "Don't forget to present your CHAS card to the clinic assistant to get a discount on your consultation.",
+      "emoji": "💳"
+    },
+    {
+      "en": "MC (Medical Certificate)",
+      "cn": "病假单",
+      "def": "An official document issued by a doctor excusing a patient from work or school due to illness.",
+      "ex": "The doctor gave me a two-day MC because I down with a severe flu.",
+      "emoji": "📄"
+    },
+    {
+      "en": "consultation",
+      "cn": "问诊/看诊",
+      "def": "A meeting with a doctor to discuss your health concerns and receive a diagnosis.",
+      "ex": "The clinic's consultation fee is slightly higher during weekends.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "queue ticket",
+      "cn": "排队号码牌",
+      "def": "A printed slip showing your turn or position in line at a clinic or service counter.",
+      "ex": "Please take a queue ticket at the kiosk before sitting down in the waiting area.",
+      "emoji": "🎟️"
+    },
+    {
+      "en": "panel clinic",
+      "cn": "公司指定合作诊所",
+      "def": "A clinic that has an agreement with a specific corporate insurance program or employer to provide subsidized healthcare.",
+      "ex": "I always check if a neighborhood GP is on my company's panel clinic list first.",
+      "emoji": "🏥"
+    },
+    {
+      "en": "referral letter",
+      "cn": "转介信/转诊单",
+      "def": "A letter written by a general practitioner to direct a patient to see a specialist.",
+      "ex": "You need a referral letter from a polyclinic to get subsidized treatment at the national hospital.",
+      "emoji": "✉️"
+    },
+    {
+      "en": "dosage",
+      "cn": "服药剂量",
+      "def": "The exact amount and frequency of medicine that you are prescribed to take.",
+      "ex": "Make sure you follow the recommended dosage; do not take more than two tablets a day.",
+      "emoji": "💊"
+    },
+    {
+      "en": "symptom",
+      "cn": "症状",
+      "def": "A physical or mental sign that indicates you might have an illness.",
+      "ex": "A sore throat and runny nose are common symptoms of the common cold.",
+      "emoji": "🤒"
+    },
+    {
+      "en": "dispense",
+      "cn": "配药/分发药水",
+      "def": "To prepare and give out medicine to a patient.",
+      "ex": "The nurse will dispense your cough syrup once your payment is cleared.",
+      "emoji": "🧪"
+    },
+    {
+      "en": "chronic illness",
+      "cn": "慢性疾病",
+      "def": "A long-lasting health condition, such as diabetes or high blood pressure, that requires regular management.",
+      "ex": "The polyclinic has a dedicated care team to help patients manage chronic illnesses.",
+      "emoji": "❤️"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "adversity",
+      "ipa": "/ədˈvɜːsəti/",
+      "pos": "n.",
+      "cn": "逆境/不测的命运",
+      "def": "A difficult, unpleasant, or unfortunate situation.",
+      "ex": "She showed incredible resilience and grace when faced with sudden professional adversity."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "pos": "n.",
+      "cn": "突发事件/备用计划",
+      "def": "A future event or circumstance which is possible but cannot be predicted with certainty.",
+      "ex": "Our department has developed a contingency plan in case the main servers crash."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsemɪneɪt/",
+      "pos": "v.",
+      "cn": "散播/宣传/分发",
+      "def": "To spread information, knowledge, or ideas to a large number of people.",
+      "ex": "The HR department will disseminate the new remote-work policy via email tomorrow."
+    },
+    {
+      "w": "equivocal",
+      "ipa": "/ɪˈkwɪvək(ə)l/",
+      "pos": "adj.",
+      "cn": "模棱两可的/不明确的",
+      "def": "Open to more than one interpretation; not clear or decided.",
+      "ex": "The CEO's equivocal response regarding layoffs left many employees feeling anxious."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈperətɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的/迫切的",
+      "def": "Of vital importance; crucial; requiring immediate action.",
+      "ex": "It is imperative that we complete the financial audit before the board meeting next week."
+    },
+    {
+      "w": "precursor",
+      "ipa": "/priːˈkɜːsə(r)/",
+      "pos": "n.",
+      "cn": "先驱/前兆",
+      "def": "A person or thing that comes before another of the same kind; a forerunner.",
+      "ex": "A sudden dip in web traffic is often a precursor to a drop in monthly sales."
+    },
+    {
+      "w": "rectify",
+      "ipa": "/ˈrektɪfaɪ/",
+      "pos": "v.",
+      "cn": "纠正/整顿",
+      "def": "To put something right; to correct a mistake or bad situation.",
+      "ex": "We are working tirelessly to rectify the technical glitch on our e-commerce platform."
+    },
+    {
+      "w": "salient",
+      "ipa": "/ˈseɪliənt/",
+      "pos": "adj.",
+      "cn": "最显著的/最重要的",
+      "def": "Most noticeable, prominent, or important.",
+      "ex": "Please summarize the salient points of the market report in a two-page executive summary."
+    },
+    {
+      "w": "transient",
+      "ipa": "/ˈtrænziənt/",
+      "pos": "adj.",
+      "cn": "短暂的/瞬息即逝的",
+      "def": "Lasting only for a short time; impermanent or fleeting.",
+      "ex": "The economists believe the recent rise in shipping costs is a transient issue that will resolve soon."
+    },
+    {
+      "w": "unilateral",
+      "ipa": "/ˌjuːnɪˈlætrəl/",
+      "pos": "adj.",
+      "cn": "单方面的/单边的",
+      "def": "Performed by or affecting only one person, group, or country without the agreement of others.",
+      "ex": "The manager made a unilateral decision to cancel the project, upsetting the entire development team."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore's Hawker Culture Goes Digital",
+    "transcript": "As Singapore embraces Smart Nation initiatives, many senior hawkers are learning to adopt e-payment systems. While some initially found the transition <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈdɔːntɪŋ/ (adj.) seeming difficult to deal with in prospect; intimidating — 气馁的/令人畏惧的\">daunting</span>, local community volunteers have stepped in to offer patient guidance. Today, scanning a QR code to pay for your chicken rice has become <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌsekənd ˈneɪtʃə/ (n. phrase) a habit or activity that has become instinctive — 第二天性/习惯成自然\">second nature</span> to both young and elderly diners."
+  },
+  "economistArticle": {
+    "title": "India’s IT sector is surviving artificial intelligence",
+    "paras": [
+      "For years, prophets of doom have predicted that generative artificial intelligence would <span class=\"voc\">decimate</span> India’s sprawling information-technology services sector. The logic seemed airtight: if an AI model can generate clean code in seconds, why would global corporations continue to <span class=\"voc\">outsource</span> basic software maintenance to tech hubs in Bengaluru or Hyderabad? Yet, the sector’s recent financial results tell a far more nuanced and triumphant story. <span class=\"gem\">Instead of collapsing, Indian tech giants are successfully co-opting AI tools to defend their margins and win larger, more complex digital contracts.</span>",
+      "Rather than rendering human engineers <span class=\"voc\">obsolete</span>, generative AI is currently functioning as an efficiency multiplier. Indian IT firms are aggressively training hundreds of thousands of their employees to use AI copilots. By automating <span class=\"voc\">rote</span> programming tasks, engineers can focus on systems architecture, cybersecurity, and legacy system migration—complex tasks that still require deep human judgment. Consequently, companies are finding that clients are willing to pay a <span class=\"voc\">premium</span> for AI-driven transformation, offsetting any decline in traditional coding hours.",
+      "However, this technological shift has fundamentally disrupted the industry's traditional hiring pipeline. Historically, India’s IT sector acted as a massive employment engine, absorbing hundreds of thousands of engineering graduates every year to do <span class=\"voc\">rudimentary</span> testing and debugging. Today, those entry-level roles are evaporating. Tech firms are becoming far more selective, seeking \"plug-and-play\" talent who can immediately contribute to high-value AI consulting rather than trainees who require extensive on-the-job upskilling.",
+      "For India’s millions of fresh graduates, this transition presents a <span class=\"voc\">formidable</span> bottleneck. While the overall revenues of firms like TCS, Infosys, and Wipro remain robust, entry-level recruitment has slowed significantly. The premium is now on specialized skills—such as natural language processing, data engineering, and prompt design. Universities are scrambling to update their curricula, but the rapid pace of corporate AI integration is outpacing traditional academic frameworks, leaving a widening skills gap.",
+      "Ultimately, India’s IT giants are proving that adaptation is the best form of defense. By pivoting from low-cost coding factories to sophisticated AI orchestrators, they are solidifying their position in the global tech hierarchy. But to sustain this survival, the broader ecosystem must address the looming talent mismatch. <span class=\"gem\">The survival of the firms themselves is no longer in doubt; the challenge now lies in ensuring that the next generation of Indian tech workers is not left behind in the algorithm's <span class=\"voc\">wake</span>.</span>"
+    ],
+    "cn": "多年来，末日预言者们一直预测，生成式人工智能将摧毁印度庞大的信息技术服务行业。其逻辑看似天衣无缝：如果人工智能模型能在几秒钟内生成干净的代码，全球大企业为什么还要继续把基础软件维护外包给班加罗尔或海得拉巴的技术中心？然而，该行业近期的财务业绩展现出了一个更为微妙且凯旋的故事。印度科技巨头非但没有倒下，反而成功地吸收了人工智能工具，以此来维护自身利润，并赢得更大、更复杂的数字化合同。\n\n生成式人工智能非但没有让软件工程师被淘汰，反而成为了效率的倍增器。印度的IT公司正积极培训数十万员工使用人工智能助手。通过将机械性的编程任务自动化，工程师们得以专注于系统架构、网络安全以及遗留系统迁移——这些仍需要深层人类判断的复杂任务。因此，企业发现客户愿意为人工智能驱动的转型支付高昂的溢价，从而弥补了传统编码时间减少带来的损失。\n\n然而，这一技术转变从根本上颠覆了该行业传统的招聘渠道。在历史上，印度IT行业扮演着巨大的就业引擎，每年吸收数十万工程系毕业生从事最基础的测试和调试工作。如今，这些入门级岗位正在蒸发。科技公司变得挑剔得多，它们寻找的是“即插即用型”人才，能立即为高价值的人工智能咨询做出贡献，而不是需要大量在职技能培训的实习生。\n\n对于印度数百万应届毕业生而言，这一转型呈现出难以逾越的瓶颈。尽管塔塔咨询、印孚瑟斯和维布络等公司的整体营收依然强劲，但入门级招聘已显著放缓。现在的溢价偏向于专业技能——例如自然语言处理、数据工程和提示词设计。大学正急于更新课程，但企业融入人工智能的迅速步伐正超越传统的学术框架，留下了日益扩大的技能差距。\n\n归根结底，印度的IT巨头正在证明，适应是最好的防守。通过从低成本的代码工厂转型为精密的人工智能协调者，它们正在巩固其在全球技术阶梯中的地位。但要维持这种生存，更广泛的生态系统必须解决迫在眉睫的人才错配。企业本身的生存已不再成问题；现在的挑战在于，如何确保下一代印度技术工人在算法退去后不被时代抛弃。",
+    "vocab": [
+      {
+        "w": "decimate",
+        "ipa": "/ˈdesɪmeɪt/",
+        "pos": "v.",
+        "mean": "严重破坏/大量削减",
+        "def": "To destroy or kill a large proportion of something.",
+        "ex": "The economic downturn threatened to decimate small local retail brands."
+      },
+      {
+        "w": "outsource",
+        "ipa": "/ˈaʊtsɔːs/",
+        "pos": "v.",
+        "mean": "外包",
+        "def": "To obtain goods or services from an outside or foreign supplier.",
+        "ex": "Many Western banks outsource their customer support operations to Asian call centers."
+      },
+      {
+        "w": "co-opt",
+        "ipa": "/kəʊˈɒpt/",
+        "pos": "v.",
+        "mean": "吸收/拉拢",
+        "def": "To adopt, appropriate, or take over something for one's own use.",
+        "ex": "Large firms often try to co-opt the creative strategies of agile startups."
+      },
+      {
+        "w": "obsolete",
+        "ipa": "/ˈɒbsəliːt/",
+        "pos": "adj.",
+        "mean": "淘汰的/过时的",
+        "def": "No longer produced or used; out of date.",
+        "ex": "The rapid rise of cloud storage made physical floppy disks entirely obsolete."
+      },
+      {
+        "w": "rote",
+        "ipa": "/rəʊt/",
+        "pos": "n./adj.",
+        "mean": "机械式的/死记硬背的",
+        "def": "Mechanical or habitual repetition of something to be learned.",
+        "ex": "Modern coding bootcamps are moving away from rote learning and focusing on creative problem-solving."
+      },
+      {
+        "w": "premium",
+        "ipa": "/ˈpriːmiəm/",
+        "pos": "n.",
+        "mean": "溢价/高额费用",
+        "def": "An amount to be paid of higher value than standard, often reflecting scarcity or quality.",
+        "ex": "Clients are happy to pay a premium for software security that guarantees absolute data protection."
+      },
+      {
+        "w": "rudimentary",
+        "ipa": "/ˌruːdɪˈmentri/",
+        "pos": "adj.",
+        "mean": "基础的/未发展的",
+        "def": "Involving or limited to basic principles; undeveloped.",
+        "ex": "He possessed only a rudimentary understanding of cloud computing before starting the course."
+      },
+      {
+        "w": "formidable",
+        "ipa": "/ˈfɔːmɪdəbl/",
+        "pos": "adj.",
+        "mean": "艰难的/令人敬畏的",
+        "def": "Inspiring fear or respect through being impressively large, powerful, or intense.",
+        "ex": "Transitioning the entire national workforce to AI presents a formidable challenge."
+      },
+      {
+        "w": "orchestrator",
+        "ipa": "/ˈɔːkɪstreɪtə(r)/",
+        "pos": "n.",
+        "mean": "协调者/组织者",
+        "def": "A person or entity that coordinates, directs, or plans a complex situation or system.",
+        "ex": "The tech firm acted as the main orchestrator for the city’s smart-grid infrastructure project."
+      },
+      {
+        "w": "wake",
+        "ipa": "/weɪk/",
+        "pos": "n.",
+        "mean": "尾随/后果",
+        "def": "Used in the phrase 'in the wake of' to mean following or as a consequence of something.",
+        "ex": "Many businesses closed down in the wake of the global financial crisis."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Instead of collapsing, Indian tech giants are successfully co-opting AI tools to defend their margins and win larger, more complex digital contracts.",
+        "why": "This sentence uses a contrasting introductory phrase 'Instead of collapsing' to defy negative expectations, followed by active, confident verbs that frame the subject's actions as a masterful strategic defense. 这句话使用对比性的前置短语 'Instead of collapsing'（非但没有倒下）来打破消极的常规预期，随后使用富有信心和行动力的动词，将主语的行为框架化为一次高明的战略防守。"
+      },
+      {
+        "s": "The survival of the firms themselves is no longer in doubt; the challenge now lies in ensuring that the next generation of Indian tech workers is not left behind in the algorithm's wake.",
+        "why": "The use of a semicolon balances a resolved corporate premise against an ongoing human crisis, concluding with a poetic and vivid metaphor 'in the algorithm's wake'. 此句使用分号巧妙地平衡了“已尘埃落定的企业存活前提”与“仍在持续的社会人才危机”，并以极富诗意和画面感的隐喻短语 'in the algorithm's wake'（在算法的尾随/阴影中）作结，增强了文章的警示深度。"
+      }
+    ]
   }
 }
