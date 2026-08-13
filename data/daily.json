@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-12",
-  "generatedAt": "2026-08-12T05:50:11.653954+00:00",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T05:53:53.709321+00:00",
   "economist": {
     "headline": "Hooray for index funds—just don’t call them passive",
     "teaser": "Jack Bogle’s creation has transformed markets, and involves plenty of choices",
@@ -19,40 +19,44 @@
     ]
   },
   "st": {
-    "headline": "SK Hynix, Samsung shares rally after report Temasek to invest",
-    "teaser": "Asia Business Daily reported that Temasek plans to invest directly in the two chipmakers.",
-    "url": "https://www.straitstimes.com/business/companies-markets/sk-hynix-samsung-shares-rally-after-report-temasek-to-invest",
+    "headline": "Sembcorp lifts interim dividend to 11 cents on stronger second-half outlook",
+    "teaser": "The company's interim dividend for the first half of 2026 will be 11 cents per share.",
+    "url": "https://www.straitstimes.com/business/companies-markets/sembcorp-announces-higher-interim-dividend-as-it-expects-a-stronger-second-half",
     "fullText": [
-      "SEOUL - South Korean chipmakers rallied as risk appetite returns after July’s rout , with a local media report of investment plans by Singapore’s Temasek supporting sentiment.",
-      "Shares of Samsung Electronics and SK Hynix extended gains to more than 8 per cent, after Asia Business Daily reported that Temasek plans to invest directly in the two chipmakers through its internal investment team, and is mulling timing. The benchmark Kospi gained as much as 5.1 per cent.",
-      "The chipmakers saw a brutal sell-off in July as doubts grew over the pace of rapid AI infrastructure buildout, leading to an unwinding of leveraged positions. The shares have been rebounding recently, amid growing expectations the companies will bolster shareholder returns with buybacks and more dividends.",
-      "SK Hynix on Aug 7 said it will unveil shareholder-return details in the third quarter. Samsung Electronics is expected to follow suit, with KB Securities analysts expecting a more than tenfold increase in shareholder returns.",
-      "Temasek didn’t immediately comment on the report when contacted by Bloomberg.",
-      "“This hints at long-term investors’ improving appetite for South Korea’s deeply-undervalued semiconductor sector,” said Homin Lee, a senior macro strategist at Lombard Odier Singapore. “More aggressive foreign institutions are likely to view these key names as an opportunity, especially if retail-driven volatility subsides.”",
-      "The valuations of the memory chipmakers have come down to record low levels following the July rout. Samsung and SK Hynix are trading at 4.2 and 3.6 times forward earnings, respectively, compared with more than 21 times for the Philadelphia Semiconductor Index of global chip peers.",
-      "Global funds added more than 2 trillion won ($1.4 billion) worth of Kospi shares as of mid-Wednesday, while retail traders sold.",
-      "If confirmed, the investment would signal “strong foreign confidence in Korea’s AI/memory cycle,” said Ha SeokKeun, chief investment officer at Eugene Asset Management. It would be one of the drivers supporting a Kospi rebound, he added. BLOOMBERG"
+      "SINGAPORE - Sembcorp Industries announced on Aug 13 a higher interim divide nd of 11 cents per share for the first half of 2026 – up from nine cents per share a year ago – as it expects stronger financial results for the second half.",
+      "This reflects confidence in the company’s future performance, it said in a Singapore Exchange filing before trading hours.",
+      "Sembcorp also expects more contributions from Australian energy supplier Alinta Energy, which it acquired in June.",
+      "This is even as the Singapore energy and urban solutions provider saw its underlying net profit fall 25 per cent to $369 million for the first half of 2026, compared with $491 million in the first half of 2025.",
+      "When taking in one-off acquisition costs, net profit fell by a larger margin of 72 per cent. Sembcorp had incurred a $155 million one-off transaction cost for the acquisition of Alinta.",
+      "Underlying net profit for Sembcorp’s three segments – gas and related services, renewables, and integrated urban solutions – also declined.",
+      "However, the company said if the Alinta acquisition had been completed in January instead of June 2026, net profit would have been $558 million, taking in six months of Alinta’s contributions.",
+      "Sembcorp group chief executive Wong Kim Yin said: “Alinta has performed better than expected in the first half of 2026.",
+      "“Looking ahead, we expect a stronger second-half performance, supported by the resilience of our diversified portfolio, contributions from Alinta and improved earnings prospects for our Singapore business.”",
+      "He added that as an integrated energy player, Sembcorp is well-positioned to capture structural demand growth from data centres and AI-related infrastructure.",
+      "“Our interim dividend of 11 cents per share, up 22 per cent from last year, reflects our confidence in the group’s future performance and our commitment to sustainable shareholder returns,” he said.",
+      "Sembcorp expects stronger earnings for the gas and related services segment in the second half.",
+      "This is supported by the commissioning of a 600-megawatt hydrogen-ready power plant, among other factors.",
+      "Sembcorp said in its results presentation: “The segment remains well-positioned to capture growing power demand in Singapore, particularly from data centre and high-tech manufacturing sectors.”",
+      "It added that Alinta is expected to strengthen the group’s earnings base and contribute to recurring cash flows over time.",
+      "Meanwhile, the integrated urban solutions segment is also projected to do better in the secon d half, driven by higher land sales.",
+      "“The business continues to make steady progress in developing 0.9 million sq m of ready-built factories, which are expected to contribute to recurring income upon completion,” Sembcorp said.",
+      "However, the renewables segment is expected to bring in lower earnings for the second half of 2026, driven by seasonal and tariff-related challenges.",
+      "Sembcorp said it expects lower resources and tariffs in China, partially offset by contribution from new operational capacity in India.",
+      "But overall, Sembcorp still expects its second-half underlying net profit to exceed that of the first half of 2026.",
+      "Sembcorp shares slid nearly 3 per cent to $5.56 at around 10am on Aug 13."
     ]
   },
   "cna": {
-    "headline": "Bell backs injured Suaalii to return to Wallabies colours in no time",
-    "teaser": "Bell backs injured Suaalii to return to Wallabies colours in no time",
-    "url": "https://www.channelnewsasia.com/sport/bell-backs-injured-suaalii-return-wallabies-colours-in-no-time-6314081",
+    "headline": "Starbucks Korea swings to Q2 operating loss after marketing backlash",
+    "teaser": "Starbucks Korea swings to Q2 operating loss after marketing backlash",
+    "url": "https://www.channelnewsasia.com/business/starbucks-korea-swings-q2-operating-loss-after-marketing-backlash-6316686",
     "fullText": [
-      "SYDNEY, Aug 12 : Wallabies prop Angus Bell has backed Joseph-Aukuso Suaalii to be playing again sooner rather than later after the centre suffered another injury setback against Japan last weekend.",
-      "Suaalii will miss this weekend's return match against Japan in Townsville after picking up a minor hamstring strain in last Saturday's 35-32 win in Osaka.",
-      "The 23-year-old has been bedevilled by injuries since making a big-money switch from rugby league in late 2024, and Bell said it was certainly nothing to do with the way he looked after himself.",
-      "\"There's one thing that I've never questioned Su on, it's his preparation,\" Bell told reporters from Queensland on Wednesday.",
-      "\"It's honestly just probably a bit of maturing in the body. I went through the exact same thing, I went through two and a half to three years where I wasn't playing any rugby for the Waratahs, which was tough.",
-      "\"But it's only a really minor injury, he'll be back sooner rather than later so we look forward to having him back.\"",
-      "Josh Flook was called into the squad as cover and inside centre Hunter Paisami said the team had a \"next up\" approach to losing players as they looked towards the second test.",
-      "\"Whoever's in that 12 and 13 jersey, we just know that they will do a job for the boys and for the jersey,\" he said.",
-      "Paisami's Queensland Reds teammate Carter Gordon is also tipped to return at flyhalf on Saturday after recovering from a calf injury.",
-      "Declan Meredith endured a tricky night in the number 10 shirt in Osaka so Gordon looks likely to be up against Ben Donaldson in the race for the starting playmaker role.",
-      "\"I think he's just a natural 10,\" Paisami said of Gordon.",
-      "\"They all are natural 10s, but I feel like they're just very similar. Obviously, Carter's defensive side. He's a big body and he puts his body on the line. They all read the game pretty well. If Carter is in it's a huge plus.\"",
-      "New coach Les Kiss will name his team on Thursday.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "SEOUL, Aug 13 : The operator of Starbucks Korea posted an operating loss in the second quarter as sales fell after backlash over a marketing campaign that evoked a brutal 1980 military crackdown on pro-democracy protesters, and the suspension of its flagship summer promotion.",
+      "• Starbucks Korea's operator SCK Company swung to an 18.4 billion won ($13.4 million) operating loss in the second quarter from an operating profit of 40.3 billion won a year earlier and 29.3 billion won in the preceding quarter.",
+      "• E-Mart, the parent of SCK, said in an earnings announcement on Thursday that SCK did not hold its usual summer promotional campaign in June.",
+      "• Parent Shinsegae Group dismissed the head of Starbucks Korea, while the group later said sales had dropped \"very significantly\" and held historical awareness and social sensitivity training for staff.",
+      "• On Thursday, E-Mart did not cite the controversy or subsequent boycott calls as a direct reason for the quarterly decline.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
@@ -62,263 +66,263 @@
   },
   "lifeVocab": [
     {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "a person who travels some distance to work on a regular basis",
-      "ex": "Thousands of commuters squeeze into the MRT trains every weekday morning.",
-      "emoji": "🚇"
+      "en": "Produce",
+      "cn": "农产品（尤指蔬菜水果）",
+      "def": "Fresh fruits and vegetables, especially when grown for sale.",
+      "ex": "My grandmother always goes to the wet market early in the morning to buy the freshest produce.",
+      "emoji": "🥦"
     },
     {
-      "en": "concourse",
-      "cn": "大厅",
-      "def": "a large open area inside a station",
-      "ex": "Let's meet near the passenger service centre at the Dhoby Ghaut station concourse.",
-      "emoji": "🏢"
+      "en": "Haggle",
+      "cn": "讨价还价",
+      "def": "To dispute or bargain persistently, especially over the cost of something.",
+      "ex": "In some traditional wet markets, you can still haggle with the stallholders over the price of seafood.",
+      "emoji": "🤝"
     },
     {
-      "en": "tap in",
-      "cn": "刷卡进站",
-      "def": "to place a smartcard on a reader to enter a station",
-      "ex": "Remember to tap in with your EZ-Link card before entering the platform.",
-      "emoji": "💳"
+      "en": "Sought-after",
+      "cn": "抢手的/受欢迎的",
+      "def": "In demand or highly desired.",
+      "ex": "The wild-caught red grouper is highly sought-after during the Chinese New Year period.",
+      "emoji": "⭐"
     },
     {
-      "en": "feeder bus",
-      "cn": "接驳巴士",
-      "def": "a local bus service that brings passengers to a main station",
-      "ex": "If you miss the direct train, you can take a feeder bus from the interchange.",
-      "emoji": "🚌"
+      "en": "Gills",
+      "cn": "鱼鳃",
+      "def": "The respiratory organ of a fish, often checked to determine its freshness.",
+      "ex": "Always check that the fish's gills are bright red and not dull gray before buying.",
+      "emoji": "🐟"
     },
     {
-      "en": "peak hour",
-      "cn": "高峰时间",
-      "def": "the busiest times of the day for travel",
-      "ex": "Fares are slightly higher and trains are more crowded during peak hours.",
-      "emoji": "⏰"
+      "en": "Scale",
+      "cn": "刮鱼鳞 / 称重",
+      "def": "To remove the scales from a fish, or to weigh items.",
+      "ex": "The fishmonger will scale and gut the seabass for you if you ask him nicely.",
+      "emoji": "🔪"
     },
     {
-      "en": "transit",
-      "cn": "过境/运输",
-      "def": "the carrying of people or goods from one place to another",
-      "ex": "The new Thomson-East Coast Line has significantly cut down our transit time.",
-      "emoji": "🔄"
+      "en": "Stallholder",
+      "cn": "摊主",
+      "def": "A person who rents or runs a stall in a market.",
+      "ex": "The vegetable stallholder gave us free spring onions because we bought a lot of potatoes.",
+      "emoji": "🧑‍🌾"
     },
     {
-      "en": "escalator",
-      "cn": "自动扶梯",
-      "def": "a moving staircase",
-      "ex": "Commuters are advised to stand on the left of the escalator to let others pass on the right.",
-      "emoji": "🪜"
+      "en": "Perishable",
+      "cn": "易腐烂的/易变质的",
+      "def": "Food items that are likely to decay or go bad quickly.",
+      "ex": "Wet markets are filled with perishable goods, which is why they close early in the afternoon.",
+      "emoji": "🍌"
     },
     {
-      "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "safety doors separating the platform from the train tracks",
-      "ex": "Please stand behind the yellow line until the platform screen doors open.",
-      "emoji": "🚪"
+      "en": "Trimmings",
+      "cn": "边角料",
+      "def": "Pieces cut off when preparing or shaping something.",
+      "ex": "My mother buys beef trimmings from the butcher stall to make a cheap and flavorful stew.",
+      "emoji": "🥩"
     },
     {
-      "en": "disruption",
-      "cn": "中断",
-      "def": "an interruption to the regular flow of a service",
-      "ex": "The SMRT Twitter account provides real-time updates in case of any train service disruption.",
-      "emoji": "⚠️"
+      "en": "Bulk",
+      "cn": "大批/大量",
+      "def": "Large quantities of something.",
+      "ex": "It is cheaper to buy spices like turmeric and cumin in bulk from the dry market section.",
+      "emoji": "📦"
     },
     {
-      "en": "interchange",
-      "cn": "换乘站",
-      "def": "a station where passengers can change transit lines",
-      "ex": "Outram Park is a major interchange connecting three different MRT lines.",
-      "emoji": "🔀"
+      "en": "Damp",
+      "cn": "潮湿的",
+      "def": "Slightly wet, often in a way that is unpleasant.",
+      "ex": "Be careful when walking through the wet market; the floor is often damp and slippery.",
+      "emoji": "💦"
     }
   ],
   "levelVocab": [
     {
-      "w": "arbitrary",
-      "ipa": "/ˈɑːrbɪtreri/",
-      "pos": "adj.",
-      "cn": "任意的/随意的",
-      "def": "based on random choice or personal whim, rather than any reason or system",
-      "ex": "The corporate dress code seemed arbitrary and was rarely enforced by department heads."
-    },
-    {
-      "w": "prevalent",
-      "ipa": "/ˈprevələnt/",
-      "pos": "adj.",
-      "cn": "普遍的/流行的",
-      "def": "widespread in a particular area or at a particular time",
-      "ex": "Hybrid working arrangements have become highly prevalent in Singapore's tech sector."
-    },
-    {
-      "w": "incongruous",
-      "ipa": "/ɪnˈkɒŋɡruəs/",
-      "pos": "adj.",
-      "cn": "不协调的/不相称的",
-      "def": "not in harmony or keeping with the surroundings or other aspects of something",
-      "ex": "His casual t-shirt felt incongruous in the highly formal boardroom environment."
-    },
-    {
-      "w": "axiomatic",
-      "ipa": "/ˌæksiəˈmætɪk/",
-      "pos": "adj.",
-      "cn": "不言自明的",
-      "def": "self-evident or unquestionable",
-      "ex": "It is axiomatic that a firm must satisfy its clients to remain profitable in the long run."
-    },
-    {
-      "w": "elicit",
-      "ipa": "/iˈlɪsɪt/",
+      "w": "Adhere",
+      "ipa": "/ədˈhɪər/",
       "pos": "v.",
-      "cn": "引起/诱导",
-      "def": "evoke or draw out a reaction or answer from someone",
-      "ex": "The management's proposal failed to elicit any positive feedback from the union members."
+      "cn": "遵守/坚持",
+      "def": "To stick firmly to a rule, agreement, or standard.",
+      "ex": "All employees must strictly adhere to the company's cybersecurity protocols."
     },
     {
-      "w": "cognizant",
-      "ipa": "/ˈkɒɡnɪzənt/",
-      "pos": "adj.",
-      "cn": "意识到的/知晓的",
-      "def": "having knowledge or being aware of",
-      "ex": "We must remain cognizant of local regulations when expanding our services overseas."
-    },
-    {
-      "w": "juxtapose",
-      "ipa": "/ˌdʒʌkstəˈpəʊz/",
+      "w": "Coincide",
+      "ipa": "/ˌkəʊɪnˈsaɪd/",
       "pos": "v.",
-      "cn": "并列",
-      "def": "place or deal with close together for contrasting effect",
-      "ex": "The exhibition juxtaposes historical photographs of Singapore with modern digital artwork."
+      "cn": "同时发生",
+      "def": "To happen at the same time or occur during the same period.",
+      "ex": "The launch of our new product is planned to coincide with the annual industry exhibition."
     },
     {
-      "w": "lucrative",
+      "w": "Delineate",
+      "ipa": "/dɪˈlɪnieɪt/",
+      "pos": "v.",
+      "cn": "描绘/勾勒",
+      "def": "To describe or portray something precisely.",
+      "ex": "The contract clearly delineates the roles and responsibilities of both parties."
+    },
+    {
+      "w": "Equivocal",
+      "ipa": "/ɪˈkwɪvəkəl/",
+      "pos": "adj.",
+      "cn": "模棱两可的",
+      "def": "Open to more than one interpretation; unclear or undecided.",
+      "ex": "The feedback we received from the client was equivocal, leaving us unsure of how to proceed."
+    },
+    {
+      "w": "Impetus",
+      "ipa": "/ˈɪmpɪtəs/",
+      "pos": "n.",
+      "cn": "推动/促进",
+      "def": "A force that makes something happen or happen more quickly.",
+      "ex": "The government grant provided the necessary impetus for our startup to expand overseas."
+    },
+    {
+      "w": "Lucrative",
       "ipa": "/ˈluːkrətɪv/",
       "pos": "adj.",
       "cn": "获利丰厚的",
-      "def": "producing a great deal of profit",
-      "ex": "The software startup secured a lucrative contract with a regional multinational bank."
+      "def": "Producing a great deal of profit.",
+      "ex": "Entering the e-commerce market turned out to be a highly lucrative business decision."
     },
     {
-      "w": "pervasive",
-      "ipa": "/pəˈveɪsɪv/",
-      "pos": "adj.",
-      "cn": "充斥各处的/遍布的",
-      "def": "spreading widely throughout an area or a group of people",
-      "ex": "Artificial intelligence is having a pervasive influence on modern corporate operations."
-    },
-    {
-      "w": "preclude",
-      "ipa": "/prɪˈkluːd/",
+      "w": "Obviate",
+      "ipa": "/ˈɒbvieɪt/",
       "pos": "v.",
-      "cn": "排除/阻止",
-      "def": "prevent from happening or make impossible",
-      "ex": "Signing this non-disclosure agreement does not preclude you from discussing general career history."
+      "cn": "消除/排除",
+      "def": "To remove a need or difficulty, making something unnecessary.",
+      "ex": "The new automated software will obviate the need for manual data entry."
+    },
+    {
+      "w": "Prevalent",
+      "ipa": "/ˈprevələnt/",
+      "pos": "adj.",
+      "cn": "流行的/普遍的",
+      "def": "Widespread or commonly occurring in a particular area or at a particular time.",
+      "ex": "Flexible working arrangements have become far more prevalent since the pandemic."
+    },
+    {
+      "w": "Reconcile",
+      "ipa": "/ˈrekənsaɪl/",
+      "pos": "v.",
+      "cn": "调和/和解",
+      "def": "To find a way of making two different ideas or facts exist or be true at the same time.",
+      "ex": "It is difficult to reconcile the need for rapid growth with our commitment to environmental sustainability."
+    },
+    {
+      "w": "Unilateral",
+      "ipa": "/ˌjuːnɪˈlætərəl/",
+      "pos": "adj.",
+      "cn": "单方面的",
+      "def": "Action taken by only one person or group involved in a situation, without the agreement of others.",
+      "ex": "The management's unilateral decision to cut bonuses sparked outrage among the staff."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "The Evolution of Singapore's Heritage Hawker Stalls",
-    "transcript": "Many young Singaporeans are stepping up to preserve the nation's <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈtʃerɪʃt/ (adj.) kept, valued, and loved in one's heart — 珍爱的/珍视的\">cherished</span> hawker culture. Facing long working hours and rising ingredient costs, these next-generation hawkers are leveraging modern marketing and tech to stay competitive. While traditionalists worry about losing original flavors, these <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌpaɪəˈnɪərz/ (n.) people who are among the first to explore or settle a new area or activity — 先驱/开拓者\">pioneers</span> argue that adaptation is key to survival in a modern global hub. The government has also rolled out <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsʌbsədiz/ (n.) sums of money granted by the government to assist an industry or business — 补贴/津贴\">subsidies</span> to ease their transition."
+    "title": "Singapore's High-Tech Farming Shift",
+    "transcript": "Singapore’s coastal waters are seeing a technological upgrade as local fish farms adopt smart sensors and automated feeding systems. The goal is to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈbʌf.ər/ (v.) to protect someone or something from being harmed by a negative change — 缓冲/保护\">buffer</span> the island nation against global supply disruptions by boosting local production. While traditional farmers face high operational costs, these high-tech solutions hope to make sustainable <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈæk.wə.kʌl.tʃər/ (n.) the rearing of aquatic animals or the cultivation of aquatic plants for food — 水产养殖\">aquaculture</span> commercially profitable for the long term."
   },
   "economistArticle": {
     "title": "Hooray for index funds—just don’t call them passive",
     "paras": [
-      "For decades, index funds have been heralded as the ultimate financial equalizer. Created by Vanguard founder Jack Bogle in the 1970s, these instruments promised to <span class=\"voc\">democratize</span> wealth creation. By tracking broad market indices like the S&P 500, they allowed ordinary retail investors to capture the collective return of corporate America without paying <span class=\"voc\">exorbitant</span> fees to active fund managers. Today, trillions of dollars reside in passive vehicles, reshaping global capital markets.",
-      "However, to describe indexing as \"passive\" is a <span class=\"voc\">misnomer</span> that obscures a complicated reality. The composition of any index is fundamentally an active construct. <span class=\"gem\">Stock market indices do not appear spontaneously from the <span class=\"voc\">ether</span>; they are designed, maintained, and occasionally modified by committee decisions.</span> For instance, the inclusion or exclusion of a company like Tesla in a major index involves highly qualitative judgments about corporate governance, liquidity, and profitability.",
-      "Furthermore, index fund providers themselves exercise tremendous <span class=\"voc\">discretionary</span> power. Far from being inert pipelines, giants like BlackRock, Vanguard, and State Street wield immense voting power in corporate boardrooms. As major shareholders in almost every public firm, these institutional <span class=\"voc\">behemoths</span> actively engage with management on environmental, social, and governance (ESG) policies. The decisions they make regarding board appointments and climate resolutions are anything but passive.",
-      "The rise of index-centric investing has also altered price-discovery mechanisms on Wall Street. Critics argue that when capital flows blindly into stocks based solely on their market capitalization, it creates systemic <span class=\"voc\">distortions</span>. This can lead to a self-reinforcing cycle where already-dominant tech giants receive an outsized share of investment, <span class=\"voc\">starvation-rationing</span> capital for smaller, innovative enterprises. Hence, passive indexing might inadvertently undermine market efficiency.",
-      "Ultimately, the <span class=\"voc\">moniker</span> \"passive\" belies the constant <span class=\"voc\">calibration</span> required to navigate modern financial waters. Investors who opt for passive funds are still making a deliberate asset-allocation choice. They choose which indexes to track, when to rebalance, and how to allocate between equities and bonds. <span class=\"gem\">In a world of infinite financial complexity, Bogle’s revolution was not about eliminating human choice, but about transferring the power of those choices from Wall Street middlemen to individual savers.</span>"
+      "For decades, index-tracking funds have been <span class=\"voc\">heralded</span> as the ultimate \"passive\" investment tool. By simply copying the composition of an index like the S&P 500, these financial vehicles offer low costs and steady, market-matching returns, effectively democratizing wealth creation for millions of ordinary savers. Jack Bogle’s <span class=\"voc\">brainchild</span>, Vanguard, popularized this concept, convincing generations that trying to beat the market was a fool's errand.",
+      "However, calling these funds \"passive\" is a <span class=\"voc\">misnomer</span> that masks the immense <span class=\"voc\">discretionary</span> power held by index creators and fund managers. Index construction itself is a series of highly active, qualitative choices. <span class=\"gem\">Deciding which companies qualify for an index, how they are weighted, and when they are <span class=\"voc\">reconstituted</span> involves human judgment, committees, and arbitrary thresholds.</span> When a tech giant is reclassified or a failing giant is ejected, billions of dollars shift in an instant, dictated not by natural market forces but by index rulebooks.",
+      "Moreover, the rapid <span class=\"voc\">proliferation</span> of customized and thematic indices has shattered the illusion of a neutral market. Today, investors can choose from indices targeting green energy, cybersecurity, or specific geographical regions. Selecting which index to track is, in itself, an active and often speculative bet. Rather than quietly riding the market tide, investors are actively <span class=\"voc\">curating</span> their portfolios, using index funds as building blocks to express highly specific economic views.",
+      "The corporate <span class=\"voc\">governance</span> implications of so-called passive investing are equally profound. The \"Big Three\" asset managers—BlackRock, Vanguard, and State Street—now control massive voting blocks in almost every major listed company. Far from being passive bystanders, these institutions engage in intensive dialogue with corporate boards, voting on everything from executive compensation to climate transition plans. Their decisions wield extraordinary influence over corporate behavior and capital allocation globally.",
+      "Ultimately, the rise of index investing represents a shift in where active decisions are made, rather than their elimination. The simplicity of buying a single fund obscures a vast infrastructure of strategic choices, market-moving index rebalances, and corporate <span class=\"voc\">stewardship</span>. <span class=\"gem\">To celebrate the democratizing power of low-cost funds is entirely justified, but we must <span class=\"voc\">retire</span> the myth of passivity.</span>"
     ],
-    "cn": "几十年来，指数基金一直被誉为终极的财务平等工具。这些工具由先锋集团（Vanguard）创始人杰克·博格尔（Jack Bogle）在20世纪70年代创立，承诺让财富创造走向民主化。通过追踪标普500等广泛的市场指数，它们让普通散户投资者能够获取美国企业界整体的集体回报，而无需向主动型基金经理支付高昂的费用。如今，数万亿美元沉淀在这些被动工具中，重塑了全球资本市场。\n然而，将被动指数化描述为“被动”其实是一个误称，遮蔽了复杂的现实。任何指数的构成从根本上说都是一种主动的建构。股市指数并非凭空出现；它们是通过委员会的决策进行设计、维护并偶尔修改的。例如，将特斯拉这样的公司纳入或排除在某项主要指数之外，涉及对公司治理、流动性和盈利能力的极具定性的判断。\n此外，指数基金提供商本身也行使着巨大的自由裁量权。黑石（BlackRock）、先锋和道富（State Street）等巨头绝非毫无生机的传导管道，它们在企业董事会中拥有巨大的投票权。作为几乎所有上市公司的主要股东，这些机构巨头积极在环境、社会和治理（ESG）政策上与管理层进行交涉。它们在董事会任命和气候决议方面所做的决定，绝非被动。\n以指数为中心的投资兴起，也改变了华尔街的价格发现机制。批评者认为，当资本仅根据市值盲目流入股票时，会造成系统性扭曲。这可能导致自我强化的循环，使已经占据主导地位的科技巨头获得不成比例的投资份额，从而使规模较小、具有创新精神的企业陷入资金极度匮乏的窘境。因此，被动指数投资可能会在无意中损害市场效率。\n归根结底，“被动”这一绰号掩盖了驾驭现代金融浪潮所需的持续调整。选择被动基金的投资者仍然在做出刻意的资产配置选择。他们选择追踪哪些指数、何时重新平衡，以及如何在股票和债券之间进行分配。在无限金融复杂性的世界里，博格尔的革命并不是为了消除人类的选择，而是为了将这些选择的权利从华尔街的中间商手中转移到个人储户手中。",
+    "cn": "几十年来，指数跟踪基金一直被誉为终极的“被动”投资工具。通过简单地复制标准普尔500指数等指数的构成，这些金融工具提供了低成本和稳定的、与市场相匹配的回报，有效地为数百万普通储蓄者实现了财富创造的民主化。杰克·博格尔的创意——先锋集团——推广了这一理念，让几代人相信，试图击败市场是徒劳的。\n然而，将这些基金称为“被动”是一个误导性的名称，它掩盖了指数制定者和基金经理所拥有的巨大自由裁量权。指数构建本身就是一系列高度主动的、定性的选择。决定哪些公司有资格加入指数、它们如何加权以及何时进行重组，涉及人类的判断、委员会和任意设定的门槛。当一家科技巨头被重新分类，或一家衰落的巨头被剔除时，数百亿美元会在瞬间发生转移，这并非由自然的市场力量决定，而是由指数规则手册所主导。\n此外，定制和主题指数的迅速泛滥，打破了中性市场的幻想。今天，投资者可以选择针对绿色能源、网络安全或特定地理区域的指数。选择跟踪哪个指数本身就是一种主动的、往往是投机性的押注。投资者并不是在静静地顺应市场潮流，而是正在积极地构建他们的投资组合，利用指数基金作为构建模块来表达高度特定的经济观点。\n所谓被动投资对公司治理的影响也同样深远。三大资产管理公司——贝莱德、先锋和道富——现在几乎在每家大型上市公司中都控制着庞大的表决权。这些机构远非被动的旁观者，而是与公司董事会进行深入对话，对从高管薪酬到气候转型计划等所有事务进行投票。他们的决策对全球的企业行为和资本配置具有非凡的影响力。\n归根结底，指数投资的兴起代表了主动决策发生地点的转移，而不是决策的消除。购买单一基金的简单性掩盖了战略选择、影响市场的指数重新平衡以及公司治理的庞大基础设施。庆祝低成本基金的民主化力量是完全有道理的，但我们必须摒弃被动性的神话。",
     "vocab": [
       {
-        "w": "democratize",
-        "ipa": "/dɪˈmɒkrətaɪz/",
+        "w": "Heralded",
+        "ipa": "/ˈher.əl.dɪd/",
         "pos": "v.",
-        "mean": "使民主化/使大众化",
-        "def": "make something accessible to everyone",
-        "ex": "Digital platforms have helped to democratize access to quality education."
+        "mean": "宣布/称赞",
+        "def": "Acclaimed, hailed, or publicly announced with enthusiasm.",
+        "ex": "For decades, index-tracking funds have been heralded as the ultimate passive investment tool."
       },
       {
-        "w": "exorbitant",
-        "ipa": "/ɪɡˈzɔːbɪtənt/",
-        "pos": "adj.",
-        "mean": "过高的/高得离谱的",
-        "def": "unreasonably high, especially of a price or fee",
-        "ex": "We refused to pay the exorbitant fees charged by the consultant."
+        "w": "Brainchild",
+        "ipa": "/ˈbreɪn.tʃaɪld/",
+        "pos": "n.",
+        "mean": "脑力劳动成果/创意",
+        "def": "An idea, plan, or creation of one person.",
+        "ex": "The new digital payment system was the brainchild of our technical director."
       },
       {
-        "w": "misnomer",
-        "ipa": "/ˌmɪsˈnəʊmər/",
+        "w": "Misnomer",
+        "ipa": "/ˌmɪsˈnəʊ.mər/",
         "pos": "n.",
         "mean": "误称/用词不当",
-        "def": "a wrong or inaccurate name or designation",
-        "ex": "To call this draft a final report is a misnomer, as major revisions are still required."
+        "def": "A wrong or inaccurate name or designation.",
+        "ex": "Calling these funds passive is a misnomer that masks the immense power of index creators."
       },
       {
-        "w": "ether",
-        "ipa": "/ˈiːθər/",
-        "pos": "n.",
-        "mean": "太空中/虚空",
-        "def": "used to refer to the sky or the air, or an imaginary empty space",
-        "ex": "The missing emails did not just vanish into the ether; they were deleted from the server."
-      },
-      {
-        "w": "discretionary",
-        "ipa": "/disˈkreʃəneri/",
+        "w": "Discretionary",
+        "ipa": "/dɪˈskreʃ.ən.ər.i/",
         "pos": "adj.",
-        "mean": "自由支配的/自主决定的",
-        "def": "available for use at the discretion of the user",
-        "ex": "The board has discretionary authority to award annual performance bonuses."
+        "mean": "自由裁量的/自主决定的",
+        "def": "Available for use at the discretion of the user; not dictated by fixed rules.",
+        "ex": "The fund manager has discretionary authority over which assets to trade."
       },
       {
-        "w": "behemoths",
-        "ipa": "/bɪˈhiːmɒθs/",
+        "w": "Reconstituted",
+        "ipa": "/ˌriːˈkɒn.stɪ.tʃuː.tɪd/",
+        "pos": "v.",
+        "mean": "重新组建/重组",
+        "def": "Reconstructed or formed again, especially with new components.",
+        "ex": "When indices are reconstituted, billions of dollars automatically shift to new stocks."
+      },
+      {
+        "w": "Proliferation",
+        "ipa": "/prəˌlɪf.ərˈeɪ.ʃən/",
         "pos": "n.",
-        "mean": "巨头/巨兽",
-        "def": "huge or extremely powerful organizations or things",
-        "ex": "E-commerce behemoths have transformed the retail industry globally."
+        "mean": "激增/扩散",
+        "def": "A rapid increase in the number or amount of something.",
+        "ex": "The rapid proliferation of customized indices has completely changed the financial landscape."
       },
       {
-        "w": "distortions",
-        "ipa": "/dɪˈstɔːʃənz/",
+        "w": "Curating",
+        "ipa": "/kjʊəˈreɪ.tɪŋ/",
+        "pos": "v.",
+        "mean": "策划/精心挑选",
+        "def": "Selecting, organizing, and looking after a collection of items.",
+        "ex": "Investors are actively curating their portfolios to align with environmental values."
+      },
+      {
+        "w": "Governance",
+        "ipa": "/ˈɡʌv.ən.əns/",
         "pos": "n.",
-        "mean": "扭曲/失真",
-        "def": "the action of giving a misleading account or causing systemic imbalance",
-        "ex": "Government subsidies can sometimes lead to market distortions and inefficiency."
+        "mean": "治理/管理",
+        "def": "The action or manner of governing or managing an organization.",
+        "ex": "Corporate governance plays a critical role in protecting minority shareholders."
       },
       {
-        "w": "starvation-rationing",
-        "ipa": "/stɑːˈveɪʃən ˈræʃənɪŋ/",
-        "pos": "v. (used in gerund/adj. context)",
-        "mean": "极度限制/饥饿配给",
-        "def": "limiting something to an extremely small or inadequate amount",
-        "ex": "The continuous rate hikes are starvation-rationing credit to small business owners."
-      },
-      {
-        "w": "moniker",
-        "ipa": "/ˈmɒnɪkər/",
+        "w": "Stewardship",
+        "ipa": "/ˈstjʊə.dʃɪp/",
         "pos": "n.",
-        "mean": "名字/绰号",
-        "def": "a name or nickname",
-        "ex": "She earned the moniker 'Iron Lady' for her uncompromising leadership style."
+        "mean": "妥善管理/管家职责",
+        "def": "The job of supervising or taking care of something, such as an organization or assets.",
+        "ex": "As asset managers, our commitment to investment stewardship requires active voting."
       },
       {
-        "w": "calibration",
-        "ipa": "/ˌkælɪˈbreɪʃən/",
-        "pos": "n.",
-        "mean": "校准/精细调整",
-        "def": "the careful adjustment of something to keep it accurate or aligned",
-        "ex": "The risk models require constant calibration to reflect shifting market dynamics."
+        "w": "Retire",
+        "ipa": "/rɪˈtaɪər/",
+        "pos": "v.",
+        "mean": "淘汰/使退休",
+        "def": "To stop using something or remove it from circulation.",
+        "ex": "We must retire the myth of passivity in index investing."
       }
     ],
     "gems": [
       {
-        "s": "Stock market indices do not appear spontaneously from the ether; they are designed, maintained, and occasionally modified by committee decisions.",
-        "why": "This sentence uses a strong semicolon connection and a vivid spatial metaphor (\"from the ether\") to debunk a common misconception. 该句运用分号连接与生动的空间比喻（“凭空出现”），有力地打破了普遍的误解。"
+        "s": "Deciding which companies qualify for an index, how they are weighted, and when they are reconstituted involves human judgment, committees, and arbitrary thresholds.",
+        "why": "This sentence uses parallel structures ('Deciding which...', 'how they...', 'and when they...') followed by a triad ('human judgment, committees, and arbitrary thresholds') to build a compelling and logically tight argument. 句子使用了并列结构和排比词组，使论点结构严密，说服力极强。"
       },
       {
-        "s": "In a world of infinite financial complexity, Bogle’s revolution was not about eliminating human choice, but about transferring the power of those choices from Wall Street middlemen to individual savers.",
-        "why": "The sentence employs a highly effective \"not about..., but about...\" parallel structure to contrast the traditional view of passive investing with its true democratic impact. 该句采用经典的“不是……而是……”排比结构，将对被动投资的传统看法与其真正的民主化影响进行对比，极具说服力。"
+        "s": "To celebrate the democratizing power of low-cost funds is entirely justified, but we must retire the myth of passivity.",
+        "why": "This sentence employs a balanced contrast using the 'To do... is justified, but we must...' structure, effectively validating the opponent's view before delivering a sharp counterargument. 句子采用了平衡对比句式，在肯定对方观点的同时，迅速抛出犀利的反驳，极具说服力。"
       }
     ]
   }
