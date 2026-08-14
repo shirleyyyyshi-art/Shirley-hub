@@ -1,62 +1,67 @@
 {
-  "date": "2026-08-13",
-  "generatedAt": "2026-08-13T05:53:53.709321+00:00",
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T05:50:18.373024+00:00",
   "economist": {
-    "headline": "Hooray for index funds—just don’t call them passive",
-    "teaser": "Jack Bogle’s creation has transformed markets, and involves plenty of choices",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/11/hooray-for-index-funds-just-dont-call-them-passive",
+    "headline": "When Japan buys yen, it unwinds a dangerous trade",
+    "teaser": "The world’s biggest carry trader begins to exit its position",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
     "vocab": [
       {
-        "word": "passive",
-        "phonetic": "/ˈpæs.ɪv/",
-        "def": "(grammar) The passive voice of verbs."
+        "word": "unwinds",
+        "phonetic": "",
+        "def": "Any mechanism or operation that unwinds something."
       },
       {
-        "word": "creation",
-        "phonetic": "/kɹiːˈeɪʃən/",
-        "def": "Something created such as an invention or artwork."
+        "word": "dangerous",
+        "phonetic": "/ˈdeɪnd͡ʒ(ə)ɹəs/",
+        "def": "Full of danger."
       }
     ]
   },
   "st": {
-    "headline": "Sembcorp lifts interim dividend to 11 cents on stronger second-half outlook",
-    "teaser": "The company's interim dividend for the first half of 2026 will be 11 cents per share.",
-    "url": "https://www.straitstimes.com/business/companies-markets/sembcorp-announces-higher-interim-dividend-as-it-expects-a-stronger-second-half",
+    "headline": "US flags Singapore as part of China’s ‘shadow transshipment network’ that avoids Trump’s tariffs",
+    "teaser": "The US says 40 lower-tariff countries have become the launchpads and hubs of a new evasion architecture.",
+    "url": "https://www.straitstimes.com/business/economy/us-flags-singapore-as-part-of-chinas-shadow-transshipment-network-that-avoids-trumps-tariffs",
     "fullText": [
-      "SINGAPORE - Sembcorp Industries announced on Aug 13 a higher interim divide nd of 11 cents per share for the first half of 2026 – up from nine cents per share a year ago – as it expects stronger financial results for the second half.",
-      "This reflects confidence in the company’s future performance, it said in a Singapore Exchange filing before trading hours.",
-      "Sembcorp also expects more contributions from Australian energy supplier Alinta Energy, which it acquired in June.",
-      "This is even as the Singapore energy and urban solutions provider saw its underlying net profit fall 25 per cent to $369 million for the first half of 2026, compared with $491 million in the first half of 2025.",
-      "When taking in one-off acquisition costs, net profit fell by a larger margin of 72 per cent. Sembcorp had incurred a $155 million one-off transaction cost for the acquisition of Alinta.",
-      "Underlying net profit for Sembcorp’s three segments – gas and related services, renewables, and integrated urban solutions – also declined.",
-      "However, the company said if the Alinta acquisition had been completed in January instead of June 2026, net profit would have been $558 million, taking in six months of Alinta’s contributions.",
-      "Sembcorp group chief executive Wong Kim Yin said: “Alinta has performed better than expected in the first half of 2026.",
-      "“Looking ahead, we expect a stronger second-half performance, supported by the resilience of our diversified portfolio, contributions from Alinta and improved earnings prospects for our Singapore business.”",
-      "He added that as an integrated energy player, Sembcorp is well-positioned to capture structural demand growth from data centres and AI-related infrastructure.",
-      "“Our interim dividend of 11 cents per share, up 22 per cent from last year, reflects our confidence in the group’s future performance and our commitment to sustainable shareholder returns,” he said.",
-      "Sembcorp expects stronger earnings for the gas and related services segment in the second half.",
-      "This is supported by the commissioning of a 600-megawatt hydrogen-ready power plant, among other factors.",
-      "Sembcorp said in its results presentation: “The segment remains well-positioned to capture growing power demand in Singapore, particularly from data centre and high-tech manufacturing sectors.”",
-      "It added that Alinta is expected to strengthen the group’s earnings base and contribute to recurring cash flows over time.",
-      "Meanwhile, the integrated urban solutions segment is also projected to do better in the secon d half, driven by higher land sales.",
-      "“The business continues to make steady progress in developing 0.9 million sq m of ready-built factories, which are expected to contribute to recurring income upon completion,” Sembcorp said.",
-      "However, the renewables segment is expected to bring in lower earnings for the second half of 2026, driven by seasonal and tariff-related challenges.",
-      "Sembcorp said it expects lower resources and tariffs in China, partially offset by contribution from new operational capacity in India.",
-      "But overall, Sembcorp still expects its second-half underlying net profit to exceed that of the first half of 2026.",
-      "Sembcorp shares slid nearly 3 per cent to $5.56 at around 10am on Aug 13."
+      "SINGAPORE – Singapore and dozens of other countries are at risk of being used by Chinese exporters to avoid US tariffs, President Donald Trump’s administration said on Aug 13.",
+      "A report issued by the White House, titled “The Great Transshipment Scam,” frames the routing of Chinese goods through an intermediate lower-tariffed country by concealing the true origin.",
+      "It also said the administration will use an artificial intelligence-powered “Detective Border”, among other initiatives, to help crack down on illegal transshipments.",
+      "“The message to the world is simple. The age of untraceable illegal transshipment is over,” the report said.",
+      "The report does not say what immediate action will follow. In August 2025, the US announced an additional 40 per cent tariff specifically on goods determined to have been illegally transshipped to evade duties.",
+      "Using estimates from government and private-sector studies, the report estimates that tariff-evading transshipments may have robbed the US of customs revenue in the range of US$40 billion (S$51.2 billion) to US$303 billion.",
+      "“The available data show a substantial reallocation of US import sourcing following the 2018 tariffs. As China’s direct share of US goods imports declined, the combined share supplied by identified transshipment countries increased,” the White House report said.",
+      "It added that the 40 lower-tariff countries have become the launchpads and hubs of a new evasion architecture, namely “products made largely in China, lightly touched abroad and exported to America under new identities”.",
+      "But this relationship does not establish that all displaced Chinese trade was illegally transshipped.",
+      "“Some of the shift reflects legitimate changes in production, investment and sourcing. However, the timing, magnitude and direction of the two trends support further investigation of the extent to which tariffed goods were rerouted through third countries.”",
+      "The 40 countries, including Singapore, identified in the report as participants in the “shadow transshipment network”, were grouped into three tiers.",
+      "The White House placed Singapore in Tier 3, which the report said consists of “small, opportunistic Chinese targets”.",
+      "“These are smaller economies with lower absolute illegal transshipment volumes but specific weak-link advantages – including low-cost labour, free zones, port or border access, bonded warehousing, niche assembly capacity, preferential US access or limited customs enforcement capacity – that make them attractive opportunistic targets for China-linked rerouting.”",
+      "The report also said China-linked exporters may use these jurisdictions for both limited production activity and logistics side-routing.",
+      "The report warned the 40 countries that as their local export sectors and transportation networks become increasingly dependent on Chinese inputs, logistics and capital, “Beijing may gain additional commercial and geopolitical leverage while preserving indirect access to the US market”.",
+      "The Straits Times has asked the Ministry of Trade and Industry for comments on the White House report.",
+      "But Singapore has repeatedly stated in the past that it takes trade compliance seriously.",
+      "Singapore Customs, in response to media queries in September 2025, said: “Singapore’s legislative and regulatory framework governing transshipment is consistent with international best practices and rules, including those from the World Customs Organization, and seeks to facilitate trade through greater transparency and predictability for businesses.” The agency added that transshipment in Singapore refers to the movement of goods from their source to their destination via Singapore, involving a change from one conveyance to another.",
+      "“Transshipped goods do not originate from Singapore and are not for domestic circulation or storage. Their transshipment through Singapore does not change their country of origin (i.e. they cannot be relabelled as originating from Singapore).”",
+      "Companies transshipping goods through Singapore must fully comply with the Republic’s laws and regulations, said Singapore Customs, adding that the agency works closely with international counterparts to detect and take action against illicit goods imported, exported or transshipped through the nation .",
+      "The report is part of the Trump administration’s efforts to rebuild the US leader’s tariff regime after it was undermined by a court decision earlier in 2026.",
+      "In July, a new 12.5 per cent levy, covering about a third of Singapore’s domestic exports to the US, was imposed after White House alleged that t he Republic and dozens of other economies failed to adopt and effectively enforce prohibitions on trade in goods produced with forced labour."
     ]
   },
   "cna": {
-    "headline": "Starbucks Korea swings to Q2 operating loss after marketing backlash",
-    "teaser": "Starbucks Korea swings to Q2 operating loss after marketing backlash",
-    "url": "https://www.channelnewsasia.com/business/starbucks-korea-swings-q2-operating-loss-after-marketing-backlash-6316686",
+    "headline": "Marina Bay Sands to host Ferrari race car, luxury pop-up and F1-themed events ahead of Singapore Grand Prix",
+    "teaser": "Ferrari will take over Marina Bay Sands this F1 season with various events and activities, including a Ferrari SF21 show car going on display from Sep 14 to Oct 12.",
+    "url": "https://www.channelnewsasia.com/living/ferrari-marina-bay-sands-singapore-f1-2026-6319016",
     "fullText": [
-      "SEOUL, Aug 13 : The operator of Starbucks Korea posted an operating loss in the second quarter as sales fell after backlash over a marketing campaign that evoked a brutal 1980 military crackdown on pro-democracy protesters, and the suspension of its flagship summer promotion.",
-      "• Starbucks Korea's operator SCK Company swung to an 18.4 billion won ($13.4 million) operating loss in the second quarter from an operating profit of 40.3 billion won a year earlier and 29.3 billion won in the preceding quarter.",
-      "• E-Mart, the parent of SCK, said in an earnings announcement on Thursday that SCK did not hold its usual summer promotional campaign in June.",
-      "• Parent Shinsegae Group dismissed the head of Starbucks Korea, while the group later said sales had dropped \"very significantly\" and held historical awareness and social sensitivity training for staff.",
-      "• On Thursday, E-Mart did not cite the controversy or subsequent boycott calls as a direct reason for the quarterly decline.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "Formula 1 fans in Singapore can get a closer look at a Ferrari race car and see Marina Bay Sands (MBS) lit up in Ferrari red as part of a series of activities taking place around this year's Singapore night race season.",
+      "The activities begin in September, with a show car of the Ferrari SF21 going on display at the MBS Tower 1 hotel lobby from Sep 14 to Oct 12.",
+      "The car will be displayed ahead of the Singapore Grand Prix, taking place from Oct 9 to 11 at the Marina Bay Street Circuit.",
+      "There will also be a Ferrari Lifestyle boutique at The Shoppes at Marina Bay Sands from Sep 25 to Oct 25, offering an immersive expression of the Ferrari universe beyond the world of Formula 1. The pop-up also marks the first time the Ferrari Lifestyle boutique has been brought to Asia.",
+      "From Sep 28 to Oct 11, MBS will also hold Home of Champions, a destination-wide programme featuring a series of F1-themed events, such as motorsport talks, luxury retail pop-ups and exclusive dining experiences.",
+      "As part of the programme, the resort's three hotel towers and ArtScience Museum will be illuminated in Ferrari red from 7pm to 11.59pm each evening, with the display visible across Marina Bay.",
+      "The activities are part of an extended collaboration between MBS and Scuderia Ferrari HP, which first began in 2023.",
+      "As part of the renewed partnership, MBS is also offering a S$100,000 (US$78,130) five-night hospitality package for up to two people during the Formula 1 season. It includes a stay in a Paiza Grand Suite, access to selected events and parties, three-day Paddock tickets and priority access to after-parties at Marquee Singapore. The package also includes dining experiences at Marina Bay Sands and meet-and-greet opportunities with Ferrari drivers Lewis Hamilton and Charles Leclerc.",
+      "More information is also available at the official Singapore Night Race website .",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
@@ -66,263 +71,263 @@
   },
   "lifeVocab": [
     {
-      "en": "Produce",
-      "cn": "农产品（尤指蔬菜水果）",
-      "def": "Fresh fruits and vegetables, especially when grown for sale.",
-      "ex": "My grandmother always goes to the wet market early in the morning to buy the freshest produce.",
-      "emoji": "🥦"
+      "en": "wet market",
+      "cn": "湿巴刹 / 菜市场",
+      "def": "a market selling fresh meat, fish, and produce, common in Singapore",
+      "ex": "I prefer buying my vegetables at the wet market in Tiong Bahru because they are much fresher.",
+      "emoji": "🥬"
     },
     {
-      "en": "Haggle",
-      "cn": "讨价还价",
-      "def": "To dispute or bargain persistently, especially over the cost of something.",
-      "ex": "In some traditional wet markets, you can still haggle with the stallholders over the price of seafood.",
-      "emoji": "🤝"
-    },
-    {
-      "en": "Sought-after",
-      "cn": "抢手的/受欢迎的",
-      "def": "In demand or highly desired.",
-      "ex": "The wild-caught red grouper is highly sought-after during the Chinese New Year period.",
-      "emoji": "⭐"
-    },
-    {
-      "en": "Gills",
-      "cn": "鱼鳃",
-      "def": "The respiratory organ of a fish, often checked to determine its freshness.",
-      "ex": "Always check that the fish's gills are bright red and not dull gray before buying.",
-      "emoji": "🐟"
-    },
-    {
-      "en": "Scale",
-      "cn": "刮鱼鳞 / 称重",
-      "def": "To remove the scales from a fish, or to weigh items.",
-      "ex": "The fishmonger will scale and gut the seabass for you if you ask him nicely.",
-      "emoji": "🔪"
-    },
-    {
-      "en": "Stallholder",
+      "en": "stallholder",
       "cn": "摊主",
-      "def": "A person who rents or runs a stall in a market.",
-      "ex": "The vegetable stallholder gave us free spring onions because we bought a lot of potatoes.",
+      "def": "a person who rents or runs a stall in a market",
+      "ex": "The friendly fish stallholder always helps me descale the red snapper.",
       "emoji": "🧑‍🌾"
     },
     {
-      "en": "Perishable",
-      "cn": "易腐烂的/易变质的",
-      "def": "Food items that are likely to decay or go bad quickly.",
-      "ex": "Wet markets are filled with perishable goods, which is why they close early in the afternoon.",
-      "emoji": "🍌"
+      "en": "produce",
+      "cn": "农产品 / 生鲜",
+      "def": "fresh agricultural products, especially fruits and vegetables",
+      "ex": "Local supermarkets import produce from Malaysia, Thailand, and Australia.",
+      "emoji": "🥦"
     },
     {
-      "en": "Trimmings",
-      "cn": "边角料",
-      "def": "Pieces cut off when preparing or shaping something.",
-      "ex": "My mother buys beef trimmings from the butcher stall to make a cheap and flavorful stew.",
-      "emoji": "🥩"
+      "en": "descale",
+      "cn": "去鳞",
+      "def": "to remove the scales from a fish",
+      "ex": "Could you please clean and descale this seabass for me?",
+      "emoji": "🐟"
     },
     {
-      "en": "Bulk",
-      "cn": "大批/大量",
-      "def": "Large quantities of something.",
-      "ex": "It is cheaper to buy spices like turmeric and cumin in bulk from the dry market section.",
+      "en": "haggling",
+      "cn": "讨价还价",
+      "def": "disputing or bargaining persistently, especially over the cost of something",
+      "ex": "Haggling is not very common in Singapore retail malls, but older folks still do it at wet markets.",
+      "emoji": "🗣️"
+    },
+    {
+      "en": "stock",
+      "cn": "高汤",
+      "def": "liquid made by boiling meat, bones, or vegetables, used as a basis for soup",
+      "ex": "She used the chicken bones bought from the market to make a rich stock for dinner.",
+      "emoji": "🍲"
+    },
+    {
+      "en": "herbs",
+      "cn": "草药 / 香草",
+      "def": "plants used for flavoring food or for medicinal purposes",
+      "ex": "He bought fresh herbs like coriander and spring onion to garnish the noodles.",
+      "emoji": "🌿"
+    },
+    {
+      "en": "poultry",
+      "cn": "家禽",
+      "def": "domestic fowls, such as chickens, turkeys, ducks, and geese",
+      "ex": "The poultry section at the market was particularly busy before the Lunar New Year.",
+      "emoji": "🐔"
+    },
+    {
+      "en": "bulk",
+      "cn": "大宗 / 大量",
+      "def": "large quantities of something",
+      "ex": "Buying onions in bulk is much cheaper if you cook every day.",
       "emoji": "📦"
     },
     {
-      "en": "Damp",
-      "cn": "潮湿的",
-      "def": "Slightly wet, often in a way that is unpleasant.",
-      "ex": "Be careful when walking through the wet market; the floor is often damp and slippery.",
-      "emoji": "💦"
+      "en": "perishable",
+      "cn": "易腐烂的 / 易变质的",
+      "def": "food that decays or goes bad quickly",
+      "ex": "Berries and leafy greens are highly perishable and should be eaten within a few days.",
+      "emoji": "🍓"
     }
   ],
   "levelVocab": [
     {
-      "w": "Adhere",
-      "ipa": "/ədˈhɪər/",
+      "w": "delineate",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
       "pos": "v.",
-      "cn": "遵守/坚持",
-      "def": "To stick firmly to a rule, agreement, or standard.",
-      "ex": "All employees must strictly adhere to the company's cybersecurity protocols."
+      "cn": "描绘 / 勾画 / 详细说明",
+      "def": "to describe, portray, or set boundaries precisely",
+      "ex": "The project manager needs to delineate the roles of each team member to avoid overlapping duties."
     },
     {
-      "w": "Coincide",
-      "ipa": "/ˌkəʊɪnˈsaɪd/",
+      "w": "synthesise",
+      "ipa": "/ˈsɪn.θə.saɪz/",
       "pos": "v.",
-      "cn": "同时发生",
-      "def": "To happen at the same time or occur during the same period.",
-      "ex": "The launch of our new product is planned to coincide with the annual industry exhibition."
+      "cn": "合成 / 综合",
+      "def": "to combine different ideas, styles, or systems into a single coherent whole",
+      "ex": "For the quarterly report, we must synthesise feedback from both clients and developers."
     },
     {
-      "w": "Delineate",
-      "ipa": "/dɪˈlɪnieɪt/",
+      "w": "preclude",
+      "ipa": "/prɪˈkluːd/",
       "pos": "v.",
-      "cn": "描绘/勾勒",
-      "def": "To describe or portray something precisely.",
-      "ex": "The contract clearly delineates the roles and responsibilities of both parties."
+      "cn": "排除 / 妨碍 / 阻止",
+      "def": "to prevent from happening; make impossible",
+      "ex": "Having a busy schedule during the week does not preclude you from exercising during the weekend."
     },
     {
-      "w": "Equivocal",
-      "ipa": "/ɪˈkwɪvəkəl/",
-      "pos": "adj.",
-      "cn": "模棱两可的",
-      "def": "Open to more than one interpretation; unclear or undecided.",
-      "ex": "The feedback we received from the client was equivocal, leaving us unsure of how to proceed."
-    },
-    {
-      "w": "Impetus",
-      "ipa": "/ˈɪmpɪtəs/",
-      "pos": "n.",
-      "cn": "推动/促进",
-      "def": "A force that makes something happen or happen more quickly.",
-      "ex": "The government grant provided the necessary impetus for our startup to expand overseas."
-    },
-    {
-      "w": "Lucrative",
-      "ipa": "/ˈluːkrətɪv/",
-      "pos": "adj.",
-      "cn": "获利丰厚的",
-      "def": "Producing a great deal of profit.",
-      "ex": "Entering the e-commerce market turned out to be a highly lucrative business decision."
-    },
-    {
-      "w": "Obviate",
-      "ipa": "/ˈɒbvieɪt/",
+      "w": "reconcile",
+      "ipa": "/ˈrek.ən.saɪl/",
       "pos": "v.",
-      "cn": "消除/排除",
-      "def": "To remove a need or difficulty, making something unnecessary.",
-      "ex": "The new automated software will obviate the need for manual data entry."
+      "cn": "和解 / 调和 / 使一致",
+      "def": "to find a way in which two opposing situations or figures can agree or co-exist",
+      "ex": "It is difficult to reconcile his demanding career with his desire to spend time with his young children."
     },
     {
-      "w": "Prevalent",
-      "ipa": "/ˈprevələnt/",
-      "pos": "adj.",
-      "cn": "流行的/普遍的",
-      "def": "Widespread or commonly occurring in a particular area or at a particular time.",
-      "ex": "Flexible working arrangements have become far more prevalent since the pandemic."
-    },
-    {
-      "w": "Reconcile",
-      "ipa": "/ˈrekənsaɪl/",
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
       "pos": "v.",
-      "cn": "调和/和解",
-      "def": "To find a way of making two different ideas or facts exist or be true at the same time.",
-      "ex": "It is difficult to reconcile the need for rapid growth with our commitment to environmental sustainability."
+      "cn": "增加 / 提高 / 扩大",
+      "def": "to make something greater by adding to it; increase",
+      "ex": "Many working professionals take evening courses to augment their existing skill sets."
     },
     {
-      "w": "Unilateral",
-      "ipa": "/ˌjuːnɪˈlætərəl/",
-      "pos": "adj.",
-      "cn": "单方面的",
-      "def": "Action taken by only one person or group involved in a situation, without the agreement of others.",
-      "ex": "The management's unilateral decision to cut bonuses sparked outrage among the staff."
+      "w": "obviate",
+      "ipa": "/ˈɒb.vi.eɪt/",
+      "pos": "v.",
+      "cn": "消除 / 排除 / 避免",
+      "def": "to remove a need or difficulty, or to avoid a problem",
+      "ex": "A disaster recovery plan can obviate the panic associated with sudden server crashes."
+    },
+    {
+      "w": "acquiesce",
+      "ipa": "/ˌæk.wiˈes/",
+      "pos": "v.",
+      "cn": "默许 / 勉强同意",
+      "def": "to accept something reluctantly but without protest",
+      "ex": "Management chose to acquiesce to the union's demands to prevent a potential strike."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "pos": "v.",
+      "cn": "传播 / 散布",
+      "def": "to spread information, knowledge, or ideas widely",
+      "ex": "The government is using social media to disseminate important health advisories to the public."
+    },
+    {
+      "w": "ameliorate",
+      "ipa": "/əˈmiːl.jə.reɪt/",
+      "pos": "v.",
+      "cn": "改善 / 减轻 / 缓解",
+      "def": "to make an unpleasant or bad situation better",
+      "ex": "New housing developments were built to ameliorate the city's severe overcrowding problem."
+    },
+    {
+      "w": "concur",
+      "ipa": "/kənˈkɜːr/",
+      "pos": "v.",
+      "cn": "同意 / 一致",
+      "def": "to have the same opinion; to agree with someone",
+      "ex": "Most economists concur that inflation is likely to stabilise by the end of the year."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's High-Tech Farming Shift",
-    "transcript": "Singapore’s coastal waters are seeing a technological upgrade as local fish farms adopt smart sensors and automated feeding systems. The goal is to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈbʌf.ər/ (v.) to protect someone or something from being harmed by a negative change — 缓冲/保护\">buffer</span> the island nation against global supply disruptions by boosting local production. While traditional farmers face high operational costs, these high-tech solutions hope to make sustainable <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈæk.wə.kʌl.tʃər/ (n.) the rearing of aquatic animals or the cultivation of aquatic plants for food — 水产养殖\">aquaculture</span> commercially profitable for the long term."
+    "title": "Singapore Banks Strengthen Security Measures Amid Scam Concerns",
+    "transcript": "As digital banking scams become increasingly <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/səˈfɪs.tɪ.keɪ.tɪd/ (adj.) advanced, complex, and highly developed — 复杂精密的，高超的\">sophisticated</span> in Singapore, major local banks are rolling out tighter security measures. These measures include a 'kill switch' for customers to freeze their accounts instantly if they suspect fraud. While some consumers find the extra security steps <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈkʌm.bə.səm/ (adj.) slow, complicated, or difficult to manage — 繁琐的，笨重的\">cumbersome</span>, authorities emphasise that <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈseɪf.ɡɑː.dɪŋ/ (v./n. gerund) protecting someone or something from harm, damage, or misuse — 保护，捍卫\">safeguarding</span> public funds remains the top priority."
   },
   "economistArticle": {
-    "title": "Hooray for index funds—just don’t call them passive",
+    "title": "The Great Unwinding: Japan’s Yen Rescue and the Threat to Global Markets",
     "paras": [
-      "For decades, index-tracking funds have been <span class=\"voc\">heralded</span> as the ultimate \"passive\" investment tool. By simply copying the composition of an index like the S&P 500, these financial vehicles offer low costs and steady, market-matching returns, effectively democratizing wealth creation for millions of ordinary savers. Jack Bogle’s <span class=\"voc\">brainchild</span>, Vanguard, popularized this concept, convincing generations that trying to beat the market was a fool's errand.",
-      "However, calling these funds \"passive\" is a <span class=\"voc\">misnomer</span> that masks the immense <span class=\"voc\">discretionary</span> power held by index creators and fund managers. Index construction itself is a series of highly active, qualitative choices. <span class=\"gem\">Deciding which companies qualify for an index, how they are weighted, and when they are <span class=\"voc\">reconstituted</span> involves human judgment, committees, and arbitrary thresholds.</span> When a tech giant is reclassified or a failing giant is ejected, billions of dollars shift in an instant, dictated not by natural market forces but by index rulebooks.",
-      "Moreover, the rapid <span class=\"voc\">proliferation</span> of customized and thematic indices has shattered the illusion of a neutral market. Today, investors can choose from indices targeting green energy, cybersecurity, or specific geographical regions. Selecting which index to track is, in itself, an active and often speculative bet. Rather than quietly riding the market tide, investors are actively <span class=\"voc\">curating</span> their portfolios, using index funds as building blocks to express highly specific economic views.",
-      "The corporate <span class=\"voc\">governance</span> implications of so-called passive investing are equally profound. The \"Big Three\" asset managers—BlackRock, Vanguard, and State Street—now control massive voting blocks in almost every major listed company. Far from being passive bystanders, these institutions engage in intensive dialogue with corporate boards, voting on everything from executive compensation to climate transition plans. Their decisions wield extraordinary influence over corporate behavior and capital allocation globally.",
-      "Ultimately, the rise of index investing represents a shift in where active decisions are made, rather than their elimination. The simplicity of buying a single fund obscures a vast infrastructure of strategic choices, market-moving index rebalances, and corporate <span class=\"voc\">stewardship</span>. <span class=\"gem\">To celebrate the democratizing power of low-cost funds is entirely justified, but we must <span class=\"voc\">retire</span> the myth of passivity.</span>"
+      "For decades, global investors have relied on a remarkably simple and profitable strategy: borrowing cheap Japanese yen at near-zero interest rates to buy higher-yielding assets elsewhere. <span class=\"gem\">This <span class=\"voc\">phenomenon</span>, known as the \"carry trade,\" has funneled trillions of dollars into overseas equities, emerging markets, and high-yield corporate bonds.</span> However, this massive house of cards is beginning to <span class=\"voc\">shudder</span> as Tokyo takes direct action to prop up its currency.",
+      "The Bank of Japan’s recent shift away from negative interest rates, combined with active government intervention to buy yen, signals a historic turning point. By raising borrowing costs at home and strengthening the yen, policymakers are making the carry trade increasingly expensive to maintain. As investors rush to cover their short positions, they are forced to sell their global assets to buy back yen, triggering a reverse flow of capital.",
+      "This sudden <span class=\"voc\">repatriation</span> of capital has sent <span class=\"voc\">ripples</span> through international financial hubs. In Singapore and Hong Kong, wealth managers are closely monitoring how this liquidity withdrawal affects regional property markets and technology equities. The unwinding of such a colossal trade is rarely a gentle process; it often <span class=\"voc\">exacerbates</span> <span class=\"voc\">volatility</span> in markets accustomed to <span class=\"voc\">boundless</span> cheap credit.",
+      "Proponents of the intervention argue that a dangerously weak yen was fueling domestic inflation and eroding the purchasing power of Japanese households. Yet, by defending its currency, Japan is <span class=\"voc\">inadvertently</span> exporting financial instability. <span class=\"gem\">The delicate balance that global central banks must now strike is preventing this necessary adjustment from turning into a disorderly <span class=\"voc\">rout</span>.</span>",
+      "Ultimately, the death of the carry trade marks the end of an era of cheap money. As Tokyo unwinds its massive, decades-long <span class=\"voc\">monetary</span> experiment, the global economy must brace for a new reality where capital actually has a cost. For investors who grew rich on the back of the yen’s weakness, the bill has finally arrived."
     ],
-    "cn": "几十年来，指数跟踪基金一直被誉为终极的“被动”投资工具。通过简单地复制标准普尔500指数等指数的构成，这些金融工具提供了低成本和稳定的、与市场相匹配的回报，有效地为数百万普通储蓄者实现了财富创造的民主化。杰克·博格尔的创意——先锋集团——推广了这一理念，让几代人相信，试图击败市场是徒劳的。\n然而，将这些基金称为“被动”是一个误导性的名称，它掩盖了指数制定者和基金经理所拥有的巨大自由裁量权。指数构建本身就是一系列高度主动的、定性的选择。决定哪些公司有资格加入指数、它们如何加权以及何时进行重组，涉及人类的判断、委员会和任意设定的门槛。当一家科技巨头被重新分类，或一家衰落的巨头被剔除时，数百亿美元会在瞬间发生转移，这并非由自然的市场力量决定，而是由指数规则手册所主导。\n此外，定制和主题指数的迅速泛滥，打破了中性市场的幻想。今天，投资者可以选择针对绿色能源、网络安全或特定地理区域的指数。选择跟踪哪个指数本身就是一种主动的、往往是投机性的押注。投资者并不是在静静地顺应市场潮流，而是正在积极地构建他们的投资组合，利用指数基金作为构建模块来表达高度特定的经济观点。\n所谓被动投资对公司治理的影响也同样深远。三大资产管理公司——贝莱德、先锋和道富——现在几乎在每家大型上市公司中都控制着庞大的表决权。这些机构远非被动的旁观者，而是与公司董事会进行深入对话，对从高管薪酬到气候转型计划等所有事务进行投票。他们的决策对全球的企业行为和资本配置具有非凡的影响力。\n归根结底，指数投资的兴起代表了主动决策发生地点的转移，而不是决策的消除。购买单一基金的简单性掩盖了战略选择、影响市场的指数重新平衡以及公司治理的庞大基础设施。庆祝低成本基金的民主化力量是完全有道理的，但我们必须摒弃被动性的神话。",
+    "cn": "数十年来，全球投资者一直依赖一种非常简单且有利可图的策略：以接近于零的利率借入廉价的日元，去购买其他地方收益率更高的资产。这种被称为“套利交易”的现象已将数万亿美元注入海外股市、新兴市场和高收益公司债券。然而，随着东京采取直接行动支撑其货币，这个巨大的纸牌屋正开始震颤。\n\n日本央行近期摆脱负利率的转变，加之政府主动干预购买日元，标志着一个历史性的转折点。通过提高国内借贷成本和强化日元，决策者们正在使套利交易的维持成本变得越来越高。随着投资者争相回购日元以补仓，他们被迫抛售全球资产来买回日元，从而引发了资金的反向流动。\n\n这种突如其来的资本回流波及了各大国际金融中心。在新加坡和香港，财富管理经理们正密切关注这种流动性撤退对区域房地产市场和科技股的影响。如此庞大的交易平仓很少能温和进行；它往往会加剧习惯了无限廉价信贷的市场之波动。\n\n干预的支持者认为，危险的弱势日元正在推高国内通胀，并侵蚀日本家庭的购买力。然而，通过保卫其货币，日本在无意中出口了金融不稳定。全球央行目前必须达到的微妙平衡是，防止这种必要的调整演变成一场无序的溃败。\n\n归根结底，套利交易的终结标志着廉价货币时代的结束。随着东京结束其长达数十年、庞大的货币实验，全球经济必须为一个资本真正具有成本的新现实做好准备。对于那些依靠日元贬值而暴富的投资者来说，买单的时刻终于到了。",
     "vocab": [
       {
-        "w": "Heralded",
-        "ipa": "/ˈher.əl.dɪd/",
+        "w": "phenomenon",
+        "ipa": "/fəˈnɒm.ɪ.nən/",
+        "pos": "n.",
+        "mean": "现象",
+        "def": "a fact or situation that is observed to exist or happen",
+        "ex": "The carry trade is a financial phenomenon that has persisted for decades."
+      },
+      {
+        "w": "shudder",
+        "ipa": "/ˈʃʌd.ər/",
         "pos": "v.",
-        "mean": "宣布/称赞",
-        "def": "Acclaimed, hailed, or publicly announced with enthusiasm.",
-        "ex": "For decades, index-tracking funds have been heralded as the ultimate passive investment tool."
+        "mean": "震颤 / 战栗",
+        "def": "to shake physically or tremble, often due to fear or sudden movement",
+        "ex": "Global markets began to shudder at the news of rising interest rates."
       },
       {
-        "w": "Brainchild",
-        "ipa": "/ˈbreɪn.tʃaɪld/",
+        "w": "repatriation",
+        "ipa": "/ˌriː.pæt.riˈeɪ.ʃən/",
         "pos": "n.",
-        "mean": "脑力劳动成果/创意",
-        "def": "An idea, plan, or creation of one person.",
-        "ex": "The new digital payment system was the brainchild of our technical director."
+        "mean": "资金回国 / 遣返",
+        "def": "the return of someone or money to their own country",
+        "ex": "The repatriation of profits back to corporate headquarters weakened foreign currencies."
       },
       {
-        "w": "Misnomer",
-        "ipa": "/ˌmɪsˈnəʊ.mər/",
+        "w": "ripples",
+        "ipa": "/ˈrɪp.əlz/",
+        "pos": "n. plural",
+        "mean": "涟漪 / 波纹",
+        "def": "a series of waves, or a gradual spreading effect of an action",
+        "ex": "The regulatory changes sent ripples of concern through the banking sector."
+      },
+      {
+        "w": "exacerbates",
+        "ipa": "/ɪɡˈzæs.ə.beɪts/",
+        "pos": "v.",
+        "mean": "加剧 / 恶化",
+        "def": "makes a problem, bad situation, or negative feeling worse",
+        "ex": "Selling off assets rapidly only exacerbates the drop in market prices."
+      },
+      {
+        "w": "volatility",
+        "ipa": "/ˌvɒl.əˈtɪl.ə.ti/",
         "pos": "n.",
-        "mean": "误称/用词不当",
-        "def": "A wrong or inaccurate name or designation.",
-        "ex": "Calling these funds passive is a misnomer that masks the immense power of index creators."
+        "mean": "波动性 / 易变性",
+        "def": "liability to change rapidly and unpredictably, especially for the worse",
+        "ex": "High volatility makes investors hesitant to commit to long-term projects."
       },
       {
-        "w": "Discretionary",
-        "ipa": "/dɪˈskreʃ.ən.ər.i/",
+        "w": "boundless",
+        "ipa": "/ˈbaʊnd.ləs/",
         "pos": "adj.",
-        "mean": "自由裁量的/自主决定的",
-        "def": "Available for use at the discretion of the user; not dictated by fixed rules.",
-        "ex": "The fund manager has discretionary authority over which assets to trade."
+        "mean": "无限的 / 无穷的",
+        "def": "unlimited or immense",
+        "ex": "An era of boundless liquidity had fueled the expansion of technology startups."
       },
       {
-        "w": "Reconstituted",
-        "ipa": "/ˌriːˈkɒn.stɪ.tʃuː.tɪd/",
-        "pos": "v.",
-        "mean": "重新组建/重组",
-        "def": "Reconstructed or formed again, especially with new components.",
-        "ex": "When indices are reconstituted, billions of dollars automatically shift to new stocks."
+        "w": "inadvertently",
+        "ipa": "/ˌɪn.ədˈvɜː.tənt.li/",
+        "pos": "adv.",
+        "mean": "不经意地 / 并非故意地",
+        "def": "without intention; accidentally",
+        "ex": "The central bank inadvertently caused a panic by changing its forward guidance too early."
       },
       {
-        "w": "Proliferation",
-        "ipa": "/prəˌlɪf.ərˈeɪ.ʃən/",
+        "w": "rout",
+        "ipa": "/raʊt/",
         "pos": "n.",
-        "mean": "激增/扩散",
-        "def": "A rapid increase in the number or amount of something.",
-        "ex": "The rapid proliferation of customized indices has completely changed the financial landscape."
+        "mean": "溃败",
+        "def": "a decisive defeat or a disorderly retreat",
+        "ex": "The bond market rout caused billions of dollars in paper losses overnight."
       },
       {
-        "w": "Curating",
-        "ipa": "/kjʊəˈreɪ.tɪŋ/",
-        "pos": "v.",
-        "mean": "策划/精心挑选",
-        "def": "Selecting, organizing, and looking after a collection of items.",
-        "ex": "Investors are actively curating their portfolios to align with environmental values."
-      },
-      {
-        "w": "Governance",
-        "ipa": "/ˈɡʌv.ən.əns/",
-        "pos": "n.",
-        "mean": "治理/管理",
-        "def": "The action or manner of governing or managing an organization.",
-        "ex": "Corporate governance plays a critical role in protecting minority shareholders."
-      },
-      {
-        "w": "Stewardship",
-        "ipa": "/ˈstjʊə.dʃɪp/",
-        "pos": "n.",
-        "mean": "妥善管理/管家职责",
-        "def": "The job of supervising or taking care of something, such as an organization or assets.",
-        "ex": "As asset managers, our commitment to investment stewardship requires active voting."
-      },
-      {
-        "w": "Retire",
-        "ipa": "/rɪˈtaɪər/",
-        "pos": "v.",
-        "mean": "淘汰/使退休",
-        "def": "To stop using something or remove it from circulation.",
-        "ex": "We must retire the myth of passivity in index investing."
+        "w": "monetary",
+        "ipa": "/ˈmʌn.ɪ.tri/",
+        "pos": "adj.",
+        "mean": "货币的",
+        "def": "relating to money or currency, especially in an economy",
+        "ex": "The Federal Reserve's monetary policy has a major influence on global interest rates."
       }
     ],
     "gems": [
       {
-        "s": "Deciding which companies qualify for an index, how they are weighted, and when they are reconstituted involves human judgment, committees, and arbitrary thresholds.",
-        "why": "This sentence uses parallel structures ('Deciding which...', 'how they...', 'and when they...') followed by a triad ('human judgment, committees, and arbitrary thresholds') to build a compelling and logically tight argument. 句子使用了并列结构和排比词组，使论点结构严密，说服力极强。"
+        "s": "This phenomenon, known as the \"carry trade,\" has funneled trillions of dollars into overseas equities, emerging markets, and high-yield corporate bonds.",
+        "why": "This sentence uses an appositive clause (known as the 'carry trade') to define a term cleanly within a sentence, and features parallel structure ('into X, Y, and Z') to group diverse elements smoothly. \n\n这句话使用同位语从句（known as the 'carry trade'）在句中清晰地定义了一个术语，并采用了平行结构（'into X, Y, and Z'）将多种不同的元素流畅地组合在一起。"
       },
       {
-        "s": "To celebrate the democratizing power of low-cost funds is entirely justified, but we must retire the myth of passivity.",
-        "why": "This sentence employs a balanced contrast using the 'To do... is justified, but we must...' structure, effectively validating the opponent's view before delivering a sharp counterargument. 句子采用了平衡对比句式，在肯定对方观点的同时，迅速抛出犀利的反驳，极具说服力。"
+        "s": "The delicate balance that global central banks must now strike is preventing this necessary adjustment from turning into a disorderly rout.",
+        "why": "This sentence showcases a relative clause ('that global central banks must now strike') modifying the subject, and utilizes the gerund structure 'preventing... from' to outline a policy goal. \n\n这句话展示了一个关系从句（'that global central banks must now strike'）来修饰主语，并利用动名词结构 'preventing... from'（防止……变成……）来概述一个政策目标。"
       }
     ]
   }
