@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "generatedAt": "2026-08-14T05:50:18.373024+00:00",
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T03:09:31.202617+00:00",
   "economist": {
     "headline": "When Japan buys yen, it unwinds a dangerous trade",
     "teaser": "The world’s biggest carry trader begins to exit its position",
@@ -19,49 +19,52 @@
     ]
   },
   "st": {
-    "headline": "US flags Singapore as part of China’s ‘shadow transshipment network’ that avoids Trump’s tariffs",
-    "teaser": "The US says 40 lower-tariff countries have become the launchpads and hubs of a new evasion architecture.",
-    "url": "https://www.straitstimes.com/business/economy/us-flags-singapore-as-part-of-chinas-shadow-transshipment-network-that-avoids-trumps-tariffs",
+    "headline": "Singapore stocks’ record run gets ‘Goldilocks’ boost from growth",
+    "teaser": "Fund managers say the rally has room to run.",
+    "url": "https://www.straitstimes.com/business/companies-markets/singapore-stocks-record-run-gets-goldilocks-boost-from-growth",
     "fullText": [
-      "SINGAPORE – Singapore and dozens of other countries are at risk of being used by Chinese exporters to avoid US tariffs, President Donald Trump’s administration said on Aug 13.",
-      "A report issued by the White House, titled “The Great Transshipment Scam,” frames the routing of Chinese goods through an intermediate lower-tariffed country by concealing the true origin.",
-      "It also said the administration will use an artificial intelligence-powered “Detective Border”, among other initiatives, to help crack down on illegal transshipments.",
-      "“The message to the world is simple. The age of untraceable illegal transshipment is over,” the report said.",
-      "The report does not say what immediate action will follow. In August 2025, the US announced an additional 40 per cent tariff specifically on goods determined to have been illegally transshipped to evade duties.",
-      "Using estimates from government and private-sector studies, the report estimates that tariff-evading transshipments may have robbed the US of customs revenue in the range of US$40 billion (S$51.2 billion) to US$303 billion.",
-      "“The available data show a substantial reallocation of US import sourcing following the 2018 tariffs. As China’s direct share of US goods imports declined, the combined share supplied by identified transshipment countries increased,” the White House report said.",
-      "It added that the 40 lower-tariff countries have become the launchpads and hubs of a new evasion architecture, namely “products made largely in China, lightly touched abroad and exported to America under new identities”.",
-      "But this relationship does not establish that all displaced Chinese trade was illegally transshipped.",
-      "“Some of the shift reflects legitimate changes in production, investment and sourcing. However, the timing, magnitude and direction of the two trends support further investigation of the extent to which tariffed goods were rerouted through third countries.”",
-      "The 40 countries, including Singapore, identified in the report as participants in the “shadow transshipment network”, were grouped into three tiers.",
-      "The White House placed Singapore in Tier 3, which the report said consists of “small, opportunistic Chinese targets”.",
-      "“These are smaller economies with lower absolute illegal transshipment volumes but specific weak-link advantages – including low-cost labour, free zones, port or border access, bonded warehousing, niche assembly capacity, preferential US access or limited customs enforcement capacity – that make them attractive opportunistic targets for China-linked rerouting.”",
-      "The report also said China-linked exporters may use these jurisdictions for both limited production activity and logistics side-routing.",
-      "The report warned the 40 countries that as their local export sectors and transportation networks become increasingly dependent on Chinese inputs, logistics and capital, “Beijing may gain additional commercial and geopolitical leverage while preserving indirect access to the US market”.",
-      "The Straits Times has asked the Ministry of Trade and Industry for comments on the White House report.",
-      "But Singapore has repeatedly stated in the past that it takes trade compliance seriously.",
-      "Singapore Customs, in response to media queries in September 2025, said: “Singapore’s legislative and regulatory framework governing transshipment is consistent with international best practices and rules, including those from the World Customs Organization, and seeks to facilitate trade through greater transparency and predictability for businesses.” The agency added that transshipment in Singapore refers to the movement of goods from their source to their destination via Singapore, involving a change from one conveyance to another.",
-      "“Transshipped goods do not originate from Singapore and are not for domestic circulation or storage. Their transshipment through Singapore does not change their country of origin (i.e. they cannot be relabelled as originating from Singapore).”",
-      "Companies transshipping goods through Singapore must fully comply with the Republic’s laws and regulations, said Singapore Customs, adding that the agency works closely with international counterparts to detect and take action against illicit goods imported, exported or transshipped through the nation .",
-      "The report is part of the Trump administration’s efforts to rebuild the US leader’s tariff regime after it was undermined by a court decision earlier in 2026.",
-      "In July, a new 12.5 per cent levy, covering about a third of Singapore’s domestic exports to the US, was imposed after White House alleged that t he Republic and dozens of other economies failed to adopt and effectively enforce prohibitions on trade in goods produced with forced labour."
+      "Singapore’s stocks have outperformed the world over the past month as their traditional strengths of high dividend yields and resilient balance sheets get a lift from a “Goldilocks” economic backdrop.",
+      "Robust growth fuelled by tech exports, alongside productivity gains that are helping keep inflation in check, has boosted corporate earnings, prompting JPMorgan Chase & Co. to use the “Goldilocks” label. The nation’s benchmark equity index has surged 23 per cent to a series of record highs this year, following a similar gain in 2025.",
+      "Fund managers say the rally has room to run. Jupiter Asset Management believes the nation’s expanding economy and strengthening currency will underpin further equity gains, while Eastspring Investments points to structural themes such as wealth management and artificial intelligence-related infrastructure as driving inflows.",
+      "“Singapore is gradually evolving from a traditional dividend and defensive market into a dividend-plus-growth market,” said Ernest Chew, head of Asean equities at BNP Paribas Asset Management in Kuala Lumpur. “We still value its defensive characteristics, but increasingly see more opportunities for capital appreciation alongside income.”",
+      "Singapore equities are heading for a fifth straight quarter of gains, their longest winning streak in a decade, as the market’s combination of growth and stability attracts institutional investors seeking shelter from volatility driven by global conflicts and swings in the AI trade.",
+      "The main contributors to the rally in Singapore’s benchmark Straits Times Index have been its three biggest banks: DBS Group Holdings Ltd., Oversea-Chinese Banking Corp. and United Overseas Bank Ltd. They have each set a series of all-time highs in recent months with investors particularly attracted by their exposure to Singapore’s thriving wealth management industry.",
+      "Over the past month, all three lenders reported second-quarter earnings that beat analysts’ forecasts. OCBC has been the standout, with shares climbing 61 per cent this year, making it the best performer in the 30-stock gauge.",
+      "Singapore’s banks have not been alone in attracting investor interest. Expectations of higher-for-longer global interest rates have bolstered financial firms around the world, with the MSCI World Bank Index rising about 20 per cent this year to a record.",
+      "Adding to the appeal is a positive long-term outlook for the Singapore dollar. The currency has appreciated almost 6 per cent against the greenback in the past three years as investors have gravitated to haven assets amid the global geopolitical turmoil. Singapore’s monetary authorities use the local dollar as their main tool to manage the economy and have been guiding it stronger against a basket of trading-partner currencies to temper inflation.",
+      "Jupiter Asset Management is among those still bullish.",
+      "“We’ve been significantly overweight Singapore for many years, with over 16 per cent of our funds invested in Singapore today versus a benchmark weighting of around 3 per cent,” said Sam Konrad, a fund manager for Asian equities at Jupiter Asset in Singapore. “We think it is one of the most attractive developed markets in the world, yet strangely is often ignored, or underappreciated, by investors.”",
+      "JPMorgan meanwhile raised its forecast for the Straits Times Index to 6,500 in a note published on Aug 11, implying a gain of about 13 per cent from the Aug 14 close of 5,743.59.",
+      "“A Goldilocks economic backdrop should continue to underpin earnings-per-share growth and empower fiscal room,” JPMorgan analysts including Khoi Vu in Singapore wrote in the note. “While valuations have broken out of the averages, we believe this level will be sustained as the STI reprices closer to other developed markets driven by high yield and stable currency.”",
+      "Others are more wary. Fidelity International says it has turned more cautious as share prices have exceeded earnings growth.",
+      "“Valuations are at the highest since the global financial crisis and the index is also the most expensive within Asean,” said Sui Chuan Yeo, a portfolio manager at Fidelity in Singapore. “The fundamental economic drivers remain uncertain, especially considering the global economic and geopolitical vicissitudes. We have been incrementally trimming our Singapore exposure.”",
+      "Valuations have become more stretched after the recent rally, with the Straits Times Index trading at more than 16 times its 12-month forward earnings, more than two standard deviations above its 10-year average.",
+      "There is also concern about the increasingly heavy weighting of banks in the benchmark gauge. DBS, OCBC and UOB currently account for nearly 60 per cent of the total market capitalisation of the Straits Times Index, up from just 38 per cent in July 2020, making the gauge less representative of the economy and more fragile.",
+      "Eastspring Investments says further gains are still likely even after the three-year rally.",
+      "“Singapore equities have rerated meaningfully, but valuations remain reasonable relative to many developed markets,” said Bryan Yeong, a portfolio manager at Eastspring in Singapore. “While upside is likely to be more selective after the strong rally, we still see opportunities in companies with earnings visibility, improving returns and shareholder value-unlock potential.” BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Marina Bay Sands to host Ferrari race car, luxury pop-up and F1-themed events ahead of Singapore Grand Prix",
-    "teaser": "Ferrari will take over Marina Bay Sands this F1 season with various events and activities, including a Ferrari SF21 show car going on display from Sep 14 to Oct 12.",
-    "url": "https://www.channelnewsasia.com/living/ferrari-marina-bay-sands-singapore-f1-2026-6319016",
+    "headline": "Chinese drone maker DJI gets fresh chance to escape Pentagon's blacklist",
+    "teaser": "DJI is one of a growing number of Chinese companies challenging their placement on the Pentagon's list, which bars the US Defense Department from contracting with the designated firms.",
+    "url": "https://www.channelnewsasia.com/east-asia/china-drone-maker-dji-pentagon-blacklist-6320216",
     "fullText": [
-      "Formula 1 fans in Singapore can get a closer look at a Ferrari race car and see Marina Bay Sands (MBS) lit up in Ferrari red as part of a series of activities taking place around this year's Singapore night race season.",
-      "The activities begin in September, with a show car of the Ferrari SF21 going on display at the MBS Tower 1 hotel lobby from Sep 14 to Oct 12.",
-      "The car will be displayed ahead of the Singapore Grand Prix, taking place from Oct 9 to 11 at the Marina Bay Street Circuit.",
-      "There will also be a Ferrari Lifestyle boutique at The Shoppes at Marina Bay Sands from Sep 25 to Oct 25, offering an immersive expression of the Ferrari universe beyond the world of Formula 1. The pop-up also marks the first time the Ferrari Lifestyle boutique has been brought to Asia.",
-      "From Sep 28 to Oct 11, MBS will also hold Home of Champions, a destination-wide programme featuring a series of F1-themed events, such as motorsport talks, luxury retail pop-ups and exclusive dining experiences.",
-      "As part of the programme, the resort's three hotel towers and ArtScience Museum will be illuminated in Ferrari red from 7pm to 11.59pm each evening, with the display visible across Marina Bay.",
-      "The activities are part of an extended collaboration between MBS and Scuderia Ferrari HP, which first began in 2023.",
-      "As part of the renewed partnership, MBS is also offering a S$100,000 (US$78,130) five-night hospitality package for up to two people during the Formula 1 season. It includes a stay in a Paiza Grand Suite, access to selected events and parties, three-day Paddock tickets and priority access to after-parties at Marquee Singapore. The package also includes dining experiences at Marina Bay Sands and meet-and-greet opportunities with Ferrari drivers Lewis Hamilton and Charles Leclerc.",
-      "More information is also available at the official Singapore Night Race website .",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "WASHINGTON: A US appeals court on Friday (Aug 14) ordered a lower court to reconsider whether China-based DJI, the world's largest drone maker, should be removed from a Pentagon list of companies allegedly supporting Beijing's military.",
+      "The US Court of Appeals for the District of Columbia Circuit ruled that the lower court erred by relying only on the unclassified record in concluding that the company contributes to the Chinese defence industrial base.",
+      "DJI is one of a growing number of Chinese companies challenging their placement on the Pentagon's list of Chinese military companies.",
+      "The list bars the Defense Department from contracting with designated companies, and a broader ban on buying their products via third parties takes effect in 2027.",
+      "\"On remand, the district court may examine the classified record and determine whether to uphold the Secretary’s determination.\"",
+      "A spokesperson for DJI did not immediately respond to a request for comment. The drone maker has said it was \"neither owned nor controlled by the Chinese military\".",
+      "A spokesperson for the Defense Department said they do not comment on ongoing litigation.",
+      "US District Judge Paul Friedman in Washington last year rejected a bid by DJI to be taken off the Pentagon's list of Chinese military companies, instead granting summary judgment against the Chinese firm.",
+      "In its lawsuit, DJI said the Defense Department’s addition of the company to the list was \"unlawful and misguided\".",
+      "It said it has \"lost business deals, been stigmatised as a national security threat, and been banned from contracting with multiple federal government agencies\".",
+      "The appeals court rejected DJI's arguments that it was denied due process, that the unclassified record lacked evidence that DJI received assistance from the government through efforts initiated by the Chinese military industrial planning apparatus, and that the department failed to explain why it treated DJI differently from companies it believes are similarly situated.",
+      "However, the court found merit in DJI's fourth argument - that the unclassified record did not support the conclusion that the company contributes to the Chinese defence industrial base.",
+      "Earlier this month, another judge granted a preliminary injunction barring the department from including Chinese biotechnology company WuXi AppTec on the list. The judge said the government lacked evidence to justify the decision.",
+      "In June, the Pentagon expanded its blacklist to 188 companies, reflecting concern that China's military could tap that country's private sector for advancements, amid geopolitical ​tensions between Beijing and ​Washington.",
+      "Other businesses ⁠added to the list include e-commerce company Alibaba, which sued in June seeking removal.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
@@ -71,263 +74,259 @@
   },
   "lifeVocab": [
     {
-      "en": "wet market",
-      "cn": "湿巴刹 / 菜市场",
-      "def": "a market selling fresh meat, fish, and produce, common in Singapore",
-      "ex": "I prefer buying my vegetables at the wet market in Tiong Bahru because they are much fresher.",
-      "emoji": "🥬"
+      "en": "commute",
+      "cn": "通勤",
+      "def": "to travel some distance to work on a regular basis",
+      "ex": "My daily commute from Jurong East to Raffles Place takes about 45 minutes on the MRT.",
+      "emoji": "🚇"
     },
     {
-      "en": "stallholder",
-      "cn": "摊主",
-      "def": "a person who rents or runs a stall in a market",
-      "ex": "The friendly fish stallholder always helps me descale the red snapper.",
-      "emoji": "🧑‍🌾"
+      "en": "concession",
+      "cn": "优惠票/特惠",
+      "def": "a reduction in the price of a ticket or service for certain groups",
+      "ex": "Students and senior citizens in Singapore can apply for a concession card for cheaper transit fares.",
+      "emoji": "🎫"
     },
     {
-      "en": "produce",
-      "cn": "农产品 / 生鲜",
-      "def": "fresh agricultural products, especially fruits and vegetables",
-      "ex": "Local supermarkets import produce from Malaysia, Thailand, and Australia.",
-      "emoji": "🥦"
+      "en": "peak hour",
+      "cn": "高峰时间",
+      "def": "the busiest time of day for travel, typically morning and evening",
+      "ex": "It is always hard to find a seat on the train during peak hour.",
+      "emoji": "⏰"
     },
     {
-      "en": "descale",
-      "cn": "去鳞",
-      "def": "to remove the scales from a fish",
-      "ex": "Could you please clean and descale this seabass for me?",
-      "emoji": "🐟"
+      "en": "tap in",
+      "cn": "刷卡进站",
+      "def": "to scan a smart card or mobile device to enter a transit system",
+      "ex": "Remember to tap in at the MRT gantry using your EZ-Link card or bank card.",
+      "emoji": "💳"
     },
     {
-      "en": "haggling",
-      "cn": "讨价还价",
-      "def": "disputing or bargaining persistently, especially over the cost of something",
-      "ex": "Haggling is not very common in Singapore retail malls, but older folks still do it at wet markets.",
-      "emoji": "🗣️"
+      "en": "feeder bus",
+      "cn": "支线巴士",
+      "def": "a local bus service that brings passengers from residential areas to a main transit station",
+      "ex": "I usually take a feeder bus from my HDB block to the nearest MRT station.",
+      "emoji": "🚌"
     },
     {
-      "en": "stock",
-      "cn": "高汤",
-      "def": "liquid made by boiling meat, bones, or vegetables, used as a basis for soup",
-      "ex": "She used the chicken bones bought from the market to make a rich stock for dinner.",
-      "emoji": "🍲"
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "a moving staircase that carries people between floors of a building",
+      "ex": "In Singapore, commuters are encouraged to stand on the left side of the escalator.",
+      "emoji": "🪜"
     },
     {
-      "en": "herbs",
-      "cn": "草药 / 香草",
-      "def": "plants used for flavoring food or for medicinal purposes",
-      "ex": "He bought fresh herbs like coriander and spring onion to garnish the noodles.",
-      "emoji": "🌿"
+      "en": "MRT station",
+      "cn": "地铁站",
+      "def": "a station on the underground or elevated railway system in Singapore",
+      "ex": "The new Thomson-East Coast Line has made reaching the MRT station much easier for residents.",
+      "emoji": "🚉"
     },
     {
-      "en": "poultry",
-      "cn": "家禽",
-      "def": "domestic fowls, such as chickens, turkeys, ducks, and geese",
-      "ex": "The poultry section at the market was particularly busy before the Lunar New Year.",
-      "emoji": "🐔"
+      "en": "interchange",
+      "cn": "换乘站",
+      "def": "a station where passengers can change transit lines or modes of transport",
+      "ex": "Dhoby Ghaut is a busy interchange station where three MRT lines connect.",
+      "emoji": "🔄"
     },
     {
-      "en": "bulk",
-      "cn": "大宗 / 大量",
-      "def": "large quantities of something",
-      "ex": "Buying onions in bulk is much cheaper if you cook every day.",
-      "emoji": "📦"
+      "en": "disrupt",
+      "cn": "中断/延误",
+      "def": "to interrupt an event, activity, or service by causing a disturbance or delay",
+      "ex": "A signaling fault managed to disrupt train services along the East-West Line this morning.",
+      "emoji": "⚠️"
     },
     {
-      "en": "perishable",
-      "cn": "易腐烂的 / 易变质的",
-      "def": "food that decays or goes bad quickly",
-      "ex": "Berries and leafy greens are highly perishable and should be eaten within a few days.",
-      "emoji": "🍓"
+      "en": "route",
+      "cn": "路线",
+      "def": "a way or course taken in getting from a starting point to a destination",
+      "ex": "I downloaded a navigation app to find the fastest travel route to the office.",
+      "emoji": "🗺️"
     }
   ],
   "levelVocab": [
     {
-      "w": "delineate",
-      "ipa": "/dɪˈlɪn.i.eɪt/",
+      "w": "advocate",
+      "ipa": "/ˈædvəkeɪt/",
       "pos": "v.",
-      "cn": "描绘 / 勾画 / 详细说明",
-      "def": "to describe, portray, or set boundaries precisely",
-      "ex": "The project manager needs to delineate the roles of each team member to avoid overlapping duties."
+      "cn": "主张/提倡",
+      "def": "to publicly support or suggest an idea, development, or way of doing something",
+      "ex": "The committee plans to advocate for more flexible work arrangements in the upcoming policy review."
     },
     {
-      "w": "synthesise",
-      "ipa": "/ˈsɪn.θə.saɪz/",
-      "pos": "v.",
-      "cn": "合成 / 综合",
-      "def": "to combine different ideas, styles, or systems into a single coherent whole",
-      "ex": "For the quarterly report, we must synthesise feedback from both clients and developers."
-    },
-    {
-      "w": "preclude",
-      "ipa": "/prɪˈkluːd/",
-      "pos": "v.",
-      "cn": "排除 / 妨碍 / 阻止",
-      "def": "to prevent from happening; make impossible",
-      "ex": "Having a busy schedule during the week does not preclude you from exercising during the weekend."
-    },
-    {
-      "w": "reconcile",
-      "ipa": "/ˈrek.ən.saɪl/",
-      "pos": "v.",
-      "cn": "和解 / 调和 / 使一致",
-      "def": "to find a way in which two opposing situations or figures can agree or co-exist",
-      "ex": "It is difficult to reconcile his demanding career with his desire to spend time with his young children."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "增加 / 提高 / 扩大",
-      "def": "to make something greater by adding to it; increase",
-      "ex": "Many working professionals take evening courses to augment their existing skill sets."
-    },
-    {
-      "w": "obviate",
-      "ipa": "/ˈɒb.vi.eɪt/",
-      "pos": "v.",
-      "cn": "消除 / 排除 / 避免",
-      "def": "to remove a need or difficulty, or to avoid a problem",
-      "ex": "A disaster recovery plan can obviate the panic associated with sudden server crashes."
-    },
-    {
-      "w": "acquiesce",
-      "ipa": "/ˌæk.wiˈes/",
-      "pos": "v.",
-      "cn": "默许 / 勉强同意",
-      "def": "to accept something reluctantly but without protest",
-      "ex": "Management chose to acquiesce to the union's demands to prevent a potential strike."
+      "w": "conducive",
+      "ipa": "/kənˈdjuːsɪv/",
+      "pos": "adj.",
+      "cn": "有益的/有助的",
+      "def": "making a certain situation or outcome likely or possible",
+      "ex": "An open office layout is not always conducive to tasks that require deep concentration."
     },
     {
       "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "ipa": "/dɪˈsemɪneɪt/",
       "pos": "v.",
-      "cn": "传播 / 散布",
-      "def": "to spread information, knowledge, or ideas widely",
-      "ex": "The government is using social media to disseminate important health advisories to the public."
+      "cn": "传播/散播",
+      "def": "to spread information, knowledge, or ideas to a large number of people",
+      "ex": "The HR department will disseminate the new compliance guidelines via email tomorrow."
     },
     {
-      "w": "ameliorate",
-      "ipa": "/əˈmiːl.jə.reɪt/",
-      "pos": "v.",
-      "cn": "改善 / 减轻 / 缓解",
-      "def": "to make an unpleasant or bad situation better",
-      "ex": "New housing developments were built to ameliorate the city's severe overcrowding problem."
+      "w": "imperative",
+      "ipa": "/ɪmˈperətɪv/",
+      "pos": "adj.",
+      "cn": "极其重要/迫切的",
+      "def": "extremely important or urgent; needing immediate attention",
+      "ex": "It is imperative that we complete the financial audit before the end of the quarter."
     },
     {
-      "w": "concur",
-      "ipa": "/kənˈkɜːr/",
+      "w": "paramount",
+      "ipa": "/ˈpærəmaʊnt/",
+      "pos": "adj.",
+      "cn": "至高无上的/首要的",
+      "def": "more important than anything else; supreme",
+      "ex": "Ensuring data privacy is of paramount importance when designing public banking software."
+    },
+    {
+      "w": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
       "pos": "v.",
-      "cn": "同意 / 一致",
-      "def": "to have the same opinion; to agree with someone",
-      "ex": "Most economists concur that inflation is likely to stabilise by the end of the year."
+      "cn": "调和/和解",
+      "def": "to find a way in which two opposing situations, ideas, or facts can both be true or work together",
+      "ex": "Management is trying to reconcile the need for cost-cutting with the goal of expanding the team."
+    },
+    {
+      "w": "spearhead",
+      "ipa": "/ˈspɪəhed/",
+      "pos": "v.",
+      "cn": "带头/先锋",
+      "def": "to lead a campaign, project, or movement",
+      "ex": "Sarah was chosen to spearhead the digital transformation project for our Southeast Asian offices."
+    },
+    {
+      "w": "unravel",
+      "ipa": "/ʌnˈrævəl/",
+      "pos": "v.",
+      "cn": "解开/崩溃",
+      "def": "to begin to fail or fall apart, or to explain something that is mysterious or complicated",
+      "ex": "Without proper funding, the intricate supply chain strategy began to unravel within weeks."
+    },
+    {
+      "w": "vanguard",
+      "ipa": "/ˈvænɡɑːd/",
+      "pos": "n.",
+      "cn": "前沿/先锋",
+      "def": "a position at the forefront of new developments, research, or ideas",
+      "ex": "Singapore aims to remain in the vanguard of green technology adoption in Asia."
+    },
+    {
+      "w": "withstand",
+      "ipa": "/wɪðˈstænd/",
+      "pos": "v.",
+      "cn": "经受住/承受",
+      "def": "to offer strong resistance to something, or to remain undamaged or unaffected by it",
+      "ex": "Our local infrastructure is built to withstand extreme weather conditions brought by climate change."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore Banks Strengthen Security Measures Amid Scam Concerns",
-    "transcript": "As digital banking scams become increasingly <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/səˈfɪs.tɪ.keɪ.tɪd/ (adj.) advanced, complex, and highly developed — 复杂精密的，高超的\">sophisticated</span> in Singapore, major local banks are rolling out tighter security measures. These measures include a 'kill switch' for customers to freeze their accounts instantly if they suspect fraud. While some consumers find the extra security steps <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈkʌm.bə.səm/ (adj.) slow, complicated, or difficult to manage — 繁琐的，笨重的\">cumbersome</span>, authorities emphasise that <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈseɪf.ɡɑː.dɪŋ/ (v./n. gerund) protecting someone or something from harm, damage, or misuse — 保护，捍卫\">safeguarding</span> public funds remains the top priority."
+    "title": "The cashless push at Singapore's hawker centres",
+    "transcript": "As Singapore pushes ahead with its Smart Nation initiative, more senior citizens are learning to use QR codes to pay for their chicken rice. While some elderly hawkers initially found this digital shift <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈdɔːntɪŋ/ (adj.) intimidating or seeming difficult to deal with — 令人望而生畏的\">daunting</span>, community digital ambassadors have been <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/dɪˈplɔɪd/ (v.) positioned or moved into place for active use — 部署\">deployed</span> to guide them step-by-step. Now, transaction times are faster, and the need for handling heavy coins has significantly decreased."
   },
   "economistArticle": {
-    "title": "The Great Unwinding: Japan’s Yen Rescue and the Threat to Global Markets",
+    "title": "When Japan buys yen, it unwinds a dangerous trade",
     "paras": [
-      "For decades, global investors have relied on a remarkably simple and profitable strategy: borrowing cheap Japanese yen at near-zero interest rates to buy higher-yielding assets elsewhere. <span class=\"gem\">This <span class=\"voc\">phenomenon</span>, known as the \"carry trade,\" has funneled trillions of dollars into overseas equities, emerging markets, and high-yield corporate bonds.</span> However, this massive house of cards is beginning to <span class=\"voc\">shudder</span> as Tokyo takes direct action to prop up its currency.",
-      "The Bank of Japan’s recent shift away from negative interest rates, combined with active government intervention to buy yen, signals a historic turning point. By raising borrowing costs at home and strengthening the yen, policymakers are making the carry trade increasingly expensive to maintain. As investors rush to cover their short positions, they are forced to sell their global assets to buy back yen, triggering a reverse flow of capital.",
-      "This sudden <span class=\"voc\">repatriation</span> of capital has sent <span class=\"voc\">ripples</span> through international financial hubs. In Singapore and Hong Kong, wealth managers are closely monitoring how this liquidity withdrawal affects regional property markets and technology equities. The unwinding of such a colossal trade is rarely a gentle process; it often <span class=\"voc\">exacerbates</span> <span class=\"voc\">volatility</span> in markets accustomed to <span class=\"voc\">boundless</span> cheap credit.",
-      "Proponents of the intervention argue that a dangerously weak yen was fueling domestic inflation and eroding the purchasing power of Japanese households. Yet, by defending its currency, Japan is <span class=\"voc\">inadvertently</span> exporting financial instability. <span class=\"gem\">The delicate balance that global central banks must now strike is preventing this necessary adjustment from turning into a disorderly <span class=\"voc\">rout</span>.</span>",
-      "Ultimately, the death of the carry trade marks the end of an era of cheap money. As Tokyo unwinds its massive, decades-long <span class=\"voc\">monetary</span> experiment, the global economy must brace for a new reality where capital actually has a cost. For investors who grew rich on the back of the yen’s weakness, the bill has finally arrived."
+      "For decades, the global financial system has relied on a remarkably stable mechanism known as the carry trade. Investors borrow cheaply in Japanese yen, thanks to Tokyo's persistent ultra-low interest rates, and reinvest those funds into higher-yielding assets abroad, from US Treasuries to Singaporean commercial properties. This trade seemed like a one-way bet, offering consistent, low-risk profits for global market participants.",
+      "However, the Bank of Japan's recent shifts in monetary policy have shattered this fragile <span class=\"voc\">equilibrium</span>. As Japan begins to raise its interest rates and actively buys back the yen to support its domestic currency, the mechanics of this massive trade are rapidly <span class=\"voc\">unwinding</span>. A strengthening yen means that those who borrowed in yen must now pay back more in foreign-currency terms, triggering a frantic rush to close out positions.",
+      "The <span class=\"voc\">ramifications</span> of this sudden unwinding are already <span class=\"voc\">reverberating</span> across Asian financial hubs, including Singapore. Local stock markets have experienced sudden bouts of <span class=\"voc\">volatility</span> as institutional funds <span class=\"voc\">liquidate</span> their local positions to cover their mounting yen-denominated debts. Analysts warn that this rapid withdrawal of yen liquidity could tighten global credit conditions, making corporate borrowing more expensive.",
+      "Moreover, this shift signals a profound transformation in global capital flows. The era of virtually free, abundant cash originating from Tokyo is drawing to a close. Financial institutions must now <span class=\"voc\">recalibrate</span> their risk models to account for a Japanese currency that is no longer a passive funding tool, but a <span class=\"voc\">volatile</span> variable capable of disrupting global assets.",
+      "Ultimately, this unwind serves as a stark reminder of the deep interconnectedness of modern global finance. <span class=\"gem\">While a stronger yen may stabilize domestic purchasing power within Japan, the <span class=\"voc\">collateral</span> damage to global asset prices highlights the fragility of trades built on artificial interest rate disparities.</span> Investors worldwide must now brace for a turbulent transition as the old carry trade slowly <span class=\"voc\">disintegrates</span>."
     ],
-    "cn": "数十年来，全球投资者一直依赖一种非常简单且有利可图的策略：以接近于零的利率借入廉价的日元，去购买其他地方收益率更高的资产。这种被称为“套利交易”的现象已将数万亿美元注入海外股市、新兴市场和高收益公司债券。然而，随着东京采取直接行动支撑其货币，这个巨大的纸牌屋正开始震颤。\n\n日本央行近期摆脱负利率的转变，加之政府主动干预购买日元，标志着一个历史性的转折点。通过提高国内借贷成本和强化日元，决策者们正在使套利交易的维持成本变得越来越高。随着投资者争相回购日元以补仓，他们被迫抛售全球资产来买回日元，从而引发了资金的反向流动。\n\n这种突如其来的资本回流波及了各大国际金融中心。在新加坡和香港，财富管理经理们正密切关注这种流动性撤退对区域房地产市场和科技股的影响。如此庞大的交易平仓很少能温和进行；它往往会加剧习惯了无限廉价信贷的市场之波动。\n\n干预的支持者认为，危险的弱势日元正在推高国内通胀，并侵蚀日本家庭的购买力。然而，通过保卫其货币，日本在无意中出口了金融不稳定。全球央行目前必须达到的微妙平衡是，防止这种必要的调整演变成一场无序的溃败。\n\n归根结底，套利交易的终结标志着廉价货币时代的结束。随着东京结束其长达数十年、庞大的货币实验，全球经济必须为一个资本真正具有成本的新现实做好准备。对于那些依靠日元贬值而暴富的投资者来说，买单的时刻终于到了。",
+    "cn": "数十年来，全球金融体系一直依赖一种被称为“套利交易”的极其稳定的机制。由于东京长期维持超低利率，投资者以低廉的成本借入日元，然后将这些资金重新投资于海外收益率更高的资产，从美国国债到新加坡的商业地产。对于全球市场参与者来说，这种交易似乎是一场稳赚不赔的买卖，提供了持续且低风险的利润。\n然而，日本央行近期货币政策的变化打破了这一脆弱的均衡。随着日本开始提高利率，并积极回购日元以支撑本国货币，这一庞大交易的运作机制正在迅速逆转。日元升值意味着，那些以日元借款的人现在必须以本币折算支付更多资金，从而引发了关闭仓位的仓皇狂潮。\n这种突然逆转的后果已经在包括新加坡在内的亚洲金融中心引起了反响。由于机构资金套现本地头寸以偿还不断增加的日元债务，本地股市经历了突如其来的剧烈波动。分析师警告称，日元流动性的快速抽离可能会收紧全球信贷环境，使企业融资成本更加高昂。\n此外，这一转变标志着全球资金流向的深刻变革。源自东京的几乎免费且充足的现金时代正在走向终结。金融机构现在必须重新调整其风险模型，以应对一种不再是 passive（被动型）融资工具，而是能够扰乱全球资产的波动性变量的日元。\n归根结底，这次逆转起到了一个警示作用，提醒人们现代全球金融深层的互联性。虽然走强的日元可能会稳定日本国内的购买力，但对全球资产价格造成的间接损害，突显了建立在人为利率差异之上的交易有多么脆弱。随着旧有的套利交易慢慢瓦解，全球投资者现在必须为动荡的过渡期做好准备。",
     "vocab": [
       {
-        "w": "phenomenon",
-        "ipa": "/fəˈnɒm.ɪ.nən/",
+        "w": "equilibrium",
+        "ipa": "/ˌiːkwɪˈlɪbriəm/",
         "pos": "n.",
-        "mean": "现象",
-        "def": "a fact or situation that is observed to exist or happen",
-        "ex": "The carry trade is a financial phenomenon that has persisted for decades."
+        "mean": "均衡/平衡",
+        "def": "a state of balance between opposing forces or influences",
+        "ex": "The sudden tariff increases disrupted the economic equilibrium between the trading partners."
       },
       {
-        "w": "shudder",
-        "ipa": "/ˈʃʌd.ər/",
-        "pos": "v.",
-        "mean": "震颤 / 战栗",
-        "def": "to shake physically or tremble, often due to fear or sudden movement",
-        "ex": "Global markets began to shudder at the news of rising interest rates."
+        "w": "unwinding",
+        "ipa": "/ʌnˈwaɪndɪŋ/",
+        "pos": "v./n.",
+        "mean": "逆转/解开",
+        "def": "the process of undoing or reversing a complex financial position or situation",
+        "ex": "The unwinding of the central bank's stimulus package caused minor panics in the stock market."
       },
       {
-        "w": "repatriation",
-        "ipa": "/ˌriː.pæt.riˈeɪ.ʃən/",
+        "w": "ramifications",
+        "ipa": "/ˌræmɪfɪˈkeɪʃnz/",
         "pos": "n.",
-        "mean": "资金回国 / 遣返",
-        "def": "the return of someone or money to their own country",
-        "ex": "The repatriation of profits back to corporate headquarters weakened foreign currencies."
+        "mean": "后果/影响",
+        "def": "the complex or unwelcome consequences of an action or event",
+        "ex": "The unexpected bankruptcies had severe ramifications for the entire logistics industry."
       },
       {
-        "w": "ripples",
-        "ipa": "/ˈrɪp.əlz/",
-        "pos": "n. plural",
-        "mean": "涟漪 / 波纹",
-        "def": "a series of waves, or a gradual spreading effect of an action",
-        "ex": "The regulatory changes sent ripples of concern through the banking sector."
-      },
-      {
-        "w": "exacerbates",
-        "ipa": "/ɪɡˈzæs.ə.beɪts/",
+        "w": "reverberating",
+        "ipa": "/rɪˈvɜːbəreɪtɪŋ/",
         "pos": "v.",
-        "mean": "加剧 / 恶化",
-        "def": "makes a problem, bad situation, or negative feeling worse",
-        "ex": "Selling off assets rapidly only exacerbates the drop in market prices."
+        "mean": "回响/产生深远影响",
+        "def": "having a prolonged or continuing effect, like an echo",
+        "ex": "News of the merger is still reverberating through the local tech startup ecosystem."
       },
       {
         "w": "volatility",
-        "ipa": "/ˌvɒl.əˈtɪl.ə.ti/",
+        "ipa": "/ˌvɒləˈtɪləti/",
         "pos": "n.",
-        "mean": "波动性 / 易变性",
+        "mean": "波动性/不稳定性",
         "def": "liability to change rapidly and unpredictably, especially for the worse",
-        "ex": "High volatility makes investors hesitant to commit to long-term projects."
+        "ex": "Oil prices have shown extreme volatility due to geopolitical tensions in the Middle East."
       },
       {
-        "w": "boundless",
-        "ipa": "/ˈbaʊnd.ləs/",
+        "w": "liquidate",
+        "ipa": "/ˈlɪkwɪdeɪt/",
+        "pos": "v.",
+        "mean": "变现/清算",
+        "def": "to convert assets into cash, or to close down a business and pay its debts",
+        "ex": "The investment firm had to liquidate some of its real estate holdings to raise cash quickly."
+      },
+      {
+        "w": "recalibrate",
+        "ipa": "/ˌriːˈkælɪbreɪt/",
+        "pos": "v.",
+        "mean": "重新校准/调整",
+        "def": "to calculate or adjust something again, or in a new way",
+        "ex": "We need to recalibrate our marketing strategy to target younger consumers in Singapore."
+      },
+      {
+        "w": "volatile",
+        "ipa": "/ˈvɒlətaɪl/",
         "pos": "adj.",
-        "mean": "无限的 / 无穷的",
-        "def": "unlimited or immense",
-        "ex": "An era of boundless liquidity had fueled the expansion of technology startups."
+        "mean": "不稳定的/易变的",
+        "def": "likely to change suddenly and unexpectedly, especially in a sharp way",
+        "ex": "The political climate in that region remains highly volatile and unpredictable."
       },
       {
-        "w": "inadvertently",
-        "ipa": "/ˌɪn.ədˈvɜː.tənt.li/",
-        "pos": "adv.",
-        "mean": "不经意地 / 并非故意地",
-        "def": "without intention; accidentally",
-        "ex": "The central bank inadvertently caused a panic by changing its forward guidance too early."
-      },
-      {
-        "w": "rout",
-        "ipa": "/raʊt/",
-        "pos": "n.",
-        "mean": "溃败",
-        "def": "a decisive defeat or a disorderly retreat",
-        "ex": "The bond market rout caused billions of dollars in paper losses overnight."
-      },
-      {
-        "w": "monetary",
-        "ipa": "/ˈmʌn.ɪ.tri/",
+        "w": "collateral",
+        "ipa": "/kəˈlætərəl/",
         "pos": "adj.",
-        "mean": "货币的",
-        "def": "relating to money or currency, especially in an economy",
-        "ex": "The Federal Reserve's monetary policy has a major influence on global interest rates."
+        "mean": "间接的/伴随的",
+        "def": "additional but subordinate; secondary or indirect",
+        "ex": "The policy change caused collateral damage to smaller suppliers who were unprepared."
+      },
+      {
+        "w": "disintegrates",
+        "ipa": "/dɪsˈɪntɪɡreɪts/",
+        "pos": "v.",
+        "mean": "瓦解/崩溃",
+        "def": "to break up, weaken, or fall apart into small parts",
+        "ex": "When trust between business partners disintegrates, the joint venture usually fails."
       }
     ],
     "gems": [
       {
-        "s": "This phenomenon, known as the \"carry trade,\" has funneled trillions of dollars into overseas equities, emerging markets, and high-yield corporate bonds.",
-        "why": "This sentence uses an appositive clause (known as the 'carry trade') to define a term cleanly within a sentence, and features parallel structure ('into X, Y, and Z') to group diverse elements smoothly. \n\n这句话使用同位语从句（known as the 'carry trade'）在句中清晰地定义了一个术语，并采用了平行结构（'into X, Y, and Z'）将多种不同的元素流畅地组合在一起。"
-      },
-      {
-        "s": "The delicate balance that global central banks must now strike is preventing this necessary adjustment from turning into a disorderly rout.",
-        "why": "This sentence showcases a relative clause ('that global central banks must now strike') modifying the subject, and utilizes the gerund structure 'preventing... from' to outline a policy goal. \n\n这句话展示了一个关系从句（'that global central banks must now strike'）来修饰主语，并利用动名词结构 'preventing... from'（防止……变成……）来概述一个政策目标。"
+        "s": "While a stronger yen may stabilize domestic purchasing power within Japan, the collateral damage to global asset prices highlights the fragility of trades built on artificial interest rate disparities.",
+        "why": "This sentence masterfully uses a concessive clause (\"While...\") to contrast a localized positive outcome with broader global consequences, illustrating complex macroeconomic relationships in a balanced, analytical tone. | 该句巧妙地运用了让步状语从句（\"While...\"）来将局部的积极成果与更广泛的全球性后果进行对比，以平衡且具分析性的语气阐明了复杂的宏观经济关系。"
       }
     ]
   }
