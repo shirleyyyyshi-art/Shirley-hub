@@ -1,78 +1,71 @@
 {
-  "date": "2026-08-16",
-  "generatedAt": "2026-08-16T03:30:01.999557+00:00",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T03:30:43.909750+00:00",
   "economist": {
     "headline": "When Japan buys yen, it unwinds a dangerous trade",
     "teaser": "The world’s biggest carry trader begins to exit its position",
     "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
     "vocab": [
       {
+        "word": "unwinds",
+        "phonetic": "",
+        "def": "Any mechanism or operation that unwinds something."
+      },
+      {
         "word": "dangerous",
         "phonetic": "/ˈdeɪnd͡ʒ(ə)ɹəs/",
         "def": "Full of danger."
-      },
-      {
-        "word": "biggest",
-        "phonetic": "/ˈbɪɡəst/",
-        "def": "Of great size, large."
       }
     ]
   },
   "st": {
-    "headline": "Not just blue and yellow taxis: ComfortDelGro boss reshapes fleet to drive profit turnaround",
-    "teaser": "Riders can expect shorter waiting times for cars, as well as bigger taxis and added services.",
-    "url": "https://www.straitstimes.com/business/not-just-blue-and-yellow-taxis-comfortdelgro-boss-reshapes-fleet-to-drive-profit-turnaround",
+    "headline": "Mid-scale Holiday Inn in Cavenagh Road to reopen as luxury hotel The Hari Singapore in 2027",
+    "teaser": "The Hari brand is part of IHG Hotels & Resorts' luxury and lifestyle brand Vignette Collection.",
+    "url": "https://www.straitstimes.com/business/property/mid-scale-holiday-inn-at-cavenagh-road-to-reopen-as-luxury-hotel-the-hari-singapore-in-2027",
     "fullText": [
-      "SINGAPORE – Singaporeans may soon come to associate ComfortDelGro with more than its quintessential blue and yellow taxis, as the transport provider broadens its business by expanding its pool of private-hire drivers and diversifying its services .",
-      "The firm has stepped up the transformation of its point-to-point taxi business by finding new ways to meet demand from consumers and businesses here and overseas, Cheng Siak Kian, group chief executive of ComfortDelGro, told The Straits Times in an exclusive interview on Aug 14.",
-      "“The product that you will see is going to be beyond taxis,” said Cheng, who became CEO on Jan 1, 2023, after previously serving as the company’s group deputy CEO and CEO of bus and train operator SBS Transit, in which Comfort has a majority stake.",
-      "“What Singaporeans associate with (ComfortDelGro) in terms of taxis, that’s only one product.”",
-      "Cheng said customers could see shorter waiting times on its Zig app because its supply of drivers has grown.",
-      "While ComfortDelGro’s local taxi fleet fell 5 per cent from around 8,000 in the first half of 2025 to 7,600 in the first half of 2026, its network of private-hire drivers, who can take on other jobs, grew by 27.9 per cent to over 4,000 over the same period.",
-      "This came on the back of a shift in preference, with drivers increasingly wanting to lease a private-hire vehicle instead of a taxi.",
-      "“We are happy to rent (out private-hire cars). What we really want is to meet the demand in Singapore, particularly during peak hours,” Cheng said. “The more supply you have, the more you are able to fulfil the jobs that you can get.”",
-      "The firm has also started to offer larger taxis such as the Toyota Noah Hybrid 6-seater for those looking to travel in bigger groups.",
-      "In addition, it is enhancing technology on its app to offer fares that are attractive to both drivers and customers.",
-      "Cheng said the firm is also pivoting its point-to-point business to focus more on enterprise-level jobs, such as long-term contracts to take passengers with mobility challenges to appointments and sending children to school.",
-      "He added : “It is mutually beneficial because we are able to negotiate very attractive rates (for clients) because it is a bulk buy. We also provide long-term job security for our drivers.”",
-      "Singapore’s largest taxi operator will also ramp up its other services, including non-emergency ambulances, buses and trains as “part and parcel of the network of multi-modal transport that we hope to provide more of going forward”.",
-      "ComfortDelGro’s plans to accelerate its growth come on the back of weaker profits in its taxi and private-hire business, as cost pressures mount and competition intensifies both at home and abroad.",
-      "The firm, which makes most of its revenue overseas, on Aug 14 reported that its net profit fell by 19.7 per cent to $85.1 million in the first half of 2026 from the same period a year earlier, due to “earnings pressures in the point-to-point businesses amid competitive market conditions”.",
-      "The firm’s profits were also crimped by its move earlier in 2026 to absorb part of the increase in fuel costs at in-house pumps to support local taxi drivers, which Cheng said was “the right thing to do”.",
-      "Revenue grew by 5.7 per cent year on year to $2.6 billion in the first half.",
-      "This was helped by Comfort’s public transport networks in the United Kingdom, Europe, Australia, New Zealand and Singapore, which accounted for more than two-thirds of its total revenue.",
-      "Cheng noted that the firm has benefitted from public transport contracts, as many come with a clause which automatically adjusts what operators are paid when expenses such as wages and fuel prices increase.",
-      "He said these contracts have given it confidence to maintain its interim dividend payout to shareholders at 3.91 cents a share.",
-      "ComfortDelGro said it spots more than $17 billion in opportunities within the public transport space over the next 18 months, including in the Middle East, in Dubai and Riyadh.",
-      "“Notwithstanding the fact that the situation may not be stable at this point in time, we believe that if you cast your eyes on the next two to three years, the situation will be quite different,” Cheng said.",
-      "“The Middle East is actually investing a lot in public infrastructure. Many of these take many years to build. This is where we are investing for the future,” he added.",
-      "The war in the oil- and gas-rich region has disrupted international travel, affecting business-to-business demand in the UK, where it owns premium private-hire , courier and black taxi provider Addison Lee.",
-      "Looking to the future, the firm aims to move 10 per cent of its global point-to-point fleet to autonomous vehicles (AVs) by 2030.",
-      "It is no stranger to the technology. In March 2025, it launched its first robotaxi programme in Guangzhou in China, partnering Nasdaq-listed AV firm Pony AI.",
-      "It will establish a regional AV centre of excellence in Shenzhen in the coming months.",
-      "Over in Singapore, the firm started offering driverless shuttle rides in Punggol earlier in 2026.",
-      "“China is probably the next step that we want to go in terms of having more cars commercially, and be the first within all the countries we are operating in to possibly go driverless fully , as they have done with other companies,” Cheng said.",
-      "He believes humans will continue to have roles to play, in jobs including safety operators, even as the roll-out of AVs intensifies."
+      "SINGAPORE – One of Orchard Road’s longest-standing hotels, the Holiday Inn Singapore Orchard City Centre in Cavenagh Road, will reopen as luxury hotel The Hari Singapore in 2027.",
+      "The existing 324-room Holiday Inn Singapore hotel, which first opened in 1985, sits between Kramat and Cavenagh roads, and is behind Cuppage Plaza. Holiday Inn is one of the flagship hotel brands owned and operated by IHG Hotels & Resorts, formerly known as InterContinental Hotels Group.",
+      "Currently under renovation, the new hotel is slated to open in the first quarter of 2027, marking The Hari brand’s debut in Singapore and its third worldwide. The Hari London opened in August 2016, while The Hari Hong Kong opened in December 2020.",
+      "It is a brand of luxury boutique hotels created by Harilela Group, with interiors designed by British designer Tara Bernerd.",
+      "Bernerd – whose portfolio includes the Four Seasons Hotel in Florida and London, as well as residential projects in New York, London and Hong Kong – will oversee the transformation of the mid-scale Holiday Inn Singapore into a five-star establishment.",
+      "The Hari brand is part of IHG’s luxury and lifestyle brand Vignette Collection, which was launched in 2021.",
+      "The Hari hotels are part of a three-hotel portfolio deal between IHG and Hong Kong-based Harilela Group, a hotel development and management company with a portfolio spanning Asia and Europe.",
+      "Under the franchise agreement, the 85-room The Hari London and 210-room The Hari Hong Kong will come under Vignette Collection.",
+      "This agreement is an expansion of an existing partnership between IHG and Harilela Group, which includes Holiday Inn Golden Mile in Hong Kong, Holiday Inn Express Changzhou Center and Holiday Inn Bangkok Silom.",
+      "Aron Harilela, chairman and chief executive officer of the Harilela Group, said in a media statement on Aug 17 that bringing The Hari hotels into the Vignette Collection provided the opportunity for a unified brand partnership and leveraged IHG’s scale, global reach and commercial strength.",
+      "“We have a clear and ambitious vision for The Hari brand, with plans to expand its footprint in major international destinations,” he added.",
+      "Rajit Sukumaran, IHG’s senior vice-president and managing director for East Asia and the Pacific, said: “This landmark agreement introduces Vignette Collection to one of the world’s most strategically important gateway cities and expands its presence in both London and Hong Kong.",
+      "“The Hari hotels are renowned for their distinctive and understated luxury stays, making them a natural fit for the Vignette Collection .”",
+      "IHG intends for the Vignette Collection to build up its portfolio to more than 100 hotels by 2031. As at Aug 17, there are 38 hotels in 17 countries in its portfolio, with another 46 properties in the pipeline.",
+      "Recent openings include The One Shanghai Downtown and Palm Springs Hotel Chengdu, both in China. Upcoming additions include the Mangala Estate Kuantan in Malaysia and Vaagali Maldives.",
+      "Vivek Bhalla, IHG’s managing director for South-east Asia and South Korea, said that while The Hari Singapore is located towards the end of Orchard Road and hemmed in by older buildings such as Cuppage Plaza and Orchard Plaza, its proximity to Emerald Hill and place within a precinct that continues to evolve will reinforce its long-term appeal.",
+      "“Today’s luxury travellers are increasingly seeking hotels with a strong sense of individuality, character and place. When it opens in 2027, The Hari Singapore, Vignette Collection will offer a truly differentiated luxury proposition in one of Asia’s most vibrant cities ,” he said.",
+      "Though the Singapore dollar has remained robust against regional currencies, Bhalla said travel is among the most resilient of discretionary spending areas for consumers.",
+      "He noted that the Republic has always been a competitive hotel market in the region, and that the group believes success in luxury hospitality is driven by differentiation.",
+      "“One significant shift we’re seeing is of travellers increasingly seeking authentic, local and purpose-driven experiences. This has led to a rise of lifestyle-led hotels and collection brands.”",
+      "He added that the quick expansion of Vignette Collection reflects this, with hotel conversions accounting for 43 per cent of IHG’s openings and 49 per cent of signings in the first half of 2026.",
+      "“There’s a clear opportunity to go further,” he said. “Singapore is a strategically important market for IHG and we see opportunities to expand our portfolio across all segments here.”",
+      "IHG has Hotel Indigo Changi Airport in the pipeline, a 255-room property scheduled to open in 2028. As part of the upper upscale, lifestyle hotel brand, the hotel will pay homage to Changi Airport."
     ]
   },
   "cna": {
-    "headline": "Disney, Square Enix preview 'Kingdom Hearts 4' video game at fan convention",
-    "teaser": "Disney, Square Enix preview 'Kingdom Hearts 4' video game at fan convention",
-    "url": "https://www.channelnewsasia.com/business/disney-square-enix-preview-kingdom-hearts-4-video-game-fan-convention-6322006",
+    "headline": "More than 180,000 without power in Hawaii, 100 homes damaged as Lala weakens to tropical storm",
+    "teaser": "More than 180,000 without power in Hawaii, 100 homes damaged as Lala weakens to tropical storm",
+    "url": "https://www.channelnewsasia.com/world/hawaii-hurricane-lala-tropical-storm-6322496",
     "fullText": [
-      "ANAHEIM, California, Aug 15 : Walt Disney and Japanese video game company Square Enix on Saturday previewed the yet-to-be-released \"Kingdom Hearts 4\" game as they celebrated the high-selling franchise's upcoming 25th anniversary at a Disney fan convention in Anaheim.",
-      "\"Kingdom Hearts\" is one of nine video games that have grossed more than $1 billion at retail for Disney, its executive vice president of games and digital entertainment Sean Shoptaw said in the company's strategy report on Thursday.",
-      "Blending characters and worlds from the Square Enix \"Final Fantasy\" franchise and Disney films, the action role-playing series \"Kingdom Hearts\" follows Sora, a teenager whose home world is destroyed by creatures known as Heartless.",
-      "\"Kingdom Hearts 4\" follows Sora after the events of the third game as he becomes trapped in Quadratum, a fictional version of Shibuya, a real-life business hub in Tokyo, Japan.",
-      "The extended footage reunited fans with familiar characters including Donald, Goofy, King Mickey and Hades, along with original \"Kingdom Hearts\" characters and glimpses of other worlds.",
-      "The panel included surprise guest Tetsuya Nomura, creator of the franchise, who said he aimed to include Disney titles that created strong gameplay synergies.",
-      "\"We felt that 'Coco' would be the best world that would really help to achieve that,\" he said of the film about a boy who enters the \"Land of the Dead\" to find his great-great-grandfather, a legendary singer.",
-      "Panelists also shared details about the new Paper Mickey Mouse world, where Mickey becomes a playable character in a storybook setting for the first time.",
-      "Players can travel through cracks in walls, transform into an airplane and solve puzzles, marking a departure from the series' traditional adventure format.",
-      "Panelists also teased a significant role for \"Sleeping Beauty\" villain Maleficent, who is returning for \"Kingdom Hearts 4.\"",
-      "The first \"Kingdom Hearts\" game was released in 2002 for the PlayStation 2. Directed by Nomura, it launched a long-running collaboration between Square Enix and The Walt Disney Company.",
-      "The franchise will be adapted into an original anime series for Disney Channel and Disney+, it was announced on Friday. No title or release date was given, though Nomura said on Saturday that he is heavily involved in its development.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "More than 180,000 utility customers remained without power across Hawaii on Sunday (Aug 16) afternoon after Hurricane Lala brushed the Big Island before being downgraded to a tropical storm.",
+      "Some 183,123 customers across Hawaii were without power as of 3.30pm, according to poweroutage.us",
+      "Outages in Oahu, the most populated island, had dropped from more than 220,000 to about 130,000 as of Sunday morning, state officials said during a press conference.",
+      "State officials received reports of at least 100 homes damaged, Hawaii Governor Josh Green said on Sunday.",
+      "A tropical storm warning remained in effect for Kauai county, although those warnings for Maui and Oahu counties were discontinued earlier on Sunday, according to the hurricane centre.",
+      "The weather agency's projections indicate that if the storm remains on its expected path, it should be clear of Hawaii's islands by 8am on Monday.",
+      "Hawaiian Electric had warned customers on Saturday evening that repair efforts were being hampered as hurricane-force winds toppled trees and rain flooded roadways.",
+      "Lala had battered parts of Hawaii with flash floods \"like we've never seen\", a state official said.",
+      "State officials also urged residents to stay indoors after at least one person was reported dead in a car-related accident.",
+      "\"It's not a day to go to the beach,\" one official said during a press conference on Sunday morning.",
+      "Video released by the Hawaii Department of Transportation showed flood waters overtaking roads. Two homes were swept away, according to the National Weather Service.",
+      "About 117 people were in shelters as of Sunday morning, officials said.",
+      "The Hawaii Department of Transportation said that all airports have been reopened, but state officials advised travellers to check with their airlines for updates."
     ]
   },
   "mom": {
@@ -82,262 +75,262 @@
   },
   "lifeVocab": [
     {
-      "en": "wet market",
-      "cn": "湿巴刹 / 传统菜市场",
-      "def": "A fresh food market common in Singapore selling fresh meat, fish, and produce, characterized by wet floors from washing down stalls.",
-      "ex": "My grandmother prefers buying fresh threadfin from the wet market rather than the supermarket.",
-      "emoji": "🐟"
+      "en": "commute",
+      "cn": "上下班路程/通勤",
+      "def": "to travel some distance between one's home and place of work on a regular basis",
+      "ex": "My daily commute from Pasir Ris to Raffles Place takes about 45 minutes.",
+      "emoji": "🚇"
     },
     {
-      "en": "produce",
-      "cn": "农产品（尤指蔬菜水果）",
-      "def": "Fresh fruits and vegetables sold for consumption.",
-      "ex": "The vegetable stall at Tekka Market has a vibrant display of organic produce.",
-      "emoji": "🥬"
+      "en": "gantry",
+      "cn": "地铁闸机",
+      "def": "the electronic fare gates where commuters tap their EZ-Link cards or phones",
+      "ex": "Please have your mobile wallet ready before reaching the MRT gantry to avoid crowding.",
+      "emoji": "🚧"
     },
     {
-      "en": "fishmonger",
-      "cn": "鱼贩",
-      "def": "A person or shop that sells fish and seafood.",
-      "ex": "The friendly fishmonger offered to scale and clean the red snapper for me.",
-      "emoji": "🧑‍🌾"
+      "en": "concourse",
+      "cn": "地铁站大厅",
+      "def": "the large open area in a station where ticketing machines and passenger service centers are located",
+      "ex": "Let's meet near the passenger service center at the Dhoby Ghaut MRT concourse.",
+      "emoji": "🏢"
     },
     {
-      "en": "poultry",
-      "cn": "家禽肉（如鸡鸭肉）",
-      "def": "Domestic birds, such as chickens or ducks, kept for their eggs or meat.",
-      "ex": "You have to queue early at the poultry stall if you want the best kampong chicken.",
-      "emoji": "🐔"
+      "en": "interchange station",
+      "cn": "换乘站",
+      "def": "a transit station where passengers can change transit lines",
+      "ex": "Outram Park is a busy interchange station connecting three different MRT lines.",
+      "emoji": "🔄"
     },
     {
-      "en": "haggle",
-      "cn": "讨价还价",
-      "def": "To dispute or bargain persistently over the price of something.",
-      "ex": "While haggling is common in some countries, it is less typical at modern Singapore wet markets where prices are mostly fixed.",
-      "emoji": "🗣️"
+      "en": "disrupt",
+      "cn": "中断/打乱",
+      "def": "to interrupt an event, activity, or process by causing a disturbance or problem",
+      "ex": "Track maintenance works might temporarily disrupt train services on the East-West Line.",
+      "emoji": "⚠️"
     },
     {
-      "en": "dry goods",
-      "cn": "干粮 / 干货",
-      "def": "Foods that are dry, such as grains, spices, dried shrimp, and flour.",
-      "ex": "We bought dried anchovies and shallots from the dry goods section of the market.",
-      "emoji": "🥜"
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "a moving staircase consisting of an endlessly circulating chain of steps",
+      "ex": "During peak hours, remember to stand on the left of the escalator to let others pass on the right.",
+      "emoji": "📶"
     },
     {
-      "en": "gut",
-      "cn": "取出内脏",
-      "def": "To remove the internal organs of a fish or animal before cooking.",
-      "ex": "Could you please gut and butterfly this seabass for my dinner tonight?",
-      "emoji": "🔪"
+      "en": "peak hours",
+      "cn": "高峰时段",
+      "def": "the times of highest demand for public transport, typically morning and evening commuting times",
+      "ex": "MRT cabins are extremely packed during peak hours from 8 AM to 9 AM.",
+      "emoji": "👥"
     },
     {
-      "en": "grated",
-      "cn": "磨碎的 / 刨丝的",
-      "def": "Food reduced to small shreds by being rubbed on a grater.",
-      "ex": "She bought freshly grated coconut to make traditional nonya kueh.",
-      "emoji": "🥥"
+      "en": "platform screen doors",
+      "cn": "站台屏蔽门",
+      "def": "sliding doors that separate the platform from the train tracks for safety",
+      "ex": "Stand behind the yellow line before the platform screen doors open.",
+      "emoji": "🚪"
     },
     {
-      "en": "scallion",
-      "cn": "青葱",
-      "def": "A green onion, characterized by a small bulb and long green leaves.",
-      "ex": "The auntie threw in a handful of free scallions after I bought fifty dollars worth of groceries.",
-      "emoji": "🌱"
+      "en": "feeder bus",
+      "cn": "接驳/支线巴士",
+      "def": "a local bus service that brings passengers from residential areas to a main MRT station",
+      "ex": "I usually take a feeder bus from my block to the nearest MRT station.",
+      "emoji": "🚌"
     },
     {
-      "en": "steep",
-      "cn": "过高的（价格）",
-      "def": "An informal term meaning very expensive or high in price.",
-      "ex": "The price of local seafood has become quite steep due to recent supply chain disruptions.",
-      "emoji": "💸"
+      "en": "top up",
+      "cn": "充值",
+      "def": "to add money to an electronic card or account to increase the balance",
+      "ex": "I need to top up my SimplyGo card because the balance is running low.",
+      "emoji": "💳"
     }
   ],
   "levelVocab": [
     {
-      "w": "bolster",
-      "ipa": "/ˈbəʊl.stər/",
-      "pos": "v.",
-      "cn": "支持 / 加强",
-      "def": "To support, strengthen, or make something more resilient.",
-      "ex": "The government launched new grants to bolster local small-and-medium enterprises."
-    },
-    {
-      "w": "buffer",
-      "ipa": "/ˈbʌf.ər/",
-      "pos": "n.",
-      "cn": "缓冲器 / 缓冲物",
-      "def": "A safeguard or protective barrier that lessens the impact of harmful forces.",
-      "ex": "Having a diverse supply chain acts as a crucial buffer during global logistics crises."
-    },
-    {
-      "w": "calibrate",
-      "ipa": "/ˈkæl.ɪ.breɪt/",
-      "pos": "v.",
-      "cn": "精准调整 / 校准",
-      "def": "To adjust or carefully assess something to match a specific standard or situation.",
-      "ex": "Management had to calibrate their expansion plans in response to rising interest rates."
-    },
-    {
-      "w": "deviate",
-      "ipa": "/ˈdiː.vi.eɪt/",
-      "pos": "v.",
-      "cn": "偏离 / 背离",
-      "def": "To depart from an established course, plan, or standard.",
-      "ex": "We cannot afford to deviate from the safety protocols during the construction phase."
-    },
-    {
-      "w": "facilitate",
-      "ipa": "/fəˈsɪl.ɪ.teɪt/",
-      "pos": "v.",
-      "cn": "促进 / 使得更容易",
-      "def": "To make an action or process easy or easier to achieve.",
-      "ex": "The new digital portal is designed to facilitate seamless cross-border transactions."
-    },
-    {
-      "w": "impede",
-      "ipa": "/ɪmˈpiːd/",
-      "pos": "v.",
-      "cn": "阻碍 / 妨碍",
-      "def": "To delay or prevent someone or something by obstructing them.",
-      "ex": "Heavy bureaucracy should not be allowed to impede the progress of innovative startups."
-    },
-    {
-      "w": "obsolete",
-      "ipa": "/ˌɒb.səˈliːt/",
+      "w": "amiable",
+      "ipa": "/ˈeɪmiəbl/",
       "pos": "adj.",
-      "cn": "过时的 / 淘汰的",
-      "def": "No longer produced or used; out of date.",
-      "ex": "With the rise of cloud computing, many legacy hardware systems have become obsolete."
+      "cn": "和蔼可亲的",
+      "def": "friendly and pleasant in manner",
+      "ex": "The new HR manager is highly amiable, making employees feel comfortable discussing their concerns."
     },
     {
-      "w": "permeate",
-      "ipa": "/ˈpɜː.mi.eɪt/",
+      "w": "cognizant",
+      "ipa": "/ˈkɒɡnɪzənt/",
+      "pos": "adj.",
+      "cn": "认识到的/知晓的",
+      "def": "having knowledge or being aware of something",
+      "ex": "We must be cognizant of the potential regulatory hurdles before expanding into Europe."
+    },
+    {
+      "w": "deplorable",
+      "ipa": "/dɪˈplɔːrəbl/",
+      "pos": "adj.",
+      "cn": "糟糕的/令人震惊的",
+      "def": "deserving strong condemnation; shockingly bad in quality",
+      "ex": "The working conditions in that offshore facility were deemed deplorable by the audit team."
+    },
+    {
+      "w": "equivocal",
+      "ipa": "/ɪˈkwɪvəkl/",
+      "pos": "adj.",
+      "cn": "模棱两可的",
+      "def": "open to more than one interpretation; uncertain or questionable",
+      "ex": "The customer feedback was equivocal, leaving the product team unsure of the next steps."
+    },
+    {
+      "w": "impetus",
+      "ipa": "/ˈɪmpɪtəs/",
+      "pos": "n.",
+      "cn": "推动力/促进",
+      "def": "the force or energy with which a body moves; a driving force",
+      "ex": "The new government subsidy provided the necessary impetus for companies to adopt green technology."
+    },
+    {
+      "w": "lament",
+      "ipa": "/ləˈment/",
       "pos": "v.",
-      "cn": "渗透 / 弥漫",
-      "def": "To spread throughout something; to pervade.",
-      "ex": "An atmosphere of optimism began to permeate the corporate headquarters after the merger."
+      "cn": "哀叹/感到遗憾",
+      "def": "to express grief, sorrow, or regret about something",
+      "ex": "Many retail owners lament the rising cost of commercial rental in the central business district."
+    },
+    {
+      "w": "pervasive",
+      "ipa": "/pəˈveɪsɪv/",
+      "pos": "adj.",
+      "cn": "无处不在的/充斥各处的",
+      "def": "spreading widely throughout an area or a group of people",
+      "ex": "The influence of digital wallets has become pervasive across all demographics in Singapore."
     },
     {
       "w": "reconcile",
-      "ipa": "/ˈrek.ən.saɪl/",
+      "ipa": "/ˈrekənsaɪl/",
       "pos": "v.",
-      "cn": "调和 / 妥协",
-      "def": "To find a way in which two differing ideas, facts, or demands can both be true or exist together.",
-      "ex": "It is difficult to reconcile the need for rapid growth with strict environmental protection."
+      "cn": "调和/使一致",
+      "def": "to find a way in which two differing ideas or facts can both be true or exist together",
+      "ex": "It is difficult to reconcile the company's promise of sustainability with its increased carbon emissions."
     },
     {
-      "w": "stringent",
-      "ipa": "/ˈstrɪn.dʒənt/",
+      "w": "superfluous",
+      "ipa": "/suːˈpɜːfluəs/",
       "pos": "adj.",
-      "cn": "严格的 / 严厉的",
-      "def": "Strict, precise, and exacting, especially concerning regulations or requirements.",
-      "ex": "Singapore maintains highly stringent financial audits to preserve its reputation as a trusted hub."
+      "cn": "多余的/累赘的",
+      "def": "unnecessary, especially through being more than enough",
+      "ex": "Including basic definitions in a technical report for senior management is superfluous."
+    },
+    {
+      "w": "vindicate",
+      "ipa": "/ˈvɪndɪkeɪt/",
+      "pos": "v.",
+      "cn": "证明...正确/澄清",
+      "def": "to clear someone of blame or suspicion; to show to be right or justified",
+      "ex": "The excellent quarterly sales figures vindicate the CEO's controversial decision to restructure the division."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Community Silver Academy",
-    "transcript": "As Singapore <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɡræp.əlz/ (v.) to struggle to deal with or overcome a difficult problem — 努力解决 / 应对\">grapples</span> with an rapidly ageing population, local active ageing centres are rolling out new digital literacy courses. These community-led hubs aim to keep seniors digitally connected, helping them navigate essential services like HealthHub and Singpass. Many elderly residents have embraced the shift, reporting a greater sense of <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɔːˈtɒn.ə.mi/ (n.) the power or right of an individual to make their own decisions — 自主权\">autonomy</span> in their daily routines. Government <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsʌb.sɪ.diz/ (n.) money granted by the government to help keep the cost of a service low — 政府补贴\">subsidies</span> have also ensured these programmes remain highly accessible to all."
+    "title": "Singapore's Push for National EV Charger Network",
+    "transcript": "As Singapore charges ahead with its green plan, the Land Transport Authority has <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈseləreɪtɪd/ (adj.) faster than usual; speeded up — 加速的\">accelerated</span> the installation of electric vehicle charging points in public housing estates. Commuters in HDB towns like Yishun and Jurong will soon find charging slots within a short walk from their homes. This rapid deployment aims to address <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/reɪndʒ æŋˈzaɪəti/ (n. phrase) a driver's fear that their electric vehicle's battery will run out of power before they reach their destination — 里程焦虑\">range anxiety</span> among potential EV buyers. Authorities believe that making charging accessible will <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/nʌdʒ/ (v.) to gently encourage someone to do something — 劝诱/轻推\">nudge</span> more drivers to ditch internal combustion engine cars."
   },
   "economistArticle": {
-    "title": "When Japan buys yen, it unwinds a dangerous trade",
+    "title": "The Grand Unwinding: Japan's Yen Rescue and the Carry Trade",
     "paras": [
-      "For years, global investors have operated on a <span class=\"voc\">deceptively</span> simple playbook. They borrowed capital in Japan, where interest rates <span class=\"voc\">hovered</span> near absolute zero, and deployed it into higher-yielding assets across the globe—from American tech stocks to Mexican bonds. <span class=\"gem\">This mechanism, known as the yen carry trade, acted as a massive financial conveyor belt, flooding the global financial system with cheap <span class=\"voc\">liquidity</span>.</span>",
-      "Yet, this seemingly <span class=\"voc\">inexhaustible</span> source of easy money is now undergoing a violent reversal. Under mounting domestic inflationary pressures, the Bank of Japan has finally abandoned its ultra-loose monetary stance, incrementally nudging its benchmark interest rate upward. Simultaneously, the Japanese government has intervened aggressively in foreign exchange markets, purchasing yen to rescue the currency from multi-decade lows.",
-      "The consequences of this policy shift have <span class=\"voc\">reverberated</span> instantly through global markets. As the yen appreciates, the mathematics of the carry trade collapse; borrowers must now repay their yen-<span class=\"voc\">denominated</span> debts using a stronger currency, erasing their profit margins. To cover these mounting costs, international hedge funds have been forced into a disorderly <span class=\"voc\">scramble</span>, selling off their foreign assets to liquidate their positions.",
-      "This sudden unwinding highlights the systemic <span class=\"voc\">vulnerabilities</span> inherent in a highly interconnected global economy. When the world's chief creditor nation decides to pull back its capital, asset classes worldwide experience immediate tremors. <span class=\"gem\">What began as a localized currency defense in Tokyo has rapidly transformed into a global <span class=\"voc\">deleveraging</span> event, exposing the fragility of trades built entirely on cheap leverage.</span>"
+      "<span class=\"gem\">For decades, the global financial system operated on a remarkably reliable dynamic: borrow cheaply in Japan, where interest rates remained stubbornly below zero, and invest the proceeds in higher-yielding assets elsewhere.</span> This practice, known as the yen <span class=\"voc\">carry trade</span>, pumped hundreds of billions of dollars into global markets, inflating asset prices from American tech stocks to emerging-market bonds. But when the Bank of Japan decided to step in and aggressively buy its own currency, it signaled the beginning of a perilous unwinding process.",
+      "The mechanics of the carry trade rely heavily on a weak yen and a predictable interest-rate <span class=\"voc\">differential</span>. Investors sell the borrowed yen for foreign currencies to make their investments, putting downward pressure on the Japanese currency. However, when the Bank of Japan intervenes to <span class=\"voc\">prop up</span> the yen, the math suddenly changes. <span class=\"gem\">A rapidly appreciating yen forces traders to buy back the currency to close out their positions, triggering a <span class=\"voc\">stampede</span> that can destabilize global financial markets.</span>",
+      "This intervention is not merely a technical adjustment; it represents a fundamental shift in Japan's macroeconomic strategy. Confronted with rising import costs and persistent domestic inflation, Tokyo has found that tolerating a weak yen is no longer politically or economically <span class=\"voc\">tenable</span>. By buying yen and raising interest rates, policymakers are attempting to restore purchasing power to Japanese consumers, though the domestic benefits may come at the expense of international financial stability.",
+      "As the world's largest creditor nation, Japan's actions <span class=\"voc\">reverberate</span> across borders. Institutional investors and hedge funds, accustomed to cheap <span class=\"voc\">leverage</span>, are now scrambling to adjust their portfolios. The sudden withdrawal of yen liquidity threatens to expose <span class=\"voc\">vulnerabilities</span> in highly leveraged sectors worldwide, serving as a stark reminder of how interconnected and fragile the global financial <span class=\"voc\">architecture</span> remains."
     ],
-    "cn": "多年来，全球投资者一直奉行着一个看似简单的投资策略。他们在利率接近绝对零度的日本借入资金，并将其投向全球各地收益率较高的资产——从美国科技股到墨西哥债券。这种机制被称为日元套利交易，它就像一条巨大的金融传送带，向全球金融体系源源不断地输送廉价流动性。\n\n然而，这一看似源源不断的宽裕资金来源如今正经历着剧烈的逆转。在日益加剧的国内通胀压力下，日本央行终于放弃了其超宽松的货币立场，逐步调高其基准利率。与此同时，日本政府在外汇市场上进行了强力干预，通过大举买入日元，以将日元汇率从数十年来的低点中拯救出来。\n\n这一政策转变的影响立即在全球市场产生共鸣。随着日元升值，套利交易的数学逻辑宣告崩溃；借款人现在必须使用更坚挺的货币来偿还其以日元计价的债务，从而蚕食了他们的利润空间。为了应付这些不断攀升的成本，国际对冲基金被迫陷入一场混乱的争夺战，纷纷抛售其海外资产以结清头寸。\n\n这种突如其来的仓位平仓凸显了高度互联的全球经济中固有的系统性脆弱。当全球最大的债权国决定收回资金时，全球范围内的资产类别都会立即产生震颤。这场始于东京的局部货币防御战，已迅速演变为一场全球性的去杠杆事件，暴露了完全建立在廉价杠杆之上的交易的脆弱性。",
+    "cn": "几十年来，全球金融体系一直运行在一个非常可靠的动态机制上：在利率一直顽固维持在零度以下的日本低成本借款，然后将所得资金投资于其他地区收益率更高的资产。这种被称为“日元套利交易”的做法向全球市场注入了数千亿美元，推高了从美国科技股到新兴市场债券的资产价格。但是，当日本银行决定介入并积极购买本国货币时，它标志着一个危险的解套过程的开始。\n套利交易的机制严重依赖于疲软的日元和可预测的利差。投资者卖出借入的日元换取外币进行投资，从而对日本货币施加了贬值压力。然而，当日本银行干预以提振日元时，计算公式突然发生了变化。日元迅速升值迫使交易员回购日元以平仓，从而引发了一场可能破坏全球金融市场稳定的踩踏式平仓潮。\n这种干预不仅仅是一次技术性调整；它代表了日本宏观经济战略的根本转变。面对不断攀升的进口成本和持续的国内通胀，东京方面发现，容忍弱势日元在政治上或经济上已不再可行。通过购买日元和提高利率，政策制定者正试图恢复日本消费者的购买力，尽管国内的益处可能会以牺牲国际金融稳定为代价。\n作为全球最大的债权国，日本的举动在跨境产生回响。习惯了廉价杠杆的机构投资者和对冲基金现在正争先恐后地调整其投资组合。日元流动性的突然抽离可能会暴露全球高杠杆行业的脆弱性，这无异于一次严厉的警示，提醒人们全球金融架构是多么相互关联和脆弱。",
     "vocab": [
       {
-        "w": "deceptively",
-        "ipa": "/dɪˈsep.tɪv.li/",
-        "pos": "adv.",
-        "mean": "看似 / 欺骗性地",
-        "def": "In a way that gives a misleading impression of a situation.",
-        "ex": "The math behind the investment strategy was deceptively simple, hiding substantial risks."
-      },
-      {
-        "w": "hovered",
-        "ipa": "/ˈhɒv.əd/",
+        "w": "unwind",
+        "ipa": "/ʌnˈwaɪnd/",
         "pos": "v.",
-        "mean": "徘徊 / 维持在（某一水平）",
-        "def": "Remained at or near a particular level or value.",
-        "ex": "Inflation in the region has hovered around two percent for the last decade."
+        "mean": "解套/平仓",
+        "def": "to undo or resolve a complex situation or financial position; to reverse",
+        "ex": "The hedge fund had to unwind its complex derivative positions to cover its losses."
       },
       {
-        "w": "yield",
-        "ipa": "/jiːld/",
+        "w": "carry trade",
+        "ipa": "/ˈkæri treɪd/",
         "pos": "n.",
-        "mean": "收益率 / 产量",
-        "def": "The financial return or interest earned on an investment.",
-        "ex": "Government bonds normally offer a lower yield compared to high-risk corporate stocks."
+        "mean": "套利交易",
+        "def": "a strategy where an investor borrows money at a low interest rate in order to invest in an asset that is likely to provide a higher return",
+        "ex": "The yen carry trade has been a cornerstone of global macro investing for years."
       },
       {
-        "w": "liquidity",
-        "ipa": "/lɪˈkwɪd.ə.ti/",
+        "w": "differential",
+        "ipa": "/ˌdɪfəˈrenʃl/",
         "pos": "n.",
-        "mean": "流动性",
-        "def": "The availability of liquid assets or cash in a market or financial system.",
-        "ex": "The central bank injected massive liquidity into the banking system to prevent a credit crunch."
+        "mean": "差距/差额",
+        "def": "a difference between amounts, values, or rates",
+        "ex": "The widening interest rate differential between the US and Japan weakened the yen."
       },
       {
-        "w": "inexhaustible",
-        "ipa": "/ˌɪn.ɪɡˈzɔː.stə.bəl/",
+        "w": "prop up",
+        "ipa": "/prɒp ʌp/",
+        "pos": "phrasal v.",
+        "mean": "支撑/扶持",
+        "def": "to support or prevent from falling, often artificially",
+        "ex": "The government introduced tax credits to prop up the struggling housing market."
+      },
+      {
+        "w": "stampede",
+        "ipa": "/stæmˈpiːd/",
+        "pos": "n.",
+        "mean": "（投资者的）蜂拥行为/踩踏",
+        "def": "a sudden rapid rush or movement of a crowd of people or investors",
+        "ex": "The sudden interest rate hike caused a stampede of capital out of emerging markets."
+      },
+      {
+        "w": "tenable",
+        "ipa": "/ˈtenəbl/",
         "pos": "adj.",
-        "mean": "取之不尽的 / 无穷无尽的",
-        "def": "Existing in unlimited quantities; impossible to use up completely.",
-        "ex": "The technological boom created a seemingly inexhaustible demand for skilled software engineers."
+        "mean": "站得住脚的/可维持的",
+        "def": "able to be maintained or defended against attack or objection",
+        "ex": "With costs rising so rapidly, their low-pricing business model is no longer tenable."
       },
       {
-        "w": "reverberated",
-        "ipa": "/rɪˈvɜː.bə.reɪ.tɪd/",
+        "w": "reverberate",
+        "ipa": "/rɪˈvɜːbəreɪt/",
         "pos": "v.",
-        "mean": "产生深远影响 / 回响",
-        "def": "Had a widespread, continuing, and severe effect or impact.",
-        "ex": "The shockwaves of the major bank collapse reverberated through global stock markets."
+        "mean": "产生震荡/回响",
+        "def": "to have a prolonged or continuing effect; to echo",
+        "ex": "The collapse of the major investment bank will reverberate through global markets for years."
       },
       {
-        "w": "denominated",
-        "ipa": "/dɪˈnɒm.ɪ.neɪ.tɪd/",
-        "pos": "adj.",
-        "mean": "以……货币计价的",
-        "def": "Expressed or calculated in a specified monetary unit.",
-        "ex": "Many developing countries suffer when borrowing in loans denominated in US dollars."
-      },
-      {
-        "w": "scramble",
-        "ipa": "/ˈskræm.bəl/",
+        "w": "leverage",
+        "ipa": "/ˈliːvərɪdʒ/",
         "pos": "n.",
-        "mean": "急忙的行为 / 争夺",
-        "def": "A hurried, chaotic, or disorderly struggle to perform a task.",
-        "ex": "The sudden policy change led to a scramble among importers to secure alternative routes."
+        "mean": "杠杆/举债",
+        "def": "the use of borrowed money to buy an investment, hoping that the future profits will be much larger than the interest",
+        "ex": "Using too much leverage can amplify your losses if the market moves against you."
       },
       {
         "w": "vulnerabilities",
-        "ipa": "/ˌvʌl.nər.əˈbɪl.ə.tiz/",
-        "pos": "n.",
-        "mean": "脆弱性 / 漏洞",
-        "def": "Weaknesses or gaps in a system that leave it open to harm or failure.",
-        "ex": "The pandemic exposed deep vulnerabilities in global medical equipment supply chains."
+        "ipa": "/ˌvʌlnərəˈbɪlətiz/",
+        "pos": "n. pl.",
+        "mean": "脆弱性/弱点",
+        "def": "weaknesses or areas that are easily harmed or attacked",
+        "ex": "The pandemic exposed severe vulnerabilities in global supply chains."
       },
       {
-        "w": "deleveraging",
-        "ipa": "/diːˈliː.vər.ɪ.dʒɪŋ/",
+        "w": "architecture",
+        "ipa": "/ˈɑːkɪtektʃə(r)/",
         "pos": "n.",
-        "mean": "去杠杆化",
-        "def": "The process of reducing level of debt by rapidly selling off assets.",
-        "ex": "After the property bubble burst, financial institutions underwent a painful period of deleveraging."
+        "mean": "架构/结构",
+        "def": "the complex structure of something, especially a system or organization",
+        "ex": "Regulators are seeking to reform the international financial architecture to prevent future crises."
       }
     ],
     "gems": [
       {
-        "s": "This mechanism, known as the yen carry trade, acted as a massive financial conveyor belt, flooding the global financial system with cheap liquidity.",
-        "why": "This sentence uses a vivid physical metaphor ('conveyor belt') to explain a complex financial flow, followed by a participle phrase ('flooding...') that active paints the consequences of that mechanism. 用生动的物理比喻（“传送带”）来解释复杂的资金流动，随后使用分词短语（“flooding...”）形象地描绘出该机制带来的直接后果。"
+        "s": "For decades, the global financial system operated on a remarkably reliable dynamic: borrow cheaply in Japan, where interest rates remained stubbornly below zero, and invest the proceeds in higher-yielding assets elsewhere.",
+        "why": "This sentence utilizes a colon to elegantly introduce a detailed explanation of a complex dynamic, breaking down a sophisticated financial concept into a clear, parallel structure. 这句话利用冒号优雅地引入了对复杂动态的详细解释，将复杂的金融概念拆解为清晰且对称的句式结构。"
       },
       {
-        "s": "What began as a localized currency defense in Tokyo has rapidly transformed into a global deleveraging event, exposing the fragility of trades built entirely on cheap leverage.",
-        "why": "This sentence employs a contrasting 'What began as... has transformed into...' structure, which masterfully outlines the cause-and-effect relationship of global macroeconomic shocks. 句式采用对比鲜明的“起初是……如今演变成……”结构，精妙地勾勒出全球宏观经济冲击的因果传导关系。"
+        "s": "A rapidly appreciating yen forces traders to buy back the currency to close out their positions, triggering a stampede that can destabilize global financial markets.",
+        "why": "This sentence uses a present participle clause ('triggering a...') to seamlessly connect a cause with its dramatic, long-term consequence, enhancing flow and impact. 这句话使用现在分词短语（'triggering a...'）将起因与戏剧性的长期后果无缝连接，增强了行文的流畅度与表现力。"
       }
     ]
   }
