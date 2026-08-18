@@ -1,71 +1,50 @@
 {
-  "date": "2026-08-17",
-  "generatedAt": "2026-08-17T03:30:43.909750+00:00",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T03:24:14.761704+00:00",
   "economist": {
-    "headline": "When Japan buys yen, it unwinds a dangerous trade",
-    "teaser": "The world’s biggest carry trader begins to exit its position",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+    "headline": "The world’s most influential economist is oddly unconvincing",
+    "teaser": "Daron Acemoglu is revered. Why?",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/17/the-worlds-most-influential-economist-is-oddly-unconvincing",
     "vocab": [
       {
-        "word": "unwinds",
-        "phonetic": "",
-        "def": "Any mechanism or operation that unwinds something."
+        "word": "influential",
+        "phonetic": "/ɪnfluˈɛnʃəl/",
+        "def": "A person who has influence"
       },
       {
-        "word": "dangerous",
-        "phonetic": "/ˈdeɪnd͡ʒ(ə)ɹəs/",
-        "def": "Full of danger."
+        "word": "economist",
+        "phonetic": "/iːˈkɒn.ə.mɪst/",
+        "def": "An expert in economics, especially one who studies economic data and extracts higher-level information or proposes theories."
       }
     ]
   },
   "st": {
-    "headline": "Mid-scale Holiday Inn in Cavenagh Road to reopen as luxury hotel The Hari Singapore in 2027",
-    "teaser": "The Hari brand is part of IHG Hotels & Resorts' luxury and lifestyle brand Vignette Collection.",
-    "url": "https://www.straitstimes.com/business/property/mid-scale-holiday-inn-at-cavenagh-road-to-reopen-as-luxury-hotel-the-hari-singapore-in-2027",
+    "headline": "South Korea denies report on discussing chips as first US investment",
+    "teaser": "A report said the project was facing uncertainty after Washington sought investment in US memory-chip facilities.",
+    "url": "https://www.straitstimes.com/business/south-korea-denies-report-on-discussing-chips-as-first-us-investment",
     "fullText": [
-      "SINGAPORE – One of Orchard Road’s longest-standing hotels, the Holiday Inn Singapore Orchard City Centre in Cavenagh Road, will reopen as luxury hotel The Hari Singapore in 2027.",
-      "The existing 324-room Holiday Inn Singapore hotel, which first opened in 1985, sits between Kramat and Cavenagh roads, and is behind Cuppage Plaza. Holiday Inn is one of the flagship hotel brands owned and operated by IHG Hotels & Resorts, formerly known as InterContinental Hotels Group.",
-      "Currently under renovation, the new hotel is slated to open in the first quarter of 2027, marking The Hari brand’s debut in Singapore and its third worldwide. The Hari London opened in August 2016, while The Hari Hong Kong opened in December 2020.",
-      "It is a brand of luxury boutique hotels created by Harilela Group, with interiors designed by British designer Tara Bernerd.",
-      "Bernerd – whose portfolio includes the Four Seasons Hotel in Florida and London, as well as residential projects in New York, London and Hong Kong – will oversee the transformation of the mid-scale Holiday Inn Singapore into a five-star establishment.",
-      "The Hari brand is part of IHG’s luxury and lifestyle brand Vignette Collection, which was launched in 2021.",
-      "The Hari hotels are part of a three-hotel portfolio deal between IHG and Hong Kong-based Harilela Group, a hotel development and management company with a portfolio spanning Asia and Europe.",
-      "Under the franchise agreement, the 85-room The Hari London and 210-room The Hari Hong Kong will come under Vignette Collection.",
-      "This agreement is an expansion of an existing partnership between IHG and Harilela Group, which includes Holiday Inn Golden Mile in Hong Kong, Holiday Inn Express Changzhou Center and Holiday Inn Bangkok Silom.",
-      "Aron Harilela, chairman and chief executive officer of the Harilela Group, said in a media statement on Aug 17 that bringing The Hari hotels into the Vignette Collection provided the opportunity for a unified brand partnership and leveraged IHG’s scale, global reach and commercial strength.",
-      "“We have a clear and ambitious vision for The Hari brand, with plans to expand its footprint in major international destinations,” he added.",
-      "Rajit Sukumaran, IHG’s senior vice-president and managing director for East Asia and the Pacific, said: “This landmark agreement introduces Vignette Collection to one of the world’s most strategically important gateway cities and expands its presence in both London and Hong Kong.",
-      "“The Hari hotels are renowned for their distinctive and understated luxury stays, making them a natural fit for the Vignette Collection .”",
-      "IHG intends for the Vignette Collection to build up its portfolio to more than 100 hotels by 2031. As at Aug 17, there are 38 hotels in 17 countries in its portfolio, with another 46 properties in the pipeline.",
-      "Recent openings include The One Shanghai Downtown and Palm Springs Hotel Chengdu, both in China. Upcoming additions include the Mangala Estate Kuantan in Malaysia and Vaagali Maldives.",
-      "Vivek Bhalla, IHG’s managing director for South-east Asia and South Korea, said that while The Hari Singapore is located towards the end of Orchard Road and hemmed in by older buildings such as Cuppage Plaza and Orchard Plaza, its proximity to Emerald Hill and place within a precinct that continues to evolve will reinforce its long-term appeal.",
-      "“Today’s luxury travellers are increasingly seeking hotels with a strong sense of individuality, character and place. When it opens in 2027, The Hari Singapore, Vignette Collection will offer a truly differentiated luxury proposition in one of Asia’s most vibrant cities ,” he said.",
-      "Though the Singapore dollar has remained robust against regional currencies, Bhalla said travel is among the most resilient of discretionary spending areas for consumers.",
-      "He noted that the Republic has always been a competitive hotel market in the region, and that the group believes success in luxury hospitality is driven by differentiation.",
-      "“One significant shift we’re seeing is of travellers increasingly seeking authentic, local and purpose-driven experiences. This has led to a rise of lifestyle-led hotels and collection brands.”",
-      "He added that the quick expansion of Vignette Collection reflects this, with hotel conversions accounting for 43 per cent of IHG’s openings and 49 per cent of signings in the first half of 2026.",
-      "“There’s a clear opportunity to go further,” he said. “Singapore is a strategically important market for IHG and we see opportunities to expand our portfolio across all segments here.”",
-      "IHG has Hotel Indigo Changi Airport in the pipeline, a 255-room property scheduled to open in 2028. As part of the upper upscale, lifestyle hotel brand, the hotel will pay homage to Changi Airport."
+      "South Korea denied a local media report that the government is discussing a semiconductor project as the first investment under its US$350 billion (S$447 billion) commitment to the US.",
+      "A report that the two countries are discussing semiconductors as a candidate for the first strategic investment project “is not true”, the presidential Blue House said in a text message on Aug 18 .",
+      "It declined to provide details of talks between Seoul and Washington over the investment pledge.",
+      "The statement followed a report by the JoongAng Ilbo newspaper that the first project, which Seoul had aimed to announce later in August , was facing uncertainty after Washington unexpectedly sought investment in US memory-chip facilities.",
+      "The US request was a key topic at a closed-door trade meeting held at the Blue House on Aug 13, the newspaper reported, citing unidentified ruling-party officials.",
+      "Seoul had initially prioritised the energy sector for its first major US investment, according to the report.",
+      "Officials at the meeting largely viewed investment in the US memory-chip facilities as impractical because Samsung Electronics and SK Hynix have already committed to spend at least US$880 billion to build chips and data centres, mainly in South Korea’s southern Honam region, the newspaper said.",
+      "Industry Minister Kim Jung-kwan arrived in Washington on Aug 16 to resolve last-minute issues over the US investment package.",
+      "Kim said detailed practical issues had emerged, but Seoul and Washington were still aiming to finalise talks and announce investment projects as early as late August. Bloomberg"
     ]
   },
   "cna": {
-    "headline": "More than 180,000 without power in Hawaii, 100 homes damaged as Lala weakens to tropical storm",
-    "teaser": "More than 180,000 without power in Hawaii, 100 homes damaged as Lala weakens to tropical storm",
-    "url": "https://www.channelnewsasia.com/world/hawaii-hurricane-lala-tropical-storm-6322496",
+    "headline": "South Korean actor Kim Woo-bin coming to Singapore on Aug 20",
+    "teaser": "Kim Woo-bin will be in Singapore for the opening of Swiss luxury watchmaker Jaeger-LeCoultre's flagship boutique.",
+    "url": "https://www.channelnewsasia.com/entertainment/kim-woo-bin-singapore-jaeger-lecoultre-ion-orchard-2026-6324936",
     "fullText": [
-      "More than 180,000 utility customers remained without power across Hawaii on Sunday (Aug 16) afternoon after Hurricane Lala brushed the Big Island before being downgraded to a tropical storm.",
-      "Some 183,123 customers across Hawaii were without power as of 3.30pm, according to poweroutage.us",
-      "Outages in Oahu, the most populated island, had dropped from more than 220,000 to about 130,000 as of Sunday morning, state officials said during a press conference.",
-      "State officials received reports of at least 100 homes damaged, Hawaii Governor Josh Green said on Sunday.",
-      "A tropical storm warning remained in effect for Kauai county, although those warnings for Maui and Oahu counties were discontinued earlier on Sunday, according to the hurricane centre.",
-      "The weather agency's projections indicate that if the storm remains on its expected path, it should be clear of Hawaii's islands by 8am on Monday.",
-      "Hawaiian Electric had warned customers on Saturday evening that repair efforts were being hampered as hurricane-force winds toppled trees and rain flooded roadways.",
-      "Lala had battered parts of Hawaii with flash floods \"like we've never seen\", a state official said.",
-      "State officials also urged residents to stay indoors after at least one person was reported dead in a car-related accident.",
-      "\"It's not a day to go to the beach,\" one official said during a press conference on Sunday morning.",
-      "Video released by the Hawaii Department of Transportation showed flood waters overtaking roads. Two homes were swept away, according to the National Weather Service.",
-      "About 117 people were in shelters as of Sunday morning, officials said.",
-      "The Hawaii Department of Transportation said that all airports have been reopened, but state officials advised travellers to check with their airlines for updates."
+      "Popular South Korean actor Kim Woo-bin will be in Singapore this Thursday (Aug 20) to attend the opening of Swiss luxury watchmaker Jaeger-LeCoultre's flagship boutique at Ion Orchard.",
+      "The 37-year-old, who is the brand's global ambassador, last appeared in Singapore in 2017 for the premiere of his film Master.",
+      "According to Kim's agency, AM Entertainment, the event will take place at 3.50pm at Ion Orchard's atrium on the first level.",
+      "View this post on Instagram Kim Woo-bin became a global sensation following his role as the rebellious Choi Young-do in the now-iconic drama The Heirs, which also starred Lee Min-ho and Park Shin-hye.",
+      "He recently starred in the Netflix comedy Genie, Make A Wish, which reunited him with actress-singer Bae Suzy.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
@@ -76,261 +55,262 @@
   "lifeVocab": [
     {
       "en": "commute",
-      "cn": "上下班路程/通勤",
-      "def": "to travel some distance between one's home and place of work on a regular basis",
+      "cn": "通勤",
+      "def": "travel some distance to and from work on a regular basis",
       "ex": "My daily commute from Pasir Ris to Raffles Place takes about 45 minutes.",
       "emoji": "🚇"
     },
     {
-      "en": "gantry",
-      "cn": "地铁闸机",
-      "def": "the electronic fare gates where commuters tap their EZ-Link cards or phones",
-      "ex": "Please have your mobile wallet ready before reaching the MRT gantry to avoid crowding.",
-      "emoji": "🚧"
-    },
-    {
       "en": "concourse",
-      "cn": "地铁站大厅",
-      "def": "the large open area in a station where ticketing machines and passenger service centers are located",
-      "ex": "Let's meet near the passenger service center at the Dhoby Ghaut MRT concourse.",
-      "emoji": "🏢"
+      "cn": "大厅",
+      "def": "a large open area on which people meet or travel, especially in a station",
+      "ex": "Meet me near the passenger service centre at the station concourse.",
+      "emoji": "🚉"
     },
     {
-      "en": "interchange station",
-      "cn": "换乘站",
-      "def": "a transit station where passengers can change transit lines",
-      "ex": "Outram Park is a busy interchange station connecting three different MRT lines.",
-      "emoji": "🔄"
+      "en": "gantry",
+      "cn": "闸机",
+      "def": "an electronic gate where passengers tap their travel cards to enter or exit",
+      "ex": "Make sure your EZ-Link card has enough value before tapping through the gantry.",
+      "emoji": "💳"
     },
     {
-      "en": "disrupt",
-      "cn": "中断/打乱",
-      "def": "to interrupt an event, activity, or process by causing a disturbance or problem",
-      "ex": "Track maintenance works might temporarily disrupt train services on the East-West Line.",
+      "en": "disruption",
+      "cn": "中断 / 故障",
+      "def": "an interruption in the usual progress or sequence of something",
+      "ex": "SMRT quickly deployed free shuttle buses during the train service disruption.",
       "emoji": "⚠️"
+    },
+    {
+      "en": "peak hour",
+      "cn": "高峰时段",
+      "def": "the times at each end of the working day when business travel is at its heaviest",
+      "ex": "The trains are incredibly crowded during peak hours from 8 AM to 9 AM.",
+      "emoji": "⏰"
     },
     {
       "en": "escalator",
       "cn": "自动扶梯",
-      "def": "a moving staircase consisting of an endlessly circulating chain of steps",
-      "ex": "During peak hours, remember to stand on the left of the escalator to let others pass on the right.",
-      "emoji": "📶"
+      "def": "a moving staircase that carries people between levels",
+      "ex": "Please stand on the left side of the escalator to let others pass on the right.",
+      "emoji": "🪜"
     },
     {
-      "en": "peak hours",
-      "cn": "高峰时段",
-      "def": "the times of highest demand for public transport, typically morning and evening commuting times",
-      "ex": "MRT cabins are extremely packed during peak hours from 8 AM to 9 AM.",
-      "emoji": "👥"
-    },
-    {
-      "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "sliding doors that separate the platform from the train tracks for safety",
-      "ex": "Stand behind the yellow line before the platform screen doors open.",
-      "emoji": "🚪"
+      "en": "berth",
+      "cn": "停靠位 / 站台",
+      "def": "a designated space for a vehicle (like a bus) to park or stop",
+      "ex": "Passengers are waiting orderly at bus berth number 3.",
+      "emoji": "🚌"
     },
     {
       "en": "feeder bus",
-      "cn": "接驳/支线巴士",
-      "def": "a local bus service that brings passengers from residential areas to a main MRT station",
-      "ex": "I usually take a feeder bus from my block to the nearest MRT station.",
-      "emoji": "🚌"
+      "cn": "接驳巴士",
+      "def": "a local bus service that brings passengers from residential areas to a main transport hub",
+      "ex": "I usually take a short feeder bus ride from my block to the nearest MRT station.",
+      "emoji": "🚏"
+    },
+    {
+      "en": "interchange",
+      "cn": "中转站",
+      "def": "a station where passengers can transfer between different transit lines",
+      "ex": "Dhoby Ghaut is a major interchange connecting three MRT lines.",
+      "emoji": "🔄"
     },
     {
       "en": "top up",
       "cn": "充值",
-      "def": "to add money to an electronic card or account to increase the balance",
-      "ex": "I need to top up my SimplyGo card because the balance is running low.",
-      "emoji": "💳"
+      "def": "to add money to an electronic card or account",
+      "ex": "I need to top up my SimplyGo card at the ticketing machine.",
+      "emoji": "💵"
     }
   ],
   "levelVocab": [
     {
-      "w": "amiable",
-      "ipa": "/ˈeɪmiəbl/",
-      "pos": "adj.",
-      "cn": "和蔼可亲的",
-      "def": "friendly and pleasant in manner",
-      "ex": "The new HR manager is highly amiable, making employees feel comfortable discussing their concerns."
-    },
-    {
-      "w": "cognizant",
-      "ipa": "/ˈkɒɡnɪzənt/",
-      "pos": "adj.",
-      "cn": "认识到的/知晓的",
-      "def": "having knowledge or being aware of something",
-      "ex": "We must be cognizant of the potential regulatory hurdles before expanding into Europe."
-    },
-    {
-      "w": "deplorable",
-      "ipa": "/dɪˈplɔːrəbl/",
-      "pos": "adj.",
-      "cn": "糟糕的/令人震惊的",
-      "def": "deserving strong condemnation; shockingly bad in quality",
-      "ex": "The working conditions in that offshore facility were deemed deplorable by the audit team."
-    },
-    {
-      "w": "equivocal",
-      "ipa": "/ɪˈkwɪvəkl/",
-      "pos": "adj.",
-      "cn": "模棱两可的",
-      "def": "open to more than one interpretation; uncertain or questionable",
-      "ex": "The customer feedback was equivocal, leaving the product team unsure of the next steps."
-    },
-    {
-      "w": "impetus",
-      "ipa": "/ˈɪmpɪtəs/",
-      "pos": "n.",
-      "cn": "推动力/促进",
-      "def": "the force or energy with which a body moves; a driving force",
-      "ex": "The new government subsidy provided the necessary impetus for companies to adopt green technology."
-    },
-    {
-      "w": "lament",
-      "ipa": "/ləˈment/",
+      "w": "disseminate",
+      "ipa": "/dɪˈsemɪneɪt/",
       "pos": "v.",
-      "cn": "哀叹/感到遗憾",
-      "def": "to express grief, sorrow, or regret about something",
-      "ex": "Many retail owners lament the rising cost of commercial rental in the central business district."
+      "cn": "传播",
+      "def": "to spread information or knowledge widely",
+      "ex": "The department will disseminate the new guidelines by Friday."
+    },
+    {
+      "w": "catalyst",
+      "ipa": "/ˈkætəlɪst/",
+      "pos": "n.",
+      "cn": "催化剂",
+      "def": "a person or thing that precipitates an event or change",
+      "ex": "The technological upgrade served as a catalyst for increased productivity."
+    },
+    {
+      "w": "stringent",
+      "ipa": "/ˈstrɪndʒənt/",
+      "pos": "adj.",
+      "cn": "严格的",
+      "def": "strict, precise, and exacting",
+      "ex": "The monetary authority has imposed stringent regulations on fintech startups."
+    },
+    {
+      "w": "unravel",
+      "ipa": "/ʌnˈrævəl/",
+      "pos": "v.",
+      "cn": "阐明 / 揭开",
+      "def": "to investigate and solve a complex situation, or to begin to fail",
+      "ex": "The investigators are trying to unravel the cause of the system failure."
+    },
+    {
+      "w": "discretionary",
+      "ipa": "/dɪˈskreʃəneri/",
+      "pos": "adj.",
+      "cn": "可自由支配的",
+      "def": "available for use at the discretion of the user rather than pre-determined",
+      "ex": "The board allocated discretionary funds for employee wellness programs."
+    },
+    {
+      "w": "juxtapose",
+      "ipa": "/ˌdʒʌkstəˈpəʊz/",
+      "pos": "v.",
+      "cn": "并列",
+      "def": "to place close together for contrasting effect",
+      "ex": "The exhibition juxtaposes traditional heritage with modern digital art."
     },
     {
       "w": "pervasive",
       "ipa": "/pəˈveɪsɪv/",
       "pos": "adj.",
-      "cn": "无处不在的/充斥各处的",
+      "cn": "普遍深入的",
       "def": "spreading widely throughout an area or a group of people",
-      "ex": "The influence of digital wallets has become pervasive across all demographics in Singapore."
+      "ex": "AI tools have become pervasive in today's corporate environments."
     },
     {
       "w": "reconcile",
       "ipa": "/ˈrekənsaɪl/",
       "pos": "v.",
-      "cn": "调和/使一致",
-      "def": "to find a way in which two differing ideas or facts can both be true or exist together",
-      "ex": "It is difficult to reconcile the company's promise of sustainability with its increased carbon emissions."
+      "cn": "调和 / 使一致",
+      "def": "to find a way of making two different ideas or facts exist or be true at the same time",
+      "ex": "It is difficult to reconcile his words with his actions."
     },
     {
-      "w": "superfluous",
-      "ipa": "/suːˈpɜːfluəs/",
+      "w": "cognitive",
+      "ipa": "/ˈhɒɡnətɪv/",
       "pos": "adj.",
-      "cn": "多余的/累赘的",
-      "def": "unnecessary, especially through being more than enough",
-      "ex": "Including basic definitions in a technical report for senior management is superfluous."
+      "cn": "认知的",
+      "def": "relating to the mental processes of perception, memory, judgment, and reasoning",
+      "ex": "Designing intuitive software requires understanding user cognitive load."
     },
     {
-      "w": "vindicate",
-      "ipa": "/ˈvɪndɪkeɪt/",
-      "pos": "v.",
-      "cn": "证明...正确/澄清",
-      "def": "to clear someone of blame or suspicion; to show to be right or justified",
-      "ex": "The excellent quarterly sales figures vindicate the CEO's controversial decision to restructure the division."
+      "w": "salient",
+      "ipa": "/ˈseɪliənt/",
+      "pos": "adj.",
+      "cn": "显著的 / 最突出的",
+      "def": "most noticeable or important",
+      "ex": "The report highlights the salient features of the proposed budget."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Push for National EV Charger Network",
-    "transcript": "As Singapore charges ahead with its green plan, the Land Transport Authority has <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈseləreɪtɪd/ (adj.) faster than usual; speeded up — 加速的\">accelerated</span> the installation of electric vehicle charging points in public housing estates. Commuters in HDB towns like Yishun and Jurong will soon find charging slots within a short walk from their homes. This rapid deployment aims to address <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/reɪndʒ æŋˈzaɪəti/ (n. phrase) a driver's fear that their electric vehicle's battery will run out of power before they reach their destination — 里程焦虑\">range anxiety</span> among potential EV buyers. Authorities believe that making charging accessible will <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/nʌdʒ/ (v.) to gently encourage someone to do something — 劝诱/轻推\">nudge</span> more drivers to ditch internal combustion engine cars."
+    "title": "Singapore's Creative Turn to Solar Energy",
+    "transcript": "Singapore is accelerating its efforts to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/'hɑːnɪs/ (v.) to control and make use of a natural resource — 利用，控制\">harness</span> solar energy by installing photovoltaic panels on HDB rooftops across the island. Despite land <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kən'streɪnts/ (n.) limitations or restrictions — 限制，约束\">constraints</span>, the city-state aims to meet at least ten percent of its peak power needs from solar sources by 2030. Industry experts note that while Singapore lacks large open spaces, floating solar farms on reservoirs represent a creative <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/'pɪvət/ (n.) a crucial change in direction or strategy — 改变方向，枢纽\">pivot</span> in the nation's energy strategy."
   },
   "economistArticle": {
-    "title": "The Grand Unwinding: Japan's Yen Rescue and the Carry Trade",
+    "title": "The world’s most influential economist is oddly unconvincing",
     "paras": [
-      "<span class=\"gem\">For decades, the global financial system operated on a remarkably reliable dynamic: borrow cheaply in Japan, where interest rates remained stubbornly below zero, and invest the proceeds in higher-yielding assets elsewhere.</span> This practice, known as the yen <span class=\"voc\">carry trade</span>, pumped hundreds of billions of dollars into global markets, inflating asset prices from American tech stocks to emerging-market bonds. But when the Bank of Japan decided to step in and aggressively buy its own currency, it signaled the beginning of a perilous unwinding process.",
-      "The mechanics of the carry trade rely heavily on a weak yen and a predictable interest-rate <span class=\"voc\">differential</span>. Investors sell the borrowed yen for foreign currencies to make their investments, putting downward pressure on the Japanese currency. However, when the Bank of Japan intervenes to <span class=\"voc\">prop up</span> the yen, the math suddenly changes. <span class=\"gem\">A rapidly appreciating yen forces traders to buy back the currency to close out their positions, triggering a <span class=\"voc\">stampede</span> that can destabilize global financial markets.</span>",
-      "This intervention is not merely a technical adjustment; it represents a fundamental shift in Japan's macroeconomic strategy. Confronted with rising import costs and persistent domestic inflation, Tokyo has found that tolerating a weak yen is no longer politically or economically <span class=\"voc\">tenable</span>. By buying yen and raising interest rates, policymakers are attempting to restore purchasing power to Japanese consumers, though the domestic benefits may come at the expense of international financial stability.",
-      "As the world's largest creditor nation, Japan's actions <span class=\"voc\">reverberate</span> across borders. Institutional investors and hedge funds, accustomed to cheap <span class=\"voc\">leverage</span>, are now scrambling to adjust their portfolios. The sudden withdrawal of yen liquidity threatens to expose <span class=\"voc\">vulnerabilities</span> in highly leveraged sectors worldwide, serving as a stark reminder of how interconnected and fragile the global financial <span class=\"voc\">architecture</span> remains."
+      "Daron Acemoglu is revered. Having recently secured a Nobel prize, his stature as the world's most influential economist is virtually uncontested. His intellectual corpus, which argues that inclusive institutions drive prosperity while <span class=\"voc\">extractive</span> ones breed ruin, has shaped global development policy for decades. Yet, beneath the glittering <span class=\"voc\">accolades</span>, a quiet unease lingers among some of his peers. His grand theories, while seductive, can sometimes feel like a beautifully constructed cage that simplifies the chaotic reality of human history.",
+      "<span class=\"gem\">The core of Acemoglu’s thesis lies in historical <span class=\"voc\">determinism</span>, suggesting that early institutional choices lock countries onto rigid pathways.</span> In books like \"Why Nations Fail\", he and his co-author James Robinson divide the world into neat, digestible <span class=\"voc\">binaries</span>. Critics argue that this framework glosses over the messy <span class=\"voc\">anomalies</span> that do not fit the paradigm. For instance, the spectacular rise of East Asian economies, including Singapore and China, challenges the simple narrative of democratic inclusivity preceding economic growth.",
+      "Indeed, the East Asian miracle suggests that highly centralized, <span class=\"voc\">meritocratic</span> bureaucracies can foster immense prosperity without adhering to Western-style democratic norms initially. Acemoglu’s response has often been to categorize these successes as \"extractive growth\" that is inherently unsustainable. <span class=\"gem\">This explanation, however, feels increasingly <span class=\"voc\">dogmatic</span>, a convenient way to dismiss empirical evidence that threatens to puncture an elegant intellectual balloon.</span>",
+      "Furthermore, his recent focus on technology and artificial intelligence in \"Power and Progress\" has polarized opinions. He warns that without heavy state intervention, AI will merely enrich tech barons and hollow out the middle class. While his concern for inequality is <span class=\"voc\">laudable</span>, his proposed remedies risk stifling the very dynamism that drives technological breakthroughs. To his detractors, he has transitioned from an objective economic historian into an overly <span class=\"voc\">prescriptive</span> regulator.",
+      "Ultimately, Acemoglu’s influence remains undiminished because he asks the right questions, even if his answers are occasionally unconvincing. He rescued economics from the sterile math of the late twentieth century, returning it to the grand, messy canvas of human history and politics. Whether his grand theory holds up to the complex geopolitics of the twenty-first century remains to be seen, but the debate he has ignited is more vital than ever."
     ],
-    "cn": "几十年来，全球金融体系一直运行在一个非常可靠的动态机制上：在利率一直顽固维持在零度以下的日本低成本借款，然后将所得资金投资于其他地区收益率更高的资产。这种被称为“日元套利交易”的做法向全球市场注入了数千亿美元，推高了从美国科技股到新兴市场债券的资产价格。但是，当日本银行决定介入并积极购买本国货币时，它标志着一个危险的解套过程的开始。\n套利交易的机制严重依赖于疲软的日元和可预测的利差。投资者卖出借入的日元换取外币进行投资，从而对日本货币施加了贬值压力。然而，当日本银行干预以提振日元时，计算公式突然发生了变化。日元迅速升值迫使交易员回购日元以平仓，从而引发了一场可能破坏全球金融市场稳定的踩踏式平仓潮。\n这种干预不仅仅是一次技术性调整；它代表了日本宏观经济战略的根本转变。面对不断攀升的进口成本和持续的国内通胀，东京方面发现，容忍弱势日元在政治上或经济上已不再可行。通过购买日元和提高利率，政策制定者正试图恢复日本消费者的购买力，尽管国内的益处可能会以牺牲国际金融稳定为代价。\n作为全球最大的债权国，日本的举动在跨境产生回响。习惯了廉价杠杆的机构投资者和对冲基金现在正争先恐后地调整其投资组合。日元流动性的突然抽离可能会暴露全球高杠杆行业的脆弱性，这无异于一次严厉的警示，提醒人们全球金融架构是多么相互关联和脆弱。",
+    "cn": "达龙·阿西莫格鲁深受推崇。在最近获得诺贝尔奖之后，他作为世界上最具影响力的经济学家的地位几乎无可争议。他的学术体系主张包容性制度促进繁荣，而榨取性制度则滋生毁灭，几十年来这一体系一直塑造着全球发展政策。然而，在耀眼的荣誉背后，同行之中却潜藏着一种悄然的不安。他的宏大理论虽然诱人，但有时感觉就像一个建造精美的牢笼，简化了人类历史混乱的现实。\n\n阿西莫格鲁论点的核心在于历史决定论，这表明早期的制度选择会将国家锁在僵化的路径上。在《国家为什么会失败》等著作中，他与合著者詹姆斯·罗宾逊将世界划分为清晰易懂的二元对立。批评者认为，这一框架掩盖了不符合该模式的混乱异常情况。例如，包括新加坡和中国在内的东亚经济体的惊人崛起，就挑战了民主包容性先于经济增长的简单叙事。\n\n事实上，东亚奇迹表明，高度集权、精英治理的官僚机构最初可以在不遵循西方民主规范的情况下促进巨大的繁荣。阿西莫格鲁的反应往往是将这些成功归类为本质上不可持续的“榨取性增长”。然而，这种解释显得越来越教条，成为一种方便地驳斥可能戳破其优雅思想气球的实证证据的手段。\n\n此外，他最近在《权力与进步》中对技术和人工智能的关注两极分化。他警告说，如果没有强有力的国家干预，人工智能只会让科技大亨中饱私囊，并掏空中产阶级。虽然他对不平等的担忧值得赞扬，但他提出的补救措施有窒息推动技术突破的活力的风险。在反对者看来，他已经从一个客观的经济历史学家转变为一个过度指手画脚的监管者。\n\n归根结底，阿西莫格鲁的影响力依然不减，因为他提出了正确的问题，即使他的答案偶尔不令人信服。他将经济学从二十世纪末枯燥的数学中拯救出来，使其重新回到人类历史和政治的宏大而混乱的画布上。他的宏大理论能否经受住二十一世纪复杂地缘政治的考验仍有待观察，但他引发的辩论比以往任何时候都更加至关重要。",
     "vocab": [
       {
-        "w": "unwind",
-        "ipa": "/ʌnˈwaɪnd/",
-        "pos": "v.",
-        "mean": "解套/平仓",
-        "def": "to undo or resolve a complex situation or financial position; to reverse",
-        "ex": "The hedge fund had to unwind its complex derivative positions to cover its losses."
-      },
-      {
-        "w": "carry trade",
-        "ipa": "/ˈkæri treɪd/",
+        "w": "laureate",
+        "ipa": "/ˈlɒriət/",
         "pos": "n.",
-        "mean": "套利交易",
-        "def": "a strategy where an investor borrows money at a low interest rate in order to invest in an asset that is likely to provide a higher return",
-        "ex": "The yen carry trade has been a cornerstone of global macro investing for years."
+        "mean": "诺贝尔奖得主",
+        "def": "a person who is honored with an award for outstanding creative or intellectual achievement",
+        "ex": "The university welcomed the newly minted Nobel laureate."
       },
       {
-        "w": "differential",
-        "ipa": "/ˌdɪfəˈrenʃl/",
-        "pos": "n.",
-        "mean": "差距/差额",
-        "def": "a difference between amounts, values, or rates",
-        "ex": "The widening interest rate differential between the US and Japan weakened the yen."
-      },
-      {
-        "w": "prop up",
-        "ipa": "/prɒp ʌp/",
-        "pos": "phrasal v.",
-        "mean": "支撑/扶持",
-        "def": "to support or prevent from falling, often artificially",
-        "ex": "The government introduced tax credits to prop up the struggling housing market."
-      },
-      {
-        "w": "stampede",
-        "ipa": "/stæmˈpiːd/",
-        "pos": "n.",
-        "mean": "（投资者的）蜂拥行为/踩踏",
-        "def": "a sudden rapid rush or movement of a crowd of people or investors",
-        "ex": "The sudden interest rate hike caused a stampede of capital out of emerging markets."
-      },
-      {
-        "w": "tenable",
-        "ipa": "/ˈtenəbl/",
+        "w": "extractive",
+        "ipa": "/ɪkˈstræktɪv/",
         "pos": "adj.",
-        "mean": "站得住脚的/可维持的",
-        "def": "able to be maintained or defended against attack or objection",
-        "ex": "With costs rising so rapidly, their low-pricing business model is no longer tenable."
+        "mean": "榨取性的",
+        "def": "characterized by or involving the extraction of wealth or resources from a country or society",
+        "ex": "Extractive institutions siphon wealth from the public to enrich a small elite."
       },
       {
-        "w": "reverberate",
-        "ipa": "/rɪˈvɜːbəreɪt/",
-        "pos": "v.",
-        "mean": "产生震荡/回响",
-        "def": "to have a prolonged or continuing effect; to echo",
-        "ex": "The collapse of the major investment bank will reverberate through global markets for years."
-      },
-      {
-        "w": "leverage",
-        "ipa": "/ˈliːvərɪdʒ/",
+        "w": "accolades",
+        "ipa": "/ˈækəleɪdz/",
         "pos": "n.",
-        "mean": "杠杆/举债",
-        "def": "the use of borrowed money to buy an investment, hoping that the future profits will be much larger than the interest",
-        "ex": "Using too much leverage can amplify your losses if the market moves against you."
+        "mean": "荣誉 / 赞美",
+        "def": "awards or privileges granted as a special honor or as an acknowledgment of merit",
+        "ex": "She received numerous accolades for her groundbreaking research."
       },
       {
-        "w": "vulnerabilities",
-        "ipa": "/ˌvʌlnərəˈbɪlətiz/",
-        "pos": "n. pl.",
-        "mean": "脆弱性/弱点",
-        "def": "weaknesses or areas that are easily harmed or attacked",
-        "ex": "The pandemic exposed severe vulnerabilities in global supply chains."
-      },
-      {
-        "w": "architecture",
-        "ipa": "/ˈɑːkɪtektʃə(r)/",
+        "w": "determinism",
+        "ipa": "/dɪˈtɜːmɪnɪzəm/",
         "pos": "n.",
-        "mean": "架构/结构",
-        "def": "the complex structure of something, especially a system or organization",
-        "ex": "Regulators are seeking to reform the international financial architecture to prevent future crises."
+        "mean": "决定论",
+        "def": "the doctrine that all events, including human actions, are ultimately determined by causes external to the will",
+        "ex": "Historical determinism fails to account for accidental events that change the course of nations."
+      },
+      {
+        "w": "binaries",
+        "ipa": "/ˈbaɪnəriz/",
+        "pos": "n.",
+        "mean": "二元对立",
+        "def": "systems or views involving two distinct and opposite parts",
+        "ex": "The complex situation cannot be reduced to simple binaries of good and evil."
+      },
+      {
+        "w": "anomalies",
+        "ipa": "/əˈnɒməliz/",
+        "pos": "n.",
+        "mean": "异常现象",
+        "def": "things that deviate from what is common, present, or expected",
+        "ex": "The researchers identified several anomalies in the statistical data."
+      },
+      {
+        "w": "meritocratic",
+        "ipa": "/ˌmerɪtəˈkrætɪk/",
+        "pos": "adj.",
+        "mean": "精英治理的 / 凭才干晋升的",
+        "def": "relating to a system in which progress is based on ability and talent rather than wealth or class",
+        "ex": "Singapore prides itself on its meritocratic civil service."
+      },
+      {
+        "w": "dogmatic",
+        "ipa": "/dɒɡˈmætɪk/",
+        "pos": "adj.",
+        "mean": "武断的 / 教条的",
+        "def": "inclined to lay down principles as incontrovertibly true, without consideration of evidence",
+        "ex": "His dogmatic insistence on old rules hindered the company's innovation."
+      },
+      {
+        "w": "laudable",
+        "ipa": "/ˈlɔːdəbəl/",
+        "pos": "adj.",
+        "mean": "值得赞美的",
+        "def": "deserving praise and commendation",
+        "ex": "Her commitment to environmental preservation is highly laudable."
+      },
+      {
+        "w": "prescriptive",
+        "ipa": "/prɪˈskrɪptɪv/",
+        "pos": "adj.",
+        "mean": "规范性的 / 指令性的",
+        "def": "relating to the imposition or enforcement of a rule or method",
+        "ex": "The consultant took a prescriptive approach, telling us exactly what steps to follow."
       }
     ],
     "gems": [
       {
-        "s": "For decades, the global financial system operated on a remarkably reliable dynamic: borrow cheaply in Japan, where interest rates remained stubbornly below zero, and invest the proceeds in higher-yielding assets elsewhere.",
-        "why": "This sentence utilizes a colon to elegantly introduce a detailed explanation of a complex dynamic, breaking down a sophisticated financial concept into a clear, parallel structure. 这句话利用冒号优雅地引入了对复杂动态的详细解释，将复杂的金融概念拆解为清晰且对称的句式结构。"
+        "s": "The core of Acemoglu’s thesis lies in historical determinism, suggesting that early institutional choices lock countries onto rigid pathways.",
+        "why": "Demonstrates the use of a participle clause (\"suggesting that...\") to elaborate on the subject (\"the core of Acemoglu’s thesis\") elegantly and concisely. 演示了如何使用分词短语（\"suggesting that...\"）来优雅且紧凑地阐述主语。"
       },
       {
-        "s": "A rapidly appreciating yen forces traders to buy back the currency to close out their positions, triggering a stampede that can destabilize global financial markets.",
-        "why": "This sentence uses a present participle clause ('triggering a...') to seamlessly connect a cause with its dramatic, long-term consequence, enhancing flow and impact. 这句话使用现在分词短语（'triggering a...'）将起因与戏剧性的长期后果无缝连接，增强了行文的流畅度与表现力。"
+        "s": "This explanation, however, feels increasingly dogmatic, a convenient way to dismiss empirical evidence that threatens to puncture an elegant intellectual balloon.",
+        "why": "Uses an appositive noun phrase (\"a convenient way to...\") to redefine the preceding adjective (\"dogmatic\"), creating a vivid, metaphorical conclusion. 使用同位语名词短语（\"a convenient way to...\"）来重新定义前文的形容词，创造了生动且富有比喻色彩的结语。"
       }
     ]
   }
