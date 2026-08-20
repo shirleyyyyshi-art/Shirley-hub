@@ -1,55 +1,69 @@
 {
-  "date": "2026-08-19",
-  "generatedAt": "2026-08-19T03:27:02.184537+00:00",
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-20T03:26:43.886576+00:00",
   "economist": {
-    "headline": "Stock indices no longer reflect equity reality",
-    "teaser": "Lies, damned lies and stock markets",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
+    "headline": "Why bond markets are unnerving rich-world politicians",
+    "teaser": "As stocks rise ever higher, yields have been climbing ominously",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
     "vocab": [
       {
-        "word": "indices",
-        "phonetic": "/ˈɪndɪsiːz/",
-        "def": "An alphabetical listing of items and their location."
+        "word": "unnerving",
+        "phonetic": "",
+        "def": "To deprive of nerve, force, or strength; to weaken; to enfeeble."
       },
       {
-        "word": "reality",
-        "phonetic": "/ɹiˈæləti/",
-        "def": "The state of being actual or real."
+        "word": "ominously",
+        "phonetic": "",
+        "def": "In an ominous manner; with sinister foreboding."
       }
     ]
   },
   "st": {
-    "headline": "Unitree soars in Shanghai debut, a milestone for China’s humanoid robotics sector",
-    "teaser": "The stock was changing hands at 900 yuan on the tech-focused STAR Market in early trade, compared with its IPO price of 150.8 yuan.",
-    "url": "https://www.straitstimes.com/business/unitree-soars-in-shanghai-debut-a-milestone-for-chinas-humanoid-robotics-sector",
+    "headline": "Japan’s exports grow at fastest pace since 2022 on chips",
+    "teaser": "The value of exports rose 23.2 per cent in July from a year earlier.",
+    "url": "https://www.straitstimes.com/business/japans-exports-grow-at-fastest-pace-since-2022-on-chips",
     "fullText": [
-      "SHANGHAI/BEIJING - Shares in Unitree, China’s best-known humanoid robot maker, soared nearly sixfold in its Shanghai trading debut, in a landmark moment for the country’s robotics sector, which has become a key battleground in the Sino-US tech war.",
-      "While Unitree, which competes with Hyundai Motor Group-owned Boston Dynamics and Tesla, is not the first Chinese humanoid robot maker to list, its listing is expected to set the tone for a slew of other rivals preparing to come to market.",
-      "The stock was changing hands at 900 yuan on the tech-focused STAR Market in early trade, compared with its IPO price of 150.8 yuan. It pared some gains after having opened at the day’s high of 1,100 yuan.",
-      "The world’s biggest humanoid-robot maker by sales, which raised roughly US$900 million (S$1.1 billion) in its initial public offering last week, has drawn global attention for its robots that run, dance and perform martial arts.",
-      "It is also, unlike most of its peers, profitable even if few of its robots are used in commercial applications.",
-      "Investors are also drawn to Unitree’s perceived state support as China seeks to gain the upper hand in tech over the United States and pushes development of the sector.",
-      "Its founder Wang Xingxing had a coveted front-row seat at a summit with tech business leaders hosted by Chinese President Xi Jinping early last year, and the start-up also has backing from some of China’s most influential tech firms including Tencent, Alibaba and DeepSeek.",
-      "“It is a top-tier player, and its uniqueness commands premiums,” said Yan Kai, a venture capitalist and partner at Ivy Capital in Shanghai.",
-      "“Its price is dictated by political and economic considerations, rather than valuation models.”",
-      "The debut coincides with the opening of the World Robot Conference in Beijing, where hundreds of mostly Chinese companies will be launching new products and demonstrating advancements that the government is betting will make up for the labour shortfall caused by China’s demographic crisis.",
-      "Some 10 per cent of the Unitree shares were sold in the IPO, and Wang continues to own around a fifth of the company.",
-      "The debut has catapulted his personal wealth to more than US$12 billion on paper. Reuters"
+      "Japan’s export growth accelerated to the fastest pace since 2022, fuelled by robust demand for chips and cars and a yen that weakened to a 40-year low.",
+      "The value of exports rose 23.2 per cent in July from a year earlier, accelerating from a 19.3 per cent gain in June, the Finance Ministry reported on Aug 20. The result compared with economists’ median forecast of a 20.1 per cent increase. It was the fastest advance since October 2022.",
+      "Imports rose 27.8 per cent, faster than the previous month’s 25.4 per cent gain and economists’ estimate of a 25.1 per cent increase. The trade deficit widened to ¥634.5 billion (S$5.09 billion) on an unadjusted basis from a revised ¥409.9 billion deficit in June, marking a third straight month in the red.",
+      "The data show that Japan’s manufacturers have largely managed to navigate the fallout from the Middle East conflict so far, an encouraging sign for Japan’s economy after growth fell short of expectations in the three months through June due to lacklustre domestic demand.",
+      "“Exports of semiconductor manufacturing equipment and semiconductor components are increasing due to the recent AI boom,” said Yuki Ito, economist at Nomura Securities Co.",
+      "Exports of chemical products also rose, he said, adding, “I suspect this is partly because supply constraints on naphtha have eased to some extent, allowing exports–which had been declining–to finally rebound.”",
+      "The weak yen boosted the value of shipments and has been a factor supporting businesses by making their products more competitive in overseas markets. The currency touched its weakest level against the dollar in 40 years in July. The yen averaged 161.83 versus the dollar, 11.2 per cent weaker than a year earlier, the ministry said.",
+      "Robust global demand for chips used in artificial intelligence was among the key drivers of the latest advance. Outbound shipments of electronic components including semiconductors increased about 49 per cent. Other gainers included shipments of passenger cars, which rose 21 per cent.",
+      "By destination, shipments to the US increased 22 per cent, while those to China and Europe climbed 25.8 per cent and 19.1 per cent, respectively.",
+      "Meanwhile, the war in Iran continued to alter Japan’s energy procurement patterns after the conflict led to the virtual closure of the Strait of Hormuz.",
+      "The trade report showed the total value of oil imports jumped nearly 88 per cent, with the volume increasing 5.5 per cent. The proportion of imports from the US rose to 36 per cent of the total by volume, from 7 per cent in February, while the proportion coming from the Mideast fell to 59 per cent.",
+      "Uncertainty surrounding the conflict persisted after a 60-day negotiation window established under a US-Iran memorandum of understanding expired on Aug 17 without a permanent peace deal. The interim agreement was aimed at resolving disputes over the Strait of Hormuz, Iran’s nuclear program and economic sanctions, but failed to produce a lasting settlement.",
+      "“Looking at the shipping data, it seems Japan has continued to make progress in securing alternative supplies from the US,” Ito said. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Iman Fandi performs at Snoop Dogg’s Los Angeles music event, debuts upcoming single",
-    "teaser": "The 26-year-old Singaporean singer performed at an invitation-only live music event in Los Angeles, California, where she debuted her upcoming single It Is.",
-    "url": "https://www.channelnewsasia.com/entertainment/iman-fandi-snoop-dogg-los-angeles-event-6327301",
+    "headline": "Asian stocks rally as US Treasury steps in to ease bond fears",
+    "teaser": "Asian stocks rally as US Treasury steps in to ease bond fears",
+    "url": "https://www.channelnewsasia.com/business/asian-stocks-rally-us-treasury-steps-in-ease-bond-fears-6329931",
     "fullText": [
-      "Singaporean singer Iman Fandi performed at a live music event in Los Angeles, California, headlined by American rapper Snoop Dogg on Aug 15, where she made the international debut of her upcoming single, It Is.",
-      "The performance came days after the 26-year-old performed her NDP 2026 song Giants, written by Weish, at the National Day Parade on Aug 9. On Tuesday (Aug 18), Iman shared photos and videos from the event on Instagram, calling the experience “a milestone I’ll never forget”.",
-      "“Still can’t believe I got to share the stage with Snoop Dogg and so many incredible, talented and kind artists,” she wrote. “I’m beyond grateful to have been part of such a special evening here in Los Angeles.”",
-      "Iman also responded to a commenter who asked what it was like meeting Snoop Dogg, describing him as “super nice” and “super tall”.",
-      "View this post on Instagram The event, Superstar Among Friends: Broadus Together, was held at The Compound, Snoop Dogg’s private studio and office space in Los Angeles, and presented through TikTok Live Premiere and Death Row Records.",
-      "Other performers included Snoop Dogg’s son Corde Broadus, also known as Kalvin Love, and daughter Cori Broadus, as well as Filipino-Australian singer-songwriter Ylona Garcia, American R&B singer-songwriter Jane Handcock, soul singer Charlie Bereal and actor-singer O’Neal McKnight.",
-      "According to posts by performers including Iman, the invitation-only event drew more than 1 million viewers through its livestream.",
-      "Iman's upcoming single, It Is, is scheduled for release on Aug 21."
+      "HONG KONG: Asian markets rallied on Thursday (Aug 20) after the US Treasury said it would \"at least double\" the amount of long-term bonds to push down borrowing costs, after they surged this week to near two-decade highs.",
+      "The surprise move provided a much-needed shot in the arm for investors worried about a spike in 10- and 30-year yields caused by the prospect of inflation staying elevated, government borrowing and possible Federal Reserve interest rate hikes.",
+      "Soon after the announcement, US equities reversed losses to end higher while the dollar tumbled against its peers as traders breathed a sigh of relief following a fresh bout of selling.",
+      "Fears had been surging after the yield on a 30-year US Treasury on Tuesday hit its highest level since June 2007, before the global financial crisis.",
+      "\"I see it as a very strong sign that the Treasury has decided higher US yields are unacceptable, and that the recent blowout in the long end is undesirable.",
+      "\"Clearly, Donald (Trump) is not happy yields have blown out.\"",
+      "The positive mood boosted Asia, where tech firms - which rely on debt to pay for their huge AI investments - were pummelled Wednesday.",
+      "Seoul led the charge higher, having been the focus of selling pressure the day before.",
+      "The Kospi jumped more than six per cent at one point as chipmaker SK hynix rocketed more than 12 per cent, helped by Wednesday's announcement by the firm of a US$29 billion share buyback aimed at soothing recent worries. Samsung climbed almost nine per cent.",
+      "Tech firms also helped Tokyo higher, while Hong Kong, Shanghai, Sydney, Wellington and Manila were also well up.",
+      "The dollar stabilised after sinking against its peers, while gold jumped back above US$4,500 for the first time since early June.",
+      "\"The key question now is whether the fall in yields can last. If oil prices remain elevated and concerns over US borrowing continue, pressure on the long end of the Treasury curve could return,\" said City Index's Fiona Cincotta.",
+      "Crude prices have been rising for the past two weeks as hopes for a US-Iran deal to reopen the Strait of Hormuz fade - the deadline for an agreement came up this week.",
+      "Washington's naval blockade on Iran's ports and Tehran's attacks on commercial ships continue, and Iran's armed forces warned Gulf countries against assisting the US military on Wednesday.",
+      "While both sides recently said messages were being exchanged, Trump on Tuesday insisted talks were off, taunting Iran with a social media post depicting the strait as a \"NEW US Territory\" .",
+      "Meanwhile, minutes from the Fed's July meeting showed many policymakers believe interest rate hikes will be necessary if inflation does not decline.",
+      "Three of the 12 voting members of the Federal Open Market Committee dissented from the majority decision to hold rates steady, instead calling for an increase.",
+      "They noted economic activity had continued to expand at a \"solid pace\", but business investment was concentrated in the AI industry.",
+      "Eyes are now on next week's annual meeting of central bankers, economists and finance chiefs at Jackson Hole, Wyoming, where investors will be hoping for some idea about Fed boss Kevin Warsh's thinking on rates.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
@@ -59,259 +73,263 @@
   },
   "lifeVocab": [
     {
-      "en": "stallholder",
-      "cn": "摊主",
-      "def": "A person who rents or runs a stall in a market",
-      "ex": "The friendly stallholder at the wet market always gives me extra spring onions.",
-      "emoji": "🧑‍🌾"
+      "en": "tap in/out",
+      "cn": "刷卡进出",
+      "def": "to scan a contactless transit card or mobile wallet to enter or exit a train station or bus",
+      "ex": "Please remember to tap out when you leave the MRT station, or you will be charged the maximum distance fare.",
+      "emoji": "💳"
     },
     {
-      "en": "produce",
-      "cn": "农产品",
-      "def": "Fresh agricultural products, especially fruits and vegetables",
-      "ex": "The wet market is famous for its fresh, locally sourced produce.",
-      "emoji": "🥬"
+      "en": "commuter",
+      "cn": "通勤者",
+      "def": "a person who travels some distance to work or school on a regular basis",
+      "ex": "During peak hours, thousands of commuters squeeze onto the trains along the East-West Line.",
+      "emoji": "🚶‍♂️"
     },
     {
-      "en": "barter",
-      "cn": "讨价还价",
-      "def": "To argue about the price of something in an attempt to make it cheaper",
-      "ex": "While supermarket prices are fixed, you can sometimes barter with sellers at wet markets.",
-      "emoji": "🤝"
+      "en": "feeder bus",
+      "cn": "接驳巴士",
+      "def": "a local bus service that brings passengers from residential areas to a major transport hub like an MRT station",
+      "ex": "I usually take a feeder bus from the bus stop near my HDB flat to the interchange.",
+      "emoji": "🚌"
     },
     {
-      "en": "poultry",
-      "cn": "家禽",
-      "def": "Domestic fowls, such as chickens, ducks, and geese",
-      "ex": "I bought some fresh poultry from the butcher for tonight's chicken rice.",
-      "emoji": "🍗"
+      "en": "interchange",
+      "cn": "转换站",
+      "def": "a transit station where passengers can change between different train lines or transport modes",
+      "ex": "Dhoby Ghaut is a busy interchange where three different MRT lines meet.",
+      "emoji": "🔄"
     },
     {
-      "en": "perishable",
-      "cn": "易腐烂的",
-      "def": "Food that decays or goes bad quickly",
-      "ex": "Keep perishable items like fresh fish in the fridge immediately after buying them.",
-      "emoji": "🐟"
+      "en": "concourse",
+      "cn": "大厅",
+      "def": "the large open area inside a station, typically where ticketing, fare gates, and shops are located",
+      "ex": "Let's meet near the passenger service centre at the station concourse.",
+      "emoji": "🏢"
     },
     {
-      "en": "scale",
-      "cn": "秤",
-      "def": "An instrument for weighing ingredients or goods",
-      "ex": "The vegetable seller placed the bitter gourd on the digital scale.",
-      "emoji": "⚖️"
+      "en": "peak hour",
+      "cn": "繁忙时间",
+      "def": "the busy time of day when many people are travelling to or from work",
+      "ex": "To avoid the peak hour crowd, Alice leaves her house thirty minutes earlier than usual.",
+      "emoji": "⏰"
     },
     {
-      "en": "bulk",
-      "cn": "大宗/大量",
-      "def": "Large quantities of something",
-      "ex": "Buying onions in bulk at the market is much cheaper than buying them individually.",
-      "emoji": "📦"
+      "en": "track intrusion",
+      "cn": "轨道入侵",
+      "def": "the unauthorized presence of a person or object on the train tracks",
+      "ex": "Platform screen doors were installed at all above-ground MRT stations to prevent track intrusion.",
+      "emoji": "⚠️"
     },
     {
-      "en": "gut",
-      "cn": "取出内脏",
-      "def": "To remove the internal organs of a fish before cooking",
-      "ex": "The fishmonger will scale and gut the red snapper for you.",
-      "emoji": "🔪"
+      "en": "transit card",
+      "cn": "交通卡",
+      "def": "a contactless smart card used to pay public transport fares",
+      "ex": "You can top up your EZ-Link transit card at any ticketing machine or via your phone app.",
+      "emoji": "💳"
     },
     {
-      "en": "moist",
-      "cn": "潮湿的",
-      "def": "Slightly wet or damp",
-      "ex": "The floor of a wet market is often moist, so you should wear non-slip shoes.",
-      "emoji": "💦"
+      "en": "disruption",
+      "cn": "中断",
+      "def": "an interruption in the normal operation or flow of a service",
+      "ex": "SMRT issued a formal apology after a power fault caused a major train disruption this morning.",
+      "emoji": "🛑"
     },
     {
-      "en": "staple",
-      "cn": "主食/日常必需品",
-      "def": "A basic or principal item of food in everyday use",
-      "ex": "Rice and leafy greens are staples in most Singaporean households.",
-      "emoji": "🍚"
+      "en": "platform",
+      "cn": "站台",
+      "def": "the raised area beside the tracks where passengers wait to board trains",
+      "ex": "Please stand behind the yellow safety line while waiting on the platform.",
+      "emoji": "🚉"
     }
   ],
   "levelVocab": [
     {
-      "w": "contingent",
-      "ipa": "/kənˈtɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "视情况而定的",
-      "def": "dependent on or conditioned by something else",
-      "ex": "Our expansion plans in ASEAN are contingent on securing regulatory approval."
-    },
-    {
-      "w": "pervasive",
-      "ipa": "/pəˈveɪ.sɪv/",
-      "pos": "adj.",
-      "cn": "遍布的/充斥各处的",
-      "def": "spreading widely throughout an area or a group of people",
-      "ex": "Digital banking has become pervasive in Singapore, rendering physical branches less necessary."
-    },
-    {
-      "w": "advocate",
-      "ipa": "/ˈæd.və.keɪt/",
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
       "pos": "v.",
-      "cn": "倡导/支持",
-      "def": "to publicly recommend or support a particular cause or policy",
-      "ex": "The HR manager advocates for a hybrid working model to boost employee morale."
+      "cn": "传播",
+      "def": "to spread information, knowledge, or ideas to a large number of people",
+      "ex": "The HR department will disseminate the new hybrid-working guidelines to all staff tomorrow."
     },
     {
-      "w": "volatile",
-      "ipa": "/ˈvɒl.ə.taɪl/",
+      "w": "inadvertently",
+      "ipa": "/ˌɪn.ədˈvɜː.tənt.li/",
+      "pos": "adv.",
+      "cn": "无意地",
+      "def": "accidentally; without intention",
+      "ex": "The secretary inadvertently leaked the confidential board packet to the public distribution list."
+    },
+    {
+      "w": "pertinent",
+      "ipa": "/ˈpɜː.tɪ.nənt/",
       "pos": "adj.",
-      "cn": "易变的/不稳定的",
-      "def": "liable to change rapidly and unpredictably, especially for the worse",
-      "ex": "The stock market has been highly volatile due to fluctuating interest rates."
+      "cn": "相关的",
+      "def": "directly relating to the subject or matter being considered",
+      "ex": "During the audit, please ensure you provide all pertinent financial records from the last quarter."
+    },
+    {
+      "w": "repercussion",
+      "ipa": "/ˌriː.pəˈkʌʃ.ən/",
+      "pos": "n.",
+      "cn": "后果",
+      "def": "an indirect, often bad, effect of an event or action",
+      "ex": "The sudden tariff increase will have serious repercussions for local electronics manufacturers."
+    },
+    {
+      "w": "surmount",
+      "ipa": "/səˈmaʊnt/",
+      "pos": "v.",
+      "cn": "克服",
+      "def": "to deal with or overcome a difficulty or obstacle successfully",
+      "ex": "Through sheer grit and innovation, the startup managed to surmount its early capital shortages."
+    },
+    {
+      "w": "equivocal",
+      "ipa": "/ɪˈkwɪv.ə.kəl/",
+      "pos": "adj.",
+      "cn": "模棱两可的",
+      "def": "not clear or certain; open to multiple interpretations",
+      "ex": "The regulatory board gave an equivocal response regarding the approval of the merger."
+    },
+    {
+      "w": "disparate",
+      "ipa": "/ˈdɪs.pər.ət/",
+      "pos": "adj.",
+      "cn": "迥然不同的",
+      "def": "completely different in kind and not allowing comparison",
+      "ex": "Our team consists of professionals from highly disparate backgrounds, ranging from coding to art history."
     },
     {
       "w": "augment",
       "ipa": "/ɔːɡˈment/",
       "pos": "v.",
-      "cn": "增加/提高",
-      "def": "to make something greater by adding to it; increase",
-      "ex": "We need to augment our current sales team with contract staff during the peak season."
+      "cn": "增加",
+      "def": "to increase the size, value, or strength of something by adding to it",
+      "ex": "We decided to augment our digital marketing budget to capture more regional clients."
     },
     {
-      "w": "encapsulate",
-      "ipa": "/ɪnˈkæp.sjə.leɪt/",
+      "w": "unravel",
+      "ipa": "/ʌnˈræv.əl/",
       "pos": "v.",
-      "cn": "概括/浓缩",
-      "def": "to express the most important parts of something in a short space",
-      "ex": "Her presentation perfectly encapsulated the core goals of our three-year business strategy."
+      "cn": "阐明/揭开/瓦解",
+      "def": "to solve a mystery, or to begin to fail or fall apart",
+      "ex": "As the investigator asked more questions, the suspect's elaborate alibi began to unravel."
     },
     {
-      "w": "aggregate",
-      "ipa": "/ˈæɡ.rɪ.ɡət/",
+      "w": "capricious",
+      "ipa": "/kəˈprɪʃ.əs/",
       "pos": "adj.",
-      "cn": "总数的/总计",
-      "def": "formed or calculated by the combination of many separate units or items",
-      "ex": "The aggregate profit of the group exceeded expectations this quarter."
-    },
-    {
-      "w": "deviate",
-      "ipa": "/ˈdiː.vi.eɪt/",
-      "pos": "v.",
-      "cn": "偏离",
-      "def": "to depart from an established course or standards",
-      "ex": "We must not deviate from the safety protocols outlined in the handbook."
-    },
-    {
-      "w": "impede",
-      "ipa": "/ɪmˈpiːd/",
-      "pos": "v.",
-      "cn": "阻碍/妨碍",
-      "def": "to delay or prevent someone or something by obstructing them",
-      "ex": "Supply chain disruptions could seriously impede our project delivery schedule."
-    },
-    {
-      "w": "lucrative",
-      "ipa": "/ˈluː.krə.tɪv/",
-      "pos": "adj.",
-      "cn": "获利丰厚的",
-      "def": "producing a great deal of profit",
-      "ex": "Securing the government contract proved to be a highly lucrative venture for the tech startup."
+      "cn": "变幻莫测的",
+      "def": "changing mood or behavior suddenly and unexpectedly",
+      "ex": "The capricious nature of consumer trends makes inventory planning a daunting task for retailers."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Drive for AI Literacy in Local SMEs",
-    "transcript": "Good morning. To remain competitive in a rapidly changing economy, Singapore's Enterprise Development Board has launched a new scheme to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsʌb.sɪ.daɪz/ (v.) to pay part of the cost of something to make it cheaper — 资助/给…发津贴\">subsidise</span> AI training for local small and medium enterprises. Many traditional business owners are eager to transition, but they often struggle to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪn.tɪ.ɡreɪt/ (v.) to combine two or more things to make them work together — 整合/合并\">integrate</span> automated systems into their daily operations. Experts suggest that a gradual approach, starting with basic administrative tools, will <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/jiːld/ (v.) to produce or provide a natural, agricultural, or industrial product — 产生/带来\">yield</span> the best long-term results."
+    "title": "Singapore's Fleet-wide Transition to Green Buses",
+    "transcript": "As Singapore gears up for its green <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃ.ən/ (n.) the process of changing from one state or condition to another — 过渡\">transition</span>, the Land Transport Authority has announced that half of its public bus fleet will be electric by 2030. Commuters can expect quieter rides and cleaner air as older diesel models are progressively <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/feɪzd aʊt/ (phrasal v.) to be gradually stopped or removed from use — 逐步淘汰\">phased out</span>. However, deploying the necessary high-powered charging infrastructure at depots islandwide remains a complex <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ləˈdʒɪs.tɪ.kəl/ (adj.) relating to the organization and planning of a complex operation — 物流的；后勤的\">logistical</span> challenge."
   },
   "economistArticle": {
-    "title": "The Mirage of the Market: Why Stock Indices Mask Economic Reality",
+    "title": "Why bond markets are unnerving rich-world politicians",
     "paras": [
-      "For decades, stock market indices like the S&P 500 or Singapore's Straits Times Index have been treated as <span class=\"voc\">barometers</span> of national economic health. When the charts trend upward, politicians boast of prosperity, and investors celebrate growing wealth. Yet, this correlation is increasingly becoming a historic relic, as the mechanisms governing stock indices <span class=\"voc\">diverge</span> dramatically from the underlying reality of corporate performance and daily economic life.",
-      "The primary culprit behind this disconnect is the top-heavy nature of modern indices. In major market indices, capitalization-weighted methodologies mean that a handful of tech <span class=\"voc\">behemoths</span> dominate the entire movement of the average. <span class=\"gem\">If three or four trillion-dollar companies experience a surge, the index climbs, painting a picture of robust growth even if the remaining hundreds of <span class=\"voc\">constituent</span> companies are <span class=\"voc\">floundering</span> under high debt and stagnant sales.</span>",
-      "Furthermore, the modern equity market is heavily <span class=\"voc\">distorted</span> by passive investing. As millions of retail investors put their savings into index funds, capital is automatically <span class=\"voc\">funneled</span> into the largest companies regardless of their actual business fundamentals. This self-reinforcing loop artificially inflates the valuation of index giants while starving smaller, potentially innovative enterprises of much-needed capital, creating an illusion of widespread financial <span class=\"voc\">vitality</span>.",
-      "Beyond valuation <span class=\"voc\">quirks</span>, the divergence is driven by the rise of private markets. Many of the fastest-growing and most resilient firms choose to remain private far longer, funded by venture capital and private equity. Consequently, public stock exchanges are increasingly populated by mature, slow-growing legacy companies, meaning the public index represents a shrinking, less dynamic slice of the actual economic landscape.",
-      "For individual investors and policymakers alike, relying on these distorted aggregates is dangerous. A booming index can easily blind regulators to systemic vulnerabilities, such as rising corporate <span class=\"voc\">insolvencies</span> or declining consumer purchasing power. To navigate this landscape, one must look beyond the deceptive simplicity of market indices and dissect the microeconomic realities that lie beneath the surface."
+      "<span class=\"gem\">While stock markets across the globe scale historic heights, a quieter, far more <span class=\"voc\">ominous</span> trend is unfolding in the background.</span> Government bond yields—the interest rates rich nations pay to borrow money—have been climbing steadily. For politicians in Washington, London, and Tokyo, this upward tick is not merely a technical financial detail. It is a stark warning that the era of cheap, boundless public debt has come to a grinding halt.",
+      "Bond yields rise when investors demand a higher return to hold sovereign debt. This typically happens when they expect persistent inflation, or when they worry that governments are borrowing too much. Recently, massive post-pandemic spending coupled with heavy subsidies for industrial policies have pushed national debts to eye-watering levels. <span class=\"gem\">Bond <span class=\"voc\">vigilantes</span>, once thought <span class=\"voc\">dormant</span> after decades of low interest rates, are waking up to demand a hefty premium.</span>",
+      "This shift represents a political nightmare. When yields rise, a larger portion of a nation's tax revenue must be <span class=\"voc\">diverted</span> toward paying interest, rather than funding public infrastructure, healthcare, or popular tax cuts. It severely restricts a politician's room for <span class=\"voc\">maneuver</span>. If a newly elected leader attempts to finance grand promises through more deficits, the bond market can punish them instantly with a devastating sell-off, much like the market rebellion that doomed the short-lived British government under Liz Truss.",
+      "The consequences of this trend reach far beyond Western capitals. Higher yields in major economies exert upward pressure on borrowing costs globally, strengthening the US dollar and making international debt servicing more expensive. Open economies and financial hubs, including Singapore, closely watch these developments. Yield <span class=\"voc\">differentials</span> can trigger sudden capital outflows and complicate the task of domestic central banks aiming to manage currency stability.",
+      "Ultimately, the message from the bond market is clear. Equity investors may be celebrating corporate profits, but the debt market is flashing a warning sign about long-term fiscal <span class=\"voc\">sustainability</span>. Politicians can no longer take cheap money for granted; the <span class=\"voc\">reckoning</span> of higher-for-longer interest rates has finally arrived."
     ],
-    "cn": "几十年来，诸如标准普尔500指数或新加坡海峡时报指数等股市指数一直被视为国家经济健康的晴雨表。当图表呈上升趋势时，政客们吹嘘繁荣，投资者庆祝财富增长。然而，这种相关性正日益成为历史遗迹，因为支配股票指数的机制与公司业绩和日常经济生活的底层现实发生了急剧分歧。这种脱节的首要罪魁祸首是现代指数“头重脚轻”的特质。在主要的市场指数中，市值权重法意味着少数科技巨头主导了整个指数的走势。如果三四家万亿美元级的公司出现飙升，指数就会攀升，描绘出一幅强劲增长的画面，即使其余数百家成份股公司正因高负债和销售停滞而苦苦挣扎。此外，现代股市受到被动投资的严重扭曲。随着数百万散户投资者将储蓄投入指数基金，资金会自动流入最大的公司，而不管它们的实际业务基本面如何。这种自我强化的循环人为地推高了指数巨头的估值，同时使规模较小、具有潜在创新能力的企业缺乏急需的资金，创造了一种广泛财务活力的幻觉。除了估值上的奇特现象，这种分歧还受到私募市场崛起的推动。许多增长最快、最具韧性的公司在风险投资和私募股权的资助下，选择保持私有化的时间要长得多。因此，公开证券交易所中成熟、增长缓慢的传统企业越来越多，这意味着公开指数代表的只是实际经济版图中不断缩小、活力较低的一部分。对于个人投资者和政策制定者而言，依赖这些失真的综合数据是危险的。蓬勃发展的指数极易使监管机构对系统性脆弱性视而不见，例如不断上升的企业破产率或不断下降的消费者购买力。要应对这一局势，人们必须看透市场指数那具有欺骗性的简单外表，剖析隐藏在表面之下的微观经济现实。",
+    "cn": "在全球股市屡攀历史新高的同时，一个更为隐蔽且不祥的趋势正在后台上演。政府国债收益率（即富裕国家为借钱而支付的利率）一直在稳步攀升。对于华盛顿、伦敦和东京的政治家来说，这一上升趋势并不仅仅是一个技术性的金融细节。它是一个严厉的警告：廉价、无限的公共债务时代已戛然而止。\n\n当投资者要求获得更高的回报以持有主权债务时，债券收益率就会上升。这通常发生在他们预期通胀会持续，或者担心政府借债过多的时候。近来，疫情后巨大的支出加上对工业政策的巨额补贴，已将国家债务推向了令人瞠目结舌的高度。在经历了数十年的低利率之后，一度被认为处于蛰伏状态的“债券卫士”（指通过抛售债券惩罚挥霍无度政府的投资者）正在觉醒，并要求获得高额溢价。\n\n这一转变代表了政治家们的噩梦。当收益率上升时，国家税收的更大一部分必须被转用于支付利息，而不是用于资助公共基础设施、医疗保健或深受选民欢迎的减税。这严重限制了政治家的施展空间。如果一位新当选的领导人企图通过增加赤字来兑现宏伟的承诺，债券市场可以立即通过破坏性的抛售来惩罚他们，就像此前让短暂的英国莉兹·特拉斯政府倒台的市场叛乱一样。\n\n这一趋势的后果远超西方国家首都。主要经济体的高收益率给全球借贷成本带来了上行压力，推高了美元汇率，并使国际债务偿还变得更加昂贵。包括新加坡在内的开放型经济体和金融枢纽密切关注着这些事态发展。利差可能引发突然的资金外流，并使旨在维护货币稳定的本国央行的任务变得更加复杂。\n\n归根结底，债券市场传达的信息是明确的。股市投资者或许在庆祝企业利润，但债务市场正在对长期的财政可持续性发出警告。政治家们再也不能把廉价资金视为理所当然；‘高利率维持更久’的清算终于到来了。",
     "vocab": [
       {
-        "w": "barometers",
-        "ipa": "/bəˈrɒm.ɪ.təz/",
-        "pos": "n.",
-        "mean": "晴雨表/指标",
-        "def": "things that reflect fluctuations or progress",
-        "ex": "The consumer confidence index is often seen as one of the key barometers of economic health."
+        "w": "ominous",
+        "ipa": "/ˈɒm.ɪ.nəs/",
+        "pos": "adj.",
+        "mean": "不祥的",
+        "def": "suggesting that something unpleasant is going to happen",
+        "ex": "The dark clouds on the horizon looked ominous as we stepped out."
       },
       {
-        "w": "diverge",
-        "ipa": "/daɪˈvɜːdʒ/",
+        "w": "profligacy",
+        "ipa": "/ˈprɒf.lɪ.ɡə.si/",
+        "pos": "n.",
+        "mean": "挥霍/放荡",
+        "def": "the quality of spending too much money or using resources wastefully",
+        "ex": "The board criticized the previous CEO's fiscal profligacy during his tenure."
+      },
+      {
+        "w": "dormant",
+        "ipa": "/ˈdɔː.mən t/",
+        "pos": "adj.",
+        "mean": "蛰伏的",
+        "def": "temporarily inactive or in a state of deep sleep",
+        "ex": "The volcano has been dormant for hundreds of years, but scientists still monitor it closely."
+      },
+      {
+        "w": "vigilantes",
+        "ipa": "/ˌvɪdʒ.ɪˈlæn.tiz/",
+        "pos": "n.",
+        "mean": "警戒者/卫士",
+        "def": "people who take the law into their own hands, or here, market forces that discipline governments",
+        "ex": "Bond vigilantes quickly punished the country's excessive budget deficit by selling off its debt."
+      },
+      {
+        "w": "diverted",
+        "ipa": "/daɪˈvɜː.tɪd/",
         "pos": "v.",
-        "mean": "分歧/偏离",
-        "def": "to develop in different directions or become different",
-        "ex": "Their opinions on market entry strategies began to diverge significantly."
+        "mean": "转移",
+        "def": "cause someone or something to change course or turn from one direction to another",
+        "ex": "Emergency funds were diverted to rebuild public infrastructure after the flash floods."
       },
       {
-        "w": "behemoths",
-        "ipa": "/bəˈhiː.mɒθs/",
+        "w": "maneuver",
+        "ipa": "/məˈnuː.vər/",
+        "pos": "n./v.",
+        "mean": "谋略/施展空间",
+        "def": "a movement or series of moves requiring skill and care",
+        "ex": "With high debt levels, the finance minister has very little room for economic maneuver."
+      },
+      {
+        "w": "spillover",
+        "ipa": "/ˈspɪlˌəʊ.vər/",
         "pos": "n.",
-        "mean": "巨头/庞然大物",
-        "def": "extremely large and powerful organizations",
-        "ex": "Global tech behemoths dominate the cloud computing space."
+        "mean": "溢出效应",
+        "def": "an effect or consequence that spreads from one area or situation to another",
+        "ex": "The economic crisis in the region had a negative spillover on Singapore's tourism sector."
       },
       {
-        "w": "constituent",
-        "ipa": "/kənˈstɪtʃ.u.ənt/",
-        "pos": "adj.",
-        "mean": "组成的/成份股的",
-        "def": "being a part of a whole; a component part",
-        "ex": "The index tracks the performance of fifty constituent companies."
-      },
-      {
-        "w": "floundering",
-        "ipa": "/ˈflaʊn.dər.ɪŋ/",
-        "pos": "v. (present participle)",
-        "mean": "挣扎/困难重重",
-        "def": "struggling or having great difficulty",
-        "ex": "The retail sector was floundering before the tourism rebound."
-      },
-      {
-        "w": "distorted",
-        "ipa": "/dɪˈstɔː.tɪd/",
-        "pos": "adj.",
-        "mean": "扭曲的/失真的",
-        "def": "pulled or twisted out of shape; misrepresented",
-        "ex": "The tax subsidies created a distorted picture of local market demand."
-      },
-      {
-        "w": "funneled",
-        "ipa": "/ˈfʌn.əld/",
-        "pos": "v. (past tense)",
-        "mean": "汇集/传送",
-        "def": "guided or channeled through a narrow space or system",
-        "ex": "Billions of dollars were funneled into green energy projects."
-      },
-      {
-        "w": "vitality",
-        "ipa": "/vaɪˈtæl.ə.ti/",
+        "w": "differentials",
+        "ipa": "/ˌdɪf.əˈren.ʃəlz/",
         "pos": "n.",
-        "mean": "活力/生命力",
-        "def": "the state of being strong and active; energy",
-        "ex": "The government introduced new grants to restore the economic vitality of the heritage district."
+        "mean": "利差/差异",
+        "def": "differences in amount, value, or rate between comparable things",
+        "ex": "Interest rate differentials between the US and Japan have heavily impacted the value of the Yen."
       },
       {
-        "w": "quirks",
-        "ipa": "/kwɜːks/",
+        "w": "sustainability",
+        "ipa": "/səˌsteɪ.nəˈbɪl.ə.ti/",
         "pos": "n.",
-        "mean": "奇特之处/怪癖",
-        "def": "peculiar aspects or behaviors",
-        "ex": "Understanding the regulatory quirks of each country is essential for cross-border trade."
+        "mean": "可持续性",
+        "def": "the ability to be maintained at a certain rate or level",
+        "ex": "Astronomical levels of debt raise serious concerns about the nation's long-term fiscal sustainability."
       },
       {
-        "w": "insolvencies",
-        "ipa": "/ɪnˈsɒl.vən.siz/",
+        "w": "reckoning",
+        "ipa": "/ˈrek.ən.ɪŋ/",
         "pos": "n.",
-        "mean": "破产/无力偿债",
-        "def": "situations where companies or individuals cannot pay their debts",
-        "ex": "A sharp rise in interest rates led to increased corporate insolvencies."
+        "mean": "清算/估算",
+        "def": "a time when past actions or situations are judged or punished",
+        "ex": "After months of unbridled expansion, the property developer is facing a financial reckoning."
       }
     ],
     "gems": [
       {
-        "s": "If three or four trillion-dollar companies experience a surge, the index climbs, painting a picture of robust growth even if the remaining hundreds of constituent companies are floundering under high debt and stagnant sales.",
-        "why": "This sentence employs a vivid participle phrase ('painting a picture...') to show immediate consequence, contrasted against a concessive clause ('even if...') to expose a stark economic irony. / 这句话运用了生动的分词短语（'painting a picture...'）来展示直接后果，并与一个让步从句（'even if...'）进行对比，以揭示赤裸裸的经济讽刺。"
+        "s": "While stock markets across the globe scale historic heights, a quieter, far more ominous trend is unfolding in the background.",
+        "why": "This sentence uses a concessive clause starting with 'while' to create a powerful contrast between the noisy stock market rally and the quiet, dangerous movement in bond yields, successfully setting an urgent tone for the piece. 该句使用“while”引导的让步状语从句，在喧闹的股市反弹与沉寂却危险的债市异动之间建立强烈的对比，为文章奠定了紧迫的基调。"
+      },
+      {
+        "s": "Bond vigilantes, once thought dormant after decades of low interest rates, are waking up to demand a hefty premium.",
+        "why": "The use of the appositive phrase 'once thought dormant after decades of low interest rates' allows the writer to smoothly insert a crucial piece of historical context without disrupting the syntactic flow. 插入语结构“once thought dormant after decades of low interest rates”的使用，使作者能够流畅地嵌入关键的历史背景信息，而不破坏句子的整体语法结构。"
       }
     ]
   }
