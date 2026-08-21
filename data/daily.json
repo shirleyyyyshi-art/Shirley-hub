@@ -1,67 +1,76 @@
 {
-  "date": "2026-08-20",
-  "generatedAt": "2026-08-20T03:26:43.886576+00:00",
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T03:34:54.102619+00:00",
   "economist": {
-    "headline": "Why bond markets are unnerving rich-world politicians",
-    "teaser": "As stocks rise ever higher, yields have been climbing ominously",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
+    "headline": "The high cost of phantom tollbooths",
+    "teaser": "Freedom of navigation is worth preserving",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths",
     "vocab": [
       {
-        "word": "unnerving",
+        "word": "tollbooths",
         "phonetic": "",
-        "def": "To deprive of nerve, force, or strength; to weaken; to enfeeble."
+        "def": "A booth on a toll road or toll bridge where the toll is collected."
       },
       {
-        "word": "ominously",
-        "phonetic": "",
-        "def": "In an ominous manner; with sinister foreboding."
+        "word": "freedom",
+        "phonetic": "/ˈfɹiːdəm/",
+        "def": "The state of being free, of not being imprisoned or enslaved."
       }
     ]
   },
   "st": {
-    "headline": "Japan’s exports grow at fastest pace since 2022 on chips",
-    "teaser": "The value of exports rose 23.2 per cent in July from a year earlier.",
-    "url": "https://www.straitstimes.com/business/japans-exports-grow-at-fastest-pace-since-2022-on-chips",
+    "headline": "Evergrande creditors owed $57 billion now face more complex path",
+    "teaser": "One principle in Chinese law could in theory help, though it is unclear how that will play out in practice.",
+    "url": "https://www.straitstimes.com/business/evergrande-creditors-owed-57-billion-now-face-more-complex-path",
     "fullText": [
-      "Japan’s export growth accelerated to the fastest pace since 2022, fuelled by robust demand for chips and cars and a yen that weakened to a 40-year low.",
-      "The value of exports rose 23.2 per cent in July from a year earlier, accelerating from a 19.3 per cent gain in June, the Finance Ministry reported on Aug 20. The result compared with economists’ median forecast of a 20.1 per cent increase. It was the fastest advance since October 2022.",
-      "Imports rose 27.8 per cent, faster than the previous month’s 25.4 per cent gain and economists’ estimate of a 25.1 per cent increase. The trade deficit widened to ¥634.5 billion (S$5.09 billion) on an unadjusted basis from a revised ¥409.9 billion deficit in June, marking a third straight month in the red.",
-      "The data show that Japan’s manufacturers have largely managed to navigate the fallout from the Middle East conflict so far, an encouraging sign for Japan’s economy after growth fell short of expectations in the three months through June due to lacklustre domestic demand.",
-      "“Exports of semiconductor manufacturing equipment and semiconductor components are increasing due to the recent AI boom,” said Yuki Ito, economist at Nomura Securities Co.",
-      "Exports of chemical products also rose, he said, adding, “I suspect this is partly because supply constraints on naphtha have eased to some extent, allowing exports–which had been declining–to finally rebound.”",
-      "The weak yen boosted the value of shipments and has been a factor supporting businesses by making their products more competitive in overseas markets. The currency touched its weakest level against the dollar in 40 years in July. The yen averaged 161.83 versus the dollar, 11.2 per cent weaker than a year earlier, the ministry said.",
-      "Robust global demand for chips used in artificial intelligence was among the key drivers of the latest advance. Outbound shipments of electronic components including semiconductors increased about 49 per cent. Other gainers included shipments of passenger cars, which rose 21 per cent.",
-      "By destination, shipments to the US increased 22 per cent, while those to China and Europe climbed 25.8 per cent and 19.1 per cent, respectively.",
-      "Meanwhile, the war in Iran continued to alter Japan’s energy procurement patterns after the conflict led to the virtual closure of the Strait of Hormuz.",
-      "The trade report showed the total value of oil imports jumped nearly 88 per cent, with the volume increasing 5.5 per cent. The proportion of imports from the US rose to 36 per cent of the total by volume, from 7 per cent in February, while the proportion coming from the Mideast fell to 59 per cent.",
-      "Uncertainty surrounding the conflict persisted after a 60-day negotiation window established under a US-Iran memorandum of understanding expired on Aug 17 without a permanent peace deal. The interim agreement was aimed at resolving disputes over the Strait of Hormuz, Iran’s nuclear program and economic sanctions, but failed to produce a lasting settlement.",
-      "“Looking at the shipping data, it seems Japan has continued to make progress in securing alternative supplies from the US,” Ito said. BLOOMBERG"
+      "China Evergrande Group’s creditors have known for years they will only get pennies on the dollar back in one of the country’s biggest ever liquidations.",
+      "Now, getting even just that has become more complex.",
+      "A mainland Chinese court sentenced Evergrande founder Hui Ka Yan to life in prison on Aug 20 and ordered that his assets be confiscated. His companies were fined a combined 15.8 billion yuan (S$3 billion).",
+      "Evergrande’s liquidators, who said last year that the builder’s debt load totalled some US$45 billion (S$57 billion), have been pursuing Hui’s around US$7.7 billion in assets worldwide as they try to claw back funds.",
+      "For offshore creditors, one concern is that some of Hui’s assets could be drawn into Chinese mainland court’s enforcement proceedings.",
+      "“The new judgment has made the liquidation the most complicated we’ve ever seen,” said Foreky Wong, a Hong Kong-based insolvency specialist.",
+      "“The ruling could make liquidators’ recovery route more challenging, especially towards Hui’s assets as the liquidators have not yet won their case against Hui.”",
+      "There is, however, one principle in Chinese law that could in theory help some creditors.",
+      "Compensation for losses and debt repayments take priority over fines and asset confiscation in the country.",
+      "But it is unclear how that will play out in practice in one of the world’s biggest-ever cross-border corporate debt clean-ups.",
+      "“The penalty on Hui could add more uncertainties to how offshore creditors” can go about seeking to recoup some of their money, said Gary Ng, senior economist at Natixis. “Once the government gets all Hui’s assets, how it arranges the distribution will depend on its own considerations.”",
+      "The developer’s liquidators in Hong Kong declined to comment.",
+      "Evergrande, once the country’s largest developer by sales, defaulted on its offshore bonds in late 2021. Following failed restructuring attempts, it received a liquidation order in Hong Kong in 2024, marking a significant escalation in the unravelling of the sector.",
+      "The liquidators are also jostling with the authorities in Hong Kong. Earlier this week, a court in the city began hearing arguments on a challenge brought by liquidators to a HK$1 billion (S$162 million) deal that set up a fund to compensate Evergrande’s minority shareholders.",
+      "Deloitte had estimated in 2023 that the recovery rate for Evergrande’s dollar notes would be 3.4 per cent on average if the firm was liquidated.",
+      "Most of Evergrande’s offshore bonds were little changed after the mainland court’s ruling, indicated below two cents on the dollar, underscoring holders’ slim expectations for recovery.",
+      "Hui was taken away by Chinese police in 2023 and held under residential surveillance – a type of police action that falls short of formal detention or arrest.",
+      "Apart from a company filing confirming Hui being put under police control, Chinese authorities have remained tight-lipped about his status since then.",
+      "In 2024, Chinese regulators accused Evergrande’s main onshore unit of inflating more than 560 billion yuan of revenue by recognising sales in advance, an alleged fraud that dwarfs that of Luckin Coffee and Enron.",
+      "China then suspended the operations of PricewaterhouseCoopers, Evergrande’s long-time auditor, for six months and imposed fines.",
+      "Much of Hui’s known wealth was derived from his controlling stake in Evergrande and the cash dividends he has received from the company since its 2009 listing in Hong Kong.",
+      "Hui had pocketed more than US$7 billion over the past decade, thanks to the firm’s generous payouts, according to Bloomberg calculations. Bloomberg"
     ]
   },
   "cna": {
-    "headline": "Asian stocks rally as US Treasury steps in to ease bond fears",
-    "teaser": "Asian stocks rally as US Treasury steps in to ease bond fears",
-    "url": "https://www.channelnewsasia.com/business/asian-stocks-rally-us-treasury-steps-in-ease-bond-fears-6329931",
+    "headline": "Asian markets extend rally as traders assess US Treasuries pledge",
+    "teaser": "Asian markets extend rally as traders assess US Treasuries pledge",
+    "url": "https://www.channelnewsasia.com/business/asian-markets-extend-rally-traders-assess-us-treasuries-pledge-6332391",
     "fullText": [
-      "HONG KONG: Asian markets rallied on Thursday (Aug 20) after the US Treasury said it would \"at least double\" the amount of long-term bonds to push down borrowing costs, after they surged this week to near two-decade highs.",
-      "The surprise move provided a much-needed shot in the arm for investors worried about a spike in 10- and 30-year yields caused by the prospect of inflation staying elevated, government borrowing and possible Federal Reserve interest rate hikes.",
-      "Soon after the announcement, US equities reversed losses to end higher while the dollar tumbled against its peers as traders breathed a sigh of relief following a fresh bout of selling.",
-      "Fears had been surging after the yield on a 30-year US Treasury on Tuesday hit its highest level since June 2007, before the global financial crisis.",
-      "\"I see it as a very strong sign that the Treasury has decided higher US yields are unacceptable, and that the recent blowout in the long end is undesirable.",
-      "\"Clearly, Donald (Trump) is not happy yields have blown out.\"",
-      "The positive mood boosted Asia, where tech firms - which rely on debt to pay for their huge AI investments - were pummelled Wednesday.",
-      "Seoul led the charge higher, having been the focus of selling pressure the day before.",
-      "The Kospi jumped more than six per cent at one point as chipmaker SK hynix rocketed more than 12 per cent, helped by Wednesday's announcement by the firm of a US$29 billion share buyback aimed at soothing recent worries. Samsung climbed almost nine per cent.",
-      "Tech firms also helped Tokyo higher, while Hong Kong, Shanghai, Sydney, Wellington and Manila were also well up.",
-      "The dollar stabilised after sinking against its peers, while gold jumped back above US$4,500 for the first time since early June.",
-      "\"The key question now is whether the fall in yields can last. If oil prices remain elevated and concerns over US borrowing continue, pressure on the long end of the Treasury curve could return,\" said City Index's Fiona Cincotta.",
-      "Crude prices have been rising for the past two weeks as hopes for a US-Iran deal to reopen the Strait of Hormuz fade - the deadline for an agreement came up this week.",
-      "Washington's naval blockade on Iran's ports and Tehran's attacks on commercial ships continue, and Iran's armed forces warned Gulf countries against assisting the US military on Wednesday.",
-      "While both sides recently said messages were being exchanged, Trump on Tuesday insisted talks were off, taunting Iran with a social media post depicting the strait as a \"NEW US Territory\" .",
-      "Meanwhile, minutes from the Fed's July meeting showed many policymakers believe interest rate hikes will be necessary if inflation does not decline.",
-      "Three of the 12 voting members of the Federal Open Market Committee dissented from the majority decision to hold rates steady, instead calling for an increase.",
-      "They noted economic activity had continued to expand at a \"solid pace\", but business investment was concentrated in the AI industry.",
-      "Eyes are now on next week's annual meeting of central bankers, economists and finance chiefs at Jackson Hole, Wyoming, where investors will be hoping for some idea about Fed boss Kevin Warsh's thinking on rates.",
+      "HONG KONG: Asian stocks edged higher on Friday (Aug 21) as investors assessed the US Treasury's move to push down long-term bond yields, while analysts warned that alone would not be enough to keep borrowing costs from spiking.",
+      "Treasury Secretary Scott Bessent's pledge that he had more tools to provide support did little to comfort US markets as sceptical Wall Street investors resumed their selling amid concerns over elevated inflation and government borrowing, among other things.",
+      "The lack of progress on reopening the Strait of Hormuz added to unease on trading floors, with oil prices gradually rising over the past two weeks as the United States and Iran remain deadlocked.",
+      "The US Treasury provided a much-needed boost to markets on Wednesday when it said it planned to \"at least double\" its sovereign bond buybacks, a day after the 30-year yield surged to levels last seen in 2007 just before the global financial crisis.",
+      "Bessent told CNBC on Thursday that his department had a \"big toolkit\" to address a rise in yields that it views as unmoored to financial conditions. Such measures could include increased bond purchases beyond the scale announced the day before.",
+      "\"We think that this is a thinly traded area of the market, that we're in August, and there's been a lot of corporate issuance that's influenced the market,\" Bessent said.",
+      "\"We believe that the yields don't reflect the underlying fundamentals.\"",
+      "He added that inflation - which has been running above the Federal Reserve's two per cent target for more than five years - would ease once the United States gets \"on the other side\" of the Iran war and oil prices retreat.",
+      "The increase in yields weighed on Wall Street, where all three main indexes fell as tech firms - which rely on debt to fund their huge investments - dropped.",
+      "However, Asia fared better, with tech-rich Seoul helped by a rally in chipmakers Samsung and SK hynix, with the former said to be planning a shareholder return worth as much as US$79 billion.",
+      "SK hynix rocketed more than 12 per cent Thursday after announcing a US$29 billion share buyback.",
+      "Hong Kong, Singapore, Wellington and Taipei also rose, though Tokyo, Sydney and Shanghai dipped.",
+      "On currency markets, the yen rose against the dollar after Japanese inflation picked up last month on higher oil prices caused by the Middle East crisis, giving the country's central bank room to hike interest rates next month.",
+      "Observers have said the spike in yields is down to a number of things.",
+      "Michael Hewson at MCH Market Insights wrote: \"We already knew at the start of this year that governments would be looking to raise a lot of money due to increased spending commitments on both sides of the Atlantic, which would mean that buyers would likely be spoiled for choice.",
+      "\"With the boom in AI infrastructure spending, we've discovered yet another source of supply in the form of corporate bonds with the likes of Amazon, Alphabet, Meta and the like looking to raise up to US$500 billion of their own.",
+      "\"This excess in supply is also likely an additional factor serving to weigh on global sovereign debt markets with some investors preferring to invest in Big Tech as opposed to indebted sovereigns.\"",
+      "Others pointed to Fed Chair Kevin Warsh's refusal to provide markets with forward guidance on the bank's plans as fuelling uncertainty on trading floors.",
+      "Traders will be closely watching his speech at next week's annual meeting of central bankers, economists and finance chiefs in Jackson Hole, hoping for some clarification on monetary policy.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
@@ -73,263 +82,262 @@
   },
   "lifeVocab": [
     {
-      "en": "tap in/out",
-      "cn": "刷卡进出",
-      "def": "to scan a contactless transit card or mobile wallet to enter or exit a train station or bus",
-      "ex": "Please remember to tap out when you leave the MRT station, or you will be charged the maximum distance fare.",
+      "en": "tap in / tap out",
+      "cn": "刷卡进站/出站",
+      "def": "To press a contactless card or mobile device against a reader to pay for a public transport journey",
+      "ex": "Make sure you have enough value in your EZ-Link card before you tap in.",
       "emoji": "💳"
+    },
+    {
+      "en": "concourse",
+      "cn": "大厅/大堂",
+      "def": "The wide open area in a station where ticketing machines and barriers are located",
+      "ex": "Let's meet at the station concourse near Exit C.",
+      "emoji": "🚉"
     },
     {
       "en": "commuter",
       "cn": "通勤者",
-      "def": "a person who travels some distance to work or school on a regular basis",
-      "ex": "During peak hours, thousands of commuters squeeze onto the trains along the East-West Line.",
-      "emoji": "🚶‍♂️"
+      "def": "A person who travels some distance to work on a regular basis",
+      "ex": "During peak hours, the platforms are packed with tired commuters.",
+      "emoji": "🧑‍💼"
     },
     {
       "en": "feeder bus",
       "cn": "接驳巴士",
-      "def": "a local bus service that brings passengers from residential areas to a major transport hub like an MRT station",
-      "ex": "I usually take a feeder bus from the bus stop near my HDB flat to the interchange.",
+      "def": "A local bus service that brings passengers from residential areas to a main transport hub like an MRT station",
+      "ex": "I usually take a feeder bus from my HDB block to the nearest MRT station.",
       "emoji": "🚌"
     },
     {
-      "en": "interchange",
-      "cn": "转换站",
-      "def": "a transit station where passengers can change between different train lines or transport modes",
-      "ex": "Dhoby Ghaut is a busy interchange where three different MRT lines meet.",
-      "emoji": "🔄"
-    },
-    {
-      "en": "concourse",
-      "cn": "大厅",
-      "def": "the large open area inside a station, typically where ticketing, fare gates, and shops are located",
-      "ex": "Let's meet near the passenger service centre at the station concourse.",
-      "emoji": "🏢"
-    },
-    {
-      "en": "peak hour",
-      "cn": "繁忙时间",
-      "def": "the busy time of day when many people are travelling to or from work",
-      "ex": "To avoid the peak hour crowd, Alice leaves her house thirty minutes earlier than usual.",
+      "en": "peak hours",
+      "cn": "高峰时段",
+      "def": "The times of highest demand for public transport, usually during morning and evening commutes",
+      "ex": "Train fares are slightly cheaper if you travel before the morning peak hours.",
       "emoji": "⏰"
     },
     {
-      "en": "track intrusion",
-      "cn": "轨道入侵",
-      "def": "the unauthorized presence of a person or object on the train tracks",
-      "ex": "Platform screen doors were installed at all above-ground MRT stations to prevent track intrusion.",
-      "emoji": "⚠️"
+      "en": "transit",
+      "cn": "公共交通/运输",
+      "def": "The carrying of people or goods from one place to another, or public transportation systems",
+      "ex": "Singapore's rapid transit system is highly regarded for its efficiency.",
+      "emoji": "🚇"
     },
     {
-      "en": "transit card",
-      "cn": "交通卡",
-      "def": "a contactless smart card used to pay public transport fares",
-      "ex": "You can top up your EZ-Link transit card at any ticketing machine or via your phone app.",
-      "emoji": "💳"
+      "en": "interchange",
+      "cn": "换乘站",
+      "def": "A station where passengers can change transit lines or transit modes",
+      "ex": "Dhoby Ghaut is a busy three-line MRT interchange.",
+      "emoji": "🔄"
     },
     {
       "en": "disruption",
-      "cn": "中断",
-      "def": "an interruption in the normal operation or flow of a service",
-      "ex": "SMRT issued a formal apology after a power fault caused a major train disruption this morning.",
-      "emoji": "🛑"
+      "cn": "故障/中断",
+      "def": "An unexpected interruption in the normal flow or activity of a service",
+      "ex": "There was a short delay this morning due to a signaling disruption.",
+      "emoji": "⚠️"
     },
     {
-      "en": "platform",
-      "cn": "站台",
-      "def": "the raised area beside the tracks where passengers wait to board trains",
-      "ex": "Please stand behind the yellow safety line while waiting on the platform.",
-      "emoji": "🚉"
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "A moving staircase that carries people between different levels of a station",
+      "ex": "Stand on the left of the escalator to let others overtake on the right.",
+      "emoji": "🪜"
+    },
+    {
+      "en": "squeeze",
+      "cn": "挤/塞",
+      "def": "To force oneself into a confined, crowded space",
+      "ex": "I managed to squeeze onto the train just before the sliding doors closed.",
+      "emoji": "🚶"
     }
   ],
   "levelVocab": [
     {
       "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "ipa": "/dɪˈsemɪneɪt/",
       "pos": "v.",
-      "cn": "传播",
-      "def": "to spread information, knowledge, or ideas to a large number of people",
-      "ex": "The HR department will disseminate the new hybrid-working guidelines to all staff tomorrow."
+      "cn": "传播/散播",
+      "def": "To spread information, knowledge, or ideas widely",
+      "ex": "The HR department will disseminate the new remote-working guidelines tomorrow."
     },
     {
-      "w": "inadvertently",
-      "ipa": "/ˌɪn.ədˈvɜː.tənt.li/",
-      "pos": "adv.",
-      "cn": "无意地",
-      "def": "accidentally; without intention",
-      "ex": "The secretary inadvertently leaked the confidential board packet to the public distribution list."
-    },
-    {
-      "w": "pertinent",
-      "ipa": "/ˈpɜː.tɪ.nənt/",
-      "pos": "adj.",
-      "cn": "相关的",
-      "def": "directly relating to the subject or matter being considered",
-      "ex": "During the audit, please ensure you provide all pertinent financial records from the last quarter."
-    },
-    {
-      "w": "repercussion",
-      "ipa": "/ˌriː.pəˈkʌʃ.ən/",
+      "w": "contingency",
+      "ipa": "/kənˈtɪndʒənsi/",
       "pos": "n.",
-      "cn": "后果",
-      "def": "an indirect, often bad, effect of an event or action",
-      "ex": "The sudden tariff increase will have serious repercussions for local electronics manufacturers."
-    },
-    {
-      "w": "surmount",
-      "ipa": "/səˈmaʊnt/",
-      "pos": "v.",
-      "cn": "克服",
-      "def": "to deal with or overcome a difficulty or obstacle successfully",
-      "ex": "Through sheer grit and innovation, the startup managed to surmount its early capital shortages."
+      "cn": "应急预案/偶发事件",
+      "def": "A future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "We have put in place a contingency plan in case the main server fails."
     },
     {
       "w": "equivocal",
-      "ipa": "/ɪˈkwɪv.ə.kəl/",
+      "ipa": "/ɪˈkwɪvəkl/",
       "pos": "adj.",
-      "cn": "模棱两可的",
-      "def": "not clear or certain; open to multiple interpretations",
-      "ex": "The regulatory board gave an equivocal response regarding the approval of the merger."
+      "cn": "含糊其辞的/不明确的",
+      "def": "Open to more than one interpretation; deliberately ambiguous or undecided",
+      "ex": "The board's equivocal response left the project team unsure of how to proceed."
     },
     {
-      "w": "disparate",
-      "ipa": "/ˈdɪs.pər.ət/",
-      "pos": "adj.",
-      "cn": "迥然不同的",
-      "def": "completely different in kind and not allowing comparison",
-      "ex": "Our team consists of professionals from highly disparate backgrounds, ranging from coding to art history."
+      "w": "adversity",
+      "ipa": "/ədˈvɜːsəti/",
+      "pos": "n.",
+      "cn": "逆境/不测",
+      "def": "A difficult, unpleasant, or unfortunate situation",
+      "ex": "Successful businesses are those that can adapt and grow in the face of adversity."
     },
     {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
+      "w": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
       "pos": "v.",
-      "cn": "增加",
-      "def": "to increase the size, value, or strength of something by adding to it",
-      "ex": "We decided to augment our digital marketing budget to capture more regional clients."
+      "cn": "调和/和解",
+      "def": "To find a way in which two opposing ideas or situations can both be true or exist together",
+      "ex": "It is difficult to reconcile the pressure for lower costs with the demand for higher quality."
+    },
+    {
+      "w": "pivotal",
+      "ipa": "/ˈpɪvətl/",
+      "pos": "adj.",
+      "cn": "关键的/至关重要的",
+      "def": "Of crucial importance in relation to the development or success of something else",
+      "ex": "Securing the regional partnership played a pivotal role in our company's expansion."
     },
     {
       "w": "unravel",
-      "ipa": "/ʌnˈræv.əl/",
+      "ipa": "/ʌnˈrævl/",
       "pos": "v.",
-      "cn": "阐明/揭开/瓦解",
-      "def": "to solve a mystery, or to begin to fail or fall apart",
-      "ex": "As the investigator asked more questions, the suspect's elaborate alibi began to unravel."
+      "cn": "瓦解/解开",
+      "def": "To begin to fail, fall apart, or to solve a complex system/mystery",
+      "ex": "Without strict budget controls, the entire financial strategy could quickly unravel."
     },
     {
-      "w": "capricious",
-      "ipa": "/kəˈprɪʃ.əs/",
+      "w": "preclude",
+      "ipa": "/prɪˈkluːd/",
+      "pos": "v.",
+      "cn": "排除/妨碍/使不可能",
+      "def": "To prevent something from happening or make it impossible",
+      "ex": "Signing this non-compete clause will preclude you from working with our direct competitors."
+    },
+    {
+      "w": "stringent",
+      "ipa": "/ˈstrɪndʒənt/",
       "pos": "adj.",
-      "cn": "变幻莫测的",
-      "def": "changing mood or behavior suddenly and unexpectedly",
-      "ex": "The capricious nature of consumer trends makes inventory planning a daunting task for retailers."
+      "cn": "严格的/确凿的",
+      "def": "Strict, precise, and exacting, especially regarding rules, regulations, or standards",
+      "ex": "The monetary authority imposes stringent regulations on digital payment providers."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈperətɪv/",
+      "pos": "adj. / n.",
+      "cn": "极为重要的/当务之急",
+      "def": "Extremely important or urgent; an essential requirement",
+      "ex": "It is imperative that we address these security flaws before launching the application."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Fleet-wide Transition to Green Buses",
-    "transcript": "As Singapore gears up for its green <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃ.ən/ (n.) the process of changing from one state or condition to another — 过渡\">transition</span>, the Land Transport Authority has announced that half of its public bus fleet will be electric by 2030. Commuters can expect quieter rides and cleaner air as older diesel models are progressively <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/feɪzd aʊt/ (phrasal v.) to be gradually stopped or removed from use — 逐步淘汰\">phased out</span>. However, deploying the necessary high-powered charging infrastructure at depots islandwide remains a complex <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ləˈdʒɪs.tɪ.kəl/ (adj.) relating to the organization and planning of a complex operation — 物流的；后勤的\">logistical</span> challenge."
+    "title": "Singapore Boosts Maritime Defences Amid Regional Chokepoint Pressures",
+    "transcript": "As geopolitical tensions rise in critical shipping lanes, Singapore is actively working to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈfɔːtɪfaɪ/ (v.) to strengthen a place against attack or difficulty — 加强/巩固\">fortify</span> its maritime defences and logistics infrastructure. Speaking at a maritime forum, the Transport Minister emphasized that global trade flows remain highly <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/səˈseptəbl/ (adj.) easily influenced, harmed, or affected by something — 易受影响的/脆弱的\">susceptible</span> to supply chain bottlenecks. Ensuring the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌʌnɪntəˈrʌptɪd/ (adj.) without any pauses or interruptions; continuous — 不断的/无中断的\">uninterrupted</span> movement of merchant vessels through the Malacca Strait is not just an economic priority, but a security necessity. Consequently, local port operators are embracing next-generation automation to handle sudden spikes in cargo volume."
   },
   "economistArticle": {
-    "title": "Why bond markets are unnerving rich-world politicians",
+    "title": "The High Cost of Phantom Tollbooths",
     "paras": [
-      "<span class=\"gem\">While stock markets across the globe scale historic heights, a quieter, far more <span class=\"voc\">ominous</span> trend is unfolding in the background.</span> Government bond yields—the interest rates rich nations pay to borrow money—have been climbing steadily. For politicians in Washington, London, and Tokyo, this upward tick is not merely a technical financial detail. It is a stark warning that the era of cheap, boundless public debt has come to a grinding halt.",
-      "Bond yields rise when investors demand a higher return to hold sovereign debt. This typically happens when they expect persistent inflation, or when they worry that governments are borrowing too much. Recently, massive post-pandemic spending coupled with heavy subsidies for industrial policies have pushed national debts to eye-watering levels. <span class=\"gem\">Bond <span class=\"voc\">vigilantes</span>, once thought <span class=\"voc\">dormant</span> after decades of low interest rates, are waking up to demand a hefty premium.</span>",
-      "This shift represents a political nightmare. When yields rise, a larger portion of a nation's tax revenue must be <span class=\"voc\">diverted</span> toward paying interest, rather than funding public infrastructure, healthcare, or popular tax cuts. It severely restricts a politician's room for <span class=\"voc\">maneuver</span>. If a newly elected leader attempts to finance grand promises through more deficits, the bond market can punish them instantly with a devastating sell-off, much like the market rebellion that doomed the short-lived British government under Liz Truss.",
-      "The consequences of this trend reach far beyond Western capitals. Higher yields in major economies exert upward pressure on borrowing costs globally, strengthening the US dollar and making international debt servicing more expensive. Open economies and financial hubs, including Singapore, closely watch these developments. Yield <span class=\"voc\">differentials</span> can trigger sudden capital outflows and complicate the task of domestic central banks aiming to manage currency stability.",
-      "Ultimately, the message from the bond market is clear. Equity investors may be celebrating corporate profits, but the debt market is flashing a warning sign about long-term fiscal <span class=\"voc\">sustainability</span>. Politicians can no longer take cheap money for granted; the <span class=\"voc\">reckoning</span> of higher-for-longer interest rates has finally arrived."
+      "For centuries, the world's oceans have functioned as global commons, governed by the <span class=\"voc\">foundational</span> principle of freedom of navigation. Yet today, this bedrock of globalization is fracturing under the weight of geopolitical friction and <span class=\"voc\">asymmetric</span> threats. From the volatile waters of the Red Sea, where Houthi rebels harass massive cargo vessels, to the strategically sensitive corridors of the South China Sea, global maritime routes are increasingly <span class=\"voc\">beset</span> by what can only be described as \"phantom tollbooths\"—unofficial, unpredictable disruptions that impose heavy economic taxes on the flow of international commerce.",
+      "Unlike legitimate customs duties or port fees, which are codified and predictable, these phantom tollbooths manifest as soaring insurance premiums, forced re-routing around the Cape of Good Hope, and protracted shipping delays. The economic toll of these delays is staggering and cascades swiftly through the global supply chain. When shipping companies are compelled to bypass key maritime conduits like the Suez Canal, vessels burn millions of dollars in additional fuel, container turnaround times plummet, and port congestion intensifies. <span class=\"gem\">For an island city-state like Singapore, which sits at the <span class=\"voc\">nexus</span> of major East-West shipping lanes, these systemic tremors are felt instantly as ships queue in its anchorage, striving to realign their schedules.</span>",
+      "What makes this situation particularly <span class=\"voc\">insidious</span> is its potential to drive permanent structural inflation. When sea lanes are no longer guaranteed to be open and secure, the cost of moving goods rises permanently, eroding the efficiencies of the globalized division of labor. Central banks, already struggling to stabilize domestic economies, find themselves ill-equipped to combat supply-side shocks generated thousands of miles away at sea. Consequently, nations are starting to reconsider their reliance on distant suppliers, accelerating a retreat toward defensive <span class=\"voc\">nearshoring</span> and regional protectionism.",
+      "Ultimately, the international community cannot afford to treat the freedom of the seas as a historical luxury that can be compromised during geopolitical standoffs. It is an <span class=\"voc\">indivisible</span> public good that requires collective, <span class=\"voc\">multilateral</span> defense. <span class=\"gem\">If the world allows these phantom tollbooths to become permanent fixtures of the global landscape, the cost will not merely be paid by shipping conglomerates—it will be paid by everyone, in every shop, on every shelf.</span>"
     ],
-    "cn": "在全球股市屡攀历史新高的同时，一个更为隐蔽且不祥的趋势正在后台上演。政府国债收益率（即富裕国家为借钱而支付的利率）一直在稳步攀升。对于华盛顿、伦敦和东京的政治家来说，这一上升趋势并不仅仅是一个技术性的金融细节。它是一个严厉的警告：廉价、无限的公共债务时代已戛然而止。\n\n当投资者要求获得更高的回报以持有主权债务时，债券收益率就会上升。这通常发生在他们预期通胀会持续，或者担心政府借债过多的时候。近来，疫情后巨大的支出加上对工业政策的巨额补贴，已将国家债务推向了令人瞠目结舌的高度。在经历了数十年的低利率之后，一度被认为处于蛰伏状态的“债券卫士”（指通过抛售债券惩罚挥霍无度政府的投资者）正在觉醒，并要求获得高额溢价。\n\n这一转变代表了政治家们的噩梦。当收益率上升时，国家税收的更大一部分必须被转用于支付利息，而不是用于资助公共基础设施、医疗保健或深受选民欢迎的减税。这严重限制了政治家的施展空间。如果一位新当选的领导人企图通过增加赤字来兑现宏伟的承诺，债券市场可以立即通过破坏性的抛售来惩罚他们，就像此前让短暂的英国莉兹·特拉斯政府倒台的市场叛乱一样。\n\n这一趋势的后果远超西方国家首都。主要经济体的高收益率给全球借贷成本带来了上行压力，推高了美元汇率，并使国际债务偿还变得更加昂贵。包括新加坡在内的开放型经济体和金融枢纽密切关注着这些事态发展。利差可能引发突然的资金外流，并使旨在维护货币稳定的本国央行的任务变得更加复杂。\n\n归根结底，债券市场传达的信息是明确的。股市投资者或许在庆祝企业利润，但债务市场正在对长期的财政可持续性发出警告。政治家们再也不能把廉价资金视为理所当然；‘高利率维持更久’的清算终于到来了。",
+    "cn": "几个世纪以来，世界海洋一直作为全球公域发挥作用，受“航行自由”这一基本原则的约束。然而，如今，这一全球化的基石正在地缘政治摩擦和不对称威胁的重压下发生断裂。从也门胡塞武装袭击大型货轮的红海动荡水域，到战略敏感的南海通道，全球海运航线正日益受到只能被称为“幽灵收费站”的困扰——即对国际贸易流动征收沉重经济税的非官方、不可预测的干扰。\n\n与合法且可预测的关税或港口费不同，这些幽灵收费站表现为飙升的保险费、被迫绕道好望角以及漫长的运输延误。这些延误带来的经济损失是触目惊心的，并迅速在整个全球供应链中产生级联效应。当航运公司被迫绕过苏伊士运河等关键海上通道时，船只要多消耗价值数百万美元的燃料，集装箱周转时间暴跌，港口拥堵加剧。对于坐落在东西方主要航线交汇枢纽的岛国新加坡而言，随着船只在其锚地排队、努力调整日程，这些系统性震荡瞬间便能被感知到。\n\n使这种情况尤为隐蔽和危害深远的，是它有可能推动永久性的结构性通胀。当海运通道的安全和开放不再得到保障时，货物运输成本将永久上升，从而削弱全球化分工的效率。已经在努力稳定国内经济的各国央行，发现自己根本无法应对数千英里外海上产生的供给侧冲击。因此，各国开始重新审视自己对遥远供应商的依赖，加速向防御性的近岸外包和区域保护主义撤退。\n\n归根结底，国际社会不能将海洋自由视为地缘政治对峙期间可以妥协的历史奢侈品。它是一项不可分割的公共利益，需要集体的、多边主义的捍卫。如果世界任由这些“幽灵收费站”成为全球版图上的永久存在，其代价将不仅由航运巨头承担——每家商店里的每一件商品，都将最终由每一个人来买单。",
     "vocab": [
       {
-        "w": "ominous",
-        "ipa": "/ˈɒm.ɪ.nəs/",
+        "w": "foundational",
+        "ipa": "/faʊnˈdeɪʃənl/",
         "pos": "adj.",
-        "mean": "不祥的",
-        "def": "suggesting that something unpleasant is going to happen",
-        "ex": "The dark clouds on the horizon looked ominous as we stepped out."
+        "mean": "基础的/基本的",
+        "def": "Serving as a basis or starting point; fundamental",
+        "ex": "Trust is a foundational element in any successful business partnership."
       },
       {
-        "w": "profligacy",
-        "ipa": "/ˈprɒf.lɪ.ɡə.si/",
-        "pos": "n.",
-        "mean": "挥霍/放荡",
-        "def": "the quality of spending too much money or using resources wastefully",
-        "ex": "The board criticized the previous CEO's fiscal profligacy during his tenure."
-      },
-      {
-        "w": "dormant",
-        "ipa": "/ˈdɔː.mən t/",
+        "w": "asymmetric",
+        "ipa": "/ˌeɪsɪˈmetrɪk/",
         "pos": "adj.",
-        "mean": "蛰伏的",
-        "def": "temporarily inactive or in a state of deep sleep",
-        "ex": "The volcano has been dormant for hundreds of years, but scientists still monitor it closely."
+        "mean": "不对称的",
+        "def": "Unbalanced or unequal, especially in terms of power, capabilities, or methods",
+        "ex": "The conflict represents an asymmetric war where small groups disrupt major nations."
       },
       {
-        "w": "vigilantes",
-        "ipa": "/ˌvɪdʒ.ɪˈlæn.tiz/",
-        "pos": "n.",
-        "mean": "警戒者/卫士",
-        "def": "people who take the law into their own hands, or here, market forces that discipline governments",
-        "ex": "Bond vigilantes quickly punished the country's excessive budget deficit by selling off its debt."
-      },
-      {
-        "w": "diverted",
-        "ipa": "/daɪˈvɜː.tɪd/",
+        "w": "beset",
+        "ipa": "/bɪˈset/",
         "pos": "v.",
-        "mean": "转移",
-        "def": "cause someone or something to change course or turn from one direction to another",
-        "ex": "Emergency funds were diverted to rebuild public infrastructure after the flash floods."
+        "mean": "困扰/缠绕",
+        "def": "To trouble or threaten persistently",
+        "ex": "The project was beset by technical difficulties and administrative delays."
       },
       {
-        "w": "maneuver",
-        "ipa": "/məˈnuː.vər/",
-        "pos": "n./v.",
-        "mean": "谋略/施展空间",
-        "def": "a movement or series of moves requiring skill and care",
-        "ex": "With high debt levels, the finance minister has very little room for economic maneuver."
+        "w": "cascade",
+        "ipa": "/kæˈskeɪd/",
+        "pos": "v.",
+        "mean": "级联/产生连锁反应",
+        "def": "To pass down or spread through a system in a continuous series of consequences",
+        "ex": "Rising oil prices cascade through the transport sector, raising consumer prices."
       },
       {
-        "w": "spillover",
-        "ipa": "/ˈspɪlˌəʊ.vər/",
+        "w": "conduit",
+        "ipa": "/ˈkɒndjʊɪt/",
         "pos": "n.",
-        "mean": "溢出效应",
-        "def": "an effect or consequence that spreads from one area or situation to another",
-        "ex": "The economic crisis in the region had a negative spillover on Singapore's tourism sector."
+        "mean": "渠道/通道",
+        "def": "A channel for conveying water or other fluid, or a means of transmitting something",
+        "ex": "The Strait of Malacca is a crucial shipping conduit linking the Indian and Pacific Oceans."
       },
       {
-        "w": "differentials",
-        "ipa": "/ˌdɪf.əˈren.ʃəlz/",
+        "w": "nexus",
+        "ipa": "/ˈneksəs/",
         "pos": "n.",
-        "mean": "利差/差异",
-        "def": "differences in amount, value, or rate between comparable things",
-        "ex": "Interest rate differentials between the US and Japan have heavily impacted the value of the Yen."
+        "mean": "联结/枢纽/核心",
+        "def": "A connection or series of connections linking two or more things; a central focus",
+        "ex": "Singapore acts as a vital financial nexus for the Southeast Asian region."
       },
       {
-        "w": "sustainability",
-        "ipa": "/səˌsteɪ.nəˈbɪl.ə.ti/",
-        "pos": "n.",
-        "mean": "可持续性",
-        "def": "the ability to be maintained at a certain rate or level",
-        "ex": "Astronomical levels of debt raise serious concerns about the nation's long-term fiscal sustainability."
+        "w": "insidious",
+        "ipa": "/ɪnˈsɪdiəs/",
+        "pos": "adj.",
+        "mean": "潜伏的/不知不觉间加剧危害的",
+        "def": "Proceeding in a gradual, subtle way, but with very harmful effects",
+        "ex": "Inflation can have an insidious effect on savings, quietly reducing purchasing power."
       },
       {
-        "w": "reckoning",
-        "ipa": "/ˈrek.ən.ɪŋ/",
+        "w": "nearshoring",
+        "ipa": "/ˈnɪəʃɔːrɪŋ/",
         "pos": "n.",
-        "mean": "清算/估算",
-        "def": "a time when past actions or situations are judged or punished",
-        "ex": "After months of unbridled expansion, the property developer is facing a financial reckoning."
+        "mean": "近岸外包",
+        "def": "The practice of transferring a business operation to a nearby country rather than a more distant one",
+        "ex": "Disruptions in global logistics have prompted many Western firms to consider nearshoring."
+      },
+      {
+        "w": "indivisible",
+        "ipa": "/ˌɪndɪˈvɪzəbl/",
+        "pos": "adj.",
+        "mean": "不可分割的",
+        "def": "Unable to be divided or separated into parts",
+        "ex": "In a globalized world, security and economic stability are increasingly indivisible."
+      },
+      {
+        "w": "multilateral",
+        "ipa": "/ˌmʌltiˈlætərəl/",
+        "pos": "adj.",
+        "mean": "多边的",
+        "def": "Agreed upon or participated in by three or more parties, especially the governments of different countries",
+        "ex": "The treaty was the result of intense multilateral negotiations over five years."
       }
     ],
     "gems": [
       {
-        "s": "While stock markets across the globe scale historic heights, a quieter, far more ominous trend is unfolding in the background.",
-        "why": "This sentence uses a concessive clause starting with 'while' to create a powerful contrast between the noisy stock market rally and the quiet, dangerous movement in bond yields, successfully setting an urgent tone for the piece. 该句使用“while”引导的让步状语从句，在喧闹的股市反弹与沉寂却危险的债市异动之间建立强烈的对比，为文章奠定了紧迫的基调。"
+        "s": "For an island city-state like Singapore, which sits at the nexus of major East-West shipping lanes, these systemic tremors are felt instantly as ships queue in its anchorage, striving to realign their schedules.",
+        "why": "This sentence elegantly uses a non-restrictive relative clause (\"which sits...\") to introduce geographical context, combined with evocative vocabulary like \"systemic tremors\" and a vivid parallel structure (\"as ships queue... striving to...\") to paint a clear picture of economic vulnerability. 句子优雅地运用了非限制性关系从句（\"which sits...\"）来引入地理背景，结合了诸如“系统性震荡”等形象的词汇，以及生动的平行结构（\"as ships queue... striving to...\"），清晰地描绘出经济脆弱性的画面。"
       },
       {
-        "s": "Bond vigilantes, once thought dormant after decades of low interest rates, are waking up to demand a hefty premium.",
-        "why": "The use of the appositive phrase 'once thought dormant after decades of low interest rates' allows the writer to smoothly insert a crucial piece of historical context without disrupting the syntactic flow. 插入语结构“once thought dormant after decades of low interest rates”的使用，使作者能够流畅地嵌入关键的历史背景信息，而不破坏句子的整体语法结构。"
+        "s": "If the world allows these phantom tollbooths to become permanent fixtures of the global landscape, the cost will not merely be paid by shipping conglomerates—it will be paid by everyone, in every shop, on every shelf.",
+        "why": "This concluding sentence employs a strong conditional 'if' structure coupled with a powerful rhetorical tricolon (\"by everyone, in every shop, on every shelf\") to build dramatic momentum and emphasize the universal consumer impact of maritime disruptions. 这个结尾句采用了强有力的“如果”条件结构，并结合了极具修辞力量排比（\"by everyone, in every shop, on every shelf\"），层层递进，强调了海运中断给全球消费者带来的普遍影响。"
       }
     ]
   }
