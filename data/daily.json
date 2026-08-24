@@ -1,53 +1,55 @@
 {
-  "date": "2026-08-23",
-  "generatedAt": "2026-08-23T03:33:56.140481+00:00",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T03:38:53.769816+00:00",
   "economist": {
-    "headline": "Tracking the cost of Donald Trump’s tariffs",
-    "teaser": "America’s global effective tariff stands at 10.0%",
-    "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+    "headline": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
+    "teaser": "Perhaps. But his effort to talk bond yields lower is likely to fail",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
     "vocab": [
       {
-        "word": "tracking",
-        "phonetic": "/ˈtɹækɪŋ/",
-        "def": "To continue over time."
-      },
-      {
-        "word": "tariffs",
-        "phonetic": "",
-        "def": "A system of government-imposed duties levied on imported or exported goods; a list of such duties, or the duties themselves."
+        "word": "perhaps",
+        "phonetic": "/pəˈhæps/",
+        "def": "An uncertainty."
       }
     ]
   },
   "st": {
-    "headline": "Tesla teases imminent launch of Cybercab ‘robotaxi’",
-    "teaser": "The gold-coloured vehicle can carry two passengers and marks the first Tesla car with no steering wheel or pedals.",
-    "url": "https://www.straitstimes.com/business/tesla-teases-imminent-launch-of-cybercab-robotaxi",
+    "headline": "Partners Group exits bubble-tea brand Gong Cha after Bain buyout",
+    "teaser": "Partners Group in 2019 provided more than US$200 million to support TA Associates’ acquisition of Gong Cha.",
+    "url": "https://www.straitstimes.com/business/partners-group-exits-bubble-tea-brand-gong-cha-after-bain-buyout",
     "fullText": [
-      "NEW YORK – Electric vehicle-maker Tesla is teasing the upcoming debut of its self-driving robotaxi , dubbed “Cybercab”, to compete with the likes of Uber and Waymo.",
-      "The Elon Musk-founded company shared a promotional image on social media late on Aug 21 promising “exclusive access” to Cybercabs at a Sept 3 event in Austin, Texas, where Tesla is headquartered.",
-      "“We’re celebrating the launch of our Cybercab robotaxi with an exclusive event in Austin – and you could be there,” the company said on its website, promoting a sweepstake to win a chance to attend the event.",
-      "First unveiled in October 2024, the gold-coloured vehicle can carry two passengers and marks the first Tesla car with no steering wheel or pedals.",
-      "At the time, Musk said the company was planning to begin production of the self-driving cars before 2027 and sell them to private buyers for under US$30,000 (S$38,000).",
-      "US tech industry publication The Information reported earlier that Tesla staffers have been told the roll-out will begin with Cybercab rides for employees on public roads, followed by the vehicle being incorporated into the ranks of its Robotaxi service in Austin.",
-      "Tesla enthusiasts have in recent weeks reported seeing parking lots filled with Cybercabs, sparking rumours of an impending launch.",
-      "In 2025, Tesla debuted its self-driving cars in Austin using its Model Y SUV vehicles, with the “Robotaxi” service gradually expanding to several other cities in Texas, Florida and California.",
-      "However, state laws require many of the vehicles to have a human supervisor or driver ready to take over control if necessary.",
-      "Waymo, the self-driving vehicle subsidiary of Google parent company Alphabet, offers its services in 11 US cities. AFP"
+      "Partners Group will exit its private credit investment in Gong Cha after Bain Capital bought the Taiwanese bubble-tea brand from TA Associates in August.",
+      "The Swiss-based private asset manager said it has entered an agreement to be fully repaid, according to a document seen by Bloomberg.",
+      "Partners Group in 2019 had provided a financing package of more than US$200 million (S$254 million) to support TA Associates’ acquisition of Gong Cha and also took a minority equity stake.",
+      "The returns on the investment were not disclosed.",
+      "While private credit is growing in Asia Pacific, the region that still makes up only a small portion of the global US$1.8 trillion market.",
+      "Its immediate outlook also faces a number of challenges. Economic uncertainty, geopolitical tensions, and elevated interest rates are set to slow growth in private credit fundraising in the region as investors become more wary of illiquid assets, Moody’s Ratings said in a report in July.",
+      "While exiting its Gong Cha position, Partners Group is seeking further investment opportunities in Asia, as its customers look to diversify away from the US, global head of private debt Andrew Bellis said in an interview recently.",
+      "The asset manager has already deployed several billion dollars in Asia across more than 50 private credit investments over the past 15 years, with most of those in the past five to seven years, he said.",
+      "“What we’re seeing is more clients looking to make dedicated allocations to Asia private credit,” Bellis said.",
+      "Partners Group recently closed a US$1 billion private credit mandate with a major institutional investor in Asia, including a discretionary tranche that it will manage as well as co-investment capital, it announced. The company currently oversees about $6 billion in private credit assets in the region.",
+      "Partners currently favours high-performing, defensive or less cyclical companies, and is steering away from some of the hottest areas of Asian financing, Bellis said.",
+      "Datacentre and GPU financing – which refers to financing to enable companies to acquire advanced technology – is less of a focus, he said, with Partners Group instead targeting “real economy” businesses.",
+      "Recent investments have included education and corporate services companies. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Bangladesh 39-3 at lunch, trail by 107 runs in second test v Australia",
-    "teaser": "Bangladesh 39-3 at lunch, trail by 107 runs in second test v Australia",
-    "url": "https://www.channelnewsasia.com/sport/bangladesh-39-3-lunch-trail-107-runs-in-second-test-v-australia-6335501",
+    "headline": "Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing",
+    "teaser": "Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing",
+    "url": "https://www.channelnewsasia.com/business/shein-pay-up-35-billion-select-pre-ipo-investors-around-hong-kong-listing-6336936",
     "fullText": [
-      "Aug 23 : Bangladesh were 39 for three in their second innings at lunch on day two of the second test against Australia in Mackay on Sunday, trailing by 107 runs.",
-      "• Australia paceman Mitchell Starc took two wickets in successive balls, having opener Shadman Islam caught for one before bowling Mominul Haque for a duck when the number three failed to play a shot.",
-      "• Opener Tanzid Hasan was caught for nine by Starc at deep fine leg after a miscued pull shot off the bowling of captain and fast bowler Pat Cummins.",
-      "• Bangladesh captain Najmul Hossain Shanto was 23 not out at the break, with number five batter Mushfiqur Rahim on four at Great Barrier Reef Arena.",
-      "• Bangladesh's recalled fast bowler Shoriful Islam took a seventh wicket after dismissing Cameron Green lbw for 67 with an in-swinging yorker. Shoriful finished with 7-48, the best innings haul for a Bangladesh bowler in an away test.",
-      "• Tailenders Nathan Lyon (32 not out) and Josh Hazlewood frustrated Bangladesh with a 24-run partnership for the 10th wicket before Hazlewood was caught for six by Shadman after top-edging an attempted slog-sweep off left-arm spinner Taijul Islam.",
-      "• Bangladesh lead the two-match series 1-0 after thrashing Australia by nine wickets in Darwin.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "HONG KONG, Aug 24 : Online fast-fashion retailer Shein will pay up to $3.5 billion to selected existing investors — almost twice the fresh capital it is seeking in an IPO — to help compensate them for a sharp slide in its valuation, its prospectus showed on Monday.",
+      "The investors entitled to the payments in cash and extra shares include entities linked to Boyu Capital, Tiger Global, General Atlantic, Thrive Capital, Mubadala, Brookfield and others, the filings showed.",
+      "They hold Shein's late-stage funding shares — Series pre-D, Series D and Series D plus preferred — which carry protections triggered by an IPO below the prices paid in earlier funding rounds.",
+      "The broader group of preferred shareholders also includes Sanabil Private Equity, Coatue, D1 Capital, DST Asia, Reliance Retail, Coppel Capital, and Claure Group.",
+      "The payments are nearly double the up to HK$13.86 billion ($1.77 billion) that Shein aims to raise by selling about 280 million shares in its IPO, based on the top end of its indicated price range.",
+      "Shein's proposed IPO price of HK$47.60 to HK$49.50 per share would value the company at up to about $27 billion.",
+      "That is below the private valuations attached to the eligible funding rounds of $60.5 billion for the Series pre-D round in 2022, $98.2 billion for the Series D round later that year and $64 billion for the Series D plus round in 2023.",
+      "Shein said it could pay up to $2.2 billion in cash under the conversion adjustment protections, assuming the IPO is priced at the bottom of the range. It will also issue 19.6 million additional shares to eligible holders at no cost.",
+      "Separately, Shein also agreed to make about $1.33 billion in payments to holders of Series pre-D, D and D plus preferred shares.",
+      "That includes about $1.1 billion, payable in three instalments by March 31, June 30 and September 30. A further estimated $230.4 million, which accrues until the IPO closes, will be paid within 15 business days after IPO completion.",
+      "Shein said the payments will be funded from its own financial resources. Holders of Shein's older Series A, Series B, Series C and Series C plus preferred shares are not covered, the prospectus showed.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
@@ -57,259 +59,263 @@
   },
   "lifeVocab": [
     {
-      "en": "commute",
-      "cn": "每日通勤",
-      "def": "travel some distance to work on a regular basis",
-      "ex": "My daily commute from Jurong East to Raffles Place takes about 45 minutes.",
-      "emoji": "🚇"
-    },
-    {
       "en": "concourse",
       "cn": "车站大厅",
-      "def": "a large open area on which people meet or travel through",
-      "ex": "Meet me near the passenger service centre at the MRT station concourse.",
+      "def": "The main open area in a station where ticketing and gates are located",
+      "ex": "Meet me at the station concourse near the passenger service centre.",
       "emoji": "🚉"
     },
     {
       "en": "gantry",
-      "cn": "闸机 (地铁出入口)",
-      "def": "a bridge-like overhead structure, used here to refer to the ticket tap gates",
-      "ex": "Please tap your EZ-Link card at the gantry to enter.",
+      "cn": "闸机",
+      "def": "The automated fare gates where you tap your travel card",
+      "ex": "Remember to tap your EZ-Link card at the gantry when you exit.",
       "emoji": "💳"
     },
     {
-      "en": "shuttle bus",
-      "cn": "接驳巴士",
-      "def": "a bus that travels regularly between two places",
-      "ex": "When the East-West Line broke down, bridging shuttle buses were deployed.",
-      "emoji": "🚌"
-    },
-    {
-      "en": "escalator",
-      "cn": "自动扶梯",
-      "def": "a moving staircase consisting of an endlessly circulating belt of steps",
-      "ex": "Always stand on the left of the escalator to let others walk on the right.",
-      "emoji": "🪜"
-    },
-    {
-      "en": "transfer",
-      "cn": "换乘",
-      "def": "change from one route or station to another",
-      "ex": "Dhoby Ghaut is a major interchange station where three lines transfer.",
+      "en": "interchange",
+      "cn": "换乘站",
+      "def": "A transit station where passengers can change transport lines",
+      "ex": "Dhoby Ghaut is a busy interchange connecting three MRT lines.",
       "emoji": "🔄"
     },
     {
-      "en": "peak hour",
-      "cn": "出行高峰期",
-      "def": "the time of day when traffic is at its heaviest",
-      "ex": "MRT trains are incredibly crowded during the morning peak hour.",
-      "emoji": "⏰"
+      "en": "commuter",
+      "cn": "通勤者",
+      "def": "A person who travels some distance to work on a regular basis",
+      "ex": "The morning trains are always packed with office commuters.",
+      "emoji": "🧑‍💼"
     },
     {
-      "en": "announcement",
-      "cn": "广播通知",
-      "def": "a formal public statement",
-      "ex": "Listen closely to the train announcement so you don't miss your stop.",
-      "emoji": "📢"
+      "en": "berth",
+      "cn": "站台/停靠位",
+      "def": "A designated parking or stopping space for buses at an interchange",
+      "ex": "Please wait at Berth 4 for bus service 190.",
+      "emoji": "🚌"
+    },
+    {
+      "en": "congested",
+      "cn": "拥挤的",
+      "def": "Extremely crowded or blocked with traffic or people",
+      "ex": "The East-West Line gets highly congested during peak hours.",
+      "emoji": "👥"
+    },
+    {
+      "en": "disruption",
+      "cn": "运行中断",
+      "def": "An interruption in the normal progress or flow of a service",
+      "ex": "SMRT apologized for the signal fault that caused a 20-minute disruption.",
+      "emoji": "⚠️"
+    },
+    {
+      "en": "feeder bus",
+      "cn": "支线巴士",
+      "def": "A local bus service that brings passengers from residential areas to a nearby transport hub",
+      "ex": "I take a feeder bus from my HDB block to the MRT station.",
+      "emoji": "🚌"
     },
     {
       "en": "platform screen doors",
-      "cn": "站台安全门",
-      "def": "sliding doors that separate the platform from the train tracks",
+      "cn": "站台屏蔽门",
+      "def": "Safety glass doors that separate the platform from the train tracks",
       "ex": "Stand behind the yellow line before the platform screen doors open.",
       "emoji": "🚪"
     },
     {
-      "en": "feeder service",
-      "cn": "支线/接驳服务",
-      "def": "a local transport service that feeds passengers into a main hub",
-      "ex": "Many residents take a feeder service bus to reach the nearest MRT station.",
-      "emoji": "🚍"
+      "en": "tap in / tap out",
+      "cn": "刷卡进站/出站",
+      "def": "To place a smart card on a reader to pay for transit entry or exit",
+      "ex": "Make sure you tap out properly to avoid being overcharged.",
+      "emoji": "📲"
     }
   ],
   "levelVocab": [
     {
-      "w": "alleviate",
-      "ipa": "/əˈliːvieɪt/",
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
       "pos": "v.",
-      "cn": "缓解",
-      "def": "make (suffering, deficiency, or a problem) less severe",
-      "ex": "The new software is designed to alleviate the administrative burden on our HR team."
-    },
-    {
-      "w": "contingency",
-      "ipa": "/kənˈtɪndʒənsi/",
-      "pos": "n.",
-      "cn": "应急预案",
-      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "We must develop a robust contingency plan in case the supplier fails to deliver."
-    },
-    {
-      "w": "disparity",
-      "ipa": "/dɪˈspærɪti/",
-      "pos": "n.",
-      "cn": "差异 / 差距",
-      "def": "a great difference",
-      "ex": "There is a significant income disparity between the senior executives and the entry-level staff."
+      "cn": "传播/散播",
+      "def": "to spread information, knowledge, or ideas widely",
+      "ex": "The HR department will disseminate the new remote-work policy by Friday."
     },
     {
       "w": "imperative",
-      "ipa": "/ɪmˈperətɪv/",
+      "ipa": "/ɪmˈper.ə.tɪv/",
       "pos": "adj.",
-      "cn": "至关重要的",
-      "def": "of vital importance; crucial",
-      "ex": "It is imperative that we complete the financial audit before the end of the quarter."
+      "cn": "极重要的/迫切的",
+      "def": "extremely important or urgent; needing immediate attention",
+      "ex": "It is imperative that we complete the financial audit before the board meeting."
     },
     {
-      "w": "curtail",
-      "ipa": "/kɜːˈteɪl/",
-      "pos": "v.",
-      "cn": "缩减 / 限制",
-      "def": "reduce in extent or quantity; impose a restriction on",
-      "ex": "The company had to curtail its marketing budget due to the unexpected economic downturn."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "增强 / 扩大",
-      "def": "make (something) greater by adding to it; increase",
-      "ex": "We hired part-time freelancers to augment our design team during the peak season."
-    },
-    {
-      "w": "peripheral",
-      "ipa": "/pəˈrɪfərəl/",
+      "w": "ubiquitous",
+      "ipa": "/juːˈbɪk.wɪ.təs/",
       "pos": "adj.",
-      "cn": "次要的 / 边缘的",
-      "def": "of secondary or minor importance; marginal",
-      "ex": "Let's focus on the core issues first and ignore the peripheral details for now."
+      "cn": "无处不在的",
+      "def": "seeming to be everywhere or in several places at the same time",
+      "ex": "Mobile payment apps have become ubiquitous in modern retail."
     },
     {
       "w": "reconcile",
-      "ipa": "/ˈrekənsaɪl/",
+      "ipa": "/ˈrek.ən.saɪl/",
       "pos": "v.",
-      "cn": "调和 / 和解",
-      "def": "restore friendly relations between or make consistent",
-      "ex": "The accountant spent hours trying to reconcile the bank statements with our internal ledger."
+      "cn": "调和/一致",
+      "def": "to find a way in which two opposing situations or beliefs can agree and exist together",
+      "ex": "It is difficult to reconcile his demanding career with his family life."
     },
     {
       "w": "transient",
-      "ipa": "/ˈtrænziənt/",
+      "ipa": "/ˈtræn.zi.ənt/",
       "pos": "adj.",
-      "cn": "短暂的 / 瞬时的",
-      "def": "lasting only for a short time; impermanent",
-      "ex": "The economic impact of the minor glitch is expected to be transient, with recovery starting next week."
+      "cn": "短暂的/转瞬即逝的",
+      "def": "lasting only for a short time; temporary",
+      "ex": "The economic downturn was transient, with recovery beginning in the third quarter."
     },
     {
-      "w": "oscillate",
-      "ipa": "/ˈɒsɪleɪt/",
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案/意外事故",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "Our team has created a contingency plan in case the main server fails."
+    },
+    {
+      "w": "obviate",
+      "ipa": "/ˈɒb.vi.eɪt/",
       "pos": "v.",
-      "cn": "摇摆 / 波动",
-      "def": "move or swing back and forth at a regular speed, or waver between different opinions",
-      "ex": "The client's feedback tends to oscillate between approval and complete dissatisfaction."
+      "cn": "排除/免除",
+      "def": "to remove a difficulty, problem, or the need for something",
+      "ex": "The new automation software will obviate the need for manual data entry."
+    },
+    {
+      "w": "precursor",
+      "ipa": "/priːˈkɜː.sər/",
+      "pos": "n.",
+      "cn": "前兆/先驱",
+      "def": "something that happened or existed before another thing, especially if it caused it or influenced it",
+      "ex": "A sudden rise in customer complaints is often a precursor to a drop in sales."
+    },
+    {
+      "w": "disparate",
+      "ipa": "/ˈdɪs.pər.ət/",
+      "pos": "adj.",
+      "cn": "迥然不同的",
+      "def": "essentially different in kind; not allowing comparison",
+      "ex": "The merger brought together two highly disparate corporate cultures."
+    },
+    {
+      "w": "foster",
+      "ipa": "/ˈfɒs.tər/",
+      "pos": "v.",
+      "cn": "促进/培养",
+      "def": "to encourage or promote the development of something",
+      "ex": "The manager tried to foster a spirit of collaboration among team members."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Solar Ambitions in a Changing Climate",
-    "transcript": "As Singapore accelerates its <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃn/ (n.) the process of changing from one state or condition to another — 过渡\">transition</span> to green energy, local authorities are stepping up efforts to maximize solar panel deployment across HDB rooftops. Despite land <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kənˈstreɪnts/ (n.) limitations or restrictions — 限制/约束\">constraints</span>, the island nation is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈjuːtəlaɪzɪŋ/ (v.) making practical and effective use of something — 利用\">utilizing</span> innovative floating solar farms on reservoirs to tap into clean power. These initiatives are crucial as regional temperatures continue to rise, threatening local ecosystems."
+    "title": "Singapore's New Digital Identity Measures to Combat Scams",
+    "transcript": "As digital banking scams continue to rise in Singapore, major banks are introducing stricter <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌbaɪ.əʊˈmet.rɪk/ (adj.) relating to the measurement and analysis of people's unique physical characteristics — 生物特征的\">biometric</span> verification steps for high-risk transactions. Starting next month, customers transferring large sums of money will have to use facial scanning technology. While some senior citizens might find this shift challenging, authorities emphasize that these measures are vital to protect personal savings. The Monetary Authority of Singapore hopes this will significantly reduce <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ʌnˈɔː.θər.aɪzd/ (adj.) without official permission or approval — 未经授权的\">unauthorized</span> fund transfers."
   },
   "economistArticle": {
-    "title": "The Toll of the Tariff Wall",
+    "title": "The Limits of Sweet-Talk: Scott Bessent and the Bond Markets",
     "paras": [
-      "As Donald Trump's proposed trade policies <span class=\"voc\">loom</span> over global markets, economists are racing to <span class=\"voc\">quantify</span> the ultimate damage of a heightened tariff regime. With America's global effective tariff rate potentially scaling to a historic 10.0%, the <span class=\"voc\">ramifications</span> will <span class=\"voc\">reverberate</span> far beyond Washington. For highly open, trade-dependent economies like Singapore, any disruption to the flow of global commerce behaves like an economic tremor, threatening supply-chain stability and raising import costs across the board.",
-      "The mechanism of modern protectionism is deceptive; while it promises to shield domestic manufacturers, it often triggers <span class=\"voc\">retaliatory</span> tariffs from trade partners. This tit-for-tat escalation threatens to fragment global supply chains that have taken decades to optimize. Multinational corporations, accustomed to seamless cross-border logistics, now face the daunting task of rearranging their production networks, a process that is both capital-intensive and highly inflationary.",
-      "In Southeast Asia, the consequences are multifaceted. While some nations might witness a short-term <span class=\"voc\">windfall</span> as businesses relocate manufacturing hubs to bypass American duties, the overall <span class=\"voc\">contraction</span> in global demand is bound to dampen growth. Singapore's status as a premier financial and logistics hub makes it particularly vulnerable to a slowdown in aggregate trade volume. <span class=\"gem\">When global shipping lanes quiet down, the island's port and maritime services feel the pinch almost immediately.</span>",
-      "Moreover, higher tariffs serve as a <span class=\"voc\">regressive</span> tax on consumers. As intermediate goods become pricier, manufacturers <span class=\"voc\">invariably</span> pass these costs down the value chain, culminating in elevated retail prices. Central banks worldwide, having just brought inflation under control after a grueling post-pandemic cycle, may find themselves forced to keep interest rates higher for longer to combat this new wave of supply-side inflation.",
-      "Ultimately, an era of double-digit effective tariffs risks dismantling the multilateral trading system that has <span class=\"voc\">underpinned</span> global prosperity for half a century. As unilateral barriers replace rules-based cooperation, smaller nations must navigate a highly polarized economic landscape. For Singapore, survival in this fragmented environment will require relentless innovation, a deepening of regional trade agreements, and an agile shift toward higher-value services."
+      "Donald Trump has long desired a Federal Reserve chair who would obediently slash interest rates. In nominating Scott Bessent as Treasury Secretary, he may have found a proxy champion for his monetary ambitions. Bessent, a seasoned hedge-fund manager, has signaled an unconventional strategy: rather than relying on direct monetary levers, he aims to utilize verbal <span class=\"voc\">interventions</span> to talk long-term bond yields down, functioning as a <span class=\"voc\">de facto</span> market whispering voice.",
+      "Bessent’s economic blueprint relies on a combination of deregulation, domestic energy expansion, and fiscal <span class=\"voc\">consolidation</span>—dubbed \"the three arrows\" of his plan. He argues that by projecting a credible commitment to reducing America's federal deficit to 3% of GDP over the coming years, he can <span class=\"voc\">induce</span> bond <span class=\"voc\">vigilantes</span> to lower borrowing costs. This shadow monetary policy seeks to ease financial conditions for businesses and homebuyers without needing direct rate cuts from Jerome Powell.",
+      "However, this strategy faces severe skepticism from Wall Street. The bond market is not easily swayed by political promises, particularly when Trump’s broader agenda is highly inflationary. <span class=\"gem\">The prospect of <span class=\"voc\">sweeping</span> tariffs, massive tax cuts, and immigration <span class=\"voc\">curbs</span> threatens to push prices upward, forcing the Fed to keep interest rates elevated.</span> Bond yields have already marched steadily higher, reflecting deep anxieties about expanding fiscal deficits.",
+      "To make matters more complicated, any attempt to talk yields down without concrete, painful spending cuts will likely be interpreted by investors as mere political theater. Modern bond markets demand hard structural discipline over rhetorical <span class=\"voc\">flourishes</span>. If Bessent tries to <span class=\"voc\">strongarm</span> the market through optimistic projections alone, he risks losing credibility, which could trigger a sharper sell-off in US Treasuries.",
+      "Ultimately, Bessent's appointment represents a high-stakes gamble on market psychology. Trump may believe he has found a Treasury chief capable of executing monetary magic from the sidelines. <span class=\"gem\">But the hard reality of macroeconomic arithmetic suggests that verbal persuasion cannot substitute for structural policy consistency.</span> The global bond market, stubborn and unyielding, remains the ultimate <span class=\"voc\">arbiter</span> of America's fiscal destiny."
     ],
-    "cn": "随着唐纳德·特朗普拟议的贸易政策笼罩全球市场，经济学家们正争分夺秒地量化关税提高所带来的最终损害。由于美国的全球实际关税率可能飙升至历史性的10.0%，其影响将远远超出华盛顿的范围。对于像新加坡这样高度开放、依赖贸易的经济体而言，全球商业流动的任何中断都像是一场经济余震，威胁着供应链的稳定并全面推高进口成本。\n\n现代保护主义的机制具有欺骗性；虽然它承诺保护国内制造商，但往往会引发贸易伙伴的报复性关税。这种针锋相对的升级威胁到几十年优化而成的全球供应链面临分崩离析。习惯了无缝跨国物流的跨国公司，现在面临着重组生产网络的艰巨任务，这一过程既需要资本密集，又会带来高度通胀。\n\n在东南亚，后果是多方面的。虽然一些国家可能会因为企业转移制造基地以规避美国关税而获得短期意外收益，但全球整体需求的收缩势必会抑制增长。新加坡作为主要的金融和物流枢纽，使其特别容易受到总贸易量下滑的影响。当全球航运航线归于沉寂时，这座岛国的港口和海运服务几乎会立即感受到压力。\n\n此外，更高的关税对消费者而言相当于一种累退税。随着中间品变得更加昂贵，制造商不可避免地会将这些成本沿着价值链向下转嫁，最终导致零售价格高企。全球央行在经历了艰难的疫情后周期并刚刚将通胀控制住之后，可能会发现自己不得不更长时间地维持高利率，以应对这一新一轮的供给侧通胀。\n\n归根结底，双位数实际关税时代的到来，存在着拆毁支撑了半个世纪全球繁荣的多边贸易体系的风险。随着单边壁垒取代基于规则的合作，较小的国家必须在高度两极分化的经济版图中艰难前行。对于新加坡而言，在这一碎片化的环境中生存，将需要不懈的创新、加深区域贸易协定以及敏捷地向高价值服务转型。",
+    "cn": "唐纳德·特朗普长期以来一直渴望有一位能够乖乖降息的美联储主席。在提名斯科特·贝森特担任财政部长时，他可能为自己的货币野心找到了一个代理人。贝森特是一位经验丰富的对冲基金经理，他表现出了一种非传统的策略：不依赖直接的货币杠杆，而是旨在利用口头干预来劝说长期债券收益率下降，充当事实上的市场‘低语者’。\n\n贝森特的经济蓝图依赖于放松管制、国内能源扩张和财政紧缩的结合——这被称为他计划的“三支箭”。他认为，通过展现出在未来几年将美国联邦赤字缩减至GDP之3%的可靠承诺，他可以诱导‘债券卫士’降低借贷成本。这种影子货币政策旨在为企业和购房者缓解金融状况，而无需杰罗姆·鲍威尔领导的美联储进行直接降息。\n\n然而，这一策略面临着华尔街的严峻质疑。债券市场绝非易受政治承诺左右之辈，尤其是当特朗普更广泛的议程具有高度通胀性时。彻底关税、大规模减税和限制移民的前景威胁着将物价推高，迫使美联储维持高利率。债券收益率已经稳步攀升，反映出市场对财政赤字扩大的深度焦虑。\n\n更复杂的是，任何在没有具体、痛苦的开支削减的情况下试图劝低收益率的企图，都可能被投资者解读为纯粹的政治作秀。现代债券市场需要硬性的结构性纪律，而非辞藻的修饰。如果贝森特仅仅试图通过乐观的预测来强压市场，他将面临失去信誉的风险，这可能会引发美国国债更急剧的抛售。\n\n归根结底，贝森特的任命代表着对市场心理的一次高风险赌博。特朗普可能认为自己找到了一个能够在场外施展货币魔法的财政掌门人。但宏观经济算术的残酷现实表明，口头说服无法替代结构性政策的一致性。全球债券市场顽固而毫不妥协，依然是美国财政命运的最终仲裁者。",
     "vocab": [
       {
-        "w": "loom",
-        "ipa": "/luːm/",
-        "pos": "v.",
-        "mean": "隐约显现 / 逼近",
-        "def": "appear as a vague form, especially one that is large or threatening",
-        "ex": "As the deadline began to loom, the team worked overtime to complete the project."
-      },
-      {
-        "w": "quantify",
-        "ipa": "/ˈkwɒntɪfaɪ/",
-        "pos": "v.",
-        "mean": "量化",
-        "def": "express or measure the quantity of",
-        "ex": "It is difficult to quantify the exact benefits of this marketing campaign."
-      },
-      {
-        "w": "ramifications",
-        "ipa": "/ˌræmɪfɪˈkeɪʃnz/",
+        "w": "interventions",
+        "ipa": "/ˌɪn.təˈven.ʃənz/",
         "pos": "n.",
-        "mean": "后果 / 影响",
-        "def": "complex or unwelcome consequences of an action or event",
-        "ex": "We must carefully consider the political ramifications of our business decisions."
+        "cn": "干预",
+        "def": "actions taken to intentionally become involved in a difficult situation in order to improve it",
+        "ex": "The central bank's interventions failed to stabilize the falling currency."
       },
       {
-        "w": "reverberate",
-        "ipa": "/rɪˈvɜːbəreɪt/",
-        "pos": "v.",
-        "mean": "产生回响 / 持续影响",
-        "def": "have continuing serious effects or be repeated several times as an echo",
-        "ex": "The news of the merger will reverberate through the entire tech industry."
-      },
-      {
-        "w": "retaliatory",
-        "ipa": "/rɪˈtæliətəri/",
+        "w": "de facto",
+        "ipa": "/ˌdeɪ ˈfæk.təʊ/",
         "pos": "adj.",
-        "mean": "报复性的",
-        "def": "characterized by or of the nature of retaliation",
-        "ex": "The government threatened retaliatory measures if the trade sanctions were not lifted."
+        "cn": "事实上的",
+        "def": "existing in fact, whether with lawful authority or not",
+        "ex": "He quickly became the de facto leader of the project after the director left."
       },
       {
-        "w": "windfall",
-        "ipa": "/ˈwɪndfɔːl/",
+        "w": "consolidation",
+        "ipa": "/kənˌsɒl.ɪˈdeɪ.ʃən/",
         "pos": "n.",
-        "mean": "意外之财 / 意外收获",
-        "def": "a large amount of money or advantage that is won or received unexpectedly",
-        "ex": "The sudden surge in copper prices brought a massive windfall to the mining company."
+        "cn": "财政紧缩/巩固",
+        "def": "the action or process of making a financial position stronger or combining assets",
+        "ex": "Fiscal consolidation is necessary to restore long-term stability to the economy."
       },
       {
-        "w": "contraction",
-        "ipa": "/kənˈtrækʃn/",
-        "pos": "n.",
-        "mean": "收缩 / 缩减",
-        "def": "the process of becoming smaller",
-        "ex": "The central bank warned of a sharp economic contraction in the coming quarter."
-      },
-      {
-        "w": "regressive",
-        "ipa": "/rɪˈɡresɪv/",
-        "pos": "adj.",
-        "mean": "累退的",
-        "def": "taking a proportionally greater amount from those on lower incomes (of a tax)",
-        "ex": "The sales tax was criticized as regressive, disproportionately affecting poorer citizens."
-      },
-      {
-        "w": "invariably",
-        "ipa": "/ɪnˈveəriəbli/",
-        "pos": "adv.",
-        "mean": "总是 / 毫无例外地",
-        "def": "in every case or on every occasion; always",
-        "ex": "Her hard work invariably leads to excellent results in her projects."
-      },
-      {
-        "w": "underpinned",
-        "ipa": "/ˌʌndəˈpɪnd/",
+        "w": "induce",
+        "ipa": "/ɪnˈdjuːs/",
         "pos": "v.",
-        "mean": "巩固 / 支持",
-        "def": "support, justify, or form the basis for",
-        "ex": "The entire theory is underpinned by years of rigorous scientific research."
+        "cn": "诱导/导致",
+        "def": "to succeed in persuading or influencing someone to do something",
+        "ex": "The promise of lower taxes was intended to induce foreign investment."
+      },
+      {
+        "w": "vigilantes",
+        "ipa": "/ˌvɪdʒ.ɪˈlæn.tiz/",
+        "pos": "n.",
+        "cn": "维权者（此处特指抛售债券施压政府的‘债券卫士’）",
+        "def": "investors who express their displeasure with inflationary government policies by selling bonds",
+        "ex": "Bond vigilantes pushed yields higher to protest the government's excessive borrowing."
+      },
+      {
+        "w": "sweeping",
+        "ipa": "/ˈswiː.pɪŋ/",
+        "pos": "adj.",
+        "cn": "大刀阔斧的/彻底的",
+        "def": "wide-ranging; having major significance or great influence",
+        "ex": "The new administration announced sweeping reforms to the financial sector."
+      },
+      {
+        "w": "curbs",
+        "ipa": "/kɜːbz/",
+        "pos": "n.",
+        "cn": "限制/控制",
+        "def": "checks or restraints on something",
+        "ex": "The government introduced strict curbs on real estate speculation."
+      },
+      {
+        "w": "flourishes",
+        "ipa": "/ˈflʌr.ɪ.ʃɪz/",
+        "pos": "n.",
+        "cn": "华丽点缀/辞藻",
+        "def": "bold or extravagant gestures or rhetorical expressions",
+        "ex": "His speech was full of rhetorical flourishes but lacked practical solutions."
+      },
+      {
+        "w": "strongarm",
+        "ipa": "/ˌstrɒŋˈɑːm/",
+        "pos": "v.",
+        "cn": "强压/强迫",
+        "def": "to use force, pressure, or intimidation to make someone do something",
+        "ex": "The developer tried to strongarm local residents into selling their land."
+      },
+      {
+        "w": "arbiter",
+        "ipa": "/ˈɑː.bɪ.tər/",
+        "pos": "n.",
+        "cn": "决定者/仲裁者",
+        "def": "a person or institution that has the sole power to settle a dispute or decide an outcome",
+        "ex": "The market is the ultimate arbiter of whether a business model is successful."
       }
     ],
     "gems": [
       {
-        "s": "When global shipping lanes quiet down, the island's port and maritime services feel the pinch almost immediately.",
-        "why": "This sentence uses a vivid metaphor ('shipping lanes quiet down') alongside a common business idiom ('feel the pinch') to illustrate economic vulnerability with sensory detail. | 这句话使用了生动的隐喻（'航运航线归于沉寂'）以及常见的商业习语（'感受到经济压力/手头吃紧'），通过感官细节阐明了经济的脆弱性。"
+        "s": "The prospect of sweeping tariffs, massive tax cuts, and immigration curbs threatens to push prices upward, forcing the Fed to keep interest rates elevated.",
+        "why": "This sentence uses a classic tripartite structure ('sweeping tariffs, massive tax cuts, and immigration curbs') to build an analytical cause-and-effect argument, making it highly persuasive. 三重并列结构增强了论证力量，能逻辑清晰地表达多重因素导致的因果关系。"
+      },
+      {
+        "s": "But the hard reality of macroeconomic arithmetic suggests that verbal persuasion cannot substitute for structural policy consistency.",
+        "why": "This sentence pairs abstract nouns ('verbal persuasion' vs. 'structural policy consistency') to deliver a sharp, authoritative conclusion. 使用精炼的抽象名词对比，使句意具备极高的商业分析深度与说服力。"
       }
     ]
   }
