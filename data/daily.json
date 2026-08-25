@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-24T03:38:53.769816+00:00",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T03:28:25.030426+00:00",
   "economist": {
     "headline": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
     "teaser": "Perhaps. But his effort to talk bond yields lower is likely to fail",
@@ -14,41 +14,57 @@
     ]
   },
   "st": {
-    "headline": "Partners Group exits bubble-tea brand Gong Cha after Bain buyout",
-    "teaser": "Partners Group in 2019 provided more than US$200 million to support TA Associates’ acquisition of Gong Cha.",
-    "url": "https://www.straitstimes.com/business/partners-group-exits-bubble-tea-brand-gong-cha-after-bain-buyout",
+    "headline": "Bitcoin rides debasement trade to 3-month high above US$80,000",
+    "teaser": "Bitcoin is back in favour after the US said it will step up its bond repurchases in a bid to bring long-term yields lower.",
+    "url": "https://www.straitstimes.com/business/bitcoin-rides-debasement-trade-to-3-month-high-above-us80000",
     "fullText": [
-      "Partners Group will exit its private credit investment in Gong Cha after Bain Capital bought the Taiwanese bubble-tea brand from TA Associates in August.",
-      "The Swiss-based private asset manager said it has entered an agreement to be fully repaid, according to a document seen by Bloomberg.",
-      "Partners Group in 2019 had provided a financing package of more than US$200 million (S$254 million) to support TA Associates’ acquisition of Gong Cha and also took a minority equity stake.",
-      "The returns on the investment were not disclosed.",
-      "While private credit is growing in Asia Pacific, the region that still makes up only a small portion of the global US$1.8 trillion market.",
-      "Its immediate outlook also faces a number of challenges. Economic uncertainty, geopolitical tensions, and elevated interest rates are set to slow growth in private credit fundraising in the region as investors become more wary of illiquid assets, Moody’s Ratings said in a report in July.",
-      "While exiting its Gong Cha position, Partners Group is seeking further investment opportunities in Asia, as its customers look to diversify away from the US, global head of private debt Andrew Bellis said in an interview recently.",
-      "The asset manager has already deployed several billion dollars in Asia across more than 50 private credit investments over the past 15 years, with most of those in the past five to seven years, he said.",
-      "“What we’re seeing is more clients looking to make dedicated allocations to Asia private credit,” Bellis said.",
-      "Partners Group recently closed a US$1 billion private credit mandate with a major institutional investor in Asia, including a discretionary tranche that it will manage as well as co-investment capital, it announced. The company currently oversees about $6 billion in private credit assets in the region.",
-      "Partners currently favours high-performing, defensive or less cyclical companies, and is steering away from some of the hottest areas of Asian financing, Bellis said.",
-      "Datacentre and GPU financing – which refers to financing to enable companies to acquire advanced technology – is less of a focus, he said, with Partners Group instead targeting “real economy” businesses.",
-      "Recent investments have included education and corporate services companies. BLOOMBERG"
+      "Bitcoin climbed to US$80,000 for the first time since mid-May, as optimism returns to the long-beaten-down crypto market amid a confluence of bullish signals that forced the liquidation of billions in leveraged bets.",
+      "The original cryptocurrency climbed as much as 2.5 per cent to US$80,908 on Aug 25 in Asia, a level last seen on May 15.",
+      "The increase comes after Bitcoin rallied 23 per cent in the seven days through Aug 23, the biggest weekly jump in about three years.",
+      "Still, the token remains well below its peak of about US$126,000 reached in October.",
+      "Bitcoin is back in favour as chatter about the debasement trade was renewed by US Treasury Secretary Scott Bessent’s announcement last week that the US will step up its bond repurchases in a bid to bring long-term yields lower, sparking a new round of dollar selling.",
+      "Sceptics viewed the plan as further evidence the Trump administration is not yet ready to do the hard work of reducing the budget deficit.",
+      "Bitcoin was originally created as way to escape fiat currency debasement and inflation driven by central bank money creation.",
+      "“The macro backdrop turned more supportive after the Treasury’s expanded long-dated buyback plan helped weaken the dollar and revive the ‘debasement trade’ across Bitcoin and gold,” said Lacie Zhang, a research analyst at Bitget Wallet.",
+      "Spot Bitcoin exchange-traded funds had their strongest weekly inflow in 10 months last week as the token surged.",
+      "The 13 US-listed funds drew in a net US$1.92 billion, the most since early October 2025, according to data compiled by Bloomberg.",
+      "The funds also posted their biggest single day of inflows in over three months, pulling in US$606.3 million on Aug 20.",
+      "The crypto market got an added boost the day of Bessent’s announcement with a meeting between US President Donald Trump and industry leaders.",
+      "The meeting revived optimism around the administration’s commitment to crypto.",
+      "Legislative momentum had slowed recently after the Clarity Act, a market structure bill , failed to make it to a vote before the Senate’s August recess.",
+      "Trump urged the chamber to pass the bill, and it is expected to be taken up again in mid-September.",
+      "The subsequent surge in Bitcoin’s price caught many traders off guard. About US$7.2 billion in leveraged bearish bets across all cryptoassets were liquidated last week, according to Coinglass data.",
+      "Crypto traders have been hunting for a market bottom for months. Bitcoin has been falling for much of 2026, following a selloff in October 2025 that came just after the token hit its all-time high.",
+      "Still, scepticism remains. Analysts have pointed to the short squeeze as the main driver of rising prices, suggesting demand may not be sustained. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing",
-    "teaser": "Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing",
-    "url": "https://www.channelnewsasia.com/business/shein-pay-up-35-billion-select-pre-ipo-investors-around-hong-kong-listing-6336936",
+    "headline": "Stocks stagger and oil rises as traders eye Iran threat, Nvidia results",
+    "teaser": "Stocks stagger and oil rises as traders eye Iran threat, Nvidia results",
+    "url": "https://www.channelnewsasia.com/business/stocks-stagger-and-oil-rises-traders-eye-iran-threat-nvidia-results-6339071",
     "fullText": [
-      "HONG KONG, Aug 24 : Online fast-fashion retailer Shein will pay up to $3.5 billion to selected existing investors — almost twice the fresh capital it is seeking in an IPO — to help compensate them for a sharp slide in its valuation, its prospectus showed on Monday.",
-      "The investors entitled to the payments in cash and extra shares include entities linked to Boyu Capital, Tiger Global, General Atlantic, Thrive Capital, Mubadala, Brookfield and others, the filings showed.",
-      "They hold Shein's late-stage funding shares — Series pre-D, Series D and Series D plus preferred — which carry protections triggered by an IPO below the prices paid in earlier funding rounds.",
-      "The broader group of preferred shareholders also includes Sanabil Private Equity, Coatue, D1 Capital, DST Asia, Reliance Retail, Coppel Capital, and Claure Group.",
-      "The payments are nearly double the up to HK$13.86 billion ($1.77 billion) that Shein aims to raise by selling about 280 million shares in its IPO, based on the top end of its indicated price range.",
-      "Shein's proposed IPO price of HK$47.60 to HK$49.50 per share would value the company at up to about $27 billion.",
-      "That is below the private valuations attached to the eligible funding rounds of $60.5 billion for the Series pre-D round in 2022, $98.2 billion for the Series D round later that year and $64 billion for the Series D plus round in 2023.",
-      "Shein said it could pay up to $2.2 billion in cash under the conversion adjustment protections, assuming the IPO is priced at the bottom of the range. It will also issue 19.6 million additional shares to eligible holders at no cost.",
-      "Separately, Shein also agreed to make about $1.33 billion in payments to holders of Series pre-D, D and D plus preferred shares.",
-      "That includes about $1.1 billion, payable in three instalments by March 31, June 30 and September 30. A further estimated $230.4 million, which accrues until the IPO closes, will be paid within 15 business days after IPO completion.",
-      "Shein said the payments will be funded from its own financial resources. Holders of Shein's older Series A, Series B, Series C and Series C plus preferred shares are not covered, the prospectus showed.",
+      "HONG KONG: Asian stocks fluctuated on Tuesday (Aug 25) while oil edged up as investors assess a US plan for the \"economic asphyxiation\" of Iran, while tech firms struggled following another down day on Wall Street and ahead of earnings from chip titan Nvidia.",
+      "With the war against Tehran now in its sixth month, Treasury Secretary Scott Bessent said the White House was declaring an \"economic D-Day\" on the Islamic republic and threatened to hit countries that trade with it.",
+      "The threat comes with talks to reopen the Strait of Hormuz stalled and neither side showing any sign of backing down - pushing oil prices up for most of August, which has in turn fanned long-term inflation fears and put pressure on bond markets.",
+      "\"Around the globe, our objective is to sever every economic lifeline that sustains this tyrannical regime until Tehran stands alone,\" Bessent told journalists Monday.",
+      "President Donald Trump was making phone calls to world leaders with requests to stop interactions with Tehran, Bessent said.",
+      "The Treasury Department said Iran's digital assets, technology, gold, aviation and shipping sectors would be targeted for sanctions.",
+      "Both main contracts fell more than two per cent Monday as Bessent's comments appeared to suggest the US will hold off military action, but they ticked higher in early Asian trade.",
+      "His \"increasingly aggressive economic campaign against Iran is designed to squeeze Tehran's access to the global financial system while keeping the pressure economic rather than allowing the market to immediately price another military escalation\", wrote Stephen Innes, global strategist at Quintex Intel.",
+      "\"For now, oil appears to have heard the message that way, which is doing Washington the considerable favour of taking some inflation pressure out of the system.\"",
+      "Still, equities struggled as tech firms once again bore the brunt of selling, tracking a retreat in their counterparts on Wall Street.",
+      "Tech-rich Seoul sank more than two per cent at one point as chipmakers SK hynix and Samsung retreated, while Hong Kong, Shanghai, Taipei and Manila were also off.",
+      "There were gains in Tokyo, Sydney, Singapore and Wellington.",
+      "The tepid performance comes ahead of much-anticipated earnings from Nvidia, which has become something of a bellwether for the AI boom.",
+      "With vast sums lavished on artificial intelligence investment over the past two years, markets are growing increasingly nervous about whether firms can deliver results to match.",
+      "And analysts have warned that even forecast-beating figures can sometimes not be enough.",
+      "Charu Chanana at Saxo Markets said: \"Investors are not simply asking whether Nvidia can deliver another strong quarter. They are asking whether it can deliver enough upside to justify already-high expectations, especially with bond yields elevated.\"",
+      "Eyes will also be on other tech names' releases, including Salesforce and Marvell.",
+      "Also in focus is this week's annual gathering of central bankers, economists and finance chiefs in Jackson Hole, Wyoming, where the Federal Reserve's boss Kevin Warsh is due to speak.",
+      "His comments will be parsed for clues about monetary policy with inflation still stubbornly high and after Bessent said the Treasury would buy back more of its own bonds to push down borrowing costs after the 30-year yield surged to a 19-year high.",
+      "The Canadian dollar edged slightly higher after retreating against the US dollar Monday as Trump vowed to double tariffs on vehicles from its neighbour, fanning a trade war.",
+      "The US president's threat comes after the two failed Friday to reach a deal to avert new 50-per cent US tariffs on select Canadian goods. The duties took effect Saturday, and Ottawa laid out plans for retaliation.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
@@ -59,263 +75,263 @@
   },
   "lifeVocab": [
     {
-      "en": "concourse",
-      "cn": "车站大厅",
-      "def": "The main open area in a station where ticketing and gates are located",
-      "ex": "Meet me at the station concourse near the passenger service centre.",
-      "emoji": "🚉"
+      "en": "housebrand",
+      "cn": "自有品牌",
+      "def": "a product owned and branded by the supermarket itself, usually cheaper than major brands",
+      "ex": "I always buy the FairPrice housebrand rolled oats because they are much cheaper.",
+      "emoji": "🏷️"
     },
     {
-      "en": "gantry",
-      "cn": "闸机",
-      "def": "The automated fare gates where you tap your travel card",
-      "ex": "Remember to tap your EZ-Link card at the gantry when you exit.",
-      "emoji": "💳"
+      "en": "trolley",
+      "cn": "手推车",
+      "def": "a large metal basket on wheels used for carrying groceries in a supermarket",
+      "ex": "Please return the trolley to the designated bay after unloading your groceries.",
+      "emoji": "🛒"
     },
     {
-      "en": "interchange",
-      "cn": "换乘站",
-      "def": "A transit station where passengers can change transport lines",
-      "ex": "Dhoby Ghaut is a busy interchange connecting three MRT lines.",
-      "emoji": "🔄"
+      "en": "queuing",
+      "cn": "排队",
+      "def": "waiting in a line of people, often at a checkout counter",
+      "ex": "During peak hours, queuing at the supermarket checkout can take up to fifteen minutes.",
+      "emoji": "🧍"
     },
     {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "A person who travels some distance to work on a regular basis",
-      "ex": "The morning trains are always packed with office commuters.",
-      "emoji": "🧑‍💼"
+      "en": "self-checkout",
+      "cn": "自助结账",
+      "def": "a machine that allows customers to scan and pay for their groceries themselves",
+      "ex": "If you are only buying a few items, using the self-checkout kiosk is much faster.",
+      "emoji": "🤖"
     },
     {
-      "en": "berth",
-      "cn": "站台/停靠位",
-      "def": "A designated parking or stopping space for buses at an interchange",
-      "ex": "Please wait at Berth 4 for bus service 190.",
-      "emoji": "🚌"
+      "en": "reusable bag",
+      "cn": "环保袋",
+      "def": "a durable bag designed to be used many times for carrying groceries",
+      "ex": "Don't forget to bring your reusable bag to avoid paying the plastic bag charge.",
+      "emoji": "🛍️"
     },
     {
-      "en": "congested",
-      "cn": "拥挤的",
-      "def": "Extremely crowded or blocked with traffic or people",
-      "ex": "The East-West Line gets highly congested during peak hours.",
-      "emoji": "👥"
+      "en": "expiry date",
+      "cn": "保质期 / 到期日",
+      "def": "the date after which a food product should not be sold or consumed",
+      "ex": "Always check the expiry date on the milk carton before buying it.",
+      "emoji": "📅"
     },
     {
-      "en": "disruption",
-      "cn": "运行中断",
-      "def": "An interruption in the normal progress or flow of a service",
-      "ex": "SMRT apologized for the signal fault that caused a 20-minute disruption.",
-      "emoji": "⚠️"
+      "en": "perishables",
+      "cn": "易腐烂的食物",
+      "def": "food items that decay quickly, such as fresh meat, seafood, and vegetables",
+      "ex": "Put the perishables into the refrigerator as soon as you get home.",
+      "emoji": "🥩"
     },
     {
-      "en": "feeder bus",
-      "cn": "支线巴士",
-      "def": "A local bus service that brings passengers from residential areas to a nearby transport hub",
-      "ex": "I take a feeder bus from my HDB block to the MRT station.",
-      "emoji": "🚌"
+      "en": "aisle",
+      "cn": "通道 / 走道",
+      "def": "a passage between shelves of goods in a supermarket",
+      "ex": "Can you tell me which aisle the condiments and soy sauce are in?",
+      "emoji": "🚶"
     },
     {
-      "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "Safety glass doors that separate the platform from the train tracks",
-      "ex": "Stand behind the yellow line before the platform screen doors open.",
-      "emoji": "🚪"
+      "en": "barcode",
+      "cn": "条形码",
+      "def": "a series of printed black lines on a product that is scanned to show the price",
+      "ex": "The cashier had trouble scanning the barcode because the packaging was wrinkled.",
+      "emoji": "📊"
     },
     {
-      "en": "tap in / tap out",
-      "cn": "刷卡进站/出站",
-      "def": "To place a smart card on a reader to pay for transit entry or exit",
-      "ex": "Make sure you tap out properly to avoid being overcharged.",
-      "emoji": "📲"
+      "en": "receipt",
+      "cn": "收据 / 发票",
+      "def": "a piece of paper showing that goods have been paid for",
+      "ex": "Hold on to your receipt in case you need to do a product exchange later.",
+      "emoji": "🧾"
     }
   ],
   "levelVocab": [
     {
-      "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "w": "advocate",
+      "ipa": "/ˈædvəkeɪt/",
       "pos": "v.",
-      "cn": "传播/散播",
-      "def": "to spread information, knowledge, or ideas widely",
-      "ex": "The HR department will disseminate the new remote-work policy by Friday."
+      "cn": "主张；拥护；提倡",
+      "def": "to publicly support or suggest an idea, development, or way of doing something",
+      "ex": "Our regional director plans to advocate for more flexible remote-work policies during the annual meeting."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsemɪneɪt/",
+      "pos": "v.",
+      "cn": "散播；传播；宣传",
+      "def": "to spread or give out something, especially information, widely",
+      "ex": "The HR department will disseminate the updated code of conduct via email tomorrow morning."
+    },
+    {
+      "w": "equivocal",
+      "ipa": "/ɪˈkwɪvəkəl/",
+      "pos": "adj.",
+      "cn": "含糊其辞的；模棱两可的",
+      "def": "not clear and seeming to have two or more possible meanings",
+      "ex": "The client gave an equivocal response regarding whether they would renew the contract."
     },
     {
       "w": "imperative",
-      "ipa": "/ɪmˈper.ə.tɪv/",
+      "ipa": "/ɪmˈperətɪv/",
       "pos": "adj.",
-      "cn": "极重要的/迫切的",
-      "def": "extremely important or urgent; needing immediate attention",
-      "ex": "It is imperative that we complete the financial audit before the board meeting."
-    },
-    {
-      "w": "ubiquitous",
-      "ipa": "/juːˈbɪk.wɪ.təs/",
-      "pos": "adj.",
-      "cn": "无处不在的",
-      "def": "seeming to be everywhere or in several places at the same time",
-      "ex": "Mobile payment apps have become ubiquitous in modern retail."
-    },
-    {
-      "w": "reconcile",
-      "ipa": "/ˈrek.ən.saɪl/",
-      "pos": "v.",
-      "cn": "调和/一致",
-      "def": "to find a way in which two opposing situations or beliefs can agree and exist together",
-      "ex": "It is difficult to reconcile his demanding career with his family life."
-    },
-    {
-      "w": "transient",
-      "ipa": "/ˈtræn.zi.ənt/",
-      "pos": "adj.",
-      "cn": "短暂的/转瞬即逝的",
-      "def": "lasting only for a short time; temporary",
-      "ex": "The economic downturn was transient, with recovery beginning in the third quarter."
-    },
-    {
-      "w": "contingency",
-      "ipa": "/kənˈtɪn.dʒən.si/",
-      "pos": "n.",
-      "cn": "应急预案/意外事故",
-      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "Our team has created a contingency plan in case the main server fails."
-    },
-    {
-      "w": "obviate",
-      "ipa": "/ˈɒb.vi.eɪt/",
-      "pos": "v.",
-      "cn": "排除/免除",
-      "def": "to remove a difficulty, problem, or the need for something",
-      "ex": "The new automation software will obviate the need for manual data entry."
-    },
-    {
-      "w": "precursor",
-      "ipa": "/priːˈkɜː.sər/",
-      "pos": "n.",
-      "cn": "前兆/先驱",
-      "def": "something that happened or existed before another thing, especially if it caused it or influenced it",
-      "ex": "A sudden rise in customer complaints is often a precursor to a drop in sales."
-    },
-    {
-      "w": "disparate",
-      "ipa": "/ˈdɪs.pər.ət/",
-      "pos": "adj.",
-      "cn": "迥然不同的",
-      "def": "essentially different in kind; not allowing comparison",
-      "ex": "The merger brought together two highly disparate corporate cultures."
+      "cn": "至关重要的；迫切的",
+      "def": "extremely important or urgent",
+      "ex": "It is imperative that we patch this software security vulnerability before launching the app."
     },
     {
       "w": "foster",
-      "ipa": "/ˈfɒs.tər/",
+      "ipa": "/ˈfɒstər/",
       "pos": "v.",
-      "cn": "促进/培养",
-      "def": "to encourage or promote the development of something",
-      "ex": "The manager tried to foster a spirit of collaboration among team members."
+      "cn": "促进；培养；鼓励",
+      "def": "to encourage the development or growth of ideas or feelings",
+      "ex": "The team building retreat was organized to foster better communication between the engineering and marketing teams."
+    },
+    {
+      "w": "precipitate",
+      "ipa": "/prɪˈsɪpɪteɪt/",
+      "pos": "v.",
+      "cn": "加速；促成",
+      "def": "to make something happen suddenly or sooner than expected",
+      "ex": "The sudden exit of our lead developer could precipitate a delay in the product launch."
+    },
+    {
+      "w": "spearhead",
+      "ipa": "/ˈspɪəhed/",
+      "pos": "v.",
+      "cn": "带头；当先锋",
+      "def": "to lead a charge, campaign, or undertaking",
+      "ex": "She was chosen to spearhead the company's expansion into the Indonesian market."
+    },
+    {
+      "w": "unilateral",
+      "ipa": "/ˌjuːnɪˈlætərəl/",
+      "pos": "adj.",
+      "cn": "单方面的；单边的",
+      "def": "action taken by only one person, group, or country involved in a situation",
+      "ex": "The manager made a unilateral decision to cancel the project without consulting the engineering team."
+    },
+    {
+      "w": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
+      "pos": "v.",
+      "cn": "和解；调和",
+      "def": "to find a way in which two opposing situations or beliefs can agree and exist together",
+      "ex": "It is difficult to reconcile the high cost of the new offices with the firm's cost-cutting targets."
+    },
+    {
+      "w": "deviate",
+      "ipa": "/ˈdiːvieɪt/",
+      "pos": "v.",
+      "cn": "偏离；背离",
+      "def": "to do something that is different from the usual or common way of behaving",
+      "ex": "We must not deviate from the approved budget unless we receive written consent from the executive board."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's New Digital Identity Measures to Combat Scams",
-    "transcript": "As digital banking scams continue to rise in Singapore, major banks are introducing stricter <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌbaɪ.əʊˈmet.rɪk/ (adj.) relating to the measurement and analysis of people's unique physical characteristics — 生物特征的\">biometric</span> verification steps for high-risk transactions. Starting next month, customers transferring large sums of money will have to use facial scanning technology. While some senior citizens might find this shift challenging, authorities emphasize that these measures are vital to protect personal savings. The Monetary Authority of Singapore hopes this will significantly reduce <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ʌnˈɔː.θər.aɪzd/ (adj.) without official permission or approval — 未经授权的\">unauthorized</span> fund transfers."
+    "title": "Singapore's Green Transition in Public Housing",
+    "transcript": "To <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəmˈbæt/ (v.) to take action to reduce or prevent something bad — 打击/应对\">combat</span> rising urban heat, Singapore's Housing and Development Board is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈtraɪəlɪŋ/ (v.) testing something to see how well it works — 试用/试验\">trialing</span> cool paint on dozens of HDB blocks. This innovative coating absorbs less solar radiation, effectively lowering indoor temperatures for residents. If successful, the initiative will be rolled out nationwide, marking a significant <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈmaɪlstəʊn/ (n.) an important stage or event in the development of something — 里程碑\">milestone</span> in Singapore's climate action plan."
   },
   "economistArticle": {
-    "title": "The Limits of Sweet-Talk: Scott Bessent and the Bond Markets",
+    "title": "Talking Down the Bond Market: Why Scott Bessent's Fed Strategy May Fall Short",
     "paras": [
-      "Donald Trump has long desired a Federal Reserve chair who would obediently slash interest rates. In nominating Scott Bessent as Treasury Secretary, he may have found a proxy champion for his monetary ambitions. Bessent, a seasoned hedge-fund manager, has signaled an unconventional strategy: rather than relying on direct monetary levers, he aims to utilize verbal <span class=\"voc\">interventions</span> to talk long-term bond yields down, functioning as a <span class=\"voc\">de facto</span> market whispering voice.",
-      "Bessent’s economic blueprint relies on a combination of deregulation, domestic energy expansion, and fiscal <span class=\"voc\">consolidation</span>—dubbed \"the three arrows\" of his plan. He argues that by projecting a credible commitment to reducing America's federal deficit to 3% of GDP over the coming years, he can <span class=\"voc\">induce</span> bond <span class=\"voc\">vigilantes</span> to lower borrowing costs. This shadow monetary policy seeks to ease financial conditions for businesses and homebuyers without needing direct rate cuts from Jerome Powell.",
-      "However, this strategy faces severe skepticism from Wall Street. The bond market is not easily swayed by political promises, particularly when Trump’s broader agenda is highly inflationary. <span class=\"gem\">The prospect of <span class=\"voc\">sweeping</span> tariffs, massive tax cuts, and immigration <span class=\"voc\">curbs</span> threatens to push prices upward, forcing the Fed to keep interest rates elevated.</span> Bond yields have already marched steadily higher, reflecting deep anxieties about expanding fiscal deficits.",
-      "To make matters more complicated, any attempt to talk yields down without concrete, painful spending cuts will likely be interpreted by investors as mere political theater. Modern bond markets demand hard structural discipline over rhetorical <span class=\"voc\">flourishes</span>. If Bessent tries to <span class=\"voc\">strongarm</span> the market through optimistic projections alone, he risks losing credibility, which could trigger a sharper sell-off in US Treasuries.",
-      "Ultimately, Bessent's appointment represents a high-stakes gamble on market psychology. Trump may believe he has found a Treasury chief capable of executing monetary magic from the sidelines. <span class=\"gem\">But the hard reality of macroeconomic arithmetic suggests that verbal persuasion cannot substitute for structural policy consistency.</span> The global bond market, stubborn and unyielding, remains the ultimate <span class=\"voc\">arbiter</span> of America's fiscal destiny."
+      "Scott Bessent's <span class=\"voc\">nomination</span> as US Treasury Secretary has sparked intense debate on Wall Street about his potential influence over monetary policy. Donald Trump's long-standing frustration with the Federal Reserve's independence is well-documented. Bessent, a seasoned hedge-fund manager, is seen by some as a compromise figure who can bridge the <span class=\"voc\">populist</span> impulses of the White House and the orthodox expectations of global financial markets.",
+      "The core of the current <span class=\"voc\">skepticism</span> revolves around Bessent's suggested strategy of \"talking bond yields down.\" <span class=\"gem\">Historically, Treasury secretaries have respected the Fed's <span class=\"voc\">autonomy</span>, avoiding direct commentary on interest rates.</span> Bessent, however, seems poised to use his <span class=\"voc\">rhetorical</span> clout to influence bond markets directly, attempting to lower long-term borrowing costs without relying solely on Fed rate cuts.",
+      "This unorthodox approach faces steep <span class=\"voc\">hurdles</span>. Bond markets are notoriously cold-blooded, driven by hard macroeconomic data rather than mere verbal assurances. With US national debt soaring and inflation threats lingering, bond <span class=\"voc\">vigilantes</span> are unlikely to be swayed by optimistic pronouncements. Any attempt to artificially suppress yields through rhetoric could backfire, raising suspicions of political interference and sparking a sell-off instead.",
+      "Furthermore, Bessent's dual role as a market-savvy investor and a political appointee creates a delicate balancing act. While Trump may view him as a tool to bypass traditional Fed channels, the institutional <span class=\"voc\">resilience</span> of the central bank remains formidable. Jerome Powell has repeatedly asserted the Fed's apolitical stance, setting the stage for a potential tug-of-war over economic signaling.",
+      "Ultimately, the success of Bessent's <span class=\"voc\">tenure</span> will be judged not by his rhetorical <span class=\"voc\">finesse</span>, but by tangible fiscal discipline. If the incoming administration pursues aggressive tariff policies and unfunded tax cuts, bond yields will inevitably rise, regardless of how persuasively Bessent speaks. <span class=\"gem\">In the unforgiving arena of global finance, concrete economic reality always triumphs over political theater.</span>"
     ],
-    "cn": "唐纳德·特朗普长期以来一直渴望有一位能够乖乖降息的美联储主席。在提名斯科特·贝森特担任财政部长时，他可能为自己的货币野心找到了一个代理人。贝森特是一位经验丰富的对冲基金经理，他表现出了一种非传统的策略：不依赖直接的货币杠杆，而是旨在利用口头干预来劝说长期债券收益率下降，充当事实上的市场‘低语者’。\n\n贝森特的经济蓝图依赖于放松管制、国内能源扩张和财政紧缩的结合——这被称为他计划的“三支箭”。他认为，通过展现出在未来几年将美国联邦赤字缩减至GDP之3%的可靠承诺，他可以诱导‘债券卫士’降低借贷成本。这种影子货币政策旨在为企业和购房者缓解金融状况，而无需杰罗姆·鲍威尔领导的美联储进行直接降息。\n\n然而，这一策略面临着华尔街的严峻质疑。债券市场绝非易受政治承诺左右之辈，尤其是当特朗普更广泛的议程具有高度通胀性时。彻底关税、大规模减税和限制移民的前景威胁着将物价推高，迫使美联储维持高利率。债券收益率已经稳步攀升，反映出市场对财政赤字扩大的深度焦虑。\n\n更复杂的是，任何在没有具体、痛苦的开支削减的情况下试图劝低收益率的企图，都可能被投资者解读为纯粹的政治作秀。现代债券市场需要硬性的结构性纪律，而非辞藻的修饰。如果贝森特仅仅试图通过乐观的预测来强压市场，他将面临失去信誉的风险，这可能会引发美国国债更急剧的抛售。\n\n归根结底，贝森特的任命代表着对市场心理的一次高风险赌博。特朗普可能认为自己找到了一个能够在场外施展货币魔法的财政掌门人。但宏观经济算术的残酷现实表明，口头说服无法替代结构性政策的一致性。全球债券市场顽固而毫不妥协，依然是美国财政命运的最终仲裁者。",
+    "cn": "斯科特·贝森特（Scott Bessent）被提名为美国财政部长，在华尔街引发了关于其对货币政策潜在影响的激烈辩论。唐纳德·特朗普对美联储独立性的长期不满是众所周知的。作为一名经验丰富的对冲基金经理，贝森特被一些人视为一个折中人物，能够架起白宫民粹主义冲动与全球金融市场正统预期之间的桥梁。当前怀疑的核心围绕着贝森特提出的“通过舆论压低国债收益率”的策略。从历史上看，财政部长一直尊重美联储的自主权，避免直接对利率发表评论。然而，贝森特似乎准备利用他的舆论影响力直接影响债券市场，试图在不完全依赖美联储降息的情况下降低长期借贷成本。这种非传统的方法面临着巨大的障碍。债券市场是出了名的冷酷无情，由硬性的宏观经济数据驱动，而非仅仅依靠口头保证。随着美国国债飙升和通胀威胁依然存在，债券卫士（bond vigilantes）不太可能被乐观的声明所动摇。任何试图通过舆论人为压低收益率的企图都可能适得其反，引发政治干预的怀疑，并转而引发抛售。此外，贝森特作为市场精明投资者和政治任命官员的双重身份，创造了一场微妙的平衡戏。尽管特朗普可能将他视为绕过传统美联储渠道的工具，但央行的制度韧性依然强大。杰罗姆·鲍威尔一再强调美联储的非政治立场，为双方在经济信号上的潜在拉锯战奠定了基础。最终，贝森特任期的成功将取决于切实的财政纪律，而不是他的辞令技巧。如果新一届政府推行激进的关税政策和未提供资金支持的减税政策，无论贝森特的发言多么有说服力，债券收益率都将不可避免地上升。在全球金融这个无情的竞技场上，具体的经济现实总是战胜政治戏码。",
     "vocab": [
       {
-        "w": "interventions",
-        "ipa": "/ˌɪn.təˈven.ʃənz/",
+        "w": "nomination",
+        "ipa": "/ˌnɒm.ɪˈneɪ.ʃən/",
         "pos": "n.",
-        "cn": "干预",
-        "def": "actions taken to intentionally become involved in a difficult situation in order to improve it",
-        "ex": "The central bank's interventions failed to stabilize the falling currency."
+        "mean": "提名",
+        "def": "the act of officially suggesting someone for a job, position, or prize",
+        "ex": "His nomination for the post of Treasury Secretary was met with both praise and skepticism."
       },
       {
-        "w": "de facto",
-        "ipa": "/ˌdeɪ ˈfæk.təʊ/",
+        "w": "populist",
+        "ipa": "/ˈpɒp.jə.lɪst/",
         "pos": "adj.",
-        "cn": "事实上的",
-        "def": "existing in fact, whether with lawful authority or not",
-        "ex": "He quickly became the de facto leader of the project after the director left."
+        "mean": "民粹主义的",
+        "def": "representing or relating to the ideas and opinions of ordinary people",
+        "ex": "The candidate appealed to voters by adopting a populist economic message."
       },
       {
-        "w": "consolidation",
-        "ipa": "/kənˌsɒl.ɪˈdeɪ.ʃən/",
+        "w": "skepticism",
+        "ipa": "/ˈskep.tɪ.sɪ.zəm/",
         "pos": "n.",
-        "cn": "财政紧缩/巩固",
-        "def": "the action or process of making a financial position stronger or combining assets",
-        "ex": "Fiscal consolidation is necessary to restore long-term stability to the economy."
+        "mean": "怀疑态度",
+        "def": "an attitude of doubting that particular claims or statements are true or that something will happen",
+        "ex": "There is deep skepticism in the market about the government's ability to lower inflation quickly."
       },
       {
-        "w": "induce",
-        "ipa": "/ɪnˈdjuːs/",
-        "pos": "v.",
-        "cn": "诱导/导致",
-        "def": "to succeed in persuading or influencing someone to do something",
-        "ex": "The promise of lower taxes was intended to induce foreign investment."
+        "w": "autonomy",
+        "ipa": "/ɔːˈtɒn.ə.mi/",
+        "pos": "n.",
+        "mean": "自治，自主权",
+        "def": "the right of an organization, country, or region to be independent and govern itself",
+        "ex": "The central bank fought hard to maintain its regulatory autonomy from the ruling party."
+      },
+      {
+        "w": "rhetorical",
+        "ipa": "/rɪˈtɒr.ɪ.kəl/",
+        "pos": "adj.",
+        "mean": "修辞的，言辞上的",
+        "def": "relating to the style of speaking or writing, especially to persuade people",
+        "ex": "The minister's speech was full of rhetorical flourishes but short on actual policy solutions."
+      },
+      {
+        "w": "hurdles",
+        "ipa": "/ˈhɜː.dəlz/",
+        "pos": "n.",
+        "mean": "障碍，困难",
+        "def": "problems or difficulties that must be dealt with before you can achieve something",
+        "ex": "The new trade agreement faces major hurdles in the Senate before it can be ratified."
       },
       {
         "w": "vigilantes",
         "ipa": "/ˌvɪdʒ.ɪˈlæn.tiz/",
         "pos": "n.",
-        "cn": "维权者（此处特指抛售债券施压政府的‘债券卫士’）",
-        "def": "investors who express their displeasure with inflationary government policies by selling bonds",
-        "ex": "Bond vigilantes pushed yields higher to protest the government's excessive borrowing."
+        "mean": "维和者（此处特指“债券卫士”）",
+        "def": "investors who protest against fiscal policies by selling bonds, driving yields up",
+        "ex": "If the budget deficit widens further, bond vigilantes might drive borrowing costs higher."
       },
       {
-        "w": "sweeping",
-        "ipa": "/ˈswiː.pɪŋ/",
-        "pos": "adj.",
-        "cn": "大刀阔斧的/彻底的",
-        "def": "wide-ranging; having major significance or great influence",
-        "ex": "The new administration announced sweeping reforms to the financial sector."
-      },
-      {
-        "w": "curbs",
-        "ipa": "/kɜːbz/",
+        "w": "resilience",
+        "ipa": "/rɪˈzɪl.jəns/",
         "pos": "n.",
-        "cn": "限制/控制",
-        "def": "checks or restraints on something",
-        "ex": "The government introduced strict curbs on real estate speculation."
+        "mean": "恢复力，韧性",
+        "def": "the ability to be happy, successful, or strong again after something difficult or bad has happened",
+        "ex": "The economy showed great resilience despite successive interest rate hikes."
       },
       {
-        "w": "flourishes",
-        "ipa": "/ˈflʌr.ɪ.ʃɪz/",
+        "w": "tenure",
+        "ipa": "/ˈten.jər/",
         "pos": "n.",
-        "cn": "华丽点缀/辞藻",
-        "def": "bold or extravagant gestures or rhetorical expressions",
-        "ex": "His speech was full of rhetorical flourishes but lacked practical solutions."
+        "mean": "任期",
+        "def": "the period of time during which someone holds an important job",
+        "ex": "During his tenure as director, the company's stock price doubled."
       },
       {
-        "w": "strongarm",
-        "ipa": "/ˌstrɒŋˈɑːm/",
-        "pos": "v.",
-        "cn": "强压/强迫",
-        "def": "to use force, pressure, or intimidation to make someone do something",
-        "ex": "The developer tried to strongarm local residents into selling their land."
-      },
-      {
-        "w": "arbiter",
-        "ipa": "/ˈɑː.bɪ.tər/",
+        "w": "finesse",
+        "ipa": "/fɪˈnes/",
         "pos": "n.",
-        "cn": "决定者/仲裁者",
-        "def": "a person or institution that has the sole power to settle a dispute or decide an outcome",
-        "ex": "The market is the ultimate arbiter of whether a business model is successful."
+        "mean": "手腕，技巧",
+        "def": "great skill or style in dealing with people or situations",
+        "ex": "She handled the delicate diplomatic situation with admirable financial and political finesse."
       }
     ],
     "gems": [
       {
-        "s": "The prospect of sweeping tariffs, massive tax cuts, and immigration curbs threatens to push prices upward, forcing the Fed to keep interest rates elevated.",
-        "why": "This sentence uses a classic tripartite structure ('sweeping tariffs, massive tax cuts, and immigration curbs') to build an analytical cause-and-effect argument, making it highly persuasive. 三重并列结构增强了论证力量，能逻辑清晰地表达多重因素导致的因果关系。"
+        "s": "Historically, Treasury secretaries have respected the Fed's autonomy, avoiding direct commentary on interest rates.",
+        "why": "This sentence uses a clear adverbial opener ('Historically') followed by a past participle construction to establish a long-standing baseline, contrasting sharply with the subject's new approach. This creates historical context and tension. / 这句话使用了一个清晰的副词开篇（Historically），随后用现在分词结构（avoiding...）来建立长期的基线，与主角的新方法形成鲜明对比，营造了历史背景和张力。"
       },
       {
-        "s": "But the hard reality of macroeconomic arithmetic suggests that verbal persuasion cannot substitute for structural policy consistency.",
-        "why": "This sentence pairs abstract nouns ('verbal persuasion' vs. 'structural policy consistency') to deliver a sharp, authoritative conclusion. 使用精炼的抽象名词对比，使句意具备极高的商业分析深度与说服力。"
+        "s": "In the unforgiving arena of global finance, concrete economic reality always triumphs over political theater.",
+        "why": "This sentence employs a vivid metaphor ('unforgiving arena') and personifies 'economic reality' triumphing over 'political theater,' creating a memorable, dramatic concluding statement. / 这句话运用了生动的比喻（'unforgiving arena' 无情的竞技场），并将'经济现实'与'政治戏码'拟人化地对比，创造了一个令人难忘且富有戏剧性的结论句。"
       }
     ]
   }
