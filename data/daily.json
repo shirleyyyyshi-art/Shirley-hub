@@ -1,61 +1,70 @@
 {
-  "date": "2026-08-26",
-  "generatedAt": "2026-08-26T03:40:00.594551+00:00",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T06:22:19.275604+00:00",
   "economist": {
-    "headline": "What makes a great investor?",
-    "teaser": "A big dose of luck, and a distinctly odd character",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
+    "headline": "The economic costs of Donald Trump’s immigration crackdown",
+    "teaser": "A smaller workforce and slower growth",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
     "vocab": [
       {
-        "word": "investor",
-        "phonetic": "/ɪnˈvɛstɚ/",
-        "def": "A person who invests money in order to make a profit."
+        "word": "economic",
+        "phonetic": "/ˌiːkəˈnɒmɪk/",
+        "def": "Pertaining to an economy."
       },
       {
-        "word": "distinctly",
-        "phonetic": "/dɪsˈtɪŋktli/",
-        "def": "In a distinct manner."
+        "word": "immigration",
+        "phonetic": "/ɪmɪˈɡɹeɪʃn/",
+        "def": "The act of immigrating; the passing or coming into a country of which one is not native born for the purpose of permanent residence."
       }
     ]
   },
   "st": {
-    "headline": "Asian stocks edge higher as oil drops on fresh Mid-East hopes",
-    "teaser": "Asian stocks edge higher as oil drops on fresh Mid-East hopes",
-    "url": "https://www.straitstimes.com/business/asian-stocks-edge-higher-as-oil-drops-on-fresh-mid-east-hopes",
+    "headline": "Hours after retrenchment: How to stretch your dollar and avoid cash flow issues",
+    "teaser": "The NTUC PME and MoneyOwl playbook aims to help workers strengthen their finances and plan ahead.",
+    "url": "https://www.straitstimes.com/business/hours-after-retrenchment-how-to-stretch-your-dollar-and-avoid-cash-flow-issues",
     "fullText": [
-      "HONG KONG - Asian stocks edged higher on Aug 26 as oil prices extended a decline on receding concerns about another military flare-up between the United States and Iran, while traders were also nervously awaiting Nvidia’s earnings and key US inflation data.",
-      "Both main crude contracts have tumbled more than 8 per cent this week as Tehran and Oman edge towards a deal to partially reopen the Strait of Hormuz , while signs of fresh diplomacy to end the Middle East crisis added to the upbeat mood.",
-      "While US Treasury Secretary Scott Bessent said the White House was declaring an “economic D-Day” against Iran and its trade partners, the measures were regarded as softer than many had feared.",
-      "BNZ’s Jason Wong wrote: “The move could reflect market sentiment that the latest US strategy, ‘Operation Economic Outcast’, aimed at severing Iran’s remaining financial lifelines, could bring Iran back to the negotiating table and help resolve the conflict.”",
-      "The comments came as key Pakistani mediators reported positive talks with Iran’s president on Aug 24.",
-      "Pakistan Interior Minister Mohsin Naqvi reported “a very positive and productive meeting”, saying on X he believes the “momentum will help pave the way for further progress and lasting peace in the region”.",
-      "Crude fell more than 2 per cent on Aug 26, with Brent back well below US$90 a barrel.",
-      "That has eased pressure on markets after last week’s spike fanned inflation fears and sent the yield on long-dated US Treasuries to their highest since 2007, just before the global financial crisis.",
-      "The cost of US borrowing easing and the prospect of more Middle East talks provided a much-needed boost to equities.",
-      "Tokyo, Hong Kong, Shanghai, Sydney, Seoul, Wellington and Taipei all rose, though Singapore and Manila fell.",
-      "However, analysts said the simmering US-Canada trade row was causing some uncertainty, while the big event on the agenda this week is Nvidia’s second-quarter earnings on Aug 26.",
-      "The chipmaking titan has become a key marker of the reporting season as investors use it to judge the health of the AI boom that has sent markets to record highs over the past two years.",
-      "The figures come during rising angst about when the vast sums of cash pumped into AI software and hardware will see a meaningful return, if ever.",
-      "“Several analysts argue that the second-quarter number itself may end up mattering less than what management says about the quarter ahead,” said Axel Rudolph, a market analyst at IG.",
-      "“It’s entirely possible for the headline print to look solid and the stock to still sell off if the third-quarter guide comes in below what’s already embedded in current estimates.",
-      "“Conversely, even a modest second-quarter beat could support the stock if management raises the forward outlook and reiterates that supply, rather than softening customer demand, remains the binding constraint.”",
-      "Aug 26 also sees the release of US personal consumption expenditure data, the Federal Reserve’s favoured gauge of inflation that could play a role in policymakers’ decision-making with regard to interest rates.",
-      "A soft reading could temper hike worries but an outsized figure would likely ramp up bets on an increase in borrowing costs. AFP"
+      "SINGAPORE – When Sunena Sharma was retrenched a few years ago, all she could think about was whether she had enough cash and savings to tide her family through several months.",
+      "“My role in a technology company was made redundant following a restructuring exercise. It was an emotional roller-coaster,” said the 47-year-old.",
+      "Her experience reflects a wider conversation about what employees can do to strengthen their finances while still being employed and how best to navigate the stresses of losing one’s income.",
+      "For workers who have gone through retrenchment, receiving timely support within the first few hours of losing their jobs is key. This includes immediately checking how long one’s savings can last and exploring ways to earn a temporary income.",
+      "Workers can now pick up a financial tip or two from the second edition of Navigating Retrenchment, a guide by NTUC PME and financial advisory firm MoneyOwl that focuses on equipping employees with the financial preparedness they need.",
+      "NTUC PME aims to provide targeted support for professionals, managers and executives.",
+      "Director of NTUC PME Wendy Tan said they saw the need to come together to develop a playbook that helps workers build their financial resilience.",
+      "“When someone is retrenched, they don’t just worry about their next job, they may also struggle with the psychological consequences as well as face financial pressures,” she said.",
+      "Employees can proactively build an emergency fund while still being employed to strengthen their finances and ease the transition, said the writers in the playbook. “Every dollar you set aside gives you room to breathe. Even if retrenchment never comes, you build lasting, better habits.”",
+      "The guide recommends setting aside six to nine months of essential expenses in cash or liquid savings, and trimming discretionary spending such as dining out, entertainment and travel as early as possible.",
+      "It is also recommended to preserve cash and prioritise cash flow over cost savings, where necessary. This means spreading out expenses such as paying for home mortgages from their Central Provident Fund Ordinary Accounts instead of cash, and converting annual subscriptions and renewals to monthly payments.",
+      "Employees should also avoid risky investments and review their insurance policies to check for overpayment and under-coverage. They should consider adding low-cost term life or critical illness insurance first to maintain coverage, even if it means dropping some expensive policies.",
+      "When retrenchment is announced, it is important to secure a formal termination letter before checking every component of the compensation settlement, such as retrenchment benefits, notice pay, and annual leave and bonuses.",
+      "“Do not sign any agreement before reviewing it carefully,” said the experts in the playbook.",
+      "Retrenched employees who are National Trades Union Congress members can contact the labour movement or their respective unions to negotiate and secure a retrenchment package. Non-members can approach the Tripartite Alliance for Dispute Management for mediation.",
+      "When Sunena was retrenched, she failed to negotiate for retrenchment benefits with the company, and approached NTUC for support.",
+      "“I was advised on how to position my contributions, circumstances and expectations professionally and firmly. I was able to negotiate an improved separation package that included additional ex-gratia payment and a prorated bonus,” she said.",
+      "After receiving the payout, employees should preserve it and keep it liquid in savings, fixed deposits or Singapore Savings Bonds, said the writers in the playbook.",
+      "Can you ensure that your emergency fund can last until you find a new job? Including the payout, how many months of expenses does it cover?",
+      "The playbook recommends comparing liquid assets against monthly expenses first, and starting by listing them out, including cash, fixed deposits, T-bills and Singapore Savings Bonds. The aim is to have between six and nine months of savings.",
+      "Employees can reduce their monthly expenses by lowering grocery bills, reducing utility costs and cooking at home more frequently instead of dining out. They can also consider whether larger household expenses such as a car or domestic helper remain essential.",
+      "Another tip is to pause recurring savings investment plans to free up cash flow, which is usually penalty-free.",
+      "There are generally a few traps to avoid, such as committing to new savings plans, trying to make quick cash through gambling, crypto or risky stocks, or falling for job offer scams that ask for upfront payment.",
+      "“Trying to make a quick buck out of panic almost always backfires and can wipe out savings in days,” noted the writers in the playbook.",
+      "Employees can tap available retrenchment resources including government schemes and community support to bridge the gap while actively finding a new job.",
+      "The SkillsFuture Jobseeker Support Scheme allows eligible employees who have lost their jobs involuntarily to secure temporary payouts of up to $6,000 over six months. As part of another scheme, Singaporeans aged 40 and above can receive up to $3,000 in monthly training allowance for selected full-time courses, up to a cap of $72,000 per worker.",
+      "There are community groups such as ComCare that provide grants to lower-income retrenched households .",
+      "For assistance with housing loans, it is worth noting that the Homeowner Job Support pilot can defer or reduce instalments and suspend interest for up to 12 months if the home owners are unemployed and working with a career coach.",
+      "Retrenched workers can also ask their banks about refinancing to lower their monthly commitment.",
+      "Another recommendation is to explore earning a temporary income, such as renting out a room, or considering side hustles or part-time work that keep professional skills sharp."
     ]
   },
   "cna": {
-    "headline": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say",
-    "teaser": "Japan to diversify crude supplies, back Mideast pipelines in resilience effort, media say",
-    "url": "https://www.channelnewsasia.com/business/japan-diversify-crude-supplies-back-mideast-pipelines-in-resilience-effort-media-say-6341616",
+    "headline": "Hong Kong exchange to launch Shein derivatives after trading debut next week",
+    "teaser": "Hong Kong exchange to launch Shein derivatives after trading debut next week",
+    "url": "https://www.channelnewsasia.com/business/hong-kong-exchange-launch-shein-derivatives-after-trading-debut-next-week-6347181",
     "fullText": [
-      "TOKYO, Aug 26 : Japan is set to unveil on Wednesday a comprehensive plan to boost resilience of its energy supply, with steps such as diversifying crude oil procurement and supporting Middle East pipelines to bypass the Strait of Hormuz, media said.",
-      "The plan will be outlined at a meeting of the government's Green Transformation (GX) Implementation Council, Kyodo news agency said.",
-      "• Prime Minister Sanae Takaichi set an end of August deadline for preparation of a package to beef up energy resilience after the Iran war and the effective closure of the Strait of Hormuz highlighted Japan's heavy reliance on Middle Eastern crude.",
-      "• On Tuesday Industry Minister Ryosei Akazawa said the plan featured measures to cut dependence on supplies through the Strait of Hormuz, as well as bolster non-fossil fuel energy supplies.",
-      "• Japan will also cooperate with Middle Eastern countries on pipeline projects to bypass the strait through the Japan Organization for Metals and Energy Security (JOGMEC), Kyodo and Nikkei said.",
-      "• The plan also aims to build strategic stockpiles of naphtha, Kyodo said, after shortages of the petrochemical feedstock, used in plastics and printing inks, forced some companies to suspend sales or simplify packaging.",
-      "• The industry ministry, which was charged with drafting the plan, was not immediately available for comment.",
-      "• Middle East imports supplied 94 per cent of Japan's crude oil in 2025, with 93 per cent going through the Strait.",
+      "Aug 28 : Hong Kong's bourse operator will allow short selling of Shein's shares after the fast-fashion retailer makes its trading debut on September 1 as well as launch weekly and monthly options and derivative warrants, it said on Friday.",
+      "• Shein weekly and monthly options will begin trading on September 1, with monthly contracts expiring in September, October, November and December this year, as well as March, June and September next year.",
+      "• The options contracts will have a contract size of 500 shares. Weekly contracts will expire on September 4 and September 11.",
+      "• The simultaneous launch of options, warrants and short-selling on Shein's listing day gives investors immediate trading and hedging tools, potentially boosting liquidity and price discovery.",
+      "• Shein is set to price its initial public offering near the midpoint of its marketed range at HK$48.56 a share, valuing the company at roughly $26.5 billion, Reuters reported on Thursday, citing two people with knowledge of the matter.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
@@ -66,259 +75,263 @@
   },
   "lifeVocab": [
     {
-      "en": "defect inspection",
-      "cn": "验房/缺陷检测",
-      "def": "Checking a newly completed property for flaws or construction errors",
-      "ex": "We hired a professional to do the defect inspection before starting our BTO renovation.",
-      "emoji": "🔍"
+      "en": "commuter",
+      "cn": "通勤者",
+      "def": "a person who travels some distance to work on a regular basis",
+      "ex": "The morning MRT is always packed with commuters heading to the Central Business District.",
+      "emoji": "🚇"
     },
     {
-      "en": "screeding",
-      "cn": "地面找平",
-      "def": "The process of applying a layer of concrete to level a floor",
-      "ex": "The contractor completed the floor screeding before laying down the vinyl tiles.",
-      "emoji": "🧱"
+      "en": "gantry",
+      "cn": "闸机",
+      "def": "a barrier or gate through which passengers must pass to enter or exit a transit system",
+      "ex": "Remember to tap your EZ-Link card at the gantry to enter the station platform.",
+      "emoji": "💳"
     },
     {
-      "en": "built-in",
-      "cn": "定制木工/嵌入式家具",
-      "def": "Furniture that is custom-made and permanently fixed to the wall",
-      "ex": "We opted for built-in wardrobes in the master bedroom to maximize storage space.",
-      "emoji": "🗄️"
+      "en": "interchange",
+      "cn": "中转站",
+      "def": "a transit station where passengers can transfer between different train lines",
+      "ex": "Dhoby Ghaut is a busy interchange connecting three major lines.",
+      "emoji": "🔄"
     },
     {
-      "en": "overlaying",
-      "cn": "瓷砖铺贴覆盖",
-      "def": "Installing new tiles directly over existing ones without hacking them away",
-      "ex": "Overlaying the toilet tiles saved us thousands of dollars in hacking fees.",
-      "emoji": "🚿"
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "a moving staircase for carrying people between floors",
+      "ex": "Stand on the left of the escalator in Singapore to let others pass on the right.",
+      "emoji": "🪜"
     },
     {
-      "en": "hacking",
-      "cn": "敲墙/拆除墙体",
-      "def": "Demolishing walls, floor tiles, or built-in structures in a flat",
-      "ex": "We need HDB approval before hacking this partition wall to create an open-concept kitchen.",
-      "emoji": "🔨"
+      "en": "peak hours",
+      "cn": "尖峰时段 / 高峰期",
+      "def": "the times of highest demand for public transport, typically morning and evening",
+      "ex": "Train frequencies are increased during morning peak hours to reduce waiting times.",
+      "emoji": "⏰"
     },
     {
-      "en": "fluted panel",
-      "cn": "凹凸格栅板",
-      "def": "Decorative wall panels with vertical grooves, often made of wood or plastic",
-      "ex": "Fluted panels are very popular in Singaporean homes for creating a modern feature wall.",
-      "emoji": "🪵"
+      "en": "shuttle bus",
+      "cn": "接驳巴士",
+      "def": "a bus that travels regularly back and forth over a short route",
+      "ex": "Free bridging shuttle buses were deployed when the East-West Line experienced a delay.",
+      "emoji": "🚌"
     },
     {
-      "en": "quotation",
-      "cn": "报价单",
-      "def": "A formal statement setting out the estimated cost for a particular job",
-      "ex": "Make sure to compare quotations from at least three different interior designers.",
-      "emoji": "📄"
+      "en": "concourse",
+      "cn": "大厅",
+      "def": "a large open area inside a station where passengers walk or gather",
+      "ex": "Let's meet at the station concourse near the passenger service centre.",
+      "emoji": "🏢"
     },
     {
-      "en": "drywall",
-      "cn": "石膏板墙",
-      "def": "A board made of plaster used to construct interior walls quickly",
-      "ex": "We erected a drywall to split the study room into two smaller workspaces.",
-      "emoji": "🧱"
+      "en": "dwell time",
+      "cn": "停靠时间",
+      "def": "the time a train spends at a station platform to let passengers board and alight",
+      "ex": "Standardising train dwell times helps keep the morning schedule precise.",
+      "emoji": "⏱️"
     },
     {
-      "en": "grouting",
-      "cn": "填缝剂",
-      "def": "The paste used to fill the gaps between wall or floor tiles",
-      "ex": "The dirty grouting in the bathroom needs to be scrubbed and resealed.",
-      "emoji": "🧼"
+      "en": "alight",
+      "cn": "下车 / 下船",
+      "def": "to get off a bus, train, or other vehicle",
+      "ex": "Please let passengers alight first before boarding the train.",
+      "emoji": "🚪"
     },
     {
-      "en": "trunking",
-      "cn": "电线线槽",
-      "def": "Plastic casing used to enclose and protect electrical wires on walls",
-      "ex": "The aircon trunking should be neatly aligned along the corridor ceiling.",
-      "emoji": "🔌"
+      "en": "track fault",
+      "cn": "轨道故障",
+      "def": "a mechanical or electrical issue on the train tracks causing service disruptions",
+      "ex": "The morning commute was delayed due to an unexpected track fault near Jurong East.",
+      "emoji": "🛠️"
     }
   ],
   "levelVocab": [
     {
-      "w": "equivocal",
-      "ipa": "/ɪˈkwɪv.ə.kəl/",
-      "pos": "adj.",
-      "cn": "模棱两可的，含糊的",
-      "def": "open to more than one interpretation; unclear or undecided",
-      "ex": "The manager gave an equivocal response when asked about upcoming promotions."
-    },
-    {
-      "w": "salient",
-      "ipa": "/ˈseɪ.li.ənt/",
-      "pos": "adj.",
-      "cn": "最显著的，最突出的",
-      "def": "most noticeable or important",
-      "ex": "Please highlight the salient points of the business proposal in your summary."
-    },
-    {
-      "w": "indispensable",
-      "ipa": "/ˌɪn.dɪˈspen.sə.bəl/",
-      "pos": "adj.",
-      "cn": "不可或缺的",
-      "def": "absolutely necessary",
-      "ex": "Her expertise in regional tax laws made her indispensable to the expansion team."
-    },
-    {
       "w": "disseminate",
       "ipa": "/dɪˈsem.ɪ.neɪt/",
       "pos": "v.",
-      "cn": "传播，散播",
-      "def": "to spread information, news, or ideas widely",
-      "ex": "We will disseminate the new workplace guidelines via email tomorrow morning."
+      "cn": "传播，散布",
+      "def": "to spread information, knowledge, or news to a large group of people",
+      "ex": "The HR department will disseminate the new hybrid work guidelines by Friday."
     },
     {
-      "w": "conducive",
-      "ipa": "/kənˈdjuː.sɪv/",
+      "w": "reconcile",
+      "ipa": "/ˈrek.ən.saɪl/",
+      "pos": "v.",
+      "cn": "调和，使一致",
+      "def": "to find a way in which two opposing situations or beliefs can agree and exist together",
+      "ex": "It is difficult to reconcile the need for cost-cutting with our plans for expansion."
+    },
+    {
+      "w": "stringent",
+      "ipa": "/ˈstrɪn.dʒənt/",
       "pos": "adj.",
-      "cn": "有利于...的",
-      "def": "making a certain situation or outcome likely or possible",
-      "ex": "The noisy open-plan office is not very conducive to deep, focused work."
+      "cn": "严格的，严厉的",
+      "def": "severe, difficult, or limiting, especially regarding rules or regulations",
+      "ex": "Financial institutions must comply with stringent anti-money laundering regulations."
     },
     {
-      "w": "impetus",
-      "ipa": "/ˈɪm.pɪ.təs/",
+      "w": "deviate",
+      "ipa": "/ˈdiː.vi.eɪt/",
+      "pos": "v.",
+      "cn": "偏离，背离",
+      "def": "to do something that is different from the usual or common way",
+      "ex": "We must not deviate from the approved budget without prior authorization from the board."
+    },
+    {
+      "w": "precursor",
+      "ipa": "/priːˈkɜː.sər/",
       "pos": "n.",
-      "cn": "推动力，促进",
-      "def": "something that makes a process or activity start or happen more quickly",
-      "ex": "The government subsidy provided the impetus for local SMEs to adopt digital solutions."
+      "cn": "先驱，前兆",
+      "def": "something that happened or existed before another thing, especially if it caused or influenced its development",
+      "ex": "A minor drop in consumer confidence is often a precursor to a wider economic slowdown."
     },
     {
-      "w": "preclude",
-      "ipa": "/prɪˈkluːd/",
-      "pos": "v.",
-      "cn": "排除，妨碍",
-      "def": "to prevent from happening; make impossible",
-      "ex": "His busy schedule does not preclude him from attending the annual gala dinner."
-    },
-    {
-      "w": "tantamount",
-      "ipa": "/ˈtæn.tə.maʊnt/",
+      "w": "unilateral",
+      "ipa": "/ˌjuː.nɪˈlæt.ər.əl/",
       "pos": "adj.",
-      "cn": "同等于，相当于",
-      "def": "equivalent in seriousness to; virtually the same as",
-      "ex": "Resigning without finding a replacement was considered tantamount to professional suicide."
+      "cn": "单方面的",
+      "def": "an action or decision done by only one of the groups, countries, or people involved",
+      "ex": "The manager made a unilateral decision to cancel the project without consulting the team."
     },
     {
-      "w": "obviate",
-      "ipa": "/ˈɒb.vi.eɪt/",
-      "pos": "v.",
-      "cn": "消除（需要/困难）",
-      "def": "to remove a need or difficulty",
-      "ex": "The automated software will obviate the need for manual data entry."
+      "w": "vanguard",
+      "ipa": "/ˈvæn.ɡɑːd/",
+      "pos": "n.",
+      "cn": "先锋，前沿",
+      "def": "a group of people leading the way in new developments or ideas",
+      "ex": "Our research division aims to be in the vanguard of medical technology."
     },
     {
-      "w": "exemplify",
-      "ipa": "/ɪɡˈzem.plɪ.faɪ/",
+      "w": "juxtapose",
+      "ipa": "/ˌdʒʌk.stəˈpoʊz/",
       "pos": "v.",
-      "cn": "是...的典型，举例说明",
-      "def": "to be a perfect example of something",
-      "ex": "Her rapid rise within the logistics firm exemplifies the company's meritocratic culture."
+      "cn": "并列，并置",
+      "def": "to put things that are not similar next to each other, especially to compare them",
+      "ex": "The exhibition juxtaposes traditional oil paintings with modern digital art."
+    },
+    {
+      "w": "empirical",
+      "ipa": "/ɪmˈpɪr.ɪ.kəl/",
+      "pos": "adj.",
+      "cn": "实证的，基于经验的",
+      "def": "based on what is experienced or seen rather than on theory or pure logic",
+      "ex": "We need empirical evidence, not just assumptions, to prove this market strategy works."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈper.ə.tɪv/",
+      "pos": "adj.",
+      "cn": "极重要的，迫切的",
+      "def": "extremely important or urgent",
+      "ex": "It is imperative that we secure the new funding before the end of this quarter."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Powering up Singapore's Heartland EVs",
-    "transcript": "As Singapore <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/stɪəz/ (v.) to guide or direct the course of something — 引导，朝着...方向发展\">steers</span> towards a cleaner transport landscape, the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈrəʊlaʊt/ (n.) the official launch or introduction of a new product or service — 首次推出，全面铺开\">rollout</span> of electric vehicle charging points in public housing estates is gathering pace. Residents in estates like Jurong and Yishun can now easily plug in overnight. This infrastructure drive aims to eliminate <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/reɪndʒ æŋˈzaɪəti/ (n.) the fear that an electric vehicle will run out of power before reaching a destination — 里程焦虑\">range anxiety</span> among prospective car buyers. By 2030, the government plans to install sixty thousand charging points islandwide, fundamentally shifting the city's relationship with private transport."
+    "title": "Singapore's Cross-Border QR Payment Expansion",
+    "transcript": "Local tourists heading to neighboring Malaysia and Thailand can now make payments <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsiːm.ləs.li/ (adv.) smoothly and continuously, without any apparent gaps or spaces — 无缝地\">seamlessly</span> using domestic banking apps. This initiative is part of Singapore's broader strategy to enhance digital <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəˌnekˈtɪv.ə.ti/ (n.) the state or quality of being connected, especially electronically — 互联互通\">connectivity</span> across ASEAN. While the system reduces transaction costs for small businesses, experts caution that cybersecurity measures must remain <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/roʊˈbʌst/ (adj.) strong and healthy, or unlikely to break or fail — 强健的、坚固的\">robust</span> to prevent fraud."
   },
   "economistArticle": {
-    "title": "What makes a great investor?",
+    "title": "The Price of Closed Borders: The Impending Cost of America's Labor Crackdown",
     "paras": [
-      "We often picture legendary investors as brilliant, mathematically precise geniuses who decode the market's inner workings. Yet, empirical evidence suggests that stellar returns are frequently the byproduct of blind luck <span class=\"voc\">masquerading</span> as genius. <span class=\"gem\">The line between a visionary bet and a reckless gamble is remarkably thin, and financial history is written by the survivors who happened to flip heads ten times in a row.</span>",
-      "Beyond mere <span class=\"voc\">serendipity</span>, those who consistently beat the market often possess a distinctly odd character. They are not well-rounded team players who excel in corporate boardrooms. Instead, they exhibit an almost pathological level of <span class=\"voc\">detachment</span>, emotional insulation, and contrarian <span class=\"voc\">obstinacy</span>. They do not feel the social pressure to conform to market consensus, allowing them to buy when others panic.",
-      "This temperament is highly <span class=\"voc\">idiosyncratic</span>. Take the legendary figures of value investing, who hold onto plummeting stocks with an <span class=\"voc\">equanimity</span> that verges on the inhuman. While the average retail investor panics during a downturn, these individuals view market <span class=\"voc\">turbulence</span> as a mere statistical fluctuation. They lack the biological urge to run with the herd, a trait that would make them terrible party guests but outstanding allocators of capital.",
-      "Moreover, great investors are comfortable with cognitive <span class=\"voc\">dissonance</span>. They can hold two opposing views simultaneously, waiting for the market to reveal which reality will manifest. This intellectual flexibility, paired with absolute conviction once a decision is made, is a rare psychological cocktail. It is a state of mind that borders on obsessive, where information is <span class=\"voc\">dissected</span> with clinical coldness.",
-      "Ultimately, trying to replicate their success by merely copying their strategies is a fool's errand. One can mimic their portfolio allocation, but one cannot easily synthesize their eccentric personality or purchase the sheer luck that crowns a market king. In the financial casino, the house always wins, unless you happen to be a statistical <span class=\"voc\">anomaly</span> with a delightfully peculiar brain."
+      "Any large-scale tightening of immigration policies invariably leaves an <span class=\"voc\">indelible</span> mark on an economy’s structural foundations. In the United States, proposed measures to <span class=\"voc\">curtail</span> the influx of both high-skilled and low-skilled workers threaten to dismantle the delicate <span class=\"voc\">equilibrium</span> of its labor market. For decades, foreign-born workers have acted as a crucial demographic buffer, filling vacancies in sectors ranging from agricultural picking to software development, which native-born workers frequently bypass.",
+      "The immediate consequence of a sudden contraction in the labor force is a sharp contraction in potential output. When firms cannot source the necessary talent, they are forced to scale back production plans or defer capital investments. This bottleneck is not merely frictional; it represents a permanent downshifting of America’s economic growth trajectory. Agricultural fields in California may lie <span class=\"voc\">fallow</span>, and tech startups in Silicon Valley may relocate their research hubs to more <span class=\"voc\">hospitable</span> jurisdictions like Vancouver or London.",
+      "Moreover, the economic fallout is amplified by the inflationary pressures that labor scarcity generates. <span class=\"gem\">As businesses <span class=\"voc\">scramble</span> to outbid each other for a <span class=\"voc\">dwindling</span> pool of eligible workers, wages are bid up without a corresponding increase in productivity.</span> These escalating labor costs inevitably feed into consumer prices, complicating the Federal Reserve's delicate task of maintaining price stability. Rather than fostering a high-wage, high-productivity <span class=\"voc\">utopia</span>, a labor supply shock threatens to induce a stagflationary squeeze on households.",
+      "Proponents of immigration curbs argue that such restrictions will spur domestic automation and compel companies to invest more heavily in their existing workforce. However, this optimistic view overlooks the sheer speed at which these policies are enacted. Automation is a capital-intensive, multi-year endeavor that cannot be easily retrofitted overnight. In the <span class=\"voc\">interim</span>, small and medium-sized enterprises, which operate on wafer-thin margins, are likely to bear the brunt of the shock, leading to business closures rather than technological upgrades.",
+      "<span class=\"gem\">Ultimately, a country’s economic power is a function of its demographics and its innovation.</span> By restricting the inflow of global talent and labor, the world’s largest economy risks self-sabotage. The true cost of a tighter border is not merely measured in the enforcement budget, but in the lost growth, diminished <span class=\"voc\">dynamism</span>, and reduced global competitiveness that will haunt America for decades to come."
     ],
-    "cn": "我们常常把传奇投资人想象成聪明绝顶、数学功底深厚的奇才，能够破解市场运行的奥秘。然而，经验证据表明，优异的投资回报往往只是盲目的运气伪装成了天才。远见卓识的豪赌与不计后果的投机之间，界限极其微妙，而金融历史是由那些恰好连续十次掷出正面并幸存下来的赢家谱写的。\n除了机缘巧合，那些能够持续战胜市场的人，往往拥有一种极为古怪的性格。他们绝不是在企业董事会中长袖善舞、八面玲珑的团队合作者。相反，他们表现出一种几近病态的超然、情感隔离和逆向思维的执拗。他们感受不到顺应市场共识的社会压力，这使他们能够在他人恐慌时买入。\n这种性格特质极其独特。以价值投资领域的传奇人物为例，他们以一种近乎冷血的镇定紧握暴跌的股票。当普通散户在股市低迷中恐慌时，这些人却将市场动荡视作单纯的统计波动。他们缺乏随波逐流的本能——这种特质可能会让他们在派对上大煞风景，却能让他们成为极其出色的资本配置者。\n此外，优秀的投资人往往能够泰然处之于认知失调。他们能同时持有两种相反的观点，等待市场揭示哪一种现实将会胜出。这种思想上的灵活性，加上一旦做出决定后的绝对信念，构成了一种罕见的心理鸡尾酒。这是一种近乎执念的精神状态，信息在这里被以临床般的冷酷进行剖析。\n归根结底，仅仅通过复制其投资策略来复制其成功是徒劳的。人们可以模仿他们的投资组合配置，却无法轻易复制那种古怪的个性，也无法买到加冕市场之王所需的绝对运气。在金融赌场里，赢家总是庄家，除非你恰好是一个拥有奇特大脑的统计学异类。",
+    "cn": "任何大规模收紧移民政策的行为，都不可避免地会对一个经济体的结构基础留下难以磨灭的烙印。在美国，拟议中的限制高技能和低技能劳工流入的措施，正威胁到其劳动力市场脆弱的均衡状态。几十年来，外籍劳工一直发挥着关键的人口缓冲作用，填补了从农业采摘到软件开发等本国劳工往往避开的行业空缺。\n\n劳动力突然萎缩的直接后果是潜在产出的急剧收缩。当企业无法寻得所需人才时，它们不得不缩减生产计划或推迟资本投资。这种瓶颈不仅是摩擦性的，它代表着美国经济增长轨迹的永久性下移。加利福尼亚的农田可能会荒芜，硅谷的科技初创企业可能会将其研发中心搬迁到温哥华或伦敦等更具包容性的司法管辖区。\n\n此外，劳动力短缺所引发的通胀压力，会放大其经济负面效应。随着企业争先恐后地竞价争取人数不断减少的合规员工，工资水平被推高，但生产率却没有相应提高。这些不断上升的劳动力成本必然传导至消费价格，从而使美联储维持价格稳定的微妙任务变得更加复杂。劳动力供给冲击非但无法培育出高工资、高生产率的理想国，反而有可能对家庭造成滞胀性挤压。\n\n移民限制的支持者认为，此类限制将刺激国内自动化，并迫使公司加大对其现有员工队伍的投入。然而，这种乐观的观点忽略了这些政策颁布的速度。自动化是一项资本密集型、耗时多年的工程，不可能在夜之间轻易完成改造。在此过渡期间，在微薄利润边缘运营的中小型企业可能会承受这一冲击的绝大部分影响，从而导致企业倒闭而非技术升级。\n\n归根结底，一个国家的经济实力是其人口结构和创新能力的体现。通过限制全球人才和劳动力的流入，这个世界最大的经济体面临着自我伤害的风险。边境收紧的真实代价不仅体现在执法预算上，还体现在失去的增长、减弱的活力和降低的全球竞争力上，这些将在未来数十年里困扰美国。",
     "vocab": [
       {
-        "w": "masquerading",
-        "ipa": "/ˌmæskəˈreɪdɪŋ/",
-        "pos": "v.",
-        "mean": "伪装，假扮",
-        "def": "behaving in a way that suggests one is another person or thing",
-        "ex": "Several scams are currently masquerading as legitimate bank alerts."
-      },
-      {
-        "w": "serendipity",
-        "ipa": "/ˌserənˈdɪpəti/",
-        "pos": "n.",
-        "mean": "机缘巧合",
-        "def": "the occurrence of events by chance in a happy or beneficial way",
-        "ex": "Finding her dream job in Singapore was pure serendipity."
-      },
-      {
-        "w": "detachment",
-        "ipa": "/dɪˈtætʃmənt/",
-        "pos": "n.",
-        "mean": "超然，客观",
-        "def": "the state of being objective, aloof, or emotionally disconnected",
-        "ex": "The financial analyst reviewed the market crash with professional detachment."
-      },
-      {
-        "w": "obstinacy",
-        "ipa": "/ˈɒbstɪnəsi/",
-        "pos": "n.",
-        "mean": "固执，倔强",
-        "def": "the quality of being stubborn and refusing to change one's mind",
-        "ex": "His obstinacy in refusing to cut losses led to the fund's collapse."
-      },
-      {
-        "w": "idiosyncratic",
-        "ipa": "/ˌɪdiəsɪŋˈkrætɪk/",
+        "w": "indelible",
+        "ipa": "/ɪnˈdel.ə.bəl/",
         "pos": "adj.",
-        "mean": "独特的，特异的",
-        "def": "peculiar, individualistic, or eccentric",
-        "ex": "The founder's idiosyncratic management style baffled many new hires."
+        "mean": "难以磨灭的，永久的",
+        "def": "impossible to forget or remove",
+        "ex": "The experience left an indelible mark on his personality."
       },
       {
-        "w": "equanimity",
-        "ipa": "/ˌekwəˈnɪməti/",
-        "pos": "n.",
-        "mean": "镇定，泰然",
-        "def": "mental calmness and composure, especially in a difficult situation",
-        "ex": "She maintained her equanimity even when the company's stock plummeted."
-      },
-      {
-        "w": "turbulence",
-        "ipa": "/ˈtɜːbjələns/",
-        "pos": "n.",
-        "mean": "动荡，骚乱",
-        "def": "a state of conflict, confusion, or instability",
-        "ex": "The global supply chain experienced massive turbulence during the pandemic."
-      },
-      {
-        "w": "dissonance",
-        "ipa": "/ˈdɪsənəns/",
-        "pos": "n.",
-        "mean": "失调，不一致",
-        "def": "a tension or clash resulting from the combination of two incompatible elements",
-        "ex": "Cognitive dissonance occurs when your beliefs do not align with your actions."
-      },
-      {
-        "w": "dissected",
-        "ipa": "/daɪˈsektɪd/",
+        "w": "curtail",
+        "ipa": "/kəˈteɪl/",
         "pos": "v.",
-        "mean": "仔细剖析",
-        "def": "analyzed or examined something in great detail",
-        "ex": "The legal team dissected the contract to find potential loopholes."
+        "mean": "削减，限制",
+        "def": "to reduce or limit something",
+        "ex": "The government had to curtail its spending due to the budget deficit."
       },
       {
-        "w": "anomaly",
-        "ipa": "/əˈnɒməli/",
+        "w": "equilibrium",
+        "ipa": "/ˌiː.kwɪˈlɪb.ri.əm/",
         "pos": "n.",
-        "mean": "异常事物，反常",
-        "def": "something that deviates from what is standard, normal, or expected",
-        "ex": "The sudden spike in inflation was deemed a statistical anomaly."
+        "mean": "平衡，均衡",
+        "def": "a state of balance between opposing forces",
+        "ex": "It is difficult to restore the ecological equilibrium once a species goes extinct."
+      },
+      {
+        "w": "fallow",
+        "ipa": "/ˈfæl.oʊ/",
+        "pos": "adj.",
+        "mean": "（土地）休耕的，荒废的",
+        "def": "plowed and harrowed but left unsown for a period in order to restore its fertility",
+        "ex": "Farmers occasionally leave their fields fallow to let the soil regain its nutrients."
+      },
+      {
+        "w": "hospitable",
+        "ipa": "/hɒsˈpɪt.ə.bəl/",
+        "pos": "adj.",
+        "mean": "友好的，宜人的",
+        "def": "friendly and welcoming to strangers or guests, or providing pleasant conditions",
+        "ex": "The country is known for its hospitable environment for international startups."
+      },
+      {
+        "w": "scramble",
+        "ipa": "/ˈskræm.bəl/",
+        "pos": "v.",
+        "mean": "仓促行动，争夺",
+        "def": "to move or climb quickly, or to struggle with others to get something",
+        "ex": "Shoppers scrambled to get the best deals during the holiday sale."
+      },
+      {
+        "w": "dwindling",
+        "ipa": "/ˈdwɪnd.lɪŋ/",
+        "pos": "adj.",
+        "mean": "正在减少的，逐渐缩减的",
+        "def": "gradually becoming smaller in size or amount",
+        "ex": "The company is facing a dwindling market share due to stiff competition."
+      },
+      {
+        "w": "utopia",
+        "ipa": "/juːˈtoʊ.pi.ə/",
+        "pos": "n.",
+        "mean": "乌托邦，理想国",
+        "def": "an imagined place or state of things in which everything is perfect",
+        "ex": "The philosopher described a utopia where poverty and crime did not exist."
+      },
+      {
+        "w": "interim",
+        "ipa": "/ˈɪn.tər.ɪm/",
+        "pos": "n.",
+        "mean": "过渡时期，暂时的",
+        "def": "the interval of time between one event and another",
+        "ex": "While the permanent CEO is being recruited, the CFO will serve in the interim."
+      },
+      {
+        "w": "dynamism",
+        "ipa": "/ˈdaɪ.nə.mɪ.zəm/",
+        "pos": "n.",
+        "mean": "活力，动力",
+        "def": "the quality of being characterized by vigorous activity and progress",
+        "ex": "The economic dynamism of Southeast Asia has attracted billions in foreign investment."
       }
     ],
     "gems": [
       {
-        "s": "The line between a visionary bet and a reckless gamble is remarkably thin, and financial history is written by the survivors who happened to flip heads ten times in a row.",
-        "why": "This sentence employs a vivid metaphor ('flip heads ten times in a row') and an elegant contrast between 'visionary bet' and 'reckless gamble' to brilliantly deconstruct the myth of the financial genius. 这句话运用了生动的比喻（‘连续十次掷出正面’）以及‘远见卓识的豪赌’与‘不计后果的投机’之间的优雅对比，极其精彩地解构了金融天才的神话。"
+        "s": "As businesses scramble to outbid each other for a dwindling pool of eligible workers, wages are bid up without a corresponding increase in productivity.",
+        "why": "This sentence uses a dynamic subordinate clause starting with 'As' to establish cause and effect, vividly conveying a sense of market urgency. It demonstrates how macroeconomic forces directly impact real-world business decisions.\n这句话使用了一个以 'As' 开头的动态时间状语从句来建立因果关系，生动地传达了市场紧迫感。它展示了宏观经济力量如何直接影响现实世界中的商业决策。"
+      },
+      {
+        "s": "Ultimately, a country’s economic power is a function of its demographics and its innovation.",
+        "why": "This sentence employs a powerful, concise mathematical metaphor ('is a function of') to distill a complex economic concept into an elegant, authoritative statement.\n这句话采用了一个强有力且简洁的数学比喻（'is a function of'，即……的函数 / 由……决定），将复杂的经济概念提炼为一个优雅而权威的陈述。"
       }
     ]
   }
