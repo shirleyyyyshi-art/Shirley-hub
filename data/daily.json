@@ -1,50 +1,67 @@
 {
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T07:11:22.620107+00:00",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T05:33:07.685030+00:00",
   "economist": {
     "headline": "The economic costs of Donald Trump’s immigration crackdown",
     "teaser": "A smaller workforce and slower growth",
     "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
     "vocab": [
       {
-        "word": "economic",
-        "phonetic": "/ˌiːkəˈnɒmɪk/",
-        "def": "Pertaining to an economy."
-      },
-      {
         "word": "immigration",
         "phonetic": "/ɪmɪˈɡɹeɪʃn/",
         "def": "The act of immigrating; the passing or coming into a country of which one is not native born for the purpose of permanent residence."
+      },
+      {
+        "word": "workforce",
+        "phonetic": "",
+        "def": "All the workers employed by a specific organization or state, or on a specific project"
       }
     ]
   },
   "st": {
-    "headline": "When investors paid millions to buy non-existent overseas homes",
-    "teaser": "Buyers usually get conned when they do not make independent checks on the overseas developers",
-    "url": "https://www.straitstimes.com/business/invest/when-investors-paid-millions-to-buy-non-existent-overseas-homes",
+    "headline": "Even rich people feel anxious about money",
+    "teaser": "Wealth can give you a sense of control, but it can also end up controlling your emotions.",
+    "url": "https://www.straitstimes.com/business/invest/even-rich-people-feel-anxious-about-money",
     "fullText": [
       "Sign up for ST InvestMe and unlock full access to exclusive insights and financial literacy courses today.",
-      "SINGAPORE – Don’t invest in overseas properties just because they are “cheaper” than similar ones in Singapore, especially when these are sold by unknown companies."
+      "SINGAPORE – A senior banker friend of mine recently received what most people would consider a generous bonus. For a few weeks, she treated friends and loved ones to lavish meals and splurged on other indulgences. Then, the feeling of joy faded."
     ]
   },
   "cna": {
-    "headline": "Leao bids emotional farewell to Milan amid reports of Galatasaray switch",
-    "teaser": "Leao bids emotional farewell to Milan amid reports of Galatasaray switch",
-    "url": "https://www.channelnewsasia.com/sport/leao-bids-emotional-farewell-milan-amid-reports-galatasaray-switch-6349241",
+    "headline": "Vietnamese coffee farmers ride China's durian wave",
+    "teaser": "Vietnam only officially entered the Chinese durian market after a 2022 trade protocol but last year became the country's biggest supplier by volume.",
+    "url": "https://www.channelnewsasia.com/asia/vietnam-coffee-farmers-china-durian-demand-6350141",
     "fullText": [
-      "Aug 29 : Portugal winger Rafael Leao bid an emotional farewell to AC Milan amid reports he is close to joining Turkish side Galatasaray, saying the decision was difficult but that he would always remain part of the Rossoneri's history.",
-      "A product of Sporting Portugal's academy, the 27-year-old has been capped 49 times by his country and represented Portugal at the 2022 and 2026 World Cups. He joined Milan from French side Lille in 2019.",
-      "Leao became a key figure for the seven-time European champions, scoring 80 goals and providing 65 assists in 291 appearances across all competitions. He helped Milan win the Serie A title in 2021-22 and the Italian Super Cup in the 2024-25 season.",
-      "According to media reports, Milan have accepted a €45 million ($52.12 million) offer from Galatasaray for Leao, whose contract with the Italian club runs until June 2028.",
-      "\"Milan helped me grow and understand what top-flight football is all about. The time has come to say goodbye. I might have liked to say goodbye in a different way. The fans supported me even during the tough times.",
-      "\"I know what I've achieved here; I'll go down in the club's history. All I can do is say thank you.\"",
-      "Milan appointed former Manchester United coach Ruben Amorim as manager in June after a disappointing campaign last season that saw them miss out on Champions League qualification.",
-      "They have since made a strong start to the new Serie A season, winning their opening two matches.",
-      "\"My love for Milan will never end; even from afar, I'll always be watching them...,\" Leao added.",
-      "\"There are times when you have to make a decision and choose a different path.",
-      "\"Today, Milan showed great quality and have a great manager. He's someone who can help Milan win major trophies. It's the sort of football I like...",
-      "\"Life doesn't end here. I cried; I was moved.\"",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "DAK LAK, Vietnam: Vietnam's Central Highlands produces around one-sixth of the world's coffee, but farmers are switching their traditional crop for durian to cash in on surging Chinese demand for the pungent \"king of fruits\".",
+      "\"You can live okay with coffee, but it's durian that makes you rich,\" said Pham Xuan Lan, as he showed AFP journalists around his farm.",
+      "Blessed with a tropical climate and rich basalt soil, the lush Central Highlands produces vast quantities of robusta beans, and Vietnam trails only Brazil in coffee output.",
+      "But the area dedicated to durian has soared more than fivefold to 200,000ha nationwide over the past decade, according to the agriculture ministry.",
+      "Lan was an early adopter, diversifying his crop two decades ago and now boasting 400 durian trees in Ea Knuec commune, part of Dak Lak province.",
+      "They produce 60 tonnes of the sweet yet smelly fruit, which is driven in frozen containers thousands of kilometres north into China.",
+      "The 56-year-old expects to make US$76,000 this year - against US$10,000 had he stayed with just coffee.",
+      "\"With durian, I bought a car, houses for my children and built a villa for my family,\" he said, his affluence evident around him.",
+      "Other local farmers have followed suit, focusing on the premium Ri6, Musang King and Dona varieties.",
+      "During the August-October harvest, Dak Lak's roads are packed with trucks loaded with the spiky fruit, and at a durian festival this month, 525 vehicles formed what the Guinness World Records declared the largest ever parade of fruit-carrying vehicles.",
+      "The boom is driven by demand from China, fuelled by a combination of expanding supply and growing popularity on social media, particularly among young people.",
+      "On Douyin, China's equivalent of TikTok, videos of users cracking open fruit with their bare hands have been watched billions of times.",
+      "\"This tastes really sweet. It's almost like it's been coated in sugar,\" said Douyin influencer Liulianzi in a clip liked more than 17,000 times.",
+      "Once a luxury food, increased competition between Thailand and Vietnam and improved transport links have helped cut prices and make the fruit more affordable.",
+      "At a durian tasting event in Beijing last month, Ada Song told AFP that she had spent almost 1,000 yuan (US$150) on the fruit in recent weeks.",
+      "\"I have tried nearly 20 different varieties,\" Song said.",
+      "Durian \"tastes just as sweet as cake, without the greasiness and heaviness\".",
+      "China imported almost US$7.5 billion worth of fresh durian last year, a near 12-fold rise from 2015.",
+      "Now Beijing is seeking to boost its homegrown produce, with more than 3,000 hectares of plantations on the southern island province of Hainan, which has a similar climate to northern Vietnam.",
+      "But \"our Hainan durians will always be just a supplement to Southeast Asian durians\", acknowledged Feng Xuejie, a durian expert at the Hainan Academy of Agricultural Sciences.",
+      "Vietnam's durian exports are expected to reach US$4 billion this year, up from US$180 million in 2021 - 90 per cent of them going to its northern neighbour.",
+      "But in the Central Highlands there are concerns about the reliance on China, as well as the risks of oversupply as more farmers join the rush.",
+      "Many anxiously eyed a recent price crash in Malaysia , blamed on an unusually bumper harvest.",
+      "Durian growers across Southeast Asia are facing a common enemy — climate change. In Malaysia, soaring temperatures mean more watering, more fertiliser and more pruning, all while fuel and fertiliser costs have climbed due to the war in Iran. Some farmers are turning to technology to adapt, such as installing sensors to monitor rainfall, humidity, soil conditions and temperature.",
+      "Many farmers there have also switched to durian, focusing on premium varieties and fresh fruit, although the country has only a small slice of the Chinese market.",
+      "Vietnam's government warned in early August of the \"risks of oversupply and loss of quality control as the planted area is increasing rapidly\".",
+      "Farmers warn durian is not a one-way bet, requiring a strict mix of humidity, water and fertilisers.",
+      "Lan likened growing it to \"raising a child - I can give you all the tricks but I cannot guarantee you similar success\".",
+      "He still grows coffee as his land is leased from a coffee company, allowing him to hedge his bets.",
+      "For some, the durian dream has already turned sour."
     ]
   },
   "mom": {
@@ -54,263 +71,263 @@
   },
   "lifeVocab": [
     {
-      "en": "tap in",
-      "cn": "刷卡进站",
-      "def": "to place an electronic transit card or mobile device against a reader to enter a transport station",
-      "ex": "Please remember to tap in with your EZ-Link card when you pass through the MRT gantry.",
-      "emoji": "💳"
+      "en": "consultation",
+      "cn": "诊疗",
+      "def": "a meeting with a doctor to get medical advice or treatment",
+      "ex": "The consultation fee at the polyclinic is heavily subsidised for Singapore citizens.",
+      "emoji": "🩺"
     },
     {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "a person who travels some distance to work on a regular basis",
-      "ex": "During the morning rush hour, MRT stations are packed with busy commuters.",
-      "emoji": "🚶"
+      "en": "referral",
+      "cn": "转诊信",
+      "def": "an official letter or form sending a patient to a specialist doctor",
+      "ex": "The GP gave me a referral letter to see a cardiologist at the National Heart Centre.",
+      "emoji": "✉️"
     },
     {
-      "en": "peak hours",
-      "cn": "高峰时间",
-      "def": "the times of highest demand for public transport, typically morning and evening",
-      "ex": "MRT fares are slightly cheaper if you travel before the morning peak hours.",
-      "emoji": "⏰"
+      "en": "chronic",
+      "cn": "慢性的",
+      "def": "persisting for a long time or constantly recurring",
+      "ex": "My grandmother goes to the polyclinic regularly for her chronic high blood pressure.",
+      "emoji": "💊"
     },
     {
-      "en": "transit",
-      "cn": "公共交通/过境",
-      "def": "the carrying of people or goods from one place to another, especially on public transport",
-      "ex": "Singapore has one of the most efficient mass rapid transit systems in the world.",
-      "emoji": "🚇"
+      "en": "dispensary",
+      "cn": "药房",
+      "def": "a room in a clinic or hospital where medicines are prepared and given out",
+      "ex": "Please take a queue ticket and wait for your number to be called at the dispensary.",
+      "emoji": "🏥"
     },
     {
-      "en": "feeder bus",
-      "cn": "支线巴士",
-      "def": "a bus service that carries passengers from residential areas to a main transport hub like an MRT station",
-      "ex": "I usually take a short ride on a feeder bus from my block to the nearest MRT station.",
-      "emoji": "🚌"
+      "en": "subsidy",
+      "cn": "补贴/津贴",
+      "def": "money granted by the government to help pay for a service",
+      "ex": "Low-income households receive a higher CHAS subsidy at participating private clinics.",
+      "emoji": "💵"
     },
     {
-      "en": "disruption",
-      "cn": "中断/故障",
-      "def": "an interruption in the normal progress or activity of a system",
-      "ex": "The train operator quickly deployed free shuttle buses to help commuters during the track disruption.",
-      "emoji": "⚠️"
+      "en": "symptom",
+      "cn": "症状",
+      "def": "a physical or mental sign indicating a medical condition or disease",
+      "ex": "A sore throat and runny nose are common symptoms of seasonal influenza.",
+      "emoji": "🤒"
     },
     {
-      "en": "priority seat",
-      "cn": "博爱座/优先座",
-      "def": "a designated seat on public transport reserved for the elderly, pregnant women, or those with physical needs",
-      "ex": "He immediately stood up to offer his priority seat to an elderly lady carrying heavy groceries.",
-      "emoji": "👵"
+      "en": "triage",
+      "cn": "预检/分诊",
+      "def": "the process of deciding the order of treatment of patients based on their urgency",
+      "ex": "The nurse at the triage counter took my temperature and blood pressure first.",
+      "emoji": "📋"
     },
     {
-      "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "sliding doors at MRT stations that separate the platform from the train tracks for safety",
-      "ex": "Stand behind the yellow line and wait for the platform screen doors to open fully before boarding.",
-      "emoji": "🚪"
+      "en": "ointment",
+      "cn": "软膏",
+      "def": "a smooth, oily substance rubbed on the skin to heal a wound or soothe irritation",
+      "ex": "Apply this moisturizing ointment to the dry skin patches twice a day.",
+      "emoji": "🧴"
     },
     {
-      "en": "fare card",
-      "cn": "乘车卡",
-      "def": "a contactless smart card used to pay fares on public transport",
-      "ex": "You can easily top up your fare card using your phone or at any station ticket machine.",
-      "emoji": "🎫"
+      "en": "medical certificate (MC)",
+      "cn": "病假单",
+      "def": "an official document from a doctor excusing someone from work or school",
+      "ex": "I need to submit my digital MC to the HR department via our online portal.",
+      "emoji": "📄"
     },
     {
-      "en": "transfer",
-      "cn": "换乘/转车",
-      "def": "to change from one train line or public vehicle to another during a journey",
-      "ex": "To get to Orchard Road from here, you need to transfer from the East-West Line to the North-South Line.",
-      "emoji": "🔄"
+      "en": "appointment",
+      "cn": "预约",
+      "def": "an arrangement to meet a doctor or specialist at a particular time",
+      "ex": "You can easily book your vaccination appointment online via the HealthHub app.",
+      "emoji": "📅"
     }
   ],
   "levelVocab": [
     {
-      "w": "contingency",
-      "ipa": "/kənˈtɪn.dʒən.si/",
-      "pos": "n.",
-      "cn": "应急预案/偶发事件",
-      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "The project manager created a robust contingency plan in case of supply chain delays."
+      "w": "conducive",
+      "ipa": "/kənˈdjuːsɪv/",
+      "pos": "adj.",
+      "cn": "有益的/有利的",
+      "def": "making a certain situation or outcome likely or possible",
+      "ex": "A noisy, open-office plan is not always conducive to deep creative work."
     },
     {
-      "w": "reconcile",
-      "ipa": "/ˈrek.ən.saɪl/",
-      "pos": "v.",
-      "cn": "调和/和解",
-      "def": "to find a way in which two differing ideas or facts can both be true or exist together",
-      "ex": "It is difficult to reconcile the company's aggressive expansion goals with its budget cuts."
+      "w": "contingency",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "pos": "n.",
+      "cn": "应急预案/权变事件",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "We must draw up a contingency plan in case our overseas supplier is disrupted."
     },
     {
       "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "ipa": "/dɪˈsɛmɪneɪt/",
       "pos": "v.",
       "cn": "传播/散播",
-      "def": "to spread information, knowledge, or ideas widely",
-      "ex": "The HR department will disseminate the new remote-work guidelines by the end of the week."
+      "def": "to spread information, knowledge, or news widely",
+      "ex": "The HR department will disseminate the new remote-work policy via email tomorrow."
     },
     {
-      "w": "precedent",
-      "ipa": "/ˈpres.ɪ.dənt/",
-      "pos": "n.",
-      "cn": "先例/前例",
-      "def": "an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances",
-      "ex": "Allowing employees to work from abroad might set a precedent that is hard to manage later."
+      "w": "spearhead",
+      "ipa": "/ˈspɪəhɛd/",
+      "pos": "v.",
+      "cn": "率先发起",
+      "def": "to lead an attack, movement, or project",
+      "ex": "She was chosen to spearhead the new digital marketing campaign in Southeast Asia."
     },
     {
-      "w": "stagnant",
-      "ipa": "/ˈstæɡ.nənt/",
+      "w": "tangible",
+      "ipa": "/ˈtændʒɪb(ə)l/",
       "pos": "adj.",
-      "cn": "停滞的/不景气的",
-      "def": "showing no activity, growth, or pace; sluggish",
-      "ex": "Economic growth has remained stagnant due to sluggish consumer demand."
+      "cn": "切实的/有形的",
+      "def": "clear and definite; real, rather than imaginary or vague",
+      "ex": "The new training program has yielded tangible improvements in team productivity."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈpɛrətɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的/迫切的",
+      "def": "of vital importance; crucial or demanding immediate action",
+      "ex": "It is imperative that we secure client approval before spending any more budget."
+    },
+    {
+      "w": "discretion",
+      "ipa": "/dɪˈskrɛʃ(ə)n/",
+      "pos": "n.",
+      "cn": "自主决定权",
+      "def": "the freedom to decide what should be done in a particular situation",
+      "ex": "Our branch managers have the discretion to offer discounts to loyal corporate clients."
     },
     {
       "w": "unilateral",
-      "ipa": "/ˌjuː.nɪˈlæt.ər.əl/",
+      "ipa": "/ˌjuːnɪˈlætərəl/",
       "pos": "adj.",
       "cn": "单方面的",
-      "def": "performed by or affecting only one person, group, or country involved in a situation, without the agreement of another",
-      "ex": "The client made a unilateral decision to cancel the contract, which upset our team."
+      "def": "performed by or affecting only one person, group, or country in a situation",
+      "ex": "The country made a unilateral decision to raise tariffs, upsetting its trading partners."
     },
     {
       "w": "stringent",
-      "ipa": "/ˈstrɪn.dʒənt/",
+      "ipa": "/ˈstrɪndʒ(ə)nt/",
       "pos": "adj.",
-      "cn": "严格的/严厉的",
-      "def": "strict, precise, and exacting, especially in relation to regulations or requirements",
-      "ex": "All new medical devices must undergo stringent testing before they are approved for public sale."
+      "cn": "严格的",
+      "def": "strict, precise, and exacting",
+      "ex": "The financial regulator has imposed more stringent rules on cryptocurrency exchanges."
     },
     {
-      "w": "allot",
-      "ipa": "/əˈlɒt/",
-      "pos": "v.",
-      "cn": "分配/拨出",
-      "def": "to give or apportion something to someone as a share or task",
-      "ex": "The finance board agreed to allot fifty thousand dollars for marketing the new software."
-    },
-    {
-      "w": "concur",
-      "ipa": "/kənˈkɜːr/",
-      "pos": "v.",
-      "cn": "同意/赞同",
-      "def": "to be of the same opinion; to agree with a decision or statement",
-      "ex": "The board of directors concurred with the CEO's proposal to restructure the sales department."
-    },
-    {
-      "w": "deviation",
-      "ipa": "/ˌdiː.viˈeɪ.ʃən/",
-      "pos": "n.",
-      "cn": "偏差/背离",
-      "def": "the action of departing from an established course, standard, or accepted norm",
-      "ex": "Any deviation from the safety protocols will result in immediate disciplinary action."
+      "w": "commensurate",
+      "ipa": "/kəˈmɛnʃərət/",
+      "pos": "adj.",
+      "cn": "相称的",
+      "def": "corresponding in size, degree, or proportion",
+      "ex": "Your salary increase will be commensurate with your achievements and work performance."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Green Transition in Public Housing",
-    "transcript": "HDB has launched its latest eco-friendly <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌrez.ɪˈden.ʃəl/ (adj.) relating to areas where people live — 住宅的\">residential</span> project in Tengah, featuring smart cooling systems and car-free town centres. While residents are eager to move in, some have raised concerns about the initial maintenance costs of these <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsen.trə.laɪzd/ (adj.) controlled or managed from a single hub — 中央控制的/集中的\">centralized</span> cooling units. Nonetheless, urban planners believe this trial is a crucial step towards Singapore's <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌnetˈzɪə.rəʊ/ (adj.) achieving a balance between greenhouse gas emissions produced and removed — 净零排放\">net-zero</span> goals by 2050."
+    "title": "Beat the Heat: Singapore's Green Cooling Strategy",
+    "transcript": "As Singapore <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɡræp.əlz/ (v.) struggles to deal with or overcome a difficulty — 努力应对\">grapples</span> with rising temperatures, the nation is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪnˈtensɪfaɪɪŋ/ (v.) making or becoming more intense or focused — 加密/加剧\">intensifying</span> its urban cooling strategies. Authorities are rolling out cool paints on HDB blocks to reflect heat, while also planting more trees to create natural <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈkænəpiz/ (n.) high, leafy covers formed by tree branches — 树冠层\">canopies</span>. These measures are crucial to ensure that city life remains liveable amid the threat of climate change."
   },
   "economistArticle": {
-    "title": "The Price of Closed Gates: Trump’s Immigration Crackdown and the Threat to American Growth",
+    "title": "The Price of Closed Borders: The Economic Toll of Immigration Crackdowns",
     "paras": [
-      "In the theater of modern populist politics, few promises resonate quite as fiercely as the pledge to seal national borders and <span class=\"voc\">repatriate</span> undocumented workers. Yet, as the rhetoric around immigration intensifies ahead of the upcoming US election, economists are raising alarm bells over the stark fiscal reality of such policies. A sweeping crackdown on immigration, championed by Donald Trump, threatens to trigger a profound <span class=\"voc\">demographic</span> contraction that could hobble the American economy for a generation.",
-      "The mechanics of this economic drag are straightforward but devastating. For decades, the American labor force has relied on a steady influx of foreign-born workers to offset the natural aging of its domestic population. By <span class=\"voc\">curtailing</span> both legal visas and executing mass deportations, the proposed policies would abruptly sever this vital supply line. Key sectors—ranging from agriculture and hospitality to technology and healthcare—would find themselves grappling with acute, <span class=\"voc\">systemic</span> labor shortages that cannot easily be plugged by native-born workers.",
-      "Beyond the immediate disruption to specific industries, the macroeconomic <span class=\"voc\">fallout</span> would be <span class=\"voc\">pervasive</span>. Economists estimate that a significant reduction in foreign labor would trigger a sharp contraction in GDP growth, while simultaneously stoking inflationary pressures. As businesses compete for a dwindling pool of workers, wage growth in low-productivity sectors might spike temporarily, but this would inevitably be passed on to consumers in the form of higher prices. The ultimate result is a <span class=\"voc\">stagflationary</span> trap: slower growth paired with stubborn inflation.",
-      "Furthermore, the long-term fiscal health of the United States depends heavily on immigration to sustain its social safety nets. The Social Security and Medicare systems rely on the payroll taxes of active workers to fund the retirement benefits of an aging baby-boomer generation. Stripping millions of productive, tax-paying individuals from the economy would severely exacerbate the funding shortfalls of these programs. Far from protecting domestic wealth, a <span class=\"voc\">draconian</span> immigration policy risks bankrupting the very institutions designed to safeguard it.",
-      "<span class=\"gem\">Ultimately, the pursuit of absolute border control at the expense of economic pragmatism represents a classic case of political <span class=\"voc\">expediency</span> overriding fiscal sanity.</span> <span class=\"gem\">In an era where global competitiveness is defined by human capital, restricting the flow of labor is akin to unilateral economic <span class=\"voc\">disarmament</span>.</span> If America chooses to shutter its gates, it must also prepare to accept a less dynamic, slower-growing future, sacrificing its economic preeminence on the altar of populist ideology."
+      "For decades, the <span class=\"voc\">lifeblood</span> of advanced economies has been the steady flow of foreign labor. Whether filling high-tech engineering roles in Silicon Valley or undertaking <span class=\"voc\">strenuous</span> construction work in rapidly developing cities, migrant workers plug crucial demographic gaps. However, a growing political appetite for isolationism has thrust immigration crackdowns to the forefront of national agendas, most notably in the United States. <span class=\"gem\">While such policies may <span class=\"voc\">appease</span> certain domestic voting blocs, they carry a steep and inescapable economic toll.</span>",
+      "The most immediate casualty of a sweeping immigration crackdown is the sheer size of the workforce. Countries facing aging populations and plummeting birth rates rely heavily on newcomers to sustain economic momentum. Forcing millions of undocumented workers out or severely <span class=\"voc\">curtailing</span> legal visas triggers an immediate labor crunch. Industries like agriculture, hospitality, and construction, which rely on low-wage manual labor, find themselves suddenly <span class=\"voc\">hollowed</span> out. Crops rot in fields, and building timelines stretch indefinitely.",
+      "Advocates of restrictive immigration argue that shrinking the labor supply will naturally force wages up for native-born workers. While this sounds appealing in theory, the macroeconomic reality is far more <span class=\"voc\">sobering</span>. Faced with severe labor shortages, businesses do not just raise wages indefinitely; they are often forced to scale back operations or pass the <span class=\"voc\">ballooning</span> costs onto consumers. This fuels persistent inflation, eroding the purchasing power of the very citizens the policies were intended to protect. Moreover, some businesses simply close down or relocate overseas.",
+      "Beyond the immediate shock to low-wage industries, a clampdown on highly skilled immigration <span class=\"voc\">stifles</span> innovation. Tech hubs and research institutions thrive on global talent. When visa pathways are choked, top-tier engineers, scientists, and entrepreneurs choose other destinations, such as Canada, Singapore, or the European Union. The loss of human capital directly degrades a country's long-term productivity growth. <span class=\"gem\">A nation that locks its doors eventually finds itself locked out of the global race for intellectual leadership.</span>",
+      "Ultimately, economic growth is a function of labor force growth and productivity. Restricting immigration damages both variables simultaneously. As the workforce contracts and innovation stalls, the broader economy faces a <span class=\"voc\">protracted</span> period of stagnation. Policymakers must eventually <span class=\"voc\">reckon</span> with the stark trade-off: pursuing short-term populist victories today comes at the expense of prosperity tomorrow."
     ],
-    "cn": "在现代民粹主义政治的舞台上，很少有哪项承诺能像封闭国家边界和遣返无证劳工那样，引起如此强烈的共鸣。然而，随着大选临近、关于移民问题的言辞日益激烈，经济学家们正对这些政策背后的残酷财政现实敲响警钟。唐纳德·特朗普所倡导的全面移民打击政策，极有可能引发严重的人口萎缩，从而使美国经济在整整一代人的时间里步履维艰。\n\n这种经济拖累的机制简单却具有毁灭性。几十年来，美国劳动力市场一直依赖源源不断的外籍员工，来抵消本土人口自然老龄化的影响。通过削减合法签证和执行大规模遣返，拟议的政策将突然切断这条至关重要的供应线。从农业、服务业到科技和医疗保健等关键行业，都将面临严重的、系统性的劳动力短缺，而这些缺口是无法轻易由本土工人填补的。\n\n除了对特定行业的直接冲击外，宏观经济的负面连锁反应也将无处不在。经济学家估计，外籍劳动力的重大流失将导致国内生产总值（GDP）增长急剧萎缩，同时加剧通胀压力。随着企业争夺日益减少的劳动力资源，低生产率部门的工资涨幅可能会出现暂时性飙升，但这必然会以更高商品价格的形式转嫁给消费者。最终的结果将是一个滞胀陷阱：增长放缓与顽固通胀并存。\n\n此外，美国的长期财政健康在很大程度上取决于依靠移民来维持其社会安全保障网。社会保障和医疗保险体系依赖在职职工缴纳的工资税，来为老龄化的婴儿潮一代筹集退休福利资金。将数百万有生产力、有纳税能力的个人从经济体中剥离出去，将严重加剧这些计划的资金缺口。严酷的移民政策非但不能保护国内财富，反而有可能使旨在保障财富的制度走向破产。\n\n归根结底，以牺牲经济务实态度为代价去追求绝对的边界控制，是政治权宜之计压倒财政理性的典型案例。在一个人力资本决定全球竞争力的时代，限制劳动力流动无异于单方面解除经济武装。如果美国选择关闭大门，它就必须准备好接受一个活力减弱、增长放缓的未来，将自己的经济主导地位牺牲在民粹主义意识形态的祭坛上。",
+    "cn": "几十年来，发达经济体的生命线一直是外国劳工的稳定流入。无论是在硅谷担任高科技工程职位，还是在快速发展的城市中从事艰苦的建筑工作，移民工人填补了关键的人口缺口。然而，对孤立主义日益增长的政治胃口已将打击移民推向了国家议程的前沿，在美利坚合众国尤为显著。虽然这些政策可能会迎合某些国内选民，但它们带来了沉重且不可避免的经济代价。\n\n席卷而来的移民打击行动最直接的受害者是劳动力的规模。面对人口老龄化和生育率骤降的国家，在很大程度上依赖新移民来维持经济增长势头。强迫数百万无证工人离开或严厉限制合法签证会立即引发劳动力危机。依赖低薪手工劳动的农业、酒店业和建筑业等行业会突然发现自己空心化。农作物在田里腐烂，建筑工期无限期延长。\n\n限制移民的倡导者认为，缩小劳动力供应自然会迫使本地工人的工资上涨。虽然这在理论上听起来很有吸引力，但宏观经济现实要冷酷得多。面对严重的劳动力短缺，企业不仅无法无限期地提高工资，反而往往被迫缩减运营规模或将激增的成本转嫁给消费者。这加剧了持续的通货膨胀，侵蚀了这些政策本意要保护的公民的购买力。此外，一些企业干脆倒闭或迁往海外。\n\n除了对低薪行业的直接冲击之外，对高技能移民的限制也扼杀了创新。科技中心和研究机构依靠全球人才而蓬勃发展。当签证渠道被堵塞时，顶尖的工程师、科学家和企业家会选择其他目的地，如加拿大、新加坡或欧盟。人力资本的流失直接降低了一个国家的长期生产力增长。一个锁上大门的国家最终会发现自己被排除在争夺知识领袖地位的全球竞争之外。\n\n归根结底，经济增长是劳动力增长和生产力的函数。限制移民同时损害了这两个变量。随着劳动力收缩和创新停滞，更广泛的经济将面临长期的停滞。政策制定者最终必须在残酷的权衡中做出选择：追求眼前的民粹主义胜利，代价是牺牲未来的繁荣。",
     "vocab": [
       {
-        "w": "repatriate",
-        "ipa": "/ˌriːˈpæt.ri.eɪt/",
-        "pos": "v.",
-        "mean": "遣返",
-        "def": "send someone back to their own country",
-        "ex": "The government made plans to repatriate thousands of displaced foreign citizens."
+        "w": "lifeblood",
+        "ipa": "/ˈlaɪfblʌd/",
+        "pos": "n.",
+        "mean": "生命线/命脉",
+        "def": "the indispensable factor or influence that gives something its strength and vitality",
+        "ex": "Foreign talent has long been the lifeblood of Singapore's financial services sector."
       },
       {
-        "w": "demographic",
-        "ipa": "/ˌdem.əˈɡræf.ɪk/",
+        "w": "strenuous",
+        "ipa": "/ˈstrɛnjuəs/",
         "pos": "adj.",
-        "mean": "人口学的",
-        "def": "relating to the structure of populations",
-        "ex": "The country is facing severe demographic challenges as the birth rate continues to fall."
+        "mean": "费力的/艰苦的",
+        "def": "requiring or using great exertion or physical effort",
+        "ex": "Workers in the construction sector are often subjected to strenuous physical labor under the hot sun."
+      },
+      {
+        "w": "appease",
+        "ipa": "/əˈpiːz/",
+        "pos": "v.",
+        "mean": "迎合/安抚",
+        "def": "pacify or placate someone by acceding to their demands",
+        "ex": "The government's new housing measures are aimed to appease citizens worried about property prices."
       },
       {
         "w": "curtailing",
-        "ipa": "/kəˈteɪl.ɪŋ/",
-        "pos": "v. (gerund)",
-        "mean": "缩减/限制",
-        "def": "reducing or restricting something",
-        "ex": "By curtailing research spending, the tech firm risked losing its technological lead."
+        "ipa": "/kəˈteɪlɪŋ/",
+        "pos": "v.",
+        "mean": "削减/限制",
+        "def": "reducing in extent or quantity; imposing a restriction on",
+        "ex": "To manage costs, the firm is considering curtailing its business travel budget."
       },
       {
-        "w": "systemic",
-        "ipa": "/sɪˈstem.ɪk/",
+        "w": "hollowed",
+        "ipa": "/ˈhɒləʊd/",
         "pos": "adj.",
-        "mean": "系统性的",
-        "def": "affecting an entire system rather than just parts of it",
-        "ex": "There is a systemic shortage of skilled nurses across the national healthcare sector."
+        "mean": "被掏空的/空心化的",
+        "def": "having the inside part removed, weakened, or emptied",
+        "ex": "Industrial towns were hollowed out as manufacturing jobs moved to cheaper regions."
       },
       {
-        "w": "fallout",
-        "ipa": "/ˈfɔːl.aʊt/",
-        "pos": "n.",
-        "mean": "不良后果/副作用",
-        "def": "the adverse results of a situation or action",
-        "ex": "The economic fallout from the banking crisis was felt worldwide for several years."
-      },
-      {
-        "w": "pervasive",
-        "ipa": "/pəˈveɪ.sɪv/",
+        "w": "sobering",
+        "ipa": "/ˈsəʊbərɪŋ/",
         "pos": "adj.",
-        "mean": "普遍的/无处不在的",
-        "def": "spreading widely throughout an area or a group of people",
-        "ex": "The influence of digital media is so pervasive that it shapes almost every aspect of daily life."
+        "mean": "令人清醒的/发人深省的",
+        "def": "creating a serious, sensible, or solemn attitude or realization",
+        "ex": "The latest economic forecast presents a sobering outlook for global trade."
       },
       {
-        "w": "stagflationary",
-        "ipa": "/ˌstæɡˈfleɪ.ʃən.ər.i/",
+        "w": "ballooning",
+        "ipa": "/bəˈluːnɪŋ/",
         "pos": "adj.",
-        "mean": "经济滞胀的",
-        "def": "relating to a combination of slow economic growth and high inflation",
-        "ex": "The sudden rise in energy prices pushed the economy into a dangerous stagflationary spiral."
+        "mean": "激增的/迅速膨胀的",
+        "def": "swelling or increasing rapidly in size, level, or value",
+        "ex": "The country's ballooning national debt has raised alarms among international lenders."
       },
       {
-        "w": "draconian",
-        "ipa": "/drəˈkəʊ.ni.ən/",
+        "w": "stifles",
+        "ipa": "/ˈstaɪfəlz/",
+        "pos": "v.",
+        "mean": "扼杀/压制",
+        "def": "prevents or constrains an activity, idea, or development",
+        "ex": "Excessive red tape stifles local entrepreneurship and discourages fresh investment."
+      },
+      {
+        "w": "protracted",
+        "ipa": "/prəˈtræktɪd/",
         "pos": "adj.",
-        "mean": "严厉的/严酷的",
-        "def": "excessively harsh and severe",
-        "ex": "The council introduced draconian measures to penalize littering in public parks."
+        "mean": "长期的/旷日持久的",
+        "def": "lasting for a long time or longer than expected or usual",
+        "ex": "The company entered a protracted legal dispute over trademark infringement."
       },
       {
-        "w": "expediency",
-        "ipa": "/ɪkˈspiː.di.ən.si/",
-        "pos": "n.",
-        "mean": "权宜之计/功利做法",
-        "def": "the quality of being convenient and practical despite possibly being improper or immoral",
-        "ex": "The politician's decision was guided by expediency rather than pure principles."
-      },
-      {
-        "w": "disarmament",
-        "ipa": "/dɪsˈɑː.mə.mənt/",
-        "pos": "n.",
-        "mean": "武装解除/裁军",
-        "def": "the reduction or withdrawal of military forces and weapons (here used metaphorically)",
-        "ex": "Restricting funding for local start-ups is tantamount to intellectual disarmament."
+        "w": "reckon",
+        "ipa": "/ˈrɛkən/",
+        "pos": "v.",
+        "mean": "面对/算账",
+        "def": "face, consider, or deal with a difficult situation or reality",
+        "ex": "As baby boomers retire, the government must reckon with mounting healthcare costs."
       }
     ],
     "gems": [
       {
-        "s": "In an era where global competitiveness is defined by human capital, restricting the flow of labor is akin to unilateral economic disarmament.",
-        "why": "It uses a powerful military metaphor ('unilateral economic disarmament') to frame an economic policy in dramatic, high-stakes terms, illustrating the self-inflicted damage of restrictive policies. 在一个以人力资本定义全球竞争力的时代，限制劳动力流动无异于单方面解除经济武装。该句使用了强有力的军事隐喻（‘单方面解除经济武装’）来描述经济政策，生动展现了限制性政策对国家自身造成的伤害。"
+        "s": "While such policies may appease certain domestic voting blocs, they carry a steep and inescapable economic toll.",
+        "why": "This sentence makes excellent use of contrast via 'While' to balance political motivation against harsh economic reality. It uses strong, evocative adjectives like 'steep' and 'inescapable' to make the conclusion feel absolute. 句子巧妙运用‘While’引导让步状语从句，将政治动机与严酷的经济现实进行对比。通过使用‘steep’（沉重的）和‘inescapable’（不可避免的）等极具感染力的形容词，使结论显得不容置疑。"
       },
       {
-        "s": "Ultimately, the pursuit of absolute border control at the expense of economic pragmatism represents a classic case of political expediency overriding fiscal sanity.",
-        "why": "This sentence employs excellent balanced phrasing, contrasting 'political expediency' with 'fiscal sanity' to highlight the irrationality of the policy. 最终，以牺牲经济务实为代价追求绝对边界控制，是政治权宜之计压倒财政理性的典型案例。该句采用工整的对照结构，将‘政治权宜’与‘财政理性’对立，有力揭示了政策的非理性本质。"
+        "s": "A nation that locks its doors eventually finds itself locked out of the global race for intellectual leadership.",
+        "why": "This sentence employs a powerful rhetorical wordplay with 'locks its doors' versus 'locked out of'. It creates a poetic symmetry that highlights the self-defeating nature of isolationist policies. 句子在‘locks its doors’（锁上大门）与‘locked out of’（被拒之门外）之间运用了精妙的反差与双关。这种极具对称美感的修辞手法，深刻揭示了孤立主义政策自食其果的本质。"
       }
     ]
   }
