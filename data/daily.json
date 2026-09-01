@@ -1,69 +1,57 @@
 {
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-31T05:48:03.253009+00:00",
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T05:21:16.629251+00:00",
   "economist": {
-    "headline": "The economic costs of Donald Trump’s immigration crackdown",
-    "teaser": "A smaller workforce and slower growth",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+    "headline": "The extraordinary rise of Miami’s economy",
+    "teaser": "Thanks to a combination of capital and politics, the city is booming. Can its success be sustained?",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-miamis-economy",
     "vocab": [
       {
-        "word": "immigration",
-        "phonetic": "/ɪmɪˈɡɹeɪʃn/",
-        "def": "The act of immigrating; the passing or coming into a country of which one is not native born for the purpose of permanent residence."
+        "word": "combination",
+        "phonetic": "/kɒmbɪˈneɪʃən/",
+        "def": "The act of combining, the state of being combined or the result of combining."
       },
       {
-        "word": "workforce",
-        "phonetic": "",
-        "def": "All the workers employed by a specific organization or state, or on a specific project"
+        "word": "capital",
+        "phonetic": "/ˈkæp.ɪ.təl/",
+        "def": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures)."
       }
     ]
   },
   "st": {
-    "headline": "Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs",
-    "teaser": "The United States remains Toyota and Honda’s biggest market.",
-    "url": "https://www.straitstimes.com/business/toyota-and-honda-may-get-stuck-with-the-bill-for-trumps-canada-tariffs",
+    "headline": "Japan’s benchmark 10-year bond yield reaches 3% level for first time in 30 years",
+    "teaser": "The five-year rate is at a record high, and the two-year yield is at a 31-year peak.",
+    "url": "https://www.straitstimes.com/business/japans-benchmark-10-year-bond-yield-reaches-3-level-for-first-time-in-30-years",
     "fullText": [
-      "TOKYO – US President Donald Trump is targeting Ottawa with a proposed 50 per cent tariff on Canadian car imports – but Japan’s Toyota and Honda may end up footing the bill.",
-      "The two Japanese automakers account for more than three-quarters of all cars made in Canada.",
-      "They could be forced to shutter some production lines if the tariffs go into effect on Jan 1, 2027, as proposed, analysts said.",
-      "While a deal could still be reached, the timing of the US tariffs could not be worse, as Japanese automakers are being stung by competition from low-cost Chinese electric vehicles in markets such as South-east Asia, Europe and Latin America.",
-      "The United States remains Toyota and Honda’s biggest market and, crucially, one where Chinese rivals like BYD are not allowed in.",
-      "Canadian-built cars accounted for almost a quarter of Honda’s US sales and 17 per cent of Toyota’s in 2025 , the most among major automakers, according to Barclays analysts.",
-      "As a result, the two face the biggest potential hit from Trump’s plan to double the levies from the current 25 per cent.",
-      "“If you really wanted to destroy the Canadian auto industry, you could with these tariffs,” said Julie Boote, autos analyst at Pelham Smithers Associates in London.",
-      "Both companies would likely have to close some of their Canadian assembly lines, she said.",
-      "Canada’s auto industry produces around 1.2 million cars a year and indirectly supports some 427,000 jobs.",
-      "Toyota’s exports from Canada to the US include the RAV4, while Honda exports the CR-V.",
-      "Both cars are among the best-selling sport utility vehicles in the US.",
-      "The proposed tariffs are the latest example of Trump trade policies that have left the global auto industry scrambling to adapt.",
-      "For years, US, European, Japanese and South Korean car companies and their suppliers built production chains across North America, taking advantage of cross-border trade deals and, especially in Mexico, lower labour costs.",
-      "But cost dynamics have now changed drastically.",
-      "US tariffs cost Toyota about 1.4 trillion yen (S$11.2 billion) in the 2025 financial year.",
-      "Toyota is now doubling down on US production.",
-      "The world’s largest automaker in 2025 said it aims to invest up to US$10 billion over five years to expand its US operations.",
-      "That will include a new $3.6 billion auto plant in Texas, where it intends to move production of the Tacoma pick-up truck from its Baja California plant in Mexico.",
-      "For Honda, which is struggling to turn around its money-losing car business, tariffs have only added to the strain.",
-      "A senior executive recently told reporters that it might not build an eighth assembly plant in North America unless the US-Mexico-Canada Agreement (USMCA) free trade talks among the US, Canada and Mexico are extended.",
-      "USMCA is the revised version of the 1994 North American Free Trade Agreement trade pact and has been in place for six years.",
-      "Trump opted on July 1 not to renew it, subjecting it to annual reviews, although talks have continued.",
-      "in 2025 , South Korea’s Hyundai said uncertainty about USMCA was delaying its investment decisions.",
-      "If the tariffs take effect, Toyota and Honda would likely try to redirect Canadian-built vehicles to other markets and then try to find ways to make up supply for the all-important US market – hardly an easy task, analysts said.",
-      "US-bound vehicles are often tailored to the market’s needs and regulations, while factories elsewhere may already be operating near capacity.",
-      "“It would represent a major shift from the past,” said Seiji Sugiura, a senior analyst at Tokai Tokyo Intelligence Laboratory.",
-      "Two Japanese suppliers said they were unsure what would happen next and it remained, at least for now, impossible to plan, given that it was still uncertain whether the tariffs would go into effect.",
-      "“We’re trying not to overreact,” one of the supplier executives said. REUTERS"
+      "TOKYO – Japan’s benchmark bond yield hit the 3 per cent level for the first time since September 1996 on Sept 1 , highlighting how inflation, fiscal concerns and shifting monetary policy are reshaping a market long defined by low interest rates.",
+      "With the Middle East crisis stoking inflation fears globally and pressure on the Bank of Japan to accelerate rate hikes, yields have jumped to historic levels across the Japanese government bond curve.",
+      "The 10-year JGB yield has more than tripled in two years. On the shorter end, the five-year rate is at a record high, and the two-year yield is at a 31-year peak as markets priced in a near certainty the BOJ will raise interest rates at its meeting in September.",
+      "Inflationary pressures and the yen, languishing near a four-decade low, have exerted pressure on the BOJ to speed up rate hikes.",
+      "The central bank has faced criticism at home and abroad that it was “behind the curve” in normalising monetary policy, which includes a gradual drawdown of its massive JGB holdings.",
+      "Japan’s bond sell-off has drawn attention because the country’s heavy debt burden makes it especially vulnerable to rising borrowing costs. Demand at a 10-year JGB auction in August was the weakest in a year.",
+      "Prime Minister Sanae Takaichi has pushed an investment-led growth path targeting strategic industries since taking office in October.",
+      "That spending along with planned tax cuts have stoked concerns that Japan could worsen its precarious financial position, with debt exceeding 200 per cent of gross domestic product.",
+      "Japan is not alone in seeing stress in its bond market.",
+      "With no end in sight for the US-Iran conflict and elevated oil prices, bond yields across the United States, Germany and France jumped to multi-year highs of late on rising expectations for inflation and central bank tightening. REUTERS"
     ]
   },
   "cna": {
-    "headline": "Pokemon World Championships coming to Singapore in August 2027",
-    "teaser": "The Pokemon World Championships will be held at Singapore Expo from Aug 13 to 15, 2027, with Championship Sunday taking place at the Singapore Indoor Stadium.",
-    "url": "https://www.channelnewsasia.com/entertainment/pokemon-world-championships-singapore-2027-6351431",
+    "headline": "Osaka brings style and steel for winning start to US Open",
+    "teaser": "Osaka brings style and steel for winning start to US Open",
+    "url": "https://www.channelnewsasia.com/sport/osaka-brings-style-and-steel-winning-start-us-open-6353971",
     "fullText": [
-      "Pokemon fans, it's time to catch 'em all: The Pokemon World Championships is coming to Singapore in 2027.",
-      "The event will be held from Aug 13 to 15, 2027, at Singapore Expo, while the tournament's Championship Sunday is set to take place at the Singapore Indoor Stadium.",
-      "The announcement was made during the closing ceremony of the 2026 Pokemon World Championships in San Francisco on Sunday (Aug 30), local time. Singapore will host the annual tournament for the first time in 2027.",
-      "The Pokemon World Championships is the pinnacle of competitive Pokemon play, bringing together top players from around the world to compete for the title of World Champion, as well as prizes and other rewards. Competitions include the Pokemon Trading Card Game, Pokemon Video Game Championships (VGC) and Pokemon Go.",
-      "Further details on the 2027 championships will be announced at a later time.",
+      "NEW YORK, Aug 31 : Naomi Osaka unveiled another bold Grand Slam walk-on outfit at the U.S. Open on Monday before the two-time champion battled to a 7-6(6) 7-6(3) victory over unseeded Russian Anastasia Zakharova to reach the second round.",
+      "Osaka has been the fashion highlight of this year's majors and entered Arthur Ashe Stadium in a hooded tunic featuring patchwork-style panels adorned with press clippings from past tournament appearances and a billowing white tulle train.",
+      "At Wimbledon, she paid tribute to her Japanese heritage with a kimono-inspired ensemble featuring a traditional kanzashi hair ornament before changing into a white Nike playing kit.",
+      "At Roland Garros, she arrived in a black Kevin Germanier skirt and competed in a layered yellow, brown and gold outfit inspired by the Eiffel Tower's nighttime sparkle.",
+      "Competing at Flushing Meadows in an Allen Iverson-inspired outfit, the four-time Grand Slam champion looked set for a straightforward victory after racing into a 4-1 lead, only for world number 101 Zakharova to force a tiebreak.",
+      "\"It's my tribute to Iverson,\" Osaka said of the NBA Hall of Famer. \"I really like him a lot.",
+      "\"Nike said basketball, so I said 'you want basketball, I'll give you basketball'. I like expressing myself through clothes and I'm glad you guys appreciate it.\"",
+      "Osaka showed her battling qualities to win the tiebreak before being taken to another in the second set, where she held her nerve to close out the victory.",
+      "\"I would say it took everything (to win),\" Osaka said as the clock approached 12:30 a.m. on Tuesday.",
+      "\"I have no idea what time it is. Thanks for staying,\" she told fans. \"I'm grateful to be able to play on this court again.",
+      "\"I just told myself to not have any regrets. I wanted to come out and compete. I haven't played since Toronto, so I was a little rusty. I get nervous in the first rounds. I want to do well and show you guys new outfits.\"",
+      "The 13th seed, champion at Flushing Meadows in 2018 and 2020, takes on Czech Republic's Katerina Siniakova in the second round.",
       "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
@@ -74,259 +62,259 @@
   },
   "lifeVocab": [
     {
-      "en": "stallholder",
-      "cn": "摊主",
-      "def": "a person who rents and runs a stall in a market",
-      "ex": "The friendly stallholder at the wet market always gives me extra spring onions for free.",
-      "emoji": "🥦"
+      "en": "tap in / tap out",
+      "cn": "进站刷卡 / 出站刷卡",
+      "def": "To press an EZ-Link card or contactless payment card against the reader at MRT gantry gates",
+      "ex": "Please remember to tap out properly at the MRT station to avoid getting charged the maximum fare.",
+      "emoji": "💳"
     },
     {
-      "en": "haggle",
-      "cn": "讨价还价",
-      "def": "to argue or bargain about the price of something before agreeing on it",
-      "ex": "In some tourist markets you can haggle, but at Singapore wet markets, the prices are usually fixed.",
-      "emoji": "🗣️"
+      "en": "commuter",
+      "cn": "通勤者",
+      "def": "A person who travels some distance to work on a regular basis",
+      "ex": "Thousands of commuters squeeze onto the East-West Line during the morning rush hour.",
+      "emoji": "🚶"
     },
     {
-      "en": "bulk buy",
-      "cn": "批量购买",
-      "def": "to purchase a large quantity of a product at one time, usually to get a discount",
-      "ex": "My family likes to bulk buy rice and cooking oil from the wholesale market to save money.",
-      "emoji": "📦"
+      "en": "feeder bus",
+      "cn": "接驳巴士",
+      "def": "A bus service that carries passengers short distances to and from a main transport hub like an MRT station",
+      "ex": "I usually take a feeder bus from my HDB flat to the nearest MRT station.",
+      "emoji": "🚌"
     },
     {
-      "en": "produce",
-      "cn": "农产品",
-      "def": "fresh fruits and vegetables that have been grown on a farm",
-      "ex": "I prefer getting my fresh produce from the local wet market because it is cheaper and fresher than the supermarket.",
-      "emoji": "🍅"
+      "en": "peak hour",
+      "cn": "高峰时段",
+      "def": "The busiest times of the day for public transport, usually when people travel to and from work",
+      "ex": "Public transport fares are slightly higher during peak hours to manage crowd congestion.",
+      "emoji": "⏰"
     },
     {
-      "en": "descale",
-      "cn": "去鳞",
-      "def": "to remove the scales from a fish",
-      "ex": "You can ask the fishmonger to descale and clean the sea bass for you before you take it home.",
-      "emoji": "🐟"
+      "en": "interchange",
+      "cn": "换乘站 / 巴士总站",
+      "def": "A major station where different transport lines or bus routes meet, allowing passengers to switch",
+      "ex": "Jurong East is a busy interchange where commuters switch between the East-West and North-South lines.",
+      "emoji": "🚉"
     },
     {
-      "en": "condiment",
-      "cn": "调味品",
-      "def": "a substance such as a sauce or spice used to add flavor to food",
-      "ex": "Chili padi in soy sauce is a must-have condiment for almost every Singaporean meal.",
-      "emoji": "🌶️"
+      "en": "concession card",
+      "cn": "优惠卡",
+      "def": "A transport card offering discounted fares for students, senior citizens, or lower-income individuals",
+      "ex": "Grandma uses her senior citizen concession card to enjoy cheaper travel on buses and trains.",
+      "emoji": "🪪"
     },
     {
-      "en": "grated",
-      "cn": "磨碎的",
-      "def": "reduced to small shreds by being rubbed on a grater",
-      "ex": "Many traditional dessert stalls use freshly grated coconut to coat their ondeh ondeh.",
-      "emoji": "🥥"
+      "en": "platform screen doors",
+      "cn": "屏蔽门 / 安全门",
+      "def": "Sliding doors that separate the station platform from the train tracks for safety",
+      "ex": "Stand behind the yellow line and wait for the platform screen doors to open fully before boarding.",
+      "emoji": "🚪"
     },
     {
-      "en": "steep",
-      "cn": "浸泡",
-      "def": "to soak dry ingredients in hot liquid to extract their flavor",
-      "ex": "To make a rich cup of local Kopi, you need to steep the coffee grounds in the hot water pot for a few minutes.",
-      "emoji": "🍵"
+      "en": "escalator etiquette",
+      "cn": "自动扶梯礼仪",
+      "def": "Social rules for using escalators, such as standing on one side to let others walk past",
+      "ex": "Good escalator etiquette in Singapore means standing on the left and keeping the right side clear for urgent commuters.",
+      "emoji": "🪜"
     },
     {
-      "en": "perishable",
-      "cn": "易腐烂的",
-      "def": "food items that decay or spoil quickly if not kept cold",
-      "ex": "Be sure to put perishable items like tofu and minced meat into the fridge immediately after returning from the market.",
-      "emoji": "🍌"
+      "en": "track fault",
+      "cn": "轨道故障",
+      "def": "A technical problem with the train tracks that causes delays",
+      "ex": "SMRT announced a 15-minute delay on the Circle Line this morning due to a minor track fault.",
+      "emoji": "⚠️"
     },
     {
-      "en": "wholesale",
-      "cn": "批发",
-      "def": "the business of selling goods in large quantities at low prices to other businesses",
-      "ex": "Pasir Panjang Wholesale Centre is the main hub for importing vegetables and fruits into Singapore.",
-      "emoji": "🚚"
+      "en": "priority seat",
+      "cn": "优先座",
+      "def": "Seats reserved for the elderly, pregnant women, the injured, or parents with young children",
+      "ex": "The student quickly stood up to offer his priority seat to an elderly woman carrying heavy groceries.",
+      "emoji": "👵"
     }
   ],
   "levelVocab": [
     {
-      "w": "vanguard",
-      "ipa": "/ˈvæn.ɡɑːd/",
-      "pos": "n.",
-      "cn": "先锋",
-      "def": "a group of people leading the way in new developments or ideas",
-      "ex": "Local tech start-ups are at the vanguard of the green energy transition in Southeast Asia."
-    },
-    {
-      "w": "cognizant",
-      "ipa": "/ˈbɒɡ.nɪ.zənt/",
+      "w": "conducive",
+      "ipa": "/kənˈdjuːsɪv/",
       "pos": "adj.",
-      "cn": "意识到的",
-      "def": "having knowledge or being fully aware of something",
-      "ex": "Management must remain cognizant of the mental health of employees during corporate restructuring."
+      "cn": "有益的，有促进作用的",
+      "def": "making a certain situation or outcome likely or possible",
+      "ex": "The quiet study corners in public libraries are highly conducive to exam preparation."
     },
     {
-      "w": "obviate",
-      "ipa": "/ˈɒb.vi.eɪt/",
+      "w": "disseminate",
+      "ipa": "/dɪˈsemɪneɪt/",
       "pos": "v.",
-      "cn": "消除/避免",
-      "def": "to remove a need or difficulty, making something unnecessary",
-      "ex": "The adoption of automated clearance gates will obviate the need for long queues at immigration."
+      "cn": "传播，散布（信息）",
+      "def": "spread (something, especially information) widely",
+      "ex": "The health ministry works hard to disseminate accurate medical advice during disease outbreaks."
     },
     {
-      "w": "impetus",
-      "ipa": "/ˈɪm.pɪ.təs/",
-      "pos": "n.",
-      "cn": "动力/促进",
-      "def": "the force or energy that makes something happen or move faster",
-      "ex": "The government's new grant provided a strong impetus for SMEs to digitize their accounting systems."
-    },
-    {
-      "w": "salient",
-      "ipa": "/ˈseɪ.li.ənt/",
+      "w": "stringent",
+      "ipa": "/ˈstrɪndʒənt/",
       "pos": "adj.",
-      "cn": "显著的/最突出的",
-      "def": "most noticeable, important, or prominent",
-      "ex": "Let me summarize the salient points of the proposal before we proceed to the vote."
+      "cn": "严格的，严厉的",
+      "def": "strict, precise, and exacting",
+      "ex": "Singapore maintains stringent safety standards for all commercial buildings in the city-state."
     },
     {
-      "w": "acquiesce",
-      "ipa": "/ˌæk.wiˈes/",
+      "w": "spearhead",
+      "ipa": "/ˈspɪəhed/",
       "pos": "v.",
-      "cn": "默许/妥协",
-      "def": "to accept something reluctantly but without protest",
-      "ex": "Although the team preferred the original design, they had to acquiesce to the client's demands."
+      "cn": "带头，先锋",
+      "def": "lead an attack, movement, or collective project",
+      "ex": "She was chosen to spearhead the company's expansion into the regional e-commerce market."
     },
     {
-      "w": "frictionless",
-      "ipa": "/ˈfrɪk.ʃən.ləs/",
-      "pos": "adj.",
-      "cn": "顺畅的/无摩擦的",
-      "def": "achieved smoothly and without any difficulty or resistance",
-      "ex": "The new mobile app offers a frictionless user experience for ordering groceries online."
-    },
-    {
-      "w": "efficacy",
-      "ipa": "/ˈef.ɪ.kə.si/",
+      "w": "precursor",
+      "ipa": "/priːˈkɜːsə/",
       "pos": "n.",
-      "cn": "功效/效力",
-      "def": "the ability to produce a desired or intended result",
-      "ex": "The HR department is evaluating the efficacy of the new hybrid work policy on overall productivity."
+      "cn": "先驱，前兆",
+      "def": "a person or thing that comes before another of the same kind",
+      "ex": "The initial trial in a small neighborhood served as a precursor to the nationwide smart-city rollout."
     },
     {
-      "w": "ameliorate",
-      "ipa": "/əˈmiːl.jə.reɪt/",
+      "w": "unravel",
+      "ipa": "/ʌnˈrævəl/",
       "pos": "v.",
-      "cn": "改善",
-      "def": "to make a bad or unpleasant situation better",
-      "ex": "Additional bus services were introduced during peak hours to ameliorate commuter congestion."
+      "cn": "解开，阐明，揭开",
+      "def": "investigate and solve or explain something complicated",
+      "ex": "It took the financial investigators months to unravel the complex web of offshore accounts."
     },
     {
-      "w": "preclude",
-      "ipa": "/prɪˈkluːd/",
+      "w": "stagnant",
+      "ipa": "/ˈstæɡnənt/",
+      "pos": "adj.",
+      "cn": "停滞的，不发展的",
+      "def": "showing no activity; dull and sluggish",
+      "ex": "Without continuous upskilling, employees risk finding their careers stagnant in a rapidly changing economy."
+    },
+    {
+      "w": "reiterate",
+      "ipa": "/riˈɪtəreɪt/",
       "pos": "v.",
-      "cn": "排除/阻止",
-      "def": "to prevent something from happening or make it impossible",
-      "ex": "Signing this non-disclosure agreement will preclude you from working with our direct competitors."
+      "cn": "反复说，重申",
+      "def": "say something again or a number of times, typically for emphasis or clarity",
+      "ex": "During the townhall meeting, the director chose to reiterate the importance of workplace safety."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈperətɪv/",
+      "pos": "adj.",
+      "cn": "极重要的，必要的",
+      "def": "of vital importance; crucial",
+      "ex": "It is imperative that we backup our server data daily to protect against cyber threats."
+    },
+    {
+      "w": "commence",
+      "ipa": "/kəˈmens/",
+      "pos": "v.",
+      "cn": "开始",
+      "def": "begin or start",
+      "ex": "Construction work on the new MRT terminal is scheduled to commence early next year."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's Hawker Culture Gets Digital Boost",
-    "transcript": "As traditional hawkers in Singapore face rising operational costs, a new government-backed initiative aims to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈdɪdʒ.ɪ.taɪz/ (v.) to convert physical operations, pictures, or information into a digital form — 数字化\">digitize</span> their daily operations. By implementing e-payment terminals and online delivery platforms, older stallholders are finding it easier to reach younger, <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌtekˈsæv.i/ (adj.) well informed about or proficient in the use of modern technology — 精通科技的\">tech-savvy</span> customers. However, some elderly vendors still struggle with the transition, highlighting the persistent digital <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/dɪˈvaɪd/ (n.) a wide divergence or gap between two groups, typically causing disparity — 鸿沟/差距\">divide</span> in our silver generation."
+    "title": "Green Retrofitting of HDB Estates",
+    "transcript": "As Singapore steps up its green transition, older public housing estates are getting a modern <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈfeɪslɪft/ (n.) an upgrade or renovation to improve the appearance and functionality of something — 翻新，改头换面\">facelift</span>. Smart LED lighting and solar panels are being installed across various neighborhoods to reduce energy consumption. These efforts not only <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kɜːb/ (v.) to limit, control, or keep something in check — 抑制，控制\">curb</span> carbon emissions but also lower utility bills for residents in the long run. The government aims to make every HDB town eco-friendly by 2030."
   },
   "economistArticle": {
-    "title": "The Price of Closed Borders: The Economic Impact of Aggressive Immigration Curbs",
+    "title": "The Sunshine State’s Star: Can Miami’s Boom Last?",
     "paras": [
-      "Politicians often campaign on promises that sound reassuringly simple at the ballot box but prove excruciatingly complex in practice. Chief among these is the promise of a <span class=\"voc\">sweeping</span> <span class=\"voc\">deportation</span> campaign and tighter borders. <span class=\"gem\">While a hardline stance on borders may satisfy the anxieties of a domestic electorate, it ignores the structural dependence of modern economies on imported labor.</span>",
-      "In sectors such as agriculture, hospitality, and residential construction, foreign-born workers represent the backbone of daily operations. A sudden <span class=\"voc\">shortfall</span> in this workforce does not instantly inspire local citizens to fill the vacant slots; instead, it leaves crops to rot in fields and construction projects indefinitely stalled.",
-      "The immediate consequence of such a labor shock is the emergence of severe operational bottlenecks. As businesses compete fiercely for a dwindling pool of available staff, wage pressures inevitably surge. Far from being a win for domestic workers, these rapid wage increases are quickly offset by the rising costs of goods and services, which can <span class=\"voc\">exacerbate</span> existing financial pressures and risk rekindling inflation.",
-      "Moreover, the macroeconomic impact extends beyond temporary supply chain snarls to <span class=\"voc\">constrain</span> long-term growth. With domestic <span class=\"voc\">demographics</span> skewed toward an aging population, immigration has long served as a vital demographic engine. Without a steady influx of working-age individuals, the potential growth rate of the economy faces permanent downscaling.",
-      "Ultimately, pursuing isolationist labor policies is an expensive endeavor. Governments must eventually <span class=\"voc\">reconcile</span> national sovereignty with the <span class=\"voc\">unyielding</span> realities of economic globalization. Restricting the flow of human capital may satisfy political rhetoric, but the inevitable price is a smaller workforce and slower growth."
+      "Over the past few years, Miami has undergone a stunning economic <span class=\"voc\">metamorphosis</span>. <span class=\"gem\">Once known primarily as a playground for tourists and retirees, the city has rapidly evolved into a magnet for high finance and tech startups.</span> This dramatic shift is not a mere stroke of fortune; rather, it is the result of a deliberate alignment of political incentives and an <span class=\"voc\">influx</span> of private capital seeking refuge from high-tax <span class=\"voc\">jurisdictions</span>.",
+      "Wall Street heavyweights and Silicon Valley venture capitalists have flocked to South Florida, bringing with them billions of dollars in assets under management. This influx has <span class=\"voc\">spurred</span> a commercial real estate boom, with glossy new skyscrapers reshaping the downtown skyline. Local officials have <span class=\"voc\">capitalised</span> on this momentum, offering business-friendly policies and heavily marketing the city's enviable climate and lifestyle.",
+      "However, this <span class=\"voc\">breakneck</span> growth has also brought significant challenges. The most pressing of these is housing affordability. As wealthy newcomers bid up home prices, local residents are increasingly priced out of the market. The city’s infrastructure, from transit systems to drainage networks, is also under immense strain, <span class=\"voc\">exacerbated</span> by the existential threat of rising sea levels due to climate change.",
+      "To sustain its newfound status, Miami must address these deep-seated structural issues. Simply attracting capital is no longer enough; the local government must now ensure that the benefits of the boom are distributed more <span class=\"voc\">equitably</span>. Investing in public transportation and flood <span class=\"voc\">mitigation</span> infrastructure will be crucial to securing the city's long-term viability as a global hub.",
+      "Ultimately, Miami’s rise demonstrates the power of combining business-friendly governance with a high quality of life. Yet, whether it can retain its position as America’s newest economic powerhouse depends on how it manages the <span class=\"voc\">externalities</span> of its own success. The coming decade will test whether Miami can transition from a speculative boomtown to a resilient global metropolis."
     ],
-    "cn": "政治家们在竞选时做出的承诺在选票箱前听起来往往简单得令人安心，但在实际操作中却证明是极其复杂的。其中最核心的承诺就是彻底的驱逐出境运动和更严厉的边界管制。虽然对边界采取强硬立场可能会缓解国内选民的焦虑，但它忽略了现代经济对进口劳动力的结构性依赖。在农业、服务业和住宅建设等行业，外籍工人是日常运营的支柱。这一劳动力的突然短缺并不会立即激发本地公民去填补空缺；相反，它会导致农作物在田里烂掉，建筑项目无限期停滞。这种劳动力冲击的直接后果是严重运营瓶颈的出现。随着企业为争夺不断减少的可用员工而展开激烈竞争，工资压力不可避免地飙升。这远非本地工人的胜利，因为这些迅速上涨的工资很快就会被商品和服务成本的上升所抵消，这可能会加剧现有的财务压力并有重新燃起通货膨胀的风险。此外，宏观经济影响超出了暂时的供应链混乱，进而限制了长期增长。由于国内人口结构向老龄化倾斜，移民长期以来一直是至关重要的人口引擎。如果没有稳定的劳动年龄人口流入，经济的潜在增长率将面临永久性的下调。最终，追求孤立主义的劳动力政策是一项昂贵的尝试。政府最终必须在国家主权与不可动摇的经济全球化现实之间做出妥协。限制人力资本的流动可能会满足政治辞令，但不可避免的代价是更小的劳动力规模和更缓慢的增长。",
+    "cn": "在过去的几年里，迈阿密经历了一场令人瞩目的经济蜕变。这座曾经主要被视为游客和退休人员游乐场的城市，已迅速演变为吸引高端金融和科技初创企业的磁石。这种戏剧性的转变并非纯粹的运气，而是政治激励举措与旨在逃避高税收管辖区的私人资本涌入刻意结合的结果。\n\n华尔街巨头和硅谷风险投资家纷纷涌向南佛罗里达，随之而来的是数以十亿计的管理资产。这一涌入刺激了商业地产的繁荣，崭新光滑的摩天大楼重塑了市中心的天际线。当地官员利用这一势头，提供了有利于商业的政策，并大力推广该市令人羡慕的气候和生活方式。\n\n然而，这种极快的增长也带来了重大的挑战。其中最紧迫的是住房负担能力问题。随着富裕的新移民推高房价，当地居民越来越被排挤出市场。该市的基础设施，从交通系统到排水网络，也承受着巨大的压力，而由于气候变化导致的海平面上升这一生存威胁更是加剧了这一状况。\n\n为了维持其新获得的地位，迈阿密必须解决这些根深蒂固的结构性问题。仅仅吸引资本已经不够了，当地政府现在必须确保繁荣带来的红利能够更公平地分配。投资公共交通和防洪缓解基础设施，对于确保该市作为全球枢纽的长期可行性至关重要。\n\n归根结底，迈阿密的崛起展示了将亲商治理与高质量生活相结合的力量。然而，它能否保持其作为美国最新经济强国的地位，取决于它如何管理自身成功所带来的外部性。未来十年将测试迈阿密能否从一个投机性的繁荣城镇转型为一个有韧性的全球大都市。",
     "vocab": [
       {
-        "w": "sweeping",
-        "ipa": "/ˈswiː.pɪŋ/",
+        "w": "metamorphosis",
+        "ipa": "/ˌmetəˈmɔːfəsɪs/",
+        "pos": "n.",
+        "mean": "蜕变，彻底的变化",
+        "def": "a change of the form or nature of a thing or person into a completely different one",
+        "ex": "Miami has undergone a stunning economic metamorphosis over the last decade."
+      },
+      {
+        "w": "influx",
+        "ipa": "/ˈfrʌks/",
+        "pos": "n.",
+        "mean": "涌入",
+        "def": "an arrival or entry of large numbers of people or things",
+        "ex": "The local property market was boosted by an influx of foreign investments."
+      },
+      {
+        "w": "jurisdictions",
+        "ipa": "/ˌdʒʊərɪsˈdɪkʃənz/",
+        "pos": "n.",
+        "mean": "管辖区，司法管辖权",
+        "def": "territories or spheres of activity over which the legal authority of a court or government extends",
+        "ex": "Many tech firms moved away from high-tax jurisdictions like California."
+      },
+      {
+        "w": "spurred",
+        "ipa": "/spɜːd/",
+        "pos": "v.",
+        "mean": "促进，刺激",
+        "def": "promoted or encouraged development or progress",
+        "ex": "Lower corporate tax rates have spurred growth in the local tech sector."
+      },
+      {
+        "w": "capitalised",
+        "ipa": "/ˈkæpɪtəlaɪzd/",
+        "pos": "v.",
+        "mean": "利用，从中获利",
+        "def": "take advantage of; turn something to one's advantage",
+        "ex": "The government capitalised on the tourism boom by building new attractions."
+      },
+      {
+        "w": "breakneck",
+        "ipa": "/ˈbreɪknek/",
         "pos": "adj.",
-        "mean": "彻底的/范围广的",
-        "def": "wide-ranging or thoroughly affecting a large area",
-        "ex": "The company introduced sweeping changes to its safety protocols after the audit."
+        "mean": "极快的，危险的",
+        "def": "dangerously or extremely fast",
+        "ex": "The city expanded at breakneck speed, leaving its urban planning struggling to keep up."
       },
       {
-        "w": "deportation",
-        "ipa": "/ˌdiː.pɔːˈteɪ.ʃən/",
-        "pos": "n.",
-        "mean": "驱逐出境",
-        "def": "the action of deporting a foreigner from a country",
-        "ex": "Unregistered workers face the risk of immediate arrest and deportation."
-      },
-      {
-        "w": "shortfall",
-        "ipa": "/ˈʃɔːt.fɔːl/",
-        "pos": "n.",
-        "mean": "短缺/不足",
-        "def": "a deficit or lack of something required or expected",
-        "ex": "The supply chain disruption caused a significant shortfall in computer chips."
-      },
-      {
-        "w": "bottleneck",
-        "ipa": "/ˈbɒt.əl.nek/",
-        "pos": "n.",
-        "mean": "瓶颈",
-        "def": "a situation that causes delay in a process or system",
-        "ex": "The lack of skilled technicians has become a major bottleneck in our product development."
-      },
-      {
-        "w": "exacerbate",
-        "ipa": "/ɪɡˈzæs.ə.beɪt/",
+        "w": "exacerbated",
+        "ipa": "/ɪɡˈzæsəbeɪtɪd/",
         "pos": "v.",
-        "mean": "加剧/恶化",
-        "def": "to make a problem, bad situation, or negative feeling worse",
-        "ex": "Failing to address customer complaints quickly will only exacerbate the PR crisis."
+        "mean": "使恶化，加剧",
+        "def": "made a problem or bad situation worse",
+        "ex": "The current heavy rainfall has exacerbated the city's traffic congestion issues."
       },
       {
-        "w": "rekindle",
-        "ipa": "/ˌriːˈkɪn.dəl/",
-        "pos": "v.",
-        "mean": "重新点燃",
-        "def": "to revive or bring back to life something that was dormant",
-        "ex": "The sudden rise in consumer spending has threatened to rekindle inflation fears."
+        "w": "equitably",
+        "ipa": "/ˈekwɪtəbli/",
+        "pos": "adv.",
+        "mean": "公平地，公正地",
+        "def": "in a fair and impartial manner",
+        "ex": "Economic wealth must be distributed equitably to maintain social harmony."
       },
       {
-        "w": "constrain",
-        "ipa": "/kənˈstreɪn/",
-        "pos": "v.",
-        "mean": "限制/约束",
-        "def": "to severely restrict the scope, extent, or activity of something",
-        "ex": "High interest rates continue to constrain the company's expansion plans."
-      },
-      {
-        "w": "demographics",
-        "ipa": "/ˌdem.əˈɡræf.ɪks/",
+        "w": "mitigation",
+        "ipa": "/ˌmɪtɪˈɡeɪʃən/",
         "pos": "n.",
-        "mean": "人口统计数据",
-        "def": "statistical data relating to the population and particular groups within it",
-        "ex": "The shift in local demographics has forced retailers to adjust their marketing strategies."
+        "mean": "缓解，减轻",
+        "def": "the action of reducing the severity, seriousness, or painfulness of something",
+        "ex": "Billions of dollars are being poured into flood mitigation projects along the coast."
       },
       {
-        "w": "reconcile",
-        "ipa": "/ˈrek.ən.saɪl/",
-        "pos": "v.",
-        "mean": "调和/妥协",
-        "def": "to find a way of making two different ideas or facts exist together",
-        "ex": "It is difficult to reconcile his demanding work schedule with his desire for family time."
-      },
-      {
-        "w": "unyielding",
-        "ipa": "/ʌnˈjiːl.dɪŋ/",
-        "pos": "adj.",
-        "mean": "不可动摇的/坚定的",
-        "def": "firm, obstinate, or unlikely to sway or change",
-        "ex": "The central bank maintained an unyielding stance on keeping interest rates high."
+        "w": "externalities",
+        "ipa": "/ˌekstɜːˈnælɪtiz/",
+        "pos": "n.",
+        "mean": "外部性（活动对无关第三方产生的影响）",
+        "def": "side effects or consequences of an industrial or commercial activity that affect other parties",
+        "ex": "Governments use taxes to curb negative externalities like pollution from factories."
       }
     ],
     "gems": [
       {
-        "s": "While a hardline stance on borders may satisfy the anxieties of a domestic electorate, it ignores the structural dependence of modern economies on imported labor.",
-        "why": "This sentence uses a 'While...' contrastive clause to masterfully balance two opposing forces: the political desire of local voters versus the cold reality of economic structures. 句子利用“While”引导的让步状语从句，完美平衡了“政治选民焦虑”与“经济结构现实”这两股相互对立的力量，展现了极高的辩证思维与句式深度。"
+        "s": "Once known primarily as a playground for tourists and retirees, the city has rapidly evolved into a magnet for high finance and tech startups.",
+        "why": "This sentence uses an elegant introductory contrast phrase ('Once known primarily as...') to establish a sharp before-and-after comparison, which adds rhetorical sophistication. 这句话使用了优雅的对比介绍句式（'Once known primarily as...'），建立了鲜明的'前后对比'，增强了修辞的深度与说服力。"
       }
     ]
   }
