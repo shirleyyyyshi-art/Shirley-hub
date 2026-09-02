@@ -1,58 +1,62 @@
 {
-  "date": "2026-09-01",
-  "generatedAt": "2026-09-01T05:21:16.629251+00:00",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T04:47:01.220657+00:00",
   "economist": {
-    "headline": "The extraordinary rise of Miami’s economy",
-    "teaser": "Thanks to a combination of capital and politics, the city is booming. Can its success be sustained?",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-miamis-economy",
-    "vocab": [
-      {
-        "word": "combination",
-        "phonetic": "/kɒmbɪˈneɪʃən/",
-        "def": "The act of combining, the state of being combined or the result of combining."
-      },
-      {
-        "word": "capital",
-        "phonetic": "/ˈkæp.ɪ.təl/",
-        "def": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures)."
-      }
-    ]
+    "headline": "Europe’s bond markets are suffering a post-holiday shock",
+    "teaser": "Reasons for rising yields differ somewhat from those in America, but are no less problematic",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
+    "vocab": []
   },
   "st": {
-    "headline": "Japan’s benchmark 10-year bond yield reaches 3% level for first time in 30 years",
-    "teaser": "The five-year rate is at a record high, and the two-year yield is at a 31-year peak.",
-    "url": "https://www.straitstimes.com/business/japans-benchmark-10-year-bond-yield-reaches-3-level-for-first-time-in-30-years",
+    "headline": "Economists raise Singapore’s 2026 growth forecast to 5% on AI boom: MAS survey",
+    "teaser": "Respondents also raised their predictions for manufacturing and non-oil domestic exports.",
+    "url": "https://www.straitstimes.com/business/economists-raise-singapores-2026-growth-forecast-to-5-from-3-5-mas-survey",
     "fullText": [
-      "TOKYO – Japan’s benchmark bond yield hit the 3 per cent level for the first time since September 1996 on Sept 1 , highlighting how inflation, fiscal concerns and shifting monetary policy are reshaping a market long defined by low interest rates.",
-      "With the Middle East crisis stoking inflation fears globally and pressure on the Bank of Japan to accelerate rate hikes, yields have jumped to historic levels across the Japanese government bond curve.",
-      "The 10-year JGB yield has more than tripled in two years. On the shorter end, the five-year rate is at a record high, and the two-year yield is at a 31-year peak as markets priced in a near certainty the BOJ will raise interest rates at its meeting in September.",
-      "Inflationary pressures and the yen, languishing near a four-decade low, have exerted pressure on the BOJ to speed up rate hikes.",
-      "The central bank has faced criticism at home and abroad that it was “behind the curve” in normalising monetary policy, which includes a gradual drawdown of its massive JGB holdings.",
-      "Japan’s bond sell-off has drawn attention because the country’s heavy debt burden makes it especially vulnerable to rising borrowing costs. Demand at a 10-year JGB auction in August was the weakest in a year.",
-      "Prime Minister Sanae Takaichi has pushed an investment-led growth path targeting strategic industries since taking office in October.",
-      "That spending along with planned tax cuts have stoked concerns that Japan could worsen its precarious financial position, with debt exceeding 200 per cent of gross domestic product.",
-      "Japan is not alone in seeing stress in its bond market.",
-      "With no end in sight for the US-Iran conflict and elevated oil prices, bond yields across the United States, Germany and France jumped to multi-year highs of late on rising expectations for inflation and central bank tightening. REUTERS"
+      "SINGAPORE – Private-sector economists have bumped up their 2026 growth forecast for Singapore’s economy to 5 per cent, up from 3.5 per cent, following a surprise surge in exports and manufacturing output in the first half.",
+      "Released on Sept 2, the latest Monetary Authority of Singapore (MAS) quarterly survey of professional forecasters follows the Ministry of Trade and Industry’s Aug 11 upgrade of its gross domestic product (GDP) growth forecast to between 4.5 per cent and 5.5 per cent , up from 2 to 4 per cent , amid the global AI boom.",
+      "Enterprise Singapore also on Aug 11 upgraded its non-oil domestic exports (NODX) forecast for 2026 to a range of 14 per cent to 16 per cent, up from an earlier forecast of 3 to 5 per cent , reflecting the exceptionally strong first-half performance led by electronics.",
+      "Singapore’s economy grew by 5.9 per cent year on year in the second quarter of 2026 , following a 6.3 per cent expansion in the first quarter.",
+      "The respondents in MAS’ latest survey raised their prediction for manufacturing to 8.4 per cent on the back of a 17 per cent surge in Singapore’s NODX amid the strong demand for AI-related electronic hardware such as semiconductors and the machines that make them.",
+      "This is a big jump from their June forecast of 5 per cent for manufacturing and 6.1 per cent for NODX.",
+      "All economists in the survey identified a sustained AI-driven upturn in the technology cycle as a key support to Singapore’s economic outlook, which could lift GDP growth even higher.",
+      "They highlighted that a de-escalation or resolution of the Middle East conflict and stronger-than-expected global growth could deliver possible upside for the economy.",
+      "However, the survey also cited downside risks to Singapore’s economic outlook if the now six-month-old Iran war escalates or turns into a more prolonged conflict. It also pointed out Singapore’s vulnerability to a potential burst in the AI bubble and the resulting spillover into financial markets.",
+      "The respondents raised their growth forecasts for several sectors: finance and insurance to 5.4 per cent (from 4.5 per cent); construction to 7.1 per cent (from 6.5 per cent); and wholesale and retail trade to 7.4 per cent (from 4.9 per cent).",
+      "However, the projection for the accommodation and food services sector was lowered to 1 per cent from the June forecast of 1.8 per cent.",
+      "The economists also saw a slightly better inflation outcome.",
+      "The latest survey’s median forecast for all-items inflation for 2026 came in at 2.1 per cent, lower than the 2.3 per cent in June.",
+      "The median forecast for core inflation – which excludes private transport and accommodation costs to better represent household expenses – was also lowered to 1.9 per cent from 2 per cent.",
+      "On the outlook for the labour market, respondents expect the overall unemployment rate to remain at 2.1 per cent at year-end, unchanged from the June 2026 survey.",
+      "On monetary policy, 45 per cent of the respondents expected the MAS to tighten – seeking a stronger trade- weighted Singapore dollar – in October by increasing the slope of the Singapore dollar nominal effective exchange rate policy band.",
+      "This is higher than the 30 per cent who expected the same move in the previous survey."
     ]
   },
   "cna": {
-    "headline": "Osaka brings style and steel for winning start to US Open",
-    "teaser": "Osaka brings style and steel for winning start to US Open",
-    "url": "https://www.channelnewsasia.com/sport/osaka-brings-style-and-steel-winning-start-us-open-6353971",
+    "headline": "UN says world must navigate 'reality' of 1.5°C overshoot",
+    "teaser": "UN says world must navigate 'reality' of 1.5°C overshoot",
+    "url": "https://www.channelnewsasia.com/sustainability/climate-change-15-degree-celsius-overshoot-heat-6356856",
     "fullText": [
-      "NEW YORK, Aug 31 : Naomi Osaka unveiled another bold Grand Slam walk-on outfit at the U.S. Open on Monday before the two-time champion battled to a 7-6(6) 7-6(3) victory over unseeded Russian Anastasia Zakharova to reach the second round.",
-      "Osaka has been the fashion highlight of this year's majors and entered Arthur Ashe Stadium in a hooded tunic featuring patchwork-style panels adorned with press clippings from past tournament appearances and a billowing white tulle train.",
-      "At Wimbledon, she paid tribute to her Japanese heritage with a kimono-inspired ensemble featuring a traditional kanzashi hair ornament before changing into a white Nike playing kit.",
-      "At Roland Garros, she arrived in a black Kevin Germanier skirt and competed in a layered yellow, brown and gold outfit inspired by the Eiffel Tower's nighttime sparkle.",
-      "Competing at Flushing Meadows in an Allen Iverson-inspired outfit, the four-time Grand Slam champion looked set for a straightforward victory after racing into a 4-1 lead, only for world number 101 Zakharova to force a tiebreak.",
-      "\"It's my tribute to Iverson,\" Osaka said of the NBA Hall of Famer. \"I really like him a lot.",
-      "\"Nike said basketball, so I said 'you want basketball, I'll give you basketball'. I like expressing myself through clothes and I'm glad you guys appreciate it.\"",
-      "Osaka showed her battling qualities to win the tiebreak before being taken to another in the second set, where she held her nerve to close out the victory.",
-      "\"I would say it took everything (to win),\" Osaka said as the clock approached 12:30 a.m. on Tuesday.",
-      "\"I have no idea what time it is. Thanks for staying,\" she told fans. \"I'm grateful to be able to play on this court again.",
-      "\"I just told myself to not have any regrets. I wanted to come out and compete. I haven't played since Toronto, so I was a little rusty. I get nervous in the first rounds. I want to do well and show you guys new outfits.\"",
-      "The 13th seed, champion at Flushing Meadows in 2018 and 2020, takes on Czech Republic's Katerina Siniakova in the second round.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "PARIS: The United Nations outlined on Wednesday (Sep 2) how the world might bring global temperatures back to 1.5°C once the milestone target is breached in a first-of-its-kind assessment that drew criticism from climate activists.",
+      "UN Secretary General Antonio Guterres last year acknowledged the inevitability of overshooting 1.5°C, but this is the first time a UN agency has addressed this head-on in a dedicated report.",
+      "Scientists agree that warming above 1.5°C relative to pre-industrial times poses grave risks and nearly 200 nations committed in 2015 to try and keep global temperature rises to this safer threshold.",
+      "But the world is expected to blow past 1.5°C in a matter of years and attention has pivoted to making any \"overshoot\" as brief and contained as possible.",
+      "\"It's a reality check. We have to live with this warmer world ... but there's still a lot we can do to limit warming,\" said report co-author Richard Betts from the University of Exeter.",
+      "The report \"was about responses rather than just sort of saying it is happening\", he told journalists.",
+      "Fellow author Debra Roberts said it was important for policymakers \"to realise the rules of the game are now changing\".",
+      "\"I think for me that's the clarion call ... we now have to reconfigure our climate governance around dealing with an overshoot pathway. None of our plans are prepared for that,\" said Roberts from the University of KwaZulu-Natal.",
+      "The report's stark language alarmed climate campaigners who have rallied around 1.5°C since it was affirmed as the more ambitious goal of the Paris Agreement a decade ago.",
+      "\"This is a heartbreaking moment, but overshoot is not the reason to give up and surrender 1.5°C\", said Jasper Inventor, Deputy Programme Director at Greenpeace International.",
+      "Bill Hare, a climate scientist and CEO of policy institute Climate Analytics, slammed the report and said it risked becoming \"a call to apathy rather than a call to arms\".",
+      "Small island nations threatened by rising seas have been particularly vocal defenders of the 1.5°C target and have urged wealthier countries not to abandon the milestone even as it slips out of reach.",
+      "The world has already warmed roughly 1.4°C since the 1850s to 1900s, mostly from the burning of fossil fuels, and the last three years have been the hottest on record .",
+      "Scientists say any overshoot of 1.5°C threatens more extreme weather and pushes the planet closer to tipping points like the collapse of ice sheets and loss of coral reefs.",
+      "UNEP executive director Inger Andersen said there \"are no good outcomes if we remain above 1.5°C\".",
+      "\"Let's be very clear - that 1.5°C target is still the goal. But now, we need to approach it differently: from above,\" Andersen told journalists.",
+      "Guterres said it was possible to bring warming back below 1.5°C by the end of the century.",
+      "\"The fight for 1.5 degrees is the fight for humanity,\" he said.",
+      "To achieve this, carbon dioxide removal - the process of pulling carbon from the air and storing it - would be essential alongside deep and rapid cuts to greenhouse gas emissions, the UNEP report said.",
+      "At present, carbon removal plays a vanishingly small part in addressing climate change and is strongly opposed by many activists pushing for a faster phase-out of coal, oil and gas.",
+      "\"The only way to minimise harm is to cut emissions now ... not to delay action with speculative techno-fixes,\" said Lili Fuhr from campaign organisation CIEL."
     ]
   },
   "mom": {
@@ -62,259 +66,263 @@
   },
   "lifeVocab": [
     {
-      "en": "tap in / tap out",
-      "cn": "进站刷卡 / 出站刷卡",
-      "def": "To press an EZ-Link card or contactless payment card against the reader at MRT gantry gates",
-      "ex": "Please remember to tap out properly at the MRT station to avoid getting charged the maximum fare.",
+      "en": "commuter",
+      "cn": "乘车者/通勤者",
+      "def": "someone who travels regularly between home and work",
+      "ex": "The MRT is always packed with commuters during the morning rush hour.",
+      "emoji": "🚇"
+    },
+    {
+      "en": "concourse",
+      "cn": "大厅",
+      "def": "a large open area inside a station",
+      "ex": "Meet me near the passenger service centre at the station concourse.",
+      "emoji": "🏢"
+    },
+    {
+      "en": "gantry",
+      "cn": "闸机",
+      "def": "a gate-like structure where commuters tap their transit cards",
+      "ex": "Please tap your card at the gantry to exit the station.",
       "emoji": "💳"
     },
     {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "A person who travels some distance to work on a regular basis",
-      "ex": "Thousands of commuters squeeze onto the East-West Line during the morning rush hour.",
-      "emoji": "🚶"
-    },
-    {
-      "en": "feeder bus",
-      "cn": "接驳巴士",
-      "def": "A bus service that carries passengers short distances to and from a main transport hub like an MRT station",
-      "ex": "I usually take a feeder bus from my HDB flat to the nearest MRT station.",
-      "emoji": "🚌"
-    },
-    {
-      "en": "peak hour",
-      "cn": "高峰时段",
-      "def": "The busiest times of the day for public transport, usually when people travel to and from work",
-      "ex": "Public transport fares are slightly higher during peak hours to manage crowd congestion.",
-      "emoji": "⏰"
-    },
-    {
-      "en": "interchange",
-      "cn": "换乘站 / 巴士总站",
-      "def": "A major station where different transport lines or bus routes meet, allowing passengers to switch",
-      "ex": "Jurong East is a busy interchange where commuters switch between the East-West and North-South lines.",
-      "emoji": "🚉"
-    },
-    {
-      "en": "concession card",
-      "cn": "优惠卡",
-      "def": "A transport card offering discounted fares for students, senior citizens, or lower-income individuals",
-      "ex": "Grandma uses her senior citizen concession card to enjoy cheaper travel on buses and trains.",
-      "emoji": "🪪"
-    },
-    {
-      "en": "platform screen doors",
-      "cn": "屏蔽门 / 安全门",
-      "def": "Sliding doors that separate the station platform from the train tracks for safety",
-      "ex": "Stand behind the yellow line and wait for the platform screen doors to open fully before boarding.",
-      "emoji": "🚪"
-    },
-    {
-      "en": "escalator etiquette",
-      "cn": "自动扶梯礼仪",
-      "def": "Social rules for using escalators, such as standing on one side to let others walk past",
-      "ex": "Good escalator etiquette in Singapore means standing on the left and keeping the right side clear for urgent commuters.",
-      "emoji": "🪜"
-    },
-    {
-      "en": "track fault",
-      "cn": "轨道故障",
-      "def": "A technical problem with the train tracks that causes delays",
-      "ex": "SMRT announced a 15-minute delay on the Circle Line this morning due to a minor track fault.",
+      "en": "disruption",
+      "cn": "中断/故障",
+      "def": "an interruption in the usual progress or system",
+      "ex": "SMRT quickly deployed free bridging buses during the train disruption.",
       "emoji": "⚠️"
     },
     {
-      "en": "priority seat",
-      "cn": "优先座",
-      "def": "Seats reserved for the elderly, pregnant women, the injured, or parents with young children",
-      "ex": "The student quickly stood up to offer his priority seat to an elderly woman carrying heavy groceries.",
-      "emoji": "👵"
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "a moving staircase",
+      "ex": "For safety, please hold onto the handrail when riding the escalator.",
+      "emoji": "🪜"
+    },
+    {
+      "en": "transfer",
+      "cn": "换乘",
+      "def": "change from one route or train line to another",
+      "ex": "You can transfer from the East-West Line to the Downtown Line at Bugis.",
+      "emoji": "🔄"
+    },
+    {
+      "en": "announcement",
+      "cn": "广播通知",
+      "def": "a formal public statement",
+      "ex": "An automated announcement reminded passengers to move towards the centre of the train.",
+      "emoji": "📢"
+    },
+    {
+      "en": "peak hours",
+      "cn": "高峰时间",
+      "def": "times when traffic or crowds are at their highest",
+      "ex": "Fares are slightly cheaper if you travel before morning peak hours.",
+      "emoji": "⏰"
+    },
+    {
+      "en": "platform",
+      "cn": "站台",
+      "def": "the area where passengers wait for and get on trains",
+      "ex": "Stand behind the yellow line while waiting on the platform.",
+      "emoji": "🚉"
+    },
+    {
+      "en": "transit",
+      "cn": "运输/公共交通",
+      "def": "the carrying of people or goods from one place to another",
+      "ex": "Singapore has one of the most efficient public transit systems in the world.",
+      "emoji": "🚌"
     }
   ],
   "levelVocab": [
     {
-      "w": "conducive",
-      "ipa": "/kənˈdjuːsɪv/",
-      "pos": "adj.",
-      "cn": "有益的，有促进作用的",
-      "def": "making a certain situation or outcome likely or possible",
-      "ex": "The quiet study corners in public libraries are highly conducive to exam preparation."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsemɪneɪt/",
-      "pos": "v.",
-      "cn": "传播，散布（信息）",
-      "def": "spread (something, especially information) widely",
-      "ex": "The health ministry works hard to disseminate accurate medical advice during disease outbreaks."
-    },
-    {
-      "w": "stringent",
-      "ipa": "/ˈstrɪndʒənt/",
-      "pos": "adj.",
-      "cn": "严格的，严厉的",
-      "def": "strict, precise, and exacting",
-      "ex": "Singapore maintains stringent safety standards for all commercial buildings in the city-state."
-    },
-    {
-      "w": "spearhead",
-      "ipa": "/ˈspɪəhed/",
-      "pos": "v.",
-      "cn": "带头，先锋",
-      "def": "lead an attack, movement, or collective project",
-      "ex": "She was chosen to spearhead the company's expansion into the regional e-commerce market."
-    },
-    {
-      "w": "precursor",
-      "ipa": "/priːˈkɜːsə/",
+      "w": "benchmarking",
+      "ipa": "/ˈbentʃmɑːkɪŋ/",
       "pos": "n.",
-      "cn": "先驱，前兆",
-      "def": "a person or thing that comes before another of the same kind",
-      "ex": "The initial trial in a small neighborhood served as a precursor to the nationwide smart-city rollout."
+      "cn": "标杆管理/基准比较",
+      "def": "evaluating something by comparison with a standard",
+      "ex": "The HR department is benchmarking our salaries against regional competitors."
     },
     {
-      "w": "unravel",
-      "ipa": "/ʌnˈrævəl/",
+      "w": "deviation",
+      "ipa": "/ˌdiːviˈeɪʃn/",
+      "pos": "n.",
+      "cn": "偏差/偏离",
+      "def": "a departure from an established standard or expected course",
+      "ex": "Any deviation from the budget must be approved by the CFO."
+    },
+    {
+      "w": "parameter",
+      "ipa": "/pəˈræmɪtə(r)/",
+      "pos": "n.",
+      "cn": "参数/范围",
+      "def": "a limit or boundary that defines how something should be done",
+      "ex": "We need to set the parameters of the project before hiring contractors."
+    },
+    {
+      "w": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
       "pos": "v.",
-      "cn": "解开，阐明，揭开",
-      "def": "investigate and solve or explain something complicated",
-      "ex": "It took the financial investigators months to unravel the complex web of offshore accounts."
+      "cn": "调和/一致",
+      "def": "to make two different ideas or facts agree or exist together",
+      "ex": "It is difficult to reconcile his demanding career with his family life."
     },
     {
-      "w": "stagnant",
-      "ipa": "/ˈstæɡnənt/",
+      "w": "scaffold",
+      "ipa": "/ˈskæfəʊld/",
+      "pos": "v.",
+      "cn": "提供支撑/搭架子",
+      "def": "to provide structured support to help someone learn or achieve a goal",
+      "ex": "The manager will scaffold your transition into the new leadership role."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "pos": "n.",
+      "cn": "应急预案/偶发事件",
+      "def": "a provision for an unforeseen event or circumstance",
+      "ex": "We have a contingency plan in place in case the supplier fails to deliver."
+    },
+    {
+      "w": "perpetuate",
+      "ipa": "/pəˈpetʃueɪt/",
+      "pos": "v.",
+      "cn": "使持续/使永存",
+      "def": "to make something (typically an undesirable situation) continue indefinitely",
+      "ex": "Ignoring minor office conflicts will only perpetuate a toxic work culture."
+    },
+    {
+      "w": "alignment",
+      "ipa": "/əˈlaɪnmənt/",
+      "pos": "n.",
+      "cn": "结盟/一致",
+      "def": "arrangement in a straight line, or agreement/cooperation",
+      "ex": "We need closer alignment between the sales and marketing teams."
+    },
+    {
+      "w": "oversight",
+      "ipa": "/ˈəʊvəsaɪt/",
+      "pos": "n.",
+      "cn": "监督/疏忽",
+      "def": "regulatory supervision OR an unintentional failure to notice something",
+      "ex": "The monetary authority provides strict regulatory oversight for all local banks."
+    },
+    {
+      "w": "discretionary",
+      "ipa": "/dɪˈskreʃəneri/",
       "pos": "adj.",
-      "cn": "停滞的，不发展的",
-      "def": "showing no activity; dull and sluggish",
-      "ex": "Without continuous upskilling, employees risk finding their careers stagnant in a rapidly changing economy."
-    },
-    {
-      "w": "reiterate",
-      "ipa": "/riˈɪtəreɪt/",
-      "pos": "v.",
-      "cn": "反复说，重申",
-      "def": "say something again or a number of times, typically for emphasis or clarity",
-      "ex": "During the townhall meeting, the director chose to reiterate the importance of workplace safety."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪmˈperətɪv/",
-      "pos": "adj.",
-      "cn": "极重要的，必要的",
-      "def": "of vital importance; crucial",
-      "ex": "It is imperative that we backup our server data daily to protect against cyber threats."
-    },
-    {
-      "w": "commence",
-      "ipa": "/kəˈmens/",
-      "pos": "v.",
-      "cn": "开始",
-      "def": "begin or start",
-      "ex": "Construction work on the new MRT terminal is scheduled to commence early next year."
+      "cn": "自主决定的/可支配的",
+      "def": "available for use at the discretion of the user; not mandatory",
+      "ex": "The board has a discretionary budget to fund innovative employee projects."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Green Retrofitting of HDB Estates",
-    "transcript": "As Singapore steps up its green transition, older public housing estates are getting a modern <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈfeɪslɪft/ (n.) an upgrade or renovation to improve the appearance and functionality of something — 翻新，改头换面\">facelift</span>. Smart LED lighting and solar panels are being installed across various neighborhoods to reduce energy consumption. These efforts not only <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kɜːb/ (v.) to limit, control, or keep something in check — 抑制，控制\">curb</span> carbon emissions but also lower utility bills for residents in the long run. The government aims to make every HDB town eco-friendly by 2030."
+    "title": "Singapore's Wet Markets Embrace Digital Payments",
+    "transcript": "As Singapore marches towards a cashless society, local wet market stallholders are increasingly adopting e-payment systems like SGQR. Initially, elderly vendors were <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhezɪtənt/ (adj.) slow to act because of uncertainty — 犹豫的/迟疑的\">hesitant</span> to abandon cash transactions, citing concerns over technology. However, targeted government grants and community digital <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/æmˈbæsədəz/ (n.) representatives or promoters of a specific activity or cause — 使者/推广员\">ambassadors</span> have successfully eased this <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃn/ (n.) the process of changing from one state or condition to another — 过渡\">transition</span>, keeping traditional businesses viable in a digital economy."
   },
   "economistArticle": {
-    "title": "The Sunshine State’s Star: Can Miami’s Boom Last?",
+    "title": "Europe’s bond markets are suffering a post-holiday shock",
     "paras": [
-      "Over the past few years, Miami has undergone a stunning economic <span class=\"voc\">metamorphosis</span>. <span class=\"gem\">Once known primarily as a playground for tourists and retirees, the city has rapidly evolved into a magnet for high finance and tech startups.</span> This dramatic shift is not a mere stroke of fortune; rather, it is the result of a deliberate alignment of political incentives and an <span class=\"voc\">influx</span> of private capital seeking refuge from high-tax <span class=\"voc\">jurisdictions</span>.",
-      "Wall Street heavyweights and Silicon Valley venture capitalists have flocked to South Florida, bringing with them billions of dollars in assets under management. This influx has <span class=\"voc\">spurred</span> a commercial real estate boom, with glossy new skyscrapers reshaping the downtown skyline. Local officials have <span class=\"voc\">capitalised</span> on this momentum, offering business-friendly policies and heavily marketing the city's enviable climate and lifestyle.",
-      "However, this <span class=\"voc\">breakneck</span> growth has also brought significant challenges. The most pressing of these is housing affordability. As wealthy newcomers bid up home prices, local residents are increasingly priced out of the market. The city’s infrastructure, from transit systems to drainage networks, is also under immense strain, <span class=\"voc\">exacerbated</span> by the existential threat of rising sea levels due to climate change.",
-      "To sustain its newfound status, Miami must address these deep-seated structural issues. Simply attracting capital is no longer enough; the local government must now ensure that the benefits of the boom are distributed more <span class=\"voc\">equitably</span>. Investing in public transportation and flood <span class=\"voc\">mitigation</span> infrastructure will be crucial to securing the city's long-term viability as a global hub.",
-      "Ultimately, Miami’s rise demonstrates the power of combining business-friendly governance with a high quality of life. Yet, whether it can retain its position as America’s newest economic powerhouse depends on how it manages the <span class=\"voc\">externalities</span> of its own success. The coming decade will test whether Miami can transition from a speculative boomtown to a resilient global metropolis."
+      "As European traders returned from their summer vacations, they were greeted by an unsettling reality. The continent's <span class=\"voc\">sovereign</span> bond markets, traditionally seen as a haven of stability, have suffered a sharp post-holiday shock. Yields on <span class=\"voc\">benchmark</span> German Bunds and French OATs have surged to levels not seen in months, triggering anxieties across eurozone boardrooms and policy circles. <span class=\"gem\">Unlike previous market tantrums, this sudden sell-off cannot be dismissed as a mere seasonal blip.</span>",
+      "The drivers behind this European fixed-income rout differ subtly but significantly from those driving yields up in the United States. In Washington, Treasury yields have risen on the back of resilient economic growth and fears that the Federal Reserve will keep interest rates elevated to curb sticky inflation. Europe, by contrast, is staring down the barrel of economic <span class=\"voc\">stagnation</span>. <span class=\"gem\">The Eurozone's spike in yields is not a reflection of economic vitality, but rather a <span class=\"voc\">manifestation</span> of <span class=\"voc\">compounding</span> fiscal anxieties and fears of structural decay.</span>",
+      "Foremost among these concerns is the European Central Bank’s aggressive quantitative tightening. As the central bank shrinks its balance sheet, the safety net that once suppressed southern European debt yields is rapidly dissolving. Highly indebted nations, particularly Italy, are finding themselves exposed to the harsh elements of market discipline. The premium investors demand to hold Italian debt over German benchmarks has widened <span class=\"voc\">precariously</span>, raising the specter of past sovereign debt crises.",
+      "Compounding this pressure is a <span class=\"voc\">deluge</span> of new government debt. European nations are borrowing heavily to finance green energy transitions, bolster defense spending in the wake of geopolitical tensions, and shield consumers from high living costs. With the central bank no longer acting as the buyer of last resort, private investors must absorb this massive supply. To attract these buyers, governments are forced to offer increasingly lucrative yields, which in turn drives up borrowing costs for businesses and homeowners alike.",
+      "The <span class=\"voc\">ramifications</span> of this post-holiday shock are <span class=\"voc\">profound</span>. Higher yields mean that the cost of servicing public debt will devour an increasing share of national budgets, forcing painful fiscal choices. For a continent already struggling with sluggish productivity and political polarization, a prolonged period of elevated borrowing costs could choke off what little economic momentum remains, turning a cyclical slowdown into a structural freeze."
     ],
-    "cn": "在过去的几年里，迈阿密经历了一场令人瞩目的经济蜕变。这座曾经主要被视为游客和退休人员游乐场的城市，已迅速演变为吸引高端金融和科技初创企业的磁石。这种戏剧性的转变并非纯粹的运气，而是政治激励举措与旨在逃避高税收管辖区的私人资本涌入刻意结合的结果。\n\n华尔街巨头和硅谷风险投资家纷纷涌向南佛罗里达，随之而来的是数以十亿计的管理资产。这一涌入刺激了商业地产的繁荣，崭新光滑的摩天大楼重塑了市中心的天际线。当地官员利用这一势头，提供了有利于商业的政策，并大力推广该市令人羡慕的气候和生活方式。\n\n然而，这种极快的增长也带来了重大的挑战。其中最紧迫的是住房负担能力问题。随着富裕的新移民推高房价，当地居民越来越被排挤出市场。该市的基础设施，从交通系统到排水网络，也承受着巨大的压力，而由于气候变化导致的海平面上升这一生存威胁更是加剧了这一状况。\n\n为了维持其新获得的地位，迈阿密必须解决这些根深蒂固的结构性问题。仅仅吸引资本已经不够了，当地政府现在必须确保繁荣带来的红利能够更公平地分配。投资公共交通和防洪缓解基础设施，对于确保该市作为全球枢纽的长期可行性至关重要。\n\n归根结底，迈阿密的崛起展示了将亲商治理与高质量生活相结合的力量。然而，它能否保持其作为美国最新经济强国的地位，取决于它如何管理自身成功所带来的外部性。未来十年将测试迈阿密能否从一个投机性的繁荣城镇转型为一个有韧性的全球大都市。",
+    "cn": "随着欧洲交易员结束夏日假期重返岗位，他们迎来了令人不安的现实。传统上被视为避风港的欧洲国债市场遭遇了剧烈的“节后休克”。作为基准的德国联邦国债和法国国债收益率已飙升至数月未见的水平，引发了整个欧元区董事会和政策圈的焦虑。与以往的市场动荡不同，这次突如其来的抛售不能仅仅被视为季节性的短暂波动。\n\n欧洲固定收益市场此番溃败的幕后推手，与推高美国国债收益率的因素存在微妙但显著的差异。在华盛顿，美债收益率上升是由于经济增长具有韧性，以及市场担忧美联储将维持高利率以遏制顽固的通胀。相比之下，欧洲正面临经济停滞的困境。欧元区收益率的飙升并非经济活力的体现，而是财政焦虑加剧和对结构性衰退担忧的具体表露。\n\n在这些担忧中，首当其冲的是欧洲中央银行（ECB）激进的量化紧缩政策。随着央行缩减资产负债表，曾一度压低南欧债务收益率的安全网正在迅速瓦解。高负债国家，尤其是意大利，发现自己正暴露在残酷的市场规律之下。投资者持有意大利国债而非德国基准国债所要求的溢价（即备受关注的BTP-Bund利差）已危险地扩大，引发了人们对过去主权债务危机的担忧。\n\n加剧这一压力的还有汹涌而至的新增政府债务。面对地缘政治紧张局势，欧洲国家正大量借债，以资助绿色能源转型、加强国防开支，并保护消费者免受高生活成本的影响。由于欧洲央行不再充当最后的买家，私人投资者必须消化这一庞大的供应。为了吸引这些买家，各国政府被迫提供越来越有吸引力的收益率，这反过来又推高了企业和购房者的借贷成本。\n\n这场节后休克的影响是深远的。更高的收益率意味着偿还公共债务的成本将吞噬日益增加的国家预算份额，从而迫使政府做出痛苦的财政选择。对于一个已经与生产力低下和政治极分化作斗争的大陆来说，借贷成本长期处于高位可能会扼杀仅存的经济势头，将周期性放缓变成结构性停滞。",
     "vocab": [
       {
-        "w": "metamorphosis",
-        "ipa": "/ˌmetəˈmɔːfəsɪs/",
-        "pos": "n.",
-        "mean": "蜕变，彻底的变化",
-        "def": "a change of the form or nature of a thing or person into a completely different one",
-        "ex": "Miami has undergone a stunning economic metamorphosis over the last decade."
-      },
-      {
-        "w": "influx",
-        "ipa": "/ˈfrʌks/",
-        "pos": "n.",
-        "mean": "涌入",
-        "def": "an arrival or entry of large numbers of people or things",
-        "ex": "The local property market was boosted by an influx of foreign investments."
-      },
-      {
-        "w": "jurisdictions",
-        "ipa": "/ˌdʒʊərɪsˈdɪkʃənz/",
-        "pos": "n.",
-        "mean": "管辖区，司法管辖权",
-        "def": "territories or spheres of activity over which the legal authority of a court or government extends",
-        "ex": "Many tech firms moved away from high-tax jurisdictions like California."
-      },
-      {
-        "w": "spurred",
-        "ipa": "/spɜːd/",
-        "pos": "v.",
-        "mean": "促进，刺激",
-        "def": "promoted or encouraged development or progress",
-        "ex": "Lower corporate tax rates have spurred growth in the local tech sector."
-      },
-      {
-        "w": "capitalised",
-        "ipa": "/ˈkæpɪtəlaɪzd/",
-        "pos": "v.",
-        "mean": "利用，从中获利",
-        "def": "take advantage of; turn something to one's advantage",
-        "ex": "The government capitalised on the tourism boom by building new attractions."
-      },
-      {
-        "w": "breakneck",
-        "ipa": "/ˈbreɪknek/",
+        "w": "sovereign",
+        "ipa": "/ˈsɒvrɪn/",
         "pos": "adj.",
-        "mean": "极快的，危险的",
-        "def": "dangerously or extremely fast",
-        "ex": "The city expanded at breakneck speed, leaving its urban planning struggling to keep up."
+        "mean": "主权的/国家的",
+        "def": "possessing supreme power; relating to a national government",
+        "ex": "The sovereign debt crisis of 2012 severely tested the unity of the Eurozone."
       },
       {
-        "w": "exacerbated",
-        "ipa": "/ɪɡˈzæsəbeɪtɪd/",
-        "pos": "v.",
-        "mean": "使恶化，加剧",
-        "def": "made a problem or bad situation worse",
-        "ex": "The current heavy rainfall has exacerbated the city's traffic congestion issues."
+        "w": "benchmark",
+        "ipa": "/ˈbentʃmɑːk/",
+        "pos": "adj./n.",
+        "mean": "基准的/基准",
+        "def": "a standard or point of reference against which things may be compared",
+        "ex": "German Bunds serve as the benchmark for European debt markets."
       },
       {
-        "w": "equitably",
-        "ipa": "/ˈekwɪtəbli/",
+        "w": "tantrum",
+        "ipa": "/ˈtæntrəm/",
+        "pos": "n.",
+        "mean": "剧烈震荡/骤怒",
+        "def": "an uncontrolled outburst of anger or frustration (often used metaphorically for sudden market panics)",
+        "ex": "The taper tantrum of 2013 sent shockwaves through emerging markets."
+      },
+      {
+        "w": "stagnation",
+        "ipa": "/stæɡˈneɪʃn/",
+        "pos": "n.",
+        "mean": "停滞/不景气",
+        "def": "a state of inactive or slow growth",
+        "ex": "The continent's economy fell into a state of prolonged stagnation."
+      },
+      {
+        "w": "manifestation",
+        "ipa": "/ˌmænɪfeˈsteɪʃn/",
+        "pos": "n.",
+        "mean": "表现/显现",
+        "def": "an event, action, or object that clearly shows or embodies something",
+        "ex": "The high yield spike is a clear manifestation of investor panic."
+      },
+      {
+        "w": "compounding",
+        "ipa": "/kəmˈpaʊndɪŋ/",
+        "pos": "v./adj.",
+        "mean": "加剧的/恶化的",
+        "def": "making something bad worse; intensifying",
+        "ex": "Compounding their fiscal problems, inflation began to rise once again."
+      },
+      {
+        "w": "precariously",
+        "ipa": "/pɪˈkeəriəsli/",
         "pos": "adv.",
-        "mean": "公平地，公正地",
-        "def": "in a fair and impartial manner",
-        "ex": "Economic wealth must be distributed equitably to maintain social harmony."
+        "mean": "危险地/不稳固地",
+        "def": "in a way that is not securely in position and is likely to fall or collapse",
+        "ex": "Italian public debt sat precariously at historical highs."
       },
       {
-        "w": "mitigation",
-        "ipa": "/ˌmɪtɪˈɡeɪʃən/",
+        "w": "deluge",
+        "ipa": "/ˈdeljuːdʒ/",
         "pos": "n.",
-        "mean": "缓解，减轻",
-        "def": "the action of reducing the severity, seriousness, or painfulness of something",
-        "ex": "Billions of dollars are being poured into flood mitigation projects along the coast."
+        "mean": "汹涌而至/暴雨",
+        "def": "a severe flood, or a great quantity of something arriving at the same time",
+        "ex": "Central banks had to manage a deluge of new treasury bond issues."
       },
       {
-        "w": "externalities",
-        "ipa": "/ˌekstɜːˈnælɪtiz/",
+        "w": "ramifications",
+        "ipa": "/ˌræmɪfɪˈkeɪʃnz/",
         "pos": "n.",
-        "mean": "外部性（活动对无关第三方产生的影响）",
-        "def": "side effects or consequences of an industrial or commercial activity that affect other parties",
-        "ex": "Governments use taxes to curb negative externalities like pollution from factories."
+        "mean": "后果/复杂影响",
+        "def": "complex or unwelcome consequences of an action or event",
+        "ex": "The full ramifications of high interest rates are only now becoming clear."
+      },
+      {
+        "w": "profound",
+        "ipa": "/prəˈfaʊnd/",
+        "pos": "adj.",
+        "mean": "深远的/重大的",
+        "def": "very great or intense",
+        "ex": "The structural shifts in energy supply will have profound long-term impacts."
       }
     ],
     "gems": [
       {
-        "s": "Once known primarily as a playground for tourists and retirees, the city has rapidly evolved into a magnet for high finance and tech startups.",
-        "why": "This sentence uses an elegant introductory contrast phrase ('Once known primarily as...') to establish a sharp before-and-after comparison, which adds rhetorical sophistication. 这句话使用了优雅的对比介绍句式（'Once known primarily as...'），建立了鲜明的'前后对比'，增强了修辞的深度与说服力。"
+        "s": "Unlike previous market tantrums, this sudden sell-off cannot be dismissed as a mere seasonal blip.",
+        "why": "This sentence uses a contrasting subordinate clause and sophisticated vocabulary like 'tantrums' and 'seasonal blip' to establish gravity. 它使用对比从句和高级词汇（如tantrums, seasonal blip）来确立事态的严重性。"
+      },
+      {
+        "s": "The Eurozone's spike in yields is not a reflection of economic vitality, but rather a manifestation of compounding fiscal anxieties and fears of structural decay.",
+        "why": "The use of the 'not... but rather...' structure creates a powerful contrast that sharpens the analytical tone of the argument. “not... but rather...”结构创造了强烈的对比，使论点的分析性语气更为鲜明。"
       }
     ]
   }
