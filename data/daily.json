@@ -1,320 +1,334 @@
 {
-  "date": "2026-09-03",
-  "generatedAt": "2026-09-03T04:43:29.468352+00:00",
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T04:45:02.134595+00:00",
   "economist": {
-    "headline": "Europe’s bond markets are suffering a post-holiday shock",
-    "teaser": "Reasons for rising yields differ somewhat from those in America, but are no less problematic",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
-    "vocab": [
-      {
-        "word": "suffering",
-        "phonetic": "/ˈsʌfəɹɪŋ/",
-        "def": "To undergo hardship."
-      }
-    ]
+    "headline": "Mexico is struggling to win over bond markets",
+    "teaser": "Investors are unconvinced by Claudia Sheinbaum’s policies",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
+    "vocab": []
   },
   "st": {
-    "headline": "ByteDance gets $37.6b loan, Asia’s second-largest in 2026",
-    "teaser": "This is Asia’s second-largest dollar-denominated borrowing in 2026.",
-    "url": "https://www.straitstimes.com/business/bytedance-gets-37-6b-loan-asias-second-largest-in-2026",
+    "headline": "Asian stocks rally as traders pare rate bets ahead of jobs data",
+    "teaser": "However, traders remain on edge and oil prices ticked higher again as the US and Iran exchanged fire.",
+    "url": "https://www.straitstimes.com/business/companies-markets/asian-stocks-rally-as-traders-pare-rate-bets-ahead-of-jobs-data",
     "fullText": [
-      "ByteDance, the developer of TikTok, has secured a US$29.6 billion (S$37.6 billion) loan, according to people familiar with the matter, in Asia’s second-largest dollar-denominated borrowing in 2026.",
-      "The Chinese tech giant, which is on the forefront of developing artificial intelligence technology, was originally seeking a US$20 billion facility, but increased the size after gathering strong commitments from banks, said the people, who asked not to be identified discussing private matters. Proceeds will be used mainly for general corporate purpose.",
-      "The deal has not yet been signed, as banks are still in the process of signing back to confirm their allocations, one of the people added.",
-      "Beijing-based ByteDance has been rushing to build up its AI capabilities as industry peers pour money into related projects.",
-      "The company is considering boosting capital spending to as much as US$70 billion in 2026 – more than double the 2025 total – to expand its data centres and other AI infrastructure.",
-      "Four US hyperscalers – Amazon.com, Alphabet, Microsoft and Meta Platforms – are also planning capital spending sprees of as much as US$725 billion in 2026, largely focused on AI data centre equipment.",
-      "The only dollar-denominated loan deal in the region in 2026 larger than ByteDance’s facility was SoftBank Group’s US$40 billion bridge loan signed in March.",
-      "ByteDance’s jumbo loan carries one of the lowest margins for such borrowings among Chinese tech firms.",
-      "The opening margin for the loan is 68 basis points over the Secured Overnight Financing Rate, which will adjust if it extends the tenor. Its previous offshore loan carried a margin of 85 basis points over SOFR.",
-      "ByteDance did not immediately respond to a request for comment.",
-      "ByteDance’s loan deal attracted more than US$30 billion of orders before the commitment deadline, showing strong interest from lenders. The deal offers a break from a lending drought, after Asia’s loan market experienced its weakest first-half performance in 16 years.",
-      "Citigroup and JPMorgan Chase are the coordinators of the latest financing, which has a tenor of three years and can be extended to as long as five years.",
-      "ByteDance last tapped the global loan market in 2024, when it raised US$10.8 billion via about 20 lenders, comprising international and Chinese banks. BLOOMBERG"
+      "HONG KONG – Stocks rose on Sept 4 and government yields held their losses after comments from top Federal Reserve officials tempered fears that the central bank would hike interest rates at its meeting in September.",
+      "However, traders remain on edge and oil prices ticked higher again as the United States and Iran exchanged fire following a flare-up in their six-month-long conflict last weekend.",
+      "Markets have been shaken this week as the Middle East crisis sent crude surging around 10 per cent , fanning inflation concerns and putting pressure on central banks to raise interest rates.",
+      "That turn sent the cost of government debt to multi-decade highs, with analysts also pointing to a surge in corporate borrowing to fund artificial-intelligence investment and concerns about government finances.",
+      "The panic eased slightly after US President Donald Trump indicated the latest bombing campaign against Iran would be short-lived, but comments from New York Fed boss John Williams and governor Christopher Waller provided the most relief.",
+      "Waller said on Sept 3 that his call for the Sept 16 policy move would be guided by incoming data and that a softer reading would edge him towards holding rates .",
+      "“My decision on the appropriate stance of policy will be heavily influenced by what we learn about August inflation,” Waller said.",
+      "“If there is continued progress toward our two per cent goal, then I am willing to support holding the policy rate at its current level. But if inflation comes in hot, I would consider a rate hike.”",
+      "That came after Williams told CNBC earlier in the week that policymakers needed to “wait and see”.",
+      "“There’s no clear signs right now whether monetary policy currently is sufficient to make sure we bring inflation back to target in the next year or two, or whether we would need to see further action to do that,” he said.",
+      "“The (inflation) data recently has been encouraging towards that,” he added.",
+      "“I am actually seeing the trend in inflation moving slowly down as some of the effects of the tariffs move into the rearview mirror.”",
+      "The comments come as investors prepare for the release of US non-farm payroll figures later on Sept 4 , and the consumer price index next week – which are seen as crucial to what the Fed announces.",
+      "Fed chief Kevin Warsh, who is usually reticent to give guidance, had stunned markets on Sept 4 when he appeared to suggest the bank was prepared to hike.",
+      "All three main indexes on Wall Street ended well up, with the Dow and Nasdaq adding more than one per cent.",
+      "In Asia, Hong Kong climbed more than two per cent, while Seoul gained more than one per cent.",
+      "Tokyo, Shanghai, Singapore, Wellington, Jakarta and Taipei were also well up.",
+      "The yen maintained the gains it enjoyed over the previous two days amid growing expectations for a Bank of Japan interest rate hike in September , and a suggestion from an official that another could be on the way at the next meeting.",
+      "The sharp move higher against the dollar had also sparked talks of an intervention following a historic joint US-Japan move in July.",
+      "The currency was sitting at around 155.90 per dollar on Sept 4 , having been wallowing around 160.40 on Sept 1 .",
+      "“It appears the BoJ will pull the trigger and hike in September but then open the door to a potential pick-up in the pace of hiking,” Paresh Upadhyaya at Pioneer Investments said.",
+      "“We are finally seeing a follow-through to intervention by some meaningful expectation on the policy front.” AFP"
     ]
   },
   "cna": {
-    "headline": "About 15,000 people affected by incorrect NSman tax relief amounts due to system error",
-    "teaser": "Of the 15,000 affected taxpayers, about 7,000 will see an increase in their tax bill while around 8,000 will see a decrease.",
-    "url": "https://www.channelnewsasia.com/singapore/tax-relief-system-error-nsman-mindef-iras-6359541",
+    "headline": "Road closures for the 2026 F1 Singapore Grand Prix: What you need to know",
+    "teaser": "Several roads in the Marina Centre and Padang area will be closed over a seven-day period in October as the Singapore Grand Prix comes to town.",
+    "url": "https://www.channelnewsasia.com/singapore/f1-singapore-grand-prix-road-closures-6362171",
     "fullText": [
-      "SINGAPORE: About 15,000 taxpayers, comprising NSmen as well as eligible parents and spouses, have been affected by incorrect NSman tax relief amounts.",
-      "The incorrect tax relief amounts were across the tax years of assessment 2025 and 2026, the Ministry of Defence (MINDEF) and Inland Revenue Authority of Singapore (IRAS) said on Thursday (Sep 3).",
-      "Of the 15,000 affected taxpayers, about 7,000 will see an increase in their tax bill while around 8,000 will see a decrease.",
-      "In total, about S$930,000 will be recovered and about S$995,000 will be refunded.",
-      "The incorrect tax reliefs arose from an error in MINDEF’s system that generated incorrect NS activity records, which were then used to calculate tax reliefs for the affected NSmen, the authorities added.",
-      "\"MINDEF identified the inaccuracies in May 2026 while reviewing queries from NSmen and checking the accuracy of their records. MINDEF subsequently conducted a thorough review of all NS tax relief records for YA 2025 and 2026, and has worked with IRAS to ensure that the correct relief amounts are reflected in the affected taxpayers' assessments.\"",
-      "Tax relief is provided to NSmen and their family to recognise their contributions to the nation.",
-      "MINDEF added that it has rectified the errors and all affected NSmen have been directly notified, while IRAS is in the process of revising the affected notices of assessment, which will be issued by September 2026 and will reflect any additional tax payable or refunds, where applicable.",
-      "Affected taxpayers do not need to take any action before receiving their revised notices. Where revised assessments result in additional tax payable, taxpayers on GIRO instalment plans will have their instalment plans adjusted automatically.",
-      "For the minority who are not on GIRO instalment plans, they should make payment by the due date stated in their revised notices. Refunds, if any, will be made automatically.",
-      "\"MINDEF and IRAS will continue to work closely to ensure that all NSmen receive the correct tax reliefs in recognition of their contributions to National Service,\" said the authorities."
+      "SINGAPORE: Several roads in the Marina Centre and Padang area will be closed over a seven-day period in October as the Singapore Grand Prix comes to town.",
+      "The road closures in the area will take place from Oct 7 to Oct 13.",
+      "The Grand Prix will be held from Oct 9 to Oct 11 but as with previous editions, road closures will be required to facilitate set-up and removal of race infrastructure, the Land Transport Authority (LTA) said in a news release on Friday (Sep 4).",
+      "LTA said the race organiser has put in place measures to minimise traffic disruptions.",
+      "Affected roads will close from 12.01am on Oct 7 to facilitate the set-up of race infrastructure.",
+      "Following the race, roads will be progressively reopened in phases to restore traffic as soon as possible, and all roads will be fully opened by 5.30am on Oct 13.",
+      "Auxiliary police officers will be deployed during the road closure period to direct traffic and provide public assistance.",
+      "Some of the affected roads include: St Andrew's Road, Esplanade Drive, Raffles Boulevard, Republic Boulevard, Raffles Avenue, Bayfront Avenue.",
+      "Several road corridors will be opened at selected hours to facilitate morning and evening peak hour traffic.",
+      "During the road closure period, motorists can still access the Marina Centre via Rochor Road to Temasek Boulevard.",
+      "Alternatively, they can use a single lane along Raffles Boulevard (Access Lane) via Nicoll Highway or Temasek Boulevard (except for buses and vehicles with W, X, Y plates) to reach the Marina Centre.",
+      "However, it will only be for certain timings due to the new SPRINT Race introduced in Singapore this year.",
+      "Members of the public and F1 ticket holders are strongly encouraged to take public transport to get to the Marina Centre and Padang area, LTA said.",
+      "It added that taxis and private hire cars are available as alternative travel options.",
+      "Taxis and motorcycles can use the access lane at all times, except during F1 track activity hours.",
+      "Directional signs will also be put up in the vicinity to guide motorists and car parks at Suntec City, Millenia Walk, and Marina Square will remain open to the public.",
+      "LTA said that train services will also be extended on event days from Oct 9 to Oct 11, with the last trains on the North-South Line and East-West Line departing from City Hall MRT station at 12.30am on Oct 9 and Oct 10, and 12.45am on Oct 11.",
+      "Operating hours for the other train lines, except for the Changi Airport service, will also be extended.",
+      "LTA said that to complement the extended train service hours, selected bus services connecting from MRT stations will also have extended operating hours.",
+      "SBS Transit on Friday said that 37 bus services will be affected by road closures due to the race.",
+      "SMRT also announced that several of its services plying the affected areas will skip bus stops during this period.",
+      "\"Members of the public and F1 ticket holders are strongly advised to plan their journeys in advance by referring to the Road Access & Public Transport Guide,\" LTA said."
     ]
   },
   "mom": {
-    "headline": "MOM Enhances Heat Stress Protection for Workers Amid Rising Heat Risks",
-    "teaser": "1 As part of the Whole-of-Government efforts to strengthen Singapore's resilience to a warming climate, the Ministry of Manpower (MOM) has enhanced the Heat Stress Management Framework to better protect outdoor workers from heat-related risks. Employers will have three months to put the necessary measures in place befo",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0828-enhancements-to-heat-stress-framework"
+    "headline": "Four arrested and 21 assisting in investigations for employment-related offences following MOM enforcement operation",
+    "teaser": "On 2 September 2026, the Ministry of Manpower (MOM) arrested four subjects for suspected employment-related offences during an enforcement operation. 2 The four subjects comprised two company directors and two company staff from the construction sector. MOM is investigating these individuals for suspected offences unde",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0904-four-arrested-and-21-assisting-in-investigations-for-employment-related-offences"
   },
   "lifeVocab": [
     {
-      "en": "concourse",
-      "cn": "大厅（车站等）",
-      "def": "the main open area in a station where people gather or pass through",
-      "ex": "Let's meet near the passenger service centre at the MRT concourse.",
-      "emoji": "🎫"
-    },
-    {
-      "en": "gantry",
-      "cn": "闸机/控制架",
-      "def": "the electronic gate where passengers tap their travel cards to enter or exit",
-      "ex": "Please have your EZ-Link card ready before you reach the gantry to avoid blocking others.",
-      "emoji": "💳"
-    },
-    {
       "en": "commute",
-      "cn": "通勤路程",
-      "def": "a regular journey of some distance to and from one's place of work",
-      "ex": "Her daily commute from Pasir Ris to Jurong East takes almost an hour by train.",
+      "cn": "通勤",
+      "def": "to travel some distance between one's home and place of work on a regular basis",
+      "ex": "My daily commute from Pasir Ris to Jurong East takes almost an hour.",
       "emoji": "🚇"
     },
     {
-      "en": "feeder bus",
+      "en": "concourse",
+      "cn": "大厅",
+      "def": "a large open area inside or in front of a public building, such as a station",
+      "ex": "Let's meet near the passenger service centre at the station concourse.",
+      "emoji": "🏢"
+    },
+    {
+      "en": "gantry",
+      "cn": "闸门",
+      "def": "the electronic gate where commuters tap their card to enter or exit",
+      "ex": "Make sure your SimplyGo card has enough value before tapping through the gantry.",
+      "emoji": "💳"
+    },
+    {
+      "en": "shuttle bus",
       "cn": "接驳巴士",
-      "def": "a local bus service that brings passengers from residential areas to a main transport hub",
-      "ex": "I usually take a feeder bus from my block to the nearest MRT station.",
+      "def": "a bus that travels regularly between two places, often used during train service disruptions",
+      "ex": "SMRT deployed free bridging shuttle buses during the track fault on the East-West Line.",
       "emoji": "🚌"
+    },
+    {
+      "en": "transfer",
+      "cn": "换乘",
+      "def": "to change from one train line or route to another",
+      "ex": "You can transfer from the North-South Line to the Circle Line at Bishan station.",
+      "emoji": "🔄"
     },
     {
       "en": "escalator",
       "cn": "自动扶梯",
-      "def": "a moving staircase consisting of an endlessly circulating belt of steps",
-      "ex": "Commuters are advised to stand on the left side of the escalator to let others pass on the right.",
+      "def": "a moving staircase consisting of an endlessly circulating chain of steps",
+      "ex": "Stand on the left of the escalator to let rushing commuters pass on the right.",
       "emoji": "🪜"
     },
     {
-      "en": "interchange",
-      "cn": "转换站/枢纽",
-      "def": "a station where passengers can transfer between different transit lines or transport modes",
-      "ex": "Dhoby Ghaut is a busy interchange where three MRT lines connect.",
-      "emoji": "🔄"
-    },
-    {
-      "en": "disruption",
-      "cn": "中断/故障",
-      "def": "an interruption in the normal flow or activity of a service",
-      "ex": "The signal fault caused a major disruption on the East-West Line this morning.",
-      "emoji": "⚠️"
-    },
-    {
       "en": "peak hour",
-      "cn": "高峰期",
-      "def": "the times of highest demand and congestion, typically during morning and evening rush hours",
-      "ex": "The trains are extremely crowded during evening peak hours from 6 PM to 7:30 PM.",
-      "emoji": "🕒"
+      "cn": "尖峰时段/高峰期",
+      "def": "the times of highest demand for public transport, typically morning and evening",
+      "ex": "Trains are extremely crowded during the morning peak hour from 8:00 AM to 9:00 AM.",
+      "emoji": "⏰"
     },
     {
-      "en": "berth",
-      "cn": "巴士停靠位",
-      "def": "a designated parking space for a bus at an interchange for boarding or alighting",
-      "ex": "The bus to Woodlands will depart from Berth 5 of the interchange.",
-      "emoji": "🛑"
+      "en": "dwell time",
+      "cn": "停留时间",
+      "def": "the time a train spends at a station to let passengers board and alight",
+      "ex": "The station master adjusted the train's dwell time to ease boarding delays.",
+      "emoji": "⏱️"
     },
     {
-      "en": "track",
-      "cn": "轨道",
-      "def": "the steel rails on which trains run",
-      "ex": "Please stand behind the yellow line and away from the track for your safety.",
-      "emoji": "🛤️"
+      "en": "alight",
+      "cn": "下车/降落",
+      "def": "to get off a bus or train",
+      "ex": "Passengers who are alighting have the right of way, so please let them exit first.",
+      "emoji": "🚶"
+    },
+    {
+      "en": "track fault",
+      "cn": "轨道故障",
+      "def": "a mechanical or structural failure in the train tracks",
+      "ex": "A track fault near Clementi caused major train delays this morning.",
+      "emoji": "⚠️"
     }
   ],
   "levelVocab": [
     {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
+      "w": "advocate",
+      "ipa": "/ˈæd.və.keɪt/",
       "pos": "v.",
-      "cn": "增加，提高",
-      "def": "to make something greater by adding to it; increase",
-      "ex": "The department hired part-time consultants to augment their existing project team during peak season."
+      "cn": "拥护/提倡",
+      "def": "to publicly support or recommend a particular cause or policy",
+      "ex": "She intends to advocate for more flexible work arrangements during the annual board meeting."
     },
     {
-      "w": "bolster",
-      "ipa": "/ˈbəʊl.stər/",
-      "pos": "v.",
-      "cn": "支持，加强",
-      "def": "to support, strengthen, or prop up something, especially confidence or an argument",
-      "ex": "The company introduced a new training framework to bolster the technical skills of its workforce."
-    },
-    {
-      "w": "circumvent",
-      "ipa": "/ˌsɜː.kəmˈvent/",
-      "pos": "v.",
-      "cn": "规避，绕过",
-      "def": "to find a clever way of avoiding a rule, restriction, or obstacle",
-      "ex": "They managed to circumvent the tedious administrative process by obtaining a direct approval from the director."
+      "w": "benchmark",
+      "ipa": "/ˈbentʃ.mɑːrk/",
+      "pos": "n.",
+      "cn": "基准/标杆",
+      "def": "a standard or point of reference against which things may be compared or assessed",
+      "ex": "The company's customer service score has become the benchmark for the entire hospitality industry."
     },
     {
       "w": "delineate",
       "ipa": "/dɪˈlɪn.i.eɪt/",
       "pos": "v.",
-      "cn": "描绘，详细叙述",
-      "def": "to describe, portray, or outline precisely",
-      "ex": "The project proposal clearly delineates the specific responsibilities of each department involved."
+      "cn": "描绘/勾勒",
+      "def": "to describe or portray something precisely",
+      "ex": "The contract clearly delineates the roles and responsibilities of each business partner."
     },
     {
-      "w": "disparage",
-      "ipa": "/dɪˈspær.ɪdʒ/",
+      "w": "exacerbate",
+      "ipa": "/ɪɡˈzæs.ɚ.beɪt/",
       "pos": "v.",
-      "cn": "贬低，轻蔑",
-      "def": "to regard or represent as being of little worth or value",
-      "ex": "It is unprofessional to disparage your competitors' services during a client presentation."
+      "cn": "加剧/使恶化",
+      "def": "to make a problem, bad situation, or negative feeling worse",
+      "ex": "Failure to address the software bug now will only exacerbate the system downtime later."
     },
     {
-      "w": "emulate",
-      "ipa": "/ˈem.jə.leɪt/",
+      "w": "foster",
+      "ipa": "/ˈfɑː.stɚ/",
       "pos": "v.",
-      "cn": "效仿，努力赶上",
-      "def": "to match or surpass a person or achievement, typically by imitation",
-      "ex": "Young startups in Singapore often try to emulate the aggressive growth model of major regional tech firms."
+      "cn": "促进/培养",
+      "def": "to encourage or promote the development of something (usually something good)",
+      "ex": "We aim to foster a collaborative culture where every team member feels valued."
     },
     {
-      "w": "forestall",
-      "ipa": "/fɔːˈstɔːl/",
+      "w": "grapple",
+      "ipa": "/ˈɡræp.əl/",
       "pos": "v.",
-      "cn": "预先阻止",
-      "def": "to prevent or obstruct an anticipated event or action by taking advance action",
-      "ex": "The management implemented strict safety audits to forestall any potential workplace accidents."
+      "cn": "努力克服/苦战",
+      "def": "to struggle to deal with or overcome a difficult problem or situation",
+      "ex": "Retailers must grapple with rising overhead costs and a shortage of local manpower."
     },
     {
-      "w": "juxtapose",
-      "ipa": "/ˌdʒʌk.stəˈpəʊz/",
-      "pos": "v.",
-      "cn": "并置，对比",
-      "def": "to place different things close together to create a contrasting effect",
-      "ex": "The exhibition juxtaposes historical photographs of Singapore's colonial era with modern architectural designs."
+      "w": "imperative",
+      "ipa": "/ɪmˈper.ə.t̬ɪv/",
+      "pos": "adj.",
+      "cn": "极其重要的/迫切的",
+      "def": "of vital importance; crucial or urgent",
+      "ex": "It is imperative that we complete the financial audit before the end of the quarter."
     },
     {
-      "w": "placate",
-      "ipa": "/pləˈkeɪt/",
+      "w": "patronise",
+      "ipa": "/ˈpeɪ.trə.naɪz/",
       "pos": "v.",
-      "cn": "安抚，平息",
-      "def": "to make someone less angry, hostile, or critical by giving in to some demands",
-      "ex": "The customer relations manager offered a complimentary upgrade to placate the disgruntled client."
+      "cn": "光顾/屈尊俯就地对待",
+      "def": "to frequent as a customer, or to treat someone in a way that suggests they are less intelligent or important",
+      "ex": "Locals continue to patronise the family-run clinic despite the opening of larger medical chains."
     },
     {
       "w": "rectify",
-      "ipa": "/ˈrek.tɪ.faɪ/",
+      "ipa": "/ˈrek.tə.faɪ/",
       "pos": "v.",
-      "cn": "纠正，整顿",
-      "def": "to put right or correct a mistake or bad situation",
-      "ex": "The engineering team worked overnight to rectify the software glitch before the app went live."
+      "cn": "纠正/整顿",
+      "def": "to put right; correct",
+      "ex": "The IT department is working urgently to rectify the server configuration error."
+    },
+    {
+      "w": "transcend",
+      "ipa": "/trænˈsend/",
+      "pos": "v.",
+      "cn": "超越",
+      "def": "to go beyond the range or limits of something",
+      "ex": "Great design should transcend cultural differences and appeal to a global audience."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore Tackles Food Waste at the Source",
-    "transcript": "As one of Asia's premier food paradises, Singapore generates over seven hundred thousand tonnes of food waste annually. To combat this, the National Environment Agency has launched a new campaign targeting hawker centres and mall food courts. <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpeɪ.trənz/ (n.) customers who support a business or establishment — 顾客，光顾者\">patrons</span> are being urged to buy only what they can finish, while stallholders are learning to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌriːˈpɜː.pəs/ (v.) to adapt something for use in a different purpose or form — 改变……的用途\">repurpose</span> <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsɜː.pləs/ (adj.) more than what is needed or used; excess — 过剩的，剩余的\">surplus</span> ingredients. This grassroots shift is crucial for extending the lifespan of Semakau Landfill."
+    "title": "Powering Up: The HDB EV Charging Dilemma",
+    "transcript": "As Singapore charges ahead with its green <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃ.ən/ (n.) the process of changing from one state or condition to another — 过渡/转型\">transition</span>, resident-led debates have sparked over the installation of EV chargers in HDB carparks. While some flat owners welcome the convenience, others worry about the loss of regular parking lots and potential electricity tariff spikes. Land Transport Authority officials assure that the rollout will be <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/prəˈɡres.ɪv/ (adj.) happening or developing gradually or in stages — 渐进的/逐步的\">progressive</span>, aiming to equip all HDB towns with chargers by 2030."
   },
   "economistArticle": {
-    "title": "The Yield Shockwave Hits Asia's Safe Havens",
+    "title": "Mexico is struggling to win over bond markets",
     "paras": [
-      "<span class=\"gem\">For global bond markets, the autumn return to work has felt less like a gentle re-entry and more like a cold shower.</span> Yields on government debt across Europe and America have surged to multi-year highs as central bankers persistently hammer home their \"higher-for-longer\" interest rate message. In Singapore, a market famed for its stability and <span class=\"voc\">prudent</span> fiscal management, the tremors of this post-holiday shock are reverberating through domestic capital channels, prompting a sharp repricing of risk.",
-      "The immediate casualties of this global fixed-income <span class=\"voc\">rout</span> are Singapore’s cherished Real Estate Investment Trusts (S-REITs). For years, these vehicles offered yield-hungry investors a reliable <span class=\"voc\">sanctuary</span>, outperforming cash with comfortable margins. Now, as local benchmark yields rise in lockstep with global trends, that yield spread has compressed dramatically, triggering a painful sell-off and forcing managers to <span class=\"voc\">recalibrate</span> their leverage profiles.",
-      "While some commentators suggest that Asia can decouple from Western bond market volatility, the reality is far more interconnected. Domestic borrowing costs in Singapore are <span class=\"voc\">inextricably</span> linked to US Treasury yields, and the recent spike has put pressure on corporate balance sheets. <span class=\"gem\">Debt <span class=\"voc\">refinancing</span>, which once seemed a routine administrative exercise, has suddenly transformed into a high-stakes strategic challenge for highly leveraged regional firms.</span>",
-      "Yet, this market turbulence is not entirely <span class=\"voc\">devoid</span> of silver linings. Institutional investors are seizing the opportunity to lock in higher yields on low-risk government bonds, known locally as Singapore Savings Bonds and Treasury bills. This shift has altered domestic deposit dynamics, as retail investors <span class=\"voc\">migrate</span> their capital away from traditional savings accounts in search of these government-backed instruments.",
-      "Navigating this unforgiving environment requires a sober assessment of macroeconomic realities. As the era of cheap liquidity firmly recedes into history, both policy-makers and market participants must brace for a <span class=\"voc\">protracted</span> period of volatility. The resilience of Asia's premier financial hub is once again being tested, not by a sudden credit crisis, but by the slow, grinding pressure of capital becoming expensive again."
+      "As Claudia Sheinbaum prepares to assume the presidency, global investors are casting a wary eye toward Mexico City. The optimism that once surrounded the country's potential as a premier \"<span class=\"voc\">nearshoring</span>\" hub is being eclipsed by mounting fiscal anxieties. Wall Street is nervous that she will <span class=\"voc\">perpetuate</span> her predecessor's populist policies, which have strained the country's balance sheets.",
+      "The core of the issue lies in Mexico’s deteriorating public finances. The outgoing administration leaves behind a fiscal <span class=\"voc\">deficit</span> that has ballooned to nearly six percent of GDP, the widest gap since the 1980s. Much of this cash has been funneled into expansive social transfers and propping up Pemex, the world's most heavily <span class=\"voc\">indebted</span> state oil company.",
+      "Furthermore, proposed constitutional <span class=\"voc\">overhauls</span> have severely <span class=\"voc\">rattled</span> investor confidence. Plans to elect judges by popular vote threaten to undermine judicial independence, leaving multinational corporations highly nervous about contract enforcement. <span class=\"voc\">Sovereign</span> bond markets have responded by demanding a higher premium to hold Mexican debt.",
+      "Sheinbaum faces an unenviable task. <span class=\"gem\">She must perform a delicate tightrope walk, balancing the demands of a welfare-dependent base with the cold realities of global capital markets.</span> Rating agencies have already warned of potential downgrades if the fiscal trajectory is not rectified swiftly.",
+      "In the end, Mexico cannot afford to take capital markets for granted. <span class=\"gem\">Without structural fiscal <span class=\"voc\">prudence</span> and a renewed respect for contract enforcement, the country risks <span class=\"voc\">squandering</span> a historic economic window.</span>"
     ],
-    "cn": "对于全球债券市场而言，秋季重返工作岗位的感觉不像是温柔的回归，更像是一场冷水淋浴。随着中央银行家们持续强调“在更长时间内维持更高利率”的信息，欧洲和美国的政府债券收益率飙升至数年来的高点。在以稳定和审慎财政管理闻名的新加坡市场，这场节后冲击的余波正在国内资本通道中回荡，引发了对风险的急剧重新定价。\n\n这场全球固定收益市场溃败的直接牺牲品是新加坡备受青睐的房地产投资信托基金（S-REITs）。多年来，这些投资工具为追求收益的投资者提供了可靠的避风港，并以舒适的利润空间跑赢了现金。现在，随着本地基准收益率与全球趋势同步上升，这一利差急剧收窄，引发了痛苦的抛售，并迫使管理人员重新调整其杠杆结构。\n\n虽然一些评论家认为亚洲可以与西方债券市场的波动脱钩，但现实要紧密相连得多。新加坡的国内借贷成本与美债收益率有着密不可分的联系，最近的飙升给企业资产负债表带来了压力。债务再融资曾被视为一项例行的行政工作，如今已突然转变为高杠杆地区企业面临的高风险战略挑战。\n\n然而，这种市场动荡并非完全没有一线希望。机构投资者正抓住机会，锁定低风险政府债券（本地称为新加坡储蓄国债和国库券）的更高收益率。这一转变改变了国内存款动态，因为零售投资者将其资金从传统储蓄账户转移，以寻找这些政府支持的工具。\n\n在这种严酷的环境中航行，需要对宏观经济现实进行清醒的评估。随着廉价流动性时代彻底退入历史，政策制定者和市场参与者都必须为长期的波动做好准备。亚洲首屈一指的金融枢纽的韧性再次受到考验，这次不是因为突然的信用危机，而是因为资本再次变得昂贵而带来的缓慢、折磨人的压力。",
+    "cn": "随着克劳迪娅·辛鲍姆（Claudia Sheinbaum）准备就任总统，全球投资者正向墨西哥城投去警惕的目光。曾经围绕该国作为首要“近岸外包”中心潜力的乐观情绪，正被日益加剧的财政焦虑所掩盖。华尔街感到紧张，担心她会延续前任的民粹主义政策，而这些政策已经使该国的资产负债表吃紧。问题的核心在于墨西哥财政状况的恶化。即将卸任的政府留下了占国内生产总值（GDP）近6%的财政赤字，这是自20世纪80年代以来的最大缺口。这些资金大部分被用于庞大的社会转移支付以及扶持全球负债最重的国有石油公司——墨西哥石油公司（Pemex）。此外，拟议中的宪法改革严重动摇了投资者的信心。通过全民投票选举法官的计划可能会损害司法独立，使跨国公司对合同的执行感到高度紧张。主权债券市场的反应是要求持有墨西哥国债的更高溢价。辛鲍姆面临着一项并不令人羡慕的任务。她必须在走钢丝中寻求平衡，既要满足依赖福利的选民群体的需求，又要面对全球资本市场的冷酷现实。评级机构已经警告，如果财政轨迹不迅速得到纠正，评级可能会被下调。归根结底，墨西哥无法承受对资本市场的掉以轻心。如果缺乏结构性的财政审慎以及对合同执行的重新尊重，该国将面临挥霍掉这一历史性经济窗口期的风险。",
     "vocab": [
       {
-        "w": "reverberate",
-        "ipa": "/rɪˈvɜː.bər.eɪt/",
-        "pos": "v.",
-        "mean": "(指声音或影响)回响，产生反响",
-        "def": "to have a continuous effect; to echo or shake",
-        "ex": "The tremors of this post-holiday shock are reverberating through domestic capital channels."
-      },
-      {
-        "w": "prudent",
-        "ipa": "/ˈpruː.dənt/",
-        "pos": "adj.",
-        "mean": "审慎的，精明的",
-        "def": "acting with or showing care and thought for the future",
-        "ex": "Singapore is famed for its stability and prudent fiscal management."
-      },
-      {
-        "w": "rout",
-        "ipa": "/raʊt/",
+        "w": "nearshoring",
+        "ipa": "/ˌnɪəˈʃɔː.rɪŋ/",
         "pos": "n.",
-        "mean": "溃败，惨败",
-        "def": "a decisive defeat or disorderly retreat",
-        "ex": "The immediate casualties of this global fixed-income rout are Singapore’s S-REITs."
+        "mean": "近岸外包",
+        "def": "the practice of transferring a business operation to a nearby country",
+        "ex": "Mexico has benefited immensely from nearshoring as US companies move production closer to home."
       },
       {
-        "w": "sanctuary",
-        "ipa": "/ˈsæŋk.tʃu.ə.ri/",
-        "pos": "n.",
-        "mean": "避风港，庇护所",
-        "def": "a place of safety, refuge, or protection",
-        "ex": "These vehicles offered yield-hungry investors a reliable sanctuary."
-      },
-      {
-        "w": "recalibrate",
-        "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
+        "w": "perpetuate",
+        "ipa": "/pəˈpetʃ.u.eɪt/",
         "pos": "v.",
-        "mean": "重新校准，重新调整",
-        "def": "to adjust or change something to make it more accurate or suitable to new conditions",
-        "ex": "The sudden market shift is forcing fund managers to recalibrate their leverage profiles."
+        "mean": "使永久化/延续",
+        "def": "to make something (especially a bad situation) continue indefinitely",
+        "ex": "The new policy threatens to perpetuate the class divide rather than bridge it."
       },
       {
-        "w": "inextricably",
-        "ipa": "/ˌɪn.ɪkˈstrɪk.ə.bli/",
-        "pos": "adv.",
-        "mean": "密不可分地，无法摆脱地",
-        "def": "in a way that is impossible to disentangle or separate",
-        "ex": "Domestic borrowing costs are inextricably linked to US Treasury yields."
-      },
-      {
-        "w": "refinancing",
-        "ipa": "/ˌriːˈfaɪ.næns.ɪŋ/",
+        "w": "deficit",
+        "ipa": "/ˈdef.ə.sɪt/",
         "pos": "n.",
-        "mean": "再融资",
-        "def": "the process of replacing an existing debt obligation with a new one under different terms",
-        "ex": "Debt refinancing has suddenly transformed into a high-stakes strategic challenge."
+        "mean": "赤字",
+        "def": "the amount by which spending exceeds income over a particular period",
+        "ex": "The government is struggling to reduce the annual budget deficit."
       },
       {
-        "w": "devoid",
-        "ipa": "/dɪˈv9ɪd/",
-        "pos": "adj.",
-        "mean": "毫无的，缺乏的",
-        "def": "entirely lacking or free from",
-        "ex": "Yet, this market turbulence is not entirely devoid of silver linings."
-      },
-      {
-        "w": "migrate",
-        "ipa": "/maɪˈɡreɪt/",
+        "w": "prop up",
+        "ipa": "/prɒp ʌp/",
         "pos": "v.",
-        "mean": "迁移，转移",
-        "def": "to move from one place, system, or account to another",
-        "ex": "Retail investors migrate their capital away from traditional savings accounts."
+        "mean": "支撑/扶持",
+        "def": "to support something, sometimes with money, to prevent it from failing",
+        "ex": "The state has been forced to prop up the failing national airline for years."
       },
       {
-        "w": "protracted",
-        "ipa": "/prəˈtræk.tɪd/",
+        "w": "indebted",
+        "ipa": "/ɪnˈdet.ɪd/",
         "pos": "adj.",
-        "mean": "漫长的，延长的",
-        "def": "lasting for a long time or longer than expected",
-        "ex": "Market participants must brace for a protracted period of volatility."
+        "mean": "负债累累的",
+        "def": "owing money to individuals, businesses, or institutions",
+        "ex": "Heavily indebted corporations are highly sensitive to interest rate hikes."
+      },
+      {
+        "w": "overhauls",
+        "ipa": "/ˈəʊ.və.hɔːlz/",
+        "pos": "n.",
+        "mean": "彻底改革/大修",
+        "def": "thorough examinations and changes made to improve or repair a system",
+        "ex": "The education system requires major overhauls to fit the digital age."
+      },
+      {
+        "w": "rattled",
+        "ipa": "/ˈræt.əld/",
+        "pos": "adj./v.",
+        "mean": "使慌乱/动摇",
+        "def": "worried, nervous, or frightened by a situation",
+        "ex": "The sudden drop in share prices rattled even the most experienced traders."
+      },
+      {
+        "w": "sovereign",
+        "ipa": "/ˈsɒv.rɪn/",
+        "pos": "adj.",
+        "mean": "主权的",
+        "def": "relating to a self-governing state, or its debt and currency",
+        "ex": "Rating agencies assessed the sovereign debt risk of the developing nation."
+      },
+      {
+        "w": "prudence",
+        "ipa": "/ˈpruː.dəns/",
+        "pos": "n.",
+        "mean": "审慎/谨慎",
+        "def": "carefulness and wisdom in making practical decisions, especially financial ones",
+        "ex": "Exercising fiscal prudence during economic booms is essential for long-term stability."
+      },
+      {
+        "w": "squandering",
+        "ipa": "/ˈskwɒn.dər.ɪŋ/",
+        "pos": "v.",
+        "mean": "挥霍/浪费（机会等）",
+        "def": "wasting something, especially money or an opportunity, in a reckless manner",
+        "ex": "By ignoring foreign investors, the government risks squandering its developmental momentum."
       }
     ],
     "gems": [
       {
-        "s": "For global bond markets, the autumn return to work has felt less like a gentle re-entry and more like a cold shower.",
-        "why": "This sentence uses a clever 'less like X and more like Y' comparative structure combined with figurative language ('cold shower') to vividly illustrate the abruptness of the market transition. 这种结构巧妙地使用了‘less like X and more like Y’（与其说像X，不如说更像Y）的对比句式，结合形象的比喻（‘cold shower’ 凉水澡/冷水淋浴），生动地描绘了市场转折的突兀与残酷。"
+        "s": "She must perform a delicate tightrope walk, balancing the demands of a welfare-dependent base with the cold realities of global capital markets.",
+        "why": "This sentence employs a vivid metaphor ('delicate tightrope walk') to illustrate political complexity, contrasting emotional social demands against cold financial markets. / 这句话运用了生动的比喻（'走钢丝'）来阐释政治的复杂性，将感性的社会需求与冷酷的金融市场进行了对比。"
       },
       {
-        "s": "Debt refinancing, which once seemed a routine administrative exercise, has suddenly transformed into a high-stakes strategic challenge for highly leveraged regional firms.",
-        "why": "This sentence demonstrates the effective use of a non-defining relative clause ('which once seemed...') to contrast past complacency with present high-stakes reality. 该句展示了非限制性定语从句（‘which once seemed...’）的极佳用法，通过将过去的麻痹大意与现在的高风险现实进行对比，增强了句子的叙事张力。"
+        "s": "Without structural fiscal prudence and a renewed respect for contract enforcement, the country risks squandering a historic economic window.",
+        "why": "This sentence uses a conditional warning structure ('Without X, the country risks Y') that elegantly conveys high stakes in economic analysis. / 这句话使用了条件性警告结构（'如果没有X，国家就面临Y的风险'），优雅地传达了经济分析中的利害关系。"
       }
     ]
   }
