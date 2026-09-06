@@ -1,37 +1,306 @@
 {
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-05T04:40:47.306422+00:00",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T04:50:07.996776+00:00",
   "economist": {
     "headline": "The jobs apocalypse is postponed. An AI jobs boom is here",
     "teaser": "Initial effects of the technology on employment look positive",
     "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-    "vocab": []
+    "vocab": [
+      {
+        "word": "effects",
+        "phonetic": "/ɪˈfɛkts/",
+        "def": "The result or outcome of a cause."
+      },
+      {
+        "word": "positive",
+        "phonetic": "/ˈpɒzɪ̈tɪv/",
+        "def": "A thing capable of being affirmed; something real or actual."
+      }
+    ]
   },
   "st": {
-    "headline": "Beyond doom spending: 6 ways to enjoy life now without shortchanging your future self",
-    "teaser": "An antidote to doom spending is to invest in what is within your control and cannot easily be taken away.",
-    "url": "https://www.straitstimes.com/business/invest/beyond-doom-spending-six-ways-to-enjoy-life-now-without-short-changing-your-future-self",
+    "headline": "Have kids? Don’t leave government benefits idle on the table",
+    "teaser": "Make the Baby Gift, annual Child Credits and savings on childcare work harder.",
+    "url": "https://www.straitstimes.com/business/have-kids-dont-leave-government-benefits-on-the-table",
     "fullText": [
-      "SINGAPORE – Last month, a younger colleague wrote in this column about why her generation is choosing travel and experiences over saving for a home.",
-      "With property and living costs rising, artificial intelligence threatening jobs and one crisis following another, the future no longer feels secure enough to plan for with confidence."
+      "Sign up for ST InvestMe and unlock full access to exclusive insights and financial literacy courses today.",
+      "SINGAPORE – For years, the Singapore Government’s support for young couples contemplating parenthood has been heavily front-loaded around a child’s birth, from the Baby Bonus Cash Gift and the Child Development Account (CDA) to grants, subsidies and childcare support."
     ]
   },
   "cna": {
-    "headline": "Sydney sweats in spring hot spell, faces 'extreme' bushfire risk",
-    "teaser": "Temperatures in Sydney are expected to hit 33 degrees Celsius on Saturday (Sep 5), nearly 13 degrees above average.",
-    "url": "https://www.channelnewsasia.com/world/sydney-hot-bushfire-risk-6364231",
+    "headline": "Messi sets up Miami goal in first game since Argentina retirement",
+    "teaser": "Messi sets up Miami goal in first game since Argentina retirement",
+    "url": "https://www.channelnewsasia.com/sport/messi-sets-up-miami-goal-in-first-game-argentina-retirement-6365356",
     "fullText": [
-      "SYDNEY: Australia's most populous city Sydney baked in a burst of sweltering spring heat on Saturday (Sep 5), raising the risk of bushfires and prompting authorities to issue a ban on lighting fires.",
-      "The heat comes as a powerful El Nino weather pattern in the Pacific, expected to be among the strongest in decades, drives hotter and drier conditions across southern Australia during the September-November spring season.",
-      "On Saturday, the nation's weather forecaster said temperatures in the New South Wales capital, home to 5.6 million people, were set to hit 33 degrees Celsius, nearly 13 degrees above average.",
-      "At Sydney Airport, the temperature was already 28.6 degrees Celsius at 11.30am (9.30am, Singapore time), more than seven degrees above the September mean maximum temperature, according to forecaster data.",
-      "State fire authorities issued a total fire ban for Sydney where they rated fire risk as \"extreme\", the second highest danger rating.",
-      "Climate change is causing extreme heat and fire weather to become more common in Australia, a bushfire-prone country of around 27 million. In January, thousands of firefighters battled bushfires in the southeast that razed homes, cut power to thousands of homes and burned swathes of bushland."
+      "Sept 5 : Lionel Messi provided an assist in Inter Miami's 2-2 draw with Atlanta United in Florida on Saturday in the Argentine's first appearance since retiring from international duty earlier this week.",
+      "Messi, who captained Argentina to World Cup glory in 2022 and a runners-up finish in 2026, started for Miami in a match that kicked off more than 90 minutes late due to heavy rain and lightning.",
+      "The 39-year-old whipped in a corner that midfielder Casemiro headed past Atlanta goalkeeper Lucas Hoyos to put Miami ahead in the 32nd minute.",
+      "Miami's lead lasted only three minutes, however, as a sliding Casemiro blocked a cross that bounced off his keeper Dayne St. Clair and landed at the feet of Atlanta's Miguel Almiron, who guided it home to level.",
+      "Messi, who scored four goals and set up another in last weekend's 7-1 rout of CF Montreal, is joint top of the MLS scoring charts with 18 goals this season.",
+      "He had previously expressed doubts about continuing his playing career following the death of his father, Jorge, on August 8.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
     "headline": "Four arrested and 21 assisting in investigations for employment-related offences following MOM enforcement operation",
     "teaser": "On 2 September 2026, the Ministry of Manpower (MOM) arrested four subjects for suspected employment-related offences during an enforcement operation. 2 The four subjects comprised two company directors and two company staff from the construction sector. MOM is investigating these individuals for suspected offences unde",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0904-four-arrested-and-21-assisting-in-investigations-for-employment-related-offences"
+  },
+  "lifeVocab": [
+    {
+      "en": "MRT station",
+      "cn": "地铁站",
+      "def": "A railway station for the rapid transit system in Singapore",
+      "ex": "Let's meet outside the passenger service centre at City Hall MRT station.",
+      "emoji": "🚉"
+    },
+    {
+      "en": "EZ-Link card",
+      "cn": "易通卡",
+      "def": "A contactless smart card used for paying public transit fares",
+      "ex": "I need to top up my EZ-Link card because the balance is low.",
+      "emoji": "💳"
+    },
+    {
+      "en": "Passenger service centre",
+      "cn": "乘客服务中心",
+      "def": "A counter at MRT stations where commuters can ask for assistance",
+      "ex": "If you lose your card, you should report it to the passenger service centre.",
+      "emoji": "💁"
+    },
+    {
+      "en": "Fare gate",
+      "cn": "闸机",
+      "def": "The barrier where passengers tap their smart cards to enter or exit",
+      "ex": "Tap your phone at the fare gate to enter the train platform.",
+      "emoji": "🚧"
+    },
+    {
+      "en": "Peak hour",
+      "cn": "高峰期",
+      "def": "The busiest times of day when people travel to and from work",
+      "ex": "The trains are extremely crowded during morning peak hour.",
+      "emoji": "⏰"
+    },
+    {
+      "en": "Train disruption",
+      "cn": "地铁故障",
+      "def": "An unexpected delay or breakdown in the train service",
+      "ex": "The train disruption caused thousands of commuters to be late this morning.",
+      "emoji": "⚠️"
+    },
+    {
+      "en": "Priority seat",
+      "cn": "关怀座/专座",
+      "def": "Seats reserved for the elderly, pregnant women, and injured passengers",
+      "ex": "He stood up to offer his priority seat to an elderly woman.",
+      "emoji": "🧓"
+    },
+    {
+      "en": "Escalator",
+      "cn": "自动扶梯",
+      "def": "Moving stairs that carry people between different levels of a station",
+      "ex": "Please stand on the left side of the escalator to let others walk past on the right.",
+      "emoji": "🪜"
+    },
+    {
+      "en": "Commuter",
+      "cn": "通勤者",
+      "def": "A person who travels some distance to work on a regular basis",
+      "ex": "The MRT network serves millions of commuters daily in Singapore.",
+      "emoji": "🚶"
+    },
+    {
+      "en": "Feeder bus",
+      "cn": "支线巴士",
+      "def": "A local bus service that connects residential areas to the nearest MRT station",
+      "ex": "I usually take a feeder bus from my HDB flat to the train station.",
+      "emoji": "🚌"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "acutely",
+      "ipa": "/əˈkjuːtli/",
+      "pos": "adv.",
+      "cn": "敏锐地/极其",
+      "def": "Intensely or sharply, referring to a strong awareness or feeling",
+      "ex": "The management team is acutely aware of the potential risks of the new expansion plan."
+    },
+    {
+      "w": "vanguard",
+      "ipa": "/ˈvæn.ɡɑːd/",
+      "pos": "n.",
+      "cn": "先锋/前沿",
+      "def": "A group of people leading the way in new developments or ideas",
+      "ex": "Our engineering department is in the vanguard of green energy technology."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "pos": "v.",
+      "cn": "传播/散播",
+      "def": "To spread information, knowledge, or ideas widely to a large audience",
+      "ex": "The HR department will disseminate the new workplace guidelines by Friday afternoon."
+    },
+    {
+      "w": "efficacy",
+      "ipa": "/ˈef.ɪ.kə.si/",
+      "pos": "n.",
+      "cn": "功效/效力",
+      "def": "The ability to produce a desired or intended result",
+      "ex": "We need more data to assess the efficacy of this marketing campaign."
+    },
+    {
+      "w": "incongruous",
+      "ipa": "/ɪnˈkɒŋ.gru.əs/",
+      "pos": "adj.",
+      "cn": "不协调的/不相称的",
+      "def": "Out of keeping or place; not in harmony with the surroundings",
+      "ex": "Such a modern glass office building looks slightly incongruous in this historic district."
+    },
+    {
+      "w": "subsequent",
+      "ipa": "/ˈsʌb.sɪ.kwənt/",
+      "pos": "adj.",
+      "cn": "随后的",
+      "def": "Coming after something else in time or order",
+      "ex": "The initial launch failed, but subsequent attempts were highly successful."
+    },
+    {
+      "w": "preclude",
+      "ipa": "/prɪˈkluːd/",
+      "pos": "v.",
+      "cn": "排除/妨碍",
+      "def": "To prevent something from happening or make it impossible",
+      "ex": "Signing this contract does not preclude us from working with other vendors in the future."
+    },
+    {
+      "w": "rapport",
+      "ipa": "/ræˈpɔːr/",
+      "pos": "n.",
+      "cn": "融洽关系",
+      "def": "A close and harmonious relationship in which people understand each other well",
+      "ex": "She has established an excellent rapport with our regional clients."
+    },
+    {
+      "w": "salient",
+      "ipa": "/ˈseɪ.li.ənt/",
+      "pos": "adj.",
+      "cn": "显著的/主要的",
+      "def": "Most noticeable or important",
+      "ex": "He summarised the salient points of the proposal in a single slide."
+    },
+    {
+      "w": "cognisant",
+      "ipa": "/ˈkɒɡ.nɪ.zənt/",
+      "pos": "adj.",
+      "cn": "认识到的/知晓的",
+      "def": "Having knowledge or awareness of something",
+      "ex": "The directors are fully cognisant of the budget constraints we face this quarter."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Launches Smart Nation 2.0 Initiative",
+    "transcript": "Singapore has officially launched Smart Nation 2.0, with a renewed focus on digital safety and <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌɪn.kluːˈsɪv.ə.ti/ (n.) the practice of providing equal access to opportunities for all people — 包容性\">inclusivity</span>. The government aims to reassure citizens that emerging tech will enhance, rather than complicate, their daily lives. By <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪn.tɪ.ɡreɪ.tɪŋ/ (v.) combining separate elements to make them work together effectively — 整合/融合\">integrating</span> artificial intelligence deeper into public services, the country hopes to boost overall efficiency while leaving no one behind in the digital transition."
+  },
+  "economistArticle": {
+    "title": "The Jobs Apocalypse is Postponed: An AI Jobs Boom is Here",
+    "paras": [
+      "For the past few years, the narrative surrounding artificial intelligence has been dominated by a single, terrifying premise: the machines are coming for your <span class=\"voc\">livelihood</span>. Pundits warned that generative AI would trigger a swift and <span class=\"voc\">merciless</span> labor market apocalypse, turning white-collar professionals into modern-day Luddites. Yet, as the initial dust settles, a highly <span class=\"voc\">counter-intuitive</span> reality is emerging. <span class=\"gem\">Instead of wiping out employment, the technological vanguard is sparking an unprecedented hiring spree across multiple sectors.</span>",
+      "The feared <span class=\"voc\">purge</span> of white-collar workers has failed to materialise. Companies are discovering that while AI can draft a brief or debug a line of code, it still requires human oversight to yield useful results. Instead of firing workers, firms are actively <span class=\"voc\">upskilling</span> their existing workforce to navigate these new digital tools. This has catalyzed a surge in demand for AI-literate talent, driving a boom in recruitment rather than a contraction.",
+      "Crucially, this wave of innovation is minting entirely new professions. Roles like prompt engineers, AI ethicists, and machine-learning integration specialists—occupations that did not exist in the corporate <span class=\"voc\">lexicon</span> five years ago—are now highly <span class=\"voc\">coveted</span>. Rather than <span class=\"voc\">cannibalising</span> the labor market, AI is acting as an economic multiplier, forcing enterprises to expand their technical capabilities to remain competitive.",
+      "Moreover, this dynamic is particularly evident in tech-forward hubs like Singapore. Local enterprises and multinational corporations alike are pouring capital into AI development centres, incentivised by proactive government policies. This local trend mirrors the global shift: AI is not a job-killer, but a job-creator. The feared <span class=\"voc\">displacement</span> is, at least for now, deferred by an overwhelming appetite for human-machine collaboration."
+    ],
+    "cn": "在过去几年中，围绕人工智能的叙述一直被一个可怕的前提所主导：机器正在夺走你的生计。专家们警告称，生成式AI将引发一场迅速而无情的劳动力市场末日，将白领专业人员变成现代的“卢德分子”。然而，随着最初的尘埃落定，一个高度违反直觉的现实正在显现。技术前沿非但没有消灭就业，反而正在多个行业引发一场空前的招聘热潮。\n\n人们所担心的白领裁员潮并未兑现。企业发现，虽然AI可以起草简报或调试代码行，但它仍然需要人类的监督才能产生有用的结果。企业没有解雇员工，而是积极提升现有员工的技能，以驾驭这些新的数字工具。这催生了对具备AI素养人才的需求激增，推动了招聘的繁荣而非萎缩。\n\n至关重要的是，这股创新浪潮正在创造全新的职业。像提示词工程师、AI伦理学家和机器学习整合专家这些五年前在企业词汇中根本不存在的职业，如今正受到热烈追捧。AI非但没有蚕食劳动力市场，反而充当了经济倍增器的角色，迫使企业扩大技术能力以保持竞争力。\n\n此外，这种动态在新加坡等技术先进的枢纽尤为明显。在积极的政府政策激励下，本地企业和跨国公司都在向AI开发中心投入资金。这一本地趋势反映了全球性的转变：AI不是就业杀手，而是就业创造者。至少在目前，人们所担心的岗位被替代已被对人机协作的巨大胃口所推迟。",
+    "vocab": [
+      {
+        "w": "livelihood",
+        "ipa": "/ˈlaɪv.li.hʊd/",
+        "pos": "n.",
+        "mean": "生计",
+        "def": "A means of securing the necessities of life",
+        "ex": "The implementation of automation threatened the livelihood of factory operators."
+      },
+      {
+        "w": "pundit",
+        "ipa": "/ˈpʌn.dɪt/",
+        "pos": "n.",
+        "mean": "专家/权威",
+        "def": "An expert in a particular subject who is frequently called on to give opinions",
+        "ex": "Financial pundits are predicting a steady recovery for the real estate market."
+      },
+      {
+        "w": "merciless",
+        "ipa": "/ˈmɜː.sɪ.ləs/",
+        "pos": "adj.",
+        "mean": "无情的/残酷的",
+        "def": "Showing no mercy or pity",
+        "ex": "The industry faces merciless competition from overseas manufacturers."
+      },
+      {
+        "w": "counter-intuitive",
+        "ipa": "/ˌkaʊn.tər.ɪnˈtʃuː.ɪ.tɪv/",
+        "pos": "adj.",
+        "mean": "违反直觉的",
+        "def": "Contrary to intuition or common-sense expectation",
+        "ex": "It seems counter-intuitive, but decreasing prices actually led to higher overall profits."
+      },
+      {
+        "w": "purge",
+        "ipa": "/pɜːdʒ/",
+        "pos": "n.",
+        "mean": "清洗/大裁员",
+        "def": "An abrupt or violent removal of a group of people from an organization",
+        "ex": "The company’s restructuring led to a sudden purge of middle management."
+      },
+      {
+        "w": "upskilling",
+        "ipa": "/ˌʌpˈskɪl.ɪŋ/",
+        "pos": "v./n.",
+        "mean": "提升技能",
+        "def": "Teaching employees new or extra skills to improve their job performance",
+        "ex": "The government is funding upskilling programmes to prepare workers for the digital economy."
+      },
+      {
+        "w": "lexicon",
+        "ipa": "/ˈlek.sɪ.kən/",
+        "pos": "n.",
+        "mean": "词汇/词典",
+        "def": "The vocabulary of a person, language, or branch of knowledge",
+        "ex": "Terms like 'zoom fatigue' have quickly entered our daily lexicon."
+      },
+      {
+        "w": "coveted",
+        "ipa": "/ˈkʌv.ɪ.tɪd/",
+        "pos": "adj.",
+        "mean": "梦寐以求的/令人垂涎的",
+        "def": "Greatly desired or envied by many people",
+        "ex": "She was finally promoted to the highly coveted role of regional director."
+      },
+      {
+        "w": "cannibalising",
+        "ipa": "/ˈkæn.ɪ.bəl.aɪz.ɪŋ/",
+        "pos": "v.",
+        "mean": "蚕食/削减",
+        "def": "Reducing the size or value of something by replacing or absorbing it",
+        "ex": "The tech giant is careful that its new budget tablet isn't cannibalising its laptop sales."
+      },
+      {
+        "w": "displacement",
+        "ipa": "/dɪˈspleɪs.mənt/",
+        "pos": "n.",
+        "mean": "替代/流离失所",
+        "def": "The action of forcing someone or something out of its usual place or position",
+        "ex": "The economic crisis caused widespread job displacement across the country."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Instead of wiping out employment, the technological vanguard is sparking an unprecedented hiring spree across multiple sectors.",
+        "why": "This sentence uses an 'Instead of [doing X], [Y is doing Z]' structure to contrast a common misconception with the actual reality, creating a strong rhetorical impact. 这个句子采用了“Instead of [doing X], [Y is doing Z]”（非但没有……，反而……）的结构，将普遍的误解与客观现实进行对比，创造出强烈的修辞效果。"
+      }
+    ]
   }
 }
