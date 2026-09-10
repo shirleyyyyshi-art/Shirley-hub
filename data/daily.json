@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-09T04:53:59.174451+00:00",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T04:55:28.089840+00:00",
   "economist": {
     "headline": "What is causing the global bond sell-off?",
     "teaser": "India hints at the answer",
@@ -8,35 +8,26 @@
     "vocab": []
   },
   "st": {
-    "headline": "China curbs humanoid IPOs after Unitree’s volatile debut: Report",
-    "teaser": "A roughly 45 per cent slump in the shares of Unitree has triggered concerns about a bubble.",
-    "url": "https://www.straitstimes.com/business/china-curbs-humanoid-ipos-after-unitrees-volatile-debut-report",
+    "headline": "Payment firms Visa, Mastercard and Ant International team up on AI agent trust framework",
+    "teaser": "The framework aims to help card networks, wallets and online marketplaces spot trusted AI agents.",
+    "url": "https://www.straitstimes.com/business/payment-firms-visa-mastercard-and-ant-international-team-up-on-ai-agent-trust-framework",
     "fullText": [
-      "BEIJING - Chinese regulators are tightening the approval for humanoid startups planning IPOs after a volatile debut by industry leader Unitree Robotics, The Information reported on Sept 9.",
-      "The China Securities Regulatory Commission has given an informal “window guidance” to some investment banks and firms that it is lifting the bar for approving humanoid start-ups that plan to go public, the report said, citing people with knowledge of the matter.",
-      "These companies must prove they can generate recurring revenue and are on track to narrow their losses or achieve real innovation before approvals can be considered, The Information said.",
-      "Chinese financial regulators did not immediately respond to a Reuters request for comment. Reuters could not verify the report.",
-      "According to the Information report, the change in strategy was prompted by factors including a funding frenzy in the private market in 2026, a long list of companies that have filed for IPOs, and tanking share prices of companies such as Unitree that went public recently.",
-      "A roughly 45 per cent slump in the shares of Unitree, China’s best-known humanoid robot maker, since a more than fivefold jump in its Shanghai debut has triggered concerns about a bubble, retail investor losses and flaws in the IPO system. REUTERS"
+      "SINGAPORE - Ant International, Mastercard and Visa have launched an initiative to develop common standards to identify and verify artificial intelligence (AI) agents that can make purchases on behalf of users .",
+      "The companies said on Sept 10 that they had begun collaborating on a Know-Your-Agent interoperability framework that would allow card networks, digital wallets, agent platforms and online marketplaces to recognise trusted AI agents across different payment ecosystems, while maintaining their own approval and risk-management processes.",
+      "The initiative comes as the payments industry prepares for the growth of agentic global consumer commerce, in which AI agents evolve from making recommendations to completing purchases on behalf of users.",
+      "The framework builds on the companies’ existing protocols, including Visa’s Trusted Agent Protocol, Mastercard Verifiable Intent and Ant International’s Agentic Mobile Protocol.",
+      "The companies said the initiative could help reduce integration costs and accelerate the launch of new agentic services by providing greater trust and risk visibility across participating networks.",
+      "Ant International, Mastercard and Visa said they would collaborate through BuildFin.ai, a platform convened by the Monetary Authority of Singapore that brings together financial institutions, technology providers and researchers to develop AI solutions for financial services. REUTERS"
     ]
   },
   "cna": {
-    "headline": "Dutch fintech Adyen sees long-term India opportunity, plans local expansion",
-    "teaser": "Dutch fintech Adyen sees long-term India opportunity, plans local expansion",
-    "url": "https://www.channelnewsasia.com/business/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion-6371916",
+    "headline": "Singapore parliament debates changes to political salary framework",
+    "teaser": "The changes include a one-off pay increase of up to 9 per cent for political office holders and wider salary ranges for ministers.",
+    "url": "https://www.channelnewsasia.com/singapore/minister-salary-review-parliament-debate-6369416",
     "fullText": [
-      "MUMBAI, Sept 9 : Dutch payments processor Adyen plans to expand its India operations and hire more employees as it bets on the country's fast-growing digital payments market and rising cross-border commerce activity, a top executive told Reuters.",
-      "The Amsterdam-listed company, one of the world's largest fintech firms providing payments services and financial solutions, sees India as a long-term growth market both due to multinational clients entering the country and Indian businesses expanding overseas, its Asia-Pacific President Gary Yang said in an interview on Tuesday.",
-      "\"We're continuing to hire and grow because we see significant opportunity in the market,\" he said without sharing India-specific growth or hiring targets.",
-      "Global payments firms including Stripe and PayPal have struggled to establish themselves in India. Stripe scaled down its India operations in 2024 citing regulatory challenges, while PayPal exited domestic India payments in 2021 and now focuses on cross-border transactions.",
-      "The company's pre-tax income from India more than doubled to 3.18 million euros ($3.5 million) in 2025 from 1.45 million euros a year earlier, annual reports showed. Adyen's global operations generated net income of 1.06 billion euros ($1.23 billion) in 2025.",
-      "The payments processor, which counts tech majors such as Uber and Microsoft, among its major clients, is working with firms including software giant Adobe that are seeking to expand their Indian payments suite. Adyen is also helping Indian clients such as travel platform Oyo expand abroad, Yang said.",
-      "The Dutch firm has been adapting its platform for India's unique regulatory and payments landscape to meet data localisation requirements as well as provide recurring payment mandates and Unified Payments Interface (UPI) services, according to Yang.",
-      "\"There is no succeeding in India without UPI,\" he said.",
-      "India's UPI is one of the largest instant payments network in the world, processing billions of transactions every month.",
-      "The company is also positioning itself for the rise of AI-powered \"agentic commerce\", where software agents could search for products and complete purchases on behalf of consumers.",
-      "Reuters reported last week that National Payments Corp of India is ​preparing a framework that would let AI agents make small digital payments without approval for every ‌transaction.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "SINGAPORE: Debate is underway in parliament on changes to Singapore's political salary framework , including pay adjustments for political office holders and higher allowances for MPs.",
+      "The debate on Thursday (Sep 10) comes two days after Prime Minister Lawrence Wong and Coordinating Minister for Public Services Chan Chun Sing set out the government's response to an independent review of the framework.",
+      "Political office holders will receive a one-off salary increase of up to 9 per cent from Oct 15, while MPs' monthly allowances will rise from S$13,750 to S$18,500."
     ]
   },
   "mom": {
@@ -46,263 +37,263 @@
   },
   "lifeVocab": [
     {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "a person who travels some distance to work on a regular basis",
-      "ex": "The MRT is packed with commuters during the morning rush hour.",
-      "emoji": "🚇"
-    },
-    {
-      "en": "concourse",
-      "cn": "车站大厅",
-      "def": "the large open area in a station where ticket machines and gates are located",
-      "ex": "Meet me at the station concourse near the passenger service centre.",
-      "emoji": "🎟️"
+      "en": "tap in / tap out",
+      "cn": "刷卡进站/出站",
+      "def": "To press a transit card or mobile payment device against a reader to enter or exit a transport system.",
+      "ex": "Don't forget to tap out when you exit the MRT station so you won't be overcharged.",
+      "emoji": "💳"
     },
     {
       "en": "gantry",
-      "cn": "闸机",
-      "def": "the electronic gate where you tap your travel card to enter or exit",
-      "ex": "Please have your EZ-Link card ready before you reach the gantry.",
-      "emoji": "🎫"
+      "cn": "闸机/控制闸口",
+      "def": "The mechanical gate or barrier that passengers pass through after tapping their cards.",
+      "ex": "Please stand behind the yellow line before the gantry opens.",
+      "emoji": "🚧"
     },
     {
-      "en": "interchange",
-      "cn": "换乘站",
-      "def": "a transit station where passengers can change lines",
-      "ex": "Dhoby Ghaut is a busy interchange connecting three different MRT lines.",
-      "emoji": "🔄"
+      "en": "peak hour",
+      "cn": "高峰时间/繁忙时段",
+      "def": "The busiest times of the day for public transport, usually when people commute to and from work.",
+      "ex": "If you travel during peak hour, the MRT trains will be extremely crowded.",
+      "emoji": "🚇"
     },
     {
-      "en": "disruption",
-      "cn": "中断/故障",
-      "def": "an interruption in the normal progress or activity of something",
-      "ex": "SMRT quickly deployed free bridging bus services during the track disruption.",
-      "emoji": "⚠️"
-    },
-    {
-      "en": "platform",
-      "cn": "站台",
-      "def": "the area beside the tracks where passengers get on and off trains",
-      "ex": "Stand behind the yellow line while waiting on the platform.",
-      "emoji": "🚉"
-    },
-    {
-      "en": "escalator",
-      "cn": "扶手电梯",
-      "def": "a moving staircase that carries people between floors",
-      "ex": "Please stand on the left of the escalator to let others walk past on the right.",
-      "emoji": "🪜"
-    },
-    {
-      "en": "dwell time",
-      "cn": "列车停站时间",
-      "def": "the time a train spends at a station to let passengers board and alight",
-      "ex": "Reducing train dwell times helps to keep the entire transit system running smoothly.",
-      "emoji": "⏱️"
-    },
-    {
-      "en": "alight",
-      "cn": "下车",
-      "def": "to get off a bus, train, or other vehicle",
-      "ex": "Passengers should let others alight first before boarding the train.",
+      "en": "commute",
+      "cn": "通勤",
+      "def": "The daily journey to and from your place of work or study.",
+      "ex": "Her daily commute from Jurong East to City Hall takes about 35 minutes.",
       "emoji": "🚶"
     },
     {
+      "en": "track fault",
+      "cn": "轨道故障",
+      "def": "A technical issue with the railway tracks that causes delays.",
+      "ex": "The North-South Line experienced a 15-minute delay this morning due to a track fault.",
+      "emoji": "⚠️"
+    },
+    {
+      "en": "platform screen doors",
+      "cn": "站台屏蔽门",
+      "def": "Safety doors that separate the platform from the train tracks.",
+      "ex": "Please step away from the platform screen doors when they are closing.",
+      "emoji": "🚪"
+    },
+    {
       "en": "feeder bus",
-      "cn": "支线巴士/接驳巴士",
-      "def": "a bus service that carries passengers to and from a nearby train station",
-      "ex": "I usually take a short feeder bus ride from my block to the nearest MRT station.",
+      "cn": "接驳巴士/支线巴士",
+      "def": "A local bus route designed to bring passengers from neighborhoods to nearby MRT stations.",
+      "ex": "I usually take a feeder bus from my block to the nearest interchange.",
       "emoji": "🚌"
+    },
+    {
+      "en": "concession card",
+      "cn": "优惠车资卡",
+      "def": "A transit card that offers discounted fares for students, senior citizens, or eligible groups.",
+      "ex": "Students can apply for a monthly concession card to get unlimited MRT rides.",
+      "emoji": "🎫"
+    },
+    {
+      "en": "disrupt",
+      "cn": "中断/使混乱",
+      "def": "To interrupt an event, activity, or process by causing a disturbance or problem.",
+      "ex": "Signal maintenance occasionally disrupts early morning train services on weekends.",
+      "emoji": "🛑"
+    },
+    {
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "A moving staircase that carries people between different floors of a station.",
+      "ex": "In Singapore, commuters are encouraged to stand on the left side of the escalator.",
+      "emoji": "📶"
     }
   ],
   "levelVocab": [
     {
-      "w": "bolster",
-      "ipa": "/ˈbəʊlstə(r)/",
+      "w": "conducive",
+      "ipa": "/kənˈdjuːsɪv/",
+      "pos": "adj.",
+      "cn": "有益的/有促进作用的",
+      "def": "making a certain situation or outcome likely or possible.",
+      "ex": "The quiet study areas at the regional libraries are highly conducive to preparation for professional exams."
+    },
+    {
+      "w": "precipitate",
+      "ipa": "/prɪˈsɪpɪteɪt/",
       "pos": "v.",
-      "cn": "支持，加强",
-      "def": "to support or strengthen",
-      "ex": "The company decided to hire a consultant to bolster their digital marketing strategy."
+      "cn": "促成/加速",
+      "def": "to cause an event or situation, typically one that is undesirable, to happen suddenly, unexpectedly, or prematurely.",
+      "ex": "A sudden drop in consumer confidence could precipitate a slowdown in the local retail sector."
+    },
+    {
+      "w": "volatile",
+      "ipa": "/ˈvɒlətaɪl/",
+      "pos": "adj.",
+      "cn": "易变的/不稳定的",
+      "def": "liable to change rapidly and unpredictably, especially for the worse.",
+      "ex": "Sourcing raw materials has become challenging due to volatile international shipping costs."
+    },
+    {
+      "w": "disparity",
+      "ipa": "/dɪˈspærəti/",
+      "pos": "n.",
+      "cn": "差异/不平等",
+      "def": "a great difference, especially one that is unfair or unequal.",
+      "ex": "The government is introducing wage support schemes to address the income disparity between sectors."
+    },
+    {
+      "w": "benchmark",
+      "ipa": "/ˈbentʃmɑːk/",
+      "pos": "n.",
+      "cn": "基准/标杆",
+      "def": "a standard or point of reference against which things may be compared or assessed.",
+      "ex": "Our company uses the local multinational firms as a benchmark for employee welfare packages."
+    },
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
+      "pos": "v.",
+      "cn": "增加/提高",
+      "def": "to make something greater by adding to it; increase.",
+      "ex": "Many working adults in Singapore take short courses to augment their existing technical skillsets."
+    },
+    {
+      "w": "deviate",
+      "ipa": "/ˈdiːvieɪt/",
+      "pos": "v.",
+      "cn": "偏离",
+      "def": "to depart from an established course, standard, or expectation.",
+      "ex": "If your project plan has to deviate from the budget, you must seek prior approval from management."
+    },
+    {
+      "w": "advocate",
+      "ipa": "/ˈædvəkeɪt/",
+      "pos": "v.",
+      "cn": "提倡/主张",
+      "def": "to publicly recommend or support a particular cause or policy.",
+      "ex": "Local business groups advocate for a more flexible work-from-home policy to prevent burnout."
     },
     {
       "w": "rectify",
       "ipa": "/ˈrektɪfaɪ/",
       "pos": "v.",
-      "cn": "纠正，改正",
-      "def": "to put right; correct",
-      "ex": "We need to rectify this billing error before sending the invoice to the client."
+      "cn": "纠正/整顿",
+      "def": "to put right or correct a mistake, misunderstanding, or bad situation.",
+      "ex": "Once the audit report is finalized, we will take immediate action to rectify the accounting errors."
     },
     {
-      "w": "hamper",
-      "ipa": "/ˈhæmpə(r)/",
+      "w": "disseminate",
+      "ipa": "/dɪˈsemɪneɪt/",
       "pos": "v.",
-      "cn": "阻碍，妨碍",
-      "def": "to hinder or impede the movement or progress of",
-      "ex": "High interest rates could hamper the company's expansion plans."
-    },
-    {
-      "w": "elucidate",
-      "ipa": "/ɪˈluːsɪdeɪt/",
-      "pos": "v.",
-      "cn": "阐明，解释",
-      "def": "to make something clear; explain",
-      "ex": "Could you please elucidate the third point in your proposal?"
-    },
-    {
-      "w": "foster",
-      "ipa": "/ˈfɒstə(r)/",
-      "pos": "v.",
-      "cn": "促进，培养",
-      "def": "to encourage or promote the development of something",
-      "ex": "The manager aims to foster a collaborative work environment."
-    },
-    {
-      "w": "delve",
-      "ipa": "/delv/",
-      "pos": "v.",
-      "cn": "深入探究，研究",
-      "def": "to dig in; investigate thoroughly",
-      "ex": "We need to delve deeper into the market research before launching the product."
-    },
-    {
-      "w": "juxtapose",
-      "ipa": "/ˌdʒʌkstəˈpəʊz/",
-      "pos": "v.",
-      "cn": "并置，并列",
-      "def": "to place side by side for comparison",
-      "ex": "The exhibition juxtaposes traditional art with modern digital installations."
-    },
-    {
-      "w": "transcend",
-      "ipa": "/trænˈsend/",
-      "pos": "v.",
-      "cn": "超越，突破",
-      "def": "to go beyond the range or limits of",
-      "ex": "Our primary goal is to transcend traditional boundaries in product design."
-    },
-    {
-      "w": "perpetuate",
-      "ipa": "/pəˈpetʃueɪt/",
-      "pos": "v.",
-      "cn": "使永存，使持续",
-      "def": "to make something continue indefinitely",
-      "ex": "Failing to address the issue will only perpetuate the misunderstanding."
-    },
-    {
-      "w": "adversity",
-      "ipa": "/ədˈvɜːsəti/",
-      "pos": "n.",
-      "cn": "逆境，困境",
-      "def": "a difficult or unpleasant situation",
-      "ex": "The team showed great resilience in the face of unexpected adversity."
+      "cn": "传播/散布",
+      "def": "to spread info, knowledge, or ideas widely to a lot of people.",
+      "ex": "The Ministry of Health uses social media platforms to quickly disseminate updates about public health guidelines."
     }
   ],
   "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore's Green Finance Push",
-    "transcript": "As climate change intensifies, Singapore is positioning itself as a leading hub for green finance in Asia. The Monetary Authority of Singapore has launched several <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈnɪʃətɪvz/ (n.) official plans or decisions designed to solve a problem — 倡议/计划\">initiatives</span> to encourage financial institutions to direct capital toward sustainable projects. Local banks are now offering more green loans to developers who commit to reducing their carbon footprint. This transition not only supports environmental goals but also creates new job opportunities in the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəmˈplaɪəns/ (n.) the practice of obeying rules or laws — 合规性\">compliance</span> and sustainability sectors."
+    "source": "CNA Insider · Intermediate",
+    "title": "Singapore's Green Transition in Public Transport",
+    "transcript": "Singapore is rapidly pushing to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈlektrɪfaɪ/ (v.) to charge with electricity or convert to electric power — 使电气化\">electrify</span> its public bus <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/fliːt/ (n.) a group of buses, cars, or ships operating under one organization — 车队/船队\">fleet</span> by 2040, aiming to replace half of its diesel buses with cleaner electric alternatives by 2030. Commuters will soon experience quieter rides and significantly reduced carbon emissions during their daily journeys. To support this transition, new charging infrastructure is being installed at key bus <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈdepəʊz/ (n.) places where vehicles like buses are kept and maintained — 公交车库/存放处\">depots</span> across the island."
   },
   "economistArticle": {
-    "title": "What is causing the global bond sell-off? — India hints at the answer",
+    "title": "The Gravity of Yields: What India's Bond Inclusion Reveals About Global Capital",
     "paras": [
-      "For months, global bond markets have been locked in a punishing sell-off, driving yields to heights not seen in more than a decade. The conventional narrative attributes this dramatic shift to the Federal Reserve’s <span class=\"voc\">relentless</span> pursuit of \"higher-for-longer\" interest rates. <span class=\"gem\">As US Treasury yields march upward, they exert an irresistible <span class=\"voc\">gravitational</span> pull on global capital, forcing borrowing costs higher across both developed and developing economies.</span> Yet, to fully comprehend this <span class=\"voc\">seismic</span> shift, one must look beyond Washington and London.",
-      "A compelling clue lies in the dynamics of emerging markets, most notably India. Recently, Indian sovereign bonds were included in JPMorgan's flagship emerging-market government bond index. This landmark <span class=\"voc\">integration</span> is triggering a massive reallocation of global capital. Yield-hungry foreign investors, previously constrained by <span class=\"voc\">bureaucratic</span> hurdles, are now pouring billions of dollars into Indian debt. This dynamic demonstrates that the global bond sell-off is not merely a story of rising American rates; it is also a story of structural shifts in where global capital chooses to reside.",
-      "By offering high yields backed by robust economic growth and a stable currency, India has effectively raised the bar for what global investors demand from debt instruments. For years, investors accepted <span class=\"voc\">meager</span> yields on Western sovereign debt because there were few viable, high-yielding alternatives. Now, with major emerging markets offering <span class=\"voc\">lucrative</span> and increasingly accessible alternatives, the relative appeal of low-yielding Western bonds has withered. To compete for global capital, even developed-market bonds must offer higher yields, accelerating the sell-off in traditional markets.",
-      "Furthermore, India’s experience highlights a broader, fundamental shift in global finance: the <span class=\"voc\">decentralization</span> of capital flows. In the past, when the Fed tightened monetary policy, emerging markets suffered capital flight and currency crises. Today, countries like India boast massive foreign exchange reserves and disciplined fiscal policies, allowing them to <span class=\"voc\">withstand</span> Western monetary tightening. <span class=\"gem\">Instead of being passive victims of global trends, these emerging giants are now active price-makers in the global capital arena, pulling liquidity away from traditional safe havens.</span>",
-      "Ultimately, the global bond sell-off reflects a world in transition. The era of cheap money and undisputed Western dominance over capital flows is giving way to a more fragmented, competitive landscape. As emerging markets institutionalize their financial systems and attract a larger share of global savings, the cost of capital globally will inevitably adjust upward. Investors who ignore these shifting structural dynamics do so at their own <span class=\"voc\">peril</span>, for the answers to global market puzzles are increasingly found in Mumbai rather than New York."
+      "For months, global bond markets have experienced a <span class=\"voc\">relentless</span> sell-off, pushing yields to levels unseen in over a decade. As central banks worldwide signal that interest rates will remain <span class=\"voc\">elevated</span> to combat persistent inflation, investors are reassessing the risk profiles of traditional safe havens. Amid this <span class=\"voc\">turmoil</span>, emerging markets are no longer merely passive victims of capital flight; instead, they are carving out new avenues of fortitude.",
+      "India's recent inclusion in major global emerging-market bond indices serves as a compelling case study. <span class=\"gem\">Historically, international investors viewed Indian government debt with caution, deterred by capital controls and bureaucratic hurdles.</span> However, the decision by index providers to include <span class=\"voc\">sovereign</span> rupee bonds has triggered a structural shift, drawing billions of dollars of foreign capital into the subcontinent's domestic debt market.",
+      "This <span class=\"voc\">influx</span> highlights a broader <span class=\"voc\">divergence</span> in how investors perceive fiscal stability. <span class=\"gem\">While fiscal deficits in the West continue to swell without immediate remedies, emerging economies are demonstrating rigorous monetary discipline.</span> India's inclusion is not just an administrative milestone; it represents a fundamental <span class=\"voc\">realignment</span>, offering global asset managers a crucial buffer against the volatility of US Treasuries.",
+      "Yet, this integration is a double-edged sword that exposes domestic markets to global <span class=\"voc\">headwinds</span>. As foreign capital floods in, Indian policymakers must navigate the delicate balance of maintaining exchange-rate stability while keeping domestic borrowing costs manageable. The global bond sell-off suggests that yield differentials are no longer the sole driver of capital; structural reliability and fiscal <span class=\"voc\">prudence</span> now dictate the flow of international finance.",
+      "Ultimately, the evolving dynamics of the global debt market underscore a transition from a unipolar financial system to a more fragmented landscape. Investors seeking shelter from fluctuating yields are finding that emerging markets, once considered volatile outposts, now offer indispensable stability. As the global bond sell-off persists, the lessons from India's index inclusion may well rewrite the playbook for international portfolio diversification."
     ],
-    "cn": "几个月来，全球债券市场一直陷入惩罚性的抛售之中，将收益率推高至十多年来未见的水平。传统的说法将这一戏剧性转变归因于美联储对“更高更久”利率的无情追求。随着美国国债收益率一路走高，它们对全球资金产生了不可抗拒的引力，迫使发达经济体和发展中经济体的借贷成本上升。然而，要完全理解这一剧烈变化，人们必须将目光投向华盛顿和伦敦之外。\n\n一个引人注目的线索存在于新兴市场的动态中，尤其是印度。最近，印度主权债券被纳入摩根大通旗舰新兴市场政府债券指数。这一具有里程碑意义的融合正在引发全球资金的重新分配。渴望收益的外国投资者此前受到官僚障碍的限制，现在正将数十亿美元注入印度债务。这种动态表明，全球债券抛售不仅是美国利率上升的故事，也是全球资金选择流向何处的结构性转变的故事。\n\n通过提供以强劲经济增长和稳定货币为后盾的高收益率，印度实际上提高了全球投资者对债务工具的要求。多年来，由于几乎没有可行的高收益替代方案，投资者接受了西方主权债务微薄的收益率。现在，随着主要新兴市场提供利润丰厚且日益便利的替代选择，低收益西方债券的相对吸引力已经萎缩。为了争夺全球资金，即使是发达市场的债券也必须提供更高的收益率，从而加速了传统市场的抛售。\n\n此外，印度的经验凸显了全球金融领域更广泛、根本性的转变：资金流动的去中心化。过去，当美联储紧缩货币政策时，新兴市场会遭受资本外流和货币危机。如今，像印度这样的国家拥有庞大的外汇储备和纪律严明的财政政策，使其能够承受西方的货币紧缩。这些新兴巨头不再是全球趋势的被动受害者，而是全球资本领域的主动定价者，将流动性从传统的避风港中拉走。\n\n归根结底，全球债券抛售反映了一个转型中的世界。廉价资金和西方在资金流动上无可争议的统治地位的时代正在让位于一个更加碎片化、更具竞争力的格局。随着新兴市场使其金融体系制度化并吸引更大份额的全球储蓄，全球资本成本将不可避免地向上调整。忽视这些变化的结构性动态的投资者将自担风险，因为全球市场谜题的答案越来越多地存在于孟买，而不是纽约。",
+    "cn": "几个月来，全球债券市场经历了无情的抛售，将收益率推至十多年未见的水平。随着全球央行发出信号，表示将维持高利率以对抗持续的通货膨胀，投资者正在重新评估传统避险资产的风险状况。在这场动荡中，新兴市场不再仅仅是资本外流的被动受害者；相反，它们正在开辟出新的坚韧之路。\n\n印度近期被纳入主要的全球新兴市场债券指数，提供了一个引人注目的案例。从历史上看，受资本管制和官僚障碍的阻碍，国际投资者对印度政府债务一直持谨慎态度。然而，指数提供商将主权卢比债券纳入其中的决定引发了结构性转变，吸引了数十亿美元的外资流入这一次大陆的国内债务市场。\n\n这种流入突显了投资者对财政稳定性的看法存在更广泛的分歧。在西方财政赤字持续膨胀且缺乏即时补救措施的同时，新兴经济体则展现出了严格的货币纪律。印度的加入不仅是一个行政里程碑，更代表了一次根本性的重新调整，为全球资产配置者提供了抵御美债波动的重要缓冲。\n\n然而，这种融合是一把双刃剑，使国内市场暴露在全球逆风之中。随着外资涌入，印度政策制定者必须在维持汇率稳定和保持国内借贷成本可控之间寻求微妙的平衡。全球债券抛售表明，收益率差异不再是资本的唯一驱动力；结构性可靠性和财政审慎如今决定着国际资金的流向。\n\n归根结底，全球债务市场不断变化的动态凸显了金融体系正从单极走向更加多元零散的格局。在试图规避波动收益率的投资者发现，曾经被视为动荡前沿的新兴市场，如今提供了不可或缺的稳定。在全球债券抛售持续的背景下，印度被纳入指数的经验很可能会重写国际投资组合多元化的游戏规则。",
     "vocab": [
       {
         "w": "relentless",
         "ipa": "/rɪˈlentləs/",
         "pos": "adj.",
-        "mean": "持续不断的，无情的",
-        "def": "non-stop or persistent",
-        "ex": "The company faced relentless competition from online rivals."
+        "mean": "持续不断的/无情的",
+        "def": "oppressively constant; incessant.",
+        "ex": "The relentless rise in borrowing costs has made it difficult for small companies to expand."
       },
       {
-        "w": "gravitational",
-        "ipa": "/ˌɡrævɪˈteɪʃənl/",
+        "w": "elevated",
+        "ipa": "/ˈelɪveɪtɪd/",
         "pos": "adj.",
-        "mean": "引力的，有吸引力的",
-        "def": "relating to movement toward a center of attraction",
-        "ex": "The city exerts a gravitational pull on young professionals."
+        "mean": "处于高位的",
+        "def": "raised or high compared to normal levels.",
+        "ex": "Global energy costs are expected to stay elevated for the foreseeable future."
       },
       {
-        "w": "seismic",
-        "ipa": "/ˈsaɪzmɪk/",
-        "pos": "adj.",
-        "mean": "剧烈的，地震般的",
-        "def": "having a very great or damaging effect",
-        "ex": "The rise of the internet caused a seismic shift in the media industry."
-      },
-      {
-        "w": "integration",
-        "ipa": "/ˌɪntɪˈɡreɪʃn/",
+        "w": "turmoil",
+        "ipa": "/ˈtɜːmɔɪl/",
         "pos": "n.",
-        "mean": "融合，一体化",
-        "def": "the act of combining two or more things",
-        "ex": "The integration of the two databases took several weeks."
+        "mean": "动荡/混乱",
+        "def": "a state of great disturbance, confusion, or uncertainty.",
+        "ex": "The political turmoil in Europe has unsettled international stock and bond markets."
       },
       {
-        "w": "bureaucratic",
-        "ipa": "/ˌbjʊərəˈkrætɪk/",
+        "w": "sovereign",
+        "ipa": "/ˈsɒvrɪn/",
         "pos": "adj.",
-        "mean": "官僚主义的，繁琐的",
-        "def": "involving complicated rules and procedures",
-        "ex": "We had to overcome many bureaucratic obstacles to get the permit."
+        "mean": "主权的/国债的",
+        "def": "relating to a state that is self-governing; (of bonds) issued by a national government.",
+        "ex": "Many funds prefer sovereign bonds because they are backed by the full credit of a nation."
       },
       {
-        "w": "meager",
-        "ipa": "/ˈmiːɡə(r)/",
-        "pos": "adj.",
-        "mean": "微薄的，贫乏的",
-        "def": "very small or lacking in quantity",
-        "ex": "He struggled to survive on his meager monthly pension."
-      },
-      {
-        "w": "lucrative",
-        "ipa": "/ˈluːkrətɪv/",
-        "pos": "adj.",
-        "mean": "有利可图的，赚钱的",
-        "def": "producing a great deal of profit",
-        "ex": "The merchandise deal proved to be highly lucrative for the band."
-      },
-      {
-        "w": "decentralization",
-        "ipa": "/ˌdiːˌsentrəlaɪˈzeɪʃn/",
+        "w": "influx",
+        "ipa": "/ˈɪnflʌks/",
         "pos": "n.",
-        "mean": "去中心化",
-        "def": "the transfer of control from a single authority to multiple others",
-        "ex": "The decentralization of the company’s operations improved local response times."
+        "mean": "流入/汇集",
+        "def": "an arrival or entry of large numbers of people or things.",
+        "ex": "The city-state experienced a massive influx of foreign talent in the technology sector."
       },
       {
-        "w": "withstand",
-        "ipa": "/wɪðˈstænd/",
-        "pos": "v.",
-        "mean": "承受，抵挡",
-        "def": "to resist or remain undamaged by",
-        "ex": "The new building is designed to withstand powerful earthquakes."
-      },
-      {
-        "w": "peril",
-        "ipa": "/ˈperəl/",
+        "w": "divergence",
+        "ipa": "/daɪˈvɜːdʒəns/",
         "pos": "n.",
-        "mean": "危险，危害",
-        "def": "serious and immediate danger",
-        "ex": "Those who ignore climate warnings do so at their own peril."
+        "mean": "分歧/差异",
+        "def": "a difference or conflict in opinions, interests, or paths.",
+        "ex": "There is a growing divergence between European and Asian monetary policies."
+      },
+      {
+        "w": "deficit",
+        "ipa": "/ˈdefɪsɪt/",
+        "pos": "n.",
+        "mean": "赤字",
+        "def": "the amount by which spending exceeds income over a particular period of time.",
+        "ex": "The government ran a small budget deficit this year due to increased healthcare spending."
+      },
+      {
+        "w": "realignment",
+        "ipa": "/ˌriːəˈlaɪnmənt/",
+        "pos": "n.",
+        "mean": "重新调整",
+        "def": "the striking of a new balance or agreement; rearranging relationships.",
+        "ex": "This partnership represents a major realignment of power in the global semiconductor industry."
+      },
+      {
+        "w": "headwinds",
+        "ipa": "/ˈhedwɪndz/",
+        "pos": "n. (plural)",
+        "mean": "逆风/阻力",
+        "def": "metaphorically, forces that slow down progress or economic growth.",
+        "ex": "The manufacturing industry is facing severe headwinds from rising material costs."
+      },
+      {
+        "w": "prudence",
+        "ipa": "/ˈpruːdns/",
+        "pos": "n.",
+        "mean": "谨慎/审慎",
+        "def": "carefulness and avoidance of unnecessary risk.",
+        "ex": "The central bank praised the government's fiscal prudence in keeping debt levels low."
       }
     ],
     "gems": [
       {
-        "s": "As US Treasury yields march upward, they exert an irresistible gravitational pull on global capital, forcing borrowing costs higher across both developed and developing economies.",
-        "why": "This sentence uses a powerful scientific metaphor ('gravitational pull') to vividly describe an abstract financial concept (capital flows). By personifying Treasury yields as 'marching upward', the author creates a sense of inevitable, powerful momentum.\n该句子使用了一个强有力的科学比喻（“万有引力”）来生动地描述抽象的金融概念（资本流动）。通过将国债收益率拟人化为“向上行进”，作者营造了一种不可避免且强大的势头。"
+        "s": "Historically, international investors viewed Indian government debt with caution, deterred by capital controls and bureaucratic hurdles.",
+        "why": "This sentence employs a past-participle clause starting with 'deterred by' to elegantly embed a cause-and-effect relationship without cluttering the main clause. In Chinese: 这句话采用以 'deterred by'（受阻于……）开头的过去分词短语作状语，非常优雅地嵌入了因果关系，使得主句结构依然简洁干练。"
       },
       {
-        "s": "Instead of being passive victims of global trends, these emerging giants are now active price-makers in the global capital arena, pulling liquidity away from traditional safe havens.",
-        "why": "The author employs a sharp contrast ('passive victims' versus 'active price-makers') to emphasize the structural transformation in emerging markets. This rhetorical juxtaposition helps the reader quickly grasp the shifting balance of global economic power.\n作者采用了鲜明的对比（“被动受害者”与“主动定价者”）来强调新兴市场的结构性转变。这种修辞上的并列有助于读者快速理解全球经济力量对比的变化。"
+        "s": "While fiscal deficits in the West continue to swell without immediate remedies, emerging economies are demonstrating rigorous monetary discipline.",
+        "why": "This sentence uses a 'While...' adverbial clause to establish a sharp, sophisticated contrast between Western fiscal issues and emerging market discipline. In Chinese: 这句话使用以 'While...' 开头的状语从句，在西方财政赤字问题与新兴市场的自律之间建立起鲜明而高级的对比。"
       }
     ]
   }
