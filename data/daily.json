@@ -1,33 +1,45 @@
 {
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-10T04:55:28.089840+00:00",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T04:52:17.722456+00:00",
   "economist": {
-    "headline": "What is causing the global bond sell-off?",
-    "teaser": "India hints at the answer",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
+    "headline": "Can Germany’s economic recovery outrun the AfD?",
+    "teaser": "It is showing signs of life—but fragile ones",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/10/can-germanys-economic-recovery-outrun-the-afd",
     "vocab": []
   },
   "st": {
-    "headline": "Payment firms Visa, Mastercard and Ant International team up on AI agent trust framework",
-    "teaser": "The framework aims to help card networks, wallets and online marketplaces spot trusted AI agents.",
-    "url": "https://www.straitstimes.com/business/payment-firms-visa-mastercard-and-ant-international-team-up-on-ai-agent-trust-framework",
+    "headline": "Japan’s Nikkei plummets 3% as oil prices surge",
+    "teaser": "Markets anxious that Middle East tensions and surging oil prices could fuel inflationary pressures.",
+    "url": "https://www.straitstimes.com/business/japans-nikkei-plummets-3-as-oil-prices-surge",
     "fullText": [
-      "SINGAPORE - Ant International, Mastercard and Visa have launched an initiative to develop common standards to identify and verify artificial intelligence (AI) agents that can make purchases on behalf of users .",
-      "The companies said on Sept 10 that they had begun collaborating on a Know-Your-Agent interoperability framework that would allow card networks, digital wallets, agent platforms and online marketplaces to recognise trusted AI agents across different payment ecosystems, while maintaining their own approval and risk-management processes.",
-      "The initiative comes as the payments industry prepares for the growth of agentic global consumer commerce, in which AI agents evolve from making recommendations to completing purchases on behalf of users.",
-      "The framework builds on the companies’ existing protocols, including Visa’s Trusted Agent Protocol, Mastercard Verifiable Intent and Ant International’s Agentic Mobile Protocol.",
-      "The companies said the initiative could help reduce integration costs and accelerate the launch of new agentic services by providing greater trust and risk visibility across participating networks.",
-      "Ant International, Mastercard and Visa said they would collaborate through BuildFin.ai, a platform convened by the Monetary Authority of Singapore that brings together financial institutions, technology providers and researchers to develop AI solutions for financial services. REUTERS"
+      "TOKYO – Japan’s Nikkei index plummeted more than 3 per cent in early trading on Sept 11, with markets anxious that renewed tensions in the Middle East and surging oil prices could fuel inflationary pressures.",
+      "At around 9.15am local time (8.15am Singapore time), the Nikkei 225 was down 3.03 per cent at 63,291 points.",
+      "The international benchmark Brent crude was still up 0.5 per cent at US$108.15 after surging 6.34 per cent the previous day.",
+      "The benchmark US oil contract, West Texas Intermediate, jumped above US$100 a barrel on Sept 10 after Yemen’s Houthis seized control of the strategic Red Sea port city of Mocha .",
+      "Major Wall Street indexes spent the entire session in the red, with the S&P 500 falling 0.6 per cent, dropping for a fourth straight day.",
+      "“Although President (Donald) Trump has said that the war will end after the November midterm elections , there is no way that the market can believe this claim, as the situation remains perilous,” said Kathleen Brooks, research director at XTB. AFP"
     ]
   },
   "cna": {
-    "headline": "Singapore parliament debates changes to political salary framework",
-    "teaser": "The changes include a one-off pay increase of up to 9 per cent for political office holders and wider salary ranges for ministers.",
-    "url": "https://www.channelnewsasia.com/singapore/minister-salary-review-parliament-debate-6369416",
+    "headline": "NFL-49ers beat Rams 27-7 in landmark Australia game",
+    "teaser": "NFL-49ers beat Rams 27-7 in landmark Australia game",
+    "url": "https://www.channelnewsasia.com/sport/nfl-49ers-beat-rams-27-7-in-landmark-australia-game-6377816",
     "fullText": [
-      "SINGAPORE: Debate is underway in parliament on changes to Singapore's political salary framework , including pay adjustments for political office holders and higher allowances for MPs.",
-      "The debate on Thursday (Sep 10) comes two days after Prime Minister Lawrence Wong and Coordinating Minister for Public Services Chan Chun Sing set out the government's response to an independent review of the framework.",
-      "Political office holders will receive a one-off salary increase of up to 9 per cent from Oct 15, while MPs' monthly allowances will rise from S$13,750 to S$18,500."
+      "MELBOURNE, Sept 11 : Brock Purdy threw for 205 yards and three touchdowns as the San Francisco 49ers opened their season with a 27-7 win over the Los Angeles Rams on Friday in the National Football League's first regular-season game in Australia.",
+      "Rams quarterback Matthew Stafford, the reigning NFL MVP, had no touchdowns and was pulled late in the fourth quarter as the preseason Super Bowl favourites lost to their division rivals in front of a massive crowd of 100,021 at the Melbourne Cricket Ground.",
+      "The attendance on a local workday - the morning kick-off suiting a U.S. prime-time audience - was the seventh largest for a regular-season NFL game, and second only to the 49ers-Cardinals match-up at Mexico City's Azteca in 2005 (103,467) among international games.",
+      "\"What an atmosphere to get a win in,\" said 49ers tight end George Kittle. \"The boys played well. The juice was there all day, and I mean, anytime you get a win versus division opponent is always a great thing.",
+      "The 49ers had landed in Melbourne a week before the game to overcome jet lag and adjust for the time-zone difference with the U.S. West Coast.",
+      "And their players were cheered warmly as they ran out onto the sprawling, oval-shaped playing field having endeared themselves to locals with their high praise for Melbourne's coffee and food scene.",
+      "There were loud boos for the Rams, though, who arrived only the day before the game and stuck to their normal U.S. routines, and that strategy may come under the microscope after they were dominated for much of the game.",
+      "49ers kicker Eddy Pineiro scored the first points with a field goal with 6:15 remaining in the first quarter but the Rams hit back in the second when Stafford found receiver Puka Nacua with a 41-yard pass to set up a 5-yard touchdown run from Kyren Williams.",
+      "Both teams were moving the ball well on the ground but interceptions prevented any further scores until Demarcus Robinson caught a 39-yard pass from Purdy to put the 49ers 10-7 up with 4:28 left in the half.",
+      "With Stafford struggling to get his passing game going under pressure from the 49ers' defensive line, San Francisco ramped up the intensity early in the third.",
+      "Wide receiver Mike Evans celebrated his first touchdown for his new team when he connected with Purdy on a 2-yard pass as the 49ers went ahead 17-7.",
+      "The San Francisco defense then denied Nacua and Stafford, on a quarterback sneak, touchdowns by inches on consecutive plays late in the quarter.",
+      "Purdy took the 49ers straight up the other end for another touchdown on a 15-yard pass to Deebo Samuel early in the fourth.",
+      "There was no way back from there for the Rams, and 49ers coach Kyle Shanahan extended his winning record to 12-7 in his coaching rivalry with Sean McVay.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
@@ -37,263 +49,263 @@
   },
   "lifeVocab": [
     {
-      "en": "tap in / tap out",
+      "en": "tap in/out",
       "cn": "刷卡进站/出站",
-      "def": "To press a transit card or mobile payment device against a reader to enter or exit a transport system.",
-      "ex": "Don't forget to tap out when you exit the MRT station so you won't be overcharged.",
+      "def": "to scan an EZ-Link card, credit card, or mobile device at the station gates to enter or exit",
+      "ex": "Remember to tap out when you leave the MRT station so you are charged the correct fare.",
       "emoji": "💳"
     },
     {
       "en": "gantry",
-      "cn": "闸机/控制闸口",
-      "def": "The mechanical gate or barrier that passengers pass through after tapping their cards.",
-      "ex": "Please stand behind the yellow line before the gantry opens.",
-      "emoji": "🚧"
-    },
-    {
-      "en": "peak hour",
-      "cn": "高峰时间/繁忙时段",
-      "def": "The busiest times of the day for public transport, usually when people commute to and from work.",
-      "ex": "If you travel during peak hour, the MRT trains will be extremely crowded.",
+      "cn": "闸机/过闸通道",
+      "def": "the electronic gate where passengers scan their travel cards to enter or exit transit areas",
+      "ex": "Please stand behind the yellow line before tapping your card at the gantry.",
       "emoji": "🚇"
     },
     {
       "en": "commute",
       "cn": "通勤",
-      "def": "The daily journey to and from your place of work or study.",
-      "ex": "Her daily commute from Jurong East to City Hall takes about 35 minutes.",
-      "emoji": "🚶"
+      "def": "to travel regularly between one's home and place of work or study",
+      "ex": "My daily commute from Jurong West to Tampines takes almost an hour each way.",
+      "emoji": "🚌"
     },
     {
-      "en": "track fault",
-      "cn": "轨道故障",
-      "def": "A technical issue with the railway tracks that causes delays.",
-      "ex": "The North-South Line experienced a 15-minute delay this morning due to a track fault.",
-      "emoji": "⚠️"
+      "en": "interchange",
+      "cn": "转换站/换乘站",
+      "def": "a major transit station where different train lines meet, allowing passengers to switch lines",
+      "ex": "Dhoby Ghaut is a busy interchange station connecting three different MRT lines.",
+      "emoji": "🚉"
     },
     {
-      "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "Safety doors that separate the platform from the train tracks.",
-      "ex": "Please step away from the platform screen doors when they are closing.",
-      "emoji": "🚪"
+      "en": "peak hour",
+      "cn": "高峰时间",
+      "def": "the busiest times of the day when many people travel to or from work or school",
+      "ex": "Trains are usually packed during peak hours from 7:30 AM to 9:00 AM.",
+      "emoji": "⏰"
+    },
+    {
+      "en": "concourse",
+      "cn": "大厅/售票大厅",
+      "def": "the large open area inside a station where ticket machines and customer service counters are located",
+      "ex": "Let's meet at the station concourse near the passenger service centre.",
+      "emoji": "🏢"
     },
     {
       "en": "feeder bus",
       "cn": "接驳巴士/支线巴士",
-      "def": "A local bus route designed to bring passengers from neighborhoods to nearby MRT stations.",
-      "ex": "I usually take a feeder bus from my block to the nearest interchange.",
-      "emoji": "🚌"
+      "def": "a local bus service that transports passengers from residential areas to a nearby transport hub like an MRT station",
+      "ex": "I usually take a short ride on a feeder bus to get to the MRT station from my HDB block.",
+      "emoji": "🚍"
     },
     {
-      "en": "concession card",
-      "cn": "优惠车资卡",
-      "def": "A transit card that offers discounted fares for students, senior citizens, or eligible groups.",
-      "ex": "Students can apply for a monthly concession card to get unlimited MRT rides.",
-      "emoji": "🎫"
+      "en": "crowd control",
+      "cn": "人流管制",
+      "def": "measures taken to manage and direct large groups of people, especially during service disruptions or peak periods",
+      "ex": "During the New Year countdown event, the police implemented strict crowd control at Marina Bay station.",
+      "emoji": "👥"
     },
     {
-      "en": "disrupt",
-      "cn": "中断/使混乱",
-      "def": "To interrupt an event, activity, or process by causing a disturbance or problem.",
-      "ex": "Signal maintenance occasionally disrupts early morning train services on weekends.",
-      "emoji": "🛑"
+      "en": "platform screen doors",
+      "cn": "站台安全屏蔽门",
+      "def": "glass sliding doors that separate the passenger platform from the train tracks for safety",
+      "ex": "Please stand clear of the platform screen doors when they are closing.",
+      "emoji": "🚪"
     },
     {
-      "en": "escalator",
-      "cn": "自动扶梯",
-      "def": "A moving staircase that carries people between different floors of a station.",
-      "ex": "In Singapore, commuters are encouraged to stand on the left side of the escalator.",
-      "emoji": "📶"
+      "en": "track disruption",
+      "cn": "轨道交通故障/中断",
+      "def": "a temporary delay or stoppage of train services caused by technical or structural issues",
+      "ex": "The track disruption on the East-West Line forced many commuters to take bridging buses.",
+      "emoji": "⚠️"
     }
   ],
   "levelVocab": [
     {
-      "w": "conducive",
-      "ipa": "/kənˈdjuːsɪv/",
+      "w": "ameliorate",
+      "ipa": "/əˈmiːliəreɪt/",
+      "pos": "v.",
+      "cn": "改善/减轻",
+      "def": "to make a bad or difficult situation better",
+      "ex": "The new manager implemented flexible hours to ameliorate workplace stress."
+    },
+    {
+      "w": "capricious",
+      "ipa": "/kəˈprɪʃəs/",
       "pos": "adj.",
-      "cn": "有益的/有促进作用的",
-      "def": "making a certain situation or outcome likely or possible.",
-      "ex": "The quiet study areas at the regional libraries are highly conducive to preparation for professional exams."
+      "cn": "反复无常的/变幻莫测的",
+      "def": "given to sudden and unaccountable changes of mood or behavior",
+      "ex": "The market's capricious nature makes long-term forecasting extremely difficult."
     },
     {
-      "w": "precipitate",
-      "ipa": "/prɪˈsɪpɪteɪt/",
-      "pos": "v.",
-      "cn": "促成/加速",
-      "def": "to cause an event or situation, typically one that is undesirable, to happen suddenly, unexpectedly, or prematurely.",
-      "ex": "A sudden drop in consumer confidence could precipitate a slowdown in the local retail sector."
+      "w": "deference",
+      "ipa": "/ˈdefərəns/",
+      "pos": "n.",
+      "cn": "尊重/顺从",
+      "def": "polite submission and respect shown to someone or something",
+      "ex": "He addressed the veteran diplomat with deep deference during the negotiation."
     },
     {
-      "w": "volatile",
-      "ipa": "/ˈvɒlətaɪl/",
+      "w": "equivocal",
+      "ipa": "/ɪˈkwɪvəkəl/",
       "pos": "adj.",
-      "cn": "易变的/不稳定的",
-      "def": "liable to change rapidly and unpredictably, especially for the worse.",
-      "ex": "Sourcing raw materials has become challenging due to volatile international shipping costs."
+      "cn": "含糊其辞的/不明确的",
+      "def": "unclear in meaning or open to more than one interpretation, often intentionally",
+      "ex": "The company issued an equivocal statement regarding its potential restructuring plans."
     },
     {
-      "w": "disparity",
-      "ipa": "/dɪˈspærəti/",
-      "pos": "n.",
-      "cn": "差异/不平等",
-      "def": "a great difference, especially one that is unfair or unequal.",
-      "ex": "The government is introducing wage support schemes to address the income disparity between sectors."
+      "w": "fastidious",
+      "ipa": "/fæˈstɪdiəs/",
+      "pos": "adj.",
+      "cn": "挑剔的/讲究的",
+      "def": "showing or demanding excessive delicacy, care, or attention to detail",
+      "ex": "She is extremely fastidious about keeping her project documentation perfectly organized."
     },
     {
-      "w": "benchmark",
-      "ipa": "/ˈbentʃmɑːk/",
-      "pos": "n.",
-      "cn": "基准/标杆",
-      "def": "a standard or point of reference against which things may be compared or assessed.",
-      "ex": "Our company uses the local multinational firms as a benchmark for employee welfare packages."
+      "w": "imperative",
+      "ipa": "/ɪmˈperətɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的/迫切的",
+      "def": "crucial; of vital importance or requiring immediate action",
+      "ex": "It is imperative that we submit the budget proposal before the board meeting tomorrow."
     },
     {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
+      "w": "juxtapose",
+      "ipa": "/ˌdʒʌkstəˈpəʊz/",
       "pos": "v.",
-      "cn": "增加/提高",
-      "def": "to make something greater by adding to it; increase.",
-      "ex": "Many working adults in Singapore take short courses to augment their existing technical skillsets."
+      "cn": "并列/对比并置",
+      "def": "to place two or more things side by side, especially to compare or contrast them",
+      "ex": "The exhibition juxtaposes traditional ink paintings with modern digital art installations."
     },
     {
-      "w": "deviate",
-      "ipa": "/ˈdiːvieɪt/",
+      "w": "obviate",
+      "ipa": "/ˈɒbvieɪt/",
       "pos": "v.",
-      "cn": "偏离",
-      "def": "to depart from an established course, standard, or expectation.",
-      "ex": "If your project plan has to deviate from the budget, you must seek prior approval from management."
+      "cn": "消除/排除",
+      "def": "to remove a need, difficulty, or obstacle",
+      "ex": "The automation of routine entry tasks will obviate the need for manual record-keeping."
     },
     {
-      "w": "advocate",
-      "ipa": "/ˈædvəkeɪt/",
-      "pos": "v.",
-      "cn": "提倡/主张",
-      "def": "to publicly recommend or support a particular cause or policy.",
-      "ex": "Local business groups advocate for a more flexible work-from-home policy to prevent burnout."
+      "w": "pervasive",
+      "ipa": "/pəˈveɪsɪv/",
+      "pos": "adj.",
+      "cn": "无处不在的/充斥各处的",
+      "def": "spreading widely throughout an area or a group of people",
+      "ex": "The pervasive influence of social media has fundamentally changed how brands interact with consumers."
     },
     {
-      "w": "rectify",
-      "ipa": "/ˈrektɪfaɪ/",
-      "pos": "v.",
-      "cn": "纠正/整顿",
-      "def": "to put right or correct a mistake, misunderstanding, or bad situation.",
-      "ex": "Once the audit report is finalized, we will take immediate action to rectify the accounting errors."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsemɪneɪt/",
-      "pos": "v.",
-      "cn": "传播/散布",
-      "def": "to spread info, knowledge, or ideas widely to a lot of people.",
-      "ex": "The Ministry of Health uses social media platforms to quickly disseminate updates about public health guidelines."
+      "w": "salient",
+      "ipa": "/ˈseɪliənt/",
+      "pos": "adj.",
+      "cn": "显著的/最主要的",
+      "def": "most noticeable, prominent, or important",
+      "ex": "The consultant highlighted the salient features of the proposal in a five-minute pitch."
     }
   ],
   "listening": {
-    "source": "CNA Insider · Intermediate",
-    "title": "Singapore's Green Transition in Public Transport",
-    "transcript": "Singapore is rapidly pushing to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈlektrɪfaɪ/ (v.) to charge with electricity or convert to electric power — 使电气化\">electrify</span> its public bus <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/fliːt/ (n.) a group of buses, cars, or ships operating under one organization — 车队/船队\">fleet</span> by 2040, aiming to replace half of its diesel buses with cleaner electric alternatives by 2030. Commuters will soon experience quieter rides and significantly reduced carbon emissions during their daily journeys. To support this transition, new charging infrastructure is being installed at key bus <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈdepəʊz/ (n.) places where vehicles like buses are kept and maintained — 公交车库/存放处\">depots</span> across the island."
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Active Mobility Infrastructure to Ease Daily Commutes",
+    "transcript": "As Singapore expands its cycling path network to cover over one thousand kilometers by 2030, residents are increasingly opting for active <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/məʊˈbɪlɪti/ (n.) the ability to move or be moved freely and easily — 移动性/活动性\">mobility</span>. The government is actively upgrading infrastructure around residential estates to make commuting more <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsiːmləs/ (adj.) smooth and without any obvious joints, interruptions, or difficulties — 无缝的/完美的\">seamless</span>. However, safety concerns persist regarding the integration of personal mobility devices on shared pathways. Authorities are emphasizing public education to foster a culture of mutual respect among <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/pəˈdestriənz/ (n.) people walking rather than travelling in a vehicle — 行人\">pedestrians</span> and riders."
   },
   "economistArticle": {
-    "title": "The Gravity of Yields: What India's Bond Inclusion Reveals About Global Capital",
+    "title": "Can Germany’s economic recovery outrun the AfD?",
     "paras": [
-      "For months, global bond markets have experienced a <span class=\"voc\">relentless</span> sell-off, pushing yields to levels unseen in over a decade. As central banks worldwide signal that interest rates will remain <span class=\"voc\">elevated</span> to combat persistent inflation, investors are reassessing the risk profiles of traditional safe havens. Amid this <span class=\"voc\">turmoil</span>, emerging markets are no longer merely passive victims of capital flight; instead, they are carving out new avenues of fortitude.",
-      "India's recent inclusion in major global emerging-market bond indices serves as a compelling case study. <span class=\"gem\">Historically, international investors viewed Indian government debt with caution, deterred by capital controls and bureaucratic hurdles.</span> However, the decision by index providers to include <span class=\"voc\">sovereign</span> rupee bonds has triggered a structural shift, drawing billions of dollars of foreign capital into the subcontinent's domestic debt market.",
-      "This <span class=\"voc\">influx</span> highlights a broader <span class=\"voc\">divergence</span> in how investors perceive fiscal stability. <span class=\"gem\">While fiscal deficits in the West continue to swell without immediate remedies, emerging economies are demonstrating rigorous monetary discipline.</span> India's inclusion is not just an administrative milestone; it represents a fundamental <span class=\"voc\">realignment</span>, offering global asset managers a crucial buffer against the volatility of US Treasuries.",
-      "Yet, this integration is a double-edged sword that exposes domestic markets to global <span class=\"voc\">headwinds</span>. As foreign capital floods in, Indian policymakers must navigate the delicate balance of maintaining exchange-rate stability while keeping domestic borrowing costs manageable. The global bond sell-off suggests that yield differentials are no longer the sole driver of capital; structural reliability and fiscal <span class=\"voc\">prudence</span> now dictate the flow of international finance.",
-      "Ultimately, the evolving dynamics of the global debt market underscore a transition from a unipolar financial system to a more fragmented landscape. Investors seeking shelter from fluctuating yields are finding that emerging markets, once considered volatile outposts, now offer indispensable stability. As the global bond sell-off persists, the lessons from India's index inclusion may well rewrite the playbook for international portfolio diversification."
+      "After months of stagnation, Germany’s economy is showing tentative signs of life. Industrial orders are ticking upward, inflation is finally cooling, and consumer confidence is starting to shake off its winter chill. Yet, this <span class=\"voc\">nascent</span> recovery is incredibly fragile, overshadowed by structural headwinds and persistent energy costs. For Chancellor Olaf Scholz’s <span class=\"voc\">fractious</span> coalition government, the stakes could not be higher as they desperately seek a sustained economic turnaround.",
+      "The urgency is fueled by the alarming political <span class=\"voc\">ascendancy</span> of the Alternative for Germany (AfD). <span class=\"gem\">The far-right party has capitalised on widespread economic anxiety, high immigration, and resentment over green transition policies.</span> With key regional elections looming, the AfD’s populist rhetoric is finding fertile ground among voters who feel left behind by globalization. If the economic engine fails to rev up soon, the political landscape of Europe's largest economy could be permanently altered.",
+      "Many economists argue that Germany’s current <span class=\"voc\">malaise</span> is not merely <span class=\"voc\">cyclical</span> but deeply structural. Decades of underinvestment in digital infrastructure and an over-reliance on cheap Russian gas have left the industrial powerhouse vulnerable. While some manufacturers have successfully <span class=\"voc\">pivoted</span> to alternative energy sources, others are quietly relocating operations abroad. This creeping deindustrialisation poses a severe threat to the high-paying jobs that have long underpinned Germany's social <span class=\"voc\">cohesion</span>.",
+      "Furthermore, the government's fiscal hands are tightly bound by the self-imposed 'debt brake,' a constitutional limit on borrowing that restricts public spending. Critics contend that this fiscal <span class=\"voc\">orthodoxy</span> is self-defeating, preventing the very investments needed to modernise the economy and appease disgruntled citizens. Without the <span class=\"voc\">leeway</span> to fund sweeping social programs or subsidise transition costs, the coalition remains constrained in its ability to counter populist narratives.",
+      "Ultimately, a mild cyclical rebound may not suffice to stem the populist tide. Voters require tangible improvements in their living standards and clear assurances that the green transition will not bankrupt them. If the economic recovery remains <span class=\"voc\">anaemic</span> and imperceptible to ordinary citizens, the AfD will continue to exploit the vacuum. <span class=\"gem\">Germany’s political stability is now inextricably linked to its economic fortunes, and time is running out.</span>"
     ],
-    "cn": "几个月来，全球债券市场经历了无情的抛售，将收益率推至十多年未见的水平。随着全球央行发出信号，表示将维持高利率以对抗持续的通货膨胀，投资者正在重新评估传统避险资产的风险状况。在这场动荡中，新兴市场不再仅仅是资本外流的被动受害者；相反，它们正在开辟出新的坚韧之路。\n\n印度近期被纳入主要的全球新兴市场债券指数，提供了一个引人注目的案例。从历史上看，受资本管制和官僚障碍的阻碍，国际投资者对印度政府债务一直持谨慎态度。然而，指数提供商将主权卢比债券纳入其中的决定引发了结构性转变，吸引了数十亿美元的外资流入这一次大陆的国内债务市场。\n\n这种流入突显了投资者对财政稳定性的看法存在更广泛的分歧。在西方财政赤字持续膨胀且缺乏即时补救措施的同时，新兴经济体则展现出了严格的货币纪律。印度的加入不仅是一个行政里程碑，更代表了一次根本性的重新调整，为全球资产配置者提供了抵御美债波动的重要缓冲。\n\n然而，这种融合是一把双刃剑，使国内市场暴露在全球逆风之中。随着外资涌入，印度政策制定者必须在维持汇率稳定和保持国内借贷成本可控之间寻求微妙的平衡。全球债券抛售表明，收益率差异不再是资本的唯一驱动力；结构性可靠性和财政审慎如今决定着国际资金的流向。\n\n归根结底，全球债务市场不断变化的动态凸显了金融体系正从单极走向更加多元零散的格局。在试图规避波动收益率的投资者发现，曾经被视为动荡前沿的新兴市场，如今提供了不可或缺的稳定。在全球债券抛售持续的背景下，印度被纳入指数的经验很可能会重写国际投资组合多元化的游戏规则。",
+    "cn": "经历了数月的停滞，德国经济正暴露出微弱的复苏迹象。工业订单有所上升，通胀终于开始降温，消费者信心也开始摆脱冬日的寒意。然而，这种处于萌芽状态的复苏极其脆弱，面临着结构性阻力以及持续高企的能源成本的阴影。对于奥拉夫·朔尔茨总理脆弱的执政联盟而言，随着他们拼命寻求持续的经济好转，这其中的赌注再高不过了。\n这种紧迫感因德国选择党（AfD）令人担忧的政治崛起而加剧。这个极右翼政党利用了普遍存在的经济焦虑、高移民率以及对绿色转型政策的怨恨。随着关键的地方选举临近，该党的民粹主义言论在那些感到被全球化抛弃的选民中找到了肥沃的土壤。如果经济引擎不能尽快加速，这个欧洲最大经济体的政治版图可能会被永久改变。\n许多经济学家认为，德国目前的困境不仅是周期性的，而且是深层次结构性的。数十年来对数字基础设施的投资不足，以及对廉价俄罗斯天然气的过度依赖，使这个工业强国变得脆弱。虽然一些制造商已成功转向替代能源，但另一些制造商正悄悄将业务迁往海外。这种渐进的去工业化对长期支撑德国社会凝聚力的高薪岗位构成了严重威胁。\n此外，政府的财政手段受到自身施加的“债务刹车”的严格限制，这是一项限制公共支出的宪法借贷限制。批评人士认为，这种财政正统观念是自相矛盾的，阻碍了现代化经济和安抚不满公民所需的投资。由于缺乏资金来支持广泛的社会项目或补贴转型成本，联盟在应对民粹主义叙事方面的能力仍然受到制约。\n最终，温和的周期性反弹可能不足以阻止民粹主义的浪潮。选民需要生活水平的切实改善，以及绿色转型不会让他们破产的明确保证。如果经济复苏依然无力且普通公民无法察觉，德国选择党将继续利用这一真空。德国的政治稳定现在与其经济命运密不可分，而时间正在一分一秒流逝。",
     "vocab": [
       {
-        "w": "relentless",
-        "ipa": "/rɪˈlentləs/",
+        "w": "nascent",
+        "ipa": "/ˈnæsnt/",
         "pos": "adj.",
-        "mean": "持续不断的/无情的",
-        "def": "oppressively constant; incessant.",
-        "ex": "The relentless rise in borrowing costs has made it difficult for small companies to expand."
+        "mean": "萌芽的/初期的",
+        "def": "just beginning to exist or develop",
+        "ex": "The nascent space tourism industry faces significant technical and safety hurdles."
       },
       {
-        "w": "elevated",
-        "ipa": "/ˈelɪveɪtɪd/",
+        "w": "fractious",
+        "ipa": "/ˈfrækʃəs/",
         "pos": "adj.",
-        "mean": "处于高位的",
-        "def": "raised or high compared to normal levels.",
-        "ex": "Global energy costs are expected to stay elevated for the foreseeable future."
+        "mean": "易怒的/分歧严重的",
+        "def": "difficult to control, unruly, or easily angered",
+        "ex": "The board of directors had a fractious relationship, leading to several high-profile resignations."
       },
       {
-        "w": "turmoil",
-        "ipa": "/ˈtɜːmɔɪl/",
+        "w": "ascendancy",
+        "ipa": "/əˈsendənsi/",
         "pos": "n.",
-        "mean": "动荡/混乱",
-        "def": "a state of great disturbance, confusion, or uncertainty.",
-        "ex": "The political turmoil in Europe has unsettled international stock and bond markets."
+        "mean": "优势/主导地位",
+        "def": "occupation of a position of dominant power or influence",
+        "ex": "The tech giant maintained its market ascendancy for over two decades."
       },
       {
-        "w": "sovereign",
-        "ipa": "/ˈsɒvrɪn/",
+        "w": "malaise",
+        "ipa": "/mæˈleɪz/",
+        "pos": "n.",
+        "mean": "不适/萎靡不振",
+        "def": "a general feeling of discomfort, illness, or unease whose exact cause is difficult to identify",
+        "ex": "A deep economic malaise settled over the country after the housing bubble burst."
+      },
+      {
+        "w": "cyclical",
+        "ipa": "/ˈsɪklɪkəl/",
         "pos": "adj.",
-        "mean": "主权的/国债的",
-        "def": "relating to a state that is self-governing; (of bonds) issued by a national government.",
-        "ex": "Many funds prefer sovereign bonds because they are backed by the full credit of a nation."
+        "mean": "周期性的",
+        "def": "occurring in cycles or recurring at regular intervals",
+        "ex": "Many retail businesses experience cyclical growth aligned with the holiday seasons."
       },
       {
-        "w": "influx",
-        "ipa": "/ˈɪnflʌks/",
+        "w": "pivoted",
+        "ipa": "/ˈpɪvətɪd/",
+        "pos": "v.",
+        "mean": "转向/改变策略",
+        "def": "completely turned or changed direction/strategy to adapt to new conditions",
+        "ex": "During the pandemic, many restaurants pivoted to offer online delivery only."
+      },
+      {
+        "w": "cohesion",
+        "ipa": "/kəʊˈhiːʒən/",
         "pos": "n.",
-        "mean": "流入/汇集",
-        "def": "an arrival or entry of large numbers of people or things.",
-        "ex": "The city-state experienced a massive influx of foreign talent in the technology sector."
+        "mean": "凝聚力/团结",
+        "def": "the action or fact of forming a united whole",
+        "ex": "Social cohesion is essential for maintaining peace in a multicultural society like Singapore."
       },
       {
-        "w": "divergence",
-        "ipa": "/daɪˈvɜːdʒəns/",
+        "w": "orthodoxy",
+        "ipa": "/ˈɔːθədɒksi/",
         "pos": "n.",
-        "mean": "分歧/差异",
-        "def": "a difference or conflict in opinions, interests, or paths.",
-        "ex": "There is a growing divergence between European and Asian monetary policies."
+        "mean": "正统观念/传统规范",
+        "def": "authorized or generally accepted theory, doctrine, or practice",
+        "ex": "The young economist challenged the long-held orthodoxy of austere budgets during recessions."
       },
       {
-        "w": "deficit",
-        "ipa": "/ˈdefɪsɪt/",
+        "w": "leeway",
+        "ipa": "/ˈliːweɪ/",
         "pos": "n.",
-        "mean": "赤字",
-        "def": "the amount by which spending exceeds income over a particular period of time.",
-        "ex": "The government ran a small budget deficit this year due to increased healthcare spending."
+        "mean": "自由度/余地",
+        "def": "the amount of freedom in determining actions, spending, or policy",
+        "ex": "The manager gave the creative team some leeway in designing the new marketing campaign."
       },
       {
-        "w": "realignment",
-        "ipa": "/ˌriːəˈlaɪnmənt/",
-        "pos": "n.",
-        "mean": "重新调整",
-        "def": "the striking of a new balance or agreement; rearranging relationships.",
-        "ex": "This partnership represents a major realignment of power in the global semiconductor industry."
-      },
-      {
-        "w": "headwinds",
-        "ipa": "/ˈhedwɪndz/",
-        "pos": "n. (plural)",
-        "mean": "逆风/阻力",
-        "def": "metaphorically, forces that slow down progress or economic growth.",
-        "ex": "The manufacturing industry is facing severe headwinds from rising material costs."
-      },
-      {
-        "w": "prudence",
-        "ipa": "/ˈpruːdns/",
-        "pos": "n.",
-        "mean": "谨慎/审慎",
-        "def": "carefulness and avoidance of unnecessary risk.",
-        "ex": "The central bank praised the government's fiscal prudence in keeping debt levels low."
+        "w": "anaemic",
+        "ipa": "/əˈniːmɪk/",
+        "pos": "adj.",
+        "mean": "无力的/贫血的",
+        "def": "lacking in color, spirit, or vitality; weak and lifeless",
+        "ex": "The stock market showed anaemic growth in the first quarter of the fiscal year."
       }
     ],
     "gems": [
       {
-        "s": "Historically, international investors viewed Indian government debt with caution, deterred by capital controls and bureaucratic hurdles.",
-        "why": "This sentence employs a past-participle clause starting with 'deterred by' to elegantly embed a cause-and-effect relationship without cluttering the main clause. In Chinese: 这句话采用以 'deterred by'（受阻于……）开头的过去分词短语作状语，非常优雅地嵌入了因果关系，使得主句结构依然简洁干练。"
+        "s": "The far-right party has capitalised on widespread economic anxiety, high immigration, and resentment over green transition policies.",
+        "why": "It showcases a clean tripartite structure (three parallel noun phrases) used to explain complex socioeconomic grievances, which is a classic feature of persuasive, analytical writing. 这是一个经典的排比名词短语结构（由三个并列名词短语组成），用于解释复杂的社会经济矛盾，是极具说服力和分析性写作的典范。"
       },
       {
-        "s": "While fiscal deficits in the West continue to swell without immediate remedies, emerging economies are demonstrating rigorous monetary discipline.",
-        "why": "This sentence uses a 'While...' adverbial clause to establish a sharp, sophisticated contrast between Western fiscal issues and emerging market discipline. In Chinese: 这句话使用以 'While...' 开头的状语从句，在西方财政赤字问题与新兴市场的自律之间建立起鲜明而高级的对比。"
+        "s": "Germany’s political stability is now inextricably linked to its economic fortunes, and time is running out.",
+        "why": "This sentence demonstrates the use of a powerful adverb-verb collocation ('inextricably linked') followed by a punchy, independent clause ('and time is running out') to create urgency. 该句展示了强有力的副词与动词搭配（'密不可分'），随后接上一个短促、独立的分句（'时间正在一分一秒流逝'），从而营造出强烈的紧迫感。"
       }
     ]
   }
