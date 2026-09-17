@@ -1,69 +1,323 @@
 {
-  "date": "2026-09-16",
-  "generatedAt": "2026-09-16T04:58:34.530140+00:00",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T05:01:06.128481+00:00",
   "economist": {
-    "headline": "What Africa’s biggest IPO can do for its stock markets",
-    "teaser": "A new generation of investors is buying up African stocks",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
+    "headline": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
+    "teaser": "The rich world is flirting with fiscal disaster",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
     "vocab": []
   },
   "st": {
-    "headline": "AI start-up Plaud opens regional headquarters in S’pore; doubles investment to $20 million",
-    "teaser": "This commitment is double the company’s original $10 million investment announced in June.",
-    "url": "https://www.straitstimes.com/business/ai-start-up-plaud-opens-regional-headquarters-in-spore-doubles-investment-to-20-million",
+    "headline": "US aligns inflation policy with Singapore’s MAS, other central banks with first rate hike since 2023",
+    "teaser": "Singapore has been tightening monetary policy since April to fight inflation.",
+    "url": "https://www.straitstimes.com/business/us-aligns-inflation-policy-with-singapores-mas-other-central-banks-with-first-rate-hike-since-2023",
     "fullText": [
-      "Singapore - AI start-up Plaud opened its Asia-Pacific headquarters in Singapore on Sept 16 as it continues to expand amid a global AI boom.",
-      "The start-up , which runs an AI note-taking platform, a lso committed to investing at least $20 million here to expand engineering, product development and regional operations.",
-      "This commitment is double the company’s original $10 million investment announced in June .",
-      "The company said the move reinforces Singapore’s role as Plaud‘s long-term hub for innovation and growth across the region.",
-      "The new regional headquarters spans 15,000 square feet at the Marina Bay Financial Centre (MBFC). The space houses teams across engineering, product, customer success, operations, marketing and business functions.",
-      "Singapore serves as Plaud’s base of operations across 12 markets outside Japan and mainland China.",
-      "Besides the Republic, the other markets are Australia, Hong Kong, India, Indonesia, Malaysia, New Zealand, the Philippines, South Korea, Taiwan, Thailand and Vietnam.",
-      "The company was founded in 2021, when chief executive officer Nathan Xu teamed up with then Shenzhen-based factory owner Charles Liu, who had experience developing smart wearables, to explore opportunities in the sector.",
-      "Two years later, they launched the Plaud Note, a voice recorder that records calls and meetings, before transcribing and summarising the content using artificial intelligence.",
-      "“From day one, Plaud has had one mission, and it’s to amplify human intelligence. We want people to stay present in their conversations, with the people in front of them, and let the AI take care of the rest,” said Nathan Xu.",
-      "Plaud has expanded its Singapore team from 10 to approximately 100 employees in nine months, with plans to expand to 150.",
-      "Plaud chose Singapore for its regional headquarters for the country’s talent pool, said Xu.",
-      "“Some of the best engineering and product people in Asia are in this city. Singapore also has great digital security and privacy, which is very important for AI products,” he added.",
-      "“If we do our job well, maybe one day people can work two days a week instead of five and spend the time they save with their loved ones or loved things. That is the future worth building.”"
+      "SINGAPORE - The United States central bank’s reasons for lifting its benchmark rate by a quarter percentage point on Sept 16 sounded much like what the Monetary Authority of Singapore (MAS) said in July when it tightened its policy stance for the second time in a row. By raising its federal funds rate for the first time since 2023, the Federal Reserve communicated that the economy was strong enough to absorb a tighter monetary policy aimed at bring down further gains in inflation, amid spiking energy prices. MAS - which uses the local currency to fight inflation - on July 27 increased the rate of appreciation of the trade-weighted Singapore dollar, building on a similar move in April, to ward off the risk from a surge in energy prices due to the Iran war and robust investment growth at home fuelling inflation. The policy alignment shows that economies, big or small, are in the same boat when it comes to basic economic issues. Following a period of policy divergence early this year, a shared macroeconomic shock - mainly the energy price spikes fuelled by the Middle East conflict - has forced central banks worldwide to uniformly prioritise fighting inflation over supporting economic growth. The Fed move also follows a 25 basis-point rate increase by the European Central Bank - its second hike this year. The Bank of Japan also raised its benchmark interest rate by a quarter percentage point in June. Salman Ahmed, global head of macro and strategic asset allocation at Fidelity International, said: ‘’Geopolitical fragmentation, energy security, larger fiscal footprints, supply-chain duplication, and the capital intensity of the AI investment cycle all point towards a world in which inflation is likely to remain more persistent.’’ Hence, the Fed has resumed tightening, without meaningfully restricting economic growth. As long as investments required for data centres, semiconductors, power, grids, infrastructure, and financing remains strong, the US economy may be able to absorb higher rates more easily, said Ahmed. Higher interest rates are not going to reopen the Strait of Hormuz - that used to supply a fifth of crude oil to the world. The closure of the waterway because of the Iran war has resulted in sustained gains in energy prices, feeding into the costs of making and shipping goods worldwide. But steeper rates can make access to money, or the borrowing cost, more expensive - diminishing other sources of inflation such as mortgages, credit cards and auto loans. It may also bring some discipline to investment growth - both in capital markets and the real economy. ‘’Tighter monetary policy globally will weigh on real demand and hence export volumes,’’ said Sheana Yue, senior economist at UK-based research firm Oxford Economics. She said higher energy prices could provide some offset to Singapore’s nominal exports given its role as a regional refining and re-export hub. ‘’At the same time, continued AI-related demand should provide a more durable source of support for electronics and semiconductor exports.’’ US stocks fell after the Fed rate hike because higher interest rates mean a higher discount on stock valuations. However, stocks sensitive to AI will likely to be the exception to this rule. James Ooi, market strategist at Tiger Brokers in Singapore, said: ‘’The stronger growth and higher profit margins of technology companies relative to traditional sectors could help offset the impact of higher rates. ‘’This could ultimately make tech stocks a preferred asset class in a flight to growth and quality.’’ But the question remains on the outlook for monetary policy, especially since the recent developments in the Middle East show that energy prices are not coming down significantly enough any time soon.",
+      "Hence, going forward more rate hikes - or a tighter monetary policy - should be expected. MAS’s main policy tool is the Singapore dollar because in a small and open economy such as the Republic - where gross exports and imports of goods and services are more than 300 per cent of GDP and almost 40 cents of every dollar spent domestically is on imports - the exchange rate has a much stronger influence on inflation than interest rates. That leaves Singapore’s domestic interest rates to follow the global tide, even as they remain lower than most of their peers worldwide. Still, the higher inflation forecast that usually accompany MAS’s tighter monetary policy stance have its own impact. In April, MAS raised its forecasts for core inflation – which excludes private transport and accommodation to better reflect household expenses – to a range of 1.5 per cent to 2.5 per cent, from a previous estimate of 1 per cent to 2 per cent. In July, MAS said inflation - much higher than their historical average of 1.5 per cent - would only ease more discernibly in the second half of 2027 as global energy prices gradually moderate. With bond yields rising worldwide, especially the 10-year and 30-year US Treasury yields recently hitting above 5 per cent - the highest levels since 2007 - the Singapore overnight rate average (SORA), that is used as a benchmark for much of lending, has been on the rise. The compounded one-month SORA that started the year at 1.1779 per cent stood at 1.2571 per cent on Sept 15. The three-month SORA has also risen from 1.1797 per cent to 1.1984 in the same period. Since MAS has been ahead of the curve, the latest Fed hike is unlikely to add new impetus to rates in Singapore. However, Fed’s policy guidance that it may raise rates at least one more time this year and US market expectations of three more such moves may start to have a hawkish impact on the outlook of monetary policy and interest rates in Singapore. Given the global policy alignment on inflation being the overriding concern, another tightening move by MAS is already expected by some analysts. The latest data on Singapore’s exports reinforces the bullish view on economic growth - already estimated by the Ministry of Trade and Industry to grow at a stellar pace of 4.5 per cent to 5.5 per cent this year. Figures released by Enterprise Singapore on Sept 17 showed non-oil domestic exports rose 46.2 per cent in August, extending July’s 24.1 per cent expansion, as electronics shipments continued to surge due to AI-related demand. Oil prices that were averaging at around US$80 per barrel in July are now above US$100. However, DBS Bank’s chief economist Taimur Baig said the path to further rate hikes could easily get undone. ‘’A large market selloff, a public debt crisis, an AI-related cataclysmic event, slippage in the labour market, or a major worsening of the geopolitical environment could force the Fed to shift its focus from inflation to economic stablisation,’’ he said. ‘’Bottom line, the about-turn by what had seemed like a dovish Fed Chair just a few months ago underscores the challenges embedded in this cycle.’’"
     ]
   },
   "cna": {
-    "headline": "Greater dialogue as AI, outer space rivalries grow; bigger security role by major powers: China's defence chief",
-    "teaser": "Dong Jun was speaking on Wednesday (Sep 16) at the Xiangshan Forum in Beijing which was attended by delegates from nearly 100 countries and regions, including Singapore Defence Minister Chan Chun Sing and North Korea’s Vice Defence Minister Kim Kang-il.",
-    "url": "https://www.channelnewsasia.com/east-asia/china-xiangshan-forum-dong-jun-ai-space-6366876",
+    "headline": "At least 20 species could be new to science after NUS-OceanX deep-sea expedition",
+    "teaser": "More than 6,000 sq km of the Indian Ocean’s deep sea was newly mapped during the expedition, which also brought back over 2,000 specimens for researchers to study.",
+    "url": "https://www.channelnewsasia.com/singapore/moonrise-nus-ocean-x-deep-sea-expedition-20-species-new-science-6388371",
     "fullText": [
-      "Chinese Defence Minister Dong Jun has called for greater security dialogue and rule-making in emerging domains including artificial intelligence (AI) and outer space - areas of growing Sino-US rivalry as their leaders prepare to meet.",
-      "“(Countries should also) strengthen risk assessment, experience-sharing and rule-making, so that emerging technologies can better benefit all of humanity,” Dong said in a speech on Wednesday (Sep 16) at the Xiangshan Forum in Beijing.",
-      "Major powers should take the lead in shouldering responsibility for global security governance, he also said.",
-      "His remarks come a week before an expected meeting between Chinese President Xi Jinping and United States counterpart Donald Trump in Washington.",
-      "Launched in 2006, the Xiangshan Forum is seen as China’s counterpart to major regional security meetings such as the Shangri-La Dialogue in Singapore.",
-      "Themed “Build Consensus on Stability, Advance Security Governance Together”, this year’s gathering from Sep 15 to 17 is attended by delegates from nearly 100 countries and regions, including Singapore Defence Minister Chan Chun Sing and North Korea’s Vice Defence Minister Kim Kang-il.",
-      "In his roughly 30-minute speech, Dong warned of risks including the militarisation and misuse of emerging technologies, as well as risks spilling across different domains.",
-      "“Countries should … actively engage in security dialogue in areas including artificial intelligence, outer space and the deep sea,” he said.",
-      "Chinese Vice President Han Zheng made a similar appeal at Tuesday’s Xiangshan Forum welcome dinner, calling for faster development of governance rules for such emerging domains as well as greater international cooperation.",
-      "The calls come as AI becomes an increasingly important area of competition - and potential cooperation - between China and the US, with it widely expected to be on the agenda when Xi meets with Trump.",
-      "The US has accused top Chinese AI labs of stealing the capabilities of American models through “industrial-scale knowledge distillation campaigns\". Distillation is where an AI model is trained to mimic the output of a larger, more capable one.",
-      "Beijing has rejected the claims and accused Washington of using national security to suppress Chinese companies.",
-      "Outer space has similarly become an increasingly important area of strategic and military competition.",
-      "China’s Foreign Ministry said on Tuesday it opposes any arms race in outer space and warned against turning it into a “warzone”, after the US revealed that the Pentagon is operating weapons in Earth's orbit.",
-      "The US delegation to this year’s Xiangshan Forum is led by Brigadier General Stacy Kihara, a senior defence official at the US embassy in Beijing.",
-      "The Pentagon had initially planned to send Cynthia Carras, its principal director for China, Taiwan and Mongolia, but she pulled out days before the forum, according to the South China Morning Post.",
-      "In his Wednesday speech, Dong also called on major powers to take the lead in maintaining “global strategic stability”.",
-      "Major powers should take the lead in shouldering responsibility, while small and medium-sized countries should actively contribute and the United Nations should play its due role,” he said.",
-      "He said a “fair, reasonable, balanced and effective” security governance system was needed to keep risks in check and uphold international fairness and justice.",
-      "Dong also called for “dialogue rather than confrontation, partnership rather than alliance, and win-win cooperation rather than zero-sum competition”.",
-      "He said conflicts ought to be resolved through dialogue, adding that military force could not address their root causes and coercive pressure would only deepen division.",
-      "“Dialogue and consultation is the only correct path,” he said, accusing some countries of “forming cliques” and “adding fuel to the fire”.",
-      "While Dong did not directly mention the US in his speech, his remarks come amid the ongoing US-Iran conflict, which has disrupted shipping through the Strait of Hormuz.",
-      "During a visit to Egypt earlier this month, Xi called for a new Middle East security framework and said China was ready to help safeguard key shipping routes.",
-      "Dong said China’s military would deepen cooperation with other countries, including through joint exercises and training, personnel training, equipment and technology.",
-      "He also called for deeper cooperation on peacekeeping, naval escorts and counter-terrorism, citing global challenges including energy, food and shipping-lane security."
+      "SINGAPORE: At least 20 species found during an expedition into a little-explored part of the Indian Ocean could be new to science, with researchers saying there may be more discoveries to come.",
+      "The 24-day expedition, co-led by the National University of Singapore (NUS) and nonprofit ocean exploration initiative OceanX, was conducted in October last year. It mapped a total of 6,050 sq km of the deep sea and brought back over 2,000 specimens.",
+      "An estimated 100 to 200 species were documented, many of which have yet to be fully described.",
+      "The advanced research vessel OceanXplorer explored the Monsoon Rise, a largely unexplored seamount chain in the eastern Indian Ocean.",
+      "The manned submersibles provide a rare front-row seat to the deep sea, allowing scientists to observe marine life, study fragile habitats and see how ocean ecosystems are changing.",
+      "One of the team’s main tools was Chimera, an ROV capable of descending more than 6,000m.",
+      "Chimera carries cameras, sensors and sampling equipment, allowing scientists to collect samples from the Monsoon Rise’s seamounts.",
+      "ROV pilot Ewan Bason described the Chimera as a “Swiss Army knife” because of the wide range of sampling and scientific equipment it carries.",
+      "“We try and keep as much gear on board the ROV as possible,” Mr Bason said. “It can do many things once it gets underwater.”",
+      "Thousands of metres below the surface, researchers observed corals and other cnidarians clinging to underwater mountain slopes, as well as crustaceans moving across the seabed.",
+      "Some animals could not immediately be identified. Selected specimens were carefully collected, brought onboard the vessel, then photographed and preserved for further study.",
+      "But what scientists were able to explore represents only a fraction of the vast area below.",
+      "\"We only explored a small segment of the seamounts,” said Dr Jose Christopher E Mendoza, deputy chief scientist of the expedition and senior curator of crustacea and other marine arthropoda at the Lee Kong Chian Natural History Museum.",
+      "The summit area of one of the seamounts is about the size of Singapore, he added.",
+      "“The height of the seamount, even though the summit does not reach the surface of the sea, is on average about 3,000m. These are very big mountains.\"",
+      "Among the specimens brought back were 20 sea cucumbers.",
+      "But only four could be confidently identified to species level, said Dr Allison Miller, a research fellow with NUS’ Reef Ecology Lab.",
+      "Another 10 are believed to be unidentified species that had also been encountered on previous research cruises.",
+      "The remaining six specimens could represent animals never previously observed.",
+      "“Six specimens we think are the first ones that anyone's ever seen, and we've seen alive, which is really neat,” said Dr Miller.",
+      "Determining exactly what they are will require further comparison and analysis.",
+      "But identifying the animals is about more than simply putting names to unusual-looking creatures.",
+      "Sea cucumbers can help scientists understand the conditions on the seabed and how the deep-sea ecosystem functions.",
+      "“A lot of people know them as the shallow water blobs that don't do much in the ocean, but they're really actually very important bioturbators and nutrient recyclers,” said Dr Miller.",
+      "“I call them the little vacuums of the ocean.”",
+      "Researchers are also examining crustaceans, fish, sponges and anemones collected during the expedition.",
+      "Each of these creatures provides yet another clue to the biodiversity of the Monsoon Rise.",
+      "Physical specimens can only reveal part of what lives thousands of metres beneath the surface.",
+      "Researchers are also analysing environmental DNA to detect organisms they may have never seen or collected.",
+      "Animals constantly shed traces of genetic material into their surroundings. By analysing water or sediment samples, researchers can detect those traces and build a broader picture of the ecosystem."
     ]
   },
   "mom": {
     "headline": "Launch of Sites for Purpose-Built Dormitories in 2026-2027",
     "teaser": "As of Jun 2026, there are approximately 1,600 dormitories providing around 467,000 beds for migrant workers. As part of the Government's continuous efforts to build up a sufficient supply of dormitory beds for migrant worker accommodation, two new Purpose-Built Dormitory (PBD) sites will be released over the next year ",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0911-launch-of-sites-for-purpose-built-dormitories-in-2026-2027"
+  },
+  "lifeVocab": [
+    {
+      "en": "commute",
+      "cn": "通勤",
+      "def": "travel some distance to and from one's place of work on a regular basis",
+      "ex": "My daily commute from Pasir Ris to Raffles Place takes about 45 minutes.",
+      "emoji": "🚇"
+    },
+    {
+      "en": "gantry",
+      "cn": "闸机 / 地铁收费闸门",
+      "def": "the electronic gate where you tap your card to enter or exit the station",
+      "ex": "Make sure your EZ-Link card has enough value before tapping through the gantry.",
+      "emoji": "🎫"
+    },
+    {
+      "en": "concourse",
+      "cn": "大厅",
+      "def": "a large open area inside a station where people gather or pass through",
+      "ex": "I'll meet you near the passenger service centre at the station concourse.",
+      "emoji": "🏢"
+    },
+    {
+      "en": "feeder bus",
+      "cn": "接驳巴士 / 支线巴士",
+      "def": "a local bus service that brings passengers to a main transit station",
+      "ex": "I usually take a feeder bus from my HDB block to the nearest MRT station.",
+      "emoji": "🚌"
+    },
+    {
+      "en": "peak hour",
+      "cn": "高峰时段",
+      "def": "the times of highest traffic or passenger volume, typically when people travel to and from work",
+      "ex": "The trains are extremely crowded during peak hour from 8:00 AM to 9:00 AM.",
+      "emoji": "🕒"
+    },
+    {
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "moving stairs that carry people between different floors or levels",
+      "ex": "Stand on the left side of the escalator to let others overtake on the right.",
+      "emoji": "📶"
+    },
+    {
+      "en": "interchange",
+      "cn": "换乘站",
+      "def": "a station where passengers can change transit lines",
+      "ex": "Dhoby Ghaut is a busy interchange connecting three different MRT lines.",
+      "emoji": "🔄"
+    },
+    {
+      "en": "disruption",
+      "cn": "故障 / 中断",
+      "def": "a temporary interruption or disturbance to a service",
+      "ex": "There was a minor train disruption on the East-West Line due to a signal fault.",
+      "emoji": "⚠️"
+    },
+    {
+      "en": "fare",
+      "cn": "车费",
+      "def": "the money paid for a journey on public transport",
+      "ex": "Distance-based fares make shorter trips relatively cheap in Singapore.",
+      "emoji": "💵"
+    },
+    {
+      "en": "transit",
+      "cn": "过境 / 运输",
+      "def": "the carrying of people or goods from one place to another",
+      "ex": "The rapid transit system has made navigating the city incredibly convenient.",
+      "emoji": "🗺️"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "reconcile",
+      "ipa": "/ˈrek.ən.saɪl/",
+      "pos": "v.",
+      "cn": "调和 / 一致",
+      "def": "to find a way in which two opposing situations or figures can agree",
+      "ex": "The finance team had to reconcile the actual expenses with the projected budget."
+    },
+    {
+      "w": "deviate",
+      "ipa": "/ˈdiː.vi.eɪt/",
+      "pos": "v.",
+      "cn": "偏离",
+      "def": "to do something that is different from the usual or expected way of doing things",
+      "ex": "We cannot deviate from the safety protocols, even if it delays the project timeline."
+    },
+    {
+      "w": "procure",
+      "ipa": "/prəˈkjʊər/",
+      "pos": "v.",
+      "cn": "采购 / 获得",
+      "def": "to obtain something, especially with care or effort, or for business use",
+      "ex": "The operations manager is trying to procure sustainable raw materials from local suppliers."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "pos": "v.",
+      "cn": "传播 / 散播",
+      "def": "to spread information, knowledge, or ideas to a large number of people",
+      "ex": "The HR department will disseminate the new remote-work guidelines by Friday."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案 / 偶发事件",
+      "def": "a provision for an unforeseen event or circumstance",
+      "ex": "We have formulated a robust contingency plan in case of a sudden supply chain disruption."
+    },
+    {
+      "w": "preclude",
+      "ipa": "/prɪˈkluːd/",
+      "pos": "v.",
+      "cn": "排除 / 妨碍",
+      "def": "to prevent something from happening or make it impossible",
+      "ex": "Although the contract is strict, it does not preclude us from negotiating better terms later."
+    },
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
+      "pos": "v.",
+      "cn": "增强 / 扩大",
+      "def": "to increase the size or value of something by adding to it",
+      "ex": "The company decided to augment its customer service team to handle the festive surge."
+    },
+    {
+      "w": "underscore",
+      "ipa": "/ˌʌn.dəˈskɔːr/",
+      "pos": "v.",
+      "cn": "强调",
+      "def": "to emphasize the importance of something",
+      "ex": "The recent security audit underscores the urgent need for better data encryption."
+    },
+    {
+      "w": "arbitrary",
+      "ipa": "/ˈɑː.bɪ.trər.i/",
+      "pos": "adj.",
+      "cn": "任意的 / 随意的",
+      "def": "based on random choice or personal whim, rather than any reason or system",
+      "ex": "The manager's decision to ban overtime seemed arbitrary and frustrated the staff."
+    },
+    {
+      "w": "pervasive",
+      "ipa": "/pəˈveɪ.sɪv/",
+      "pos": "adj.",
+      "cn": "无处不在的 / 充斥各处的",
+      "def": "spreading widely throughout an area or a group of people",
+      "ex": "The influence of digital technology on modern retail is pervasive and unavoidable."
+    }
+  ],
+  "listening": {
+    "source": "CNA Insider · Intermediate",
+    "title": "Singapore's Green Transition and the Rising Cost of Carbon",
+    "transcript": "As Singapore strives to achieve net-zero emissions by 2050, the progressive hike in the carbon tax has taken centre stage. Starting this year, businesses face higher <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈlev.iz/ (n. plural) official taxes or fees imposed by a government — 税款 / 征税\">levies</span> on carbon emissions, a move designed to pressure heavy <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/iˈmɪt.ərz/ (n. plural) sources that release substances, especially gases, into the atmosphere — 排放源\">emitters</span> to adopt greener technologies. While some business owners worry about rising operating costs, environmental experts argue that this policy is critical to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈkæt.əl.aɪz/ (v.) to cause or accelerate a reaction or change — 催化 / 促进\">catalyze</span> green investments. Ultimately, the government aims to strike a delicate balance between economic competitiveness and environmental sustainability."
+  },
+  "economistArticle": {
+    "title": "The Rich World is Flirting with Fiscal Disaster",
+    "paras": [
+      "<span class=\"gem\">For decades, the rich world operated under the comforting illusion that debt was virtually free.</span> Ultralow interest rates allowed governments from Washington to Tokyo to borrow with <span class=\"voc\">abandon</span>, financing generous welfare programs, pandemic bailouts, and green transitions without seemingly any immediate consequences. Yet, the macroeconomic landscape has experienced a violent correction. As central banks hiked rates to combat stubborn inflation, the era of cheap money evaporated, leaving a mountain of <span class=\"voc\">sovereign</span> debt that must now be <span class=\"voc\">refinanced</span> at punishingly high yields.",
+      "The current situation is particularly alarming because fiscal deficits are gaping even in times of relative economic prosperity. Usually, governments accumulate debt during downturns and pay it down during booms. Today, however, structural pressures such as aging populations, escalating defense spending, and climate change <span class=\"voc\">mitigation</span> mean that expenditures are locked in a permanent upward <span class=\"voc\">trajectory</span>. The United States, for instance, is running a peacetime deficit of a magnitude rarely seen outside of severe recessions, flirting with a dangerous level of fiscal <span class=\"voc\">profligacy</span>.",
+      "Investors are beginning to wake up to these sobering fiscal realities, driving sovereign bond yields to heights not seen in more than a decade. Higher yields mean that governments must allocate an ever-larger share of tax revenues simply to service existing interest payments, squeezing out productive investments in infrastructure, education, and healthcare. If bond <span class=\"voc\">vigilantes</span> decide that a country's debt trajectory is unsustainable, they may demand even higher risk premiums, triggering a vicious cycle of soaring borrowing costs and potential financial instability.",
+      "For open, trade-dependent economies like Singapore, these global fiscal <span class=\"voc\">tremors</span> carry profound implications. Although Singapore is legally bound to run a balanced budget over each term of government and maintains robust reserves, it is not immune to global financial <span class=\"voc\">contagion</span>. High global bond yields inevitably push up domestic borrowing rates, elevating mortgage costs for homeowners and raising the cost of capital for local enterprises. Furthermore, global fiscal instability threatens to dampen international trade, on which Singapore's prosperity heavily relies.",
+      "Resolving this impending crisis will require painful political decisions that most democratic governments are reluctant to make. Raising taxes or slashing public spending is notoriously unpopular, yet continuing on the current fiscal trajectory is a recipe for long-term stagnation or a sudden, catastrophic crisis of confidence. <span class=\"gem\">To <span class=\"voc\">avert</span> a full-scale fiscal disaster, the rich world must urgently rediscover the virtues of fiscal discipline, recognizing that borrowing today is merely a tax on tomorrow.</span>"
+    ],
+    "cn": "几十年来，富裕国家一直生活在一种自我宽慰的幻觉中，即债务实际上是免费的。超低利率使从华盛顿到东京的各国政府得以肆无忌惮地借贷，为慷慨的社会福利计划、疫情救助和绿色转型提供资金，而似乎没有任何即时后果。然而，宏观经济格局经历了一次剧烈的调整。随着各国央行为遏制顽固的通胀而加息，廉价货币时代已经破灭，留下了如今必须以惩罚性高收益率进行再融资的巨额主权债务。\n\n当前局势尤其令人担忧，因为即使在经济相对繁荣的时期，财政赤字也异常巨大。通常，政府会在经济低迷时期积累债务，并在繁荣时期偿还。然而今天，人口老龄化、国防开支增加和气候变化减缓等结构性压力意味着，政府支出被锁定在永久上升的轨道上。例如，美国正在运行着在严重衰退之外罕见的和平时期赤字，这无疑是在玩弄危险的财政肆无忌惮。\n\n投资者开始清醒地认识到这些令人清醒的财政现实，推动主权国债收益率达到十多年未见的高位。收益率升高意味着政府必须将更大份额的税收收入仅用于支付现有债务的利息，从而挤占了在基础设施、教育和医疗保健等领域的生产性投资。如果债券卫道士们判定一个国家的债务轨迹是不可持续的，他们可能会要求更高的风险溢价，从而引发借贷成本飙升和潜在金融不稳定的恶性循环。\n\n对于像新加坡这样开放、依赖贸易的经济体来说，这些全球财政震荡具有深远的影响。尽管新加坡在法律上有义务在每届政府任期内保持预算平衡，并拥有雄厚的储备金，但它也无法免受全球金融传染的影响。全球国债收益率高企必然会推高国内借贷利率，抬高购房者的抵押贷款成本，并提高本地企业的资本成本。此外，全球财政的不稳定有可能抑制国际贸易，而新加坡的繁荣在很大程度上依赖于国际贸易。\n\n解决这场迫在眉睫的危机需要做出大多数民主国家政府不愿做出的痛苦政治决定。提高税收或削减公共开支是出了名的不得人心，但继续沿着当前的财政轨迹走下去，必将导致长期停滞或突然爆发灾难性的信心危机。为了避免全面的财政灾难，富裕世界必须迫切重新发现财政纪律的美德，认识到今天的借贷仅仅是对明天的征税。",
+    "vocab": [
+      {
+        "w": "abandon",
+        "ipa": "/əˈbæn.dən/",
+        "pos": "n.",
+        "mean": "放任 / 肆无忌惮",
+        "def": "complete lack of inhibition or restraint",
+        "ex": "During the bull market, investors poured money into tech stocks with reckless abandon."
+      },
+      {
+        "w": "profligacy",
+        "ipa": "/ˈprɒf.lɪ.ɡə.si/",
+        "pos": "n.",
+        "mean": "肆无忌惮的铺张浪费 / 挥霍",
+        "def": "reckless extravagance or wasteful spending",
+        "ex": "The opposition party criticized the government's fiscal profligacy as irresponsible."
+      },
+      {
+        "w": "refinanced",
+        "ipa": "/ˌriː.faɪˈnænst/",
+        "pos": "v. (past tense)",
+        "mean": "再融资",
+        "def": "financed again, typically with a new loan at a different rate of interest",
+        "ex": "The corporation refinanced its short-term debts before the interest rates rose further."
+      },
+      {
+        "w": "trajectory",
+        "ipa": "/trəˈdʒek.tər.i/",
+        "pos": "n.",
+        "mean": "轨道 / 发展轨迹",
+        "def": "the path followed by a flying object or a moving trend/development",
+        "ex": "Economists are closely monitoring the country's debt trajectory over the next decade."
+      },
+      {
+        "w": "vigilantes",
+        "ipa": "/ˌvɪdʒ.ɪˈlæn.tiz/",
+        "pos": "n. plural",
+        "mean": "警惕者 / 维权者 (此处特指通过抛售债券施压政府的债券卫道士)",
+        "def": "investors who express their belief about monetary or fiscal policy by selling bonds, thus driving yields up",
+        "ex": "Bond vigilantes punished the government for its loose fiscal policy by driving borrowing costs higher."
+      },
+      {
+        "w": "contagion",
+        "ipa": "/kənˈteɪ.dʒən/",
+        "pos": "n.",
+        "mean": "传染 / 金融风暴扩散",
+        "def": "the spreading of a harmful situation or financial crisis from one market to another",
+        "ex": "There are fears that the banking crisis in Europe could trigger a global financial contagion."
+      },
+      {
+        "w": "sovereign",
+        "ipa": "/ˈsɒv.rɪn/",
+        "pos": "adj.",
+        "mean": "主权的 (常指政府债务)",
+        "def": "relating to a national government, especially its debt or credit rating",
+        "ex": "The rating agency downgraded the country's sovereign debt from AAA to AA+."
+      },
+      {
+        "w": "mitigation",
+        "ipa": "/ˌmɪt.ɪˈɡeɪ.ʃən/",
+        "pos": "n.",
+        "mean": "缓解 / 减轻",
+        "def": "the action of reducing the severity, seriousness, or painfulness of something",
+        "ex": "Substantial funding was allocated for flood mitigation projects in coastal cities."
+      },
+      {
+        "w": "tremors",
+        "ipa": "/ˈtrem.ərz/",
+        "pos": "n. plural",
+        "mean": "震荡 / 颤动",
+        "def": "slight earthquakes, or minor movements/shocks in a system",
+        "ex": "The sudden collapse of the major regional bank sent tremors through the global financial markets."
+      },
+      {
+        "w": "avert",
+        "ipa": "/əˈvɜːt/",
+        "pos": "v.",
+        "mean": "避免 / 规避",
+        "def": "to prevent or ward off an undesirable occurrence",
+        "ex": "The central bank intervened aggressively to avert a full-scale systemic banking collapse."
+      }
+    ],
+    "gems": [
+      {
+        "s": "For decades, the rich world operated under the comforting illusion that debt was virtually free.",
+        "why": "This sentence uses a powerful metaphor ('comforting illusion') to critique a long-held economic assumption, setting up a sharp contrast for the analytical shift that follows. 这一句子使用了强有力的隐喻（‘令人宽慰的幻觉’）来批判长期存在的经济假设，为随后的分析转折奠定了尖锐的对比基调。"
+      },
+      {
+        "s": "To avert a full-scale fiscal disaster, the rich world must urgently rediscover the virtues of fiscal discipline, recognizing that borrowing today is merely a tax on tomorrow.",
+        "why": "This concluding sentence utilizes a balanced, aphoristic structure ('borrowing today is merely a tax on tomorrow') to deliver a memorable, persuasive punch. 这一结语利用了平衡且具有警句风格的结构（‘今天的借贷不过是对明天的征税’），传达了令人难忘且具说服力的有力观点。"
+      }
+    ]
   }
 }
