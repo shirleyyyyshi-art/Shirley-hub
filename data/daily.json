@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18",
-  "generatedAt": "2026-09-18T04:54:26.653767+00:00",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T04:45:48.824003+00:00",
   "economist": {
     "headline": "The GDP-per-person slowdown threatens global living standards",
     "teaser": "Brazil, China, Germany and Russia have recently joined an unfortunate club",
@@ -8,36 +8,315 @@
     "vocab": []
   },
   "st": {
-    "headline": "Should you buy a gangster’s Rolex or Chanel bag used by money launderers?",
-    "teaser": "Should you buy a gangster’s Rolex or Chanel bag used by money launderers?",
-    "url": "https://www.straitstimes.com/business/should-you-buy-a-gangsters-rolex-or-chanel-bag-used-by-money-launderers",
+    "headline": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
+    "teaser": "The Dow Jones Industrial Average fell 95.40 points, or 0.18 per cent; the S&P 500 gained 12.74 points, or 0.17 per cent, to 7,650.50.",
+    "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-advance-turning-the-page-on-a-tumultuous-week",
     "fullText": [
-      "Sign up for ST InvestMe and unlock full access to exclusive insights and financial literacy courses today.",
-      "SINGAPORE – When a property, luxury handbag or jewellery comes up for auction, most people assume it is a distressed sale. They usually ask, Is it real? Is it in good condition? And most importantly, is it cheap?"
+      "NEW YORK - Wall Street closed a volatile week on a muted note on Sept 18 as benchmark US Treasury yields topped 5 per cent, while crude prices reversed earlier gains but remained above US$100 (S$127) per barrel, keeping inflation worries front and centre.",
+      "The session capped a week that was essentially split in two: first, restless anticipation in the days before the US Federal Reserve’s widely expected interest rate hike , followed by the aftermath of that decision.",
+      "A semiconductor rally boosted the Nasdaq and the S&P 500, but broader weakness pulled the Dow to a lower close.",
+      "The S&P 500 ended the session with a nominal weekly loss, while the tech-laden Nasdaq closed higher than Sept 11’s finish. The blue-chip Dow suffered its biggest weekly percentage decline since March.",
+      "“It’s almost as if everybody got to the end of the week and got exhausted from all the activity this week and decided to just play it close to the vest here,” said Chuck Carlson, chief executive officer of Horizon Investment Services in Hammond, Indiana.",
+      "“A lot of investors are trying to figure out not just the short-term implications, but longer-term implications of what the Fed may be embarking on and how that’s going to impact equities and fixed-income investments.”",
+      "There is also a “reluctance to be positioned in any directional way going into the weekend in an environment where exogenous events could potentially set up some crazy trading patterns on Monday,” Carlson added.",
+      "Inflation concerns remained prominent as crude prices settled above US$100 per barrel , but they eased back from session highs after China, at the request of Saudi Arabia, asked Iran to limit attacks by Houthi rebels on Saudi oil infrastructure.",
+      "Soaring oil prices have sent diesel prices to record levels, which is likely to translate into broader inflationary pressures affecting farming and shipping costs.",
+      "“The market seems to be closely tied to movements in oil prices,” Carlson said. “So when they are trending higher for any short period of time, I think you get a little bit more of a respite in the market.”",
+      "Central banks around the globe have embarked on a policy-tightening cycle to rein in inflation fuelled by the Iran war.",
+      "The Bank of Japan lifted interest rates to a 31-year high, following in the footsteps of the Federal Reserve and the European Central Bank, in an effort to control global inflation. The Bank of England was the outlier, holding rates firm but warning of future hikes.",
+      "Financial markets are currently pricing in a 55.4 per cent probability of another Fed rate hike at the central bank’s October meeting, up from 42.5 per cent on Sept 11 and 7.2 per cent a month ago, according to CME’s FedWatch tool.",
+      "The Dow Jones Industrial Average fell 95.40 points, or 0.18 per cent, to 51,682.64, the S&P 500 gained 12.74 points, or 0.17 per cent, to 7,650.50 and the Nasdaq Composite gained 104.25 points, or 0.40 per cent, to 26,522.55.",
+      "Among the 11 major sectors in the S&P 500, technology stocks gained the most, while utilities ended with the steepest percentage loss.",
+      "Berkshire Hathaway announced that Warren Buffett will step aside as chairman to become chairman emeritus, nine months after handing the CEO position to Greg Abel. The holding company’s shares edged lower on the day.",
+      "Xenon Pharmaceuticals tumbled 30.7 per cent after it temporarily paused ​enrollment in clinical studies testing its experimental drug for ‌major and bipolar depression, following reports of side effects.",
+      "Cryptocurrency-linked firms Coinbase, Strategy and Robinhood gained between 9.1 per cent and 16.4 per cent as bitcoin prices jumped 5.9 per cent.",
+      "Declining issues outnumbered advancers by a 1.78-to-1 ratio on the New York Stock Exchange. There were 92 new highs and 346 new lows on the NYSE.",
+      "On the Nasdaq, 1,973 stocks rose and 2,810 fell as declining issues outnumbered advancers by a 1.42-to-1 ratio.",
+      "The S&P 500 posted five new 52-week highs and 30 new lows while the Nasdaq Composite recorded 45 new highs and 162 new lows.",
+      "Volume on US exchanges was 25.29 billion shares, compared with the 16.19 billion average for the full session over the last 20 trading days. REUTERS"
     ]
   },
   "cna": {
-    "headline": "Crystal Jade has now closed 5 Singapore outlets in 2026, with Clementi Mall and Jurong Point the latest",
-    "teaser": "The homegrown Chinese restaurant group, which now has 13 outlets in Singapore, says the closures are part of an ongoing review of its operations.",
-    "url": "https://www.channelnewsasia.com/dining/crystal-jade-clementi-mall-jurong-point-closure-singapore-6393736",
+    "headline": "South Korea justice nominee withdraws in Lee's second cabinet setback as polls slide",
+    "teaser": "Kim Seung-won's exit is the latest fallout from President Lee Jae Myung's cabinet reshuffle in late August.",
+    "url": "https://www.channelnewsasia.com/east-asia/south-korea-justice-minister-nominee-cabinet-setback-withdrawal-6396326",
     "fullText": [
-      "Crystal Jade has closed its Hong Kong Kitchen outlets at The Clementi Mall and Jurong Point.",
-      "The two closures bring the homegrown Chinese restaurant group’s total number of shuttered outlets in Singapore this year to five.",
-      "Crystal Jade confirmed in a statement that its Clementi Mall restaurant ceased operations on Sep 15, while its Jurong Point branch closed on Friday (Sep 18).",
-      "The latest closures are part of an ongoing review of the group’s operations, which may result in further initiatives including the closure of other outlets. Crystal Jade said details would be shared with relevant stakeholders when appropriate.",
-      "Employees affected by the closures were informed directly, with the company offering opportunities for redeployment within the group where possible.",
-      "“We are grateful for customers who support Crystal Jade. Singapore remains our home market, and we are committed to maintaining a sustainable presence here,” the group said.",
-      "The closures follow the shuttering of Crystal Jade’s Great World restaurant earlier this month. Its last day of operations was Sep 1, with the group similarly citing its ongoing operational review.",
-      "Crystal Jade also closed outlets at Hillion Mall and Suntec City earlier this year. In June 2025, its Crystal Jade La Mian Xiao Long Bao restaurant in Holland Village closed after two decades in the neighbourhood.",
-      "Following the latest closures, Crystal Jade’s website lists 13 restaurants in Singapore across six brands.",
-      "Its Hong Kong Kitchen brand will have four remaining locations: At Causeway Point, Takashimaya Shopping Centre, One Holland Village and Tampines 1.",
-      "Crystal Jade, founded in Singapore in 1991, grew into a major Chinese restaurant group both locally and overseas, earning Michelin recognition for some of its restaurants. At its peak in 2015, it operated 120 restaurants worldwide, including 47 in Singapore.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "SEOUL: South Korean President Lee Jae Myung 's nominee for justice minister withdrew from consideration on Saturday (Sep 19), the second of Lee's cabinet picks to step aside this month as his approval ratings slump.",
+      "Kim Seung-won's exit follows the withdrawal of Yong Hye-in as nominee for gender-equality minister on Sunday, in the latest fallout from Lee's cabinet reshuffle in late August.",
+      "Kim, who said he did not want to add any burden to Lee's administration, criticised a conservative lawmaker who had accused him of lobbying regulators over a drug trial and of financial irregularities. Kim has denied the allegations.",
+      "\"I gravely accept that I did not meet the public's expectations, and I will deeply reflect on my shortcomings,\" Kim told a press conference.",
+      "A Gallup Korea poll released on Friday put Lee's public approval at 37 per cent, the lowest since he took office in June 2025, a decline pollsters have partly linked to criticism over his personnel appointments.",
+      "At a press conference on Friday, Lee acknowledged shortcomings in his administration's screening of nominees.",
+      "\"We are currently working to reexamine our personnel system,\" the president said.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday.",
+      "An automated curation of our top stories to start your day."
     ]
   },
   "mom": {
     "headline": "Launch of Sites for Purpose-Built Dormitories in 2026-2027",
     "teaser": "As of Jun 2026, there are approximately 1,600 dormitories providing around 467,000 beds for migrant workers. As part of the Government's continuous efforts to build up a sufficient supply of dormitory beds for migrant worker accommodation, two new Purpose-Built Dormitory (PBD) sites will be released over the next year ",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0911-launch-of-sites-for-purpose-built-dormitories-in-2026-2027"
+  },
+  "lifeVocab": [
+    {
+      "en": "commuter",
+      "cn": "通勤者/乘客",
+      "def": "a person who travels some distance to work on a regular basis",
+      "ex": "Many commuters in Singapore use the MRT daily to beat the morning rush.",
+      "emoji": "🚇"
+    },
+    {
+      "en": "concourse",
+      "cn": "大厅/大堂",
+      "def": "a large open area on which people meet or travel through, especially in a station",
+      "ex": "Meet me at the station concourse near the passenger service centre.",
+      "emoji": "🚉"
+    },
+    {
+      "en": "gantry",
+      "cn": "闸机/票口",
+      "def": "a bridge-like structure, used in SG to refer to the fare gates at stations",
+      "ex": "Please tap your EZ-Link card at the gantry to enter the platform.",
+      "emoji": "💳"
+    },
+    {
+      "en": "shuttle bus",
+      "cn": "接驳巴士",
+      "def": "a bus that travels regularly between two places",
+      "ex": "Bridging shuttle buses were deployed during the train service disruption.",
+      "emoji": "🚌"
+    },
+    {
+      "en": "disruption",
+      "cn": "中断/故障",
+      "def": "disturbance or problems which interrupt an event, activity, or process",
+      "ex": "The MRT disruption caused major delays during the evening peak hours.",
+      "emoji": "⚠️"
+    },
+    {
+      "en": "transit",
+      "cn": "过境/公共交通",
+      "def": "the carrying of people or goods from one place to another",
+      "ex": "Singapore's mass rapid transit system is highly efficient.",
+      "emoji": "🗺️"
+    },
+    {
+      "en": "berth",
+      "cn": "巴士停靠位",
+      "def": "a designated location in a bus interchange for boarding",
+      "ex": "Passengers are queued up at berth B3 for bus service 190.",
+      "emoji": "🏣"
+    },
+    {
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "a moving staircase",
+      "ex": "Please stand on the left of the escalator to let others pass on the right.",
+      "emoji": "🛗"
+    },
+    {
+      "en": "peak hour",
+      "cn": "高峰时段",
+      "def": "the busiest hours of the day for travel",
+      "ex": "ERP rates are higher during peak hours to control traffic congestion.",
+      "emoji": "🚗"
+    },
+    {
+      "en": "feeder service",
+      "cn": "支线巴士服务",
+      "def": "a local bus service that transports passengers to a main transit station",
+      "ex": "I usually take a feeder service from my HDB block to the MRT station.",
+      "emoji": "🚍"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "propensity",
+      "ipa": "/prəˈpensəti/",
+      "pos": "n.",
+      "cn": "倾向/偏好",
+      "def": "a natural tendency to behave in a particular way",
+      "ex": "The team showed a propensity for risk-taking during the product design phase."
+    },
+    {
+      "w": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
+      "pos": "v.",
+      "cn": "调和/使一致",
+      "def": "to find a way in which two opposing ideas can both be true",
+      "ex": "We need to reconcile the budget shortfall with our long-term marketing goals."
+    },
+    {
+      "w": "precursor",
+      "ipa": "/priːˈkɜːsə/",
+      "pos": "n.",
+      "cn": "先驱/前兆",
+      "def": "something that happened or existed before another thing",
+      "ex": "Strong Q3 sales are often a precursor to annual bonuses."
+    },
+    {
+      "w": "deviate",
+      "ipa": "/ˈdiːvieɪt/",
+      "pos": "v.",
+      "cn": "偏离",
+      "def": "to do something that is different from what is usual or expected",
+      "ex": "We cannot afford to deviate from the project timeline given the strict client deadline."
+    },
+    {
+      "w": "adversity",
+      "ipa": "/ədˈvɜːsəti/",
+      "pos": "n.",
+      "cn": "逆境/不幸",
+      "def": "a difficult or unpleasant situation",
+      "ex": "The company showed great strength and adaptability when facing economic adversity."
+    },
+    {
+      "w": "appraise",
+      "ipa": "/əˈpreɪz/",
+      "pos": "v.",
+      "cn": "评估/估价",
+      "def": "to assess the value or quality of something",
+      "ex": "Managers will appraise each employee's performance next month during the annual review."
+    },
+    {
+      "w": "foster",
+      "ipa": "/ˈfɒstə/",
+      "pos": "v.",
+      "cn": "培养/促进",
+      "def": "to encourage or promote the development of something",
+      "ex": "The leadership team aims to foster a culture of open communication and continuous learning."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈperətɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的",
+      "def": "extremely important or urgent",
+      "ex": "It is imperative that we submit the security audit proposal before the weekend."
+    },
+    {
+      "w": "superfluous",
+      "ipa": "/suːˈpɜːfluəs/",
+      "pos": "adj.",
+      "cn": "多余的/累赘的",
+      "def": "more than is needed; unnecessary",
+      "ex": "Please delete any superfluous details from the presentation to keep it concise."
+    },
+    {
+      "w": "allay",
+      "ipa": "/əˈleɪ/",
+      "pos": "v.",
+      "cn": "消除/平息",
+      "def": "to diminish or put at rest fear, suspicion, or worry",
+      "ex": "The CEO's email helped allay fears about upcoming organizational layoffs."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore's Strategy for the Silver Tsunami",
+    "transcript": "As Singapore's population rapidly ages, the government is intensifying efforts to build elder-friendly <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪnfrəstrʌktʃə/ (n.) the basic systems and services that a country or organization uses — 基础设施\">infrastructure</span>. From upgrading HDB estates to introducing elder-care active aging hubs, the city-state is investing heavily to ensure seniors can live independently. However, observers note that these structural shifts require a massive workforce <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃn/ (n.) the process of changing from one state or condition to another — 过渡/转型\">transition</span>, particularly in the healthcare sector, to support the growing demand."
+  },
+  "economistArticle": {
+    "title": "The Global Grind: How a Per-Capita Slowdown Threatens Prosperity",
+    "paras": [
+      "For decades, global citizens took it for granted that each generation would grow wealthier than the last. This silent compact, <span class=\"voc\">underpinned</span> by rising gross domestic product (GDP) per person, is now <span class=\"voc\">fracturing</span>. In powerhouse economies and emerging markets alike, the rate of per-capita growth has <span class=\"voc\">decelerated</span> sharply. Heavyweights such as Germany, Brazil, China, and Russia have recently crossed the threshold into this stagnant club, signalling a broader systemic rot in productivity.",
+      "<span class=\"gem\">When GDP per person plateaus, the societal consequences are rarely immediate but always <span class=\"voc\">insidious</span>.</span> It means less capital for public services, widening fiscal deficits, and a general <span class=\"voc\">malaise</span> in the labour market. In developed markets like Germany, an aging population coupled with high energy costs has choked off industrial output. For emerging giants like China, structural real-estate <span class=\"voc\">wobbles</span> and demographic headwinds are compounding the misery, suggesting that the era of runaway growth has run its course.",
+      "To understand this phenomenon, economists point to a <span class=\"voc\">stagnation</span> in total factor productivity. Without genuine innovation or structural reforms, countries are merely adding inputs—more labor, more capital—without generating higher output per unit. This reliance on debt-fueled investment rather than technological efficiency has caught up with Russia and Brazil, where commodity dependence has left them vulnerable to external shocks and incapable of sustaining long-term productivity gains.",
+      "The implications for global living standards are profound. When economic growth stalls on a per-capita basis, politics turns into a zero-sum game. <span class=\"gem\">Rather than fighting over a growing pie, interest groups and social classes battle over how to divide a shrinking one.</span> It fosters <span class=\"voc\">populism</span>, sparks protectionist trade policies, and ultimately erodes faith in liberal democratic institutions that once promised endless progress.",
+      "Reversing this slide requires radical interventions. Governments must <span class=\"voc\">pivot</span> away from short-term fiscal bandages and focus on deep structural overhauls. This includes reforming tax codes, liberalizing services, and investing heavily in high-value education. Only by unleashing private-sector <span class=\"voc\">dynamism</span> and fostering true innovation can countries hope to break free from the per-capita trap and restore the promise of upward mobility for the next generation."
+    ],
+    "cn": "几十年来，全球公民都理所当然地认为，下一代会比上一代更加富有。这种以人均国内生产总值（GDP）增长为基础的无形默契，如今正在破裂。无论是在强国经济体还是在新兴市场，人均增长率都急剧下降。德国、巴西、中国和俄罗斯等重量级国家最近也加入了这个停滞不前的俱乐部，标志着生产力出现了更广泛的系统性衰退。当人均GDP陷入停滞时，社会后果很少立竿见影，但总是悄然而至。这意味着用于公共服务的资金减少、财政赤字扩大以及劳动力市场普遍低迷。在德国等发达市场，人口老龄化加之高昂的能源成本遏制了工业产出。而对于中国这样的新兴巨头，结构性房地产动荡和人口红利减退正在加剧痛苦，这表明狂飙增长的时代已经走到尽头。为了理解这一现象，经济学家指出全要素生产率陷入了停滞。如果没有真正的创新或结构性改革，各国只是在增加投入——更多的劳动力、更多的资本——而没有提高单位产出。这种对债务驱动型投资而非技术效率的依赖，让俄罗斯和巴西自食其果，大宗商品依赖使它们容易受到外部冲击，且无法维持长期的生产力增长。人均GDP放缓对全球生活水平的影响是深远的。当人均经济增长停滞时，政治就会变成一场零和博弈。利益集团和社会阶层不再为争夺做大蛋糕而奋斗，而是为如何瓜分正在缩小的蛋糕而争斗。这助长了民粹主义，引发了保护主义贸易政策，并最终侵蚀了人们对曾经承诺无限进步的自由民主制度的信心。扭转这一下滑趋势需要激进的干预。政府必须摒弃短期的财政创可贴政策，专注于深层的结构性改革。这包括改革税法、放宽服务业准入以及大力投资高价值教育。只有释放私营部门的活力并培育真正的创新，各国才能摆脱人均陷阱，为下一代重新恢复向上流动的承诺。",
+    "vocab": [
+      {
+        "w": "underpinned",
+        "ipa": "/ˌʌndəˈpɪnd/",
+        "pos": "v. (past participle)",
+        "mean": "巩固/支持",
+        "def": "supported, structured, or strengthened from below",
+        "ex": "This silent compact, underpinned by rising gross domestic product (GDP) per person, is now fracturing."
+      },
+      {
+        "w": "fracturing",
+        "ipa": "/ˈfræktʃərɪŋ/",
+        "pos": "v.",
+        "mean": "破裂/断裂",
+        "def": "breaking or splitting, as in a relationship or system",
+        "ex": "The global trade system is slowly fracturing into localized blocs."
+      },
+      {
+        "w": "insidious",
+        "ipa": "/ɪnˈsɪdiəs/",
+        "pos": "adj.",
+        "mean": "潜伏的/不知不觉中产生危害的",
+        "def": "proceeding in a gradual, subtle way, but with harmful effects",
+        "ex": "High debt levels pose an insidious threat to corporate stability."
+      },
+      {
+        "w": "malaise",
+        "ipa": "/mæˈleɪz/",
+        "pos": "n.",
+        "mean": "低迷/不适",
+        "def": "a general feeling of discomfort, illness, or uneasiness whose exact cause is difficult to identify",
+        "ex": "An economic malaise has spread across the region, lowering business sentiment."
+      },
+      {
+        "w": "wobbles",
+        "ipa": "/ˈwɒbəlz/",
+        "pos": "n. (plural)",
+        "mean": "摇摆/不稳定",
+        "def": "unsteady movements or periods of instability",
+        "ex": "The property market experienced a few temporary wobbles last quarter."
+      },
+      {
+        "w": "stagnation",
+        "ipa": "/stæɡˈneɪʃn/",
+        "pos": "n.",
+        "mean": "停滞/不景气",
+        "def": "a state of not flowing or active; lack of activity, growth, or development",
+        "ex": "The country is facing a period of prolonged economic stagnation."
+      },
+      {
+        "w": "dynamism",
+        "ipa": "/ˈdaɪnəmɪzəm/",
+        "pos": "n.",
+        "mean": "活力/动态力",
+        "def": "the quality of being characterized by vigorous activity and progress",
+        "ex": "The rapid growth reflects the sheer dynamism of the local tech startup ecosystem."
+      },
+      {
+        "w": "populism",
+        "ipa": "/ˈpɒpjʊlɪzəm/",
+        "pos": "n.",
+        "mean": "民粹主义",
+        "def": "a political approach that strives to appeal to ordinary people who feel that their concerns are disregarded by established elite groups",
+        "ex": "The rise of economic anxiety has fueled populism in several western nations."
+      },
+      {
+        "w": "pivot",
+        "ipa": "/ˈpɪvət/",
+        "pos": "v.",
+        "mean": "转向/围绕中心旋转",
+        "def": "completely change direction, strategy, or focus",
+        "ex": "The firm had to pivot to online sales during the pandemic to survive."
+      },
+      {
+        "w": "decelerated",
+        "ipa": "/diːˈseləreɪtɪd/",
+        "pos": "v. (past tense)",
+        "mean": "放缓/减速",
+        "def": "reduced in speed; slowed down",
+        "ex": "The rate of per-capita growth has decelerated sharply over the past three fiscal years."
+      }
+    ],
+    "gems": [
+      {
+        "s": "When GDP per person plateaus, the societal consequences are rarely immediate but always insidious.",
+        "why": "This sentence uses a contrast ('rarely immediate but always insidious') to emphasize the slow-burning threat of economic stagnation, making it highly persuasive. 这里使用对比手法（‘很少立竿见影，但总是潜移默化地产生危害’）来强调经济停滞的隐蔽危害，极具说服力。"
+      },
+      {
+        "s": "Rather than fighting over a growing pie, interest groups and social classes battle over how to divide a shrinking one.",
+        "why": "The author employs the classic 'economic pie' metaphor to vividly illustrate how slow growth shifts political dynamics from collaborative expansion to zero-sum conflict. 作者使用了经典的‘经济蛋糕’比喻，形象地说明了经济增长放缓如何将政治动态从合作扩张转变为零和博弈。"
+      }
+    ]
   }
 }
