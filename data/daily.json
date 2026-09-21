@@ -1,63 +1,44 @@
 {
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-20T05:02:24.470524+00:00",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T05:08:38.537182+00:00",
   "economist": {
-    "headline": "The GDP-per-person slowdown threatens global living standards",
-    "teaser": "Brazil, China, Germany and Russia have recently joined an unfortunate club",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
+    "headline": "House prices survived the last interest-rate rise. Will they this time?",
+    "teaser": "Supports that shored up the housing market when borrowing costs last rose are gone",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
     "vocab": []
   },
   "st": {
-    "headline": "UOB shares rise after Fed hikes rates; yen weakens against Singdollar: Markets this week",
-    "teaser": "Banks, including RHB and UOB, expect the US Fed to hike rates at the December meeting.",
-    "url": "https://www.straitstimes.com/business/uob-shares-rise-after-fed-hikes-rates-yen-weakens-against-singdollar-markets-this-week",
+    "headline": "Australian regulator sues retailer’s ex-CEO for misleading market over alleged office romance",
+    "teaser": "The Australian Securities and Investments Commission",
+    "url": "https://www.straitstimes.com/business/australian-regulator-sues-retailers-ex-ceo-for-misleading-market-over-alleged-office-romance",
     "fullText": [
-      "SINGAPORE – The US Federal Reserve’s latest rate hike on Sept 16 offered a potentially more favourable earnings backdrop for Singapore banks by supporting local interest rates and slowing the compression in net interest margins (NIMs), although this did not translate into broad share price gains over the week.",
-      "NIMs measure how much a bank makes from lending after accounting for its funding costs.",
-      "UOB rose 1.26 per cent across the week to close Sept 18 at $41.78, while DBS slipped 0.18 per cent to $76.86 and OCBC fell 0.7 per cent to $31.38.",
-      "The Fed raised its benchmark interest rate by 25 basis points to a target range of 3.75 per cent to 4 per cent for the first time since 2023, as inflation remained elevated and the US economy stayed resilient.",
-      "Most analysts now expect further rate hikes in the months to come, with RHB expecting one more 25-basis-point hike and UOB anticipating two more hikes in December 2026 and the first quarter of 2027, followed by a pause for the remainder of 2027.",
-      "For Singapore banks, a higher-for-longer US rate environment could provide some relief to NIMs, as elevated US rates can filter through to Singapore interest rates as investors demand comparable returns here to keep their money in Singapore-dollar assets.",
-      "This would allow banks to reprice loans at higher rates and support net interest income (NII), which had been under pressure as rates declined during the first half of 2026.",
-      "Macquarie Equity Research’s Jayden Vantarakis said that while all three local banks stand to benefit from higher Singapore rates, UOB has the most to gain.",
-      "About 43 per cent of UOB’s loans are denominated in Singapore dollars, compared with 37 per cent to 38 per cent for DBS and OCBC. UOB also earns more NII in its revenue mix, at 66 per cent, compared with about 58 per cent for its two peers, said Vantarakis.",
-      "The Japanese yen weakened against the Singdollar even after the Bank of Japan (BOJ) raised rates by 25 basis points to 1.25 per cent on Sept 18, its highest level since 1995.",
-      "The yen was trading at 122.941 against the Sing dollar on Sept 18, from 121.148 on Sept 11.",
-      "The yen also slumped against the greenback, trading at 156.880 per US dollar on Sept 18, from 153.571 on Sept 11.",
-      "Still, BlackRock head of global fixed income for Asia-Pacific Navin Saigal said the BOJ’s rate hike marked another step in Japan’s gradual but important transition away from the deflationary environment that shaped much of the past three decades.",
-      "“The decision should therefore be viewed... more as part of a broader transition towards a more normal economic and interest-rate environment.”",
-      "He added that the move could reinforce confidence that the BOJ is serious about gradually raising interest rates from exceptionally low levels, which should strengthen the yen and reduce the need for investors to demand higher yields on longer-term Japanese government bonds.",
-      "T. Rowe Price portfolio specialist for Japanese equity strategy Daniel Hurley added that he expects the BOJ to continue tightening its monetary policy as domestic conditions warrant further rate increases and the yen remains “very cheap” on a range of measures.",
-      "Gold edged up above US$4,300 per ounce on Sept 18, after a temporary slump following the Fed’s decision to raise interest rates.",
-      "However, gains were limited by a stronger US dollar, which remained supported after the Fed raised rates and signalled further hikes in the coming months. This means that gold becomes more expensive for non-US buyers.",
-      "Higher yields on dollar-denominated assets such as US Treasuries can also make gold relatively less attractive, as the yellow metal does not pay interest.",
-      "Nevertheless, DWS said that it maintains a positive view on gold, supported by continued central bank buying, fiscal concerns and diversification away from US Treasuries.",
-      "The asset manager expects gold to reach US$5,000 per ounce by September 2027, but noted that high bond yields are likely to limit the upside potential of the precious metal.",
-      "Oil prices fell about 2 per cent on Sept 18, although they stayed above US$100 a barrel.",
-      "Reports indicated that Saudi Arabia was restoring capacity on its damaged East-West pipeline faster than expected and diverting additional crude exports through Oman, easing concerns about supply disruptions.",
-      "Still, DBS economists pointed out on Sept 18 that there is no resolution to the Middle East crisis in sight.",
-      "High oil prices could still push inflation up, which may pressure some central banks to raise rates, the economists said.",
-      "Shares of Singapore Airlines fell 2.25 per cent to $6.51 after UOB Kay Hian downgraded the airline to a “sell” after a renewed escalation of Middle East tensions sent jet fuel prices rising.",
-      "UOB Kay Hian also cut the price target to $6.16, from the previous $6.71, and slashed SIA’s net profit guidance for the second quarter of the 2027 financial year to between $230 million and $370 million, from between $240 million and $460 million.",
-      "“Jet fuel prices are likely to remain elevated in the near term, creating continued pressure on SIA’s profitability,” said analyst Roy Chen.",
-      "SIA posted a net loss of $76 million for the first quarter, down from a net profit of $186 million a year ago, due partly to rising jet fuel costs.",
-      "Metrocon made its debut on the Singapore Exchange’s Catalist board on Sept 15, closing its first trading day at 23.5 cents, or 17.5 per cent above its 20 cents placement price."
+      "SYDNEY – Australia’s corporate regulator said on Sept 21 it would sue the former chief executive of Super Retail Group, accusing him of misleading the board and the market about an alleged relationship with a senior executive.",
+      "Anthony Heraghty was sacked as CEO by the retailer’s board in September 2025 after it concluded he had inadequately disclosed the alleged relationship with the company’s former head of human resources, Jane Kelly.",
+      "The Australian Securities and Investments Commission (ASIC) said it was taking Heraghty to court because his conduct breached his directors’ duties and exposed Super Retail to “foreseeable risks of harm”.",
+      "Heraghty did not immediately respond to a request for comment sent through LinkedIn.",
+      "The risks included potential damage to the company’s reputation, complaints and litigation, regulatory action and harm to its share price and shareholders, the regulator said.",
+      "“ASIC alleges Mr Heraghty put himself in a position where his personal interests conflicted with his duties to Super Retail Group and that he failed to properly disclose and manage that conflict,” ASIC Chair Sarah Court said in a statement.",
+      "“This case is not about private relationships, but whether a director properly disclosed and managed conflicts of interest and met their duties to the company and shareholders.”",
+      "ASIC said it was seeking declarations of contravention, financial penalties and disqualification orders.",
+      "Heraghty became chief executive of Winning Group, a privately owned kitchen and appliance retailer, in July. Winning is preparing for an Australian IPO, local media have reported. The company did not immediately respond to a request for comment from Reuters.",
+      "ASIC alleged Heraghty supervised Kelly and participated in decisions affecting her employment, remuneration, incentives and redundancy package despite their alleged relationship.",
+      "Heraghty also participated in board and committee discussions of complaints about the scandal and provided or authorised information released to the board and market about the alleged relationship that was misleading, ASIC said.",
+      "Super Retail, which owns popular chains such as Supercheap Auto, Rebel Sport, BCF and Macpac, also faced legal action brought by two former employees who alleged they were harassed after raising whistleblower complaints about the alleged relationship. The cases were settled in September 2025. REUTERS"
     ]
   },
   "cna": {
-    "headline": "Van dominates Pantoja to retain flyweight belt in UFC 331",
-    "teaser": "Van dominates Pantoja to retain flyweight belt in UFC 331",
-    "url": "https://www.channelnewsasia.com/sport/van-dominates-pantoja-retain-flyweight-belt-in-ufc-331-6397321",
+    "headline": "AC Milan boss Amorim determined to learn from mistakes at Man Utd",
+    "teaser": "AC Milan boss Amorim determined to learn from mistakes at Man Utd",
+    "url": "https://www.channelnewsasia.com/sport/ac-milan-boss-amorim-determined-learn-mistakes-man-utd-6398776",
     "fullText": [
-      "Sept 19 : Joshua Van put on a striking masterclass to secure a unanimous decision win over Alexandre Pantoja to retain his flyweight title in UFC 331 in Los Angeles, as the 24-year-old from Myanmar settled the score with the former champion after their first fight ended with a freak injury.",
-      "Pantoja had suffered an accidental elbow dislocation 26 seconds into their first fight in December last year, resulting in Van becoming the UFC flyweight champion without an outright win over the Brazilian, who had reigned over the division for over two years.",
-      "Van, the first UFC champion from Myanmar, defended the belt against Tatsuro Taira in May but was left waiting until Saturday to seal his status as the best in the division as 36-year-old Pantoja recovered from the injury.",
-      "\"A lot of people said that was an accidental win... well, doubt me now,\" said Joshua after his second title defence that extended his professional MMA record to 18 wins and two losses.",
-      "\"You're too good to brawl with this guy,\" Van's coaches told him during the break, suggesting a more tactical approach.",
-      "Van peppered Pantoja with left-handed jabs in the second round, and rocked the Brazilian with a fluid combination of punches in the third. Pantoja controlled the fourth round as he took Van down but was unable to submit him.",
-      "In the final round, Van stalked Pantoja and knocked him down with an overhand right, securing the win in the judges' scorecards.",
-      "In the co-main event, Armenian contender Arman Tsarukyan staked his claim for a shot at the lightweight title when he pinned Maurício Ruffy to the cage, rocked him with a left elbow and knocked him out with a right elbow with four seconds to spare in the first round.",
-      "\"I knew my time would come, so I was patient,\" said Tsarukyan, who extended his win streak to six fights, as he called for a bout with champion Justin Gaethje.",
+      "Sept 21 : AC Milan coach Ruben Amorim said he allowed his side to play with more freedom during their 3-0 Serie A win over Lecce and that he would not make the same tactical errors that came to define his unsuccessful spell at Manchester United.",
+      "The 41-year-old had persisted with a back three at United, employing the system in 45 of his 47 Premier League matches in charge of the club, of which he won just 15.",
+      "He also guided United to their worst-ever finish of 15th in the 2024-25 season.",
+      "Amorim's rigidity became a point of frustration for fans and former United players, and while he briefly shifted to a back four towards the end of his stint, the damage was already done and he was sacked by United in January.",
+      "\"We had difficulties in the last games, because the structure was really blocked in the positions, but the players had a little more freedom, and they played better with a little more freedom,\" he said.",
+      "\"What I felt in the last games is the same that I felt at Manchester United, and I cannot make the same mistake.",
+      "\"Sometimes we don't have the perfect characteristics to play in that way, and if we don't have it, we have to adapt.",
+      "\"I think today it worked, in another game we can return to the build-up with three, the important thing is to have different ways of playing.\"",
       "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
@@ -65,266 +46,5 @@
     "headline": "Launch of Sites for Purpose-Built Dormitories in 2026-2027",
     "teaser": "As of Jun 2026, there are approximately 1,600 dormitories providing around 467,000 beds for migrant workers. As part of the Government's continuous efforts to build up a sufficient supply of dormitory beds for migrant worker accommodation, two new Purpose-Built Dormitory (PBD) sites will be released over the next year ",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0911-launch-of-sites-for-purpose-built-dormitories-in-2026-2027"
-  },
-  "lifeVocab": [
-    {
-      "en": "EZ-Link card",
-      "cn": "易通卡",
-      "def": "A contactless smartcard used for paying public transit fares in Singapore.",
-      "ex": "Don't forget to top up your EZ-Link card before boarding the MRT.",
-      "emoji": "💳"
-    },
-    {
-      "en": "gantry",
-      "cn": "闸机",
-      "def": "The electronic gate at MRT stations where passengers tap their transit cards to enter or exit.",
-      "ex": "Please tap your card at the gantry to enter the station.",
-      "emoji": "🚧"
-    },
-    {
-      "en": "peak hour",
-      "cn": "高峰时段",
-      "def": "The busiest times of the day for travel, typically when people commute to and from work.",
-      "ex": "The MRT trains are always packed to the brim during peak hours.",
-      "emoji": "👥"
-    },
-    {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "A person who travels some distance to work on a regular basis.",
-      "ex": "Daily commuters appreciate the efficiency of Singapore's public transport system.",
-      "emoji": "🧑‍💼"
-    },
-    {
-      "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "Sliding doors at train stations that separate the platform from the tracks for safety.",
-      "ex": "Please stand behind the yellow line and wait for the platform screen doors to open.",
-      "emoji": "🚪"
-    },
-    {
-      "en": "interchange",
-      "cn": "转换站",
-      "def": "A transit station where passengers can change from one line to another.",
-      "ex": "Dhoby Ghaut is a busy interchange connecting three different MRT lines.",
-      "emoji": "🔄"
-    },
-    {
-      "en": "disruption",
-      "cn": "（运行）中断 / 故障",
-      "def": "An unexpected event that prevents a system or process from continuing as normal.",
-      "ex": "The train disruption this morning caused many commuters to be late for work.",
-      "emoji": "⚠️"
-    },
-    {
-      "en": "feeder bus",
-      "cn": "接驳巴士",
-      "def": "A local bus service that transports passengers from neighborhoods to nearby MRT stations.",
-      "ex": "I take a short ride on a feeder bus to get to the nearest MRT station from my home.",
-      "emoji": "🚌"
-    },
-    {
-      "en": "escalator etiquette",
-      "cn": "自动扶梯礼仪",
-      "def": "The social rule of standing on one side of the escalator to let others walk past on the other.",
-      "ex": "In Singapore, practicing good escalator etiquette means standing on the left and keeping the right side clear.",
-      "emoji": "🪜"
-    },
-    {
-      "en": "priority cabin",
-      "cn": "优先车厢 / 关怀车厢",
-      "def": "A designated carriage or seating area in a train meant for passengers with special needs.",
-      "ex": "The priority cabin is meant for the elderly, pregnant women, and passengers with mobility issues.",
-      "emoji": "♿"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "contingency",
-      "ipa": "/kənˈtɪndʒənsi/",
-      "pos": "n.",
-      "cn": "应急预案 / 偶发事件",
-      "def": "A future event or circumstance which is possible but cannot be predicted with certainty.",
-      "ex": "Our department has created a contingency plan in case the main server fails during the system upgrade."
-    },
-    {
-      "w": "deviate",
-      "ipa": "/ˈdiːvieɪt/",
-      "pos": "v.",
-      "cn": "偏离 / 违背",
-      "def": "To depart from an established course or normal standards.",
-      "ex": "We must not deviate from the safety protocols outlined in the standard operating procedures."
-    },
-    {
-      "w": "vanguard",
-      "ipa": "/ˈvænɡɑːrd/",
-      "pos": "n.",
-      "cn": "前沿 / 先锋",
-      "def": "A group of people leading the way in new developments or ideas.",
-      "ex": "Singapore aims to be in the vanguard of green technology adoption in Southeast Asia."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsemɪneɪt/",
-      "pos": "v.",
-      "cn": "传播 / 散布",
-      "def": "To spread information, knowledge, or news widely to a large group of people.",
-      "ex": "The HR department will disseminate the new remote-working policy via email tomorrow."
-    },
-    {
-      "w": "impediment",
-      "ipa": "/ɪmˈpedɪmənt/",
-      "pos": "n.",
-      "cn": "阻碍 / 障碍",
-      "def": "A hindrance or obstruction in doing something.",
-      "ex": "Language barriers can be a major impediment to smooth international business negotiations."
-    },
-    {
-      "w": "preclude",
-      "ipa": "/prɪˈkluːd/",
-      "pos": "v.",
-      "cn": "排除 / 妨碍 / 阻止",
-      "def": "To prevent something from happening or make it impossible.",
-      "ex": "Signing this non-disclosure agreement will preclude you from working with our direct competitors."
-    },
-    {
-      "w": "salient",
-      "ipa": "/ˈseɪliənt/",
-      "pos": "adj.",
-      "cn": "显著的 / 最突出的",
-      "def": "Most noticeable, important, or prominent.",
-      "ex": "Let me summarize the salient points of the business proposal before we begin the Q&A session."
-    },
-    {
-      "w": "ubiquitous",
-      "ipa": "/juːˈbɪkwɪtəs/",
-      "pos": "adj.",
-      "cn": "无处不在的 / 普遍存在的",
-      "def": "Present, appearing, or found everywhere.",
-      "ex": "Digital payment methods have become ubiquitous across Singapore's food centers and shopping malls."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "增强 / 扩大 / 增加",
-      "def": "To make something greater by adding to it; to increase.",
-      "ex": "We plan to hire freelance designers to augment our in-house creative team for this project."
-    },
-    {
-      "w": "reticent",
-      "ipa": "/ˈretɪsnt/",
-      "pos": "adj.",
-      "cn": "寡言的 / 谨慎的 / 有保留的",
-      "def": "Not revealing one's thoughts or feelings readily.",
-      "ex": "The manager was reticent about the details of the upcoming company merger during the town hall."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore's Move Towards a Cashless Transit Network",
-    "transcript": "As digital payment systems become increasingly <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsiːmləs/ (adj.) smooth and without any obvious gaps or problems — 无缝的，顺畅的\">seamless</span>, Singapore is pushing further towards a fully cashless transit network. While commuters appreciate the convenience of tapping their smart devices at station gantries, some senior citizens express anxiety over the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃn/ (n.) the process of changing from one state or condition to another — 过渡，转变\">transition</span>. To address these concerns, localized helpdesks have been established at several major MRT interchanges to assist residents in navigating the new payment options."
-  },
-  "economistArticle": {
-    "title": "The Creeping Paralysis of Global Prosperity",
-    "paras": [
-      "For decades, the engine of global economic progress seemed unstoppable, steadily lifting millions out of poverty and boosting average incomes. But beneath the surface of aggregate economic statistics, a more troubling metric is flashing amber: GDP-per-person growth is <span class=\"voc\">decelerating</span> across a worrying number of major economies. <span class=\"gem\">This slowdown threatens to arrest the rise of living standards, leaving citizens wealthier on paper but <span class=\"voc\">stagnant</span> in practice.</span>",
-      "Germany, long the industrial powerhouse of Europe, is <span class=\"voc\">grappling</span> with demographic headwinds and costly energy transitions that stall individual wealth creation. Meanwhile, Russia's geopolitical isolation and heavily militarized economy have diverted productive capital away from welfare-enhancing sectors. Even China, whose <span class=\"voc\">breakneck</span> growth previously redefined global trade, now faces a structural property slump and declining productivity, joining the ranks of nations struggling to boost output per capita.",
-      "In Latin America, Brazil remains caught in a persistent middle-income trap, hampered by fiscal instability and <span class=\"voc\">underwhelming</span> educational outcomes. <span class=\"gem\">When these diverse giants simultaneously experience a stall in output per citizen, the global economic landscape shifts from a tide that lifts all boats to a zero-sum scramble for <span class=\"voc\">dwindling</span> gains.</span> This demographic and productivity squeeze forces governments to make painful trade-offs between social spending and future investment.",
-      "The <span class=\"voc\">ramifications</span> of this trend extend far beyond corporate balance sheets. Without robust productivity gains, public services decay, social mobility freezes, and political <span class=\"voc\">polarization</span> intensifies. To <span class=\"voc\">avert</span> a prolonged era of stagnation, policymakers must look past headline growth figures and implement reforms that <span class=\"voc\">systematically</span> raise individual output—through technological adaptation, labor reform, and sustained human capital development."
-    ],
-    "cn": "几十年来，全球经济增长的引擎似乎势不可挡，它稳步地使数千万人摆脱贫困，并提高了平均收入。然而，在宏观经济统计数据的表面之下，一个更令人担忧的指标正在闪烁橙色预警信号：人均国内生产总值（GDP）的增长在许多主要经济体中正在放缓。这种减速可能会阻碍生活水平的提高，使公民在纸面上看起来更富有，但在实际生活中却处于停滞状态。\n\n长期作为欧洲工业重镇的德国，目前正在努力应对人口结构方面的阻力以及昂贵的能源转型，这些因素阻碍了个人财富的创造。与此同时，俄罗斯在地理政治上的孤立和高度军事化的经济，使生产性资本偏离了能提升福利的部门。即使是曾经以极快增速重新定义全球贸易的中国，如今也面临着结构性的房地产低迷和生产率下降，加入了难以提高人均产出的国家行列。\n\n在拉丁美洲，巴西仍深陷于持久的中等收入陷阱，受到财政不稳定和不尽人意的教育成果的掣肘。当这些处于不同发展阶段的巨头同时经历人均产出停滞时，全球经济格局就从“水涨船高”转变为对逐渐减少的利益进行零和博弈。这种人口和生产率的双重挤压迫使政府在社会支出与未来投资之间做出痛苦的抉择。\n\n这一趋势的后果远远超出了企业的资产负债表。如果没有强劲的生产率增长，公共服务就会衰退，社会流动性就会冻结，政治极化也会加剧。为了避免步入长期的停滞时代，决策者必须超越名义增长数据，并实施系统性提高个人产出的改革——通过技术调适、劳动力市场改革以及持续的人力资本开发。",
-    "vocab": [
-      {
-        "w": "decelerating",
-        "ipa": "/diːˈseləreɪtɪŋ/",
-        "pos": "v.",
-        "mean": "（速度）减缓，减速",
-        "def": "Reducing speed or rate.",
-        "ex": "Economic indicators suggest that inflation is finally decelerating after months of steady increases."
-      },
-      {
-        "w": "stagnant",
-        "ipa": "/ˈstæɡnənt/",
-        "pos": "adj.",
-        "mean": "停滞的，不景气的",
-        "def": "Showing no activity; dull and sluggish.",
-        "ex": "Despite the country's GDP growth, average household wages have remained stagnant for a decade."
-      },
-      {
-        "w": "grappling",
-        "ipa": "/ˈɡræplɪŋ/",
-        "pos": "v.",
-        "mean": "努力解决，与……搏斗",
-        "def": "Engaging in a close fight or struggling with a difficulty.",
-        "ex": "Many businesses are grappling with high rental costs and labor shortages in the current market."
-      },
-      {
-        "w": "breakneck",
-        "ipa": "/ˈbreɪknek/",
-        "pos": "adj.",
-        "mean": "极快的，险象环生的",
-        "def": "Dangerously fast or happening at an extremely high speed.",
-        "ex": "The tech startup expanded at a breakneck pace, opening five international offices in one year."
-      },
-      {
-        "w": "underwhelming",
-        "ipa": "/ˌʌndərˈwelmɪŋ/",
-        "pos": "adj.",
-        "mean": "令人失望的，平庸的",
-        "def": "Failing to interest, excite, or stimulate; disappointing.",
-        "ex": "The consumer response to the new smartphone model was underwhelming due to a lack of innovative features."
-      },
-      {
-        "w": "dwindling",
-        "ipa": "/ˈdwɪndlɪŋ/",
-        "pos": "adj.",
-        "mean": "逐渐减少的，消退的",
-        "def": "Gradually diminishing in size, amount, or strength.",
-        "ex": "With dwindling natural resources, countries must invest heavily in sustainable energy alternatives."
-      },
-      {
-        "w": "ramifications",
-        "ipa": "/ˌræmɪfɪˈkeɪʃnz/",
-        "pos": "n.",
-        "mean": "后果，衍生影响",
-        "def": "Consequences of an action or event, especially when complex or unwelcome.",
-        "ex": "The economic ramifications of the tariff war will be felt by consumers worldwide."
-      },
-      {
-        "w": "polarization",
-        "ipa": "/ˌpəʊləraɪˈzeɪʃn/",
-        "pos": "n.",
-        "mean": "两极分化",
-        "def": "Division into two sharply contrasting groups or sets of opinions.",
-        "ex": "The growing gap between the rich and the poor has contributed to social and political polarization."
-      },
-      {
-        "w": "avert",
-        "ipa": "/əˈvɜːt/",
-        "pos": "v.",
-        "mean": "避免，防止",
-        "def": "To prevent or ward off an undesirable occurrence.",
-        "ex": "Swift action by the central bank helped to avert a severe financial crisis."
-      },
-      {
-        "w": "systematically",
-        "ipa": "/ˌsɪstəˈmætɪkli/",
-        "pos": "adv.",
-        "mean": "系统地，有条不紊地",
-        "def": "According to a fixed plan or system; methodically.",
-        "ex": "The quality assurance team systematically tested every feature of the software before its launch."
-      }
-    ],
-    "gems": [
-      {
-        "s": "When these diverse giants simultaneously experience a stall in output per citizen, the global economic landscape shifts from a tide that lifts all boats to a zero-sum scramble for dwindling gains.",
-        "why": "The author uses a vivid maritime metaphor ('a tide that lifts all boats') contrasted with a stark mathematical concept ('zero-sum scramble') to illustrate the shift from mutual prosperity to hostile competition. / 作者使用生动的航海比喻（“水涨船高”）与冰冷的数学概念（“零和博弈”）进行对比，形象地阐明了从共同繁荣向敌对竞争的转变。"
-      },
-      {
-        "s": "This slowdown threatens to arrest the rise of living standards, leaving citizens wealthier on paper but stagnant in practice.",
-        "why": "The contrast between 'on paper' and 'in practice' highlights the disconnect between abstract economic statistics and everyday human reality. / “纸面上”与“实际中”的对比，突出了抽象经济统计数据与日常生活现实之间的脱节。"
-      }
-    ]
   }
 }
