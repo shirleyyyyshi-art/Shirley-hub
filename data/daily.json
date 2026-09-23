@@ -1,335 +1,65 @@
 {
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-22T05:09:57.470150+00:00",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T04:54:13.688094+00:00",
   "economist": {
-    "headline": "House prices survived the last interest-rate rise. Will they this time?",
-    "teaser": "Supports that shored up the housing market when borrowing costs last rose are gone",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+    "headline": "You can’t trade your way through the AI apocalypse",
+    "teaser": "It’s hard to price the threats posed by a misaligned superintelligence",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
     "vocab": []
   },
   "st": {
-    "headline": "S’pore firms, households have sufficient buffers to weather financial shocks: MAS review",
-    "teaser": "Singapore’s financial conditions remain broadly supportive despite a mixed global backdrop, says MAS.",
-    "url": "https://www.straitstimes.com/business/spore-firms-households-have-sufficient-buffers-to-weather-financial-shocks-mas-review",
+    "headline": "Simba parent Tuas full-year profit surges to $26 million on subscriber growth",
+    "teaser": "Revenue was 24 per cent higher at $187.6 million.",
+    "url": "https://www.straitstimes.com/business/simba-parent-tuas-full-year-profit-surges-to-s26-million-on-subscriber-growth",
     "fullText": [
-      "SINGAPORE – Singapore firms and households are well-placed to weather shocks to their earnings, incomes and financing costs, while financial institutions such as banks have sufficient buffers should they come under stress.",
-      "This is based on stress tests done by the Monetary Authority of Singapore (MAS) as part of its annual financial stability review that assesses the resilience of Singapore’s financial system, against global risks and domestic vulnerabilities.",
-      "Among households, only a small proportion of borrowers with limited savings buffers could face cash-flow constraints. However, some highly leveraged firms or those with thinner liquidity buffers could come under strain.",
-      "“In view of the uncertain macroeconomic outlook, firms and households should manage their finances prudently and maintain adequate liquidity buffers against potential stress,” said MAS on Sept 22.",
-      "The review comes as inflation has proven more sticky than expected, with the escalation of the Middle East conflict adding to energy price pressures. A persistently higher cost of capital could test global financial resilience.",
-      "Strong artificial intelligence investment demand continues to strain supply capacity, and trade policy uncertainty increases business costs and inflationary pressures. These pressures have led some advanced economies to pivot to monetary policy tightening by raising interest rates.",
-      "Higher global interest rates are likely to affect Asian economies unevenly, depending on their growth prospects, financing needs and external positions. Higher yields would also raise sovereign debt-servicing costs, with spillovers to firms and households, while weighing on asset valuations.",
-      "Economies benefiting from AI-related investment and exports are better placed to absorb higher borrowing costs, but are more exposed to a pullback in the AI cycle.",
-      "Those with weaker AI linkages and larger fiscal or current account deficits could be more affected by tighter global financial conditions, with portfolio outflows and currency depreciation increasing risks.",
-      "Firms here showed resilience over the past year, buoyed by stable earnings and lower borrowing costs. Listed firms’ ability to repay debt improved over the past year, as lower benchmark interest rates reduced interest expenses.",
-      "Although firms drew down some cash balances, they generally maintained healthy liquidity buffers and near-term refinancing needs remained manageable.",
-      "Foreign currency risk was contained and corporate credit quality stayed healthy. Firms disclosing foreign currency borrowings in Singapore Exchange (SGX) filings generally reported either natural hedges or the use of derivatives to mitigate their financial exposures.",
-      "Corporate balance sheets are generally sound, which cushioned the impact of external shocks, including energy supply disruptions and elevated oil prices that have raised firms’ input costs.",
-      "Looking ahead, a key risk factor is a possible reassessment of AI-related asset valuations, which could prompt a retrenchment in related investments, weighing on the revenues and earnings of exposed firms.",
-      "To support this risk analysis, MAS conducted a stress test featuring a sharp pullback in AI-related investment and loss of revenue along the AI supply chain, against the backdrop of heightened geopolitical tensions.",
-      "SGX-listed corporates were subjected to severe revenue shocks of up to 30 per cent and differentiated interest rate shocks of up to 400 basis points to capture wider credit spreads under stress.",
-      "Most firms were able to weather the shock, supported by their earnings and cash reserves. Under this stress scenario, 32 per cent of firms were assessed as at-risk, accounting for 16 per cent of overall corporate debt.",
-      "The household sector remained resilient with strong liquidity buffers as financial assets grew at a faster pace than household liabilities.",
-      "Household financial assets, comprising currency and deposits, grew by 9.5 per cent year on year in the second quarter of 2026, outpacing the 8.3 per cent increase in liabilities and contributing to the rise in household net worth.",
-      "Strong financial markets and continued savings helped drive growth in financial assets.",
-      "Households’ ability to repay debt improved as interest rates, including mortgage rates, fell over the past year, and income growth has been stable.",
-      "Meanwhile, household budgets saw some strains as the ongoing energy supply disruptions have kept oil prices high.",
-      "Looking ahead, there are also risks that a sharp retrenchment in AI-related investment could weigh on global growth, business investment and semiconductor demand, adversely impacting household incomes and employment.",
-      "MAS’ stress test revealed that a vast majority of borrowers have the capacity to manage income and employment shocks amid higher debt-servicing costs.",
-      "But around 1 per cent of them could still face negative cash flows under the stress scenario, with existing savings buffers covering fewer than six months of the resulting income shortfall.",
-      "Such borrowers are mostly middle-aged HDB dwellers with relatively lower incom es , alongside a smaller segment of middle-income borrowers with sizeable outstanding private housing loans.",
-      "Singapore banks have increased provisioning coverage to guard against a potential rise in credit costs given the uncertain economic environment. The banking system’s total provisioning coverage rose steadily over the past year to reach 147 per cent in the second quarter of 2026.",
-      "Their strong earnings have also supported their capital strength, with capital ratios remaining well above regulatory requirements.",
-      "Risks to the banks’ outlook include a potential pullback in AI-related investment that could harm growth prospects and impact corporate profitability; another round of trade tensions; and further energy shocks from t he Middle East.",
-      "MAS’ stress tests affirm that Singapore banks have sufficient capita l reserves to weather an adverse scenario driven by a downturn in the AI-led global growth cycle amid Middle East tensions."
+      "Net profit stood at about $ 26 million for the full year ended July 31, up 277 per cent from about $6.9 million in 2025 .",
+      "Revenue was 24 per cent higher at $187.6 million, compared with $151.3 million in the 2025 financial year.",
+      "Basic earnings per share rose from 1.48 cents to 4.78 cents, while underlying earnings before interest, taxes, depreciation and amortisation was up 22 per cent at $83.8 million.",
+      "This excluded “significant items of $3.7 million” related to due diligence and professional engagements around the failed M1 acquisition from Keppel in May.",
+      "The deal was suspended after the Infocomm Media Development Authority (IMDA) said Simba could have used radio frequency bands it was not assigned to provide mobile services, which would constitute a breach of Singapore’s Telecommunications Act.",
+      "“This financial year brought the significant milestone of entering into an agreement to acquire M1,” said David Teoh, chairman of Tuas, in a bourse filing on Sept 23.",
+      "“We remain fully cooperative with the IMDA regarding the unauthorised spectrum usage matter and are currently awaiting their formal decision.”",
+      "The Tuas board had raised $322 million from institutional investors through a placement and $42.5 million through a share purchase plan from existing shareholders to support the M1 acquisition.",
+      "With the buy now off the cards, the board said it is yet to make a decision on the use of the raised capital.",
+      "“At the time of this report, the IMDA has not advised Simba on what consequences should follow a finding of misuse of spectrum,” said Tuas.",
+      "“Such consequences may include financial penalties, modifications to, or termination of Simba’s licences to operate in Singapore, and personal consequences for individuals found to have been involved.”",
+      "The telco’s active mobile services increased from about 1.3 million at the end of the 2025 financial year to nearly 1.5 million as at JulY 31, 2026 , despite an “increasingly competitive market”.",
+      "For the new financial year, Tuas said that it expects Simba to incur incremental capital and operating expenditure of about $15 million to $30 million.",
+      "This will help it meet cybersecurity requirements imposed by Singapore regulators on all critical infrastructure owners.",
+      "Teoh added that Simba is also developing “new innovative products for the Singapore market”, set to be launched in the new financial year.",
+      "Shares of Tuas on the Australian Stock Exchange rose 0.9 per cent to close two Australia cents higher at A$2.33 on Tuesday. THE BUSINESS TIMES"
     ]
   },
   "cna": {
-    "headline": "Tollyjoy says decision to close after 55 years not driven by financial considerations",
-    "teaser": "The Singapore baby-care brand said Tollyjoy products are no longer being sold in Singapore, although some remain available in Malaysia.",
-    "url": "https://www.channelnewsasia.com/singapore/tollyjoy-baby-brand-closure-not-driven-financial-considerations-6401211",
+    "headline": "Irin Gan reunites with Growing Up ‘Ma' and 'Pa', sparking a wave of nostalgia among fans",
+    "teaser": "Irin Gan, who played eldest Tay daughter Vicky in the 1990s drama Growing Up, recently reunited with her onscreen parents Lim Kay Tong and Wee Soon Hui.",
+    "url": "https://www.channelnewsasia.com/entertainment/growing-up-cast-reunion-irin-gan-lim-kay-tong-wee-soon-hui-6403836",
     "fullText": [
-      "SINGAPORE: Tollyjoy's decision to cease operations after 55 years was not driven by financial considerations, the homegrown baby-care company's chief executive said on Monday (Sep 21).",
-      "Instead, the family business decided it was the right time to call it a day after considering its future, said chief executive Tan Wee Keng.",
-      "“We recognise the responsibility that comes with making a decision of this nature. It was not entered into lightly, nor was it driven by financial considerations,\" Mr Tan said in a statement.",
-      "\"After careful consideration on the future of the business and how we wish to focus our time and resources going forward, we felt that the time was right to conclude our operations.\"",
-      "Tollyjoy said it would focus on an \"orderly closure\" of its operations, including ensuring the welfare of its employees and managing remaining stock.",
-      "Its products are no longer being sold in Singapore, although some remain available in Malaysia, the company said.",
-      "Tollyjoy first announced on Sep 15 that it was \"winding down the brand\".",
-      "Established in Singapore in 1971, Tollyjoy was founded by Mr Tan's father and has become a familiar name in mother-and-baby care, selling products ranging from feeding essentials to cleaning products.",
-      "An article published by Singapore Management University in 2018 said the company had about 200 employees and recorded S$16 million (US$12.5 million) in annual revenue in 2016.",
-      "\"For 55 years, we have been fortunate to earn the trust of generations of parents who welcomed Tollyjoy into their lives,\" Mr Tan said on Monday.",
-      "\"We leave this 55-year journey with a deep sense of appreciation for the many people who have been part of it.\"",
-      "CNA has contacted Tollyjoy for more information on its decision to cease operations and the number of employees affected.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "Fans of the 1990s local drama Growing Up were hit with a major dose of nostalgia after some of its cast reunited recently.",
+      "Singapore actress Amy Cheng took to Instagram to share a photo from the get-together.",
+      "Joining her were Irin Gan, aka eldest Tay daughter Vicky, and her on-screen parents Lim Kay Tong and Wee Soon Hui, better known to fans as Mr and Mrs Tay.",
+      "View this post on Instagram “A very easy afternoon with colleagues from our MediaCorp days – catching up, laughing and talking about the work we still love,” wrote Cheng, who joined Growing Up as Karen, the wife of eldest Tay son, Gary (Andrew Seow).",
+      "“The ease and camaraderie were still there… well, at least on my part.”",
+      "Growing Up, which ran for six seasons from 1996 to 2001, followed the Tay family through Singapore’s changing landscape from the 1960s to the 1980s.",
+      "Missing from the pic were the other three Tay children: Seow, Steven Lim (who played David) and Jamie Yeo (who played Tammy).",
+      "The cast previously reunited for an On the Red Dot special in 2021, which saw Lim Kay Tong, Wee Soon Hui and Jamie Yeo get together in person, while Steven Lim joined them via video call from Bangkok. Andrew Seow and Irin Gan were absent from that reunion.",
+      "Naturally, fans were thrilled to see Vicky back with Ma and Pa this time around.",
+      "“I was and still am a fan of Irin Gan,” wrote another. “She’s so gorgeous. Nice to see these actors gather. I miss the Growing Up TV series.”",
+      "Others were simply overwhelmed by the nostalgia.",
+      "“Growing Up. A big part of my childhood, literally growing up,” wrote a commenter.",
+      "One fan wrote: “Thanks, Amy. This post healed me. They don’t make TV like that anymore. Growing Up was formative to my childhood.”",
+      "There were also calls for the whole Tay family to get together again.",
+      "For those wondering what Gan has been up to, the former actress has largely stayed out of the spotlight since bowing out of showbiz in 2003.",
+      "Her social media platforms are filled with photos and videos of her riding her Harley-Davidson motorbike. She has also moved on to the corporate world. According to her LinkedIn, Gan is now Head of Marketing at Jia Jia Drinks Manufacturing and Unico Distribution Service.",
+      "As for her on-screen siblings, Seow is now an auxiliary police officer with Aetos; Steven Lim runs cafes and restaurants in Bangkok; while Yeo lives in the United Kingdom with her family.",
+      "Now, how about a full Tay family reunion next?",
+      "This story was originally published in 8Days.",
+      "For more 8Days stories, visit https://www.8days.sg/ ."
     ]
   },
   "mom": {
     "headline": "Labour Market Report - Second Quarter 2026",
     "teaser": "Alongside improved economic growth 1 , Singapore's labour market continued to expand in 2Q 2026. Total employment 2 increased by 11,400, marking the nineteenth consecutive quarter of growth and an increase from 9,400 in 1Q 2026 and 10,400 in 2Q 2025. In 2Q 2026, resident 3 employment growth (2,200) slowed from the prev",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0921-labour-market-report---second-quarter-2026"
-  },
-  "lifeVocab": [
-    {
-      "en": "poultry stall",
-      "cn": "鸡肉摊",
-      "def": "a market stall that sells chicken, duck, and other birds",
-      "ex": "I always buy fresh chicken wings from the poultry stall at Tiong Bahru Wet Market.",
-      "emoji": "🍗"
-    },
-    {
-      "en": "produce",
-      "cn": "农产品（尤指蔬菜水果）",
-      "def": "fresh fruits and vegetables",
-      "ex": "The produce at the wet market is much fresher than what you find at the supermarket.",
-      "emoji": "🥬"
-    },
-    {
-      "en": "haggle",
-      "cn": "讨价还价",
-      "def": "to argue about the price of something in order to agree on a lower price",
-      "ex": "Unlike in supermarkets, some elderly patrons still try to haggle with the fishmonger.",
-      "emoji": "🗣️"
-    },
-    {
-      "en": "fishmonger",
-      "cn": "鱼贩",
-      "def": "a person or shop that sells fish",
-      "ex": "The fishmonger scaled and gutted the red snapper for me.",
-      "emoji": "🐟"
-    },
-    {
-      "en": "perishable",
-      "cn": "易腐烂的",
-      "def": "food that decays quickly",
-      "ex": "Be sure to put perishable items like prawns in the fridge immediately.",
-      "emoji": "🦐"
-    },
-    {
-      "en": "scallion",
-      "cn": "青葱",
-      "def": "green onion",
-      "ex": "The uncle threw in some free scallions with my ginger purchase.",
-      "emoji": "🌱"
-    },
-    {
-      "en": "grate",
-      "cn": "磨碎",
-      "def": "to rub food against a grater in order to cut it into a lot of small pieces",
-      "ex": "You can ask the stall owner to grate fresh coconut for your nonya kueh.",
-      "emoji": "🥥"
-    },
-    {
-      "en": "bulk buy",
-      "cn": "批量购买",
-      "def": "purchasing in large quantities",
-      "ex": "We decided to bulk buy garlic and onions because they keep well.",
-      "emoji": "🧄"
-    },
-    {
-      "en": "damp",
-      "cn": "潮湿的",
-      "def": "slightly wet",
-      "ex": "The wet market floor can be damp and slippery, so wear non-slip shoes.",
-      "emoji": "👟"
-    },
-    {
-      "en": "tote bag",
-      "cn": "手提袋",
-      "def": "a large, strong bag",
-      "ex": "Bring your own reusable tote bag to reduce plastic bag usage at the market.",
-      "emoji": "🛍"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "bolster",
-      "ipa": "/ˈbəʊl.stər/",
-      "pos": "v.",
-      "cn": "支持，加强",
-      "def": "to support or strengthen",
-      "ex": "The government announced new subsidies to bolster small local enterprises."
-    },
-    {
-      "w": "trajectory",
-      "ipa": "/trəˈdʒek.tər.i/",
-      "pos": "n.",
-      "cn": "发展轨迹，趋势",
-      "def": "the path followed by a development or progression",
-      "ex": "The company's digital transformation has set it on a high-growth trajectory."
-    },
-    {
-      "w": "stagnant",
-      "ipa": "/ˈstæɡ.nənt/",
-      "pos": "adj.",
-      "cn": "停滞的",
-      "def": "not growing or developing",
-      "ex": "Wages have remained stagnant despite the rising cost of living."
-    },
-    {
-      "w": "pervasive",
-      "ipa": "/pəˈveɪ.sɪv/",
-      "pos": "adj.",
-      "cn": "充斥各处的，普遍的",
-      "def": "spreading widely throughout an area or a group of people",
-      "ex": "Artificial intelligence has a pervasive influence on modern banking."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "扩大，增加",
-      "def": "to increase the size or value of something",
-      "ex": "Employees can attend training courses to augment their existing skills."
-    },
-    {
-      "w": "benchmark",
-      "ipa": "/ˈbentʃ.mɑːk/",
-      "pos": "n.",
-      "cn": "基准，标杆",
-      "def": "a level of quality used as a standard to compare other things against",
-      "ex": "Our customer service rating has set a new benchmark for the industry."
-    },
-    {
-      "w": "volatile",
-      "ipa": "/ˈvɒl.ə.taɪl/",
-      "pos": "adj.",
-      "cn": "易变的，不稳定的",
-      "def": "likely to change suddenly and unexpectedly",
-      "ex": "The stock market has been highly volatile due to geopolitical tensions."
-    },
-    {
-      "w": "mandate",
-      "ipa": "/ˈmæn.deɪt/",
-      "pos": "v.",
-      "cn": "授权，强制执行",
-      "def": "to give official permission or to make something compulsory",
-      "ex": "The regulatory authority plans to mandate cyber security training for all bank employees."
-    },
-    {
-      "w": "disruptive",
-      "ipa": "/dɪsˈrʌp.tɪv/",
-      "pos": "adj.",
-      "cn": "颠覆性的，引起混乱的",
-      "def": "causing trouble and stopping something from continuing as usual",
-      "ex": "Ride-hailing apps were once a disruptive force in Singapore's transport sector."
-    },
-    {
-      "w": "precarious",
-      "ipa": "/prɪˈkeə.ri.əs/",
-      "pos": "adj.",
-      "cn": "不稳定的，危险的",
-      "def": "in a dangerous state because of not being safe or firmly held",
-      "ex": "The startup is in a precarious financial position after its main investor pulled out."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "The Price of Our Plates: Coping with Hawker Inflation",
-    "transcript": "As global food supply chains remain <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈvɒl.ə.taɪl/ (adj.) likely to change suddenly and unexpectedly — 易变的，波动的\">volatile</span>, Singaporeans are feeling the pinch at local food centres. The price of a plate of chicken rice, once a reliable indicator of cheap eats, has crawled upwards across the island. While hawkers point to escalating utility bills and ingredient costs, patrons are adjusting their daily budgets. The government's CDC vouchers have offered some relief, but many wonder if cheap hawker food will soon become a <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈrel.ɪk/ (n.) an object, custom, or belief that has survived from an earlier time — 遗迹，遗留物\">relic</span> of the past."
-  },
-  "economistArticle": {
-    "title": "The Gravity-Defying House: Why Property Markets Face a New Litmus Test",
-    "paras": [
-      "<span class=\"gem\">For years, global real estate has seemed <span class=\"voc\">immune</span> to the laws of financial gravity.</span> Even as central banks aggressively hiked interest rates to combat inflation, home prices in major metropolitan hubs—from London and New York to Singapore—refused to buckle. Borrowing costs soared, yet property values held their ground. This <span class=\"voc\">tenacity</span> baffled economists who had predicted a sharp correction.",
-      "Several unique buffers shielded the housing market during that initial monetary <span class=\"voc\">tightening</span> cycle. A chronic <span class=\"voc\">undersupply</span> of homes, combined with a pandemic-era surge in savings, meant that demand remained robust. Furthermore, many homeowners had locked in long-term, fixed-rate mortgages, leaving them temporarily <span class=\"voc\">insulated</span> from the immediate shock of rising interest rates.",
-      "However, the landscape is shifting. Those protective buffers are beginning to erode. As fixed-rate terms expire, millions of households are transitioning to significantly higher mortgage rates, putting a squeeze on disposable income. Meanwhile, household savings built up during the pandemic have largely been <span class=\"voc\">depleted</span>, leaving buyers with less capital to fund hefty down payments.",
-      "The labor market, which remained tight and supported buyers' confidence, is also showing signs of cooling. Layoffs in tech and finance sectors, coupled with slowing wage growth, mean that prospective buyers are becoming far more cautious. Without the twin engines of cheap credit and excess savings, the market's underlying weakness is starting to show.",
-      "In Singapore, policymakers have <span class=\"voc\">preemptively</span> introduced cooling measures, such as higher Additional Buyer's Stamp Duty (ABSD) and tighter loan-to-value limits, to prevent a runaway market. While these <span class=\"voc\">macroprudential</span> policies have successfully moderated local price growth, they also signal that the era of easy capital appreciation is drawing to a close.",
-      "The coming year will test whether housing markets can withstand high interest rates without the training wheels of government <span class=\"voc\">stimulus</span> or pandemic savings. <span class=\"gem\">If inflation proves sticky and rates remain <span class=\"voc\">elevated</span> for longer, the tenacity observed in the previous cycle may turn out to have been a mere delay of the inevitable.</span>"
-    ],
-    "cn": "多年来，全球房地产似乎不受金融万有引力定律的影响。即使各国央行为应对通胀而大幅加息，伦敦、纽约和新加坡等主要大都市枢纽的房价依然坚挺。借贷成本飙升，但资产价格却岿然不动。这种坚韧让预言房价将大幅回调的经济学家大跌眼镜。\n\n在最初的货币收缩周期中，有几项独特的缓冲因素保护了住房市场。长期的房屋供不应求，加上疫情期间积累的储蓄激增，意味着需求依然强劲。此外，许多房主锁定了长期的固定利率抵押贷款，使他们暂时免受利率上升的直接冲击。\n\n然而，大环境正在发生变化。这些保护性缓冲正在开始减弱。随着固定利率期限届满，数百万家庭正过渡到明显更高的抵押贷款利率，这挤压了他们的可支配收入。与此同时，疫情期间积累的家庭储蓄已基本耗尽，导致购房者资助大额首付款的资金减少。\n\n此前保持紧张并支撑了买家信心的劳动力市场也开始显现降温迹象。科技和金融行业的裁员，加上薪资增长放缓，意味着潜在买家变得更加谨慎。在失去廉价信贷和超额储蓄这双重引擎后，市场的潜在疲软开始显现。\n\n在新加坡，决策者已先发制人地推出了降温措施，例如提高额外买方印花税（ABSD）和收紧贷款与估值比率（LTV）限制，以防止市场失控。虽然这些宏观审慎政策成功放缓了本地房价的增长，但它们也表明，资本轻松升值的时代即将结束。\n\n未来一年将考验住房市场在没有政府刺激或疫情储蓄“辅助轮”的情况下，能否承受高利率。如果通胀被证明具有粘性，且利率在更长时间内保持在高位，那么在上一个周期中观察到的韧性最终可能只是不可避免的调整的延迟而已。",
-    "vocab": [
-      {
-        "w": "immune",
-        "ipa": "/ɪˈmjuːn/",
-        "pos": "adj.",
-        "mean": "免疫的，免除的",
-        "def": "not affected or influenced by something",
-        "ex": "Some property markets seemed immune to global economic downturns."
-      },
-      {
-        "w": "tenacity",
-        "ipa": "/təˈnæs.ə.ti/",
-        "pos": "n.",
-        "mean": "坚韧，韧性",
-        "def": "the quality of continuing to exist or endure; persistence",
-        "ex": "The tenacity of the property market surprised analysts."
-      },
-      {
-        "w": "tightening",
-        "ipa": "/ˈtaɪ.tən.ɪŋ/",
-        "pos": "n.",
-        "mean": "收紧（货币政策等）",
-        "def": "the act of making rules, credit, or policies stricter",
-        "ex": "The central bank's monetary tightening aimed to curb runaway inflation."
-      },
-      {
-        "w": "undersupply",
-        "ipa": "/ˌʌn.də.səˈplaɪ/",
-        "pos": "n.",
-        "mean": "供不应求",
-        "def": "a situation in which there is not enough of something",
-        "ex": "An undersupply of housing has driven up rental costs in the city."
-      },
-      {
-        "w": "insulated",
-        "ipa": "/ˈɪn.sjə.leɪ.tɪd/",
-        "pos": "adj.",
-        "mean": "隔绝的，免受影响的",
-        "def": "protected from an unpleasant influence or experience",
-        "ex": "High-net-worth individuals are often insulated from minor economic shocks."
-      },
-      {
-        "w": "depleted",
-        "ipa": "/dɪˈpliː.tɪd/",
-        "pos": "adj.",
-        "mean": "消耗殆尽的",
-        "def": "seriously decreased or reduced",
-        "ex": "After paying for the renovation, their savings were completely depleted."
-      },
-      {
-        "w": "preemptively",
-        "ipa": "/priːˈemp.tɪv.li/",
-        "pos": "adv.",
-        "mean": "先发制人地",
-        "def": "done to prevent something from happening",
-        "ex": "The authorities acted preemptively to prevent a speculative bubble."
-      },
-      {
-        "w": "macroprudential",
-        "ipa": "/ˌmæk.rəʊ.pruːˈden.ʃəl/",
-        "pos": "adj.",
-        "mean": "宏观审慎的",
-        "def": "relating to policies designed to mitigate risk to the financial system as a whole",
-        "ex": "Singapore relies on macroprudential measures to stabilize its housing sector."
-      },
-      {
-        "w": "stimulus",
-        "ipa": "/ˈstɪm.jə.ləs/",
-        "pos": "n.",
-        "mean": "刺激物，促进因素",
-        "def": "something that rouses activity or energy in the economy",
-        "ex": "The tax cuts provided a much-needed stimulus to the lagging economy."
-      },
-      {
-        "w": "elevated",
-        "ipa": "/ˈel.ɪ.veɪ.tɪd/",
-        "pos": "adj.",
-        "mean": "偏高的，升高的",
-        "def": "high or higher than normal",
-        "ex": "Interest rates are expected to remain elevated for the rest of the year."
-      }
-    ],
-    "gems": [
-      {
-        "s": "For years, global real estate has seemed immune to the laws of financial gravity.",
-        "why": "This sentence uses a striking physical metaphor ('laws of financial gravity') to describe how housing prices resisted expected economic patterns. 这句话运用了生动的物理隐喻（‘金融万有引力定律’）来描绘房价如何抵御了预期的经济规律。"
-      },
-      {
-        "s": "If inflation proves sticky and rates remain elevated for longer, the tenacity observed in the previous cycle may turn out to have been a mere delay of the inevitable.",
-        "why": "The sentence constructs a strong conditional argument using 'proves sticky' and concludes with a punchy, dramatic phrase ('delay of the inevitable') that challenges optimistic market assumptions. 句子使用‘proves sticky（证明具有粘性）’构建了强有力的条件论证，并以一个极具说服力和戏剧色彩的短语（‘delay of the inevitable（不可避免的延迟）’）作结，质疑了乐观的市场假设。"
-      }
-    ]
   }
 }
