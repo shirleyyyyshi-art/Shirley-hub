@@ -1,52 +1,72 @@
 {
-  "date": "2026-09-24",
-  "generatedAt": "2026-09-24T05:03:58.513547+00:00",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T05:06:38.802274+00:00",
   "economist": {
-    "headline": "You can’t trade your way through the AI apocalypse",
-    "teaser": "It’s hard to price the threats posed by a misaligned superintelligence",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
+    "headline": "The battle between India’s stock exchanges is heating up again",
+    "teaser": "Number two is trying harder",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/24/the-battle-between-indias-stock-exchanges-is-heating-up-again",
     "vocab": []
   },
   "st": {
-    "headline": "Australia’s jobless rate hits five-year high in August as more seek work",
-    "teaser": "The jobless rate rose to 4.6 per cent, the highest level since late 2021.",
-    "url": "https://www.straitstimes.com/business/australias-jobless-rate-hits-five-year-high-in-august-as-more-seek-work",
+    "headline": "Three more Embed Financial employees file salary claims, bringing total to nine",
+    "teaser": "All employees have reached payment agreements with the Singapore firm, which separately faces charges for unpaid CPF contributions.",
+    "url": "https://www.straitstimes.com/business/companies-markets/three-more-embed-financial-employees-file-salary-claims-bringing-total-to-nine",
     "fullText": [
-      "SYDNEY – Australian employment rose more than forecast in August, but the unemployment rate still hit a five-year high as more people went looking for work, data showed on Sept 24.",
-      "The mixed report was not enough to shift already firm market bets that the Reserve Bank of Australia (RBA) would raise interest rates next week for the fourth time in 2026.",
-      "Markets have priced in a 95 per cent chance the policy rate will rise to 4.6 per cent. The Australian dollar, however, slipped 0.2 per cent to US$0.7026, a seven-week low after heavy losses overnight.",
-      "Net employment rose 39,500 in August from July, when it fell 15,800, data from the Australian Bureau of Statistics (ABS) showed on Sept 24. That was above market forecasts for a 20,000 increase and driven entirely by part-time roles.",
-      "The jobless rate rose to 4.6 per cent, above forecasts for a steady 4.5 per cent and the highest level since late 2021, as the participation rate climbed to 67.1 per cent, up 0.2 percentage point. Hours worked rose 0.7 per cent.",
-      "The ABS said it recorded a higher proportion of people who were previously not in the labour force moving to be unemployed.",
-      "“Employment growth failed to keep pace with the influx of people into the labour force in August, easing some of the tightness in the labour market,” said Oscar Guth, an economist for Oxford Economics Australia.",
-      "“Even so, inflation pressures extend well beyond the labour market, with oil above US$100 a barrel and trimmed mean inflation stuck at 3.6 per cent in July,” said Guth, adding that he expected the RBA to hike on Sept 29.",
-      "For August, the labour force rose by 67,700, up 2.1 per cent from a year earlier, while employment rose a slower 1.6 per cent, suggesting the labour market is gradually loosening. That is consistent with the RBA’s judgment that the labour market has eased a little but remains tight.",
-      "Governor Michele Bullock said this week unemployment in a range of 4.5 per cent to 5 per cent could help restrain inflation, suggesting some rise might be needed from here.",
-      "The central bank has raised interest rates three times in 2026 to 4.35 per cent to tame inflation, matching a post-pandemic high. Yet, core inflation is still running at 3.6 per cent, well above the RBA’s target range of 2 per cent to 3 per cent.",
-      "Bullock has warned inflation risks are materialising off the back of the Middle East conflict and a data centre investment boom. With oil back above US$100 a barrel, markets have sharply repriced the global rate outlook, with Australia’s cash rate now seen peaking at 5.1 per cent. REUTERS"
+      "SINGAPORE - Three more employees of homegrown fintech firm Embed Financial Group Holdings have lodged salary claims against the company, bringing the total number of claims to nine.",
+      "The Tripartite Alliance for Dispute Management (TADM) told The Straits Times that it received the additional claims between Sept 4 and Sept 23. All nine employees have reached agreements with the Singapore company on payment schedules following mediation by TADM.",
+      "TADM previously said that it had received six salary claims against Embed and was mediating the cases.",
+      "It is unclear if a former Embed employee who separately filed a claim with the Employment Claims Tribunals (ECT) is among the nine claimants.",
+      "The employee, Levinia, was a business development manager at Embed from February to July 2026, according to her LinkedIn profile.",
+      "ST understands that she later withdrew her ECT case and that Embed and Levinia have since undergone mediation over the dispute.",
+      "The tribunal, which comes under the State Courts, is designed to resolve salary-related and wrongful dismissal disputes quickly and affordably without needing a lawyer.",
+      "The Ministry of Manpower also previously said it is investigating Embed for possible offences relating to the non-payment of salaries under the Employment Act.",
+      "The salary claims come as the company faces separate action over unpaid CPF contributions.",
+      "Embed appeared in court on Sept 9 over its failure to pay CPF contributions for six employees for March. A prosecutor said the company owed $312,484 in CPF contributions, of which it had paid $300 at the time.",
+      "According to charge sheets seen by ST, EFGH failed to pay CPF contributions to its deputy group CEO, chief operating officer, former chief financial officer, and group head of strategic engagement, among others.",
+      "Embed representative Lynn Goon, group head of the CEO office, told the court that the company had secured funding from foreign investors and sought more time for agreements to be signed.",
+      "The court ordered Embed to pay $100,000 by its next hearing on Sept 30.",
+      "EFGH was founded in 2024 by Dennis Ng, its executive chairman and group chief executive who previously held senior roles at Prudential, Allianz and Citi.",
+      "The founding team also includes its deputy group CEO Eugene Leow, former senior media executive at Mediacorp and SPH Media, and chief growth and technology officer Dallas Ng.",
+      "The other two co-founders are based in Africa.",
+      "Earlier in 2026, EFGH was named partner for the BYD Singapore International Marathon in December and announced a five-year sponsorship partnership with the Singapore National Olympic Council.",
+      "EFGH also extended its sponsorship of the Tour de France Singapore Criterium for three more years after coming on board in 2025, with the race returning on Nov 7 and 8.",
+      "But the status of some of Embed’s other deals and partnerships remains unclear amid the salary and CPF payment issues.",
+      "Income Insurance said on Sept 8 that it terminated the proposed sale of Hive, its digital insurance platform, to Embed.",
+      "Income Insurance had said in June that it would sell Hive to EFGH for an undisclosed sum .",
+      "This meant EFGH would have owned 100 per cent of Hive, with Income Insurance remaining a customer of the platform.",
+      "In December 2025, Embed revealed its plan to list in the US by merging with a US-listed special purpose acquisition company (SPAC), in a deal valuing the company at about US$425 million (S$538 million).",
+      "The SPAC, WinVest Acquisition Corp, did not respond to queries from ST on the status of the proposed listing.",
+      "Singapore robotics technology company QuikBot Technologies announced a strategic partnership with Embed in March to integrate insurance into infrastructure used by autonomous machines.",
+      "QuikBot told ST that its “collaboration” with Embed is “not affected”.",
+      "Embed also appointed professional services firm Aon as its global insurance adviser in May. Aon did not respond to queries from ST on the status of its relationship with Embed.",
+      "That same month, Embed entered into a strategic partnership agreement with SimplyGo to explore developing a micro-insurance platform within the SimplyGo app.",
+      "SimplyGo is a subsidiary of the Land Transport Authority that was formed from a merger between EZ-Link and Transit Link to provide transit ticketing and travel card-related services in Singapore.",
+      "In response to ST’s queries, SimplyGo said it was aware of the reports concerning Embed and the developments surrounding the matter."
     ]
   },
   "cna": {
-    "headline": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
-    "teaser": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
-    "url": "https://www.channelnewsasia.com/business/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-6407276",
+    "headline": "Exclusive-Japan's SMBC in talks to increase stake in Vietnam's VPBank, sources say",
+    "teaser": "Exclusive-Japan's SMBC in talks to increase stake in Vietnam's VPBank, sources say",
+    "url": "https://www.channelnewsasia.com/business/exclusive-japans-smbc-in-talks-increase-stake-in-vietnams-vpbank-sources-say-6410111",
     "fullText": [
-      "MENLO PARK, California, Sept 23 : Mark Zuckerberg took repeated digs at Apple during Meta's annual event on Wednesday, only to borrow a page from Steve Jobs' playbook for a surprise reveal: a pocket-watch-sized device that carries Meta's viral Muse AI agent into the real world.",
-      "The device, called Muse Charm, highlights a broader shift at the social media giant that has long sought to escape Apple and Google's operating systems with a platform of its own. Users can tap the gadget to access Muse directly, bypassing AI apps on smartphones.",
-      "Having once championed the metaverse — the immersive digital world that inspired the company's name change in 2021 — as the next computing platform, Zuckerberg now sees \"personal superintelligence\" as the bigger and more immediate breakthrough, after his previous costly wager failed.",
-      "\"It is actually quite clear personal superintelligence will not only come first; it will be much bigger and more important,\" Zuckerberg said at the company's annual Meta Connect conference.",
-      "The remarks follow a blockbuster few days for Muse, which has drawn millions of downloads in what some analysts have said could be the biggest app launch in the US since ChatGPT arrived in November 2022 and kicked off the AI boom.",
-      "Investors have embraced Muse's potential to automate tasks ranging from booking flights to filing taxes, lifting shares of partners such as Shopify while dumping companies seen as vulnerable to disruption, including online travel agency Booking and TurboTax software creator Intuit.",
-      "MAY APPEAL TO GEN Z, MASS ADOPTION DIFFICULT",
-      "Muse Charm could resonate with younger consumers at a time when digital cameras, flip phones and MP3 players are enjoying nostalgic comebacks, analysts say.",
-      "Gen Z consumers, aged about 14 to 29, treat AI assistants as companions or brainstorming partners rather than simply search tools. Many interact with technology through voice notes, short videos and AI chatbots, unlike older users who are often more comfortable with PCs and smartphone apps.",
-      "\"Muse Charm could find some traction among Gen Z and younger consumers. The combination of AI, fashion and personalization could appeal to younger users, especially if it is affordable and easy to use,\" said Linda Sui, founder of Smart Analytics Global, a market research firm.",
-      "The device features a roughly 2-inch (5-cm) screen that can be navigated with a thumb, with a customizable Muse character at its center. A built-in 5G modem allows access to Muse even without Wi-Fi, though it cannot make calls.",
-      "\"They are appealing to people who might not want to wear glasses or might not trust glasses,\" said IDC director Jitesh Ubrani.",
-      "\"Some people might remember Tamagotchi and this might evoke that,\" Ubrani said, referring to colorful virtual pets that became a cultural phenomenon in the late 1990s. \"They might be able to run a small language model locally. So you can run AI on such a small package.\"",
-      "Whether Muse can sustain its momentum and the device can amplify that appeal is a question for the months ahead.",
-      "Similar devices have had limited success. The Rabbit R1, a handheld generative AI device from startup Rabbit Inc with a screen and a button, had a buzzy launch in early 2024 only to flop because it overpromised on AI features and delivered an unreliable experience.",
-      "\"I would be cautious about its mass-market potential,\" Sui said. \"Unless Muse Charm can offer unique functions that smartphones, watches, earbuds or smart glasses cannot easily replace, it is more likely to remain a nice-to-have device for early adopters than become a mainstream product.\"",
+      "HANOI, Sept 25 : Japan's Sumitomo Mitsui Banking Corp (SMBC) is in advanced talks to increase its stake in Vietnamese private lender VPBank, four people familiar with the negotiations said.",
+      "SMBC, the banking arm of Sumitomo Mitsui Financial Group, is discussing raising its holding to approximately 20 per cent from 15 per cent, the people said, declining to be identified because the information is not public. The Japanese lender acquired the original stake in 2023 in a deal worth $1.5 billion.",
+      "The two sides intend to complete the transaction this year but remain at odds over valuation, two of the people said. One said negotiations have been underway for months.",
+      "An expanded stake would deepen SMBC's exposure to one of Asia's fastest-growing banking markets, giving it greater access to Vietnamese consumers and businesses as the country targets rapid economic growth, rising household wealth and increased foreign investment.",
+      "VPBank is seeking a substantial premium to its share price, one of the people said, in line with the 2023 transaction, when SMBC paid about 40 per cent above market value.",
+      "SMBC has been reluctant to pay that premium and has internally discussed the possibility of increasing its holding through open-market purchases rather than a private placement, the second person said.",
+      "Both SMBC and VPBank declined to comment.",
+      "In April, VPBank said it was discussing a private placement of shares with unspecified foreign investors.",
+      "The following month, Switzerland-based advisory firm Turicum Investment Management said in a report that VPBank is expected to raise about $700 million to $900 million from the sale of the newly issued stake.",
+      "At current market prices, a 5 per cent stake would be worth about $425 million.",
+      "When SMBC announced the 2023 deal, it said the investment would allow the bank to provide additional financial services to Japanese clients and multinational firms operating in Vietnam.",
+      "The Southeast Asian nation hosts major export-oriented manufacturing operations run by Japanese, Korean and Western firms, including Honda, Samsung and Intel.",
+      "SMBC also said at the time that the investment would help strengthen VPBank's retail banking business, including wealth management and credit cards.",
+      "One objective of the planned increase in ownership is to give SMBC easier access to Vietnamese customers, including in the insurance and credit markets, one of the sources said.",
+      "Export-reliant Vietnam targets annual growth of at least 10 per cent through 2030, betting on infrastructure spending and rising consumption from its expanding middle class.",
+      "Japan's Mizuho Financial Group and MUFG Bank, along with South Korea's KEB Hana Bank, hold strategic minority stakes in major Vietnamese lenders.",
+      "Foreign ownership of Vietnamese banks is generally capped at 30 per cent, while an individual foreign investor, and its affiliates, is typically limited to a 20 per cent stake.",
+      "VPBank is an exception, having been allowed a higher foreign ownership ceiling of 49 per cent after it participated in the restructuring of a weaker lender, GPBank.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
@@ -54,267 +74,5 @@
     "headline": "Recommendations by Tripartite Workgroup to Strengthen Human Capital in Every Workplace for Every Worker",
     "teaser": "1 The Tripartite Workgroup on Human Capital Capability Development (TWG-HC) 1 released its report at the Institute for Human Resource Professionals' (IHRP) People Behind People Forum 2026 today. The TWG-HC made five recommendations to strengthen human capital capability across the economy, so as to ensure that Singapor",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/2409-recommendations-by-twg-hc"
-  },
-  "lifeVocab": [
-    {
-      "en": "gantry",
-      "cn": "闸机",
-      "def": "the physical barrier or gate that opens when you tap your transit card to enter or exit a station",
-      "ex": "Remember to tap your EZ-Link card at the gantry before entering the MRT platform.",
-      "emoji": "🚇"
-    },
-    {
-      "en": "commute",
-      "cn": "通勤/上下班路程",
-      "def": "the regular journey to and from one's place of work or study",
-      "ex": "Her daily commute from Pasir Ris to Jurong East takes almost an hour.",
-      "emoji": "🚶"
-    },
-    {
-      "en": "concourse",
-      "cn": "大厅/大堂",
-      "def": "the large open area inside a station where ticketing machines, retail shops, and customer service counters are located",
-      "ex": "Let's meet near the passenger service centre at the station concourse.",
-      "emoji": "🏢"
-    },
-    {
-      "en": "peak hours",
-      "cn": "高峰时段",
-      "def": "the busy times of day when traffic or public transport passenger numbers are at their highest",
-      "ex": "MRT trains are extremely crowded during morning peak hours.",
-      "emoji": "⏰"
-    },
-    {
-      "en": "disrupt",
-      "cn": "中断/干扰",
-      "def": "to interrupt an activity or service by causing a temporary problem or fault",
-      "ex": "A signaling fault disrupted train services on the North-South Line this afternoon.",
-      "emoji": "⚠️"
-    },
-    {
-      "en": "feeder bus",
-      "cn": "接驳巴士",
-      "def": "a local bus service that brings passengers from residential areas to a nearby train station",
-      "ex": "If you live far from the station, you can take a feeder bus to the MRT.",
-      "emoji": "🚌"
-    },
-    {
-      "en": "escalator",
-      "cn": "自动扶梯",
-      "def": "a set of moving stairs carrying people between different levels of a building or station",
-      "ex": "For your own safety, please hold onto the handrail when riding the escalator.",
-      "emoji": "🛗"
-    },
-    {
-      "en": "interchange",
-      "cn": "换乘站",
-      "def": "a major transit station where passengers can transfer between different train lines",
-      "ex": "Dhoby Ghaut is a busy interchange station connecting three different MRT lines.",
-      "emoji": "🔄"
-    },
-    {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "a person who travels some distance to work or school on a regular basis",
-      "ex": "SMRT staff were seen helping commuters navigate the new Thomson-East Coast Line.",
-      "emoji": "🧑‍💼"
-    },
-    {
-      "en": "add-value",
-      "cn": "充值",
-      "def": "to top up or add money to a transit smartcard",
-      "ex": "I need to add-value to my card at the ticketing machine before boarding.",
-      "emoji": "💳"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "concur",
-      "ipa": "/kənˈkɜːr/",
-      "pos": "v.",
-      "cn": "同意/赞同",
-      "def": "to agree with an opinion, idea, or decision made by another person",
-      "ex": "The board members concurred with the director's proposal to expand in Southeast Asia."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsemɪneɪt/",
-      "pos": "v.",
-      "cn": "传播/散播",
-      "def": "to spread information, knowledge, or ideas widely to many people",
-      "ex": "We need to disseminate the revised workplace safety guidelines to all regional offices."
-    },
-    {
-      "w": "stringent",
-      "ipa": "/ˈstrɪndʒənt/",
-      "pos": "adj.",
-      "cn": "严格的",
-      "def": "very strict, precise, and demanding compliance with rules or standards",
-      "ex": "Singapore has stringent regulations governing data protection and financial compliance."
-    },
-    {
-      "w": "deviate",
-      "ipa": "/ˈdiːvieɪt/",
-      "pos": "v.",
-      "cn": "偏离",
-      "def": "to depart or turn away from an established course, plan, or standard",
-      "ex": "Please do not deviate from the approved marketing plan without consulting the manager first."
-    },
-    {
-      "w": "adversary",
-      "ipa": "/ˈædvəsəri/",
-      "pos": "n.",
-      "cn": "对手",
-      "def": "an opponent or rival in a contest, conflict, or business dispute",
-      "ex": "In business negotiations, it is wise to understand your adversary's motivations."
-    },
-    {
-      "w": "unilateral",
-      "ipa": "/ˌjuːnɪˈlætərəl/",
-      "pos": "adj.",
-      "cn": "单方的",
-      "def": "an action or decision taken by only one person, group, or country involved in a situation without the agreement of others",
-      "ex": "The decision to terminate the contract was a unilateral move by the client."
-    },
-    {
-      "w": "perpetuate",
-      "ipa": "/pəˈpetʃueɪt/",
-      "pos": "v.",
-      "cn": "使持续/使永久化",
-      "def": "to make an undesirable situation, belief, or system continue indefinitely",
-      "ex": "Failing to address the workplace conflict will only perpetuate bad feelings among staff."
-    },
-    {
-      "w": "precursor",
-      "ipa": "/priːˈkɜːsə(r)/",
-      "pos": "n.",
-      "cn": "先驱/前兆",
-      "def": "a person or thing that comes before another of the same kind; a forerunner or indicator of a future event",
-      "ex": "A sudden, sharp decline in online queries was a precursor to the drop in overall sales."
-    },
-    {
-      "w": "paramount",
-      "ipa": "/ˈpærəmaʊnt/",
-      "pos": "adj.",
-      "cn": "首要的/至高无上的",
-      "def": "more important than anything else; supreme in significance",
-      "ex": "In the hospitality industry, customer satisfaction and safety are of paramount importance."
-    },
-    {
-      "w": "reconcile",
-      "ipa": "/ˈrekənsaɪl/",
-      "pos": "v.",
-      "cn": "调和/和解",
-      "def": "to find a way in which two opposing ideas, facts, or situations can both be true or exist together",
-      "ex": "It is difficult to reconcile the high cost of the expansion project with our current tight budget."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore's Fleet of Electric Buses Grows",
-    "transcript": "To achieve its net-zero goals, Singapore is actively <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃənɪŋ/ (v.) changing or passing from one state or condition to another — 正在过渡\">transitioning</span> its public bus fleet to electric models. The Land Transport Authority aims to have a fully clean-energy bus fleet by 2040. Commuters will soon notice quieter journeys and lower <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈmɪʃənz/ (n. pl.) substances, especially greenhouse gases, that are sent out into the air — 排放物\">emissions</span> on their daily rides. While the initial infrastructure costs are high, authorities believe the long-term environmental <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈdɪvɪdendz/ (n. pl.) benefits or advantages resulting from an action or investment — 效益/红利\">dividends</span> are well worth the investment."
-  },
-  "economistArticle": {
-    "title": "You can’t trade your way through the AI apocalypse",
-    "paras": [
-      "Wall Street has fallen head over heels for artificial intelligence. From retail day-traders to institutional giants, investors are frantically bidding up tech stocks, convinced that the upcoming boom will yield endless corporate profits. Yet, beneath this euphoric trading lies a darker, unspoken threat. As scientists and philosophers debate the catastrophic risks of a <span class=\"voc\">misaligned</span> superintelligence, a critical question emerges: can the financial markets actually price in an <span class=\"voc\">existential</span> <span class=\"voc\">catastrophe</span>?",
-      "The short answer is no. Standard market strategies dictate that when a risk appears, a rational investor should <span class=\"voc\">hedge</span> against it. Traders buy gold, acquire short-term treasury bills, or purchase volatile options to protect their portfolios from sudden crashes. However, if the ultimate outcome of technological progress is a terminal event, there will be no trading desk left to settle the accounts. Traditional safe havens lose all meaning when the entire human financial infrastructure ceases to exist.",
-      "Modern risk management is largely built on historical precedents. A financial <span class=\"voc\">quant</span> uses past market <span class=\"voc\">volatility</span> to calculate the probability of future downturns. But a <span class=\"voc\">singular</span> catastrophe—such as a rogue artificial intelligence deciding humanity is redundant—offers no historical data points. Because this hazard is completely unique, traditional risk models are rendered entirely <span class=\"voc\">obsolete</span>.",
-      "This market failure highlights a broader, systemic issue: the inability of global capitalism to account for ultimate negative <span class=\"voc\">externalities</span>. When tech companies race to build more powerful models, they do not pay for the systemic danger they might impose on society. <span class=\"gem\">Since the markets cannot organically price the end of the world, safeguarding humanity cannot be left to the whim of traders.</span>",
-      "Ultimately, the pursuit of financial <span class=\"voc\">preservation</span> in the face of an AI apocalypse is a fool's errand. Instead of trying to short the tech sector or find the perfect defensive asset, society must focus on prevention. The most valuable investment we can make today is not in a clever financial hedge, but in robust alignment research and global regulation to prevent a catastrophic failure before it begins."
-    ],
-    "cn": "华尔街已经彻底爱上了人工智能。从散户日内交易员到机构巨头，投资者都在疯狂推高科技股，坚信即将到来的热潮将带来无限的公司利润。然而，在这种狂热的交易之下，隐藏着一个更黑暗、未被道破的威胁。随着科学家和哲学家争论未对齐的超智能所带来的灾难性风险，一个关键问题浮现出来：金融市场真的能将生存性灾难折算进资产价格中吗？\n\n简短的回答是否定的。标准的市场策略表明，当风险出现时，理性投资者应该对其进行对冲。交易员购买黄金、购入短期国债，或者购买高波动性的期权，以保护他们的投资组合免受突然崩盘的影响。然而，如果技术进步的最终结果是人类终结这一终端事件，那么将不再有任何交易台来结算账目。当整个人类金融基础设施不复存在时，传统的避险天堂也将失去一切意义。\n\n现代风险管理在很大程度上建立在历史先例的基础上。金融分析师利用过去的市场波动来计算未来低迷的概率。但一个奇点式的灾难——例如失控的人工智能判定人类是多余的——无法提供任何历史数据点。因为这种危害完全是史无前例的，传统的风险模型将被彻底淘汰。\n\n这种市场失灵突显了一个更广泛的系统性问题：全球资本主义无法对终极的负外部性进行核算。当科技公司竞相构建更强大的模型时，它们并没有为自己可能给社会带来的系统性危险买单。既然市场无法有机地对世界末日进行定价，那么捍卫人类安全就绝不能留给交易员们去随心所欲地处理。\n\n归根结底，在人工智能末日面前追求资金的资产保值是愚蠢的徒劳之举。与其试图做空科技行业或寻找完美的防御性资产，社会必须将重点放在预防上。我们今天能做出的最有价值的投资，不是某种聪明的金融对冲，而是对安全对齐技术的深入研究以及全球性的法律监管，从而在灾难性失败发生之前将其阻止。",
-    "vocab": [
-      {
-        "w": "misaligned",
-        "ipa": "/ˌmɪsəˈlaɪnd/",
-        "pos": "adj.",
-        "mean": "未对齐的/方向不一致的",
-        "def": "not positioned or aligned correctly; in technology, not matching human values or intentions",
-        "ex": "A misaligned superintelligence might view human beings as obstacles to its goals."
-      },
-      {
-        "w": "existential",
-        "ipa": "/ˌeɡzɪˈstenʃl/",
-        "pos": "adj.",
-        "mean": "关乎生存的/存在主义的",
-        "def": "relating to human existence, especially concerning the danger of humanity's total destruction",
-        "ex": "Climate change and uncontrolled AI are often described as existential threats."
-      },
-      {
-        "w": "hedge",
-        "ipa": "/hedʒ/",
-        "pos": "v.",
-        "mean": "对冲/防范",
-        "def": "to protect oneself against financial loss by placing balancing transactions or investments",
-        "ex": "Many gold buyers are trying to hedge against rising global inflation."
-      },
-      {
-        "w": "quant",
-        "ipa": "/kwɒnt/",
-        "pos": "n.",
-        "mean": "数量分析专家/金融分析师",
-        "def": "an expert who uses quantitative and mathematical methods to analyze financial markets",
-        "ex": "The investment bank hired a brilliant quant to develop new trading algorithms."
-      },
-      {
-        "w": "volatility",
-        "ipa": "/ˌvɒləˈtɪləti/",
-        "pos": "n.",
-        "mean": "波动性",
-        "def": "the quality of being subject to rapid and unpredictable change, especially in financial prices",
-        "ex": "High volatility in the stock market often scares away conservative investors."
-      },
-      {
-        "w": "singular",
-        "ipa": "/ˈsɪŋɡjələ(r)/",
-        "pos": "adj.",
-        "mean": "奇点的/独一无二的",
-        "def": "extraordinary, remarkable, or relating to a unique historical event such as a technological singularity",
-        "ex": "The creation of true artificial general intelligence would be a singular moment in history."
-      },
-      {
-        "w": "obsolete",
-        "ipa": "/ˌɒbsəˈliːt/",
-        "pos": "adj.",
-        "mean": "淘汰的/过时的",
-        "def": "no longer produced or used; out of date",
-        "ex": "Within a decade, cash payments might become completely obsolete in major cities."
-      },
-      {
-        "w": "externalities",
-        "ipa": "/ˌekstɜːˈnælɪtiz/",
-        "pos": "n. pl.",
-        "mean": "外部效应/外部性",
-        "def": "consequences of industrial or commercial activities that affect other parties without being reflected in market prices",
-        "ex": "Air pollution is one of the most common negative externalities of heavy industry."
-      },
-      {
-        "w": "preservation",
-        "ipa": "/ˌprezəˈveɪʃn/",
-        "pos": "n.",
-        "mean": "维护/保护/保值",
-        "def": "the act of keeping something valued safe from harm, loss, or decay",
-        "ex": "In a severe economic recession, capital preservation becomes more important than high returns."
-      },
-      {
-        "w": "catastrophe",
-        "ipa": "/kəˈtæstrəfi/",
-        "pos": "n.",
-        "mean": "灾难/大祸",
-        "def": "an event causing great and usually sudden damage or suffering; a disaster",
-        "ex": "The reactor failure was a major technological catastrophe that affected the entire region."
-      }
-    ],
-    "gems": [
-      {
-        "s": "If the ultimate outcome of technological progress is a terminal event, there will be no trading desk left to settle the accounts.",
-        "why": "This sentence uses a conditional structure ('If... there will be...') combined with a striking, ironic metaphor to highlight the futility of financial hedging against existential threats. This helps learners see how to use vivid imagery to make abstract concepts memorable. / 这句话使用了条件句结构，并结合了极具讽刺意味的生动隐喻，来强调金融对冲在面对人类生存危机时的徒劳无功。这可以帮助学习者理解如何通过生动的意象使抽象概念令人难忘。"
-      },
-      {
-        "s": "Since the markets cannot organically price the end of the world, safeguarding humanity cannot be left to the whim of traders.",
-        "why": "This sentence employs a parallel structure with 'cannot' to contrast market failure with the necessity of external protection, creating a powerful argument. / 这句话运用了带有‘cannot’的平行结构，将市场失灵与外部保护的必要性进行对比，从而创造出一种强有力的论辩效果。"
-      }
-    ]
   }
 }
