@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27",
-  "generatedAt": "2026-09-27T05:27:22.058995+00:00",
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T05:35:32.226994+00:00",
   "economist": {
     "headline": "The battle between India’s stock exchanges is heating up again",
     "teaser": "Number two is trying harder",
@@ -8,58 +8,37 @@
     "vocab": []
   },
   "st": {
-    "headline": "Keppel, Starhub discuss M1 deal; Grab execs buy shares after stock falls: Markets this week",
-    "teaser": "The STI closed higher on Sept 25 at 5,710.65 despite uncertainty over Trump-Xi talks and a jump in US Treasury yields.",
-    "url": "https://www.straitstimes.com/business/companies-markets/keppel-starhub-discuss-potential-m1-deal-grab-execs-buy-shares-after-stock-falls-markets-this-week",
+    "headline": "Chinese EV maker NIO inks battery-swopping deal with Geely, open to other peers joining",
+    "teaser": "Under the deal, Geely Holding Group will acquire a 30% stake in NIO Power.",
+    "url": "https://www.straitstimes.com/business/chinese-ev-maker-nio-inks-battery-swopping-deal-with-geely-open-to-other-peers-joining",
     "fullText": [
-      "SINGAPORE – Singapore stocks ended the week slightly higher despite a cautious mood around Chinese President Xi Jinping’s Sept 23-25 US state visit with President Donald Trump, where disputes over tariffs and artificial intelligence remained unresolved.",
-      "The Straits Times Index rose 27.28 points, or 0.48 per cent, from its Sept 18 close to finish at 5,710.65 on Sept 25. It had climbed to 5,723.76 on Sept 22, but gave up some of those gains as a sell-off in US government bonds pushed yields higher.",
-      "Saxo UK investor strategist Neil Wilson noted “aggressive unloading” of US bonds on Sept 24, as the 10-year Treasury yield touched 5.23 per cent, a 19-year high, and the 30-year yield rose above 5.5 per cent, its highest level since 2004.",
-      "Yields had eased by Sept 25, but remained elevated: US Treasury data put the 10-year yield at 5.17 per cent and the 30-year yield at 5.49 per cent. Bond yields rise when their prices fall.",
-      "With inflation still above the Federal Reserve’s 2 per cent target, investors were also weighing the prospect of another quarter-point interest rate increase by the US central bank in October.",
-      "In Singapore, the three local banks outperformed the broader market over the week. Compared with their Sept 18 closes, DBS gained 1.43 per cent to end at $78, OCBC rose 1.88 per cent to $32.01 and UOB added 1.87 per cent to $42.57.",
-      "Listed companies will be held to higher standards of transparency and shareholder communication from Jan 1, 2027.",
-      "Among the new obligations rolled out by the Singapore Exchange Regulation (SGX RegCo) on Sept 23, every listed firm must have a dedicated investor relations policy published on its company website to facilitate regular, effective and fair communication with shareholders.",
-      "At a minimum, it must set out the channels through which the issuer communicates with investors, including the mechanisms by which investors may contact the issuer.",
-      "Companies are also encouraged to publish their annual reports, minutes of annual general meetings, investor presentation decks and a calendar of upcoming events on their websites.",
-      "Annual reports must include a link to the company’s investor relations policy, a description of its dividend policy, and a description of key shareholder engagement activities within the year. While companies are not required to issue dividends, they must explain their reasons for not doing so if they choose not to.",
-      "Listed companies must also clearly explain the factors used to determine the amount paid to the company’s executive directors and executives, including the chief executive, in their annual reports.",
-      "The new rules are to “target specific communication gaps and are aimed at elevating disclosure quality”, said the regulator.",
-      "StarHub and Keppel, in bourse filings on Sept 23, confirmed that they were discussing a potential deal involving telco M1.",
-      "Keppel, which owns a majority stake in M1, said it continues to explore consolidation opportunities involving M1, as it believes consolidation “is needed for Singapore’s telco sector”.",
-      "Should a deal materialise between Starhub and M1, it would reduce the number of mobile network operators in Singapore from four to three, subject to regulatory approval.",
-      "Shares for StarHub climbed during the week, reaching a peak of $1.15 on Sept 24 before closing on Sept 25 at $1.12.",
-      "Keppel shares also rose, peaking at $11.45 on Sept 24. The shares closed the week on Sept 25 at $11.30.",
-      "M1’s telco business returned to the spotlight after Simba’s proposed $1.4 billion takeover fell through in May. The Infocomm Media Development Authority (IMDA) had suspended its assessment of the deal while investigating Simba’s unauthorised use of radio frequency bands that it was not assigned to provide mobile services.",
-      "Simba said earlier on Sept 23 that it had used frequency spectrum beyond the limits permitted by the regulator.",
-      "“There was some use of spectrum that was permitted by the IMDA, and we then used it outside the limitations that were in that purpose,” said Tony Moffatt, company secretary of Simba’s Australian-listed parent Tuas, in an earnings call.",
-      "Grab shares rose 8.9 per cent on Sept 22 after CEO Anthony Tan bought about US$30 million (S$38.3 million) worth of shares and president Alex Hungate purchased about US$867,000 worth of shares the previous day, according to US regulatory filings.",
-      "Grab shares had fallen to a three-year low of US$2.74 on Sept 18, after the company on Sept 15 announced a US$1.49 billion deal to acquire a 60 per cent stake in buy-now-pay-later provider Atome Financial.",
-      "It will acquire the remaining 40 per cent around two years after the first stage of the deal is completed, which is expected to be in the third quarter of 2027, subject to certain conditions.",
-      "The deal, which Grab said would give the ride-hailing giant a ready-made consumer-lending operation to complement its existing mix of financial services, could ultimately value Atome at up to US$4.5 billion, a sum some analysts have said may be too much to pay for synergies that have yet to be demonstrated.",
-      "At a company town hall, Tan was reported to have said: “I have put my money where my mouth is... I believe in our strategy and our direction.”",
-      "Grab closed Sept 25 at US$3.13, up 10.6 per cent through the week.",
-      "Seatrium on Sept 22 launched a new $200 million share buyback programme after fully using its previous $100 million allocation on Sept 1.",
-      "Seatrium CEO Chris Ong said the larger buyback reflects a clear pathway for future growth underpinned by strengthened fundamentals and margins, and a robust global pipeline of offshore and marine work. He added that it would continue to allocate capital carefully while returning cash to shareholders.",
-      "The new buyback programme will be done progressively, funded by existing cash resources and repurchases of up to a maximum of 2 per cent of its total issued shares. The buyback will be subject to shareholder approval at each annual general meeting."
+      "Chinese electric vehicle maker NIO said on Sept 28 it had signed a deal with Zhejiang Geely Holding Group on their battery-swopping and charging businesses, in a bid to jointly expand and improve their charging networks.",
+      "Under the deal, Geely Holding Group will acquire a 30% stake in NIO Power, NIO’s battery-swopping and charging unit, NIO said in a statement.",
+      "For the purchase, Geely will contribute its 100% equity in its battery-swopping subsidiary Yiyi Power, plus 640 million yuan (S$121 million) in cash.",
+      "That transaction values NIO Power at about 16 billion yuan, according to NIO.",
+      "Chinese electric vehicle (EV) makers have been stepping up their battle for technological supremacy in ultra-fast charging, with Nio developing more than 4,000 battery-swop stations where a full battery replacement takes about three minutes, while Geely Auto, a flagship affiliate of Geely Holding Group, unveiled a four-minute charging technology last week.",
+      "NIO Power aims to have 10,000 battery swop stations in operation by 2030, with annual electricity demand expected to exceed 10 billion kWh, while Geely plans to expand its network to more than 22,000 charging stations by the end of 2027.",
+      "In an industry-wide race over fast EV charging, their rival BYD has been building tens of thousands of flash-charging stations.",
+      "Following the announcement, shares in NIO rose 3.2%, recovering from losses in the two previous sessions.",
+      "The companies touted their partnership as a new model in China’s car industry to build a denser and more reliable charging network to ease anxiety for EV drivers, leaving the door open for other peers to join.",
+      "The two companies will co-develop unified swopping standards and vehicle models, NIO said.",
+      "“The collaboration between NIO and Geely in charging and battery swopping is open to the broader industry. We welcome and look forward to more industry peers joining us,” NIO CEO William Li said.",
+      "As part of the deal, NIO will acquire a 10% equity stake in Geely’s smart charging subsidiary, Haohan Energy. REUTERS"
     ]
   },
   "cna": {
-    "headline": "RSAF moving to new runway as part of Paya Lebar Air Base relocation plans",
-    "teaser": "Then-Defence Minister Ng Eng Hen said in 2015 that Changi Air Base East would have to be expanded to replace Paya Lebar Air Base.",
-    "url": "https://www.channelnewsasia.com/singapore/rsaf-new-runway-changi-east-paya-lebar-air-base-relocation-6413306",
+    "headline": "England's Tuchel says calls for rotation are 'madness'",
+    "teaser": "England's Tuchel says calls for rotation are 'madness'",
+    "url": "https://www.channelnewsasia.com/sport/englands-tuchel-says-calls-rotation-are-madness-6414871",
     "fullText": [
-      "SINGAPORE: The Republic of Singapore Air Force (RSAF) will be moving to a new runway as part of plans to relocate Paya Lebar Air Base from 2030 and beyond, the Ministry of Defence (MINDEF) said on Saturday (Sep 26).",
-      "In response to CNA's query, a ministry spokesperson said the RSAF will be shifting its operations from its current runway, known as 02R/20L, to a new runway 03/21, at Changi Air Base East.",
-      "Then-Defence Minister Ng Eng Hen had said in 2015 that Changi Air Base East and Tengah Air Base would have to be expanded to accommodate various assets and facilities to replace Paya Lebar Air Base.",
-      "He said then that the focus was on expanding the Changi Air Base East and building a new runway, adding that it was a complex undertaking that required highly skilled engineering and close coordination with the ongoing runway and terminal expansion works at Changi Airport.",
-      "According to the document, the new runway would be operational from Sep 17, 2026 and would not be available for civilian use.",
-      "Current Defence Minister Chan Chun Sing said in September 2025 that the planned relocation of Paya Lebar Air Base remained on track for 2030 and beyond.",
-      "In his parliamentary reply, he reiterated that the relocation of an air base was complex and that it would be done progressively as essential aircraft support infrastructure becomes ready.",
-      "He had been asked whether there were plans to progressively reduce the frequency of flights from Paya Lebar Air Base leading up to its decommissioning in 2030.",
-      "The frequency of flights from Paya Lebar Air Base will be reduced progressively during the relocation phase, Mr Chan said.",
-      "Paya Lebar Air Base's relocation was first announced during the National Day Rally 2013 by then-Prime Minister Lee Hsien Loong.",
-      "He said the move would free up an area of about 800ha – bigger than Bishan or Ang Mo Kio – which could be used to build new homes, offices, factories, parks, living environments and communities."
+      "Sept 28 : England's players and the clubs they play for should not be allowed to pick and choose which games they feature in during the international break, manager Thomas Tuchel said.",
+      "England will play four Nations League matches during the extended international window. Tuchel's side lost to World Cup champions Spain on Saturday in the first of those games.",
+      "They next visit the Czech Republic on Tuesday and Croatia on Saturday, before playing the Czechs again at home on October 6, with the packed schedule leading to calls for some players who had short summer breaks due to the World Cup to be rested.",
+      "Asked if any club managers had reached out to him, Tuchel told reporters: \"I don't take calls from Premier League managers. I never called any national team coach (when he was in club football).",
+      "\"We want to win the next match... An ideal scenario would be to go again and go again and go again. With six or seven players minimum that start again – to put the responsibility on them and for them to feel the trust.\"",
+      "Tuchel said his team would go all out against the Czech Republic in Tuesday's match at the Fortuna Arena in Prague, adding: \"We need to be proactive.",
+      "\"There is no room for managing (the players) or an economic style. It's how the team want to play, how we want to play, so let's go.\"",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
@@ -69,259 +48,263 @@
   },
   "lifeVocab": [
     {
-      "en": "produce",
-      "cn": "农产品（尤指蔬菜水果）",
-      "def": "fresh agricultural products, especially fruits and vegetables",
-      "ex": "This wet market is famous for its cheap and fresh organic produce.",
-      "emoji": "🥦"
+      "en": "commuter",
+      "cn": "通勤者",
+      "def": "a person who travels some distance to work on a regular basis",
+      "ex": "The early morning train was packed with tired commuters on their way to Raffles Place.",
+      "emoji": "🧑‍💼"
     },
     {
-      "en": "vendor",
-      "cn": "摊主，商贩",
-      "def": "a person who sells goods, especially on the street or in a market",
-      "ex": "The fish vendor always gives regular customers a small discount.",
-      "emoji": "🐟"
+      "en": "concourse",
+      "cn": "车站大厅",
+      "def": "a large open area inside a station where people meet or pass through",
+      "ex": "Let's meet near the passenger service centre at the Dhoby Ghaut MRT station concourse.",
+      "emoji": "🏢"
     },
     {
-      "en": "poultry",
-      "cn": "家禽肉（鸡、鸭等）",
-      "def": "meat from birds such as chickens, ducks, and turkeys",
-      "ex": "You can buy fresh, chilled poultry at this stall instead of frozen meat.",
-      "emoji": "🍗"
+      "en": "gantry",
+      "cn": "闸机",
+      "def": "a bridge-like overhead structure, or here, the electronic gates used for ticketing at train stations",
+      "ex": "Remember to tap your EZ-Link card or mobile phone at the gantry to enter the platform.",
+      "emoji": "🎫"
     },
     {
-      "en": "scales",
-      "cn": "秤，天平",
-      "def": "an instrument or machine used for weighing people or things",
-      "ex": "The vegetable seller placed the red onions on the scales to calculate the price.",
-      "emoji": "⚖️"
+      "en": "shuttle",
+      "cn": "接驳车",
+      "def": "a vehicle or train that travels regularly back and forth over a short route",
+      "ex": "Bridging shuttle buses were quickly deployed to ferry passengers when the East-West Line experienced a delay.",
+      "emoji": "🚌"
     },
     {
-      "en": "haggle",
-      "cn": "讨价还价",
-      "def": "to argue or bargain over the price of something before agreeing on it",
-      "ex": "Some older folks love to haggle with the wet market vendors to save a few cents.",
-      "emoji": "💬"
+      "en": "disruption",
+      "cn": "中断/故障",
+      "def": "an interruption in the progress of a system, movement, or event",
+      "ex": "SMRT issued an apology on social media regarding the signaling disruption during peak hours.",
+      "emoji": "⚠️"
     },
     {
-      "en": "carton",
-      "cn": "纸盒，纸箱",
-      "def": "a light box or container made of cardboard or plastic",
-      "ex": "She bought a carton of fresh farm eggs from the dry goods section.",
-      "emoji": "📦"
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "def": "a moving staircase consisting of an endlessly circulating belt of steps",
+      "ex": "In Singapore, commuters are encouraged to stand on the left side of the escalator to let others pass on the right.",
+      "emoji": "🪜"
     },
     {
-      "en": "batch",
-      "cn": "一批（生产或制作的物品）",
-      "def": "a quantity of goods produced or dispatched at one time",
-      "ex": "The baker at the corner just brought out a fresh batch of local traditional cakes.",
-      "emoji": "🥯"
+      "en": "peak hour",
+      "cn": "高峰时间",
+      "def": "the time of day when traffic is at its heaviest, typically during commutes",
+      "ex": "To avoid the peak hour crowd, I usually take the train before 7:30 AM.",
+      "emoji": "⏰"
     },
     {
-      "en": "stall",
-      "cn": "摊位",
-      "def": "a large table or small booth with an open front from which goods are sold",
-      "ex": "There is always a long queue at the freshly-made noodle stall in the morning.",
-      "emoji": "🏪"
+      "en": "platform",
+      "cn": "月台/站台",
+      "def": "the raised flat area next to the track where passengers get on and off trains",
+      "ex": "Please stand behind the yellow line while waiting for the train to arrive at the platform.",
+      "emoji": "🚉"
     },
     {
-      "en": "drizzle",
-      "cn": "毛毛雨",
-      "def": "light rain falling in very fine, gentle drops",
-      "ex": "The light morning drizzle didn't stop residents from visiting the outdoor market.",
-      "emoji": "🌧️"
+      "en": "transit",
+      "cn": "过境/交通运输",
+      "def": "the carrying of people or goods from one place to another, especially on public transport",
+      "ex": "Singapore’s mass rapid transit network is known globally for its cleanliness and efficiency.",
+      "emoji": "🚇"
     },
     {
-      "en": "change",
-      "cn": "零钱，找续的钱",
-      "def": "coins or notes of low value given back to a buyer when they pay with a larger bill",
-      "ex": "Please keep the change, Uncle, it's alright.",
-      "emoji": "🪙"
+      "en": "interchange",
+      "cn": "转换站",
+      "def": "a station where passengers can change from one transit line or route to another",
+      "ex": "Outram Park is a busy interchange station connecting three different MRT lines.",
+      "emoji": "🔄"
     }
   ],
   "levelVocab": [
     {
-      "w": "spearhead",
-      "ipa": "/ˈspɪəhed/",
+      "w": "advocate",
+      "ipa": "/ˈæd.və.keɪt/",
       "pos": "v.",
-      "cn": "带头，领头",
-      "def": "to lead an attack, campaign, or public movement",
-      "ex": "She was chosen to spearhead the new regional digitalization project."
+      "cn": "拥护/倡导",
+      "def": "to publicly support or suggest an idea, development, or way of doing something",
+      "ex": "Many forward-thinking HR managers in Singapore advocate for a permanent four-day work week to curb burnout."
     },
     {
       "w": "disseminate",
-      "ipa": "/dɪˈsemɪneɪt/",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
       "pos": "v.",
-      "cn": "散播，宣传",
-      "def": "to spread information, knowledge, or ideas widely",
-      "ex": "The HR department will disseminate the updated remote-working guidelines tomorrow."
+      "cn": "传播/散播",
+      "def": "to spread information, knowledge, or ideas to a large number of people",
+      "ex": "The health authority used multiple social media channels to quickly disseminate safety guidelines during the outbreak."
     },
     {
-      "w": "adversity",
-      "ipa": "/ədˈvɜːsəti/",
-      "pos": "n.",
-      "cn": "逆境，不幸",
-      "def": "difficulties, misfortune, or hard times",
-      "ex": "The local retail team showed great resilience in the face of economic adversity."
-    },
-    {
-      "w": "disrupt",
-      "ipa": "/dɪsˈrʌpt/",
-      "pos": "v.",
-      "cn": "打乱，中断",
-      "def": "to interrupt an event, activity, or process by causing a disturbance",
-      "ex": "The sudden system outage threatens to disrupt our quarterly financial auditing process."
+      "w": "equivocal",
+      "ipa": "/ɪˈkwɪv.ə.kəl/",
+      "pos": "adj.",
+      "cn": "模棱两可的",
+      "def": "unclear or evasive, deliberately avoiding a direct commitment",
+      "ex": "The director gave an equivocal response when asked if there would be layoffs at the end of the fiscal year."
     },
     {
       "w": "imperative",
-      "ipa": "/ɪmˈperətɪv/",
+      "ipa": "/ɪmˈper.ə.tɪv/",
       "pos": "adj.",
-      "cn": "至关重要的",
-      "def": "extremely important or urgent; requiring immediate attention",
-      "ex": "It is imperative that we address the security vulnerabilities before the app launches."
+      "cn": "极其重要的/迫切的",
+      "def": "extremely important or urgent, needing immediate action",
+      "ex": "It is imperative that we secure the client's signature before the weekend to lock in the promotional rates."
     },
     {
-      "w": "fluctuate",
-      "ipa": "/ˈflʌktʃueɪt/",
+      "w": "delineate",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
       "pos": "v.",
-      "cn": "波动，起伏",
-      "def": "to rise and fall irregularly in number, amount, or strength",
-      "ex": "Logistics costs fluctuate constantly depending on global fuel prices."
+      "cn": "勾画/详细描述",
+      "def": "to describe, portray, or list something precisely and in detail",
+      "ex": "The project proposal clearly delineates the specific responsibilities of both the marketing and product development teams."
     },
     {
-      "w": "amplify",
-      "ipa": "/ˈæmplɪfaɪ/",
+      "w": "conducive",
+      "ipa": "/kənˈdʒuː.sɪv/",
+      "pos": "adj.",
+      "cn": "有益于...的",
+      "def": "making a certain situation or outcome likely or possible",
+      "ex": "Open-concept offices are not always conducive to tasks that require deep concentration and silence."
+    },
+    {
+      "w": "divergent",
+      "ipa": "/daɪˈvɜː.dʒənt/",
+      "pos": "adj.",
+      "cn": "分歧的/不同的",
+      "def": "tending to be different or develop in different directions",
+      "ex": "Despite their divergent opinions on budget allocation, the board members eventually reached a compromise."
+    },
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
       "pos": "v.",
-      "cn": "放大，增强",
-      "def": "to increase the strength, effect, or volume of something",
-      "ex": "Using client testimonials on our main website can significantly amplify our brand credibility."
+      "cn": "提高/增大",
+      "def": "to increase the size, value, or strength of something by adding to it",
+      "ex": "The team decided to augment their sales revenue by launching an aggressive online campaign next quarter."
     },
     {
-      "w": "deviation",
-      "ipa": "/ˌdiːviˈeʃn/",
-      "pos": "n.",
-      "cn": "偏差，背离",
-      "def": "a departure or difference from an established standard, expectation, or norm",
-      "ex": "Any deviation from the standard quality control protocol must be reported instantly."
-    },
-    {
-      "w": "concur",
-      "ipa": "/kənˈkɜː/",
+      "w": "precipitate",
+      "ipa": "/prɪˈsɪp.ɪ.teɪt/",
       "pos": "v.",
-      "cn": "同意，一致",
-      "def": "to have the same opinion; to agree with a decision or point of view",
-      "ex": "Most of the board members concur that expanding into Vietnam is our best long-term option."
+      "cn": "促成/使...骤然发生",
+      "def": "to make something serious happen suddenly or sooner than expected",
+      "ex": "A sudden drop in consumer demand could precipitate a cash flow crisis for small retail businesses."
     },
     {
-      "w": "reconcile",
-      "ipa": "/ˈrekənsaɪl/",
+      "w": "obviate",
+      "ipa": "/ˈɒb.vi.eɪt/",
       "pos": "v.",
-      "cn": "调和，一致",
-      "def": "to find a way of making two different ideas, facts, or accounts consistent with each other",
-      "ex": "It is often difficult for working parents to reconcile long office hours with family commitments."
+      "cn": "消除/排除...的需要",
+      "def": "to remove a difficulty or the need for something",
+      "ex": "Using automated software can obviate the need for manual data entry, saving hours of tedious labor."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore's LTA Reverses Plan to Phase Out Classic Ez-Link Cards",
-    "transcript": "Following widespread public feedback, the Land Transport Authority has decided to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ʃelf/ (v.) to decide not to proceed with a plan or proposal — 搁置，暂缓\">shelf</span> its plans to phase out older ez-link cards. Many commuters, especially seniors, voiced concerns about not being able to see their card balances at MRT fare gates. This swift policy <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpɪvət/ (n.) a sharp and rapid change in direction, strategy, or policy — 改变策略，转向\">pivot</span> highlights the challenges of balancing technological advancement with <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌɪnkluːˈsɪvəti/ (n.) the quality of including and treating everyone fairly, regardless of age or background — 包容性\">inclusivity</span> in Singapore's rapidly ageing society."
+    "title": "Singapore Steps Up Green Transition Efforts",
+    "transcript": "Singapore is step-by-step <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈræmpɪŋ ʌp/ (v. phr.) increasing or boosting the level or amount of something — 逐步增加/提高\">ramping up</span> its efforts to meet its net-zero emission targets by 2050. During the recent budget announcement, the government confirmed a progressive hike in the carbon tax to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəmˈpel/ (v.) to force someone to do something — 强迫/迫使\">compel</span> local corporations to adopt cleaner energy. Analysts believe this move will <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/nʌdʒ/ (v.) to gently encourage someone to take action — 劝诱/轻推\">nudge</span> multinational companies to anchor their green projects in the city-state."
   },
   "economistArticle": {
-    "title": "The Battle for India's Bourses: A Duopoly Reheated",
+    "title": "The battle between India’s stock exchanges is heating up again",
     "paras": [
-      "The <span class=\"voc\">duopoly</span> governing India’s financial markets is entering a turbulent new chapter. For years, the National Stock Exchange (NSE) has reigned supreme, dominating the highly lucrative <span class=\"voc\">derivatives</span> segment and leaving its older sibling, the Bombay Stock Exchange (BSE), in the shadows. However, a series of strategic <span class=\"voc\">maneuvers</span> by BSE’s aggressive new leadership has successfully reignited a fierce turf war.",
-      "BSE, Asia's oldest bourse, has successfully revitalized its weekly options contracts. By <span class=\"voc\">slashing</span> transaction fees and restructuring expiry dates to avoid direct clashes with the NSE, BSE has clawed back lost market share. Retail investors, attracted by cheaper trading costs and high volatility, are flocking to the revived products, forcing the market leader to defend its turf with equal vigor.",
-      "This corporate clash extends beyond mere pricing strategies; it is a battle for technological supremacy. While NSE has historically boasted superior throughput and lower <span class=\"voc\">latency</span>, BSE has invested heavily in upgrading its trading architecture to process millions of orders seamlessly. The stakes are immense, as India's retail trading boom shows no signs of cooling down, fueled by millions of tech-savvy youths entering the market via smartphone apps.",
-      "Regulators are keeping a watchful eye on this escalating rivalry. The Securities and Exchange Board of India (SEBI) is particularly concerned about the <span class=\"voc\">systemic</span> risks posed by retail investors piling into <span class=\"voc\">speculative</span> options trading. <span class=\"gem\">While competition breeds efficiency and lowers costs for market participants, it also risks inflating a speculative bubble that could burst spectacularly.</span>",
-      "Ultimately, the renewed competition between BSE and NSE is a healthy sign of a maturing financial <span class=\"voc\">ecosystem</span>. As both giants vie for dominance, they will drive innovations in financial products and risk management. For global investors looking at India as a primary growth engine, this rivalry promises a more robust, liquid, and <span class=\"voc\">dynamic</span> market landscape."
+      "<span class=\"gem\">For years, India’s equity landscape was a tale of comfortable coexistence.</span> The <span class=\"voc\">venerable</span> Bombay Stock Exchange (BSE), founded in 1875 as Asia’s oldest, possessed history, while its younger rival, the National Stock Exchange (NSE), held the crown for technology and trading volumes. Yet this cosy <span class=\"voc\">duopoly</span> is now giving way to fierce combat as BSE tries to reclaim its lost glory.",
+      "The battleground is primarily the highly <span class=\"voc\">lucrative</span> derivatives market. Historically, the NSE enjoyed a near-monopoly in equity derivatives, leaving BSE with <span class=\"voc\">negligible</span> market share. However, under the leadership of a new chief executive, Sundararaman Ramamurthy, BSE has aggressively overhauled its product offerings, <span class=\"voc\">slashing</span> transaction fees and restructuring its weekly options contracts to directly challenge the NSE’s dominance.",
+      "The results of this tactical offensive have been swift and striking. BSE’s market share in equity derivatives has surged from practically zero to over fifteen percent within a short span. This <span class=\"voc\">resurgence</span> has not only forced NSE to reconsider its pricing strategy but has also sparked concerns about market stability, as retail participation in highly <span class=\"voc\">speculative</span> derivative contracts reaches fever pitch.",
+      "Regulatory bodies are watching the <span class=\"voc\">skirmish</span> with mounting anxiety. The Securities and Exchange Board of India (SEBI) has repeatedly warned of the systemic risks associated with retail investors piling into options. There is a delicate balance to strike; while competition breeds efficiency and lowers costs for traders, a price war that encourages excessive speculation could end in tears.",
+      "Looking ahead, the NSE cannot afford to rest on its laurels. It is currently preparing for an initial public offering (IPO) that has been delayed for years due to legacy regulatory issues. To secure a premium valuation, the NSE must prove it can fend off BSE's <span class=\"voc\">encroachment</span> on its <span class=\"voc\">turf</span>, ensuring that India’s financial architecture remains both competitive and safe."
     ],
-    "cn": "主导印度金融市场的双头垄断格局正在进入一个动荡的新篇章。多年来，国家证券交易所（NSE）一直称霸市场，在极具吸引力的衍生品领域占据主导地位，将历史更悠久的孟买证券交易所（BSE）甩在阴影之中。然而，BSE具有进取心的新管理层采取了一系列战略举措，成功重新点燃了一场激烈的地盘之争。\n\n作为亚洲最古老的交易所，BSE成功重振了其周度期权合约。通过大幅削减交易费用并重新调整到期日以避免与NSE正面交锋，BSE已经夺回了失去的市场份额。在更便宜的交易成本和高波动的吸引下，散户投资者纷纷涌向这些重获新生的产品，迫使市场领头羊不得不以同样的力度保卫自己的地盘。\n\n这场企业冲突不仅局限于定价策略，更是一场技术霸权的争夺。虽然NSE在历史上一直以卓越的吞吐量和更低的延迟引以为豪，但BSE已投入巨资升级其交易架构，以无缝处理数百万笔订单。由于在智能手机应用推动下，数百万熟悉科技的年轻人涌入市场，印度的散户交易热潮毫无降温迹象，因此这场争夺的赌注巨大。\n\n监管机构正密切关注这场升级的竞争。印度证券交易委员会（SEBI）尤其担心散户盲目涌入投机性期权交易带来的系统性风险。虽然竞争能带来效率并降低市场参与者的成本，但也存在吹大投机泡沫的风险，而这种泡沫可能会以惨烈的方式破裂。\n\n归根结底，BSE与NSE之间重新燃起的竞争是金融生态系统走向成熟的健康迹象。随着这两大巨头争夺霸主地位，它们将推动金融产品和风险管理的创新。对于将印度视为主要增长引擎的全球投资者而言，这场竞争预示着一个更具韧性、流动性更强且更具活力的市场格局。",
+    "cn": "多年来，印度的股市格局一直是一个安逸共存的故事。成立于1875年、作为亚洲最古老交易所的孟买证券交易所（BSE）拥有悠久的历史，而其年轻的竞争对手国家证券交易所（NSE）则在技术和交易量上夺得桂冠。然而，随着BSE试图重夺昔日荣光，这种舒适的双头垄断如今正演变为一场激烈的战斗。\n\n战场主要集中在利润极其丰厚的衍生品市场上。历史上，NSE在股票衍生品领域享有近乎垄断的地位，给BSE留下的市场份额微乎其微。然而，在新任首席执行官桑达拉拉曼·拉玛穆尔蒂的领导下，BSE积极重组其产品线，大幅削减交易费用并重构每周选择权合约，直接向NSE的霸主地位发起挑战。\n\n这一战术性攻势的结果既迅速又惊人。在极短的时间内，BSE在股票衍生品领域的市场份额已从几乎为零飙升至15%以上。这一复苏不仅迫使NSE重新审视其定价策略，也引发了人们对市场稳定性的担忧，因为散户参与高度投机性衍生品合约的热情已达到了白热化的程度。\n\n监管机构正怀着日益加剧的焦虑注视着这场小规模冲突。印度证券交易委员会（SEBI）已多次警告散户投资者涌入期权交易带来的系统性风险。这里需要取得一种微妙的平衡：虽然竞争能提高效率并降低交易者的成本，但一场鼓励过度投机的价格战最终可能会以悲剧收场。\n\n展望未来，NSE无法再固步自封。由于历史遗留的监管问题，它目前正准备推迟多年的首次公开募股（IPO）。为了确保获得溢价估值，NSE必须证明其有能力抵御BSE对其领地的蚕食，确保印度的金融体系既保持竞争力又安全稳健。",
     "vocab": [
       {
+        "w": "venerable",
+        "ipa": "/ˈven.ər.ə.bəl/",
+        "pos": "adj.",
+        "mean": "因历史悠久而受尊敬的/古老的",
+        "def": "accorded a great deal of respect, especially because of age, wisdom, or character",
+        "ex": "The venerable institution is celebrating its 150th anniversary this year."
+      },
+      {
         "w": "duopoly",
-        "ipa": "/djuːˈɒpəli/",
+        "ipa": "/duːˈɒp.əl.i/",
         "pos": "n.",
         "mean": "双头垄断",
-        "def": "a situation in which two companies own all or nearly all of the market for a given product or service",
-        "ex": "The mobile operating system market is a clear duopoly between Android and iOS."
+        "def": "a situation in which two dominant sellers control the market",
+        "ex": "The domestic aviation market in that country is practically a duopoly between two major carriers."
       },
       {
-        "w": "derivatives",
-        "ipa": "/dɪˈrɪvətɪvz/",
-        "pos": "n.",
-        "mean": "衍生品",
-        "def": "financial contracts whose value is derived from an underlying asset, index, or rate",
-        "ex": "The bank made significant profits through trading complex financial derivatives."
+        "w": "lucrative",
+        "ipa": "/ˈluː.krə.tɪv/",
+        "pos": "adj.",
+        "mean": "获利丰厚的",
+        "def": "producing a great deal of profit",
+        "ex": "Securing the government contract proved to be highly lucrative for the young tech startup."
       },
       {
-        "w": "maneuvers",
-        "ipa": "/məˈnuːvəz/",
-        "pos": "n.",
-        "mean": "策略，手段",
-        "def": "clever or planned actions designed to achieve a specific goal",
-        "ex": "The CEO's clever financial maneuvers helped the company evade a hostile takeover."
+        "w": "negligible",
+        "ipa": "/ˈneɡ.lɪ.dʒə.bəl/",
+        "pos": "adj.",
+        "mean": "微不足道的/可忽略不计的",
+        "def": "so small or unimportant as to be not worth considering; insignificant",
+        "ex": "The difference in cost between the two delivery options was negligible."
       },
       {
         "w": "slashing",
-        "ipa": "/ˈslæʃɪŋ/",
+        "ipa": "/ˈslæʃ.ɪŋ/",
         "pos": "v.",
         "mean": "大幅削减",
-        "def": "cutting or reducing something, such as prices or costs, drastically and rapidly",
-        "ex": "The budget airline is slashing fares to attract travelers during the low season."
+        "def": "reducing something, such as a price or fee, by a very large amount",
+        "ex": "Fierce competition forced budget airlines to start slashing their ticket prices."
       },
       {
-        "w": "latency",
-        "ipa": "/ˈleɪtənsi/",
+        "w": "resurgence",
+        "ipa": "/rɪˈsɜː.dʒəns/",
         "pos": "n.",
-        "mean": "延迟",
-        "def": "the delay before a transfer of data begins following an instruction for its transfer",
-        "ex": "High-frequency traders spend millions to reduce latency by just a few microseconds."
+        "mean": "复苏/卷土重来",
+        "def": "an increase or revival after a period of little activity, popularity, or occurrence",
+        "ex": "The city center is experiencing a cultural resurgence with new cafes and art galleries opening up."
       },
       {
-        "w": "systemic",
-        "ipa": "/sɪˈstemɪk/",
-        "pos": "adj.",
-        "mean": "系统性的",
-        "def": "relating to a system as a whole, rather than its individual parts",
-        "ex": "The failure of a major bank raised fears of a systemic crisis in the country."
+        "w": "skirmish",
+        "ipa": "/ˈskɜː.mɪʃ/",
+        "pos": "n.",
+        "mean": "小规模冲突/争端",
+        "def": "a minor fight, contest, or argument between opposing parties",
+        "ex": "The legal skirmish over patent rights dragged on for months before being settled out of court."
       },
       {
         "w": "speculative",
-        "ipa": "/ˈspekjʊlətɪv/",
+        "ipa": "/ˈspek.jə.lə.tɪv/",
         "pos": "adj.",
         "mean": "投机性的",
-        "def": "involving high risk on financial markets with the hope of making fast gains",
-        "ex": "The dramatic rise of cryptocurrency is fueled largely by speculative retail trading."
+        "def": "involving a high risk of loss in the hope of making a quick profit",
+        "ex": "The regulator warned the public about investing their retirement savings in highly speculative cryptocurrencies."
       },
       {
-        "w": "regulatory",
-        "ipa": "/ˈreɡjələtɔːri/",
-        "pos": "adj.",
-        "mean": "监管的",
-        "def": "relating to the control of an activity by rules, laws, or authorized agencies",
-        "ex": "The tech company faced strict regulatory hurdles before launching its autonomous driving fleet."
-      },
-      {
-        "w": "dynamic",
-        "ipa": "/daɪˈnæmɪk/",
-        "pos": "adj.",
-        "mean": "动态的，充满活力的",
-        "def": "characterized by constant change, activity, or progress",
-        "ex": "Singapore provides a highly dynamic and flexible business environment for global startups."
-      },
-      {
-        "w": "ecosystem",
-        "ipa": "/ˈeɪkəʊsɪstəm/",
+        "w": "encroachment",
+        "ipa": "/ɪnˈkrəʊtʃ.mənt/",
         "pos": "n.",
-        "mean": "生态系统",
-        "def": "a complex network of interconnected organizations, individuals, and systems",
-        "ex": "Our startup operates within a highly supportive local tech ecosystem."
+        "mean": "侵犯/蚕食",
+        "def": "gradual intrusion on a person's territory, rights, or domain",
+        "ex": "The retail giant's expansion was seen as an encroachment on the business of local shopkeepers."
+      },
+      {
+        "w": "turf",
+        "ipa": "/tɜːf/",
+        "pos": "n.",
+        "mean": "地盘/势力范围",
+        "def": "an area or sphere of activity regarded as someone's personal territory",
+        "ex": "The established firm fought hard to defend its commercial turf against foreign entrants."
       }
     ],
     "gems": [
       {
-        "s": "While competition breeds efficiency and lowers costs for market participants, it also risks inflating a speculative bubble that could burst spectacularly.",
-        "why": "This sentence brilliantly uses the concessive conjunction 'While' to present a balanced argument, contrasting immediate benefits with long-term systemic risks. This structure is highly effective in professional and analytical writing. / 这句话巧妙地使用了让步连词 'While' 来呈现平衡的观点，对比了眼前的利益（效率提升、成本降低）与长期的系统性风险（投机泡沫破裂）。这种结构在专业和分析性写作中非常具有说服力。"
+        "s": "For years, India’s equity landscape was a tale of comfortable coexistence.",
+        "why": "This opening sentence uses literary personification and metaphor ('a tale of comfortable coexistence') to contrast with the aggressive market warfare that follows, engaging the reader immediately. 作者使用了文学化的拟人和比喻手法（“安逸共存的故事”）来与随后紧烈、残酷的商业竞争形成鲜明对比，瞬间吸引了读者的阅读兴趣。"
+      },
+      {
+        "s": "To secure a premium valuation, the NSE must prove it can fend off BSE's encroachment on its turf.",
+        "why": "The author uses vivid financial terminology ('premium valuation') coupled with action-oriented metaphors ('fend off' and 'encroachment on its turf') to describe defensive corporate strategy dynamically. 作者将专业财经术语（“溢价估值”）与极具动感的比喻（“击退对手对领地的蚕食”）相结合，生动形象地描述了公司防御性的战略举措。"
       }
     ]
   }
