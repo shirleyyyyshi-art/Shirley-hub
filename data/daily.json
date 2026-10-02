@@ -1,310 +1,44 @@
 {
-  "date": "2026-10-01",
-  "generatedAt": "2026-10-01T06:10:08.770115+00:00",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T05:53:35.249345+00:00",
   "economist": {
-    "headline": "Investing for babies involves knotty trade-offs",
-    "teaser": "Should new parents favour financial capital, human capital or something else?",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
+    "headline": "Research on grasping bureaucrats startles Singapore",
+    "teaser": "It is more revealing about its academic culture than its civil service",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
     "vocab": []
   },
   "st": {
-    "headline": "Asian factory activity expands amid global AI boom",
-    "teaser": "South Korea's export demand grew at its fastest pace in 15½ years in September.",
-    "url": "https://www.straitstimes.com/business/asian-factory-activity-expands-amid-global-ai-boom",
+    "headline": "S’pore home loan rates rise after Fed hike: What home owners should look out for",
+    "teaser": "Lock in a fixed-rate for near-term certainty but look past the rate – cheapest isn't always best.",
+    "url": "https://www.straitstimes.com/business/banking/spore-home-loan-rates-rise-after-fed-hike-what-home-owners-should-look-out-for",
     "fullText": [
-      "TOKYO - Factory activity across Asia expanded in September owing to the global AI boom, private surveys showed on Oct 1, offering some relief to policymakers concerned about nagging cost pressures attributable to the US-Israeli war on Iran.",
-      "While a renewed rise in energy prices clouded the global economic outlook, export powerhouses Japan, South Korea and Taiwan saw manufacturing activity expand on solid demand for chips and artificial intelligence-related goods.",
-      "On Sept 30, surveys showed that China’s factory activity also expanded in September as easing weather disruptions allowed factories to resume operations.",
-      "South Korea, in particular, saw factory activity grow in September at the biggest margin in four months, as export demand grew at the fastest pace in 15½ years .",
-      "Usamah Bhatti, economist at S&P Global Market Intelligence, said in reference to South Korea: “Both new orders and production growth hit the highest for around 5½ years, with anecdotal evidence often linking the expansions to the combined strength of the semiconductor and automotive sectors.”",
-      "South Korea’s purchasing managers’ index (PMI), published by S&P Global, stood at 53.9 in September, up from 52.3 in August, the highest level since May.",
-      "The index remained above 50, which separates expansion from contraction, for a 10th consecutive month.",
-      "Taiwan, which is also reaping the benefits from the global AI boom, saw its PMI hit 56.7 in September, up from 54.7 in August.",
-      "Japan’s S&P Global PMI stood at 54.1 in September, easing from 54.9 in August and marking the weakest pace of expansion in six months, as output and new orders slowed.",
-      "Despite the slowdown, overseas demand remained strong; new export orders rose for a ninth straight month owing to robust demand in Asia and improved sales to the US.",
-      "Still, cost pressures remained elevated with firms continuing to raise selling prices at one of the sharpest rates since late 2022, the Japan PMI survey showed.",
-      "Factory activity for other Asian economies was patchy. While Indonesia and Vietnam saw activity expand, the Philippines and Malaysia contracted, surveys showed. REUTERS"
+      "SINGAPORE – Home loan rates in Singapore are heading back up, after the United States Federal Reserve recently raised interest rates for the first time in three years.",
+      "Checks by The Straits Times show that both fixed and floating-rate loan offerings are now higher across the major banks here."
     ]
   },
   "cna": {
-    "headline": "Singapore Airlines cancels flights to and from Dubai till Dec 1",
-    "teaser": "Scoot separately announced flight cancellations to and from Jeddah until Dec 2.",
-    "url": "https://www.channelnewsasia.com/singapore/sia-flight-cancel-dubai-scoot-jeddah-6423611",
+    "headline": "India's Cockroach Janta Party, student groups to protest, demand poll chief's resignation",
+    "teaser": "The protests mark the latest escalation in a dispute that has put unprecedented scrutiny on India's Election Commission.",
+    "url": "https://www.channelnewsasia.com/asia/india-cockroach-janta-party-gyanesh-kumar-resignation-6426116",
     "fullText": [
-      "SINGAPORE: Singapore Airlines (SIA) has cancelled flights to and from Dubai until Dec 1 due to the geopolitical situation in the Middle East.",
-      "The flights affected are SQ494 (Singapore-Dubai), and SQ495 (Dubai-Singapore) .",
-      "“As the situation remains fluid, other SIA flights may be affected,” the airline said in an advisory on Thursday (Oct 1).",
-      "Customers affected by the flight cancellations can seek a full refund of the unused portion of their ticket, SIA said.",
-      "In a separate advisory on Wednesday, Scoot announced flight cancellations to and from Jeddah until Dec 2.",
-      "The affected flights are TR796 (Singapore-Jeddah), and TR797 (Jeddah-Singapore) .",
-      "Affected customers may request a full refund if they choose not to continue with their travel, Scoot said."
+      "NEW DELHI: Prime Minister Narendra Modi will face renewed pressure on Friday (Oct 2) as the Gen Z-led Cockroach Janta Party (CJP) and a separate coalition of student and activist groups stage fresh protests, demanding the resignation of the elections commission chief over a controversial voter roll revision.",
+      "The CJP will rally in Mumbai and plans to expand demonstrations nationwide in the coming days, while student and civil society groups will gather at New Delhi's Jantar Mantar.",
+      "The protests mark the latest escalation in a dispute that has put unprecedented scrutiny on India's Election Commission, long regarded as one of the country's most trusted institutions.",
+      "The protesters' main allegation is that the commission manipulated voter rolls in ways that favour Modi's Bharatiya Janata Party (BJP). The commission and the government have denied the allegations.",
+      "The Election Commission has said differing views are a normal part of internal deliberations and that all its actions were lawful.",
+      "\"We have been asking and demanding for a change but nothing of that is going to happen, if our only tool that is left to change anything in our society, 'the right to vote', is taken away from us,\" Saurav Das, CJP's convenor, told Indian news agency ANI on Thursday.",
+      "\"We will only end the protest after Gyanesh Kumar resigns.\"",
+      "The controversy centres on a nationwide voter-verification exercise launched last year that critics say has led to millions of eligible voters being removed from electoral rolls.",
+      "The commission says the exercise is intended to remove duplicate, deceased or ineligible voters and ensure the accuracy of electoral rolls.",
+      "Opposition parties led by the Congress party are also set to begin protests demanding Kumar's resignation on Oct 6.",
+      "The CJP, a youth movement that emerged earlier this year from online frustration over unemployment and leaked examination papers , has become an unexpected political force.",
+      "Led by Abhijeet Dipke, the party gained national prominence after spearheading mass protests over exam-paper leaks that led to the resignation of India's education minister, one of Modi's most significant political setbacks in recent years.",
+      "An automated curation of our top stories to start your day."
     ]
   },
   "mom": {
     "headline": "Updated Scaffold Fire Safety Requirements",
     "teaser": "1. Scaffold fires can spread rapidly across combustible materials such as timber and scaffold netting, posing risks to workers, residents, emergency responders and members of the public. To strengthen scaffold fire safety, the Ministry of Manpower (MOM) will introduce new requirements to shorten the permissible duratio",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0924-factsheet-on-updated-scaffold-fire-safety-requirements"
-  },
-  "lifeVocab": [
-    {
-      "en": "commute",
-      "cn": "通勤",
-      "def": "the daily journey to and from your place of work or study",
-      "ex": "My daily commute from Jurong East to City Hall takes about forty minutes.",
-      "emoji": "🚇"
-    },
-    {
-      "en": "concourse",
-      "cn": "大厅/大堂",
-      "def": "a large open area inside a station where people gather or pass through",
-      "ex": "Let's meet at the MRT station concourse near the passenger service centre.",
-      "emoji": "🚉"
-    },
-    {
-      "en": "gantry",
-      "cn": "闸机",
-      "def": "the electronic gate where you tap your travel card to enter or exit a station",
-      "ex": "Please tap your phone at the gantry to enter the platform.",
-      "emoji": "💳"
-    },
-    {
-      "en": "shuttle",
-      "cn": "接驳车/往返巴士",
-      "def": "a bus or train that travels back and forth between two points regularly",
-      "ex": "When the train service broke down, free shuttle buses were deployed immediately.",
-      "emoji": "🚌"
-    },
-    {
-      "en": "disrupt",
-      "cn": "中断/干扰",
-      "def": "to interrupt an activity or service by causing a temporary problem",
-      "ex": "Track maintenance will briefly disrupt train services on the East-West line this Sunday.",
-      "emoji": "⚠️"
-    },
-    {
-      "en": "platform",
-      "cn": "站台",
-      "def": "the raised area where passengers wait to board a train",
-      "ex": "Keep behind the yellow safety line while waiting on the platform.",
-      "emoji": "🚉"
-    },
-    {
-      "en": "tap in",
-      "cn": "刷卡进站",
-      "def": "to touch your smart card or phone against an electronic reader to pay a fare",
-      "ex": "Ensure your EZ-Link card has enough balance before you tap in.",
-      "emoji": "📲"
-    },
-    {
-      "en": "peak hour",
-      "cn": "高峰时段",
-      "def": "the busiest time of day when traffic or passenger volume is highest",
-      "ex": "Trains are extremely crowded during the morning peak hour from 8:00 AM to 9:00 AM.",
-      "emoji": "⏰"
-    },
-    {
-      "en": "escalator",
-      "cn": "自动扶梯",
-      "def": "a moving staircase that carries people between different levels of a building or station",
-      "ex": "Stand on the left of the escalator to let hurried commuters pass on the right.",
-      "emoji": "🪜"
-    },
-    {
-      "en": "commence",
-      "cn": "开始/开通",
-      "def": "to begin or start a process or service",
-      "ex": "The first train services to Changi Airport commence daily at 5:30 AM.",
-      "emoji": "🚀"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "conducive",
-      "ipa": "/kənˈdjuːsɪv/",
-      "pos": "adj.",
-      "cn": "有益于...的/有助的",
-      "def": "making a certain situation or outcome likely or possible",
-      "ex": "Working in a quiet environment is highly conducive to deep, focused work."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈmɛnt/",
-      "pos": "v.",
-      "cn": "增加/提高",
-      "def": "to make something greater by adding to it; to increase",
-      "ex": "She took on freelance design projects to augment her monthly salary."
-    },
-    {
-      "w": "preclude",
-      "ipa": "/prɪˈkluːd/",
-      "pos": "v.",
-      "cn": "排除/妨碍",
-      "def": "to prevent from happening; to make impossible",
-      "ex": "Taking this night course will preclude you from attending our regular evening meetings."
-    },
-    {
-      "w": "stagnate",
-      "ipa": "/stæɡˈneɪt/",
-      "pos": "v.",
-      "cn": "停滞不前",
-      "def": "to cease to develop or progress; to become inactive",
-      "ex": "Without continuous training, your professional skills might stagnate in this fast-moving industry."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsɛmɪneɪt/",
-      "pos": "v.",
-      "cn": "传播/散布",
-      "def": "to spread information, knowledge, or ideas widely",
-      "ex": "The HR department will disseminate the new remote working guidelines to all staff tomorrow."
-    },
-    {
-      "w": "disconcerting",
-      "ipa": "/ˌdɪskənˈsɜːtɪŋ/",
-      "pos": "adj.",
-      "cn": "令人不安的",
-      "def": "causing one to feel unsettled, confused, or worried",
-      "ex": "The sudden drop in customer satisfaction scores was rather disconcerting for the management."
-    },
-    {
-      "w": "untenable",
-      "ipa": "/ʌnˈtɛnəbəl/",
-      "pos": "adj.",
-      "cn": "站不住脚的/无法维持的",
-      "def": "not able to be maintained or defended against criticism or objection",
-      "ex": "His argument for delaying the product launch became untenable when competitor data was revealed."
-    },
-    {
-      "w": "deviate",
-      "ipa": "/ˈdiːvieɪt/",
-      "pos": "v.",
-      "cn": "偏离",
-      "def": "to depart from an established course, plan, or standard",
-      "ex": "We must not deviate from the safety protocols, even if we are running behind schedule."
-    },
-    {
-      "w": "pervasive",
-      "ipa": "/pəˈveɪsɪv/",
-      "pos": "adj.",
-      "cn": "普遍的/无处不在的",
-      "def": "spreading widely throughout an area or a group of people",
-      "ex": "Digital transformation has become a pervasive trend across all sectors of the local economy."
-    },
-    {
-      "w": "commensurate",
-      "ipa": "/kəˈmɛnʃərət/",
-      "pos": "adj.",
-      "cn": "相称的/同等的",
-      "def": "corresponding in size, degree, or proportion to something else",
-      "ex": "Your annual bonus will be commensurate with your performance and contributions to the project."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore's Green Commute: Expanding Heartland EV Chargers",
-    "transcript": "Singapore is rapidly expanding its green <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪnfrəˌstrʌktʃə/ (n.) the basic physical systems of a country or area, such as transport and power — 基础设施\">infrastructure</span> by installing thousands of electric vehicle chargers in public housing carparks. This ambitious roll-out aims to make EV <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əˈdɒpʃən/ (n.) the decision to start using or accepting something new — 采纳/采用\">adoption</span> more convenient for heartland residents who do not live in landed properties. While government subsidies help lower installation costs, operators must still <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈnævɪɡeɪt/ (v.) to find a way through a difficult or complex situation — 应对/克服困难\">navigate</span> complex power grids to prevent local overloads."
-  },
-  "economistArticle": {
-    "title": "The Cradle Conundrum: Balancing Human and Financial Capital for Singapore's Next Generation",
-    "paras": [
-      "For Singaporean parents, welcoming a newborn triggers not just emotional joy, but an immediate financial <span class=\"voc\">reckoning</span>. <span class=\"gem\">In a hyper-competitive city-state where the cost of living climbs <span class=\"voc\">inexorably</span>, parents face a stark choice on how to allocate their limited capital.</span> Should they funnel resources into financial instruments like high-yield savings plans, index funds, and trust accounts, or should they invest heavily in \"human capital\" through elite preschools, coding classes, and violin lessons? This choice represents a knotty trade-off that will shape the child's <span class=\"voc\">trajectory</span> decades later.",
-      "The argument for prioritising financial capital is compellingly straightforward. Thanks to the magic of <span class=\"voc\">compound</span> interest, cash stashed away in a broad-market exchange-traded fund (ETF) during a child's infancy has nearly two decades to mature before university. In a volatile global economy, a robust nest egg offers an <span class=\"voc\">indispensable</span> safety net. It provides the young adult with the agency to buy property, start a business, or pursue a passion project without the crushing anxiety of immediate financial survival.",
-      "Conversely, proponents of early human-capital accumulation argue that academic enrichment yields far greater dividends. In Singapore's meritocratic society, early intellectual stimulation is widely believed to <span class=\"voc\">catalyse</span> cognitive development, securing entry into coveted schools and high-paying professional career tracks. However, this path is fraught with diminishing returns and intense pressure. The premium paid for luxury infant care and sensory enrichment programs can <span class=\"voc\">deplete</span> family savings, leaving less liquidity to cushion against unexpected economic downturns.",
-      "Moreover, excessive early investment in human capital often overlooks the precarious nature of the future job market. With artificial intelligence threatening to automate cognitive tasks once deemed irreplaceable, the specific academic skills parents buy today might become obsolete tomorrow. In contrast, financial capital remains liquid and <span class=\"voc\">fungible</span>, ready to be deployed wherever opportunities emerge. Yet, hoarding cash at the expense of a child's developmental well-being is equally <span class=\"voc\">myopic</span>, potentially leaving them ill-equipped to navigate a highly complex social landscape.",
-      "<span class=\"gem\">Ultimately, the optimal strategy lies not in choosing one over the other, but in finding a delicate <span class=\"voc\">equilibrium</span>.</span> Wise parents recognise that emotional security and critical thinking are the ultimate forms of human capital, and these cannot be purchased through premium tuition alone. By combining prudent, automated monthly investments with unstructured playtime and emotional support, families can build a more resilient foundation. After all, the best inheritance is not a rigid path paved with cash or credentials, but the flexibility to adapt to an unpredictable world."
-    ],
-    "cn": "对于新加坡的年轻父母来说，迎来新生儿不仅带来了情感上的喜悦，也触发了眼前的财务审视。在这个生活成本不断攀升、竞争异常激烈的城市国家，父母在如何分配有限资金上面临着严峻的选择。他们应该把资源注入高收益储蓄计划、指数基金和信托账户等金融工具，还是应该通过精英幼儿园、编程课和小提琴课，大力投资于“人力资本”？这一选择代表了一种棘手的权衡，将塑造孩子数十载后的人生轨迹。\n\n优先考虑金融资本的论点简单直接且令人信服。得益于复利的魔力，在婴儿期存入宽基交易所交易基金（ETF）的资金，在大学前有近二十年的增值时间。在动荡的全球经济中，一笔丰厚的储备金提供了不可或缺的安全网。它让年轻人在成年后拥有购买房产、创业或追求热爱项目的自主权，而不必承受迫切生存的巨大压力。\n\n相反，早期人力资本积累的支持者认为，学术拓展能产生更大的回报。在新加坡的精英治理社会中，人们普遍认为早期的智力开发能促进认知发展，从而确保孩子进入心仪的学校并踏上高薪的职业道路。然而，这条道路充满了收益递减和巨大压力。为奢华婴儿护理和感官拓展课程支付的高额溢价可能会耗尽家庭储蓄，从而减少应对突发经济低谷的流动资金。\n\n此外，对人力资本的过度早期投资往往忽视了未来就业市场的脆弱本质。随着人工智能威胁要将曾被视为不可替代的认知任务自动化，父母今天购买的特定学术技能在明天可能会变得过时。相比之下，金融资本保持着流动性和通用性，随时可以部署在任何出现机遇的地方。然而，为了攒钱而牺牲孩子的身心健康发展同样是目光短浅的，这可能会让孩子在应对高度复杂的社会环境时显得力不从心。\n\n归根结底，最佳策略不在于二选一，而在于寻找一种微妙的平衡。聪明的父母明白，情感安全感和批判性思维是人力资本的终极形式，而这些是无法仅仅通过优质补习来购买的。通过将审慎、自动化的每月投资与无拘无束的游戏时间和情感支持相结合，家庭可以建立一个更具韧性的基础。毕竟，最好的继承不是用金钱或文凭铺就的刻板道路，而是适应不可预测世界的灵活性。",
-    "vocab": [
-      {
-        "w": "reckoning",
-        "ipa": "/ˈrɛkənɪŋ/",
-        "pos": "n.",
-        "mean": "估算/审视",
-        "def": "a time when situations are judged or when actions lead to consequences",
-        "ex": "The end of the financial quarter is always a reckoning for the retail division."
-      },
-      {
-        "w": "inexorably",
-        "ipa": "/ɪnˈɛksərəbli/",
-        "pos": "adv.",
-        "mean": "无法阻挡地/无情地",
-        "def": "in a way that is impossible to stop or prevent",
-        "ex": "Technological progress marches inexorably onward, rendering older devices obsolete."
-      },
-      {
-        "w": "trajectory",
-        "ipa": "/trəˈdʒɛktəri/",
-        "pos": "n.",
-        "mean": "轨迹",
-        "def": "the path followed by a moving object or, metaphorically, a person's life course",
-        "ex": "His early success as an intern set a highly positive trajectory for his corporate career."
-      },
-      {
-        "w": "compound",
-        "ipa": "/kəmˈpaʊnd/",
-        "pos": "v.",
-        "mean": "复利/复合",
-        "def": "to calculate interest on both the principal and the accumulated interest",
-        "ex": "The longer you leave your savings untouched, the more your investments will compound."
-      },
-      {
-        "w": "indispensable",
-        "ipa": "/ˌɪndɪˈspɛnsəbəl/",
-        "pos": "adj.",
-        "mean": "不可或缺的",
-        "def": "absolutely necessary or essential",
-        "ex": "A stable internet connection has become indispensable for modern hybrid working models."
-      },
-      {
-        "w": "catalyse",
-        "ipa": "/ˈætəlaɪz/",
-        "pos": "v.",
-        "mean": "催化/促进",
-        "def": "to cause or accelerate a reaction or change",
-        "ex": "The new government grants were designed to catalyse innovation in local startups."
-      },
-      {
-        "w": "deplete",
-        "ipa": "/dɪˈpliːt/",
-        "pos": "v.",
-        "mean": "耗尽/大大减少",
-        "def": "to use up the supply or resources of something",
-        "ex": "Heavy unexpected expenses can quickly deplete your emergency fund."
-      },
-      {
-        "w": "fungible",
-        "ipa": "/ˈfʌndʒɪbəl/",
-        "pos": "adj.",
-        "mean": "易于替代的/可互换的",
-        "def": "mutually interchangeable or flexible in utility",
-        "ex": "Since currency is highly fungible, it is much easier to reallocate than physical assets."
-      },
-      {
-        "w": "myopic",
-        "ipa": "/maɪˈɒpɪk/",
-        "pos": "adj.",
-        "mean": "目光短浅的",
-        "def": "short-sighted; lacking foresight or intellectual insight",
-        "ex": "Cutting the research budget for short-term profits is a highly myopic strategy."
-      },
-      {
-        "w": "equilibrium",
-        "ipa": "/ˌiːkwɪˈlɪbriəm/",
-        "pos": "n.",
-        "mean": "平衡/均衡",
-        "def": "a state in which opposing forces or influences are balanced",
-        "ex": "It is difficult to maintain a perfect equilibrium between professional duties and family life."
-      }
-    ],
-    "gems": [
-      {
-        "s": "In a hyper-competitive city-state where the cost of living climbs inexorably, parents face a stark choice on how to allocate their limited capital.",
-        "why": "This sentence uses a well-placed adverbial modifier ('where the cost of living climbs inexorably') to frame a sharp, dramatic contrast ('stark choice'), making the opening setting feel urgent and vivid. 此句利用恰当的副词修饰语（'生活成本无情攀升'）来烘托出一种鲜明、剧烈的对比（'严峻的选择'），使开篇的环境背景显得紧迫而生动。"
-      },
-      {
-        "s": "Ultimately, the optimal strategy lies not in choosing one over the other, but in finding a delicate equilibrium.",
-        "why": "This sentence employs the elegant 'not in..., but in...' parallel structure to smoothly guide the reader away from binary thinking towards a balanced resolution. 该句采用了优雅的'不在于……，而在于……'平行结构，流畅地引导读者摆脱二元对立的思维，走向一种平衡的解决之道。"
-      }
-    ]
   }
 }
