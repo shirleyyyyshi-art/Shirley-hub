@@ -1,44 +1,339 @@
 {
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T05:53:35.249345+00:00",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T05:28:36.960295+00:00",
   "economist": {
     "headline": "Research on grasping bureaucrats startles Singapore",
     "teaser": "It is more revealing about its academic culture than its civil service",
     "url": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
-    "vocab": []
+    "vocab": [
+      {
+        "word": "research",
+        "phonetic": "/ɹɪˈsɜːtʃ/",
+        "def": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth."
+      }
+    ]
   },
   "st": {
-    "headline": "S’pore home loan rates rise after Fed hike: What home owners should look out for",
-    "teaser": "Lock in a fixed-rate for near-term certainty but look past the rate – cheapest isn't always best.",
-    "url": "https://www.straitstimes.com/business/banking/spore-home-loan-rates-rise-after-fed-hike-what-home-owners-should-look-out-for",
+    "headline": "Equities close higher as softer US jobs data quiets rate-hike expectations",
+    "teaser": "The Dow Jones Industrial Average rose 250.4 points, or 0.49%, to 51,176.96.",
+    "url": "https://www.straitstimes.com/business/companies-markets/equities-close-higher-as-softer-us-jobs-data-quiets-rate-hike-expectations",
     "fullText": [
-      "SINGAPORE – Home loan rates in Singapore are heading back up, after the United States Federal Reserve recently raised interest rates for the first time in three years.",
-      "Checks by The Straits Times show that both fixed and floating-rate loan offerings are now higher across the major banks here."
+      "NEW YORK – US stocks advanced on Oct 2 to close out the trading week after weaker-than-expected jobs data dampened expectations for a rate increase from the Federal Reserve at its policy meeting in October .",
+      "The Labour Department said non-farm payrolls increased by 29,000 jobs in September, with the count for the prior two months also revised sharply lower, and well below the 90,000 estimate of economists polled by Reuters.",
+      "The weaker-than-anticipated data pulled down expectations for a rate increase of at least 25 basis points from the Fed at its meeting at the end of October to 22.7%, according to CME FedWatch, from 24.4% in the prior session and 64.2% a week earlier.",
+      "“Today’s news was OK insofar as it means the economy isn’t roaring,” said Robert Bernstone, head of trading at SummitTX Capital in New York.",
+      "“But how good is that? Yes, it’s fine insofar as it takes the short-term rate hike off, but there is a concern over the economy, there is a concern over inflation, so cautious optimism is kind of where people are.",
+      "“But with that said, a potential squeeze into the end of the year, or at least for the next month or two, could happen just because it’s a hated rally.”",
+      "The Dow Jones Industrial Average rose 250.4 points, or 0.49%, to 51,176.96, the S&P 500 gained 56.27 points, or 0.73%, to 7,722.72 and the Nasdaq Composite added 319.27 points, or 1.19%, to 27,190.86.",
+      "Tempered expectations for an impending rate rise helped boost rate-sensitive stocks such as the S&P 500 real estate index, which gained 0.4%, and the small-cap Russell 2000 index, which gained 0.9% to register its biggest daily gain in a month.",
+      "Mega-cap stocks helped lead the advance, with Nvidia up 1.3% and Tesla gaining 4.7% to put them among the biggest boosts to the S&P 500. Tesla’s gains helped lift the S&P 500 consumer discretionary index 1.4% as the best-performing of the 11 major S&P sectors.",
+      "A string of recent data showing resilient economic activity and a slower-than-expected increase in prices, along with comments from two top policymakers cautioning against another rate increase, had already led investors to scale back expectations this week for an October rate rise.",
+      "Despite the Oct 2 gains, both the Dow and S&P 500 recorded a fourth weekly decline in the past five, but the Nasdaq secured a weekly gain, its fifth in the last six.",
+      "For the week, the S&P 500 shed 0.27%, the Nasdaq rose 0.45% and the Dow fell 1.26%.",
+      "Nike stumbled 3.6% as the worst performer on the Dow, after the US sportswear company forecast a surprise steep drop in annual revenue due to weakness in China, announced job cuts and decided to shake up its global business divisions.",
+      "Shares of data storage providers fell, with Western Digital and Seagate Technology both tumbling about 10% as the worst performers in the S&P 500 tech index. Nikkei reported that Japanese technology group Toshiba plans to double its production capacity for hard disk drives used in artificial intelligence data centres within fiscal year 2027.",
+      "Advancing issues outnumbered decliners by a 1.67:1 ratio on the New York Stock Exchange, and by a 1.34:1 ratio on the Nasdaq.",
+      "The S&P 500 posted 11 new 52-week highs and 20 new lows, while the Nasdaq Composite recorded 57 new highs and 224 new lows.",
+      "Volume on US exchanges was 16.93 billion shares, compared with the 17.28 billion average for the full session over the last 20 trading days. REUTERS"
     ]
   },
   "cna": {
-    "headline": "India's Cockroach Janta Party, student groups to protest, demand poll chief's resignation",
-    "teaser": "The protests mark the latest escalation in a dispute that has put unprecedented scrutiny on India's Election Commission.",
-    "url": "https://www.channelnewsasia.com/asia/india-cockroach-janta-party-gyanesh-kumar-resignation-6426116",
+    "headline": "Analysis:AI's race to transform the world before the money runs out",
+    "teaser": "Analysis:AI's race to transform the world before the money runs out",
+    "url": "https://www.channelnewsasia.com/business/analysisais-race-transform-world-money-runs-out-6428746",
     "fullText": [
-      "NEW DELHI: Prime Minister Narendra Modi will face renewed pressure on Friday (Oct 2) as the Gen Z-led Cockroach Janta Party (CJP) and a separate coalition of student and activist groups stage fresh protests, demanding the resignation of the elections commission chief over a controversial voter roll revision.",
-      "The CJP will rally in Mumbai and plans to expand demonstrations nationwide in the coming days, while student and civil society groups will gather at New Delhi's Jantar Mantar.",
-      "The protests mark the latest escalation in a dispute that has put unprecedented scrutiny on India's Election Commission, long regarded as one of the country's most trusted institutions.",
-      "The protesters' main allegation is that the commission manipulated voter rolls in ways that favour Modi's Bharatiya Janata Party (BJP). The commission and the government have denied the allegations.",
-      "The Election Commission has said differing views are a normal part of internal deliberations and that all its actions were lawful.",
-      "\"We have been asking and demanding for a change but nothing of that is going to happen, if our only tool that is left to change anything in our society, 'the right to vote', is taken away from us,\" Saurav Das, CJP's convenor, told Indian news agency ANI on Thursday.",
-      "\"We will only end the protest after Gyanesh Kumar resigns.\"",
-      "The controversy centres on a nationwide voter-verification exercise launched last year that critics say has led to millions of eligible voters being removed from electoral rolls.",
-      "The commission says the exercise is intended to remove duplicate, deceased or ineligible voters and ensure the accuracy of electoral rolls.",
-      "Opposition parties led by the Congress party are also set to begin protests demanding Kumar's resignation on Oct 6.",
-      "The CJP, a youth movement that emerged earlier this year from online frustration over unemployment and leaked examination papers , has become an unexpected political force.",
-      "Led by Abhijeet Dipke, the party gained national prominence after spearheading mass protests over exam-paper leaks that led to the resignation of India's education minister, one of Modi's most significant political setbacks in recent years.",
-      "An automated curation of our top stories to start your day."
+      "LONDON, Oct 3 : Never has so much cash flowed into a new technology as is pouring into AI, eclipsing the sums splurged on railways or the internet when those technological revolutions sucked in capital.",
+      "Cumulative spending globally on data centers alone could top $30 trillion by 2050, according to a projection by PwC, almost matching the value of outstanding US Treasuries. It \"dwarfs\" what was spent in the railroad or dotcom booms, even after adjusting for inflation, PwC said.",
+      "Meanwhile, Anthropic, just one of the major firms in the AI race, plans to spend $518 billion in coming years, according to the IPO prospectus seen by Reuters, which is more than 100 times its 2025 revenue. Its backers say AI technology will be more transformational than the advent of steam engines and the industrialization they powered.",
+      "Yet lurking behind the dizzying projections and huge outlays by AI companies, alongside sky-high valuations, lie assumptions about vast broad-based productivity gains and future profits with little evidence so far - or historical precedent - to be sure they can deliver, economists say.",
+      "JP Morgan wrote in August that broad-based productivity gains in the US, which leads the AI race, \"remain elusive\", raising questions about the sustainability of AI valuations.",
+      "A Bain & Company study said productivity gains from existing markets would not be enough to justify current outlays and \"entirely new markets must emerge to close the funding gap\", suggesting those could range from using AI-guided robots to developing new materials for batteries and semiconductors.",
+      "US hyperscalers - the companies rolling out infrastructure around the world like Google, Amazon and Microsoft - and others in the AI race needed to find more than $4.2 trillion of new revenue in the next five years to fund the buildout, Bain said.",
+      "\"The question is whether the applications arrive in time to pay for it,\" according to the study, published last month.",
+      "Few doubt the potential of AI to transform everything from work in an office to research labs, just as past revolutions shrank journey times from days to hours or connected the world at the touch of a keyboard.",
+      "What seems more immutable is the maths behind securing a return on investment or the deadlines for repaying loans, leaving economists to work out the implications for the global economy beyond the ups and downs of investment cycles.",
+      "\"Historical precedent suggests that technology-driven booms often end when infrastructure buildouts cease to deliver sufficient returns,\" JP Morgan wrote.",
+      "Using the example of Nvidia, the US company whose chips are the backbone of the AI revolution, JP Morgan estimated US productivity gains would need to be 3 per cent to 5 per cent annually over the next 10 years to justify its valuation. That would be a substantial increase from the baseline expectation of the US Congressional Budget Office of 1.75 per cent annual productivity growth for that period.",
+      "For the US alone - which according to some estimates accounts for about three quarters of the global AI investment total - investment will run as high as about $9 trillion from 2025 to 2032, equivalent to spending 3.2 per cent of US GDP each year, according to Columbia Business School economist Stijn Van Nieuwerburgh.",
+      "He estimates the US AI sector would need to generate about $3.55 trillion in annual revenue by 2032 to earn a 10 per cent return on investment. It earns a fraction of that now.",
+      "The leveraged structure of much of the debt funding AI infrastructure also means \"a relatively modest deterioration in demand, delays, or asset values can therefore produce much larger losses,\" he wrote in a conference paper, revised in October.",
+      "The dizzying numbers have not stopped US AI bosses speaking with an otherworldly zeal about changes afoot.",
+      "Anthropic's Dario Amodei has said an AI future could be \"a thing of transcendent beauty\", while OpenAI's Sam Altman has said \"the rate of new wonders being achieved will be immense\" as models learn to improve themselves and accelerate breakthroughs.",
+      "Jasjeet Sekhon, chief strategy officer at Google DeepMind, told a summit at UC Berkeley in August that this self-teaching, known as recursive self-improvement, was a \"key part of the investment thesis\", and that it could, if achieved, deliver unprecedented productivity gains.",
+      "Recursive self-improvement, while potentially delivering exponential AI advances, has also raised concerns about existential risks to humanity.",
+      "Yet the pace of change in productivity might still end up lagging the timelines needed by corporate accounts departments.",
+      "Diane Coyle, an economist at Britain's Cambridge University, said the productivity impact of past revolutionary technologies had usually taken about 10 to 50 years to feed through.",
+      "Anthropic's economics team modeled a range of scenarios for how much extra growth AI would deliver at an annual rate in 2030. Assuming a baseline of 2 per cent in a non-AI environment, it suggested growth of 2.4 per cent in a scenario with modest AI impact, 5.4 per cent in a substantial scenario and 15.4 per cent in an extreme scenario.",
+      "Higher growth would mean more jobs lost, it said, without assigning probabilities for any of the outcomes.",
+      "Amodei forecast last year that AI could wipe out half of all entry-level white-collar jobs within five years. For now, however, some researchers say it appears to have been limited to making it harder for those seeking office work to find a job.",
+      "Studies in the US and Britain have pointed to a slowdown in early career hiring for white-collar positions performing tasks at which AI is adept, even if overall employment remains strong.",
+      "Researchers at Stanford University said in August that employment of workers aged 22 to 25 in AI-exposed industries, such as accountants and paralegals, was 19 per cent lower than for jobs that AI found hard to replicate, like janitors and builders.",
+      "Yet even if the promised transformation takes longer than numbers surrounding AI companies imply, real economic benefits should stay - just as trains still ran after the Panic of 1873 that bankrupted railroad barons, while the internet didn't shut down after the 1990s dotcom bubble burst.",
+      "\"History is our friend in trying to understand this,\" said Coyle. \"As long as one is left with the infrastructure that's needed to support all the productivity effects down the road, that's okay.\" ​",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
     "headline": "Updated Scaffold Fire Safety Requirements",
     "teaser": "1. Scaffold fires can spread rapidly across combustible materials such as timber and scaffold netting, posing risks to workers, residents, emergency responders and members of the public. To strengthen scaffold fire safety, the Ministry of Manpower (MOM) will introduce new requirements to shorten the permissible duratio",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0924-factsheet-on-updated-scaffold-fire-safety-requirements"
+  },
+  "lifeVocab": [
+    {
+      "en": "tap in",
+      "cn": "刷卡进站",
+      "def": "to place an electronic transit card or mobile payment device on a reader to pass through a gate",
+      "ex": "Please tap in at the MRT gantry using your EZ-Link card or SimplyGo account.",
+      "emoji": "💳"
+    },
+    {
+      "en": "commuter",
+      "cn": "通勤者",
+      "def": "a person who travels some distance to work or school on a regular basis",
+      "ex": "Thousands of commuters pack the train stations during the early morning rush.",
+      "emoji": "🚶"
+    },
+    {
+      "en": "gantry",
+      "cn": "闸机",
+      "def": "the automated gate at transit stations where tickets or cards are scanned",
+      "ex": "If the gantry shows a red light, you may need to top up your card balance.",
+      "emoji": "🚧"
+    },
+    {
+      "en": "feeder bus",
+      "cn": "支线巴士",
+      "def": "a local bus service that transports passengers from neighborhoods to a central train station or transit hub",
+      "ex": "I usually take a feeder bus from my block to get to the nearest MRT station.",
+      "emoji": "🚌"
+    },
+    {
+      "en": "concession",
+      "cn": "优惠票价",
+      "def": "a reduced fare rate offered to specific groups such as students, senior citizens, or people with disabilities",
+      "ex": "Students enjoy concession fares on all public buses and trains in Singapore.",
+      "emoji": "🎟️"
+    },
+    {
+      "en": "peak hour",
+      "cn": "高峰时间",
+      "def": "the times of day when traffic or passenger numbers are at their highest, typically when people travel to and from work",
+      "ex": "To avoid the crowd, try to travel outside the morning peak hour.",
+      "emoji": "⏰"
+    },
+    {
+      "en": "interchange",
+      "cn": "中转站/换乘站",
+      "def": "a major transit station where passengers can switch between different train lines or bus routes",
+      "ex": "Dhoby Ghaut is a busy interchange station connecting three different train lines.",
+      "emoji": "🚉"
+    },
+    {
+      "en": "platform screen doors",
+      "cn": "站台屏蔽门",
+      "def": "safety barriers at train stations that slide open only when a train has fully stopped",
+      "ex": "Keep behind the yellow line and do not lean against the platform screen doors.",
+      "emoji": "🚪"
+    },
+    {
+      "en": "transit",
+      "cn": "公共交通系统",
+      "def": "the carrying of people on public transport vehicles",
+      "ex": "Singapore is known globally for its efficient and affordable mass rapid transit network.",
+      "emoji": "🚆"
+    },
+    {
+      "en": "squeeze",
+      "cn": "挤进",
+      "def": "to force or manage to fit into a small, crowded space",
+      "ex": "The train was incredibly packed, but she managed to squeeze herself inside.",
+      "emoji": "👥"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "ameliorate",
+      "ipa": "/əˈmiːl.jə.reɪt/",
+      "pos": "v.",
+      "cn": "改善，改良",
+      "def": "to make something bad or unsatisfactory better",
+      "ex": "The management implemented new safety policies to ameliorate the working conditions in the warehouse."
+    },
+    {
+      "w": "cognizant",
+      "ipa": "/ˈkɒɡ.nɪ.zənt/",
+      "pos": "adj.",
+      "cn": "察觉到的，意识到的",
+      "def": "having knowledge or being aware of something",
+      "ex": "We must remain cognizant of the tight schedule and manage our project milestones carefully."
+    },
+    {
+      "w": "devolve",
+      "ipa": "/dɪˈvɒlv/",
+      "pos": "v.",
+      "cn": "下放（权力等）；退化",
+      "def": "to transfer or delegate power, responsibility, or duty to a lower level",
+      "ex": "The executive committee decided to devolve operational decision-making to regional managers."
+    },
+    {
+      "w": "efficacy",
+      "ipa": "/ˈef.ɪ.kə.si/",
+      "pos": "n.",
+      "cn": "功效，效力",
+      "def": "the ability to produce a desired or intended result",
+      "ex": "Clinical trials are currently being conducted to test the long-term efficacy of the new medication."
+    },
+    {
+      "w": "impetus",
+      "ipa": "/ˈɪm.pɪ.təs/",
+      "pos": "n.",
+      "cn": "推动力，刺激",
+      "def": "the force or energy that makes something happen or move faster",
+      "ex": "The government's new grant provided the impetus for local startups to expand overseas."
+    },
+    {
+      "w": "manifest",
+      "ipa": "/ˈmæn.ɪ.fest/",
+      "pos": "v.",
+      "cn": "显现，表现出",
+      "def": "to show or demonstrate a quality or feeling clearly through actions or appearance",
+      "ex": "Economic anxieties often manifest as increased caution in consumer spending habits."
+    },
+    {
+      "w": "pervasive",
+      "ipa": "/pəˈveɪ.sɪv/",
+      "pos": "adj.",
+      "cn": "无处不在的，遍布的",
+      "def": "spreading widely throughout an area or a group of people",
+      "ex": "The influence of digital technology is so pervasive that it has redefined modern communication."
+    },
+    {
+      "w": "salient",
+      "ipa": "/ˈseɪ.li.ənt/",
+      "pos": "adj.",
+      "cn": "显著的，突出的",
+      "def": "most noticeable, important, or prominent",
+      "ex": "The report highlights the salient features of the economic recovery plan."
+    },
+    {
+      "w": "tenable",
+      "ipa": "/ˈten.ə.bəl/",
+      "pos": "adj.",
+      "cn": "（观点或立场）站得住脚的",
+      "def": "able to be maintained, defended, or held against criticism or attack",
+      "ex": "Faced with contradictory evidence, the researcher's original hypothesis was no longer tenable."
+    },
+    {
+      "w": "vigorously",
+      "ipa": "/ˈvɪɡ.ər.əs.li/",
+      "pos": "adv.",
+      "cn": "有力地，蓬勃地",
+      "def": "in a way that involves physical strength, effort, or intense energy",
+      "ex": "The local trade association vigorously defended the interests of small businesses."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "The Green Transition of Singapore's HDB Estates",
+    "transcript": "Many older estates in Singapore are undergoing a massive <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌtræns.fəˈmeɪ.ʃən/ (n.) a complete change in the appearance or character of something — 转变，彻底改变\">transformation</span> to integrate solar panels and smart cooling paint. Residents have welcomed these eco-friendly updates, noting a slight drop in their monthly utility bills. However, some elderly residents find the rapid transition to digital estate management systems somewhat <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/bɪˈwɪl.dər.ɪŋ/ (adj.) confusing or difficult to understand — 令人困惑的，令人眼花缭乱的\">bewildering</span>. Officials are deploying community ambassadors to guide those who need extra assistance."
+  },
+  "economistArticle": {
+    "title": "The Scholar and the State: Academic Boundaries in Singapore",
+    "paras": [
+      "A recent academic paper analyzing the historical behavior of civil servants in Southeast Asia has sparked an unexpected debate in Singapore. The research, which scrutinized how local bureaucrats handle resources and power, has triggered strong reactions from both officialdom and local universities. In Singapore, where the civil service is lauded for its <span class=\"voc\">technocratic</span> efficiency and integrity, even theoretical explorations of administrative <span class=\"voc\">overreach</span> are treated with immense sensitivity.",
+      "The controversy highlights a deeper, systemic tension within the city-state's academic culture. While local universities consistently rank among the finest globally, researchers often operate within an invisible grid of national interests. Topics deemed politically sensitive, such as social stratification or historical governance, require a delicate touch. This has led to a cautious academic atmosphere where scholars must carefully <span class=\"voc\">calibrate</span> their <span class=\"voc\">empirical</span> investigations.",
+      "Critics argue that such caution can inadvertently <span class=\"voc\">stifle</span> intellectual curiosity and genuine scientific inquiry. If researchers feel compelled to preemptively censor their findings to avoid official displeasure, the quality of social science research inevitably suffers. However, defenders of the current system maintain that academic freedom must be balanced with social cohesion, arguing that academic outputs should not serve as <span class=\"voc\">partisan</span> weapons.",
+      "Moreover, this episode reveals the unique social contract governing Singaporean institutions. The civil service is not just an administrative arm; it is the central pillar of national development. Consequently, any critique that implies systematic greed or inefficiency among bureaucrats is viewed not merely as academic <span class=\"voc\">discourse</span>, but as a challenge to the <span class=\"voc\">legitimacy</span> of the state. This explains why the government responded with such prompt and detailed <span class=\"voc\">refutations</span> of the research methodology.",
+      "Ultimately, the debate is less about the empirical validity of the paper itself and more about the boundaries of academic expression. As Singapore seeks to position itself as a global hub for knowledge and innovation, it must reconcile its desire for world-class research with its historical impulse for narrative control. <span class=\"gem\">True innovation requires room for dissent, and finding that <span class=\"voc\">equilibrium</span> remains one of the nation's most pressing intellectual challenges.</span>"
+    ],
+    "cn": "最近一篇分析东南亚公务员历史行为的学术论文在新加坡引发了一场意料之外的争论。这项探讨地方官僚如何处理资源和权力的研究，引起了官方和当地大学的强烈反应。在新加坡，公务员体系因其技术官僚式的效率和廉洁而备受赞誉，因此，即使是对行政越权行为的理论性探讨，也会被视为极其敏感。这场争议凸显了这家城市国家学术文化中更深层次的系统性张力。尽管当地大学在全球名列前茅，但研究人员往往在看不见的国家利益网络中运作。被认为具有政治敏感性的议题，如社会分层或历史治理，都需要谨慎对待。这导致了一种谨慎的学术氛围，学者们必须仔细调整他们的实证研究。批评者认为，这种谨慎可能会在无意中扼杀求知欲和真正的科学探究。如果研究人员觉得有必要预先审查自己的研究结果以避免官方的不满，社会科学研究的质量不可避免地会受到影响。然而，现行体制的捍卫者主张，学术自由必须与社会凝聚力相平衡，认为学术成果不应沦为党派争斗的武器。此外，这一事件揭示了治理新加坡机构的独特社会契约。公务员体系不仅是一个行政部门，它更是国家发展的核心支柱。因此，任何暗示官僚体制存在系统性贪婪或低效的批评，不仅被视为学术探讨，更被视为对国家合法性的挑战。这解释了为什么政府对该研究方法做出了如此迅速和详细的反驳。归根结底，这场争论与其说是关于论文本身的实证有效性，不如说是关于学术表达的边界。随着新加坡致力于将自己定位为全球知识和创新中心，它必须调和其对世界级研究的渴望与其历史上的叙事控制冲动。真正的创新需要留有异见的空间，而找到这种平衡仍然是该国最紧迫的智识挑战之一。",
+    "vocab": [
+      {
+        "w": "technocratic",
+        "ipa": "/ˌtek.nəˈkræt.ɪk/",
+        "pos": "adj.",
+        "mean": "技术治理的",
+        "def": "relating to or characterized by a system led by technical experts",
+        "ex": "The country's economic policy is heavily influenced by a technocratic approach to problem-solving."
+      },
+      {
+        "w": "overreach",
+        "ipa": "/ˌoʊ.vɚˈriːtʃ/",
+        "pos": "n.",
+        "mean": "越权行为，过度扩张",
+        "def": "an act of doing more than is authorized, reasonable, or safe",
+        "ex": "The court ruled that the new executive orders represented a clear case of constitutional overreach."
+      },
+      {
+        "w": "calibrate",
+        "ipa": "/ˈkæl.ɪ.breɪt/",
+        "pos": "v.",
+        "mean": "精密调整",
+        "def": "to adjust precisely to bring into perfect alignment or standard",
+        "ex": "Diplomats must carefully calibrate their statements to avoid offending either side."
+      },
+      {
+        "w": "empirical",
+        "ipa": "/ɪmˈpɪr.ɪ.kəl/",
+        "pos": "adj.",
+        "mean": "基于实证的，经验主义的",
+        "def": "based on, concerned with, or verifiable by observation or experience rather than theory",
+        "ex": "The study provides strong empirical evidence that early childhood education yields long-term benefits."
+      },
+      {
+        "w": "stifle",
+        "ipa": "/ˈstaɪ.fəl/",
+        "pos": "v.",
+        "mean": "扼杀，压制",
+        "def": "to prevent something from happening, being expressed, or developing",
+        "ex": "High taxes and excessive regulations can stifle economic growth and business innovation."
+      },
+      {
+        "w": "partisan",
+        "ipa": "/ˈpɑːr.tə.zən/",
+        "pos": "adj.",
+        "mean": "党派性的，偏袒的",
+        "def": "strongly supporting one leader, group, or cause, often without considering other facts",
+        "ex": "The media coverage was highly partisan, offering only one viewpoint of the policy change."
+      },
+      {
+        "w": "discourse",
+        "ipa": "/ˈdɪs.kɔːrs/",
+        "pos": "n.",
+        "mean": "学术探讨，话语",
+        "def": "written or spoken communication or debate, especially on a formal or academic topic",
+        "ex": "Critical theory has dominated modern academic discourse for several decades."
+      },
+      {
+        "w": "refutations",
+        "ipa": "/ˌref.jəˈteɪ.ʃənz/",
+        "pos": "n.",
+        "mean": "反驳，驳斥",
+        "def": "arguments that prove a statement, charge, or theory to be wrong or false",
+        "ex": "The scientist published detailed refutations of the flawed methodology used in the rival study."
+      },
+      {
+        "w": "legitimacy",
+        "ipa": "/ləˈdʒɪt.ə.mə.si/",
+        "pos": "n.",
+        "mean": "合法性，正统性",
+        "def": "conformity to the law or to rules; the quality of being accepted as proper or genuine",
+        "ex": "The democratic election restored the political legitimacy of the new government."
+      },
+      {
+        "w": "equilibrium",
+        "ipa": "/ˌiː.kwəˈlɪb.ri.əm/",
+        "pos": "n.",
+        "mean": "平衡状态",
+        "def": "a state in which opposing forces or influences are balanced",
+        "ex": "The market quickly found a new equilibrium after the temporary supply disruption."
+      }
+    ],
+    "gems": [
+      {
+        "s": "True innovation requires room for dissent, and finding that equilibrium remains one of the nation's most pressing intellectual challenges.",
+        "why": "This compound sentence uses parallel structures linked by the conjunction 'and', culminating in a strong, formal noun phrase ('one of the nation's most pressing intellectual challenges') that lends weight and a journalistic tone to the conclusion. / 此并列句利用连词 'and' 连接起两个结构对称的分句，并以一个极具分量的名词短语（'国家最紧迫的智识挑战之一'）作结，使文章的结尾部分富有力量感与新闻深度。"
+      }
+    ]
   }
 }
