@@ -1,76 +1,59 @@
 {
-  "date": "2026-10-03",
-  "generatedAt": "2026-10-03T05:28:36.960295+00:00",
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T06:03:31.371781+00:00",
   "economist": {
     "headline": "Research on grasping bureaucrats startles Singapore",
     "teaser": "It is more revealing about its academic culture than its civil service",
     "url": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
-    "vocab": [
-      {
-        "word": "research",
-        "phonetic": "/ɹɪˈsɜːtʃ/",
-        "def": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth."
-      }
-    ]
+    "vocab": []
   },
   "st": {
-    "headline": "Equities close higher as softer US jobs data quiets rate-hike expectations",
-    "teaser": "The Dow Jones Industrial Average rose 250.4 points, or 0.49%, to 51,176.96.",
-    "url": "https://www.straitstimes.com/business/companies-markets/equities-close-higher-as-softer-us-jobs-data-quiets-rate-hike-expectations",
+    "headline": "Not SGX’s fault if stocks have no liquidity, says chairman: Markets this week",
+    "teaser": "From Oct 5, SGX will reduce the standard board lot size from 100 units to 10 units for 11 companies.",
+    "url": "https://www.straitstimes.com/business/companies-markets/not-sgxs-fault-if-stocks-have-no-liquidity-says-chairman-markets-this-week",
     "fullText": [
-      "NEW YORK – US stocks advanced on Oct 2 to close out the trading week after weaker-than-expected jobs data dampened expectations for a rate increase from the Federal Reserve at its policy meeting in October .",
-      "The Labour Department said non-farm payrolls increased by 29,000 jobs in September, with the count for the prior two months also revised sharply lower, and well below the 90,000 estimate of economists polled by Reuters.",
-      "The weaker-than-anticipated data pulled down expectations for a rate increase of at least 25 basis points from the Fed at its meeting at the end of October to 22.7%, according to CME FedWatch, from 24.4% in the prior session and 64.2% a week earlier.",
-      "“Today’s news was OK insofar as it means the economy isn’t roaring,” said Robert Bernstone, head of trading at SummitTX Capital in New York.",
-      "“But how good is that? Yes, it’s fine insofar as it takes the short-term rate hike off, but there is a concern over the economy, there is a concern over inflation, so cautious optimism is kind of where people are.",
-      "“But with that said, a potential squeeze into the end of the year, or at least for the next month or two, could happen just because it’s a hated rally.”",
-      "The Dow Jones Industrial Average rose 250.4 points, or 0.49%, to 51,176.96, the S&P 500 gained 56.27 points, or 0.73%, to 7,722.72 and the Nasdaq Composite added 319.27 points, or 1.19%, to 27,190.86.",
-      "Tempered expectations for an impending rate rise helped boost rate-sensitive stocks such as the S&P 500 real estate index, which gained 0.4%, and the small-cap Russell 2000 index, which gained 0.9% to register its biggest daily gain in a month.",
-      "Mega-cap stocks helped lead the advance, with Nvidia up 1.3% and Tesla gaining 4.7% to put them among the biggest boosts to the S&P 500. Tesla’s gains helped lift the S&P 500 consumer discretionary index 1.4% as the best-performing of the 11 major S&P sectors.",
-      "A string of recent data showing resilient economic activity and a slower-than-expected increase in prices, along with comments from two top policymakers cautioning against another rate increase, had already led investors to scale back expectations this week for an October rate rise.",
-      "Despite the Oct 2 gains, both the Dow and S&P 500 recorded a fourth weekly decline in the past five, but the Nasdaq secured a weekly gain, its fifth in the last six.",
-      "For the week, the S&P 500 shed 0.27%, the Nasdaq rose 0.45% and the Dow fell 1.26%.",
-      "Nike stumbled 3.6% as the worst performer on the Dow, after the US sportswear company forecast a surprise steep drop in annual revenue due to weakness in China, announced job cuts and decided to shake up its global business divisions.",
-      "Shares of data storage providers fell, with Western Digital and Seagate Technology both tumbling about 10% as the worst performers in the S&P 500 tech index. Nikkei reported that Japanese technology group Toshiba plans to double its production capacity for hard disk drives used in artificial intelligence data centres within fiscal year 2027.",
-      "Advancing issues outnumbered decliners by a 1.67:1 ratio on the New York Stock Exchange, and by a 1.34:1 ratio on the Nasdaq.",
-      "The S&P 500 posted 11 new 52-week highs and 20 new lows, while the Nasdaq Composite recorded 57 new highs and 224 new lows.",
-      "Volume on US exchanges was 16.93 billion shares, compared with the 17.28 billion average for the full session over the last 20 trading days. REUTERS"
+      "SINGAPORE – Listed companies should proactively disclose their three- to five-year strategies so that investors can better understand their businesses and growth prospects, with board chairs leading the effort, Singapore Exchange chairman Koh Boon Hwee said on Oct 1.",
+      "He was speaking at an event organised by the Singapore Institute of Directors .",
+      "Koh said Singapore has strongly signalled its desire to reform its stock market, and more capital is already starting to flow in.",
+      "However, small and medium-sized enterprises cannot solely depend on the SGX to boost their valuations, as the bourse does not create liquidity nor demand and supply.",
+      "He said: “If you say that the market misunderstands you, it is your job to make sure that it understands you. If you say that there is no liquidity, it is because you have not been talking to the people who might have an interest in buying or demanding the stock.”",
+      "Therefore, it is incumbent upon companies and their leaders to communicate their growth strategies to the public.",
+      "“The exchange can’t do that for you, neither can it guarantee that your counter will be liquid.”",
+      "Koh said privatisation could be an option for companies whose shares are thinly traded and which are reluctant to disclose their long-term plans publicly.",
+      "His comments echoed a point made in his annual letter to shareholders on Sept 29, in which he said that “privatisation is not a tragedy but a rational and often healthy outcome”.",
+      "“For a listed company with limited growth prospects, low trading liquidity and persistently low valuations, going private is a sensible path,” he wrote.",
+      "“It serves little purpose for a company to remain listed simply so that an exchange can preserve its company count.”",
+      "Shares of City Developments Limited (CDL) fell by more than 14% through the week, after the property giant announced a three-year road map on Sept 28 .",
+      "The counter fell 5.7% by midday after its plans were unveiled before the market opened, and later closed 8.1% down at $7.59. It continued to slide and closed the week at $7.04, the lowest since Nov 2025.",
+      "Explaining why CDL’s share price fell, analysts said weak market conditions and the interest rate outlook could make it difficult for CDL to divest $6 billion worth of assets as planned. Details on where CDL intends to invest an additional $5 billion are also lacking.",
+      "In addition, doubts remain over whether the feud between chief executive Sherman Kwek and his father, executive chairman Kwek Leng Beng, has truly subsided. In early 2025, the father accused his son of orchestrating a boardroom takeover.",
+      "The elder Kwek was also absent from the Sept 28 unveiling of the road map, which left questions on succession from the media unanswered.",
+      "Others noted that some institutional investors have been dumping CDL shares in a typical “buy the rumour, sell the news” fashion, while some have also been short selling the shares.",
+      "CDL had said on Sept 28 that it plans to sell $6 billion worth of non-core assets, including $1.8 billion worth of hotels, over the next three years.",
+      "The company will also deploy $5 billion of growth capital, with Singapore remaining the principal market for new investments. A third of the funds has been earmarked for investments in China, where the property market has been weak, and Japan.",
+      "In addition, CDL plans to achieve a dividend payout of more than 35% annually, increase its assets under management from $5 billion to $10 billion, and lock in more than $1 billion in profit after tax and minority interests to be realised from divestment gains, over the three years.",
+      "DFI Retail Group’s shares jumped 6.6% when the market opened on Oct 1 and closed at US$3.41, the week’s peak, before falling the following day to close the week 6.1% lower at US$3.10.",
+      "The company said on Sept 1 that it will take full control of Starbucks’ licensed operations in the region , including Singapore, from Maxim’s Caterers, following a reorganisation.",
+      "Currently, DFI and Hongkong Caterers each own a 50% stake in Maxim’s Caterers. The new arrangement will see Hongkong Caterers retain Maxim’s other food and beverage businesses, which include five brands in Singapore: Genki Sushi, sen-ryo, Yakiniku Like, Butahage and Uoharu.",
+      "The reorganisation is slated to be completed by end-March 2027 and expected to immediately boost DFI’s revenue and profitability. DFI will transfer its 50% stake in Maxim’s to Hongkong Caterers for US$340 million (S$434.7 million) in cash, which it intends to deploy for growth or return to its shareholders as special dividends.",
+      "The group plans to build on the coffee chain’s leading position in Asia’s breakfast market by expanding its food and beverage menus and attracting more customers at lunchtime and later in the day, said Andrew Wong, chief executive of DFI IKEA, who will oversee the Starbucks operations.",
+      "DFI also plans to broaden Starbucks’ breakfast and bakery offerings, and adapt menus to local tastes.",
+      "More outlets are expected to open across Singapore as well as Thailand, Hong Kong, Macau, Vietnam, Cambodia and Laos between 2027 and 2029, taking the total number of Starbucks outlets in Asia to 1,350 from 1,110 currently. The Starbucks business in the seven Asian markets generated US$746 million in revenue in 2025.",
+      "The reorganisation comes at a time when competition for the coffee and tea consumer in Asia is intensifying. Chinese coffee giant Luckin Coffee already runs 103 outlets in Singapore – just three years after it first opened in the Republic.",
+      "Two companies have lodged their preliminary prospectuses to list on SGX.",
+      "Metasurface Technologies, which specialises in precision machining and precision welding for international customers in the industrial sector, filed its prospectus for a dual primary listing on the Catalist board on Sept 28."
     ]
   },
   "cna": {
-    "headline": "Analysis:AI's race to transform the world before the money runs out",
-    "teaser": "Analysis:AI's race to transform the world before the money runs out",
-    "url": "https://www.channelnewsasia.com/business/analysisais-race-transform-world-money-runs-out-6428746",
+    "headline": "Marquez wins Japanese GP to cut Martin's lead",
+    "teaser": "Marquez wins Japanese GP to cut Martin's lead",
+    "url": "https://www.channelnewsasia.com/sport/marquez-wins-japanese-gp-cut-martins-lead-6430496",
     "fullText": [
-      "LONDON, Oct 3 : Never has so much cash flowed into a new technology as is pouring into AI, eclipsing the sums splurged on railways or the internet when those technological revolutions sucked in capital.",
-      "Cumulative spending globally on data centers alone could top $30 trillion by 2050, according to a projection by PwC, almost matching the value of outstanding US Treasuries. It \"dwarfs\" what was spent in the railroad or dotcom booms, even after adjusting for inflation, PwC said.",
-      "Meanwhile, Anthropic, just one of the major firms in the AI race, plans to spend $518 billion in coming years, according to the IPO prospectus seen by Reuters, which is more than 100 times its 2025 revenue. Its backers say AI technology will be more transformational than the advent of steam engines and the industrialization they powered.",
-      "Yet lurking behind the dizzying projections and huge outlays by AI companies, alongside sky-high valuations, lie assumptions about vast broad-based productivity gains and future profits with little evidence so far - or historical precedent - to be sure they can deliver, economists say.",
-      "JP Morgan wrote in August that broad-based productivity gains in the US, which leads the AI race, \"remain elusive\", raising questions about the sustainability of AI valuations.",
-      "A Bain & Company study said productivity gains from existing markets would not be enough to justify current outlays and \"entirely new markets must emerge to close the funding gap\", suggesting those could range from using AI-guided robots to developing new materials for batteries and semiconductors.",
-      "US hyperscalers - the companies rolling out infrastructure around the world like Google, Amazon and Microsoft - and others in the AI race needed to find more than $4.2 trillion of new revenue in the next five years to fund the buildout, Bain said.",
-      "\"The question is whether the applications arrive in time to pay for it,\" according to the study, published last month.",
-      "Few doubt the potential of AI to transform everything from work in an office to research labs, just as past revolutions shrank journey times from days to hours or connected the world at the touch of a keyboard.",
-      "What seems more immutable is the maths behind securing a return on investment or the deadlines for repaying loans, leaving economists to work out the implications for the global economy beyond the ups and downs of investment cycles.",
-      "\"Historical precedent suggests that technology-driven booms often end when infrastructure buildouts cease to deliver sufficient returns,\" JP Morgan wrote.",
-      "Using the example of Nvidia, the US company whose chips are the backbone of the AI revolution, JP Morgan estimated US productivity gains would need to be 3 per cent to 5 per cent annually over the next 10 years to justify its valuation. That would be a substantial increase from the baseline expectation of the US Congressional Budget Office of 1.75 per cent annual productivity growth for that period.",
-      "For the US alone - which according to some estimates accounts for about three quarters of the global AI investment total - investment will run as high as about $9 trillion from 2025 to 2032, equivalent to spending 3.2 per cent of US GDP each year, according to Columbia Business School economist Stijn Van Nieuwerburgh.",
-      "He estimates the US AI sector would need to generate about $3.55 trillion in annual revenue by 2032 to earn a 10 per cent return on investment. It earns a fraction of that now.",
-      "The leveraged structure of much of the debt funding AI infrastructure also means \"a relatively modest deterioration in demand, delays, or asset values can therefore produce much larger losses,\" he wrote in a conference paper, revised in October.",
-      "The dizzying numbers have not stopped US AI bosses speaking with an otherworldly zeal about changes afoot.",
-      "Anthropic's Dario Amodei has said an AI future could be \"a thing of transcendent beauty\", while OpenAI's Sam Altman has said \"the rate of new wonders being achieved will be immense\" as models learn to improve themselves and accelerate breakthroughs.",
-      "Jasjeet Sekhon, chief strategy officer at Google DeepMind, told a summit at UC Berkeley in August that this self-teaching, known as recursive self-improvement, was a \"key part of the investment thesis\", and that it could, if achieved, deliver unprecedented productivity gains.",
-      "Recursive self-improvement, while potentially delivering exponential AI advances, has also raised concerns about existential risks to humanity.",
-      "Yet the pace of change in productivity might still end up lagging the timelines needed by corporate accounts departments.",
-      "Diane Coyle, an economist at Britain's Cambridge University, said the productivity impact of past revolutionary technologies had usually taken about 10 to 50 years to feed through.",
-      "Anthropic's economics team modeled a range of scenarios for how much extra growth AI would deliver at an annual rate in 2030. Assuming a baseline of 2 per cent in a non-AI environment, it suggested growth of 2.4 per cent in a scenario with modest AI impact, 5.4 per cent in a substantial scenario and 15.4 per cent in an extreme scenario.",
-      "Higher growth would mean more jobs lost, it said, without assigning probabilities for any of the outcomes.",
-      "Amodei forecast last year that AI could wipe out half of all entry-level white-collar jobs within five years. For now, however, some researchers say it appears to have been limited to making it harder for those seeking office work to find a job.",
-      "Studies in the US and Britain have pointed to a slowdown in early career hiring for white-collar positions performing tasks at which AI is adept, even if overall employment remains strong.",
-      "Researchers at Stanford University said in August that employment of workers aged 22 to 25 in AI-exposed industries, such as accountants and paralegals, was 19 per cent lower than for jobs that AI found hard to replicate, like janitors and builders.",
-      "Yet even if the promised transformation takes longer than numbers surrounding AI companies imply, real economic benefits should stay - just as trains still ran after the Panic of 1873 that bankrupted railroad barons, while the internet didn't shut down after the 1990s dotcom bubble burst.",
-      "\"History is our friend in trying to understand this,\" said Coyle. \"As long as one is left with the infrastructure that's needed to support all the productivity effects down the road, that's okay.\" ​",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "MOTEGI, Japan, Oct 4 : Ducati's Marc Marquez won his fourth Japanese Grand Prix to complete a sprint-race double at the Motegi Circuit on Sunday and cut title rival Jorge Martin's championship lead to two points.",
+      "Polesitter Martin managed to hold on to his advantage off the line and appeared comfortable in the opening eight laps as Marquez waited for the perfect moment to pounce.",
+      "That opportunity came on the 11th lap when Martin left a sliver of space on his inside, which Marquez exploited to take the lead.",
+      "The reigning champion then controlled the race to the chequered flag, finishing ahead of Aprilia's Martin and Marco Bezzecchi.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
@@ -80,259 +63,259 @@
   },
   "lifeVocab": [
     {
-      "en": "tap in",
-      "cn": "刷卡进站",
-      "def": "to place an electronic transit card or mobile payment device on a reader to pass through a gate",
-      "ex": "Please tap in at the MRT gantry using your EZ-Link card or SimplyGo account.",
-      "emoji": "💳"
-    },
-    {
       "en": "commuter",
       "cn": "通勤者",
-      "def": "a person who travels some distance to work or school on a regular basis",
-      "ex": "Thousands of commuters pack the train stations during the early morning rush.",
-      "emoji": "🚶"
-    },
-    {
-      "en": "gantry",
-      "cn": "闸机",
-      "def": "the automated gate at transit stations where tickets or cards are scanned",
-      "ex": "If the gantry shows a red light, you may need to top up your card balance.",
-      "emoji": "🚧"
+      "def": "a person who travels some distance to work on a regular basis",
+      "ex": "Every morning, thousands of commuters pack the MRT trains heading towards the Central Business District.",
+      "emoji": "🚇"
     },
     {
       "en": "feeder bus",
-      "cn": "支线巴士",
-      "def": "a local bus service that transports passengers from neighborhoods to a central train station or transit hub",
-      "ex": "I usually take a feeder bus from my block to get to the nearest MRT station.",
+      "cn": "接驳巴士",
+      "def": "a local bus service that brings passengers from residential areas to a major transport hub like an MRT station",
+      "ex": "If you miss the main train, you can take a feeder bus to the nearest interchange.",
       "emoji": "🚌"
     },
     {
-      "en": "concession",
-      "cn": "优惠票价",
-      "def": "a reduced fare rate offered to specific groups such as students, senior citizens, or people with disabilities",
-      "ex": "Students enjoy concession fares on all public buses and trains in Singapore.",
-      "emoji": "🎟️"
+      "en": "gantry",
+      "cn": "闸机 / 收费闸门",
+      "def": "a bridge-like overhead structure, or in Singapore, the automated fare gates at MRT stations",
+      "ex": "Please tap your EZ-Link card at the gantry before entering the train platform.",
+      "emoji": "🚧"
     },
     {
       "en": "peak hour",
-      "cn": "高峰时间",
-      "def": "the times of day when traffic or passenger numbers are at their highest, typically when people travel to and from work",
-      "ex": "To avoid the crowd, try to travel outside the morning peak hour.",
+      "cn": "尖峰时段 / 上下班高峰期",
+      "def": "the times at the beginning and end of the working day when traffic is heaviest",
+      "ex": "It is usually very difficult to find a seat on the MRT during peak hour.",
       "emoji": "⏰"
     },
     {
-      "en": "interchange",
-      "cn": "中转站/换乘站",
-      "def": "a major transit station where passengers can switch between different train lines or bus routes",
-      "ex": "Dhoby Ghaut is a busy interchange station connecting three different train lines.",
-      "emoji": "🚉"
+      "en": "concourse",
+      "cn": "车站大厅",
+      "def": "a large open area inside a station where people gather or pass through",
+      "ex": "Let's meet near the passenger service centre at the station concourse.",
+      "emoji": "🏢"
     },
     {
-      "en": "platform screen doors",
-      "cn": "站台屏蔽门",
-      "def": "safety barriers at train stations that slide open only when a train has fully stopped",
-      "ex": "Keep behind the yellow line and do not lean against the platform screen doors.",
-      "emoji": "🚪"
+      "en": "farecard",
+      "cn": "车资卡",
+      "def": "a contactless smart card used to pay for public transport fares",
+      "ex": "Make sure your farecard has sufficient value before you tap through the gate.",
+      "emoji": "💳"
     },
     {
-      "en": "transit",
-      "cn": "公共交通系统",
-      "def": "the carrying of people on public transport vehicles",
-      "ex": "Singapore is known globally for its efficient and affordable mass rapid transit network.",
-      "emoji": "🚆"
+      "en": "transit link",
+      "cn": "交通联络系统",
+      "def": "the interconnected network of buses, trains, and light rail services",
+      "ex": "The new transit link makes traveling from the east to the west of Singapore much faster.",
+      "emoji": "🗺️"
     },
     {
-      "en": "squeeze",
-      "cn": "挤进",
-      "def": "to force or manage to fit into a small, crowded space",
-      "ex": "The train was incredibly packed, but she managed to squeeze herself inside.",
-      "emoji": "👥"
+      "en": "train disruption",
+      "cn": "地铁故障 / 延误",
+      "def": "an interruption in the normal train service, causing delays",
+      "ex": "SMRT deployed free bridging buses to assist commuters affected by the train disruption.",
+      "emoji": "⚠️"
+    },
+    {
+      "en": "priority seat",
+      "cn": "博爱座 / 优先座",
+      "def": "designated seats in public transport reserved for the elderly, pregnant women, and the disabled",
+      "ex": "She kindly stood up to offer her priority seat to an elderly man carrying heavy groceries.",
+      "emoji": "👵"
+    },
+    {
+      "en": "grab-and-go",
+      "cn": "即买即走 / 便捷外带",
+      "def": "relating to food or services designed to be bought quickly and consumed elsewhere",
+      "ex": "I usually buy a grab-and-go breakfast from the bakery at the MRT station.",
+      "emoji": "🚶"
     }
   ],
   "levelVocab": [
     {
-      "w": "ameliorate",
-      "ipa": "/əˈmiːl.jə.reɪt/",
+      "w": "precipitate",
+      "ipa": "/prɪˈsɪpɪteɪt/",
       "pos": "v.",
-      "cn": "改善，改良",
-      "def": "to make something bad or unsatisfactory better",
-      "ex": "The management implemented new safety policies to ameliorate the working conditions in the warehouse."
+      "cn": "促成 / 加速发生",
+      "def": "to cause an event or situation, typically one that is undesirable, to happen suddenly or unexpectedly",
+      "ex": "The sudden tariff increases could precipitate a trade war between the two nations."
     },
     {
-      "w": "cognizant",
-      "ipa": "/ˈkɒɡ.nɪ.zənt/",
-      "pos": "adj.",
-      "cn": "察觉到的，意识到的",
-      "def": "having knowledge or being aware of something",
-      "ex": "We must remain cognizant of the tight schedule and manage our project milestones carefully."
-    },
-    {
-      "w": "devolve",
-      "ipa": "/dɪˈvɒlv/",
-      "pos": "v.",
-      "cn": "下放（权力等）；退化",
-      "def": "to transfer or delegate power, responsibility, or duty to a lower level",
-      "ex": "The executive committee decided to devolve operational decision-making to regional managers."
-    },
-    {
-      "w": "efficacy",
-      "ipa": "/ˈef.ɪ.kə.si/",
+      "w": "parameter",
+      "ipa": "/pəˈræmɪtə/",
       "pos": "n.",
-      "cn": "功效，效力",
-      "def": "the ability to produce a desired or intended result",
-      "ex": "Clinical trials are currently being conducted to test the long-term efficacy of the new medication."
+      "cn": "界限 / 范围 / 参数",
+      "def": "a limit or boundary that defines how something should be done",
+      "ex": "We must operate within the strict parameters set by our legal compliance team."
     },
     {
-      "w": "impetus",
-      "ipa": "/ˈɪm.pɪ.təs/",
+      "w": "paradigm",
+      "ipa": "/ˈpærədaɪm/",
       "pos": "n.",
-      "cn": "推动力，刺激",
-      "def": "the force or energy that makes something happen or move faster",
-      "ex": "The government's new grant provided the impetus for local startups to expand overseas."
+      "cn": "范式 / 典范",
+      "def": "a typical example or pattern of something; a model for how something is understood",
+      "ex": "The shift toward remote work represents a new paradigm in corporate human resources."
     },
     {
-      "w": "manifest",
-      "ipa": "/ˈmæn.ɪ.fest/",
+      "w": "benchmark",
+      "ipa": "/ˈbentʃmɑːk/",
       "pos": "v.",
-      "cn": "显现，表现出",
-      "def": "to show or demonstrate a quality or feeling clearly through actions or appearance",
-      "ex": "Economic anxieties often manifest as increased caution in consumer spending habits."
+      "cn": "以…为基准衡量",
+      "def": "to evaluate or check something by comparison with a standard",
+      "ex": "The tech firm will benchmark its customer service standards against its top global competitors."
     },
     {
-      "w": "pervasive",
-      "ipa": "/pəˈveɪ.sɪv/",
-      "pos": "adj.",
-      "cn": "无处不在的，遍布的",
-      "def": "spreading widely throughout an area or a group of people",
-      "ex": "The influence of digital technology is so pervasive that it has redefined modern communication."
+      "w": "configuration",
+      "ipa": "/kənˌfɪɡjʊˈreɪʃn/",
+      "pos": "n.",
+      "cn": "布局 / 结构配置",
+      "def": "an arrangement of elements in a particular form, figure, or combination",
+      "ex": "The office configuration was altered to encourage more collaboration among departments."
     },
     {
-      "w": "salient",
-      "ipa": "/ˈseɪ.li.ənt/",
-      "pos": "adj.",
-      "cn": "显著的，突出的",
-      "def": "most noticeable, important, or prominent",
-      "ex": "The report highlights the salient features of the economic recovery plan."
+      "w": "deviation",
+      "ipa": "/ˌdiːviˈeɪʃn/",
+      "pos": "n.",
+      "cn": "偏差 / 偏离",
+      "def": "the action of departing from an established course or accepted standard",
+      "ex": "Any significant deviation from the approved budget must be reported to the board."
     },
     {
-      "w": "tenable",
-      "ipa": "/ˈten.ə.bəl/",
-      "pos": "adj.",
-      "cn": "（观点或立场）站得住脚的",
-      "def": "able to be maintained, defended, or held against criticism or attack",
-      "ex": "Faced with contradictory evidence, the researcher's original hypothesis was no longer tenable."
+      "w": "facet",
+      "ipa": "/ˈfæsɪt/",
+      "pos": "n.",
+      "cn": "方面 / 侧面",
+      "def": "one part or feature of something, especially a complex situation or subject",
+      "ex": "We need to analyze every facet of the business model before presenting to investors."
     },
     {
-      "w": "vigorously",
-      "ipa": "/ˈvɪɡ.ər.əs.li/",
-      "pos": "adv.",
-      "cn": "有力地，蓬勃地",
-      "def": "in a way that involves physical strength, effort, or intense energy",
-      "ex": "The local trade association vigorously defended the interests of small businesses."
+      "w": "juxtapose",
+      "ipa": "/ˌdʒʌkstəˈpəʊz/",
+      "pos": "v.",
+      "cn": "把…并列 / 对比",
+      "def": "to place two or more things close together to emphasize their differences or create a contrasting effect",
+      "ex": "The exhibition will juxtapose traditional oil paintings with modern digital art."
+    },
+    {
+      "w": "orientation",
+      "ipa": "/ˌɔːriənˈteɪʃn/",
+      "pos": "n.",
+      "cn": "定位 / 方向",
+      "def": "the general direction, goals, or interests of a person or an organization",
+      "ex": "The department is undergoing a change in orientation, shifting its focus toward consumer data privacy."
+    },
+    {
+      "w": "salience",
+      "ipa": "/ˈseɪliəns/",
+      "pos": "n.",
+      "cn": "显着性 / 杰出 / 核心地位",
+      "def": "the quality of being particularly noticeable, important, or prominent",
+      "ex": "The issue of supply chain resilience has gained increased salience in light of recent geopolitical events."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "The Green Transition of Singapore's HDB Estates",
-    "transcript": "Many older estates in Singapore are undergoing a massive <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌtræns.fəˈmeɪ.ʃən/ (n.) a complete change in the appearance or character of something — 转变，彻底改变\">transformation</span> to integrate solar panels and smart cooling paint. Residents have welcomed these eco-friendly updates, noting a slight drop in their monthly utility bills. However, some elderly residents find the rapid transition to digital estate management systems somewhat <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/bɪˈwɪl.dər.ɪŋ/ (adj.) confusing or difficult to understand — 令人困惑的，令人眼花缭乱的\">bewildering</span>. Officials are deploying community ambassadors to guide those who need extra assistance."
+    "title": "The Green Transition of Singapore's Public Buses",
+    "transcript": "Singapore's Land Transport Authority is accelerating its <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃn/ (n.) the process of changing from one state or condition to another — 过渡 / 转型\">transition</span> to a fully electric bus fleet by 2040. Under this initiative, older diesel buses are systematically being <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌdiːkəˈmɪʃənd/ (v. past participle) officially taken out of service, especially a vehicle, ship, or industrial facility — 退役 / 停止使用\">decommissioned</span> to slash vehicular <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈmɪʃnz/ (n. plural) substances, especially gases, that are sent out into the air — 排放物\">emissions</span>. Commuters can expect quieter rides and cleaner air as these eco-friendly alternatives are rolled out islandwide."
   },
   "economistArticle": {
-    "title": "The Scholar and the State: Academic Boundaries in Singapore",
+    "title": "Research on grasping bureaucrats startles Singapore",
     "paras": [
-      "A recent academic paper analyzing the historical behavior of civil servants in Southeast Asia has sparked an unexpected debate in Singapore. The research, which scrutinized how local bureaucrats handle resources and power, has triggered strong reactions from both officialdom and local universities. In Singapore, where the civil service is lauded for its <span class=\"voc\">technocratic</span> efficiency and integrity, even theoretical explorations of administrative <span class=\"voc\">overreach</span> are treated with immense sensitivity.",
-      "The controversy highlights a deeper, systemic tension within the city-state's academic culture. While local universities consistently rank among the finest globally, researchers often operate within an invisible grid of national interests. Topics deemed politically sensitive, such as social stratification or historical governance, require a delicate touch. This has led to a cautious academic atmosphere where scholars must carefully <span class=\"voc\">calibrate</span> their <span class=\"voc\">empirical</span> investigations.",
-      "Critics argue that such caution can inadvertently <span class=\"voc\">stifle</span> intellectual curiosity and genuine scientific inquiry. If researchers feel compelled to preemptively censor their findings to avoid official displeasure, the quality of social science research inevitably suffers. However, defenders of the current system maintain that academic freedom must be balanced with social cohesion, arguing that academic outputs should not serve as <span class=\"voc\">partisan</span> weapons.",
-      "Moreover, this episode reveals the unique social contract governing Singaporean institutions. The civil service is not just an administrative arm; it is the central pillar of national development. Consequently, any critique that implies systematic greed or inefficiency among bureaucrats is viewed not merely as academic <span class=\"voc\">discourse</span>, but as a challenge to the <span class=\"voc\">legitimacy</span> of the state. This explains why the government responded with such prompt and detailed <span class=\"voc\">refutations</span> of the research methodology.",
-      "Ultimately, the debate is less about the empirical validity of the paper itself and more about the boundaries of academic expression. As Singapore seeks to position itself as a global hub for knowledge and innovation, it must reconcile its desire for world-class research with its historical impulse for narrative control. <span class=\"gem\">True innovation requires room for dissent, and finding that <span class=\"voc\">equilibrium</span> remains one of the nation's most pressing intellectual challenges.</span>"
+      "A minor academic tremor has sent ripples through the usually placid waters of Singapore's public administration. The cause is a research paper examining \"<span class=\"voc\">grasping</span>\" bureaucrats—those who leverage their administrative power to extract rents or personal gain. For a city-state that prides itself on maintaining a <span class=\"voc\">squeaky-clean</span>, <span class=\"voc\">meritocratic</span> civil service, even the academic discussion of such behavior within regional proximity causes significant discomfort.",
+      "The study, though intended as a broad regional analysis of how civil service structures across Southeast Asia manage systemic <span class=\"voc\">rent-seeking</span>, accidentally struck a delicate nerve. Singapore's administrative model is globally renowned for its high remuneration packages, designed precisely to deter graft. Consequently, the mere <span class=\"voc\">insinuation</span> that technocrats might engage in grasping practices—even in a comparative or theoretical academic context—challenged local <span class=\"voc\">exceptionalism</span>.",
+      "Critics of the study argue that its methodology lacked the contextual nuance required to differentiate Singapore's highly disciplined <span class=\"voc\">technocracy</span> from the systemic patronage found elsewhere. They assert that the civil service's performance is driven by key performance indicators, not personal accumulation. To lump Singaporean administrators into a generalized framework of regional opportunism is, in their eyes, analytically flawed and unfair.",
+      "<span class=\"gem\">Yet, the controversy is perhaps more revealing about Singapore's academic culture than the actual integrity of its civil service.</span> Higher education institutions in Singapore, heavily state-funded yet fiercely ambitious to climb global rankings, exist in a perpetual state of <span class=\"voc\">friction</span>. They must navigate the demanding expectations of international academic freedom while remaining sensitive to local political boundaries.",
+      "In the end, Singapore's civil service remains <span class=\"voc\">exemplarily</span> clean, and its reputation is unlikely to be tarnished by a single scholarly paper. However, the episode highlights the persistent sensitivity surrounding the nation's public image. For local researchers, the lesson is clear: when examining the delicate machinery of state power, even the most abstract academic models can <span class=\"voc\">robustly</span> shake the ground beneath them."
     ],
-    "cn": "最近一篇分析东南亚公务员历史行为的学术论文在新加坡引发了一场意料之外的争论。这项探讨地方官僚如何处理资源和权力的研究，引起了官方和当地大学的强烈反应。在新加坡，公务员体系因其技术官僚式的效率和廉洁而备受赞誉，因此，即使是对行政越权行为的理论性探讨，也会被视为极其敏感。这场争议凸显了这家城市国家学术文化中更深层次的系统性张力。尽管当地大学在全球名列前茅，但研究人员往往在看不见的国家利益网络中运作。被认为具有政治敏感性的议题，如社会分层或历史治理，都需要谨慎对待。这导致了一种谨慎的学术氛围，学者们必须仔细调整他们的实证研究。批评者认为，这种谨慎可能会在无意中扼杀求知欲和真正的科学探究。如果研究人员觉得有必要预先审查自己的研究结果以避免官方的不满，社会科学研究的质量不可避免地会受到影响。然而，现行体制的捍卫者主张，学术自由必须与社会凝聚力相平衡，认为学术成果不应沦为党派争斗的武器。此外，这一事件揭示了治理新加坡机构的独特社会契约。公务员体系不仅是一个行政部门，它更是国家发展的核心支柱。因此，任何暗示官僚体制存在系统性贪婪或低效的批评，不仅被视为学术探讨，更被视为对国家合法性的挑战。这解释了为什么政府对该研究方法做出了如此迅速和详细的反驳。归根结底，这场争论与其说是关于论文本身的实证有效性，不如说是关于学术表达的边界。随着新加坡致力于将自己定位为全球知识和创新中心，它必须调和其对世界级研究的渴望与其历史上的叙事控制冲动。真正的创新需要留有异见的空间，而找到这种平衡仍然是该国最紧迫的智识挑战之一。",
+    "cn": "一场小小的学术风波，在通常平静的新加坡公共行政领域激起了涟漪。其起因是一篇研究“贪婪”官僚（即利用行政权力谋取租金或个人利益的官员）的学术论文。对于一个以维持廉洁、精英治理的公务员体系而自豪的城邦国家而言，即便是在区域范围内对这种行为进行学术探讨，也会引起显着的不适。\n\n该研究虽然旨在对东南亚各地的公务员结构如何应对系统性寻租行为进行广泛的区域分析，但却无意中触碰到了敏感的神经。新加坡的行政模式因其高薪制而在全球享有盛誉，其设计初衷正是为了遏制贪腐。因此，即便是在比较或理论学术语境中，仅仅暗示技术官僚可能存在贪婪行径，也挑战了当地的“例外论”。\n\n该研究的批评者认为，其方法论缺乏必要的背景细微差别，无法将新加坡高度纪律化的技术官僚体制与该地区其他地方存在的系统性分赃体制区分开来。他们断言，公务员的业绩是由关键绩效指标驱动的，而非个人财富积累。在他们看来，将新加坡的行政人员归入区域投机主义的泛化框架中，在分析上是有缺陷且不公平的。\n\n然而，这场争议或许更能揭示新加坡的学术文化，而非其公务员体系的实际廉洁度。新加坡的高等教育机构虽然主要由政府资助，但又极具跻身全球排名的野心，它们一直处于一种微妙的摩擦状态中。它们既要应对国际学术自由的苛刻要求，又要对当地的政治界限保持敏感。\n\n归根结底，新加坡的公务员队伍依然堪称廉洁典范，其名誉不太可能因一篇学术论文而受损。然而，这一事件凸显了围绕国家公共形象的持续敏感性。对于本地学者来说，教训显而易见：在审视国家权力的精密机制时，即使是最抽象的学术模型，也能强力地震动其立足之地。",
     "vocab": [
       {
-        "w": "technocratic",
-        "ipa": "/ˌtek.nəˈkræt.ɪk/",
+        "w": "squeaky-clean",
+        "ipa": "/ˌskwiːki ˈkliːn/",
         "pos": "adj.",
-        "mean": "技术治理的",
-        "def": "relating to or characterized by a system led by technical experts",
-        "ex": "The country's economic policy is heavily influenced by a technocratic approach to problem-solving."
+        "mean": "极度廉洁的 / 一尘不染的",
+        "def": "completely clean; free from any scandal, corruption, or wrongdoing",
+        "ex": "The politician maintained a squeaky-clean image throughout his three decades in public office."
       },
       {
-        "w": "overreach",
-        "ipa": "/ˌoʊ.vɚˈriːtʃ/",
+        "w": "rent-seeking",
+        "ipa": "/ˈrentˌsiːkɪŋ/",
         "pos": "n.",
-        "mean": "越权行为，过度扩张",
-        "def": "an act of doing more than is authorized, reasonable, or safe",
-        "ex": "The court ruled that the new executive orders represented a clear case of constitutional overreach."
+        "mean": "寻租行为",
+        "def": "the practice of manipulating public policy or economic conditions as a strategy for increasing personal wealth without creating any new wealth",
+        "ex": "Economists warned that excessive regulation would only encourage rent-seeking among local monopolies."
       },
       {
-        "w": "calibrate",
-        "ipa": "/ˈkæl.ɪ.breɪt/",
-        "pos": "v.",
-        "mean": "精密调整",
-        "def": "to adjust precisely to bring into perfect alignment or standard",
-        "ex": "Diplomats must carefully calibrate their statements to avoid offending either side."
-      },
-      {
-        "w": "empirical",
-        "ipa": "/ɪmˈpɪr.ɪ.kəl/",
+        "w": "meritocratic",
+        "ipa": "/ˌmerɪtəˈkrætɪk/",
         "pos": "adj.",
-        "mean": "基于实证的，经验主义的",
-        "def": "based on, concerned with, or verifiable by observation or experience rather than theory",
-        "ex": "The study provides strong empirical evidence that early childhood education yields long-term benefits."
+        "mean": "精英治理的 / 凭才能提拔的",
+        "def": "relating to a system in which progress is based on ability and talent rather than wealth or social class",
+        "ex": "Singapore attributes much of its economic success to a highly meritocratic civil service."
       },
       {
-        "w": "stifle",
-        "ipa": "/ˈstaɪ.fəl/",
-        "pos": "v.",
-        "mean": "扼杀，压制",
-        "def": "to prevent something from happening, being expressed, or developing",
-        "ex": "High taxes and excessive regulations can stifle economic growth and business innovation."
+        "w": "technocracy",
+        "ipa": "/tekˈnɒkrəsi/",
+        "pos": "n.",
+        "mean": "专家治国体制 / 技术官僚统治",
+        "def": "a government or social system controlled by technical experts or elites",
+        "ex": "The country is ruled by a technocracy where economic policies are decided by financial experts."
       },
       {
-        "w": "partisan",
-        "ipa": "/ˈpɑːr.tə.zən/",
+        "w": "insinuation",
+        "ipa": "/ɪnˌsɪnjuˈeɪʃn/",
+        "pos": "n.",
+        "mean": "暗讽 / 暗示",
+        "def": "an unpleasant hint or suggestion of something bad",
+        "ex": "She rejected the insinuation that she had only been promoted because of her family connections."
+      },
+      {
+        "w": "exceptionalism",
+        "ipa": "/ɪkˈsepʃənəlɪzəm/",
+        "pos": "n.",
+        "mean": "例外论 / 独特性",
+        "def": "the belief that a country, society, or system is unique and exceptional, and therefore not subject to the same rules as others",
+        "ex": "Critics argue that national exceptionalism can sometimes blind leaders to global trends."
+      },
+      {
+        "w": "exemplarily",
+        "ipa": "/ɪɡˈzemplərəli/",
+        "pos": "adv.",
+        "mean": "典范地 / 堪称楷模地",
+        "def": "in a way that is excellent and deserves to be admired or copied",
+        "ex": "The department handled the emergency exemplarily, earning praise from the prime minister."
+      },
+      {
+        "w": "friction",
+        "ipa": "/ˈfrɪkʃn/",
+        "pos": "n.",
+        "mean": "摩擦 / 冲突",
+        "def": "clash of wills, temperaments, or opinions; conflict or animosity",
+        "ex": "There is growing friction between the marketing team and the product developers over the launch date."
+      },
+      {
+        "w": "grasping",
+        "ipa": "/ˈɡrɑːspɪŋ/",
         "pos": "adj.",
-        "mean": "党派性的，偏袒的",
-        "def": "strongly supporting one leader, group, or cause, often without considering other facts",
-        "ex": "The media coverage was highly partisan, offering only one viewpoint of the policy change."
+        "mean": "贪婪的 / 执意攫取的",
+        "def": "greedy; avaricious; eager to seize or acquire money or possessions",
+        "ex": "The novel portrays the landlord as a grasping individual who exploits his impoverished tenants."
       },
       {
-        "w": "discourse",
-        "ipa": "/ˈdɪs.kɔːrs/",
-        "pos": "n.",
-        "mean": "学术探讨，话语",
-        "def": "written or spoken communication or debate, especially on a formal or academic topic",
-        "ex": "Critical theory has dominated modern academic discourse for several decades."
-      },
-      {
-        "w": "refutations",
-        "ipa": "/ˌref.jəˈteɪ.ʃənz/",
-        "pos": "n.",
-        "mean": "反驳，驳斥",
-        "def": "arguments that prove a statement, charge, or theory to be wrong or false",
-        "ex": "The scientist published detailed refutations of the flawed methodology used in the rival study."
-      },
-      {
-        "w": "legitimacy",
-        "ipa": "/ləˈdʒɪt.ə.mə.si/",
-        "pos": "n.",
-        "mean": "合法性，正统性",
-        "def": "conformity to the law or to rules; the quality of being accepted as proper or genuine",
-        "ex": "The democratic election restored the political legitimacy of the new government."
-      },
-      {
-        "w": "equilibrium",
-        "ipa": "/ˌiː.kwəˈlɪb.ri.əm/",
-        "pos": "n.",
-        "mean": "平衡状态",
-        "def": "a state in which opposing forces or influences are balanced",
-        "ex": "The market quickly found a new equilibrium after the temporary supply disruption."
+        "w": "robustly",
+        "ipa": "/rəʊˈbʌstli/",
+        "pos": "adv.",
+        "mean": "强有力地 / 坚决地",
+        "def": "in a strong, vigorous, or forceful way",
+        "ex": "The company robustly defended its patent against the competitor's allegations of infringement."
       }
     ],
     "gems": [
       {
-        "s": "True innovation requires room for dissent, and finding that equilibrium remains one of the nation's most pressing intellectual challenges.",
-        "why": "This compound sentence uses parallel structures linked by the conjunction 'and', culminating in a strong, formal noun phrase ('one of the nation's most pressing intellectual challenges') that lends weight and a journalistic tone to the conclusion. / 此并列句利用连词 'and' 连接起两个结构对称的分句，并以一个极具分量的名词短语（'国家最紧迫的智识挑战之一'）作结，使文章的结尾部分富有力量感与新闻深度。"
+        "s": "Yet, the controversy is perhaps more revealing about Singapore's academic culture than the actual integrity of its civil service.",
+        "why": "This sentence uses a comparative 'more revealing about A than B' structure to shift the reader's focus from the obvious topic (corruption) to a deeper, underlying issue (academic self-censorship). This is a classic analytical technique used to challenge conventional assumptions. 中文解释：该句使用了“更能揭示A而非B”的比较结构，将读者的注意力从显而易见的主题（腐败）转移到更深层的潜在问题（学术自我审查）。这是一种典型的用于挑战常规假设的分析性修辞手法。"
       }
     ]
   }
