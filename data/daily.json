@@ -1,58 +1,41 @@
 {
-  "date": "2026-10-04",
-  "generatedAt": "2026-10-04T06:03:31.371781+00:00",
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T05:55:29.007788+00:00",
   "economist": {
-    "headline": "Research on grasping bureaucrats startles Singapore",
-    "teaser": "It is more revealing about its academic culture than its civil service",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
+    "headline": "The world is facing an almighty LNG crunch",
+    "teaser": "In time it could bring about an equally disruptive glut",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
     "vocab": []
   },
   "st": {
-    "headline": "Not SGX’s fault if stocks have no liquidity, says chairman: Markets this week",
-    "teaser": "From Oct 5, SGX will reduce the standard board lot size from 100 units to 10 units for 11 companies.",
-    "url": "https://www.straitstimes.com/business/companies-markets/not-sgxs-fault-if-stocks-have-no-liquidity-says-chairman-markets-this-week",
+    "headline": "Singapore’s retail sales growth rose 0.7% in August",
+    "teaser": "Retail sales excluding motor vehicles, parts and accessories rose 1.6% year on year.",
+    "url": "https://www.straitstimes.com/business/singapores-retail-sales-growth-rose-0-7-per-cent-in-august-2026",
     "fullText": [
-      "SINGAPORE – Listed companies should proactively disclose their three- to five-year strategies so that investors can better understand their businesses and growth prospects, with board chairs leading the effort, Singapore Exchange chairman Koh Boon Hwee said on Oct 1.",
-      "He was speaking at an event organised by the Singapore Institute of Directors .",
-      "Koh said Singapore has strongly signalled its desire to reform its stock market, and more capital is already starting to flow in.",
-      "However, small and medium-sized enterprises cannot solely depend on the SGX to boost their valuations, as the bourse does not create liquidity nor demand and supply.",
-      "He said: “If you say that the market misunderstands you, it is your job to make sure that it understands you. If you say that there is no liquidity, it is because you have not been talking to the people who might have an interest in buying or demanding the stock.”",
-      "Therefore, it is incumbent upon companies and their leaders to communicate their growth strategies to the public.",
-      "“The exchange can’t do that for you, neither can it guarantee that your counter will be liquid.”",
-      "Koh said privatisation could be an option for companies whose shares are thinly traded and which are reluctant to disclose their long-term plans publicly.",
-      "His comments echoed a point made in his annual letter to shareholders on Sept 29, in which he said that “privatisation is not a tragedy but a rational and often healthy outcome”.",
-      "“For a listed company with limited growth prospects, low trading liquidity and persistently low valuations, going private is a sensible path,” he wrote.",
-      "“It serves little purpose for a company to remain listed simply so that an exchange can preserve its company count.”",
-      "Shares of City Developments Limited (CDL) fell by more than 14% through the week, after the property giant announced a three-year road map on Sept 28 .",
-      "The counter fell 5.7% by midday after its plans were unveiled before the market opened, and later closed 8.1% down at $7.59. It continued to slide and closed the week at $7.04, the lowest since Nov 2025.",
-      "Explaining why CDL’s share price fell, analysts said weak market conditions and the interest rate outlook could make it difficult for CDL to divest $6 billion worth of assets as planned. Details on where CDL intends to invest an additional $5 billion are also lacking.",
-      "In addition, doubts remain over whether the feud between chief executive Sherman Kwek and his father, executive chairman Kwek Leng Beng, has truly subsided. In early 2025, the father accused his son of orchestrating a boardroom takeover.",
-      "The elder Kwek was also absent from the Sept 28 unveiling of the road map, which left questions on succession from the media unanswered.",
-      "Others noted that some institutional investors have been dumping CDL shares in a typical “buy the rumour, sell the news” fashion, while some have also been short selling the shares.",
-      "CDL had said on Sept 28 that it plans to sell $6 billion worth of non-core assets, including $1.8 billion worth of hotels, over the next three years.",
-      "The company will also deploy $5 billion of growth capital, with Singapore remaining the principal market for new investments. A third of the funds has been earmarked for investments in China, where the property market has been weak, and Japan.",
-      "In addition, CDL plans to achieve a dividend payout of more than 35% annually, increase its assets under management from $5 billion to $10 billion, and lock in more than $1 billion in profit after tax and minority interests to be realised from divestment gains, over the three years.",
-      "DFI Retail Group’s shares jumped 6.6% when the market opened on Oct 1 and closed at US$3.41, the week’s peak, before falling the following day to close the week 6.1% lower at US$3.10.",
-      "The company said on Sept 1 that it will take full control of Starbucks’ licensed operations in the region , including Singapore, from Maxim’s Caterers, following a reorganisation.",
-      "Currently, DFI and Hongkong Caterers each own a 50% stake in Maxim’s Caterers. The new arrangement will see Hongkong Caterers retain Maxim’s other food and beverage businesses, which include five brands in Singapore: Genki Sushi, sen-ryo, Yakiniku Like, Butahage and Uoharu.",
-      "The reorganisation is slated to be completed by end-March 2027 and expected to immediately boost DFI’s revenue and profitability. DFI will transfer its 50% stake in Maxim’s to Hongkong Caterers for US$340 million (S$434.7 million) in cash, which it intends to deploy for growth or return to its shareholders as special dividends.",
-      "The group plans to build on the coffee chain’s leading position in Asia’s breakfast market by expanding its food and beverage menus and attracting more customers at lunchtime and later in the day, said Andrew Wong, chief executive of DFI IKEA, who will oversee the Starbucks operations.",
-      "DFI also plans to broaden Starbucks’ breakfast and bakery offerings, and adapt menus to local tastes.",
-      "More outlets are expected to open across Singapore as well as Thailand, Hong Kong, Macau, Vietnam, Cambodia and Laos between 2027 and 2029, taking the total number of Starbucks outlets in Asia to 1,350 from 1,110 currently. The Starbucks business in the seven Asian markets generated US$746 million in revenue in 2025.",
-      "The reorganisation comes at a time when competition for the coffee and tea consumer in Asia is intensifying. Chinese coffee giant Luckin Coffee already runs 103 outlets in Singapore – just three years after it first opened in the Republic.",
-      "Two companies have lodged their preliminary prospectuses to list on SGX.",
-      "Metasurface Technologies, which specialises in precision machining and precision welding for international customers in the industrial sector, filed its prospectus for a dual primary listing on the Catalist board on Sept 28."
+      "SINGAPORE – Singapore’s retail sales growth expanded 0.7% year on year in August 2026, following the 1.3% growth in July, according to data from the Singapore Department of Statistics (SingStat).",
+      "In a release on Oct 5, SingStat said retail sales excluding motor vehicles, parts and accessories rose 1.6% year on year, compared with 1.3% growth in July.",
+      "On a month-on-month and seasonally adjusted basis, retail sales fell 1% in August. Excluding motor vehicles, parts and accessories, sales rose 0.6%.",
+      "Total retail sales were estimated at $4.5 billion in August, with online transactions accounting for 15.7 % of the total, up from 15.2% in July.",
+      "Within the retail trade sector, the majority of industries recorded year-on-year growth in sales in August.",
+      "Cosmetics, toiletries and medical goods saw the strongest year-on-year growth, with sales going up by 11.2%, partly driven by higher sales of cosmetics and toiletries.",
+      "This is closely followed by the computer and telecommunications equipment industry, which grew by 10.7%, driven by more sales of mobile phones. Other industries that recorded year-on-year increases include recreational goods, which rose 4.3% and petrol service stations, which rose 3.2%. In contrast, motor vehicles, parts and accessories recorded year-on-year declines in sales of 4.6%, while retailers of watches and jewellery saw a dip in sales of 2.7% in August. The SingStat data also showed that food and beverage services sales fell by 1.6% year on year in August, extending July’s 1.9% decline.",
+      "The total F&B sales were estimated at $1.7 billion, with online transactions accounting for 20.6% of the total, down from 20.9% in July.",
+      "Within the F&B services sector, cafes saw the biggest drop in year-on-year sales of 5.3%, while foodcourts and other eating places recorded year-on-year sales fall of 4.8% in August. Restaurants’ sales also decreased by 2.1%.",
+      "In contrast, sales at fast-food outlets rose by 7.8%, while those of food caterers increased by 2.9%."
     ]
   },
   "cna": {
-    "headline": "Marquez wins Japanese GP to cut Martin's lead",
-    "teaser": "Marquez wins Japanese GP to cut Martin's lead",
-    "url": "https://www.channelnewsasia.com/sport/marquez-wins-japanese-gp-cut-martins-lead-6430496",
+    "headline": "Mediacorp 987 launches radio-themed escape room experience at Xcape Singapore",
+    "teaser": "The experience will feature seven 987 personalities through audio and visual elements and will run from now until Nov 1.",
+    "url": "https://www.channelnewsasia.com/entertainment/mediacorp-987-signal-hijacked-purge-protocol-escape-room-6432241",
     "fullText": [
-      "MOTEGI, Japan, Oct 4 : Ducati's Marc Marquez won his fourth Japanese Grand Prix to complete a sprint-race double at the Motegi Circuit on Sunday and cut title rival Jorge Martin's championship lead to two points.",
-      "Polesitter Martin managed to hold on to his advantage off the line and appeared comfortable in the opening eight laps as Marquez waited for the perfect moment to pounce.",
-      "That opportunity came on the 11th lap when Martin left a sliver of space on his inside, which Marquez exploited to take the lead.",
-      "The reigning champion then controlled the race to the chequered flag, finishing ahead of Aprilia's Martin and Marco Bezzecchi.",
+      "Mediacorp 987 has teamed up with Xcape Singapore for a new escape room experience that puts players inside a fictionalised version of the radio station, where they must solve puzzles and uncover the mystery behind a hijacked radio signal.",
+      "Mediacorp 987's Signal Hijacked: The Purge Protocol runs from now until Nov 1, 2026, and is billed as Singapore's first radio-themed escape room experience.",
+      "Players take on the roles of new interns arriving at 987 for their first day. A guided tour of the station by a 987 radio personality takes a darker turn at night when a citywide Purge begins, and participants will need to solve the mystery event before time runs out.",
+      "The 75-minute experience is designed for groups of three to eight people.",
+      "Seven 987 personalities – Ann Nicole, Avery Aloysius, Germaine Tan, Joakim Gomez, Louisa Kan, Natasha Faisal and Sonia Chew – feature in the experience through curated audio and visual elements.",
+      "Tickets are priced at S$39.90 per person for standard sessions and S$45.90 per person for peak sessions after 6pm.",
+      "The experience runs at Xcape Singapore from now until Nov 1. Tickets are available through Xcape Singapore's website .",
       "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
@@ -63,259 +46,259 @@
   },
   "lifeVocab": [
     {
-      "en": "commuter",
-      "cn": "通勤者",
-      "def": "a person who travels some distance to work on a regular basis",
-      "ex": "Every morning, thousands of commuters pack the MRT trains heading towards the Central Business District.",
-      "emoji": "🚇"
+      "en": "chope",
+      "cn": "占位",
+      "def": "to reserve a seat, usually with a tissue packet or personal item",
+      "ex": "Can you chope a table while I buy the chicken rice?",
+      "emoji": "🧻"
     },
     {
-      "en": "feeder bus",
-      "cn": "接驳巴士",
-      "def": "a local bus service that brings passengers from residential areas to a major transport hub like an MRT station",
-      "ex": "If you miss the main train, you can take a feeder bus to the nearest interchange.",
-      "emoji": "🚌"
+      "en": "dabao",
+      "cn": "打包",
+      "def": "to pack food for takeaway or to-go",
+      "ex": "I will dabao some fried hokkien mee back to the office for lunch.",
+      "emoji": "🥡"
     },
     {
-      "en": "gantry",
-      "cn": "闸机 / 收费闸门",
-      "def": "a bridge-like overhead structure, or in Singapore, the automated fare gates at MRT stations",
-      "ex": "Please tap your EZ-Link card at the gantry before entering the train platform.",
-      "emoji": "🚧"
+      "en": "customise",
+      "cn": "定制",
+      "def": "to modify an order to suit personal preferences",
+      "ex": "You can customise your laksa by asking for less gravy and more chili.",
+      "emoji": "🍜"
     },
     {
-      "en": "peak hour",
-      "cn": "尖峰时段 / 上下班高峰期",
-      "def": "the times at the beginning and end of the working day when traffic is heaviest",
-      "ex": "It is usually very difficult to find a seat on the MRT during peak hour.",
-      "emoji": "⏰"
+      "en": "stallholder",
+      "cn": "摊主",
+      "def": "a person who runs a business at a market or food centre stall",
+      "ex": "The friendly stallholder gave me an extra fishball for free.",
+      "emoji": "🏪"
     },
     {
-      "en": "concourse",
-      "cn": "车站大厅",
-      "def": "a large open area inside a station where people gather or pass through",
-      "ex": "Let's meet near the passenger service centre at the station concourse.",
-      "emoji": "🏢"
+      "en": "cutlery",
+      "cn": "餐具",
+      "def": "utensils used for eating, such as spoons, forks, and chopsticks",
+      "ex": "Please return your dirty cutlery to the designated tray return station.",
+      "emoji": "🍴"
     },
     {
-      "en": "farecard",
-      "cn": "车资卡",
-      "def": "a contactless smart card used to pay for public transport fares",
-      "ex": "Make sure your farecard has sufficient value before you tap through the gate.",
-      "emoji": "💳"
+      "en": "condiment",
+      "cn": "调味品",
+      "def": "a substance such as a sauce or spice used to add flavor to food",
+      "ex": "Pickled green chili is a popular condiment at hawker centres.",
+      "emoji": "🌶️"
     },
     {
-      "en": "transit link",
-      "cn": "交通联络系统",
-      "def": "the interconnected network of buses, trains, and light rail services",
-      "ex": "The new transit link makes traveling from the east to the west of Singapore much faster.",
-      "emoji": "🗺️"
-    },
-    {
-      "en": "train disruption",
-      "cn": "地铁故障 / 延误",
-      "def": "an interruption in the normal train service, causing delays",
-      "ex": "SMRT deployed free bridging buses to assist commuters affected by the train disruption.",
-      "emoji": "⚠️"
-    },
-    {
-      "en": "priority seat",
-      "cn": "博爱座 / 优先座",
-      "def": "designated seats in public transport reserved for the elderly, pregnant women, and the disabled",
-      "ex": "She kindly stood up to offer her priority seat to an elderly man carrying heavy groceries.",
-      "emoji": "👵"
-    },
-    {
-      "en": "grab-and-go",
-      "cn": "即买即走 / 便捷外带",
-      "def": "relating to food or services designed to be bought quickly and consumed elsewhere",
-      "ex": "I usually buy a grab-and-go breakfast from the bakery at the MRT station.",
+      "en": "queue",
+      "cn": "排队",
+      "def": "to wait in a line of people",
+      "ex": "Locals are willing to queue for hours for famous Michelin-starred food.",
       "emoji": "🚶"
+    },
+    {
+      "en": "beverage",
+      "cn": "饮料",
+      "def": "a drink, especially one other than water",
+      "ex": "Would you like a hot beverage like kopi-c with your breakfast?",
+      "emoji": "☕"
+    },
+    {
+      "en": "scrumptious",
+      "cn": "极美味的",
+      "def": "extremely tasty or delicious",
+      "ex": "The satay we had last night at Lau Pa Sat was absolutely scrumptious.",
+      "emoji": "🍢"
+    },
+    {
+      "en": "communal",
+      "cn": "公共的",
+      "def": "shared by all members of a community, for common use",
+      "ex": "Hawker centres offer a communal dining experience where strangers share tables.",
+      "emoji": "🤝"
     }
   ],
   "levelVocab": [
     {
-      "w": "precipitate",
-      "ipa": "/prɪˈsɪpɪteɪt/",
+      "w": "concur",
+      "ipa": "/kənˈkɜːr/",
       "pos": "v.",
-      "cn": "促成 / 加速发生",
-      "def": "to cause an event or situation, typically one that is undesirable, to happen suddenly or unexpectedly",
-      "ex": "The sudden tariff increases could precipitate a trade war between the two nations."
+      "cn": "同意",
+      "def": "to agree or have the same opinion",
+      "ex": "The board members concur that the marketing strategy needs immediate adjustment."
     },
     {
-      "w": "parameter",
-      "ipa": "/pəˈræmɪtə/",
-      "pos": "n.",
-      "cn": "界限 / 范围 / 参数",
-      "def": "a limit or boundary that defines how something should be done",
-      "ex": "We must operate within the strict parameters set by our legal compliance team."
-    },
-    {
-      "w": "paradigm",
-      "ipa": "/ˈpærədaɪm/",
-      "pos": "n.",
-      "cn": "范式 / 典范",
-      "def": "a typical example or pattern of something; a model for how something is understood",
-      "ex": "The shift toward remote work represents a new paradigm in corporate human resources."
-    },
-    {
-      "w": "benchmark",
-      "ipa": "/ˈbentʃmɑːk/",
+      "w": "deviate",
+      "ipa": "/ˈdiːvieɪt/",
       "pos": "v.",
-      "cn": "以…为基准衡量",
-      "def": "to evaluate or check something by comparison with a standard",
-      "ex": "The tech firm will benchmark its customer service standards against its top global competitors."
+      "cn": "偏离",
+      "def": "to do something that is different from the usual or common way of behaving",
+      "ex": "We must not deviate from the original project timeline to meet the deadline."
     },
     {
-      "w": "configuration",
-      "ipa": "/kənˌfɪɡjʊˈreɪʃn/",
-      "pos": "n.",
-      "cn": "布局 / 结构配置",
-      "def": "an arrangement of elements in a particular form, figure, or combination",
-      "ex": "The office configuration was altered to encourage more collaboration among departments."
-    },
-    {
-      "w": "deviation",
-      "ipa": "/ˌdiːviˈeɪʃn/",
-      "pos": "n.",
-      "cn": "偏差 / 偏离",
-      "def": "the action of departing from an established course or accepted standard",
-      "ex": "Any significant deviation from the approved budget must be reported to the board."
-    },
-    {
-      "w": "facet",
-      "ipa": "/ˈfæsɪt/",
-      "pos": "n.",
-      "cn": "方面 / 侧面",
-      "def": "one part or feature of something, especially a complex situation or subject",
-      "ex": "We need to analyze every facet of the business model before presenting to investors."
-    },
-    {
-      "w": "juxtapose",
-      "ipa": "/ˌdʒʌkstəˈpəʊz/",
+      "w": "elicit",
+      "ipa": "/iˈlɪsɪt/",
       "pos": "v.",
-      "cn": "把…并列 / 对比",
-      "def": "to place two or more things close together to emphasize their differences or create a contrasting effect",
-      "ex": "The exhibition will juxtapose traditional oil paintings with modern digital art."
+      "cn": "引起，诱导",
+      "def": "to call forth or draw out a response or reaction",
+      "ex": "The new hybrid work policy managed to elicit positive feedback from the employees."
     },
     {
-      "w": "orientation",
-      "ipa": "/ˌɔːriənˈteɪʃn/",
-      "pos": "n.",
-      "cn": "定位 / 方向",
-      "def": "the general direction, goals, or interests of a person or an organization",
-      "ex": "The department is undergoing a change in orientation, shifting its focus toward consumer data privacy."
+      "w": "fortify",
+      "ipa": "/ˈfɔːrtɪfaɪ/",
+      "pos": "v.",
+      "cn": "加强，巩固",
+      "def": "to strengthen a place or position physically or metaphorically",
+      "ex": "The firm plans to fortify its market presence by launching a new mobile app."
     },
     {
-      "w": "salience",
-      "ipa": "/ˈseɪliəns/",
+      "w": "garner",
+      "ipa": "/ˈɡɑːrnər/",
+      "pos": "v.",
+      "cn": "收集，获得",
+      "def": "to gather or collect something, especially information or support",
+      "ex": "The proposed sustainability initiative has garnered immense support from residents."
+    },
+    {
+      "w": "impediment",
+      "ipa": "/ɪmˈpedɪmənt/",
       "pos": "n.",
-      "cn": "显着性 / 杰出 / 核心地位",
-      "def": "the quality of being particularly noticeable, important, or prominent",
-      "ex": "The issue of supply chain resilience has gained increased salience in light of recent geopolitical events."
+      "cn": "障碍，阻阻",
+      "def": "something that makes progress or movement difficult",
+      "ex": "A lack of funding was the main impediment to the expansion plan."
+    },
+    {
+      "w": "lucrative",
+      "ipa": "/ˈluːkrətɪv/",
+      "pos": "adj.",
+      "cn": "获利丰厚的",
+      "def": "producing a great deal of profit",
+      "ex": "Securing the government contract proved to be a highly lucrative venture for the startup."
+    },
+    {
+      "w": "obsolete",
+      "ipa": "/ˌɒbsəˈliːt/",
+      "pos": "adj.",
+      "cn": "淘汰的，过时的",
+      "def": "no longer produced or used; out of date",
+      "ex": "Continuous training ensures that our staff's skills do not become obsolete."
+    },
+    {
+      "w": "rectify",
+      "ipa": "/ˈrektɪfaɪ/",
+      "pos": "v.",
+      "cn": "纠正，改正",
+      "def": "to put right or correct a mistake or bad situation",
+      "ex": "Please take immediate action to rectify the billing errors reported by clients."
+    },
+    {
+      "w": "stringent",
+      "ipa": "/ˈstrɪndʒənt/",
+      "pos": "adj.",
+      "cn": "严格的",
+      "def": "extremely strict, precise, and exacting",
+      "ex": "The financial authority has imposed stringent regulations on cryptocurrency trading."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "The Green Transition of Singapore's Public Buses",
-    "transcript": "Singapore's Land Transport Authority is accelerating its <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃn/ (n.) the process of changing from one state or condition to another — 过渡 / 转型\">transition</span> to a fully electric bus fleet by 2040. Under this initiative, older diesel buses are systematically being <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌdiːkəˈmɪʃənd/ (v. past participle) officially taken out of service, especially a vehicle, ship, or industrial facility — 退役 / 停止使用\">decommissioned</span> to slash vehicular <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈmɪʃnz/ (n. plural) substances, especially gases, that are sent out into the air — 排放物\">emissions</span>. Commuters can expect quieter rides and cleaner air as these eco-friendly alternatives are rolled out islandwide."
+    "title": "Singapore's Hawker Centres Embrace Digital Payments",
+    "transcript": "As Singapore marches towards its Smart Nation vision, more than ninety percent of hawker stalls now accept SGQR e-payments. This digital shift has reduced the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhæs.əl/ (n.) irritating inconvenience or trouble — 麻烦\">hassle</span> of handling physical cash and coins during busy lunch hours. While older <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpeɪ.trənz/ (n. plural) customers of a shop, restaurant, or business — 顾客\">patrons</span> initially found the transition challenging, community digital ambassadors have successfully <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/brɪdʒd/ (v. past tense) connected or reduced the difference between two things — 消除（分歧），缩小（差距）\">bridged</span> the gap. Now, grabbing a bowl of laksa is as simple as a quick scan of your mobile phone."
   },
   "economistArticle": {
-    "title": "Research on grasping bureaucrats startles Singapore",
+    "title": "The Coming Deluge: How the LNG Crunch Will Give Way to a Massive Glut",
     "paras": [
-      "A minor academic tremor has sent ripples through the usually placid waters of Singapore's public administration. The cause is a research paper examining \"<span class=\"voc\">grasping</span>\" bureaucrats—those who leverage their administrative power to extract rents or personal gain. For a city-state that prides itself on maintaining a <span class=\"voc\">squeaky-clean</span>, <span class=\"voc\">meritocratic</span> civil service, even the academic discussion of such behavior within regional proximity causes significant discomfort.",
-      "The study, though intended as a broad regional analysis of how civil service structures across Southeast Asia manage systemic <span class=\"voc\">rent-seeking</span>, accidentally struck a delicate nerve. Singapore's administrative model is globally renowned for its high remuneration packages, designed precisely to deter graft. Consequently, the mere <span class=\"voc\">insinuation</span> that technocrats might engage in grasping practices—even in a comparative or theoretical academic context—challenged local <span class=\"voc\">exceptionalism</span>.",
-      "Critics of the study argue that its methodology lacked the contextual nuance required to differentiate Singapore's highly disciplined <span class=\"voc\">technocracy</span> from the systemic patronage found elsewhere. They assert that the civil service's performance is driven by key performance indicators, not personal accumulation. To lump Singaporean administrators into a generalized framework of regional opportunism is, in their eyes, analytically flawed and unfair.",
-      "<span class=\"gem\">Yet, the controversy is perhaps more revealing about Singapore's academic culture than the actual integrity of its civil service.</span> Higher education institutions in Singapore, heavily state-funded yet fiercely ambitious to climb global rankings, exist in a perpetual state of <span class=\"voc\">friction</span>. They must navigate the demanding expectations of international academic freedom while remaining sensitive to local political boundaries.",
-      "In the end, Singapore's civil service remains <span class=\"voc\">exemplarily</span> clean, and its reputation is unlikely to be tarnished by a single scholarly paper. However, the episode highlights the persistent sensitivity surrounding the nation's public image. For local researchers, the lesson is clear: when examining the delicate machinery of state power, even the most abstract academic models can <span class=\"voc\">robustly</span> shake the ground beneath them."
+      "The global energy market has spent the past few years on a <span class=\"voc\">knife-edge</span>. Following the geopolitical disruptions of 2022, when Europe scrambled to replace Russian pipeline gas, liquefied natural gas (LNG) became the world’s ultimate economic security blanket. Prices skyrocketed, leaving poorer nations in Asia in the dark while wealthier economies locked down every spare drop of super-chilled fuel. This <span class=\"voc\">acute</span> supply crunch triggered a frantic, capital-intensive race to build massive new export terminals, particularly along the US Gulf Coast and in Qatar.",
+      "Yet, the multi-billion-dollar investments designed to cure today's deficit are <span class=\"voc\">poised</span> to overshoot demand. Energy analysts predict that between 2025 and 2028, a staggering wave of new liquefaction capacity will come online, expanding global supply by over forty percent. <span class=\"gem\">This <span class=\"voc\">impending</span> supply surge threatens to transform a highly congested seller's market into a highly competitive buyer's paradise.</span> The world, it seems, is pivoting rapidly from an almighty LNG crunch to an equally disruptive glut.",
+      "For major Asian importing hubs like Singapore, which has positioned itself as a critical trading node, this transition brings both relief and complexity. Cheaper and more <span class=\"voc\">abundant</span> gas will lower electricity generation costs and stabilize industrial operations across the region. However, a sudden collapse in prices could <span class=\"voc\">derail</span> investments in cleaner alternatives. If cheap fossil gas remains plentiful, local utilities might find themselves less incentivised to aggressively pursue costlier solar power or hydrogen energy infrastructure.",
+      "Furthermore, the impending glut will challenge the business models of energy giants that locked themselves into expensive, long-term supply contracts during the height of the crunch. Portfolio players will have to navigate a market where spot prices could plunge below the cost of production. Flexibility in contracts, such as destination-free clauses and indexation shifts, will become <span class=\"voc\">paramount</span> as buyers regain the upper hand.",
+      "Ultimately, the cyclical nature of commodity markets is playing out in textbook fashion. The high prices that punished consumers over the last three years have successfully stimulated the investment needed to secure future supply. But in their rush to avoid energy insecurity, producers may have overcompensated, paving the way for a <span class=\"voc\">protracted</span> period of oversupply that will reshape the global energy map for the next decade."
     ],
-    "cn": "一场小小的学术风波，在通常平静的新加坡公共行政领域激起了涟漪。其起因是一篇研究“贪婪”官僚（即利用行政权力谋取租金或个人利益的官员）的学术论文。对于一个以维持廉洁、精英治理的公务员体系而自豪的城邦国家而言，即便是在区域范围内对这种行为进行学术探讨，也会引起显着的不适。\n\n该研究虽然旨在对东南亚各地的公务员结构如何应对系统性寻租行为进行广泛的区域分析，但却无意中触碰到了敏感的神经。新加坡的行政模式因其高薪制而在全球享有盛誉，其设计初衷正是为了遏制贪腐。因此，即便是在比较或理论学术语境中，仅仅暗示技术官僚可能存在贪婪行径，也挑战了当地的“例外论”。\n\n该研究的批评者认为，其方法论缺乏必要的背景细微差别，无法将新加坡高度纪律化的技术官僚体制与该地区其他地方存在的系统性分赃体制区分开来。他们断言，公务员的业绩是由关键绩效指标驱动的，而非个人财富积累。在他们看来，将新加坡的行政人员归入区域投机主义的泛化框架中，在分析上是有缺陷且不公平的。\n\n然而，这场争议或许更能揭示新加坡的学术文化，而非其公务员体系的实际廉洁度。新加坡的高等教育机构虽然主要由政府资助，但又极具跻身全球排名的野心，它们一直处于一种微妙的摩擦状态中。它们既要应对国际学术自由的苛刻要求，又要对当地的政治界限保持敏感。\n\n归根结底，新加坡的公务员队伍依然堪称廉洁典范，其名誉不太可能因一篇学术论文而受损。然而，这一事件凸显了围绕国家公共形象的持续敏感性。对于本地学者来说，教训显而易见：在审视国家权力的精密机制时，即使是最抽象的学术模型，也能强力地震动其立足之地。",
+    "cn": "全球能源市场在过去几年中一直处于千钧一发的紧要关头。继2022年地缘政治动荡、欧洲争相取代俄罗斯管道天然气之后，液化天然气（LNG）成为了全球终极的经济安全保障。价格一路飙升，导致亚洲较贫困的国家陷入黑暗，而较富裕的经济体则锁定了每一滴多余的超冷燃料。这种急剧的供应紧张引发了一场疯狂的、资本密集型的竞赛，旨在建设庞大的新出口终端，特别是在美国墨西哥湾沿岸和卡塔尔。\n\n然而，旨在解决当前赤字的数百亿美元投资注定会超出需求。能源分析师预测，在2025年至2028年之间，惊人的新液化产能将陆续投产，使全球供应量扩大40%以上。这一即将到来的供应激增恐将使一个高度拥挤的卖方市场转变为极具竞争力的买方天堂。世界似乎正在迅速从全能型的LNG紧缺转向同样具有颠覆性的供应过剩。\n\n对于像新加坡这样已将自己定位为关键贸易节点的亚洲主要进口枢纽而言，这一转变既带来了缓解，也带来了复杂性。更便宜、更充足的天然气将降低发电成本，并稳定该地区的工业运营。然而，价格的突然崩盘可能会阻碍对更清洁替代能源的投资。如果廉价的化石天然气依然充足，当地公用事业公司可能会发现自己缺乏积极追求成本更高的太阳能或氢能基础设施的动力。\n\n此外，即将到来的供应过剩将挑战能源巨头的商业模式，这些巨头在供应紧张的高峰期锁定了昂贵的长期供应合同。组合型交易商将不得不应对现货价格可能跌破生产成本的市场。随着买家重新夺回主动权，合同的灵活性（如无目的地条款和指数挂钩转变）将变得至关重要。\n\n归根结底，大宗商品市场的周期性特征正在以教科书般的方式上演。过去三年惩罚消费者的昂贵价格，已成功刺激了确保未来供应所需的投资。但在避免能源不安全感的匆忙中，生产商可能过度补偿，从而为可能重塑未来十年全球能源版图的长期供应过剩铺平了道路。",
     "vocab": [
       {
-        "w": "squeaky-clean",
-        "ipa": "/ˌskwiːki ˈkliːn/",
+        "w": "knife-edge",
+        "ipa": "/ˈnaɪf.edʒ/",
+        "pos": "n.",
+        "mean": "关键时刻，危险边缘",
+        "def": "a position or situation in which the direction of future events is highly uncertain and could be very dangerous",
+        "ex": "The company’s survival remained on a knife-edge as crucial debt negotiations dragged on."
+      },
+      {
+        "w": "scramble",
+        "ipa": "/ˈskræm.bəl/",
+        "pos": "v.",
+        "mean": "仓促行动，争夺",
+        "def": "to move or act quickly and hurriedly to do or obtain something",
+        "ex": "Retailers scrambled to secure supply chains ahead of the major shopping festival."
+      },
+      {
+        "w": "acute",
+        "ipa": "/əˈkjuːt/",
         "pos": "adj.",
-        "mean": "极度廉洁的 / 一尘不染的",
-        "def": "completely clean; free from any scandal, corruption, or wrongdoing",
-        "ex": "The politician maintained a squeaky-clean image throughout his three decades in public office."
+        "mean": "急剧的，严重的",
+        "def": "present or experienced to a severe or intense degree",
+        "ex": "The regional factory is suffering from an acute shortage of skilled technicians."
       },
       {
-        "w": "rent-seeking",
-        "ipa": "/ˈrentˌsiːkɪŋ/",
-        "pos": "n.",
-        "mean": "寻租行为",
-        "def": "the practice of manipulating public policy or economic conditions as a strategy for increasing personal wealth without creating any new wealth",
-        "ex": "Economists warned that excessive regulation would only encourage rent-seeking among local monopolies."
-      },
-      {
-        "w": "meritocratic",
-        "ipa": "/ˌmerɪtəˈkrætɪk/",
+        "w": "poised",
+        "ipa": "/pɔɪzd/",
         "pos": "adj.",
-        "mean": "精英治理的 / 凭才能提拔的",
-        "def": "relating to a system in which progress is based on ability and talent rather than wealth or social class",
-        "ex": "Singapore attributes much of its economic success to a highly meritocratic civil service."
+        "mean": "准备就绪的",
+        "def": "ready or prepared to do something",
+        "ex": "The tech startup is poised to expand its operations in Southeast Asia after securing funding."
       },
       {
-        "w": "technocracy",
-        "ipa": "/tekˈnɒkrəsi/",
-        "pos": "n.",
-        "mean": "专家治国体制 / 技术官僚统治",
-        "def": "a government or social system controlled by technical experts or elites",
-        "ex": "The country is ruled by a technocracy where economic policies are decided by financial experts."
-      },
-      {
-        "w": "insinuation",
-        "ipa": "/ɪnˌsɪnjuˈeɪʃn/",
-        "pos": "n.",
-        "mean": "暗讽 / 暗示",
-        "def": "an unpleasant hint or suggestion of something bad",
-        "ex": "She rejected the insinuation that she had only been promoted because of her family connections."
-      },
-      {
-        "w": "exceptionalism",
-        "ipa": "/ɪkˈsepʃənəlɪzəm/",
-        "pos": "n.",
-        "mean": "例外论 / 独特性",
-        "def": "the belief that a country, society, or system is unique and exceptional, and therefore not subject to the same rules as others",
-        "ex": "Critics argue that national exceptionalism can sometimes blind leaders to global trends."
-      },
-      {
-        "w": "exemplarily",
-        "ipa": "/ɪɡˈzemplərəli/",
-        "pos": "adv.",
-        "mean": "典范地 / 堪称楷模地",
-        "def": "in a way that is excellent and deserves to be admired or copied",
-        "ex": "The department handled the emergency exemplarily, earning praise from the prime minister."
-      },
-      {
-        "w": "friction",
-        "ipa": "/ˈfrɪkʃn/",
-        "pos": "n.",
-        "mean": "摩擦 / 冲突",
-        "def": "clash of wills, temperaments, or opinions; conflict or animosity",
-        "ex": "There is growing friction between the marketing team and the product developers over the launch date."
-      },
-      {
-        "w": "grasping",
-        "ipa": "/ˈɡrɑːspɪŋ/",
+        "w": "impending",
+        "ipa": "/ɪmˈpen.dɪŋ/",
         "pos": "adj.",
-        "mean": "贪婪的 / 执意攫取的",
-        "def": "greedy; avaricious; eager to seize or acquire money or possessions",
-        "ex": "The novel portrays the landlord as a grasping individual who exploits his impoverished tenants."
+        "mean": "即将发生的，逼近的",
+        "def": "about to happen, especially something unpleasant or worrisome",
+        "ex": "Businesses are bracing themselves for the impending regulatory changes."
       },
       {
-        "w": "robustly",
-        "ipa": "/rəʊˈbʌstli/",
-        "pos": "adv.",
-        "mean": "强有力地 / 坚决地",
-        "def": "in a strong, vigorous, or forceful way",
-        "ex": "The company robustly defended its patent against the competitor's allegations of infringement."
+        "w": "pivot",
+        "ipa": "/ˈpɪv.ət/",
+        "pos": "v.",
+        "mean": "改变方向，转向",
+        "def": "to change your opinion, decisions, or actions rapidly to suit a new situation",
+        "ex": "The firm decided to pivot towards offering digital-only services to survive."
+      },
+      {
+        "w": "abundant",
+        "ipa": "/əˈbʌn.dənt/",
+        "pos": "adj.",
+        "mean": "充裕的，丰富的",
+        "def": "existing or available in large quantities; plentiful",
+        "ex": "With abundant rain this season, agricultural yields are expected to double."
+      },
+      {
+        "w": "derail",
+        "ipa": "/dɪˈreɪl/",
+        "pos": "v.",
+        "mean": "阻碍，使偏离轨道",
+        "def": "to obstruct or ruin a process, plan, or course of action",
+        "ex": "Unexpected technical difficulties could derail our transition timeline."
+      },
+      {
+        "w": "paramount",
+        "ipa": "/ˈpær.ə.maʊnt/",
+        "pos": "adj.",
+        "mean": "首要的，至高无上的",
+        "def": "more important than anything else; supreme",
+        "ex": "Maintaining client confidentiality is of paramount importance to our law firm."
+      },
+      {
+        "w": "protracted",
+        "ipa": "/prəˈtræk.tɪd/",
+        "pos": "adj.",
+        "mean": "延长的，旷日持久的",
+        "def": "lasting for a long time or longer than expected",
+        "ex": "After months of protracted negotiations, the merger was finally approved."
       }
     ],
     "gems": [
       {
-        "s": "Yet, the controversy is perhaps more revealing about Singapore's academic culture than the actual integrity of its civil service.",
-        "why": "This sentence uses a comparative 'more revealing about A than B' structure to shift the reader's focus from the obvious topic (corruption) to a deeper, underlying issue (academic self-censorship). This is a classic analytical technique used to challenge conventional assumptions. 中文解释：该句使用了“更能揭示A而非B”的比较结构，将读者的注意力从显而易见的主题（腐败）转移到更深层的潜在问题（学术自我审查）。这是一种典型的用于挑战常规假设的分析性修辞手法。"
+        "s": "This impending supply surge threatens to transform a highly congested seller's market into a highly competitive buyer's paradise.",
+        "why": "This sentence employs vivid contrast ('seller's market' vs. 'buyer's paradise') and parallel modifier structures ('highly congested' vs. 'highly competitive') to highlight a dramatic economic shift. / 这句话运用了生动的对比（“卖方市场”与“买方天堂”）和平衡的形容词结构（“高度拥挤”与“极具竞争性”）来突出戏剧性的经济转变。"
       }
     ]
   }
