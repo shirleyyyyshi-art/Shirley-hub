@@ -1,305 +1,76 @@
 {
-  "date": "2026-10-05",
-  "generatedAt": "2026-10-05T05:55:29.007788+00:00",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T06:33:27.360612+00:00",
   "economist": {
-    "headline": "The world is facing an almighty LNG crunch",
-    "teaser": "In time it could bring about an equally disruptive glut",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
+    "headline": "The bond market sell-off is helping the dollar",
+    "teaser": "But the strength of the greenback is not as reliable as in the past",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
     "vocab": []
   },
   "st": {
-    "headline": "Singapore’s retail sales growth rose 0.7% in August",
-    "teaser": "Retail sales excluding motor vehicles, parts and accessories rose 1.6% year on year.",
-    "url": "https://www.straitstimes.com/business/singapores-retail-sales-growth-rose-0-7-per-cent-in-august-2026",
+    "headline": "DeepSeek set to raise at least $15 billion in Tencent-backed funding",
+    "teaser": "Tencent Holdings has committed among the largest amounts in the current financing, sources said.",
+    "url": "https://www.straitstimes.com/business/deepseek-set-to-raise-at-least-15-billion-in-tencent-backed-funding",
     "fullText": [
-      "SINGAPORE – Singapore’s retail sales growth expanded 0.7% year on year in August 2026, following the 1.3% growth in July, according to data from the Singapore Department of Statistics (SingStat).",
-      "In a release on Oct 5, SingStat said retail sales excluding motor vehicles, parts and accessories rose 1.6% year on year, compared with 1.3% growth in July.",
-      "On a month-on-month and seasonally adjusted basis, retail sales fell 1% in August. Excluding motor vehicles, parts and accessories, sales rose 0.6%.",
-      "Total retail sales were estimated at $4.5 billion in August, with online transactions accounting for 15.7 % of the total, up from 15.2% in July.",
-      "Within the retail trade sector, the majority of industries recorded year-on-year growth in sales in August.",
-      "Cosmetics, toiletries and medical goods saw the strongest year-on-year growth, with sales going up by 11.2%, partly driven by higher sales of cosmetics and toiletries.",
-      "This is closely followed by the computer and telecommunications equipment industry, which grew by 10.7%, driven by more sales of mobile phones. Other industries that recorded year-on-year increases include recreational goods, which rose 4.3% and petrol service stations, which rose 3.2%. In contrast, motor vehicles, parts and accessories recorded year-on-year declines in sales of 4.6%, while retailers of watches and jewellery saw a dip in sales of 2.7% in August. The SingStat data also showed that food and beverage services sales fell by 1.6% year on year in August, extending July’s 1.9% decline.",
-      "The total F&B sales were estimated at $1.7 billion, with online transactions accounting for 20.6% of the total, down from 20.9% in July.",
-      "Within the F&B services sector, cafes saw the biggest drop in year-on-year sales of 5.3%, while foodcourts and other eating places recorded year-on-year sales fall of 4.8% in August. Restaurants’ sales also decreased by 2.1%.",
-      "In contrast, sales at fast-food outlets rose by 7.8%, while those of food caterers increased by 2.9%."
+      "DeepSeek is close to securing at least 80 billion yuan (S$15 billion) in its latest round of funding, blowing past its own capital-raising target ahead of a landmark initial public offering in early 2027 .",
+      "Battery pioneer Contemporary Amperex Technology and WeChat-operator Tencent Holdings have committed among the largest amounts in the current financing, which closes soon, sources familiar with the matter said.",
+      "DeepSeek initially sought about 50 billion yuan, but interest outstripped expectations after the successful release of its latest AI model, the sources said, asking not to be named as the details are not public.",
+      "Based on term sheets signed, the final tally could approach 100 billion yuan, they added.",
+      "DeepSeek’s funding sets the stage for one of the most highly anticipated Chinese market debuts in years.",
+      "The company is riding high after the release of the V4 Flash large language model, which reset expectations for cost versus performance against leaders Anthropic and OpenAI.",
+      "That caps a strong run for founder Liang Wenfeng , whose start-up has forged a reputation for technical breakthroughs since a 2025 model that matched the capabilities of Silicon Valley offerings at a fraction of the cost.",
+      "As with other artificial intelligence players, DeepSeek requires huge amounts of capital to bankroll its ambitions in a potentially revolutionary technology.",
+      "The company plans to deploy at least 160,000 of Huawei Technologies’ top accelerators at a massive data centre it is building in Inner Mongolia, which may create one of the largest known clusters of Huawei AI chips.",
+      "It has publicly released software created with Huawei to program AI chips, a foray into a new arena in close partnership with the hardware leader .",
+      "Rival Moonshot, meanwhile, is also targeting an early 2027 IPO after closing funding at a US$50 billion (S$64 billion) valuation.",
+      "Liang pledged in at least one meeting with investors in 2026 that he will keep developing open AI models while pursuing a broader goal of achieving artificial general intelligence.",
+      "The hedge fund manager made it clear his main goal was to push the boundaries of the technology rather than monetisation, Bloomberg News has reported.",
+      "While discussions around the current deal are near an end, details may still change in final talks, the sources said.",
+      "DeepSeek had originally targeted a valuation of about 500 billion yuan in its financing.",
+      "A CATL representative declined to comment, while Tencent had no immediate comment.",
+      "DeepSeek did not respond to an e-mailed request for comment during a Chinese public holiday.",
+      "DeepSeek has drawn enormous interest from would-be investors because it is one of a clutch of companies that sit at the heart of China’s effort to compete globally on AI.",
+      "Once the round closes, the next step should be to restructure the company to prepare for an IPO, the sources said.",
+      "Tencent, which also landed the biggest investment in the start-up at 10 billion yuan in a previous round of financing, aims to integrate AI into its platforms.",
+      "CATL may be eyeing an increasingly lucrative business of supplying components to the industry, including for data centres.",
+      "The AI lab’s capital-raising had attracted its share of controversy. DeepSeek briefly suspended the deal after comments widely attributed to Liang about US-Chinese AI competition went viral on social media.",
+      "Chinese media outlet Yicai reported in July that the billionaire entrepreneur had talked about a reliance on Nvidia chips and China’s persistent lag in AI sophistication relative to the US.",
+      "Liang’s net worth more than doubled to around US$36 billion when DeepSeek closed its first round of external fund-raising this summer.",
+      "The AI start-up grew as an offshoot from his hedge fund High-Flyer, which provided much of the initial support.",
+      "Liang contributed again in the previous 50 billion yuan round, which valued DeepSeek at roughly 350 billion yuan at the time. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Mediacorp 987 launches radio-themed escape room experience at Xcape Singapore",
-    "teaser": "The experience will feature seven 987 personalities through audio and visual elements and will run from now until Nov 1.",
-    "url": "https://www.channelnewsasia.com/entertainment/mediacorp-987-signal-hijacked-purge-protocol-escape-room-6432241",
+    "headline": "Yemen's Houthis say they struck Riyadh airport, other Saudi sites",
+    "teaser": "A Houthi spokesman says the group had hit King Khalid International Airport, a refinery belonging to state oil giant Aramco and other targets in the kingdom's south.",
+    "url": "https://www.channelnewsasia.com/world/yemen-houthis-strike-saudi-riyadh-airport-6435476",
     "fullText": [
-      "Mediacorp 987 has teamed up with Xcape Singapore for a new escape room experience that puts players inside a fictionalised version of the radio station, where they must solve puzzles and uncover the mystery behind a hijacked radio signal.",
-      "Mediacorp 987's Signal Hijacked: The Purge Protocol runs from now until Nov 1, 2026, and is billed as Singapore's first radio-themed escape room experience.",
-      "Players take on the roles of new interns arriving at 987 for their first day. A guided tour of the station by a 987 radio personality takes a darker turn at night when a citywide Purge begins, and participants will need to solve the mystery event before time runs out.",
-      "The 75-minute experience is designed for groups of three to eight people.",
-      "Seven 987 personalities – Ann Nicole, Avery Aloysius, Germaine Tan, Joakim Gomez, Louisa Kan, Natasha Faisal and Sonia Chew – feature in the experience through curated audio and visual elements.",
-      "Tickets are priced at S$39.90 per person for standard sessions and S$45.90 per person for peak sessions after 6pm.",
-      "The experience runs at Xcape Singapore from now until Nov 1. Tickets are available through Xcape Singapore's website .",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "TAIZ: Iran-backed Houthis said on Monday (Oct 6) they had struck Riyadh's international airport, an oil refinery and other sites in Saudi Arabia, as the Saudi-led coalition in Yemen said they had destroyed Houthi targets on the Red Sea coast.",
+      "Pakistan and Türkiye have pledged to deploy troops to Saudi Arabia under a new mutual defence pact following weeks of Houthi attacks, as Riyadh and its Yemeni government allies began an ambitious push aimed at retaking all territory held by the group.",
+      "The fighting in Yemen has become the most active front in the Middle East war in recent weeks, displacing more than 184,000 people, the United Nations says, and deepening the conflict that has engulfed the wider region.",
+      "The Houthis previously controlled much of northern Yemen, including the capital Sanaa and the western city of Hodeida, but seized swathes of coastline last month along the Red Sea and key Bab el-Mandeb Strait, in Yemen's deadliest fighting in years.",
+      "The Yemeni military said it carried out more than 1,000 strikes and began an offensive against Sanaa, while the Saudi-led coalition supporting the internationally recognised government said 100 warplanes flew sorties at dawn.",
+      "Turki Al-Malki, spokesman for the Saudi-led coalition, said on X that its naval forces had hit \"military targets\" belonging to the Houthis in Hodeida on the Red Sea coast.",
+      "They \"destroyed weapons depots, facilities storing booby-trapped boats and naval mines\" and had \"thwarted a planned attack\" targeting waterways in the southern Red Sea, he said.",
+      "Later, the military said it had driven the Houthis from the area surrounding the Bab el-Mandeb Strait - a vital route for maritime traffic - including the port city of Mocha, Dhubab airport and Al-Omari military camp.",
+      "They also said they expelled the Houthis from several areas in Taiz in the southwest, where deadly fighting has surged in recent days.",
+      "Military sources stopped short of confirming an official announcement of Mocha's recapture, saying that pro-government forces had cut off the only supply route to the port.",
+      "Loud explosions rattled the Saudi capital on Monday evening, with a Houthi spokesman saying the group had hit King Khalid International Airport, a refinery belonging to state oil giant Aramco and other targets in the kingdom's south.",
+      "It came a day after Yemen's government announced the lofty goal of retaking all Houthi territory - home to most of the country's population, and much of it held for more than a decade.",
+      "Representatives of Saudi Arabia, Pakistan and Türkiye held an emergency meeting in Riyadh on Monday under the auspices of a joint defence agreement signed in August committing them to come to each other's aid in the event of any attack.",
+      "They also agreed \"to take the necessary measures to provide the agreed military forces and capabilities and ensure their rapid deployment in the Kingdom\".",
+      "The statement did not specify what role the troops would fill once in Saudi Arabia.",
+      "A spokesman for UN Secretary-General Antonio Guterres said he was \"deeply concerned by the sharp escalation in fighting\", and condemned \"the continued Houthi cross-border attacks\" on Saudi Arabia.",
+      "Houthi attacks have repeatedly targeted Saudi oil infrastructure, as well as its tankers in the Red Sea.",
+      "A source in the Saudi energy sector told AFP that an attack Sunday had again halted pumping by the East-West pipeline to the Red Sea, a key conduit for the kingdom's exports since Iran blockaded the Strait of Hormuz at the start of the wider Middle East war.",
+      "Crude prices had already been soaring as a result of the Middle East war before the Houthis began targeting the world's largest oil exporter.",
+      "Saudi Aramco chief executive Amin Nasser warned on Monday that global oil stockpiles were \"scarily thin\" owing to the war.",
+      "\"The system is already straining,\" Nasser told the Energy Intelligence Forum in London."
     ]
   },
   "mom": {
     "headline": "Updated Scaffold Fire Safety Requirements",
     "teaser": "1. Scaffold fires can spread rapidly across combustible materials such as timber and scaffold netting, posing risks to workers, residents, emergency responders and members of the public. To strengthen scaffold fire safety, the Ministry of Manpower (MOM) will introduce new requirements to shorten the permissible duratio",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0924-factsheet-on-updated-scaffold-fire-safety-requirements"
-  },
-  "lifeVocab": [
-    {
-      "en": "chope",
-      "cn": "占位",
-      "def": "to reserve a seat, usually with a tissue packet or personal item",
-      "ex": "Can you chope a table while I buy the chicken rice?",
-      "emoji": "🧻"
-    },
-    {
-      "en": "dabao",
-      "cn": "打包",
-      "def": "to pack food for takeaway or to-go",
-      "ex": "I will dabao some fried hokkien mee back to the office for lunch.",
-      "emoji": "🥡"
-    },
-    {
-      "en": "customise",
-      "cn": "定制",
-      "def": "to modify an order to suit personal preferences",
-      "ex": "You can customise your laksa by asking for less gravy and more chili.",
-      "emoji": "🍜"
-    },
-    {
-      "en": "stallholder",
-      "cn": "摊主",
-      "def": "a person who runs a business at a market or food centre stall",
-      "ex": "The friendly stallholder gave me an extra fishball for free.",
-      "emoji": "🏪"
-    },
-    {
-      "en": "cutlery",
-      "cn": "餐具",
-      "def": "utensils used for eating, such as spoons, forks, and chopsticks",
-      "ex": "Please return your dirty cutlery to the designated tray return station.",
-      "emoji": "🍴"
-    },
-    {
-      "en": "condiment",
-      "cn": "调味品",
-      "def": "a substance such as a sauce or spice used to add flavor to food",
-      "ex": "Pickled green chili is a popular condiment at hawker centres.",
-      "emoji": "🌶️"
-    },
-    {
-      "en": "queue",
-      "cn": "排队",
-      "def": "to wait in a line of people",
-      "ex": "Locals are willing to queue for hours for famous Michelin-starred food.",
-      "emoji": "🚶"
-    },
-    {
-      "en": "beverage",
-      "cn": "饮料",
-      "def": "a drink, especially one other than water",
-      "ex": "Would you like a hot beverage like kopi-c with your breakfast?",
-      "emoji": "☕"
-    },
-    {
-      "en": "scrumptious",
-      "cn": "极美味的",
-      "def": "extremely tasty or delicious",
-      "ex": "The satay we had last night at Lau Pa Sat was absolutely scrumptious.",
-      "emoji": "🍢"
-    },
-    {
-      "en": "communal",
-      "cn": "公共的",
-      "def": "shared by all members of a community, for common use",
-      "ex": "Hawker centres offer a communal dining experience where strangers share tables.",
-      "emoji": "🤝"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "concur",
-      "ipa": "/kənˈkɜːr/",
-      "pos": "v.",
-      "cn": "同意",
-      "def": "to agree or have the same opinion",
-      "ex": "The board members concur that the marketing strategy needs immediate adjustment."
-    },
-    {
-      "w": "deviate",
-      "ipa": "/ˈdiːvieɪt/",
-      "pos": "v.",
-      "cn": "偏离",
-      "def": "to do something that is different from the usual or common way of behaving",
-      "ex": "We must not deviate from the original project timeline to meet the deadline."
-    },
-    {
-      "w": "elicit",
-      "ipa": "/iˈlɪsɪt/",
-      "pos": "v.",
-      "cn": "引起，诱导",
-      "def": "to call forth or draw out a response or reaction",
-      "ex": "The new hybrid work policy managed to elicit positive feedback from the employees."
-    },
-    {
-      "w": "fortify",
-      "ipa": "/ˈfɔːrtɪfaɪ/",
-      "pos": "v.",
-      "cn": "加强，巩固",
-      "def": "to strengthen a place or position physically or metaphorically",
-      "ex": "The firm plans to fortify its market presence by launching a new mobile app."
-    },
-    {
-      "w": "garner",
-      "ipa": "/ˈɡɑːrnər/",
-      "pos": "v.",
-      "cn": "收集，获得",
-      "def": "to gather or collect something, especially information or support",
-      "ex": "The proposed sustainability initiative has garnered immense support from residents."
-    },
-    {
-      "w": "impediment",
-      "ipa": "/ɪmˈpedɪmənt/",
-      "pos": "n.",
-      "cn": "障碍，阻阻",
-      "def": "something that makes progress or movement difficult",
-      "ex": "A lack of funding was the main impediment to the expansion plan."
-    },
-    {
-      "w": "lucrative",
-      "ipa": "/ˈluːkrətɪv/",
-      "pos": "adj.",
-      "cn": "获利丰厚的",
-      "def": "producing a great deal of profit",
-      "ex": "Securing the government contract proved to be a highly lucrative venture for the startup."
-    },
-    {
-      "w": "obsolete",
-      "ipa": "/ˌɒbsəˈliːt/",
-      "pos": "adj.",
-      "cn": "淘汰的，过时的",
-      "def": "no longer produced or used; out of date",
-      "ex": "Continuous training ensures that our staff's skills do not become obsolete."
-    },
-    {
-      "w": "rectify",
-      "ipa": "/ˈrektɪfaɪ/",
-      "pos": "v.",
-      "cn": "纠正，改正",
-      "def": "to put right or correct a mistake or bad situation",
-      "ex": "Please take immediate action to rectify the billing errors reported by clients."
-    },
-    {
-      "w": "stringent",
-      "ipa": "/ˈstrɪndʒənt/",
-      "pos": "adj.",
-      "cn": "严格的",
-      "def": "extremely strict, precise, and exacting",
-      "ex": "The financial authority has imposed stringent regulations on cryptocurrency trading."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore's Hawker Centres Embrace Digital Payments",
-    "transcript": "As Singapore marches towards its Smart Nation vision, more than ninety percent of hawker stalls now accept SGQR e-payments. This digital shift has reduced the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhæs.əl/ (n.) irritating inconvenience or trouble — 麻烦\">hassle</span> of handling physical cash and coins during busy lunch hours. While older <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpeɪ.trənz/ (n. plural) customers of a shop, restaurant, or business — 顾客\">patrons</span> initially found the transition challenging, community digital ambassadors have successfully <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/brɪdʒd/ (v. past tense) connected or reduced the difference between two things — 消除（分歧），缩小（差距）\">bridged</span> the gap. Now, grabbing a bowl of laksa is as simple as a quick scan of your mobile phone."
-  },
-  "economistArticle": {
-    "title": "The Coming Deluge: How the LNG Crunch Will Give Way to a Massive Glut",
-    "paras": [
-      "The global energy market has spent the past few years on a <span class=\"voc\">knife-edge</span>. Following the geopolitical disruptions of 2022, when Europe scrambled to replace Russian pipeline gas, liquefied natural gas (LNG) became the world’s ultimate economic security blanket. Prices skyrocketed, leaving poorer nations in Asia in the dark while wealthier economies locked down every spare drop of super-chilled fuel. This <span class=\"voc\">acute</span> supply crunch triggered a frantic, capital-intensive race to build massive new export terminals, particularly along the US Gulf Coast and in Qatar.",
-      "Yet, the multi-billion-dollar investments designed to cure today's deficit are <span class=\"voc\">poised</span> to overshoot demand. Energy analysts predict that between 2025 and 2028, a staggering wave of new liquefaction capacity will come online, expanding global supply by over forty percent. <span class=\"gem\">This <span class=\"voc\">impending</span> supply surge threatens to transform a highly congested seller's market into a highly competitive buyer's paradise.</span> The world, it seems, is pivoting rapidly from an almighty LNG crunch to an equally disruptive glut.",
-      "For major Asian importing hubs like Singapore, which has positioned itself as a critical trading node, this transition brings both relief and complexity. Cheaper and more <span class=\"voc\">abundant</span> gas will lower electricity generation costs and stabilize industrial operations across the region. However, a sudden collapse in prices could <span class=\"voc\">derail</span> investments in cleaner alternatives. If cheap fossil gas remains plentiful, local utilities might find themselves less incentivised to aggressively pursue costlier solar power or hydrogen energy infrastructure.",
-      "Furthermore, the impending glut will challenge the business models of energy giants that locked themselves into expensive, long-term supply contracts during the height of the crunch. Portfolio players will have to navigate a market where spot prices could plunge below the cost of production. Flexibility in contracts, such as destination-free clauses and indexation shifts, will become <span class=\"voc\">paramount</span> as buyers regain the upper hand.",
-      "Ultimately, the cyclical nature of commodity markets is playing out in textbook fashion. The high prices that punished consumers over the last three years have successfully stimulated the investment needed to secure future supply. But in their rush to avoid energy insecurity, producers may have overcompensated, paving the way for a <span class=\"voc\">protracted</span> period of oversupply that will reshape the global energy map for the next decade."
-    ],
-    "cn": "全球能源市场在过去几年中一直处于千钧一发的紧要关头。继2022年地缘政治动荡、欧洲争相取代俄罗斯管道天然气之后，液化天然气（LNG）成为了全球终极的经济安全保障。价格一路飙升，导致亚洲较贫困的国家陷入黑暗，而较富裕的经济体则锁定了每一滴多余的超冷燃料。这种急剧的供应紧张引发了一场疯狂的、资本密集型的竞赛，旨在建设庞大的新出口终端，特别是在美国墨西哥湾沿岸和卡塔尔。\n\n然而，旨在解决当前赤字的数百亿美元投资注定会超出需求。能源分析师预测，在2025年至2028年之间，惊人的新液化产能将陆续投产，使全球供应量扩大40%以上。这一即将到来的供应激增恐将使一个高度拥挤的卖方市场转变为极具竞争力的买方天堂。世界似乎正在迅速从全能型的LNG紧缺转向同样具有颠覆性的供应过剩。\n\n对于像新加坡这样已将自己定位为关键贸易节点的亚洲主要进口枢纽而言，这一转变既带来了缓解，也带来了复杂性。更便宜、更充足的天然气将降低发电成本，并稳定该地区的工业运营。然而，价格的突然崩盘可能会阻碍对更清洁替代能源的投资。如果廉价的化石天然气依然充足，当地公用事业公司可能会发现自己缺乏积极追求成本更高的太阳能或氢能基础设施的动力。\n\n此外，即将到来的供应过剩将挑战能源巨头的商业模式，这些巨头在供应紧张的高峰期锁定了昂贵的长期供应合同。组合型交易商将不得不应对现货价格可能跌破生产成本的市场。随着买家重新夺回主动权，合同的灵活性（如无目的地条款和指数挂钩转变）将变得至关重要。\n\n归根结底，大宗商品市场的周期性特征正在以教科书般的方式上演。过去三年惩罚消费者的昂贵价格，已成功刺激了确保未来供应所需的投资。但在避免能源不安全感的匆忙中，生产商可能过度补偿，从而为可能重塑未来十年全球能源版图的长期供应过剩铺平了道路。",
-    "vocab": [
-      {
-        "w": "knife-edge",
-        "ipa": "/ˈnaɪf.edʒ/",
-        "pos": "n.",
-        "mean": "关键时刻，危险边缘",
-        "def": "a position or situation in which the direction of future events is highly uncertain and could be very dangerous",
-        "ex": "The company’s survival remained on a knife-edge as crucial debt negotiations dragged on."
-      },
-      {
-        "w": "scramble",
-        "ipa": "/ˈskræm.bəl/",
-        "pos": "v.",
-        "mean": "仓促行动，争夺",
-        "def": "to move or act quickly and hurriedly to do or obtain something",
-        "ex": "Retailers scrambled to secure supply chains ahead of the major shopping festival."
-      },
-      {
-        "w": "acute",
-        "ipa": "/əˈkjuːt/",
-        "pos": "adj.",
-        "mean": "急剧的，严重的",
-        "def": "present or experienced to a severe or intense degree",
-        "ex": "The regional factory is suffering from an acute shortage of skilled technicians."
-      },
-      {
-        "w": "poised",
-        "ipa": "/pɔɪzd/",
-        "pos": "adj.",
-        "mean": "准备就绪的",
-        "def": "ready or prepared to do something",
-        "ex": "The tech startup is poised to expand its operations in Southeast Asia after securing funding."
-      },
-      {
-        "w": "impending",
-        "ipa": "/ɪmˈpen.dɪŋ/",
-        "pos": "adj.",
-        "mean": "即将发生的，逼近的",
-        "def": "about to happen, especially something unpleasant or worrisome",
-        "ex": "Businesses are bracing themselves for the impending regulatory changes."
-      },
-      {
-        "w": "pivot",
-        "ipa": "/ˈpɪv.ət/",
-        "pos": "v.",
-        "mean": "改变方向，转向",
-        "def": "to change your opinion, decisions, or actions rapidly to suit a new situation",
-        "ex": "The firm decided to pivot towards offering digital-only services to survive."
-      },
-      {
-        "w": "abundant",
-        "ipa": "/əˈbʌn.dənt/",
-        "pos": "adj.",
-        "mean": "充裕的，丰富的",
-        "def": "existing or available in large quantities; plentiful",
-        "ex": "With abundant rain this season, agricultural yields are expected to double."
-      },
-      {
-        "w": "derail",
-        "ipa": "/dɪˈreɪl/",
-        "pos": "v.",
-        "mean": "阻碍，使偏离轨道",
-        "def": "to obstruct or ruin a process, plan, or course of action",
-        "ex": "Unexpected technical difficulties could derail our transition timeline."
-      },
-      {
-        "w": "paramount",
-        "ipa": "/ˈpær.ə.maʊnt/",
-        "pos": "adj.",
-        "mean": "首要的，至高无上的",
-        "def": "more important than anything else; supreme",
-        "ex": "Maintaining client confidentiality is of paramount importance to our law firm."
-      },
-      {
-        "w": "protracted",
-        "ipa": "/prəˈtræk.tɪd/",
-        "pos": "adj.",
-        "mean": "延长的，旷日持久的",
-        "def": "lasting for a long time or longer than expected",
-        "ex": "After months of protracted negotiations, the merger was finally approved."
-      }
-    ],
-    "gems": [
-      {
-        "s": "This impending supply surge threatens to transform a highly congested seller's market into a highly competitive buyer's paradise.",
-        "why": "This sentence employs vivid contrast ('seller's market' vs. 'buyer's paradise') and parallel modifier structures ('highly congested' vs. 'highly competitive') to highlight a dramatic economic shift. / 这句话运用了生动的对比（“卖方市场”与“买方天堂”）和平衡的形容词结构（“高度拥挤”与“极具竞争性”）来突出戏剧性的经济转变。"
-      }
-    ]
   }
 }
