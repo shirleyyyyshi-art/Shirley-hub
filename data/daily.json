@@ -1,79 +1,307 @@
 {
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-07T06:11:47.437955+00:00",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T06:19:41.929636+00:00",
   "economist": {
-    "headline": "American investors’ trick to lower taxes: lose money",
-    "teaser": "The taxman is losing patience with the shrewd use of tax losses",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/06/american-investors-trick-to-lower-taxes-lose-money",
+    "headline": "Why shares are the new bricks and mortar",
+    "teaser": "Household wealth is flowing from property to stocks",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
     "vocab": []
   },
   "st": {
-    "headline": "Why parents need to be involved in the money conversation with their children",
-    "teaser": "A $5 experiment and a playground trip taught me that good money habits require time and effort.",
-    "url": "https://www.straitstimes.com/business/why-parents-need-to-be-involved-in-the-money-conversation-with-their-children",
+    "headline": "Young bankers to manage AI agents from start, Goldman exec says",
+    "teaser": "It raised the question of what happens to the current middle managers.",
+    "url": "https://www.straitstimes.com/business/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
     "fullText": [
-      "SINGAPORE – Shopping with real money helps children become more financially savvy.",
-      "This thought crossed my mind while volunteering on a shopping trip with UOB Heartbeat volunteers on July 22.",
-      "I was paired with UOB’s Ho Ying Ying and Najwa Chua, 12, who has participated in these outings since she was eight.",
-      "We began by reviewing the shopping list that Najwa had put together with her parents, before taking a short walk to FairPrice at Rivervale Plaza.",
-      "Najwa went about getting the items on her list: bananas, grapes, 30 eggs, chicken and bread.",
-      "Since the chicken was on sale, she picked up two packets. After all, her family loves curry chicken.",
-      "However, she had to forgo her favourite Lay’s sour cream potato chips because they did not fit her budget. Instead, she opted for two packets of FairPrice house-brand chips, which were on sale.",
-      "Najwa tried to keep a running tab in her head, but got overwhelmed as her shopping basket filled up, and she asked to borrow Ho’s phone to check the final sum.",
-      "Her careful budgeting left her enough to buy a bottle of Thai sweet chilli sauce that her parents love. Her final bill came to $49.98, within the $50 she was allocated.",
-      "It was clear that Najwa actively looked out for deals and knew which brands offered more bang for her buck.",
-      "She shared that she had picked up budgeting skills and practical tips from the volunteers during previous shopping stints.",
-      "A spokesperson from Children’s Wishing Well, the charity leading this financial literacy initiative, said that these hands-on experiences and interactions with the volunteers have helped Najwa become more confident in making spending decisions.",
-      "Today, she knows how to manage her money and adapt her choices to stay within her budget – and not just on these organised shopping runs.",
-      "Her mother has even entrusted her with the family’s weekly provisions, allowing her to head to the supermarket after school to buy the items on her own.",
-      "Hearing how much Najwa has grown, I thought: “Why not try this out on my daughter?”",
-      "She is in Primary 2 and will turn eight later in 2026.",
-      "I started by increasing her daily allowance for school meals to $5, which she can use for both her morning snack and lunch.",
-      "The experiment is still a work in progress.",
-      "While her school has taught her about needs and wants, she still tries to justify her wants as a need.",
-      "Once, she spent $2.50 at the bookshop on a mechanical pencil and pencil leads.",
-      "When I asked why she bought them when she had normal pencils, she replied, “I need the mechanical pencil to write.”",
-      "My daughter chose to spend on her perceived “need”. With only $2.50 left for the day, she spent $1.80 on two cheese sticks for her morning snack and decided to skip lunch – which to me is a “need”.",
-      "Hoping to drive home the “needs versus wants” lesson through play, my husband and I decided to take our daughter to explore Curiosity Cove.",
-      "During our visit, my husband observed that the financial literacy elements at Curiosity Cove are more of a sideline, and the educational concepts are relegated to “secondary amusement” for the children after they finish playing.",
-      "Venturing outside Curiosity Cove, we spotted some activity stations around the Mandai area.",
-      "One station focusing on needs and wants required children to build a virtual buggy. To do so, they had to decide which car parts they needed to buy and which parts they could skip.",
-      "Another station touched on savings and interest. By shifting a marker on a slider board, children can see how interest grows as their savings increase – so the more they save, the more they earn.",
-      "However, these displays would not automatically spur any meaningful discussion or learning unless parents step in to talk about the concepts, using the posters to convey the financial lessons to their children.",
-      "Banks are offering digital tools to keep that dialogue going.",
-      "Nelson Neo, DBS’ head of retail banking and head of POSB, noted that the Smart Buddy app enables parents to keep tabs on their children’s spending."
+      "SINGAPORE – The newest hires in finance will not have to wait years to become managers. They will be overseeing artificial intelligence agents from the time they join, raising the question of what happens to the current middle managers, according to Goldman Sachs Group’s Kevin Sneader.",
+      "“When our young folks now start work, they’re managing agents,” Sneader, who leads the Wall Street bank’s business in Asia Pacific outside Japan, said on Oct 8 at the Milken Institute Asia Summit in Singapore.",
+      "“They have to make the most of this virtual army that they’ve now got.”",
+      "Previous generations often spent years in the job before they got to manage anyone, and re-deploying these managers will be the “generational challenge for many, many segments”, he added.",
+      "His comments suggest AI could upend the traditional banking career path, where junior staff spend years on analysis and preparatory work before moving up to manage others. Rather than fretting about mass job losses due to the technology, Sneader and others speaking on a panel about AI and finance were focused on how roles would be reshaped.",
+      "“That management task no longer sits with the middle manager; it sits with the front line,” Sneader said. “We don’t quite know what’s going to happen to that group.”",
+      "Sandra Peterson, an operating partner at investment firm Clayton, Dubilier & Rice, said the traditional career ladder may not survive.",
+      "“It used to be that professional service firms were pyramids,” she said. “You’d show up, and you know, you march your way through, and if you survived, you got to the next level, the next level, the next level.”",
+      "She said that with AI doing much of the grunt work, it is not clear firms would need as many entry-level positions.",
+      "Singapore’s financial regulator sees the same shifts happening. Operations staff will need to become managers and supervisors of AI agents, Chia Der Jiun, managing director of the Monetary Authority of Singapore, said at the same panel.",
+      "Banks will also need fewer fresh graduates for analysis and preparatory work, he said.",
+      "The city-state has been preparing for these changes through training bank staff in AI skills as well as working with the universities to ensure its graduates are ready for the new world, Chia said.",
+      "For young people however, Sneader said the upside goes beyond angling for a finance job.",
+      "“There’s never been a better time to be an entrepreneur to create something,” he said, noting that fewer resources are needed to start a business nowadays.",
+      "“That’s quite an exciting part of the future when we’re all spending too much time, perhaps worrying about the old world.” BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Probation for motorcyclist, 21, who performed dangerous 'Superman' stunt while riding along ECP",
-    "teaser": "GoPro footage found by police on the motorcyclist's own camera showed him lying prone on the bike with his feet off the rear controls for at least 16 seconds.",
-    "url": "https://www.channelnewsasia.com/singapore/motorcyclist-stunt-ecp-probation-superman-6438371",
+    "headline": "France's Sesterce plans $11 billion AI investment in Finland",
+    "teaser": "France's Sesterce plans $11 billion AI investment in Finland",
+    "url": "https://www.channelnewsasia.com/business/frances-sesterce-plans-11-billion-ai-investment-in-finland-6441726",
     "fullText": [
-      "SINGAPORE: A 21-year-old man who performed a motorcycle stunt along the East Coast Parkway (ECP) was sentenced to 15 months' probation on Wednesday (Oct 7).",
-      "Mohamed Asfa Mohamed Azli, a Singaporean, had stretched out his body and lay flat in a prone position on the bike, in what court documents called a \"Superman stunt\" that was dangerous to other road users.",
-      "His actions came to light when a traffic police officer found footage of the stunt which Asfa had recorded on his GoPro camera.",
-      "Asfa had pleaded guilty on Apr 17 to one charge of reckless driving. Another charge for not wearing a helmet while riding a motorcycle was taken into consideration.",
-      "As part of his probation terms, he has to remain indoors from 10pm until 6am, and will have to perform 40 hours of community service. He is also barred from obtaining any driving licence or driving any vehicle during his probation period.",
-      "His parents have also been required to put up a S$5,000 (US$3,909) bond to ensure Asfa's good behaviour during his probation term.",
-      "According to court documents, Asfa was riding his motorcycle with several friends from Seah Im car park in the Keppel area to a car park at East Coast Park on Aug 31, 2025 at around midnight.",
-      "He had fixed a GoPro 360 camera on the handlebar of his motorcycle, and began recording while on the ECP.",
-      "On the ECP, he performed the \"Superman\" stunt twice by lying prone on the seat with his body and legs straightened, parallel to the road. The video showed he had ridden in this position for at least 16 seconds and overtaken two vehicles while performing the stunt.",
-      "Court documents stated that while Asfa was performing the stunt, he could not have engaged the rear brake or engine brake of the motorcycle as his feet were not on the rear brake pedal or gear shifter.",
-      "In doing so, he had also raised the centre of gravity of himself and the motorcycle, making it more likely he would lose his balance, the prosecution added.",
-      "While at the East Coast Park car park, several traffic police arrived as part of their patrol routine. In a panic, Asfa fled the scene, leaving his camera on the motorcycle.",
-      "His actions came to light when a traffic police officer reviewed the footage from the unattended camera as part of investigations into the gathering.",
-      "After Asfa's guilty plea, the court called for a report to see if Asfa was suited for probation.",
-      "While the initial report found him unsuitable for probation due to several factors like his unwillingness to change, later reports found that he has exhibited positive changes in his behaviour.",
-      "A reformative training suitability report had found that Asfa's family provided a supportive environment for him, and that he had ceased contact with the peers associated with his offence.",
-      "Reformative training is a harsher type of penalty involving a regimented rehabilitation programme for youth offenders.",
-      "Given his improved behaviour, Deputy Public Prosecutor Johan Tay sought 15 months' supervised probation for Asfa, as well as a prohibition on him driving during the probation period, and a requirement for him to serve 40 hours of community service.",
-      "Mr Tay also asked for Asfa's parents to put up a good behaviour bond.",
-      "For reckless or dangerous driving, Asfa could have been jailed for up to a year, fined up to S$5,000 or both."
+      "OSLO, Oct 8 : French AI infrastructure group Sesterce said on Thursday it plans to develop a data centre site in Finland costing more than €10 billion ($11.21 billion), the latest in a series of foreign technology investments in the Nordic country.",
+      "• The first phase, with works planned to start in 2026, will have a capacity of 200 megawatt (MW), Sesterce said in a statement",
+      "• Capacity is expected to increase to 600 MW in the second phase",
+      "• The company said it already has an anchor customer for the project, which will be built in Jamsa in central Finland at the site of a former paper mill that closed in 2021",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
     "headline": "Updated Scaffold Fire Safety Requirements",
     "teaser": "1. Scaffold fires can spread rapidly across combustible materials such as timber and scaffold netting, posing risks to workers, residents, emergency responders and members of the public. To strengthen scaffold fire safety, the Ministry of Manpower (MOM) will introduce new requirements to shorten the permissible duratio",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0924-factsheet-on-updated-scaffold-fire-safety-requirements"
+  },
+  "lifeVocab": [
+    {
+      "en": "tap in",
+      "cn": "刷卡进站",
+      "def": "to scan a travel card on a reader to enter the station transit area",
+      "ex": "Remember to tap in with your EZ-Link card at the MRT gantry.",
+      "emoji": "💳"
+    },
+    {
+      "en": "transit",
+      "cn": "换乘 / 过境",
+      "def": "the act of passing through or transferring between different transport lines",
+      "ex": "Dhoby Ghaut is a major transit station where three MRT lines meet.",
+      "emoji": "🚉"
+    },
+    {
+      "en": "feeder bus",
+      "cn": "支线巴士",
+      "def": "a local bus service that transports passengers from residential areas to a nearby MRT station",
+      "ex": "I usually take a feeder bus from my block to get to the nearest station.",
+      "emoji": "🚌"
+    },
+    {
+      "en": "peak hour",
+      "cn": "高峰时段",
+      "def": "the times of day when traffic or passenger numbers are at their highest",
+      "ex": "During peak hour, trains arrive every two minutes to handle the crowd.",
+      "emoji": "⏰"
+    },
+    {
+      "en": "platform screen doors",
+      "cn": "站台屏蔽门",
+      "def": "safety doors that separate the platform from the train tracks",
+      "ex": "Please stand behind the yellow line and wait for the platform screen doors to open.",
+      "emoji": "🚪"
+    },
+    {
+      "en": "commuter",
+      "cn": "通勤者",
+      "def": "a person who travels some distance to work or study on a regular basis",
+      "ex": "The early morning trains are always packed with tired commuters.",
+      "emoji": "🏃"
+    },
+    {
+      "en": "MRT line",
+      "cn": "地铁线",
+      "def": "a specific route within the Mass Rapid Transit network",
+      "ex": "The East-West MRT line is represented by the color green on the transit map.",
+      "emoji": "🗺️"
+    },
+    {
+      "en": "priority seat",
+      "cn": "关爱座 / 优先座",
+      "def": "a seat reserved for the elderly, pregnant women, or those with mobility needs",
+      "ex": "The young man immediately stood up to offer his priority seat to an elderly woman.",
+      "emoji": "👵"
+    },
+    {
+      "en": "fare evasion",
+      "cn": "逃票",
+      "def": "the act of traveling on public transport without paying the required fare",
+      "ex": "Gantry tailgating to avoid paying the fare is considered fare evasion and carries a fine.",
+      "emoji": "🚨"
+    },
+    {
+      "en": "breakdown",
+      "cn": "故障",
+      "def": "a mechanical or electrical failure that stops a vehicle or system from working",
+      "ex": "The track fault caused a brief breakdown on the North-South Line this morning.",
+      "emoji": "🔧"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "bolster",
+      "ipa": "/ˈbəʊl.stər/",
+      "pos": "v.",
+      "cn": "支持、加强",
+      "def": "to support or strengthen something, making it more robust",
+      "ex": "The government introduced new subsidies to bolster the local tourism sector during the downturn."
+    },
+    {
+      "w": "garner",
+      "ipa": "/ˈɡɑː.nər/",
+      "pos": "v.",
+      "cn": "收集、获得",
+      "def": "to gather or collect something, especially support, information, or praise",
+      "ex": "The sustainable energy proposal managed to garner widespread approval from the board."
+    },
+    {
+      "w": "hinder",
+      "ipa": "/ˈhɪn.dər/",
+      "pos": "v.",
+      "cn": "阻碍、妨碍",
+      "def": "to make it difficult for someone to do something or for an event to happen",
+      "ex": "Supply chain issues continue to hinder the progress of our global expansion plans."
+    },
+    {
+      "w": "inadvertently",
+      "ipa": "/ˌɪn.ədˈvɜː.tənt.li/",
+      "pos": "adv.",
+      "cn": "无意地、不经意地",
+      "def": "without intention; accidentally or unintentionally",
+      "ex": "The confidential PDF was inadvertently uploaded to the public portal due to a system glitch."
+    },
+    {
+      "w": "cultivate",
+      "ipa": "/ˈkʌl.tɪ.veɪt/",
+      "pos": "v.",
+      "cn": "培养、促进关系",
+      "def": "to try to develop or improve a skill, quality, or relationship",
+      "ex": "Our HR team is actively trying to cultivate a culture of open communication in the workplace."
+    },
+    {
+      "w": "facilitate",
+      "ipa": "/fəˈsɪl.ɪ.teɪt/",
+      "pos": "v.",
+      "cn": "促进、使便利",
+      "def": "to make an action or process easier or more efficient",
+      "ex": "The new collaboration software is designed to facilitate remote teamwork across borders."
+    },
+    {
+      "w": "deteriorate",
+      "ipa": "/dɪˈtɪə.ri.ə.reɪt/",
+      "pos": "v.",
+      "cn": "恶化",
+      "def": "to become progressively worse in quality or condition",
+      "ex": "We need to address these minor client complaints before our business relationship begins to deteriorate."
+    },
+    {
+      "w": "adversity",
+      "ipa": "/ədˈvɜː.sə.ti/",
+      "pos": "n.",
+      "cn": "逆境、不测",
+      "def": "a difficult, unpleasant, or unfortunate situation",
+      "ex": "The startup survived financial adversity through sheer adaptability and lean management."
+    },
+    {
+      "w": "paradox",
+      "ipa": "/ˈpær.ə.dɒks/",
+      "pos": "n.",
+      "cn": "自相矛盾的情况",
+      "def": "a situation or statement that seems impossible because it contains two opposing facts",
+      "ex": "It is a strange paradox that working longer hours often results in lower overall productivity."
+    },
+    {
+      "w": "embellish",
+      "ipa": "/ɪmˈbel.ɪʃ/",
+      "pos": "v.",
+      "cn": "润色、装饰",
+      "def": "to make something more attractive or interesting by adding decorative details or extra stories",
+      "ex": "Job seekers should present their skills accurately rather than try to embellish their resumes."
+    }
+  ],
+  "listening": {
+    "source": "CNA Insider · Intermediate",
+    "title": "The Greening of HDB Estates",
+    "transcript": "As Singapore strives to achieve net-zero emissions, housing estates are undergoing a massive transformation. Older public housing blocks are being <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌret.rəʊˈfɪt.ɪd/ (v.) to provide a building or machine with new parts that were not available when it was originally built — 翻新安装 / 改建\">retrofitted</span> with solar panels, smart LED lights, and urban farming spaces on rooftops. Residents are also encouraged to participate in community-led recycling programs. These localized green initiatives not only reduce energy bills but also foster a stronger sense of environmental <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈstjʊə.dʃɪp/ (n.) the responsible oversight, planning, and management of resources — 管理与保护职责\">stewardship</span> among neighbors."
+  },
+  "economistArticle": {
+    "title": "Why shares are the new bricks and mortar",
+    "paras": [
+      "For decades, real estate was the <span class=\"voc\">undisputed</span> king of wealth accumulation, particularly in land-scarce Asian hubs like Singapore. Buying a residential home was not just a rite of passage; it was considered the ultimate financial safety net. But a <span class=\"voc\">tectonic</span> shift is underway as younger, tech-savvy investors begin to pivot away from <span class=\"voc\">illiquid</span> concrete toward highly liquid global equities.",
+      "Multiple factors explain this modern migration. Staggering property prices, propelled by stubbornly high interest rates and <span class=\"voc\">punitive</span> stamp duties aimed at cooling the market, have effectively priced out a whole generation of potential homeowners. To purchase a decent condominium today requires an intimidating capital <span class=\"voc\">outlay</span>. In contrast, fractional shares and low-cost exchange-traded funds (ETFs) offer a friction-free, instantly accessible entry point into global markets.",
+      "Furthermore, the psychological appeal of physical property has <span class=\"voc\">waned</span>. <span class=\"gem\">Where older generations saw stability in brick and mortar, modern professionals see handcuffs.</span> Owning an expensive home limits geographic mobility and locks up massive amounts of capital that could otherwise <span class=\"voc\">compound</span> dynamically in international technology stocks or high-yield index funds.",
+      "Financial institutions are quickly adapting to this cultural evolution. Robo-advisors and digital brokerage platforms have <span class=\"voc\">democratized</span> equity investment, making portfolio diversification as simple as a few taps on a smartphone. This ease of access has demystified Wall Street for the average saver, who now views stock indices as a much more agile wealth generator than a heavily <span class=\"voc\">leveraged</span>, thirty-year mortgage.",
+      "Ultimately, this transition from real estate to equities represents a maturation of household finance. While physical property will always retain its emotional <span class=\"voc\">resonance</span> as a sanctuary, the future of wealth creation lies in the fluidity of capital markets. For the modern investor, financial security is no longer built of stone, but forged in the digital ledger."
+    ],
+    "cn": "几十年来，房地产一直是毫无争议的财富积累之王，特别是在像新加坡这样土地稀缺的亚洲枢纽。购买住宅不仅仅是一种成年礼，它还被视为终极的财务安全网。但随着年轻的、精通科技的投资者开始从流动性差的混凝土房产转向流动性强的全球股票，一场结构性的转变正在发生。\n\n有多种因素可以解释这一现代迁移。在高利率和旨在降温市场的惩罚性印花税的推动下，令人咂舌的房价实际上将整整一代潜在购房者拒之门外。如今，购买一套像样的公寓需要令人望而生畏的资金支出。相比之下，零碎股和低成本交易所交易基金（ETF）为进入全球市场提供了一个无摩擦、可即时获取的切入点。\n\n此外，实体房产在心理上的吸引力已经减弱。老一辈人在砖瓦房产中看到了稳定，而现代专业人士却看到了枷锁。拥有一套昂贵的房子限制了地理上的流动性，并锁住了大量资金，而这些资金本可以在国际科技股或高收益指数基金中进行动态复利增长。\n\n金融机构正迅速适应这种文化演变。智能投顾和数字经纪平台使股权投资走入平民百姓家，使投资组合多元化变得像在智能手机上轻点几下一样简单。这种便捷的获取方式为普通储户揭开了华尔街的神秘面纱，他们现在认为股票指数比高杠杆的三十年期抵押贷款是更灵活的财富生成器。\n\n最终，这种从房地产到股票的转变代表了家庭财务的成熟。虽然实体房产作为避风港将始终保持其情感共鸣，但财富创造的未来在于资本市场的流动性。对于现代投资者而言，财务安全不再由石头筑成，而是在数字账本中锻造而成。",
+    "vocab": [
+      {
+        "w": "undisputed",
+        "ipa": "/ˌʌn.dɪˈspjuː.tɪd/",
+        "pos": "adj.",
+        "mean": "毫无争议的",
+        "def": "accepted by everyone; that cannot be doubted",
+        "ex": "He remains the undisputed champion of early stage venture investing in the region."
+      },
+      {
+        "w": "tectonic",
+        "ipa": "/tekˈtɒn.ɪk/",
+        "pos": "adj.",
+        "mean": "地壳构造的、根本性且重大的",
+        "def": "relating to a massive structural change or shift, especially in politics or economics",
+        "ex": "The rise of generative artificial intelligence has caused a tectonic shift in the tech sector."
+      },
+      {
+        "w": "illiquid",
+        "ipa": "/ɪˈlɪk.wɪd/",
+        "pos": "adj.",
+        "mean": "不流动的、难以变现的",
+        "def": "not easily converted into cash without a substantial loss in value",
+        "ex": "Property is considered an illiquid asset because it can take months to secure a buyer."
+      },
+      {
+        "w": "punitive",
+        "ipa": "/ˈpjuː.nɪ.tɪv/",
+        "pos": "adj.",
+        "mean": "惩罚性的",
+        "def": "inflicting or intended as a punishment, or extremely harsh",
+        "ex": "The government introduced punitive taxes on luxury car imports to discourage excessive consumption."
+      },
+      {
+        "w": "outlay",
+        "ipa": "/ˈaʊt.leɪ/",
+        "pos": "n.",
+        "mean": "支出、开销",
+        "def": "an amount of money spent on something, especially a starting investment",
+        "ex": "Setting up a private medical clinic requires a huge initial capital outlay for specialized equipment."
+      },
+      {
+        "w": "waned",
+        "ipa": "/weɪnd/",
+        "pos": "v. (past)",
+        "mean": "减弱、衰退",
+        "def": "to become weaker in strength, influence, or popularity",
+        "ex": "Public enthusiasm for high-risk cryptocurrency investments has waned after the recent scandals."
+      },
+      {
+        "w": "compound",
+        "ipa": "/kəmˈpaʊnd/",
+        "pos": "v.",
+        "mean": "复利增长、加重",
+        "def": "to calculate interest on both the principal and previously accumulated interest; to multiply over time",
+        "ex": "Reinvesting dividends early in life allows your investment portfolio to compound significantly over thirty years."
+      },
+      {
+        "w": "democratized",
+        "ipa": "/dɪˈmɒk.rə.taɪzd/",
+        "pos": "v. (past)",
+        "mean": "平民化、大众化",
+        "def": "made accessible to everyone, rather than being restricted to a privileged few",
+        "ex": "Online learning platforms have democratized higher education, allowing anyone with internet access to study computer science."
+      },
+      {
+        "w": "leveraged",
+        "ipa": "/ˈliː.vər.ɪdʒd/",
+        "pos": "adj.",
+        "mean": "杠杆化的",
+        "def": "using borrowed money (debt) to increase the potential return on an investment",
+        "ex": "The developer took a highly leveraged position to fund the waterfront project, which increased their financial risk."
+      },
+      {
+        "w": "resonance",
+        "ipa": "/ˈrez.ən.əns/",
+        "pos": "n.",
+        "mean": "共鸣、情感上的深远影响",
+        "def": "the quality of evoking strong emotions, memories, or associations",
+        "ex": "The concept of achieving early retirement has immense resonance among overworked young professionals."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Where older generations saw stability in brick and mortar, modern professionals see handcuffs.",
+        "why": "This sentence uses a beautifully balanced contrast structure ('Where older... modern professionals see...') alongside the metaphorical noun 'handcuffs' to turn an abstract financial attitude shift into a vivid and memorable physical image. 这句话运用了对称的对比结构（‘在旧一代人看到……的地方，现代专业人士却看到了……’），并巧妙地使用了隐喻词‘手铐/枷锁’，将抽象的财务观念转变塑造成一个生动且令人难忘的视觉形象。"
+      }
+    ]
   }
 }
