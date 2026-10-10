@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-09",
-  "generatedAt": "2026-10-09T06:21:36.228659+00:00",
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T06:03:26.499104+00:00",
   "economist": {
     "headline": "Governments are mishandling the affordability crisis",
     "teaser": "They should lift incomes, not suppress prices",
@@ -8,33 +8,47 @@
     "vocab": []
   },
   "st": {
-    "headline": "OpenAI’s Singapore-based APAC policy head leaving job after 6 months, source says",
-    "teaser": "The reasons for his exit were not immediately clear.",
-    "url": "https://www.straitstimes.com/business/openais-singapore-based-apac-policy-head-leaving-job-after-6-months-source-says",
+    "headline": "When couples love their properties more than each other",
+    "teaser": "If you have no intention of sharing your investment properties, you should not include a joint owner for the real estate.",
+    "url": "https://www.straitstimes.com/business/invest/when-couples-love-their-properties-more-than-each-other",
     "fullText": [
-      "SINGAPORE – OpenAI’s most senior Asia-Pacific public policy executive is departing after six months in the role, according to a person familiar with the matter, just as the ChatGPT maker faces scrutiny from regulators in the region .",
-      "The executive, Sanghyun Lee, is based in Singapore and joined OpenAI in April after six years at Google, according to his LinkedIn profile.",
-      "The reasons for his exit were not immediately clear. The person familiar asked not to be identified discussing a private matter.",
-      "OpenAI declined to comment. Lee did not respond to requests for comment.",
-      "The San Francisco-based start-up apologised in October for its artificial intelligence models that recently breached Australian government websites , pledging to work to prevent similar incidents and to respond faster if they do occur.",
-      "In his role, Lee has led OpenAI’s public policy and government engagement across Australia, Japan, Korea, India and South-east Asia, according to his profile.",
-      "He builds and manages “relationships with senior policymakers, regulators and institutions to support the responsible development and adoption of AI”, the profile says.",
-      "In the US, the Federal Trade Commission is scrutinising OpenAI, Anthropic and other AI firms over the safety of their products amid high-profile cybersecurity incidents .",
-      "Public policy staff typically advise companies on regulatory issues and liaise with governments.",
-      "The Asia-Pacific region is key to OpenAI in part because it is home to populous, often youthful markets that support the company’s consumer growth and enterprise adoption as it competes against rivals such as Anthropic.",
-      "OpenAI has in recent years opened offices in locations including India, South Korea, Japan and Australia.",
-      "OpenAI is in discussions with investors to raise US$30 billion (S$38.4 billion) or more in a funding round that would value the firm at about US$1.4 trillion, Bloomberg News has reported.",
-      "The company is expecting to reach or exceed US$70 billion in annualised revenue by the end of 2026 .",
-      "Before joining OpenAI, Lee was Google’s global head of government affairs and public policy strategy for platforms and devices, working across markets such as the United States, European Union and several Asia-Pacific countries, according to his LinkedIn profile. BLOOMBERG"
+      "SINGAPORE – Some couples’ love for their real estate outlasts their marriages because they still fight over it even when they are no longer together.",
+      "Disputes over the shares of the properties can be complicated if the assets are owned jointly, or worse, in only one party’s name."
     ]
   },
   "cna": {
-    "headline": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports",
-    "teaser": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports",
-    "url": "https://www.channelnewsasia.com/business/apple-cuts-iphone-18-pro-orders-due-soft-demand-nikkei-asia-reports-6445331",
+    "headline": "IMH to be expanded, redeveloped by 2040 as Singapore boosts mental health capacity",
+    "teaser": "The Institute of Mental Health will also be redesignated as a national specialty centre and renamed the National Centre for Mental Health Singapore in 2027.",
+    "url": "https://www.channelnewsasia.com/singapore/imh-expand-redevelop-ong-ye-kung-6448376",
     "fullText": [
-      "Oct 9 : Apple has told some of its suppliers to cut production of components for its newly launched iPhone 18 Pro and iPhone 18 Pro Max, Nikkei Asia reported on Friday.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "SINGAPORE: The Institute of Mental Health (IMH) will be expanded and redeveloped at its current site by 2040, as Singapore boosts its capacity to meet demand for mental healthcare.",
+      "Planning for the redevelopment has begun, Health Minister Ong Ye Kung said on Saturday (Oct 10). He added that three regional hospitals - Changi General Hospital, Woodlands Hospital and Alexandra Hospital - are also strengthening their psychiatric capabilities.",
+      "IMH will also be redesignated as a national specialty centre and renamed the National Centre for Mental Health Singapore in 2027.",
+      "Like Singapore's national specialty centres for cancer, heart or eye, the new centre will lead research, coordinate psychiatric care across hospitals and build capabilities across the mental health sector, said Mr Ong, who is also Coordinating Minister for Social Policies.",
+      "Mr Ong said mental health challenges were rising around the world, especially among young people, with hospitals and specialist clinics seeing more patients, including those still in school.",
+      "Community services were also supporting more people.",
+      "The number of youths receiving help in the community has more than doubled, while national mindline 1771 is handling about 9,000 calls for help each month.",
+      "Mr Ong said Singapore needed to respond on two fronts - by strengthening specialist care while focusing on prevention and early intervention.",
+      "The rise in community caseloads also reflected a greater willingness among people to seek help, he said, although stigma remained a key barrier.",
+      "Some people feared being judged by their families, friends, teachers or employers, while others worried that seeking mental health support could leave a record that would disadvantage them in future education opportunities, scholarship or job applications, or when buying insurance.",
+      "\"Seeking mental health support should not, by itself, become a mark against a person,\" Mr Ong said.",
+      "\"Where disclosure is genuinely necessary, it should be limited to relevant circumstances and handled fairly. This is something various government agencies will have to work on.\"",
+      "Mr Ong also highlighted parental consent as a potential obstacle for young people seeking mental health support.",
+      "Current practices vary, he said. For instance, callers to national mindline 1771 can remain anonymous, while community-based providers generally do not require parental consent before offering counselling and support.",
+      "Schools are more likely to require consent before formal counselling begins because of their approach of maintaining a strong partnership with families.",
+      "\"But we should not let any across-the-board requirement for parental consent become a barrier to seeking help,\" Mr Ong said.",
+      "A young person may not yet be ready to speak to their parents, whether because they fear disappointing them or do not fully understand what they are going through, he said.",
+      "Some may need several confidential conversations with a mental health professional before involving their families.",
+      "\"We need a balanced approach. The right system is one that lets a young person enter through a safe door, and then involve the family appropriately as the care journey progresses,\" Mr Ong said.",
+      "Mr Ong said the Singapore Medical Council is revising its ethical guidelines to provide doctors with clearer guidance on parental consent, allowing clinicians to proceed with treatment if it is in the patient's best interests.",
+      "The Ministry of Health is also developing guidelines on parental consent for various service providers.",
+      "The aim is to improve access while protecting young people's welfare and privacy, and involving parents in ways that strengthen the recovery process, he added.",
+      "Public views on the issue will be sought in the coming weeks."
     ]
+  },
+  "mom": {
+    "headline": "Updated Scaffold Fire Safety Requirements",
+    "teaser": "1. Scaffold fires can spread rapidly across combustible materials such as timber and scaffold netting, posing risks to workers, residents, emergency responders and members of the public. To strengthen scaffold fire safety, the Ministry of Manpower (MOM) will introduce new requirements to shorten the permissible duratio",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0924-factsheet-on-updated-scaffold-fire-safety-requirements"
   }
 }
