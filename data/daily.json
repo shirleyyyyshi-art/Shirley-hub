@@ -1,330 +1,57 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T06:01:00.093882+00:00",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T06:11:36.435351+00:00",
   "economist": {
-    "headline": "Governments are mishandling the affordability crisis",
-    "teaser": "They should lift incomes, not suppress prices",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+    "headline": "Don’t feel sorry for millennials. They are living it up now",
+    "teaser": "It is easy to exaggerate their economic woes",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/11/dont-feel-sorry-for-millennials-they-are-living-it-up-now",
     "vocab": []
   },
   "st": {
-    "headline": "Mary Chia admits disclosure lapses over CPF arrears at four subsidiaries after SGX queries",
-    "teaser": "Mary Chia said the omission was due to gaps in its internal information consolidation and other processes.",
-    "url": "https://www.straitstimes.com/business/mary-chia-admits-disclosure-lapses-over-cpf-arrears-at-four-subsidiaries-after-sgx-queries",
+    "headline": "Sheng Siong shares fall 3% after Maybank downgrade, target price cut",
+    "teaser": "The counter fell as low as $2.83 in early trade on Oct 12.",
+    "url": "https://www.straitstimes.com/business/companies-markets/sheng-siong-shares-fall-3-after-maybank-downgrade-target-price-cut",
     "fullText": [
-      "SINGAPORE – Cash-strapped beauty and wellness group Mary Chia Holdings has admitted that it failed to disclose CPF arrears and court proceedings involving four of its five subsidiaries, despite its chief executive being aware of the court notices earlier on.",
-      "The admission came in an Oct 9 response to queries from Singapore Exchange Regulation (SGX RegCo), which questioned why the four subsidiaries and their involvement in court proceedings were not disclosed in the company’s Sept 11 announcement, and when the company first became aware of these matters.",
-      "Mary Chia’s Sept 11 announcement disclosed $50,208 in outstanding CPF contributions at one subsidiary but omitted arrears and court proceedings involving four others.",
-      "All five subsidiaries’ cases had already been heard together on Sept 10, and the CEO knew of their court notices.",
-      "The Catalist-listed company attributed this omission to shortcomings in its internal information consolidation and disclosure assessment processes, saying it failed to sufficiently consolidate information across its human resources, finance and management functions when preparing its Sept 11 announcement.",
-      "The group said its earlier disclosure assessment had focused primarily on Mary Chia Beauty & Slimming Specialist, whose CPF arrears and court appearance were the subject of SGX RegCo’s initial query.",
-      "It said it had not undertaken a comprehensive assessment of similar issues involving other group entities, resulting in the omission of four other subsidiaries from the announcement.",
-      "These were Masego, Organica International Holdings, Spa Menu and Urban Homme Face & Body Studio for Men.",
-      "Mary Chia also revealed that the outstanding CPF contributions across the five subsidiaries had been revised to $103,727 as at Oct 9, down from approximately $153,000 stated during a court hearing a day earlier.",
-      "The revised figure was provided by the CPF Board following a reconciliation of outstanding contributions, taking into account payments made by the subsidiaries towards their arrears.",
-      "The latest filing also shed light on when the group’s management and independent directors became aware of the CPF issues.",
-      "Mary Chia said its CEO Ho Yow Ping and the group’s human resources manager were aware of the respective notices to attend court upon receiving them.",
-      "Ho also attended an interview with the CPF Board on July 22 concerning the outstanding contributions of the five subsidiaries.",
-      "The group’s independent directors, meanwhile, first became aware of CPF contribution discrepancies within the group at an internal audit meeting on May 25.",
-      "At that meeting, management informed them of the discrepancies uncovered through an internal review, rectification reports submitted to the CPF Board and efforts to settle the arrears.",
-      "However, the court notices and related proceedings were not brought to their attention.",
-      "Mary Chia said its two current independent directors, Chay Yiowmin and Foo Say Tun, learnt of the outstanding contributions and court proceedings involving the four other subsidiaries only on Oct 8, when management updated the board following that day’s hearing.",
-      "The company disclosed that nine separate notices to attend court had been issued by the CPF Board across the five subsidiaries.",
-      "Although the matters were initially handled separately, the CPF Board requested in August that the court mentions be consolidated.",
-      "All five companies subsequently appeared together in court on Sept 10 and Oct 8, with their cases adjourned to Nov 12.",
-      "According to the CPF Board’s updated computation provided on Oct 9, Mary Chia Beauty & Slimming Specialist owed the largest amount, at $52,266, for outstanding contributions covering November 2025 to May.",
-      "Organica International Holdings owed $25,248 for contributions covering November 2025 to May 2026, while Masego had $11,341 outstanding for the period from November 2025 to April.",
-      "Urban Homme Face & Body Studio for Men owed $9,847 for contributions covering September 2025 to March, while Spa Menu had $5,025 outstanding for February.",
-      "The periods refer only to months for which CPF contributions remain unpaid, rather than every month within the stated date ranges.",
-      "The revised aggregate amount of $103,727 excludes late-payment interest and composition sums.",
-      "In an earlier Oct 9 filing, Mary Chia said its subsidiaries had been making progressive payments under schedules communicated by the CPF Board since June 2026.",
-      "The group said payments totalling approximately $29,734 were made on Oct 6 and 7.",
-      "It also disclosed that September 2026 CPF contributions amounting to about $12,570 remained outstanding across three subsidiaries, with payment due by Oct 15.",
-      "The companies intend to propose an instalment arrangement for their remaining arrears after settling those contributions.",
-      "The latest development follows an earlier disagreement between Mary Chia Holdings and its stock exchange sponsor, Evolve Capital Advisory, over the group’s decision not to disclose CPF court proceedings involving Mary Chia Beauty & Slimming Specialist."
+      "SINGAPORE – Shares of Sheng Siong fell as much as 3% on Oct 12 after Maybank downgraded the supermarket chain to “hold” from “buy” and cut its target price.",
+      "The counter fell as low as $2.83 in early trade on Oct 12, but pared some losses to be 1.7% down at $2.87 as at 10.10am. On Oct 9, it was the biggest decliner on the Singapore Exchange, having fallen 5.5%.",
+      "The decline followed Maybank cutting Sheng Siong’s target price from $3.22 to $3.12 on Oct 9.",
+      "This was due to a narrower upside that makes the supermarket chain one of the region’s “most expensive food retailers” at a forward price-to-earnings ratio of 28.4 times.",
+      "This is despite a net profit after tax (NPAT) compound annual growth rate (CAGR) of 8% through 2028 and a 2.5% dividend yield.",
+      "Maybank analyst Hussaini Saifee said: “Within the consumer space, we prefer Food Empire, supported by its strong NPAT growth (31% CAGR), moderate valuations and 5% dividend yield.”",
+      "The research house also lowered its forecast for new Sheng Siong stores in 2028 from five to four and reduced financial year 2026-2028 net profit after tax by a range of 1% to 3%.",
+      "“Sheng Siong remains a high-quality operator, but its strong share price re-rating now prices in much of it,” said Saifee. “With growth normalising and slight headwinds emerging, we see limited scope for further re-rating.”",
+      "While Sheng Siong has benefited from “resilient consumption”, market share gains and targeted vouchers that channelled spending directly to supermarkets, such tailwinds are weakening.",
+      "Maybank said that more assistance is being provided through unrestricted goods and services tax vouchers and cash payments.",
+      "The $500 tranche of CDC vouchers, originally scheduled for January 2027, was brought forward to June 2026, boosting financial year 2026 demand but raising the comparison base for FY2027.",
+      "With supermarket growth already easing to low single digits, the research house expects Sheng Siong’s growth to track underlying income and population trends, rather than benefit from a repeat of the unusually favourable conditions of recent years.",
+      "Sheng Siong’s capture of displaced demand from store closures at Giant and Cold Storage has also petered out, as the two competing chains have closed only one store between them.",
+      "Cold Storage’s new owner, Macrovalue, which bought both chains from DFI Retail Group in 2025, has “resumed expansion” through its On The Go convenience stores.",
+      "It will be rolled out progressively to all 58 Esso petrol stations across Singapore through 2026 and targets more than 100 outlets over time.",
+      "Saifee said: “Although the convenience-led format does not directly replicate Sheng Siong’s full-basket proposition, it adds competition for top-up grocery purchases, convenience items and ready-to-eat meals.”",
+      "Separately, Johor Bahru-Singapore Rapid Transit System (RTS)-linked cross-border shopping and the gradual evolution of online grocery fulfilment could also pose headwinds for Sheng Siong.",
+      "The supermarket chain appears more exposed to northern Singapore catchments than its larger competitors. About 10% of its network – nine stores – is within 5km of the RTS station, while about 27.5% – 25 stores – is within 15km.",
+      "“While neither appears disruptive enough to reshape the industry in the near term, both point to a less favourable backdrop than in recent years,” said the analyst. THE BUSINESS TIMES"
     ]
   },
   "cna": {
-    "headline": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks",
-    "teaser": "South Korean President President Lee Jae Myung has made Arctic shipping a priority, and officials hope to launch regular services by 2030.",
-    "url": "https://www.channelnewsasia.com/asia/south-korea-arctic-europe-commercial-voyage-6449811",
+    "headline": "Football meme sparks boycott calls in Malaysia; Indonesian grooming brand apologises",
+    "teaser": "Men’s grooming brand Kahf posted the meme after Indonesia won the inaugural FIFA ASEAN Cup. Netizens criticised it for appearing to belittle Malaysia and other countries.",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-brand-kahf-malaysia-boycott-6452076",
     "fullText": [
-      "SEOUL: A South Korean container ship completed the country's first commercial round trip to Europe via the Arctic on Sunday (Oct 11), as authorities bank on the route helping turn the port of Busan into a global maritime hub.",
-      "The PanStar Acro docked in the southeastern port 50 days after setting sail on Aug 22. Authorities say the Arctic route could cut typical voyage times by around a third.",
-      "President Lee Jae Myung has made Arctic shipping a priority, and officials hope to launch regular services by 2030.",
-      "But the project risks friction with Western allies hoping to keep Russia isolated during its war in Ukraine. The route runs along Russia's Arctic coast, and Seoul consulted with Moscow about the journey, including whether the ship needed ​help to tackle any problems, such as getting stuck in ice.",
-      "On its outbound voyage, the vessel passed through Arctic waters and reached its first European port, Felixstowe in Britain, before calling at Rotterdam and Gdansk and returning home via the Arctic.",
-      "The trial voyage also highlighted the challenges ahead. Before the departure, PanStar told Reuters it was seeking about 1,300 twenty-foot equivalent units of cargo, but the ship left with 737 TEU of cargo plus empty containers.",
-      "Industry experts have said the route's value will depend on reliable schedules, the costs of slowing to avoid ice, special insurance premiums and extra fuel use.",
-      "An automated curation of our top stories to start your day.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "KUALA LUMPUR: An Indonesian men’s grooming brand faced controversy in Malaysia after a meme that appeared to celebrate Indonesia’s victory at a recent regional football tournament sparked calls for a boycott of its products.",
+      "After Indonesia beat Thailand to win the inaugural FIFA ASEAN Cup on home soil at Gelora Bung Karno stadium in Jakarta on Oct 5, the brand, Kahf, shared on its Threads account a meme with the words “hati-hati beda level”. It translates to “be careful, different levels”.",
+      "The words separated the Indonesian flag from that of other countries including Malaysia, Singapore and Thailand. Malaysia came in third in the ASEAN Cup while Singapore was knocked out after a 0-6 defeat by Malaysia and placing third in Group A.",
+      "Kahf’s post sparked outrage among Malaysians, who felt the brand was belittling Indonesia’s neighbours.",
+      "Kahf issued a public apology and deleted the post in question, though screenshots of it have been widely circulated.",
+      "In its apology, Kahf said the post was unacceptable and did not “reflect our values and the respect we stand for as a brand”.",
+      "“The bond between Malaysian and Indonesian communities has always been rooted in brotherhood and respect. We are committed to upholding the same respect across all countries and cultures. We take full responsibility for falling short of that commitment,” it said on its Threads account.",
+      "“Thank you for holding us accountable. We understand that rebuilding trust takes more than an apology. We are committed to earning it back through our actions.”",
+      "An automated curation of our top stories to start your day."
     ]
   },
   "mom": {
-    "headline": "Updated Scaffold Fire Safety Requirements",
-    "teaser": "1. Scaffold fires can spread rapidly across combustible materials such as timber and scaffold netting, posing risks to workers, residents, emergency responders and members of the public. To strengthen scaffold fire safety, the Ministry of Manpower (MOM) will introduce new requirements to shorten the permissible duratio",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0924-factsheet-on-updated-scaffold-fire-safety-requirements"
-  },
-  "lifeVocab": [
-    {
-      "en": "flat layout",
-      "cn": "房屋户型",
-      "def": "the arrangement of rooms and spaces within an apartment",
-      "ex": "We chose a four-room flat layout with an open-concept kitchen.",
-      "emoji": "🏠"
-    },
-    {
-      "en": "defect inspection",
-      "cn": "房屋缺陷检查",
-      "def": "a formal check of a newly built property to identify construction flaws",
-      "ex": "Before starting renovation, homeowners should conduct a thorough defect inspection.",
-      "emoji": "🔍"
-    },
-    {
-      "en": "contractor",
-      "cn": "装修承包商",
-      "def": "a person or company that undertakes a contract to provide building or renovation work",
-      "ex": "We hired a licensed contractor to overhaul the bathroom plumbing.",
-      "emoji": "👷"
-    },
-    {
-      "en": "built-in carpentry",
-      "cn": "定制木工",
-      "def": "custom woodwork such as wardrobes or cabinets fitted permanently into a space",
-      "ex": "Built-in carpentry maximizes storage space in smaller HDB bedrooms.",
-      "emoji": "🗄️"
-    },
-    {
-      "en": "vinyl flooring",
-      "cn": "塑料/乙烯基地板",
-      "def": "a durable, synthetic floor covering that is water-resistant and easy to install",
-      "ex": "Vinyl flooring is popular among home renovators because it is easy to maintain.",
-      "emoji": "🧹"
-    },
-    {
-      "en": "downpayment",
-      "cn": "首付",
-      "def": "an initial upfront payment made when purchasing property on credit or loan",
-      "ex": "Buyers can use their CPF Ordinary Account savings to clear the initial downpayment.",
-      "emoji": "💳"
-    },
-    {
-      "en": "sub-letting",
-      "cn": "出租/转租",
-      "def": "leasing out a property or room that one owns or rents to another tenant",
-      "ex": "HDB owners must fulfill the Minimum Occupation Period before sub-letting their entire unit.",
-      "emoji": "🔑"
-    },
-    {
-      "en": "home valuation",
-      "cn": "房产估值",
-      "def": "an official assessment of the market value of a property",
-      "ex": "The bank requires a professional home valuation before approving the housing loan.",
-      "emoji": "📈"
-    },
-    {
-      "en": "key collection",
-      "cn": "拿钥匙",
-      "def": "the official handover process where a buyer receives keys to a newly acquired home",
-      "ex": "Couples eagerly look forward to key collection day after years of waiting for their BTO flat.",
-      "emoji": "🗝️"
-    },
-    {
-      "en": "ceiling leak",
-      "cn": "天花板漏水",
-      "def": "water seeping through the ceiling from a higher floor or damaged pipe",
-      "ex": "The HDB Goodwill Repair Scheme helps co-pay repairs for a ceiling leak between neighboring units.",
-      "emoji": "💧"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "contingent",
-      "ipa": "/kənˈtɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "视……而定的 / 取决于",
-      "def": "subject to change depending on possible future events or conditions",
-      "ex": "The launch date remains contingent upon securing regulatory approval from the board."
-    },
-    {
-      "w": "alignment",
-      "ipa": "/əˈlaɪn.mənt/",
-      "pos": "n.",
-      "cn": "对齐 / 目标一致",
-      "def": "an arrangement in which group members work together seamlessly towards shared goals",
-      "ex": "Senior leaders called a retreat to ensure alignment across regional offices."
-    },
-    {
-      "w": "pivot",
-      "ipa": "/ˈpɪv.ət/",
-      "pos": "v.",
-      "cn": "转向 / 改变策略",
-      "def": "to completely change one's strategic direction or focus in response to market shifts",
-      "ex": "The startup decided to pivot from hardware production to software development."
-    },
-    {
-      "w": "benchmark",
-      "ipa": "/ˈbentʃ.mɑːrk/",
-      "pos": "n.",
-      "cn": "基准 / 参照标准",
-      "def": "a standard or point of reference against which things may be compared or assessed",
-      "ex": "The firm set a new industry benchmark for customer response times."
-    },
-    {
-      "w": "disruption",
-      "ipa": "/dɪsˈrʌp.ʃən/",
-      "pos": "n.",
-      "cn": "颠覆 / 行业中断",
-      "def": "disturbance or radical change in an industry or system created by innovation",
-      "ex": "Automated tools are causing significant disruption in traditional retail banking."
-    },
-    {
-      "w": "discretionary",
-      "ipa": "/dɪˈskreʃ.ən.er.i/",
-      "pos": "adj.",
-      "cn": "自主决定的 / 可自由支配的",
-      "def": "available for use at the user's discretion or choice rather than required",
-      "ex": "Management reduced discretionary spending on travel during the quarter."
-    },
-    {
-      "w": "reconcile",
-      "ipa": "/ˈrek.ən.saɪl/",
-      "pos": "v.",
-      "cn": "和解 / 调和",
-      "def": "to restore friendly relations or make two conflicting facts or statements compatible",
-      "ex": "The audit team worked late to reconcile the financial accounts."
-    },
-    {
-      "w": "transparency",
-      "ipa": "/trænˈspær.ən.si/",
-      "pos": "n.",
-      "cn": "透明度 / 开诚布公",
-      "def": "the quality of being open, clear, and easy to understand without hidden agendas",
-      "ex": "Clients appreciated the total transparency regarding fee structures."
-    },
-    {
-      "w": "trade-off",
-      "ipa": "/ˈtreɪd.ɒf/",
-      "pos": "n.",
-      "cn": "权衡 / 妥协",
-      "def": "a balance achieved between two desirable but incompatible features",
-      "ex": "There is always a trade-off between speed of delivery and thoroughness of testing."
-    },
-    {
-      "w": "oversight",
-      "ipa": "/ˈoʊ.vɚ.saɪt/",
-      "pos": "n.",
-      "cn": "监督 / 监管",
-      "def": "the action of overseeing, supervising, or managing a process or system",
-      "ex": "The parliamentary committee maintains strict oversight of infrastructure projects."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore Expands Solar Panel Rollout on HDB Roofs",
-    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈsel.ə.reɪ.tɪŋ/ (v.) increasing speed or rate of progress — 加速\">accelerating</span> its rooftop solar initiative across thousands of public housing blocks to boost renewable energy generation. The Housing and Development Board announced that newly installed panels will soon power common areas such as lifts and corridor lighting. Officials emphasize that this <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/səˌsteɪ.nəˈbɪl.ə.ti/ (n.) the quality of causing little or no damage to the environment — 可持续性\">sustainability</span> push directly contributes to lowering carbon emissions without raising maintenance fees for residents. As energy demands climb, urban solar harvesting remains a <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈkɔːr.nɚ.stoʊn/ (n.) a fundamental principle or crucial foundation — 基石\">cornerstone</span> of the nation's green strategy."
-  },
-  "economistArticle": {
-    "title": "The High Cost of Price Controls",
-    "paras": [
-      "Across many advanced and emerging economies, populist politicians face mounting fury over the soaring cost of living. In response, governments are <span class=\"voc\">succumbing</span> to the temptation of price suppression, capping energy bills, freezing rents, and threatening supermarkets with price ceilings on staple foods. While such measures offer immediate political relief, they misdiagnose the underlying economic <span class=\"voc\">malaise</span> and ultimately <span class=\"voc\">exacerbate</span> the very shortages they aim to alleviate.",
-      "Price caps act as a <span class=\"voc\">blunt</span> instrument that scrambles market signals. <span class=\"gem\">When governments artificially depress prices below market rates, demand inevitably surges while supply contracts.</span> Landlords pull apartments off the rental market, energy suppliers scale back investment, and food producers trim production margins. The short-term optical win for voters swiftly turns into a long-term economic nightmare characterized by rationing, queues, and chronic underinvestment.",
-      "A far more <span class=\"voc\">prudent</span> approach lies in boosting households' real purchasing power rather than <span class=\"voc\">tinkering</span> with price tickers. Policymakers should focus on targeted cash transfers to low-income families, tax credits, and policies that bolster labor productivity. By <span class=\"voc\">augmenting</span> income directly, vulnerable citizens gain the flexibility to navigate inflationary shocks without distorting the supply chains that sustain economic dynamism.",
-      "Furthermore, governments must address the structural <span class=\"voc\">bottlenecks</span> that fuel living costs in the first place. Reforming restrictive zoning laws can unleash housing supply, while <span class=\"voc\">dismantling</span> trade barriers can lower food import costs. Investing in renewable grid infrastructure cuts long-run power <span class=\"voc\">tariffs</span> far more effectively than capping utility bills with state subsidies.",
-      "<span class=\"gem\">Subsidizing prices masks inflation rather than curing it, consuming vast public revenues that could be far better spent on long-term infrastructure and education.</span> Until leaders shift their focus from suppressing prices to augmenting incomes and unlocking supply, citizens will remain trapped in a self-defeating loop of rising costs and declining standard of living."
-    ],
-    "cn": "在许多发达和新兴经济体中，民粹主义政治家面临着民众对生活成本飙升的日益暴怒。作为回应，政府正在屈服于遏制价格的诱惑，为能源账单设定上限、冻结房租，并以基本食品的价格上限威胁超市。虽然这些措施能带来暂时的政治解脱，但它们误诊了潜在的经济不适，并最终加剧了它们旨在缓解的短缺问题。\n价格上限是一种会打乱市场信号的粗暴工具。当政府人为地将价格压低至市场利率以下时，需求必然激增，而供给则会收缩。房东将公寓撤出出租市场，能源供应商缩减投资，食品生产商则削减生产利润率。为选民带来的短期表面胜利，会迅速演变成以配给、排队和长期投资不足为特征的长期经济噩梦。\n一种远为审慎的做法在于提高家庭的实际购买力，而不是捣鼓价格标签。政策制定者应专注于向低收入家庭提供有针对性的现金转移、税收抵免以及促进劳动生产率的政策。通过直接增加收入，弱势群体获得了应对通胀冲击的灵活性，同时不会扭曲维持经济活力的供应链。\n此外，政府必须首先解决加剧生活成本的结构性瓶颈。改革限制性的区划法律可以释放住房供应，而拆除贸易壁垒可以降低食品进口成本。投资于可再生电网基础设施削减长期电费的效果，远比通过国家补贴限制公用事业账单更为有效。\n补贴价格掩盖了通货膨胀而非治愈它，消耗了巨额的公共财政收入，而这些资金本可以更好地用于长期基础设施和教育。除非领导人将焦点从抑制价格转向提高收入和释放供应，否则公民将继续陷入生活成本上升和生活水平下降的自败循环中。",
-    "vocab": [
-      {
-        "w": "succumbing",
-        "ipa": "/səˈkʌm.ɪŋ/",
-        "pos": "v.",
-        "mean": "屈服 / 听任",
-        "def": "failing to resist pressure, temptation, or negative force",
-        "ex": "Governments are succumbing to populist policies despite warnings from economic experts."
-      },
-      {
-        "w": "malaise",
-        "ipa": "/mæˈleɪz/",
-        "pos": "n.",
-        "mean": "沉疴 / 整体不适",
-        "def": "a general feeling of discomfort, illness, or uneasiness whose exact cause is difficult to identify",
-        "ex": "Price controls fail to address the underlying macroeconomic malaise."
-      },
-      {
-        "w": "exacerbate",
-        "ipa": "/ɪɡˈzæs.ɚ.beɪt/",
-        "pos": "v.",
-        "mean": "加剧 / 恶化",
-        "def": "to make a problem, bad situation, or negative feeling worse",
-        "ex": "Capping rental rates often serves to exacerbate the severe shortage of urban housing."
-      },
-      {
-        "w": "blunt",
-        "ipa": "/blʌnt/",
-        "pos": "adj.",
-        "mean": "粗暴的 / 不精细的",
-        "def": "uncompromisingly forthright, crude, or lacking subtlety in precision",
-        "ex": "Price caps are a blunt policy tool that creates unintended distortion across markets."
-      },
-      {
-        "w": "prudent",
-        "ipa": "/ˈproo·dənt/",
-        "pos": "adj.",
-        "mean": "审慎的 / 贤明的",
-        "def": "acting with or showing care and thought for the future",
-        "ex": "A prudent strategy focuses on bolstering household income rather than artificial price caps."
-      },
-      {
-        "w": "tinkering",
-        "ipa": "/ˈtɪŋ.kɚ.ɪŋ/",
-        "pos": "v.",
-        "mean": "捣鼓 / 瞎修盲动",
-        "def": "attempting to repair or improve something in a casual or desultory way",
-        "ex": "Tinkering with price tags does not eliminate basic supply chain constraints."
-      },
-      {
-        "w": "augmenting",
-        "ipa": "/ɔːɡˈment.ɪŋ/",
-        "pos": "v.",
-        "mean": "增加 / 提高",
-        "def": "making something greater by adding to it or increasing its value",
-        "ex": "Augmenting disposable income through tax relief helps families cope with higher bills."
-      },
-      {
-        "w": "bottlenecks",
-        "ipa": "/ˈbɑː.t̬əl.neks/",
-        "pos": "n.",
-        "mean": "瓶颈 / 阻碍",
-        "def": "points of congestion or obstruction in a system that slow down overall progress",
-        "ex": "Reforming port clearance procedures will remove supply chain bottlenecks."
-      },
-      {
-        "w": "dismantling",
-        "ipa": "/dɪsˈmæn.təl.ɪŋ/",
-        "pos": "v.",
-        "mean": "拆除 / 废除",
-        "def": "take apart or gradually eliminate a system or structure",
-        "ex": "Dismantling tariff barriers allows cheaper food imports into local markets."
-      },
-      {
-        "w": "tariffs",
-        "ipa": "/ˈtær.ɪfs/",
-        "pos": "n.",
-        "mean": "关税 / 资费率",
-        "def": "a tax or duty to be paid on a particular class of imports or official charges for electricity",
-        "ex": "Renewable energy projects help stabilize power tariffs over the long term."
-      }
-    ],
-    "gems": [
-      {
-        "s": "When governments artificially depress prices below market rates, demand inevitably surges while supply contracts.",
-        "why": "This sentence effectively uses contrasting parallel structures ('demand inevitably surges' versus 'supply contracts') to clearly articulate cause-and-effect in economic analysis. 这句话巧妙地运用对比平行结构（“需求必然激增”对“供给收缩”），清晰地阐明了经济分析中的因果关系。"
-      },
-      {
-        "s": "Subsidizing prices masks inflation rather than curing it, consuming vast public revenues that could be far better spent on long-term infrastructure and education.",
-        "why": "This sentence employs a present participial clause ('consuming vast public revenues...') to smoothly append consequence and critique without breaking narrative momentum. 该句利用现在分词短语（“消耗巨额公共财政收入……”）平滑地附加后果与批判，保持了叙事的连贯性与说服力。"
-      }
-    ]
+    "headline": "New Initiatives to Strengthen Migrant Community's Mental Well-Being through Community and Family Support",
+    "teaser": "1 To mark World Mental Health Day 2026, the Ministry of Manpower (MOM) announced new initiatives to strengthen mental well-being support for the migrant community. These include:",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1011-new-initiatives-to-strengthen-migrant-community-mental-well-being"
   }
 }
