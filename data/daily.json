@@ -1,49 +1,324 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T06:54:05.480956+00:00",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T05:04:00.860987+00:00",
   "economist": {
-    "headline": "A Nobel prize for how to keep economies on an even keel",
-    "teaser": "Two “New Keynesians”, Robert Hall and Michael Woodford, win the highest honour in economics",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-an-even-keel",
+    "headline": "How to lose money betting against Europe",
+    "teaser": "In a sovereign-debt crisis, even understanding politics may not be enough",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/13/how-to-lose-money-betting-against-europe",
     "vocab": []
   },
   "st": {
-    "headline": "Visa approved to prepare domestic payments business in China",
-    "teaser": "Visa’s clearance of the regulatory hurdle will allow it to operate in China’s US$144 trillion payments market.",
-    "url": "https://www.straitstimes.com/business/visa-approved-to-prepare-domestic-payments-business-in-china",
+    "headline": "SoftBank junk bond sale raises stakes for CEO Son’s all-in AI bet",
+    "teaser": "Those investments are coming under scrutiny about whether a payoff from the expenditures by AI companies will come soon enough.",
+    "url": "https://www.straitstimes.com/business/softbank-junk-bond-sale-raises-stakes-for-ceo-sons-all-in-ai-bet",
     "fullText": [
-      "BEIJING – Visa received approval to begin preparations to establish a domestic bank card clearing business in China, as the firm follows rivals Mastercard and American Express in serving the country’s massive payments market.",
-      "“We greatly appreciate the important role of the leaders of the United States and China in pursuing a constructive and strategically stable relationship between the world’s largest economies,” Visa chief executive officer Ryan McInerney said in the statement.",
-      "The company’s Beijing unit won the greenlight from the People’s Bank of China, the official Xinhua News Agency reported on Oct 13.",
-      "It must complete preparatory work within one year before applying to commence operations and obtaining the clearing business licence, Xinhua added.",
-      "Visa’s clearance of the regulatory hurdle will allow it to operate in China’s US$144 trillion (S$184 trillion) payments market and marks the end to its years-long pursuit.",
-      "Visa applied for the licence in 2017, local media reported.",
-      "Competitor Mastercard received approval to establish its bank card clearing business in 2020, and Amex’s joint venture in the country was approved to start bank card clearing services several months after that.",
-      "For years, the battle for entry into mainland China’s massive domestic clearing market was a primary friction point in the broader trade dispute between the world’s two largest economies.",
-      "Earlier in 2026, US President Donald Trump said he brought up Visa’s request for access to mainland China’s market during a meeting with Xi Jinping in Beijing .",
-      "Visa’s CEO McInerney accompanied Trump on that May trip to China.",
-      "Xi later met his counterpart in Washington in late September, with both agreeing on a trade truce extension .",
-      "The two are scheduled to talk again in person on the sidelines of the APEC Economic Leaders’ Meeting in Shenzhen in November.",
-      "China first signalled an opening in the sector in June 2015, announcing that foreign bank-card clearing providers could apply for licences by establishing local units or through acquisitions.",
-      "The move was designed to dismantle the long-standing monopoly held by state-run China UnionPay.",
-      "While the approval marks a significant milestone, Visa is entering a market that looks very different from the one it first sought to enter.",
-      "China’s payments ecosystem is now dominated by domestic mobile platforms Alipay and WeChat Pay, which have largely bypassed traditional card networks and become the primary channels for everyday transactions.",
-      "China had 10.2 billion bank cards in circulation at the end of 2025, with transaction value totalling 963.6 trillion yuan (S$184 trillion) in 2025, according to the People’s Bank of China. BLOOMBERG"
+      "TOKYO – SoftBank’s promise to pay its highest-ever yields in a record US$11 billion (S$14.1 billion) junk-bond offering highlights the pressure on CEO Masayoshi Son to secure returns on his all-in bet on AI amid concerns about possible overheating in the market.",
+      "The SoftBank debt issuance in September added to a sharp surge in corporate borrowing in 2026, including major bond sales from Amazon.com, Alphabet and Tencent.",
+      "The scale of Son’s investments, which include backing totalling US$64.6 billion for ChatGPT maker OpenAI, has made the technology-and-investing conglomerate a bellwether for AI sentiment.",
+      "Those fresh investments are now coming under sharper scrutiny by analysts and investors amid worries about the degree of concentration in SoftBank’s portfolio and whether a payoff from the expenditures by AI companies will come soon enough.",
+      "SoftBank previously sold shares in Nvidia and T-Mobile US to fund its investments, but it is now borrowing at record yields of up to 9.75% to retain assets that it believes will appreciate, a senior SoftBank executive told Reuters.",
+      "“We’ve borrowed money in large part because we don’t want to sell assets that we believe will keep rising in value,” said Alex Clavel, CEO of SoftBank Investment Advisers, which manages the Vision Funds.",
+      "Sam Altman’s OpenAI is the core investment in the latest iteration of Son’s investment strategy, following lucrative bets on Chinese tech giant Alibaba and chip designer Arm.",
+      "“Given OpenAI’s appreciation to date, 9.75% is still very reasonable,” Clavel said.",
+      "Arm’s valuation has grown fivefold since it floated in 2023 and further listings from SoftBank’s private AI portfolio would clarify their value and more easily allow the assets to be monetised for additional investment activity.",
+      "Altman has said OpenAI will not go public in 2026, citing safety concerns about artificial intelligence. It also faces competition from rival Anthropic and hyperscalers, as well as low-cost Chinese labs.",
+      "SoftBank was previously “betting on a bunch of numbers at the roulette table. Now it’s red or black, either lose everything or gain everything”, said analyst David Gibson of MST Financial.",
+      "SoftBank will pay its highest-ever coupon of 9.75% on a bond issued in September that matures in 2034. That return compares with Alphabet offering 5.2% for a bond issued in August that matures in 2033.",
+      "SoftBank’s shares surged to a record high of 8,632 yen in June, though they have fallen 38% since then, while its credit default swap spreads – the cost to insure its debt against a default or other credit event – jumped 24% over the same period.",
+      "SoftBank’s higher yields reflect investor perceptions of their risk and concentration in large positions, analysts say.",
+      "“The bets are much bigger than we’ve ever seen,” said Amir Anvarzadeh of Asymmetric Advisors, who recommends shorting the stock.",
+      "James Athey, a fixed-income portfolio manager at Marlborough, said the fund was not allocating to high-yield bonds at this stage of the credit cycle, given current tight spread levels.",
+      "“SoftBank is so aggressive, so concentrated and so all-in, I don’t think we’d be looking there first anyway,” he said.",
+      "Clavel, however, says SoftBank’s OpenAI backing reflects their deep business ties.",
+      "“We see OpenAI as a partner, building a relationship that can deliver strategic value as well as financial returns,” he said.",
+      "OpenAI is also an investor in and customer of data centre company SB Energy, which SoftBank is looking to list and may seek a valuation of US$50 billion, Reuters has reported.",
+      "“SoftBank is taking advantage of hyper-excitement around AI-driven businesses, applying very high valuations for relatively low revenues, and they are looking to capitalise,” said MST’s Gibson of the potential valuation.",
+      "Son’s bets have a mixed track record – his investment in Chinese tech giant Alibaba was a major success, but Son also directed US$16 billion to Adam Neumann’s WeWork, which ultimately went bankrupt.",
+      "Other setbacks included a crash in the value of its investments as central banks moved to hike rates in 2022.",
+      "“OpenAI’s value appreciation to date far exceeds the losses in our 2021 vintage investments,” Clavel said.",
+      "Over the decades, Son has navigated market peaks and troughs to build SoftBank into a 30 trillion yen (S$242 billion) company.",
+      "“Being priced in is a massive transformation of the workplace with AI effectively taking over a big chunk of what gets done with human brains,” said Morningstar senior equity analyst Dan Baker.",
+      "“If that goes ahead, it’s hard to see their investments not being very successful,” he said. REUTERS"
     ]
   },
   "cna": {
-    "headline": "India youth protest leaders detained after entering barricaded Delhi protest site",
-    "teaser": "The detentions on Tuesday (Oct 13) came after Cockroach Janta Party (CJP) leaders entered Jantar Mantar, an iconic site for demonstrations that police had removed from New Delhi's list of designated protest venues a day earlier.",
-    "url": "https://www.channelnewsasia.com/asia/india-detains-cockroach-leaders-protest-6455131",
+    "headline": "PSG boss Luis Enrique hopes Man City are not stripped of titles",
+    "teaser": "PSG boss Luis Enrique hopes Man City are not stripped of titles",
+    "url": "https://www.channelnewsasia.com/sport/psg-boss-luis-enrique-hopes-man-city-are-not-stripped-titles-6457976",
     "fullText": [
-      "NEW DELHI: India's youth-led Cockroach Janta Party (CJP) said on Tuesday (Oct 13) that key leaders had been detained after entering an iconic protest site in New Delhi blocked by police. Opposition parties and supporters of the movement have taken to the streets in recent days, defying a security clampdown to demand the resignation of the head of India's election commission, accusing it of manipulating voter rolls to benefit Prime Minister Narendra Modi's ruling party. The Election Commission of India, which oversees the voting process in the world's most populous nation, has denied any wrongdoing. Delhi Police said on Monday that Jantar Mantar in the heart of the capital had been taken off the list of designated official protest sites. The site has been sealed off for several days by yellow metal barricades and guarded by a heavy police presence . But a video posted online by CJP leader Abhijeet Dipke showed protesters clambering over the barricades, before running into the empty space and waving the national flag - before police chased and detained them. \"CJP sneaks inside to reclaim Jantar Mantar,\" the group said in a post on social media, adding that those detained included leaders Saurav Das, Ashutosh Ranka and Ajinkya Shinde. \"All of them have been detained by Delhi Police,\" it added.",
-      "Delhi Police had announced three official sites on Monday as alternatives to Jantar Mantar, where protesters have gathered for decades - including CJP demonstrations that led to India's education minister, Dharmendra Pradhan, stepping down over an examination scandal in July. \"You cannot denotify the resistance,\" Dipke said, tagging Modi in his post. Modi, in comments at a business conference in New Delhi on Tuesday, called India the \"mother of democracy\", but did not refer directly to the protests. \"In our country, people openly debate a wide range of issues and discuss different perspectives,\" he said.",
-      "An automated curation of our top stories to start your day."
+      "Oct 14 : Paris St Germain boss Luis Enrique said Manchester City were deserving winners of their trophies and should be allowed to keep them, despite the English club facing sanctions after being found guilty of breaching Premier League financial rules.",
+      "The Premier League said ​City had used \"sham\" commercial contracts as part of schemes to inflate revenue and understate costs by more than £900 million ($1.19 billion).",
+      "City, who have denied wrongdoing throughout the case and have appealed the verdict, could face punishments ranging from fines and a points deduction, to relegation and potentially being stripped of their titles.",
+      "Asked about the verdict before PSG's Champions League match against City, Luis Enrique told a press conference on Tuesday: \"The first thing when you hear that, it's a surprise, but I think we need to respect the process and wait for the final decision.",
+      "\"I love the way they play football, and after that, you have to wait (for the) last decision and nothing else ... I think the trophies that you win on the pitch remains on the pitch, and they deserve to win that. I hope they can avoid that sanction.\"",
+      "City host PSG at the Etihad Stadium later on Wednesday.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
-    "headline": "New Initiatives to Strengthen Migrant Community's Mental Well-Being through Community and Family Support",
-    "teaser": "1 To mark World Mental Health Day 2026, the Ministry of Manpower (MOM) announced new initiatives to strengthen mental well-being support for the migrant community. These include:",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1011-new-initiatives-to-strengthen-migrant-community-mental-well-being"
+    "headline": "Investigation outcome for alleged cheating and fraudulent work injury compensation claim involving EatGreen Pte Ltd",
+    "teaser": "The Singapore Police Force (SPF) and the Ministry of Manpower (MOM) have completed their investigations into a case of alleged cheating and fraudulent work injury compensation claim respectively, involving a former worker employed by EatGreen Pte. Ltd., which operates Sumo Salad.",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1013-investigation-for-alleged-cheating-and-fraudulent-work-injury-claim-involving-eatgreen-pte-ltd"
+  },
+  "lifeVocab": [
+    {
+      "en": "stallholder",
+      "cn": "摊主 / 档主",
+      "def": "a person who rents or manages a stall in a market",
+      "ex": "The friendly stallholder gave me extra spring onions with my vegetable order.",
+      "emoji": "🧑‍🌾"
+    },
+    {
+      "en": "bargain",
+      "cn": "讨价还价 / 便宜货",
+      "def": "something bought for less than the usual price, or to negotiate a price",
+      "ex": "She managed to strike a good bargain on seafood late in the morning.",
+      "emoji": "🏷️"
+    },
+    {
+      "en": "perishable",
+      "cn": "易腐烂的",
+      "def": "food that is likely to decay or go bad quickly",
+      "ex": "Store perishable goods in the refrigerator immediately after coming back from the market.",
+      "emoji": "🥬"
+    },
+    {
+      "en": "produce",
+      "cn": "农产品 / 鲜活食材",
+      "def": "fresh agricultural products, especially fruit and vegetables",
+      "ex": "This wet market is well known for offering locally grown organic produce.",
+      "emoji": "🥦"
+    },
+    {
+      "en": "seafood",
+      "cn": "海鲜",
+      "def": "fish and shellfish from the sea eaten as food",
+      "ex": "The seafood stall opens at five in the morning to receive fresh daily catches.",
+      "emoji": "🦐"
+    },
+    {
+      "en": "poultry",
+      "cn": "家禽 / 鸡鸭肉",
+      "def": "birds such as chickens and ducks kept for meat or eggs",
+      "ex": "You can ask the poultry seller to chop the chicken into smaller pieces for soup.",
+      "emoji": "🍗"
+    },
+    {
+      "en": "bulk purchase",
+      "cn": "大批量购买",
+      "def": "buying large quantities of goods at one time, often for a discount",
+      "ex": "Making a bulk purchase of spices at the wholesale market saves a lot of money.",
+      "emoji": "📦"
+    },
+    {
+      "en": "fresh catch",
+      "cn": "新鲜捕捞的海鲜",
+      "def": "seafood that has recently been caught",
+      "ex": "The fishmonger recommended the wild snapper from today's fresh catch.",
+      "emoji": "🐟"
+    },
+    {
+      "en": "change",
+      "cn": "零钱",
+      "def": "coins or smaller bills given back when paying more than the price",
+      "ex": "Please hold on while the vendor counts out your change.",
+      "emoji": "🪙"
+    },
+    {
+      "en": "eco-friendly bag",
+      "cn": "环保袋",
+      "def": "a reusable bag designed to replace single-use plastic bags",
+      "ex": "Remember to bring your eco-friendly bag to avoid paying extra for plastic carriers.",
+      "emoji": "🛍️"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "delineate",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
+      "pos": "v.",
+      "cn": "勾勒；详细阐述",
+      "def": "to describe or portray something precisely",
+      "ex": "The proposal clearly delineates the roles and responsibilities of each department."
+    },
+    {
+      "w": "bottleneck",
+      "ipa": "/ˈbɒt.əl.nek/",
+      "pos": "n.",
+      "cn": "瓶颈",
+      "def": "a situation that causes delay in a process or system",
+      "ex": "Staff shortages created a major operational bottleneck during peak hours."
+    },
+    {
+      "w": "contingent",
+      "ipa": "/kənˈtɪn.dʒənt/",
+      "pos": "adj.",
+      "cn": "取决于……的",
+      "def": "subject to chance or dependent on circumstances",
+      "ex": "Final approval of the project is contingent upon securing regulatory clearance."
+    },
+    {
+      "w": "elicit",
+      "ipa": "/iˈlɪs.ɪt/",
+      "pos": "v.",
+      "cn": "引出；诱导",
+      "def": "to evoke or draw out a reaction or answer from someone",
+      "ex": "The open forum was designed to elicit constructive feedback from employees."
+    },
+    {
+      "w": "recalibrate",
+      "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
+      "pos": "v.",
+      "cn": "重新校准；调整",
+      "def": "to adjust or reexamine something again carefully",
+      "ex": "Management decided to recalibrate their sales strategy following market shifts."
+    },
+    {
+      "w": "preempt",
+      "ipa": "/priːˈempt/",
+      "pos": "v.",
+      "cn": "抢先采取行动；预先阻止",
+      "def": "to take action in order to prevent an anticipated event",
+      "ex": "The company upgraded its cybersecurity measures to preempt potential breaches."
+    },
+    {
+      "w": "benchmark",
+      "ipa": "/ˈbentʃ.mɑːk/",
+      "pos": "n.",
+      "cn": "基准；标杆",
+      "def": "a standard or point of reference against which things may be evaluated",
+      "ex": "Our customer service response time serves as a benchmark for the industry."
+    },
+    {
+      "w": "synthesize",
+      "ipa": "/ˈsɪn.θə.saɪz/",
+      "pos": "v.",
+      "cn": "综合；合成",
+      "def": "to combine a range of information or ideas into a coherent whole",
+      "ex": "The analyst was able to synthesize complex market data into a clear report."
+    },
+    {
+      "w": "contentious",
+      "ipa": "/kənˈten.ʃəs/",
+      "pos": "adj.",
+      "cn": "有争议的",
+      "def": "causing or likely to cause an argument",
+      "ex": "Budget allocation remains a contentious topic among board members."
+    },
+    {
+      "w": "imperil",
+      "ipa": "/ɪmˈper.əl/",
+      "pos": "v.",
+      "cn": "危及；使陷入危险",
+      "def": "to put at risk of being harmed, damaged, or destroyed",
+      "ex": "Ignoring safety compliance could imperil the entire construction schedule."
+    }
+  ],
+  "listening": {
+    "source": "CNA Style · Intermediate",
+    "title": "Singapore Accelerates Green EV Infrastructure in Heartlands",
+    "transcript": "Singapore is rapidly <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪkˈspændɪŋ/ (v.) growing or extending in size — 扩大；扩展\">expanding</span> its electric vehicle charging network across public housing estates. By installing thousands of new chargers in HDB carparks, the government aims to encourage more residents to adopt eco-friendly transport. Officials emphasize that accessible <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪnfrəstrʌktʃər/ (n.) basic physical and organizational structures — 基础设施\">infrastructure</span> is essential to overcoming range anxiety among <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/prəˈspektɪv/ (adj.) expected or likely to happen or become something — 预期的；潜在的\">prospective</span> buyers."
+  },
+  "economistArticle": {
+    "title": "How to Lose Money Betting Against Europe",
+    "paras": [
+      "<span class=\"voc\">Short-selling</span> European sovereign debt has long been regarded as a tempting trade for global macro hedge funds. When political <span class=\"voc\">friction</span> flares up between Brussels and national capitals, market yields frequently surge as nervous investors price in fiscal <span class=\"voc\">disintegration</span>. Yet, those who position themselves for an imminent monetary collapse invariably discover that betting against European cohesion is a <span class=\"voc\">perilous</span> endeavor.",
+      "The fundamental flaw in the bear thesis lies in underestimating the institutional <span class=\"voc\">firepower</span> of the European Central Bank. While national politicians may trade accusatory rhetoric during public summits, the central bank possesses an <span class=\"voc\">unyielding</span> mandate to safeguard the single currency. <span class=\"gem\">Through <span class=\"voc\">backstop</span> programs and flexible bond-buying mechanisms, policymakers can effectively cap borrowing spreads before market distress becomes systemic.</span>",
+      "Moreover, sovereign crisis dynamics in Europe rarely follow a purely linear narrative driven by budget deficits. Political resolve often hardens precisely when existential threats loom largest over the monetary union. Member states that appear <span class=\"voc\">fractious</span> during quiet periods historically demonstrate a remarkable capacity for compromise when default risks <span class=\"voc\">jeopardize</span> their banking sectors.",
+      "Investors who rely solely on fiscal metrics without accounting for institutional emergency mechanisms frequently miscalculate their timing. <span class=\"gem\">While political squabbles will inevitably trigger short-term market volatility, the underlying commitment to European economic integration remains <span class=\"voc\">formidable</span>.</span> Those seeking quick profits from Europe's structural fragilities often end up paying a heavy toll."
+    ],
+    "cn": "卖空欧洲主权债务长期以来一直被全球宏观对冲基金视为极具诱惑力的交易。当布鲁塞尔与各成员国首都之间爆发政治摩擦时，随着不安的投资者将财政解体的风险计入价格，市场收益率往往会大幅飙升。然而，那些做空欧洲并预判其货币体系即刻崩溃的人，无一例外地发现，押注欧洲内部凝聚力的破裂是一项极其危险的举动。\n\n看空论调的根本缺陷在于低估了欧洲中央银行的制度威慑力。尽管各国政治家可能会在公开峰会上互相指责，但央行拥有维护单一货币的坚定授权。通过后备计划和灵活的债券购买机制，政策制定者可以在市场动荡演变成系统性危机之前，有效地限制借贷利差的扩大。\n\n此外，欧洲主权危机的演变机制很少遵循由预算赤字所主导的简单线性逻辑。每当生存威胁笼罩单一货币联盟时，政治决心往往反而会强化。在平静时期显得分歧严重的成员国，历来证明了当违约风险危及其银行体系时，它们拥有非凡的妥协能力。\n\n仅仅依赖财政指标而忽视制度性应急机制的投资者，常常会错判 timing。尽管政治争端不可避免地会引发短期市场波动，但欧洲经济一体化的底层承诺依然坚如磐石。企图从欧洲结构性脆弱中牟取暴利的投机者，最终往往付出高昂的代价。",
+    "vocab": [
+      {
+        "w": "short-selling",
+        "ipa": "/ˈʃɔːtˌsel.ɪŋ/",
+        "pos": "n.",
+        "mean": "做空",
+        "def": "selling borrowed financial assets expecting a price drop to buy them back cheaper",
+        "ex": "Short-selling bond markets during geopolitical uncertainty carries high risks."
+      },
+      {
+        "w": "friction",
+        "ipa": "/ˈfrɪk.ʃən/",
+        "pos": "n.",
+        "mean": "摩擦；冲突",
+        "def": "conflict or animosity between persons or groups",
+        "ex": "Diplomatic friction between member states delayed the policy decision."
+      },
+      {
+        "w": "disintegration",
+        "ipa": "/dɪsˌɪn.tɪˈɡreɪ.ʃən/",
+        "pos": "n.",
+        "mean": "解体；瓦解",
+        "def": "the process of losing cohesion or strength and breaking into parts",
+        "ex": "Pessimists predicted the eventual disintegration of the trading bloc."
+      },
+      {
+        "w": "perilous",
+        "ipa": "/ˈper.əl.əs/",
+        "pos": "adj.",
+        "mean": "危险的",
+        "def": "full of danger or risk",
+        "ex": "Navigating volatile financial markets without hedging is a perilous strategy."
+      },
+      {
+        "w": "firepower",
+        "ipa": "/ˈfaɪəˌpaʊ.ər/",
+        "pos": "n.",
+        "mean": "威慑力；实力",
+        "def": "powerful resources available for a specific task",
+        "ex": "The central bank deployed its monetary firepower to stabilize bond yields."
+      },
+      {
+        "w": "unyielding",
+        "ipa": "/ʌnˈjiːl.dɪŋ/",
+        "pos": "adj.",
+        "mean": "坚定的；不屈的",
+        "def": "unlikely to be swayed or modified",
+        "ex": "The committee maintained an unyielding stance on maintaining price stability."
+      },
+      {
+        "w": "backstop",
+        "ipa": "/ˈbæk.stɒp/",
+        "pos": "n.",
+        "mean": "后备保障",
+        "def": "an emergency precaution or security measure",
+        "ex": "The liquidity facility acted as a financial backstop for regional lenders."
+      },
+      {
+        "w": "fractious",
+        "ipa": "/ˈfræk.ʃəs/",
+        "pos": "adj.",
+        "mean": "易怒的；难以控制的",
+        "def": "troublesome or irritable",
+        "ex": "The debate grew increasingly fractious as the negotiations dragged on."
+      },
+      {
+        "w": "jeopardize",
+        "ipa": "/ˈdʒep.ə.daɪz/",
+        "pos": "v.",
+        "mean": "危及；危害",
+        "def": "put someone or something into a situation in which there is a danger of loss or harm",
+        "ex": "Unchecked public debt could jeopardize national sovereign ratings."
+      },
+      {
+        "w": "formidable",
+        "ipa": "/ˈfɔː.mɪ.də.bəl/",
+        "pos": "adj.",
+        "mean": "强大的；令人敬畏的",
+        "def": "inspiring fear or respect through being impressively large or powerful",
+        "ex": "The economic bloc remains a formidable force in global trade negotiations."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Through backstop programs and flexible bond-buying mechanisms, policymakers can effectively cap borrowing spreads before market distress becomes systemic.",
+        "why": "This sentence uses precise economic terminology and structured parallelism to explain complex central bank mechanisms clearly. 句子使用了精确的经济学术语和并列结构，清晰解释了中央银行干预市场的复杂机制。"
+      },
+      {
+        "s": "While political squabbles will inevitably trigger short-term market volatility, the underlying commitment to European economic integration remains formidable.",
+        "why": "The sentence contrasts short-term noise with long-term structural resilience using a subordinate clause for emphasis. 该句运用由While引导的从属句创造对比，将短期市场波动与长期结构韧性进行了鲜明烘托。"
+      }
+    ]
   }
 }
