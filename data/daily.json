@@ -1,79 +1,319 @@
 {
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T04:46:57.741944+00:00",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T04:55:48.831003+00:00",
   "economist": {
     "headline": "It’s not just Commerzbank: Italians are eating up German business",
     "teaser": "The takeover of the bank by UniCredit is only the start",
     "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
-    "vocab": [
-      {
-        "word": "takeover",
-        "phonetic": "",
-        "def": "The purchase of one company by another; a merger without the formation of a new company, especially where some stakeholders in the purchased company oppose the purchase."
-      }
-    ]
+    "vocab": []
   },
   "st": {
-    "headline": "Palm oil stocks tumble as S’pore looks for firms responsible for haze: Markets this week",
-    "teaser": "ST’s business correspondents unpack the latest developments in the markets during the week and explain what they mean for investors.",
-    "url": "https://www.straitstimes.com/business/companies-markets/palm-oil-stocks-tumble-as-spore-looks-for-firms-responsible-for-haze-markets-this-week",
+    "headline": "Taiwan dollar bulls look past AI-led selloff to year-end rally",
+    "teaser": "Analysts say record trade surpluses and AI-related exports continue to generate underlying Taiwan dollar support.",
+    "url": "https://www.straitstimes.com/business/taiwan-dollar-bulls-look-past-ai-led-selloff-to-year-end-rally",
     "fullText": [
-      "SINGAPORE – The worsening haze across Singapore in recent weeks has cast a pall over the skies and certain stocks.",
-      "Palm oil shares took a tumble when some Singapore-listed companies were linked to plantation areas in Indonesia where fires and smoke were detected.",
-      "Prime Minister Lawrence Wong also said on Facebook on Oct 15 that Singapore is looking into which companies may be responsible for haze-causing fires.",
-      "He added that Singapore will take action under its Transboundary Haze Pollution Act and explore joint action with other countries, where warranted.",
-      "The law, which was enacted in 2014, targets those responsible for causing or condoning fires if the haze causes the Pollutant Standards Index (PSI) to stay in the unhealthy range in any part of Singapore for 24 hours or more.",
-      "Air quality is considered unhealthy when PSI levels are 101 and above. The PSI levels have been over 200 in some areas over the last few days.",
-      "Agribusiness group Wilmar International and palm oil company Golden Agri Resources were among the Singapore-listed firms that have addressed their involvement in the ongoing forest fires in Indonesia.",
-      "In response to queries on Oct 16 from the Singapore Exchange Regulation, both said that they have no-burning policies in place.",
-      "Golden Agri said that it “is not aware of information indicating that its operations or activities have caused or contributed to the recent transboundary haze”.",
-      "Wilmar said that it has not undertaken any new oil palm planting in its plantations in Indonesia since 2013. Since then, the firm’s field activities in Indonesia “have been limited to the replanting of existing planted areas, which is carried out mechanically and without the use of fire”.",
-      "Meanwhile, palm oil company Bumitama Agri said that some of its operations in Indonesia were affected by fires spread from surrounding land.",
-      "In a Singapore Exchange filing on Oct 16 evening, it said that based on internal observations and preliminary investigations, “no evidence has been established linking the Group’s operations with initiation of the fires under investigations and to the haze in question”.",
-      "The firm, which had earlier called for a trading halt, was named in an investigation by environmental group Greenpeace along with Singapore-listed palm oil company First Resources.",
-      "First Resources on Oct 15 said the fires detected within its Indonesian palm oil concessions were largely caused by external blazes spreading across its boundaries.",
-      "Privately held company First Borneo Plantations, which has ownership links to Singapore-incorporated companies, was also named in the Oct 5 report.",
-      "The report identified plantation concessions associated with the three companies where fires and smoke were detected between August and September. A concession grants a company the right to use or develop an area of land.",
-      "Wilmar’s shares closed 1.2% down on Oct 16, while Golden Agri-Resources saw shares tumble 3.5%.",
-      "First Resources saw shares fall by nearly 7%.",
-      "Bumitama Agri’s prices fell by 4.8% before the company requested for a trading halt before the afternoon session.",
-      "In a quirk of timing, fire-protection specialist Deluge started trading on the SGX mainboard on Oct 16.",
-      "The gross proceeds from the offering and cornerstone tranche are about $23.4 million. After deducting listing expenses, net proceeds are expected to be about $20.1 million.",
-      "Deluge said it plans to use the proceeds to invest in infrastructure, facilities and operational capabilities, pursue strategic partnerships through installations and lifecycle services, and strengthen its integrated fire-detection platform.",
-      "Deluge opened at $0.63 and closed 6.7% higher on its first trading day at $0.64.",
-      "Tech stocks started to show signs of recovery on Friday after a six-day rout that wiped some US$1.6 trillion off global semiconductor stocks.",
-      "Hott er-than-expected US inflation data stoked fears of further Federal Reserve rate hikes, along with unease over AI investment, causing the S&P 500 to fall 1.11% – its largest margin since July – while Asia n markets also tumbled.",
-      "Investors have questioned whether companies borrowing heavily to build AI infrastructure can generate enough cash to service their debts.",
-      "Chief executive Hock Tan of semiconductor and infrastructure software company Broadcom added fuel to the fire at a DBS AI event here on Oct 12 when he likened AI investors to gambling in a casino.",
-      "Asian markets, however, recovered ground on Oct 16, with South Korea’s benchmark Kospi index jumping nearly 4%, after falling over 7% the day before. Japan’s Nikkei also rose nearly 2%, after falling 5% on Oct 15.",
-      "US Federal Reserve boss Kevin Warsh also buoyed tech sentiment by saying he believed AI was the most consequential change to the global economy, predicting positive effects even though the path forward might be “bumpy”.",
-      "Speaking at the International Monetary Fund (IMF)-World Bank Annual Meetings in Bangkok on Oct 16, he said AI would bring “huge benefit” to the global economy, although the investment boom would drive prices up in the short term."
+      "TAIPEI – The Taiwan dollar’s weakness led by global jitters over the artificial intelligence trade is masking the island’s underlying economic resilience that favours the currency’s rally into year-end, analysts say.",
+      "While the currency has come under intense pressure in recent sessions, Oversea-Chinese Banking Corporation and ING Bank see it rebounding to 31.60 and 31.50, respectively, implying an appreciation about 3% from current levels.",
+      "Underscoring those projections are Taiwan’s robust economic growth and current account surplus.",
+      "Even though doubts over lofty AI stock valuations continue to drive outflows and weigh on the exchange rate in the short term, analysts expect fundamental trade support to prevail over the coming months.",
+      "“Record trade surpluses and AI-related exports continue to generate underlying Taiwan dollar support,” said Lin Li, head of global markets research for Asia at MUFG Bank.",
+      "“But foreign portfolio outflows, outward investment and the large US dollar-Taiwan dollar yield differential is creating offsetting US dollar demand at the moment.”",
+      "Li sees the Taiwan dollar appreciating to 31.8 per greenback by year-end before gaining further to 30.9 by the end of June 2027.",
+      "The island’s currency dropped to the weakest since April 2025 on Oct 19 after global funds sold local stocks every day earlier in October.",
+      "Taiwan’s current account surplus reached a record high of nearly US$70 billion (S$89.6 billion) in late 2025, buoyed by unprecedented global demand for advanced chips, before narrowing moderately in recent months.",
+      "At the same time, officials raised the island’s full-year economic growth forecast to more than 10%, putting the technology hub on track for its first double-digit expansion since 2010.",
+      "Still, those underlying strengths are clashing with a wave of foreign capital flight. Foreign investors sold NT$302.6 billion (S$11.9 billion) of Taiwan equities on Oct 15, the largest daily outflow on record, pushing the Taiwan dollar to within striking distance of its year-to-date low of around 32.50 per US dollar.",
+      "While analysts do not view that level as a rigid line in the sand for policymakers, they are watching it closely as a comfortable zone for the monetary authority known as the Central Bank of the Republic of China or CBC.",
+      "“The CBC will attempt to keep the Taiwan dollar relatively rangebound,” said Lynn Song, chief economist for Greater China at ING Bank. “I don’t think it is a firm line in the sand to defend, but it does seem that 31.5-32.5 range has been comfortable for them so far in 2026.”",
+      "For Jiuk Choi, Asia Pacific macro strategist at State Street Bank & Trust, the CBC is more likely to focus on easing currency volatility than target a certain level. “That said, we think the 32.4-32.5 range is an important level for US dollar-Taiwan dollar, as it marks the year-to-date high in 2026,” he said.",
+      "Beyond concerns over the tech sector, elevated crude prices are adding further pressure on the Taiwan dollar as the island is an energy importer.",
+      "Moreover, US 10-year Treasury yields sit roughly 300 basis points above similar-tenor Taiwanese sovereign bonds, offering a compelling yield pickup that continues to fuel broad US dollar strength at the expense of regional currencies.",
+      "“Near-term headwinds include foreign equity outflows and a strong US dollar amid a hawkish Federal Reserve,” said Trang Le, foreign exchange and rates specialist, LGT Private Banking.",
+      "“Even so, strong export momentum, robust external balances and the AI-driven semiconductor cycle leave the medium-term bias tilted toward Taiwan dollar appreciation. We expect volatility rather than sustained weakness to be the dominant theme,” she said.",
+      "Currency traders are watching earnings reports from major semiconductor manufacturers, which strategists view as the next key catalyst for cross-border equity flows and currency volatility. Taiwan Semiconductor Manufacturing delivered a better-than-expected revenue outlook on Oct 15, yet it failed to fully calm market worries over the broader AI buildout.",
+      "“Upcoming global tech earnings could increase Taiwan dollar volatility, particularly given the market’s heightened sensitivity to AI-related capex, profitability, and Chinese competition,” said Choi from State Street Bank & Trust.",
+      "He sees near-term room for Taiwan dollar weakness on AI trade doubts, but expects a recovery to 31.80 per US dollar by year-end.",
+      "“We see Taiwan dollar is one of the best hedge currencies to US dollar strength as capital and current account flows remain strong while it has one of the lowest volatilities across emerging markets,” he said. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Malaysia’s BN to announce candidates for Melaka polls on Oct 28: State chairman",
-    "teaser": "Ab Rauf Yusoh, who is also Melaka’s caretaker chief minister, said the candidates would carry the responsibility of continuing the coalition’s mandate and securing victory at the polls.",
-    "url": "https://www.channelnewsasia.com/asia/malaysias-bn-announce-candidates-melaka-polls-oct-28-state-chairman-6469281",
+    "headline": "After years of frustration, Davidovich Fokina wins third title of 2026",
+    "teaser": "After years of frustration, Davidovich Fokina wins third title of 2026",
+    "url": "https://www.channelnewsasia.com/sport/after-years-frustration-davidovich-fokina-wins-third-title-2026-6470961",
     "fullText": [
-      "MELAKA: Malaysia’s Barisan Nasional (BN) coalition will announce its candidates for the upcoming Melaka state election on Oct 28, according to the state chairman.",
-      "Ab Rauf Yusoh, who is also Melaka’s caretaker chief minister, said the candidates would carry the responsibility of continuing the coalition’s mandate and securing victory at the polls.",
-      "The announcement was made at the launch of BN’s election machinery for the Tangga Batu parliamentary constituency in Sungai Udang on Saturday (Oct 17).",
-      "On Friday, Ab Rauf said BN’s election preparations had entered their final stage, including negotiations with other parties to finalise electoral cooperation and seat allocations.",
-      "\"The outcome will be made known following the final round of negotiations, which will take place soon,\" he said, as quoted by local media platform, The Star.",
-      "Polling for the Melaka state election is scheduled for Nov 14, with nomination day on Oct 31 and early voting on Nov 10.",
-      "Nearly 700,000 voters in Melaka are set to cast their ballots in the state polls.",
-      "Ab Rauf had announced the official dissolution of the state legislative assembly on Sep 23, paving the way for an election that was otherwise due by February 2027.",
-      "Before the dissolution, the state government was led by BN, which won 21 of the 28 seats in the 2021 state election, while Pakatan Harapan (PH) secured five seats and Perikatan Nasional (PN) claimed two seats.",
-      "PH joined the state government in 2023 when Ab Rauf became chief minister and reshuffled the executive council to reflect the PH-BN partnership at the federal level following the 2022 general election that had resulted in a hung parliament.",
-      "PH however withdrew its support for the state government in July in protest against a constitutional amendment allowing for the appointment of nominated assemblymen.",
-      "The upcoming polls in Melaka come just months after BN’s landslide victories in the Negeri Sembilan and Johor state elections.",
-      "It won 25 of 36 seats in Negeri Sembilan on Aug 1 as part of a pact with the opposition PN, and 48 of 56 seats in the Johor state election in July where it had contested solo.",
-      "An automated curation of our top stories to start your day."
+      "Oct 19 : Alejandro Davidovich Fokina waited seven years for an ATP Tour title then three came along at once.",
+      "The Spaniard, who made his tour debut in April 2019, captured the Shanghai Masters title with a 1-6 7-6(5) 6-4 win over compatriot Rafael Jodar on Sunday, earning him a third career trophy after his wins in Chengdu last month and Mallorca in June.",
+      "\"I cannot describe with words what I achieved in this Chinese swing,\" Davidovich Fokina, who lost his first five ATP finals, told a press conference.",
+      "\"I never thought I would have two titles after two months out. But I'm really, really happy. I think my team (were) pushing me. It was difficult when I was at home, and they were pushing me very hard.",
+      "The 27-year-old, whose win in Chengdu came in his first tournament back after a two-month layoff due to a back injury, has risen from number 26 in the world rankings to a career-high 13.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
     "headline": "MOM Takes Firm Enforcement Action Against False Declarations in Work Pass Applications",
     "teaser": "The Ministry of Manpower (MOM) takes a serious view of false declarations in work pass applications and will take firm enforcement action against those who flout the law. Seven Employers and an Administrative Assistant Charged for False Declarations of CPF contributions 2 On 8 October 2026, seven employers and an admin",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1610-mom-takes-firm-enforcement-action-against-false-declarations-in-work-pass-applications"
+  },
+  "lifeVocab": [
+    {
+      "en": "triage",
+      "cn": "预诊 / 分诊",
+      "def": "the preliminary assessment of patients to determine the urgency of their need for treatment",
+      "ex": "Upon arrival at the polyclinic, patients proceed to triage so nurses can assess their condition.",
+      "emoji": "🏥"
+    },
+    {
+      "en": "subsidy",
+      "cn": "医疗津贴 / 补助",
+      "def": "money granted by the government to help pay for medical costs",
+      "ex": "Singapore citizens receive a heavy subsidy for standard polyclinic consultations.",
+      "emoji": "💵"
+    },
+    {
+      "en": "referral",
+      "cn": "转诊信",
+      "def": "an official recommendation to see a specialist doctor at a hospital",
+      "ex": "The general practitioner gave me a referral to see an orthopaedic specialist.",
+      "emoji": "📄"
+    },
+    {
+      "en": "prescription",
+      "cn": "处方药单",
+      "def": "an official note from a doctor directing the preparation and use of a medicine",
+      "ex": "Collect your medicine at the pharmacy counter after your doctor issues the prescription.",
+      "emoji": "💊"
+    },
+    {
+      "en": "dispensary",
+      "cn": "药房 / 配药处",
+      "def": "an office or counter in a clinic where medicines are prepared and given out",
+      "ex": "There was a short wait at the polyclinic dispensary this morning.",
+      "emoji": "🏪"
+    },
+    {
+      "en": "chronic condition",
+      "cn": "慢性疾病",
+      "def": "a long-human illness or health issue that requires ongoing medical care",
+      "ex": "Many elderly patients visit the clinic quarterly to manage chronic conditions like hypertension.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "appointment booking",
+      "cn": "预约挂号",
+      "def": "arranging a specific time to see a healthcare professional in advance",
+      "ex": "You can save time by doing your appointment booking through the HealthHub application.",
+      "emoji": "📅"
+    },
+    {
+      "en": "consultation",
+      "cn": "问诊 / 就诊",
+      "def": "a formal meeting with a doctor to seek medical advice or treatment",
+      "ex": "The consultation fee is heavily discounted for Pioneer Generation seniors.",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "en": "fasting blood test",
+      "cn": "空腹抽血检查",
+      "def": "a blood examination that requires refraining from eating or drinking beforehand",
+      "ex": "Remember that a fasting blood test requires you to refrain from eating for ten hours prior.",
+      "emoji": "🚫"
+    },
+    {
+      "en": "follow-up",
+      "cn": "复诊",
+      "def": "a subsequent medical examination to monitor a patient's progress",
+      "ex": "Schedule a follow-up visit in two months to check your cholesterol levels.",
+      "emoji": "🔄"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "encroach",
+      "ipa": "/ɪnˈkrəʊtʃ/",
+      "pos": "v.",
+      "cn": "侵占 / 逐步侵犯",
+      "def": "to intrude gradually on a person's territory, rights, or market share",
+      "ex": "Agile tech startups continue to encroach on traditional banking domains."
+    },
+    {
+      "w": "recalibrate",
+      "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
+      "pos": "v.",
+      "cn": "重新调整 / 重新校准",
+      "def": "to alter or adjust a strategy or system in response to new circumstances",
+      "ex": "The executive committee must recalibrate its expansion strategy following the market downturn."
+    },
+    {
+      "w": "unassailable",
+      "ipa": "/ˌʌn.əˈseɪ.lə.bəl/",
+      "pos": "adj.",
+      "cn": "无懈可击的 / 不可攻破的",
+      "def": "unable to be attacked, questioned, or defeated",
+      "ex": "The patent portfolio gave the firm an unassailable market advantage."
+    },
+    {
+      "w": "silo",
+      "ipa": "/ˈsaɪ.ləʊ/",
+      "pos": "n.",
+      "cn": "孤立部门 / 信息孤岛",
+      "def": "a system, department, or group that operates in isolation from others",
+      "ex": "Breaking down corporate silos improved collaboration between marketing and engineering."
+    },
+    {
+      "w": "impasse",
+      "ipa": "/ˈæm.pɑːs/",
+      "pos": "n.",
+      "cn": "僵局",
+      "def": "a situation in which no progress is possible, especially because of disagreement",
+      "ex": "Contract negotiations reached an impasse over performance-based bonus clauses."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案 / 突发事件",
+      "def": "a future event or circumstance that is possible but cannot be predicted with certainty",
+      "ex": "The CFO requested a contingency budget to handle potential supply chain disruptions."
+    },
+    {
+      "w": "amalgamate",
+      "ipa": "/əˈmæl.ɡə.meɪt/",
+      "pos": "v.",
+      "cn": "合并 / 融合",
+      "def": "to combine or unite to form one organization or structure",
+      "ex": "The two logistics entities agreed to amalgamate into a single regional powerhouse."
+    },
+    {
+      "w": "insidious",
+      "ipa": "/ɪnˈsɪd.i.əs/",
+      "pos": "adj.",
+      "cn": "潜移默化的 / 暗中危害的",
+      "def": "proceeding in a gradual, subtle way, but with harmful effects",
+      "ex": "Inflation has an insidious effect on consumer purchasing power over time."
+    },
+    {
+      "w": "stringent",
+      "ipa": "/ˈstrɪn.dʒənt/",
+      "pos": "adj.",
+      "cn": "严格的 / 严厉的",
+      "def": "strict, precise, and exacting regulations or conditions",
+      "ex": "Financial institutions face stringent anti-money laundering compliance standards."
+    },
+    {
+      "w": "pivotal",
+      "ipa": "/ˈpɪv.ə.təl/",
+      "pos": "adj.",
+      "cn": "关键的 / 枢纽的",
+      "def": "of crucial importance in relation to the development or success of something",
+      "ex": "Securing key regulatory approval was a pivotal milestone for the commercial launch."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Steps Up Regional Clean Energy Imports",
+    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈsel.ə.reɪ.tɪŋ/ (v.) increasing in speed or pace — 加速\">accelerating</span> its transition toward clean energy by importing low-carbon electricity from neighbouring Southeast Asian nations. Conditional approvals have recently been granted for large-scale power projects in Indonesia and Vietnam. Analysts note that <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/daɪˈvɜː.sɪ.faɪ.ɪŋ/ (v.) enlarging or varying the range of products or sources — 多样化\">diversifying</span> energy sources is essential for the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/lænd skeəs/ (adj.) having limited available land area — 土地匮乏的\">land-scarce</span> island nation to achieve its target of net-zero emissions by 2050."
+  },
+  "economistArticle": {
+    "title": "The Italian Job: Mediterranean Firms Hunt in Germany",
+    "paras": [
+      "When UniCredit unexpectedly built a sizeable stake in Commerzbank, Germany’s second-largest lender, politicians in Berlin reacted with predictable <span class=\"voc\">dismay</span>. Chancellor Olaf Scholz described the move as an unfriendly act, warning against hostile takeovers in the financial sector. Yet UniCredit’s bold <span class=\"voc\">maneuver</span> is far from an isolated corporate raid. Across energy, manufacturing, and logistics, Italian enterprises are quietly devouring German assets at an unprecedented tempo.",
+      "<span class=\"gem\">For decades, the economic relationship between the two nations was defined by a clear hierarchy.</span> Formidable German conglomerates viewed Italy primarily as a supplier of specialized components or a sun-drenched holiday destination. Today, however, sluggish growth and <span class=\"voc\">exorbitant</span> energy tariffs in Germany have weakened <span class=\"voc\">indigenous</span> champions, leaving vulnerable targets exposed to aggressive foreign suitors with healthier balance sheets.",
+      "Consider the energy sector, where Italian giants like Enel have expanded their reach across Central Europe. Italian manufacturing groups, buoyed by <span class=\"voc\">nimble</span> supply chains and lower operational costs, are acquiring distressed medium-sized industrial firms across Baden-Württemberg and Bavaria. Italian capital is no longer mere emergency relief; it is driving strategic consolidation in the heartland of European industry.",
+      "German commentators <span class=\"voc\">lament</span> this trend as an erosion of national industrial <span class=\"voc\">sovereignty</span>. However, pragmatic economists argue that cross-border consolidation is precisely what the European single market was created to foster. <span class=\"gem\">If European firms are to compete against American tech behemoths and state-subsidised Chinese rivals, scale matters far more than national pride.</span>",
+      "As Berlin grapples with structural <span class=\"voc\">stagnation</span>, Milan’s corporate titans are showing no signs of slowing down. The assault on Commerzbank may be generating the loudest headlines, but the broader Italian acquisition spree signals a historic rebalancing of power within Europe’s economic core."
+    ],
+    "cn": "当意信银行（UniCredit）出人意料地增持德国第二大银行商业银行（Commerzbank）的大量股份时，柏林的政治家们做出了可预测的惊慌反应。总理奥拉夫·朔尔茨将此举描述为非友善行为，警告要防范金融领域的敌意收购。然而，意信银行的大胆举动绝非孤立的企业突袭。在能源、制造和物流领域，意大利企业正在以前所未有的速度悄然吞噬德国资产。\n\n几十年来，两国之间的经济关系一直由清晰的等级制度决定。令人敬畏的德国企业集团主要将意大利视为专业零部件的供应商或阳光明媚的度假胜地。然而，如今德国缓慢的增长和高昂的能源关税削弱了本土冠军企业，使脆弱的目标暴露在拥有更健康资产负债表的积极外国求购者面前。\n\n以能源领域为例，意大网巨人如Enel已将其触角延伸至中欧各地。凭借灵活的供应链和较低的运营成本，意大利制造集团正在收购巴登-符腾堡州和巴伐利亚州陷入困境的中型工业企业。意大利资本不再仅仅是紧急救济；它正在推动欧洲工业核心地带的战略整合。\n\n德国评论员痛惜这一趋势是国家工业主权的削弱。然而，务实的经济学家认为，跨国整合正是建立欧洲单一市场所要促进的。如果欧洲企业要与美国科技巨头和受国家补贴的中国对手竞争，规模比国家自豪感更为重要。\n\n随着柏林努力应对结构性停滞，米兰的企业巨头们没有表现出任何放缓的迹象。对商业银行的进攻可能引发了最响亮的新闻头条，但更广泛的意大利收购潮预示着欧洲经济核心内部力量的历史性重新平衡。",
+    "vocab": [
+      {
+        "w": "dismay",
+        "ipa": "/dɪsˈmeɪ/",
+        "pos": "n.",
+        "mean": "惊恐 / 沮丧",
+        "def": "distress caused by something unexpected",
+        "ex": "Politicians reacted with dismay to the hostile takeover bid."
+      },
+      {
+        "w": "maneuver",
+        "ipa": "/məˈnuː.vər/",
+        "pos": "n.",
+        "mean": "策略 / 巧妙操纵",
+        "def": "a movement or series of moves requiring skill and care",
+        "ex": "The bold stock purchase was a calculated strategic maneuver."
+      },
+      {
+        "w": "conglomerate",
+        "ipa": "/kənˈɡlɒm.ər.ət/",
+        "pos": "n.",
+        "mean": "大型企业集团",
+        "def": "a multi-industry company consisting of distinct businesses",
+        "ex": "The German industrial conglomerate streamlined its core divisions."
+      },
+      {
+        "w": "exorbitant",
+        "ipa": "/ɪɡˈzɔː.bɪ.tənt/",
+        "pos": "adj.",
+        "mean": "过高的 / 不合理的",
+        "def": "unreasonably high in price or cost",
+        "ex": "Exorbitant electricity prices forced factories to trim output."
+      },
+      {
+        "w": "indigenous",
+        "ipa": "/ɪnˈdɪdʒ.ɪ.nəs/",
+        "pos": "adj.",
+        "mean": "本土的",
+        "def": "originating or occurring naturally in a particular place",
+        "ex": "Policy shifts aim to safeguard indigenous technology suppliers."
+      },
+      {
+        "w": "nimble",
+        "ipa": "/ˈnɪm.bəl/",
+        "pos": "adj.",
+        "mean": "灵活敏捷的",
+        "def": "quick and light in movement or action",
+        "ex": "Nimble mid-sized firms adapted faster to shifting demand."
+      },
+      {
+        "w": "lament",
+        "ipa": "/ləˈment/",
+        "pos": "v.",
+        "mean": "痛惜 / 表达遗憾",
+        "def": "express regret or disappointment about something",
+        "ex": "Industry leaders lament the decline in capital expenditure."
+      },
+      {
+        "w": "sovereignty",
+        "ipa": "/ˈsɒv.rɪn.ti/",
+        "pos": "n.",
+        "mean": "主权 / 独立地位",
+        "def": "supreme power or ultimate authority",
+        "ex": "Preserving technological sovereignty is a top priority in Brussels."
+      },
+      {
+        "w": "behemoth",
+        "ipa": "/bɪˈhiː.məθ/",
+        "pos": "n.",
+        "mean": "巨型企业 / 巨兽",
+        "def": "a huge or monumental enterprise or organization",
+        "ex": "Silicon Valley behemoths dominate global digital advertising."
+      },
+      {
+        "w": "stagnation",
+        "ipa": "/stæɡˈneɪ.ʃən/",
+        "pos": "n.",
+        "mean": "停滞不前",
+        "def": "a state of not flowing, moving, or growing",
+        "ex": "Structural economic stagnation has capped wage growth for years."
+      }
+    ],
+    "gems": [
+      {
+        "s": "For decades, the economic relationship between the two nations was defined by a clear hierarchy.",
+        "why": "This sentence uses antithetical framing to set up a sharp historical contrast before delivering a dramatic shift in the narrative. 本句通过铺垫历史上的清晰等级对比，为随后引入的戏剧性经济逆转奠定基调。"
+      },
+      {
+        "s": "If European firms are to compete against American tech behemoths and state-subsidised Chinese rivals, scale matters far more than national pride.",
+        "why": "This sentence employs conditional phrasing and contrasting binaries to deliver an authoritative argumentative takeaway. 本句运用条件假设句与概念对比，有力地传达了重规模轻观念的论证结论。"
+      }
+    ]
   }
 }
