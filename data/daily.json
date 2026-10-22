@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T05:01:27.083166+00:00",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T05:03:58.293884+00:00",
   "economist": {
     "headline": "The late Perry Mehrling explained the hierarchy of money",
     "teaser": "The course for par",
@@ -8,38 +8,43 @@
     "vocab": []
   },
   "st": {
-    "headline": "Singapore’s DayOne said to weigh options for US IPO after data centre rout",
-    "teaser": "Deliberations are ongoing and DayOne has not made any final decisions, people familiar with the matter said.",
-    "url": "https://www.straitstimes.com/business/singapores-dayone-said-to-weigh-options-for-us-ipo-after-data-centre-rout",
+    "headline": "Asian markets dip as investors weigh tech earnings, Gulf tensions",
+    "teaser": "Concerns over AI and uncertainty in the Gulf lingered.",
+    "url": "https://www.straitstimes.com/business/asian-markets-dip-as-investors-weigh-tech-earnings-gulf-tensions",
     "fullText": [
-      "DayOne Data Centers is weighing options for its US initial public offering , including a potential delay or size cut, as volatility around data centres increases, according to people familiar with the matter.",
-      "While Singapore-based DayOne has been waiting for the right window to launch the IPO, it has also been considering the possibility of pushing back the share sale until the market recovers, the people said.",
-      "Other options include going ahead with a smaller listing that may raise US$2.5 billion (S$3.2 billion) to US$3 billion, roughly half of what it had originally aimed for, the people said.",
-      "DayOne, whose backers include Coatue and Hillhouse, is continuing to engage with potential investors and still wants to move forward as soon as the market allows, the people said.",
-      "The company was initially considering raising as much as US$5 billion from the listing as soon as the fourth quarter, people familiar with the matter said previously.",
-      "It had been eyeing a valuation of about US$20 billion, the people have said.",
-      "Deliberations are ongoing and DayOne has not made any final decisions, the people said, asking not to be identified because the information is private. The company could still opt to move ahead with the offering in the coming weeks, according to the people.",
-      "While data centres have drawn global investor demand amid a boom in sectors related to artificial intelligence, a more negative sentiment has started to have ripple effects on IPOs. DayOne has been raising billions of dollars in private funding rounds as it seeks capital to build out its pipeline.",
-      "Australian data centre company Firmus Grid pulled its roughly US$5 billion IPO when investors balked at the valuation it sought, while AirTrunk, which also operates data centres, delayed a planned real estate investment trust IPO in Singapore to 2027.",
-      "South Korean digital infrastructure company Elice plunged 32% in its Seoul trading debut on Oct 20. Coreweave’s shares have more than halved since their May peak, and Nscale is facing pushback over its target IPO valuation, Bloomberg News reported.",
-      "On Oct 21, shares of Australian data center operator Nextdc plummeted after it cut earnings guidance.",
-      "Some investors are hoping that the recent market volatility will pass after the US midterm elections on Nov 3. They are also looking ahead to the performance of Anthropic PBC’s upcoming listing as an important gauge of sentiment toward the AI sector.",
-      "DayOne filed for a US IPO earlier in October. The offering is being led by Morgan Stanley, JPMorgan Chase & Co., Bank of America and Citigroup IFR reported on Oct 19 that DayOne was gathering more investor feedback before launching the share sale.",
-      "DayOne is running or developing data centres in Singapore, Malaysia , Indonesia, Thailand, Hong Kong, Japan, Finland and Spain.",
-      "Other backers include GDS Holdings, the SoftBank Vision Fund and Citadel’s Ken Griffin. BLOOMBERG"
+      "HONG KONG – Asian stocks struggled to stay above water in early trade on Oct 22 , as tech earnings optimism provided only fleeting support amid lingering concerns over AI and uncertainty in the Gulf .",
+      "MSCI’s broadest index of Asia-Pacific shares outside Japan was down 0.2%, on track for a fourth straight week of decline. Japan’s Nikkei stock index gave up earlier gains to trade 0.4% lower, while South Korean shares were down more than 1%.",
+      "US stock futures, the S&P 500 e-minis, were down 0.4% at 7,765.8.",
+      "Overnight, the tech-heavy Nasdaq led Wall Street to a higher close as better-than-expected earnings reports from market heavyweights helped ease some concerns over the sustainability and profitability of massive AI build-outs.",
+      "SpaceX posted its first profit as a public company, Meta reported third-quarter revenue that beat expectations, while AI server maker Super Micro forecast quarterly revenue and profit margin that both topped estimates.",
+      "However, Meta’s plan to issue non-voting Class C common stock drew renewed scrutiny on AI spending.",
+      "“There’s a lot of noise out there at the moment and investors are still digesting this morning’s results,” said Kyle Rodda, senior financial market analyst at Capital.com",
+      "“Also, we’re really only at the start of the meaty part of earnings season, which is coming at the same time that investors are tackling the uncertainty from an upcoming Fed decision, geopolitical risks, and US mid-terms.”",
+      "In a sign of subdued risk sentiment, the yield on benchmark 10-year Treasury notes was down 4.2 basis points at 5.1065%, while the yield on 30-year notes was at a one-week low of 5.3968%.",
+      "Meanwhile, Brent crude rose 1.1% to US$110.03 a barrel, near a five-month high.",
+      "The US ordered diplomats to leave Saudi Arabia amid Houthi strikes, while the New York Times reported the US and Israeli militaries had developed specific plans for renewed attacks on Iran after the US midterm elections, which take place on Nov 3.",
+      "In currencies, the dollar index, which tracks the greenback against a basket of currencies of other major trading partners, dipped to 102.2. The euro was little changed at US$1.1231.",
+      "The yen was also flat at 158.125, after Deputy Bank of Japan Governor Ryozo Himino signalled his readiness to raise borrowing costs. The Korean won was muted at 1325.9, after the Bank of Korea left its benchmark interest rate unchanged at 3.00% on Oct 22 .",
+      "Gold was slightly lower at US$4115.5 per ounce.",
+      "Bitcoin was down 0.4% at US$84,284.05, while ether was 0.6% lower at US$2,476.34. REUTERS"
     ]
   },
   "cna": {
-    "headline": "BOJ's Himino signals readiness to raise borrowing costs",
-    "teaser": "BOJ's Himino signals readiness to raise borrowing costs",
-    "url": "https://www.channelnewsasia.com/business/bojs-himino-signals-readiness-raise-borrowing-costs-6477911",
+    "headline": "South Korea's celebrity shark back in canal, prompting new rescue bid",
+    "teaser": "The shark - nicknamed Bukhangi by fans - has drawn more than 1.6 million visitors to a canal in South Korea’s Busan since it was first spotted there last month.",
+    "url": "https://www.channelnewsasia.com/east-asia/south-korea-shark-canal-new-rescue-bid-bukhangi-6481361",
     "fullText": [
-      "TOKYO, Oct 21 : Japan's underlying inflation is quite close to the central bank's 2 per cent target and financial conditions remain loose, Deputy Bank of Japan Governor Ryozo Himino said on Wednesday, signalling readiness to raise borrowing costs.",
-      "While rising fuel and raw material costs are pushing up prices, brisk global AI demand is also putting upward pressure on prices by boosting exports and capital expenditure, Himino told parliament.",
-      "\"Given medium- and long-term inflation expectations continue to heighten, underlying inflation is quite close to 2 per cent and will likely converge to levels consistent with our price target,\" Himino said.",
-      "\"Even after last month's rate hike, financial conditions remain accommodative\" as seen in still-low real borrowing costs and strong growth in bank lending, he said.",
-      "\"Given that inflation risks are high, delaying necessary adjustment to monetary support could materialise such risks and hurt the economy in the long run,\" Himino said, calling for the need to continue raising interest rates.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "SEOUL: A shark that became a viral sensation after getting stuck in a South Korean canal returned hours after being coaxed out, authorities said on Thursday (Oct 22), prompting another attempt to guide it back to the sea.",
+      "The shark - nicknamed Bukhangi by fans - was first spotted in the artificial waterway in the southeastern port city of Busan last month, with environmental activists linking its appearance to climate change.",
+      "Officials initially opted to wait for the shark to leave on its own, but took a more proactive approach amid growing concerns for its well-being.",
+      "Workers used nets fixed to floating pontoons late on Wednesday to guide the animal gradually, but it dived beneath a net and returned to the canal overnight, authorities said.",
+      "She said a fresh attempt began on Thursday morning, with authorities raising the outer net to allow Bukhangi to move from the canal.",
+      "Before Wednesday, authorities had twice tried and failed to steer Bukhangi back to sea, using water jets and then nets.",
+      "The three-metre \"dusky\" shark, a species typically found in tropical climates, amassed a huge following, drawing more than 1.6 million people to the Busan canal for a glimpse.",
+      "It has been celebrated for its unexpected boost to the local economy, with Busan Mayor Chun Jae-soo thanking it for generating publicity he said would otherwise have cost \"trillions\".",
+      "But environmental groups link its initial appearance in the canal to warming seas, saying rising temperatures are pushing warm-water fish northwards, with subtropical sharks following in pursuit.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday.",
+      "An automated curation of our top stories to start your day."
     ]
   },
   "mom": {
