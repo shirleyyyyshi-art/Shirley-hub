@@ -1,55 +1,330 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T05:03:58.293884+00:00",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T05:03:49.224183+00:00",
   "economist": {
-    "headline": "The late Perry Mehrling explained the hierarchy of money",
-    "teaser": "The course for par",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+    "headline": "New research tries to defuse the “China shock”",
+    "teaser": "An almighty fight over an influential finding",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
     "vocab": []
   },
   "st": {
-    "headline": "Asian markets dip as investors weigh tech earnings, Gulf tensions",
-    "teaser": "Concerns over AI and uncertainty in the Gulf lingered.",
-    "url": "https://www.straitstimes.com/business/asian-markets-dip-as-investors-weigh-tech-earnings-gulf-tensions",
+    "headline": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+    "teaser": "The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion.",
+    "url": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
     "fullText": [
-      "HONG KONG – Asian stocks struggled to stay above water in early trade on Oct 22 , as tech earnings optimism provided only fleeting support amid lingering concerns over AI and uncertainty in the Gulf .",
-      "MSCI’s broadest index of Asia-Pacific shares outside Japan was down 0.2%, on track for a fourth straight week of decline. Japan’s Nikkei stock index gave up earlier gains to trade 0.4% lower, while South Korean shares were down more than 1%.",
-      "US stock futures, the S&P 500 e-minis, were down 0.4% at 7,765.8.",
-      "Overnight, the tech-heavy Nasdaq led Wall Street to a higher close as better-than-expected earnings reports from market heavyweights helped ease some concerns over the sustainability and profitability of massive AI build-outs.",
-      "SpaceX posted its first profit as a public company, Meta reported third-quarter revenue that beat expectations, while AI server maker Super Micro forecast quarterly revenue and profit margin that both topped estimates.",
-      "However, Meta’s plan to issue non-voting Class C common stock drew renewed scrutiny on AI spending.",
-      "“There’s a lot of noise out there at the moment and investors are still digesting this morning’s results,” said Kyle Rodda, senior financial market analyst at Capital.com",
-      "“Also, we’re really only at the start of the meaty part of earnings season, which is coming at the same time that investors are tackling the uncertainty from an upcoming Fed decision, geopolitical risks, and US mid-terms.”",
-      "In a sign of subdued risk sentiment, the yield on benchmark 10-year Treasury notes was down 4.2 basis points at 5.1065%, while the yield on 30-year notes was at a one-week low of 5.3968%.",
-      "Meanwhile, Brent crude rose 1.1% to US$110.03 a barrel, near a five-month high.",
-      "The US ordered diplomats to leave Saudi Arabia amid Houthi strikes, while the New York Times reported the US and Israeli militaries had developed specific plans for renewed attacks on Iran after the US midterm elections, which take place on Nov 3.",
-      "In currencies, the dollar index, which tracks the greenback against a basket of currencies of other major trading partners, dipped to 102.2. The euro was little changed at US$1.1231.",
-      "The yen was also flat at 158.125, after Deputy Bank of Japan Governor Ryozo Himino signalled his readiness to raise borrowing costs. The Korean won was muted at 1325.9, after the Bank of Korea left its benchmark interest rate unchanged at 3.00% on Oct 22 .",
-      "Gold was slightly lower at US$4115.5 per ounce.",
-      "Bitcoin was down 0.4% at US$84,284.05, while ether was 0.6% lower at US$2,476.34. REUTERS"
+      "SEOUL – SK Hynix on Oct 23 put on hold a planned US listing for its Solidigm chip unit due to market volatility – a move which also comes after the South Korean authorities raised concerns that the deal could undermine shareholder interests.",
+      "A listing of Solidigm, a former Intel business that specialises in NAND flash memory and solid-state drives, had been under consideration to help fund a new US factory and meet surging demand for chips in artificial intelligence data centres.",
+      "It could also have funded share cancellations and buybacks, SK Hynix said in a statement.",
+      "People familiar with the now-suspended initial public offering plans had said that the share sale could have raised US$15 billion (S$19.1 billion) valued the unit at US$150 billion.",
+      "The South Korean chip giant, which became dual-listed with a debut on the Nasdaq in July, said it plans to continue to explore ways to fund Solidigm’s expansion and enhance shareholder value, including reviewing the timing, scale and financing of future investments.",
+      "“This decision does not reflect any change in Solidigm’s growth prospects or investment needs,” it said.",
+      "It was not immediately clear how the decision would be received by the Trump administration, which has put pressure on foreign chipmakers to build new facilities in the US and which has been holding discussions with SK Hynix.",
+      "According to sources familiar with the matter, SK Hynix has sought to use the prospect of a potential factory in the US as a bargaining chip, linking it to hoped-for approval from Washington that would allow US chipmaking equipment to be exported to China to increase production there.",
+      "The South Korean authorities have said they are discussing semiconductor investments in the US with Washington as part of broader bilateral talks, but they are not part of negotiations about a US$350 billion investment commitment South Korea made to the US in 2025 in exchange for lower US tariffs.",
+      "Across the globe, sentiment towards AI and chip-related stocks has retreated sharply as investors increasingly fret over whether rising interest rates will mean that companies involved in building out the AI supply chain will make sufficient earnings to repay their debts.",
+      "At the same time, in South Korea, concerns also have mounted that a listing of Solidigm in the US would dilute the interests of SK Hynix shareholders.",
+      "Financial Supervisory Service governor Lee Chan-jin told a parliamentary hearing this week that regulators were examining whether Solidigm’s potential US IPO would require a review under the country’s dual-listing restrictions, which were tightened in July to strengthen shareholder protections.",
+      "In addition to broad concerns about the AI sector, worries that a Solidigm IPO could dilute SK Hynix shareholders’ interests have weighed on the chipmaker’s shares, which have tumbled 31% since news of the potential listing emerged in late September.",
+      "That compares with a 20% decline in the benchmark KOSPI index over the same period.",
+      "The Korea Corporate Governance Forum, an independent body, welcomed SK Hynix’s decision.",
+      "Instead of a US listing for Solidigm, the chipmaker, which has made massive earnings gains on the AI boom, could instead inject capital through its AI Company entity, even if Solidigm requires tens of trillions of won in capital expenditure, it said.",
+      "Citing average estimates from South Korean brokerages, it said SK Hynix’s cash holdings were projected to reach 456 trillion won (S$439.9 billion) by the end of 2027.",
+      "SK Hynix shares were up 1.4% in afternoon trade, outperforming a 1.4% decline in the KOSPI. REUTERS"
     ]
   },
   "cna": {
-    "headline": "South Korea's celebrity shark back in canal, prompting new rescue bid",
-    "teaser": "The shark - nicknamed Bukhangi by fans - has drawn more than 1.6 million visitors to a canal in South Korea’s Busan since it was first spotted there last month.",
-    "url": "https://www.channelnewsasia.com/east-asia/south-korea-shark-canal-new-rescue-bid-bukhangi-6481361",
+    "headline": "Singapore’s core inflation eases to 2% in September on lower services, retail prices",
+    "teaser": "A \"sharp and sustained surge\" in global energy or food prices could lift Singapore’s import costs by more than projected, say MAS and METI.",
+    "url": "https://www.channelnewsasia.com/singapore/singapore-inflation-september-2026-mas-mti-6485326",
     "fullText": [
-      "SEOUL: A shark that became a viral sensation after getting stuck in a South Korean canal returned hours after being coaxed out, authorities said on Thursday (Oct 22), prompting another attempt to guide it back to the sea.",
-      "The shark - nicknamed Bukhangi by fans - was first spotted in the artificial waterway in the southeastern port city of Busan last month, with environmental activists linking its appearance to climate change.",
-      "Officials initially opted to wait for the shark to leave on its own, but took a more proactive approach amid growing concerns for its well-being.",
-      "Workers used nets fixed to floating pontoons late on Wednesday to guide the animal gradually, but it dived beneath a net and returned to the canal overnight, authorities said.",
-      "She said a fresh attempt began on Thursday morning, with authorities raising the outer net to allow Bukhangi to move from the canal.",
-      "Before Wednesday, authorities had twice tried and failed to steer Bukhangi back to sea, using water jets and then nets.",
-      "The three-metre \"dusky\" shark, a species typically found in tropical climates, amassed a huge following, drawing more than 1.6 million people to the Busan canal for a glimpse.",
-      "It has been celebrated for its unexpected boost to the local economy, with Busan Mayor Chun Jae-soo thanking it for generating publicity he said would otherwise have cost \"trillions\".",
-      "But environmental groups link its initial appearance in the canal to warming seas, saying rising temperatures are pushing warm-water fish northwards, with subtropical sharks following in pursuit.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday.",
-      "An automated curation of our top stories to start your day."
+      "SINGAPORE: Singapore’s core inflation eased to 2 per cent year-on-year in September, down from 2.2 per cent in August, according to official figures released on Friday (Oct 23).",
+      "This was because of lower inflation in services, retail and other goods and private transport, the Monetary Authority of Singapore (MAS) and Ministry of Energy, Trade and Industry (METI) said in a joint media release.",
+      "Core prices, which exclude accommodation and private transport, rose by 0.1 per cent month-on-month in September.",
+      "Overall inflation, as measured by the Consumer Price Index-All Items, fell to 2.2 per cent year-on-year in September from 2.3 per cent in August, due to lower core inflation and private transport inflation.",
+      "Official data released on Friday showed that services inflation eased to 1.7 per cent in September from 2 per cent in August due to a smaller increase in point-to-point transport service costs and a larger decline in telecommunication service prices.",
+      "Retail and other goods inflation also moderated to 1.2 per cent in September from 1.8 per cent in August as furniture prices declined and clothing prices rose at a slower pace.",
+      "Private transport inflation also fell to 7.1 per cent in September from 7.5 per cent in August due to a more gradual increase in car prices.",
+      "Electricity and gas inflation was unchanged at 8.7 per cent as prices rose at a similar pace in both September and August.",
+      "MAS and METI noted that the regulated electricity tariff for each quarter is set based largely on the average natural gas prices in the first two and a half months of the preceding quarter, among other factors.",
+      "“The increase in the regulated electricity tariff in the third quarter of 2026 is thus the result of the spike in global energy prices over the period of April to mid-June 2026,” the authorities said.",
+      "Accommodation inflation edged up to 0.9 per cent in September from 0.8 per cent in August, with housing rents increasing at a faster pace.",
+      "Food inflation also rose to 2.4 per cent in September from 2.3 per cent in August due to higher inflation in both non-cooked food and food services.",
+      "The authorities said that imported cost pressures are expected to remain firm for Singapore in the near term.",
+      "“Energy commodity prices have risen anew and are projected to remain high in the near term,” said MAS and METI.",
+      "“Global and regional food prices are also expected to pick up as costlier inputs and adverse weather patterns affect food production.”",
+      "But imported inflation should ease over 2027 as the effects of temporary supply disruptions fade, the authorities added.",
+      "On the domestic front, price pressures are likely to stay subdued, with unit labour costs in the services sector expected to remain contained amid continued productivity gains, MAS and METI said.",
+      "Enhanced government subsidies, such as for healthcare and education, will also dampen services inflation, the authorities added.",
+      "Taking into account these factors, core inflation and overall inflation are expected to remain slightly elevated in the immediate quarters ahead before easing more discernibly from mid-2027.",
+      "Core inflation is expected to average 1.5 per cent to 2 per cent in 2026, in line with MAS' full-year forecast range . It is also expected to average 1.5 per cent to 2.5 per cent in 2027.",
+      "Overall inflation is expected at around 2 per cent in 2026 and 1.5 per cent to 2.5 per cent in 2027.",
+      "“The risks to inflation remain tilted to the upside. A sharp and sustained surge in global energy or food prices could lift Singapore’s import costs by more than projected,” MAS and METI said.",
+      "Domestic inflation could also stay elevated if spillovers from the artificial intelligence-related boom broaden and unit labour costs rise more rapidly, the authorities added.",
+      "“However, higher-than-expected global interest rates or a pullback in AI-related investment could exert a drag on growth, and thus, inflation,” MAS and METI said.",
+      "“Energy production and shipments from the Middle East could also recover more quickly than projected, resulting in a greater decline in energy prices.”"
     ]
   },
   "mom": {
     "headline": "Additional Guidance for Employers on Use of 1-Hour PM2.5 Readings to Protect Outdoor Workers During Haze",
     "teaser": "1 The Ministry of Manpower (MOM) has issued new guidance on how employers should adjust outdoor work based on the 1-hour PM2.5 readings. This complements the existing guidance based on the PSI forecast, and helps employers respond within the day as air quality changes.",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1020-guidance-for-employers-on-use-of-1-hour-pm25-readings-to-protect-outdoor-workers-during-haze"
+  },
+  "lifeVocab": [
+    {
+      "en": "simmer",
+      "cn": "慢炖；微沸",
+      "def": "cook gently in liquid just below boiling point",
+      "ex": "Let the soup simmer on low heat for twenty minutes.",
+      "emoji": "🍲"
+    },
+    {
+      "en": "marinate",
+      "cn": "腌制",
+      "def": "soak meat or vegetables in a seasoned liquid before cooking",
+      "ex": "Marinate the chicken overnight to enhance its flavour.",
+      "emoji": "🍗"
+    },
+    {
+      "en": "dice",
+      "cn": "切成小方块",
+      "def": "cut food into small square cubes",
+      "ex": "Dice the onions before adding them to the hot pan.",
+      "emoji": "🧅"
+    },
+    {
+      "en": "blanch",
+      "cn": "焯水",
+      "def": "scald food briefly in boiling water and then immerse in cold water",
+      "ex": "Blanch the broccoli so it stays bright green and crunchy.",
+      "emoji": "🥦"
+    },
+    {
+      "en": "sauté",
+      "cn": "嫩炒；煎炒",
+      "def": "cook food quickly in a small amount of oil over medium-high heat",
+      "ex": "Sauté the garlic until it becomes fragrant.",
+      "emoji": "🍳"
+    },
+    {
+      "en": "garnish",
+      "cn": "点缀；饰菜",
+      "def": "decorate food with a small colorful item like herbs",
+      "ex": "Garnish the dish with freshly chopped coriander.",
+      "emoji": "🌿"
+    },
+    {
+      "en": "knead",
+      "cn": "揉面",
+      "def": "work dough with your hands to develop gluten",
+      "ex": "Knead the dough for ten minutes until smooth and elastic.",
+      "emoji": "🍞"
+    },
+    {
+      "en": "sear",
+      "cn": "高温灼烧；生煎",
+      "def": "fry food quickly at a very high temperature until browned",
+      "ex": "Sear the beef steak to lock in the juices.",
+      "emoji": "🥩"
+    },
+    {
+      "en": "whisk",
+      "cn": "搅拌；打发",
+      "def": "beat ingredients vigorously with a wire loop tool",
+      "ex": "Whisk the egg whites until stiff peaks form.",
+      "emoji": "🥚"
+    },
+    {
+      "en": "deglaze",
+      "cn": "洗锅做汁（用液体融化锅底焦屑）",
+      "def": "add liquid to a hot pan to dissolve browned food residue",
+      "ex": "Deglaze the pan with chicken stock to make a rich gravy.",
+      "emoji": "🥘"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "spearhead",
+      "ipa": "/ˈspɪəhed/",
+      "pos": "v.",
+      "cn": "带头；领头",
+      "def": "lead an attack, movement, or course of action",
+      "ex": "She was appointed to spearhead the digital transformation project."
+    },
+    {
+      "w": "surmount",
+      "ipa": "/səˈmaʊnt/",
+      "pos": "v.",
+      "cn": "克服；解决",
+      "def": "overcome a difficulty or obstacle",
+      "ex": "The team had to surmount several regulatory hurdles before launch."
+    },
+    {
+      "w": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
+      "pos": "v.",
+      "cn": "调和；使一致",
+      "def": "find a way in which two conflicting ideas can co-exist",
+      "ex": "It was difficult to reconcile the competing demands of cost and speed."
+    },
+    {
+      "w": "stagnant",
+      "ipa": "/ˈstæɡnənt/",
+      "pos": "adj.",
+      "cn": "停滞不前的",
+      "def": "showing no activity, increase, or development",
+      "ex": "Sales remained stagnant throughout the second quarter."
+    },
+    {
+      "w": "predicament",
+      "ipa": "/prɪˈdɪkəmənt/",
+      "pos": "n.",
+      "cn": "困境；尴尬处境",
+      "def": "a difficult, unpleasant, or embarrassing situation",
+      "ex": "The sudden cancellation of funding put the firm in a tricky predicament."
+    },
+    {
+      "w": "intermittent",
+      "ipa": "/ˌɪntəˈmɪtənt/",
+      "pos": "adj.",
+      "cn": "断断续续的",
+      "def": "occurring at irregular intervals; not continuous",
+      "ex": "The system experienced intermittent connectivity issues during the migration."
+    },
+    {
+      "w": "discerning",
+      "ipa": "/dɪˈsɜːnɪŋ/",
+      "pos": "adj.",
+      "cn": "有眼光的；敏锐的",
+      "def": "having or showing good judgement",
+      "ex": "The boutique caters to discerning clients who demand premium quality."
+    },
+    {
+      "w": "amplify",
+      "ipa": "/ˈæmplɪfaɪ/",
+      "pos": "v.",
+      "cn": "放大；增强",
+      "def": "increase the strength or magnitude of something",
+      "ex": "Social media channels served to amplify customer feedback."
+    },
+    {
+      "w": "unravel",
+      "ipa": "/ʌnˈrævl/",
+      "pos": "v.",
+      "cn": "解开；瓦解",
+      "def": "investigate and solve, or begin to fail and fall apart",
+      "ex": "Investigators began to unravel the complex network of offshore accounts."
+    },
+    {
+      "w": "deliberate",
+      "ipa": "/dɪˈlɪbəreɪt/",
+      "pos": "v.",
+      "cn": "仔细讨论；深思熟虑",
+      "def": "engage in long and careful consideration",
+      "ex": "The board will deliberate on the merger proposal tomorrow morning."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Solar Adoption Across HDB Estates",
+    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ræmpɪŋ ʌp/ (phr. v.) rapidly increasing in amount or effort — 加快；扩大\">ramping up</span> its clean energy efforts by installing solar panels across thousands of public housing blocks. Officials say the initiative aims to generate enough electricity to power common services like lifts and corridor lighting. Economists note that while initial capital costs are <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/səbˈstænʃl/ (adj.) large in size, value, or importance — 相当大的；可观的\">substantial</span>, the long-term environmental and financial returns will be immense. Local residents have welcomed the move, seeing it as a <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈtændʒəbl/ (adj.) clear and definite; real — 切实可行的；有形的\">tangible</span> step toward urban sustainability."
+  },
+  "economistArticle": {
+    "title": "Rethinking the China Shock: Was Trade Really to Blame?",
+    "paras": [
+      "Two decades ago, China's <span class=\"voc\">accession</span> to the World Trade Organisation triggered a <span class=\"voc\">monumental</span> shift in global commerce. A landmark body of academic research, coined the 'China shock' literature, argued that rapid Chinese import penetration <span class=\"voc\">crippled</span> manufacturing communities in Western nations, causing persistent job losses that standard economic models had failed to anticipate.",
+      "However, fresh <span class=\"voc\">empirical</span> research is challenging this conventional wisdom, sparking an almighty fight among economists. New studies suggest that earlier models overestimated the negative impact by focusing narrowly on local labour markets while ignoring the broader <span class=\"voc\">compensatory</span> mechanisms within regional supply chains.",
+      "Re-evaluations reveal that lower import prices significantly reduced production costs for downstream domestic firms, enabling them to expand and generate secondary employment. Furthermore, cheap consumer goods <span class=\"voc\">bolstered</span> real incomes, indirectly stimulating demand across service sectors that were previously omitted from the analytical scope.",
+      "This academic squabble is far from an <span class=\"voc\">esoteric</span> dispute; it carries profound geopolitical <span class=\"voc\">ramifications</span>. If trade integration was not the primary driver of industrial decline, then the aggressive tariffs and protectionist policies championed by contemporary politicians may be targeting the wrong <span class=\"voc\">culprit</span> altogether.",
+      "Ultimately, defusing the 'China shock' narrative requires recognizing that structural technological shifts played a far more decisive role in eroding factory jobs. <span class=\"gem\">By <span class=\"voc\">misattributing</span> technological disruption to global trade, policymakers risk enacting remedies that worsen economic welfare rather than safeguarding it.</span>"
+    ],
+    "cn": "二十年前，中国加入世界贸易组织引发了全球贸易的巨变。被称为“中国冲击”文献的里程碑式学术研究指出，中国进口商品的快速渗透压垮了西方国家的制造业社区，导致了标准经济模型未能预测到的持久失业。\n然而，最新的实证研究正在挑战这一传统观点，并在经济学界引发了一场激烈的争论。新研究表明，早期模型过于专注于局部劳动力市场，却忽视了区域供应链内更广泛的补偿机制，从而高估了其负面影响。\n重新评估表明，较低的进口价格显著降低了下游本土企业的生产成本，使其能够扩张并创造二次就业机会。此外，廉价的消费品拉动了实际收入，间接刺激了此前被排除在分析范围之外的服务业需求。\n这场学术争吵绝非离奇古怪的偏僻争端，它具有深刻的地缘政治影响。如果贸易一体化并非工业衰退的主要推手，那么当代政治家所倡导的激进关税和保护主义政策，可能完全针对错了罪魁祸首。\n归根结底，拆解“中国冲击”这一叙事需要认识到，结构性技术变革在削弱工厂岗位方面发挥了远为决定性的作用。通过将技术颠覆错怪给全球贸易，政策制定者冒着制定出恶化经济福利而非保障福利的政策风险。",
+    "vocab": [
+      {
+        "w": "accession",
+        "ipa": "/əkˈseʃn/",
+        "pos": "n.",
+        "mean": "加入；正式就任",
+        "def": "the act of joining an organization or agreeing to a treaty",
+        "ex": "The country's accession to the trade block opened new export channels."
+      },
+      {
+        "w": "monumental",
+        "ipa": "/ˌmɒnjuˈmentl/",
+        "pos": "adj.",
+        "mean": "巨大的；具有里程碑意义的",
+        "def": "great in importance, extent, or size",
+        "ex": "The treaty was a monumental achievement in international diplomacy."
+      },
+      {
+        "w": "crippled",
+        "ipa": "/ˈkrɪpld/",
+        "pos": "v.",
+        "mean": "严重削弱；使瘫痪",
+        "def": "severely damaged or limited the efficiency of something",
+        "ex": "Soaring energy costs crippled small manufacturing businesses."
+      },
+      {
+        "w": "empirical",
+        "ipa": "/ɪmˈpɪrɪkl/",
+        "pos": "adj.",
+        "mean": "实证的；凭经验的",
+        "def": "based on observation or experience rather than theory",
+        "ex": "The paper provides strong empirical evidence to support the claim."
+      },
+      {
+        "w": "compensatory",
+        "ipa": "/kəmˈpensətrɪ/",
+        "pos": "adj.",
+        "mean": "补偿性的；赔偿的",
+        "def": "intended to offset or make up for something lost or damaged",
+        "ex": "The government introduced compensatory measures for displaced workers."
+      },
+      {
+        "w": "bolstered",
+        "ipa": "/ˈbəʊlstəd/",
+        "pos": "v.",
+        "mean": "支持；提振",
+        "def": "supported, strengthened, or boosted",
+        "ex": "Strong quarterly earnings bolstered investor confidence."
+      },
+      {
+        "w": "esoteric",
+        "ipa": "/ˌiːsəˈterɪk/",
+        "pos": "adj.",
+        "mean": "深奥的；冷门的",
+        "def": "intended for or understood by only a small group with specialized knowledge",
+        "ex": "The debate centered on esoteric details of tax legislation."
+      },
+      {
+        "w": "ramifications",
+        "ipa": "/ˌræmɪfɪˈkeɪʃnz/",
+        "pos": "n.",
+        "mean": "后果；衍生影响",
+        "def": "complex or unwelcome consequences of an action or event",
+        "ex": "The legal ruling has far-reaching ramifications for the tech industry."
+      },
+      {
+        "w": "culprit",
+        "ipa": "/ˈkʌlprɪt/",
+        "pos": "n.",
+        "mean": "罪魁祸首；问题根源",
+        "def": "the cause of a problem or fault",
+        "ex": "Excessive supply chain bottlenecks were identified as the main culprit."
+      },
+      {
+        "w": "misattributing",
+        "ipa": "/ˌmɪsəˈtrɪbjuːtɪŋ/",
+        "pos": "v.",
+        "mean": "错误归因",
+        "def": "incorrectly ascribing something to a particular cause",
+        "ex": "Misattributing inflation solely to wage growth leads to flawed monetary policy."
+      }
+    ],
+    "gems": [
+      {
+        "s": "By misattributing technological disruption to global trade, policymakers risk enacting remedies that worsen economic welfare rather than safeguarding it.",
+        "why": "Uses a contrastive participial clause ('By misattributing...') to clearly highlight the cause-and-effect relationship between flawed analysis and bad policy. 通过使用对比分词状语从句（“通过将...错怪给...”），清晰指出了错误分析与糟糕政策之间的因果关系。"
+      }
+    ]
   }
 }
