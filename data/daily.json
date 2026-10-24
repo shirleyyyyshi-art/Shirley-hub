@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T05:03:49.224183+00:00",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T04:48:34.037980+00:00",
   "economist": {
     "headline": "New research tries to defuse the “China shock”",
     "teaser": "An almighty fight over an influential finding",
@@ -8,60 +8,61 @@
     "vocab": []
   },
   "st": {
-    "headline": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
-    "teaser": "The South Korean chip giant said it plans to continue to explore ways to fund Solidigm’s expansion.",
-    "url": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
+    "headline": "Wall Street closes lower to end rocky week",
+    "teaser": "The Dow Jones Industrial Average fell 652.82 points, or 1.23%, to 52,215.16.",
+    "url": "https://www.straitstimes.com/business/companies-markets/wall-street-closes-lower-to-end-rocky-week",
     "fullText": [
-      "SEOUL – SK Hynix on Oct 23 put on hold a planned US listing for its Solidigm chip unit due to market volatility – a move which also comes after the South Korean authorities raised concerns that the deal could undermine shareholder interests.",
-      "A listing of Solidigm, a former Intel business that specialises in NAND flash memory and solid-state drives, had been under consideration to help fund a new US factory and meet surging demand for chips in artificial intelligence data centres.",
-      "It could also have funded share cancellations and buybacks, SK Hynix said in a statement.",
-      "People familiar with the now-suspended initial public offering plans had said that the share sale could have raised US$15 billion (S$19.1 billion) valued the unit at US$150 billion.",
-      "The South Korean chip giant, which became dual-listed with a debut on the Nasdaq in July, said it plans to continue to explore ways to fund Solidigm’s expansion and enhance shareholder value, including reviewing the timing, scale and financing of future investments.",
-      "“This decision does not reflect any change in Solidigm’s growth prospects or investment needs,” it said.",
-      "It was not immediately clear how the decision would be received by the Trump administration, which has put pressure on foreign chipmakers to build new facilities in the US and which has been holding discussions with SK Hynix.",
-      "According to sources familiar with the matter, SK Hynix has sought to use the prospect of a potential factory in the US as a bargaining chip, linking it to hoped-for approval from Washington that would allow US chipmaking equipment to be exported to China to increase production there.",
-      "The South Korean authorities have said they are discussing semiconductor investments in the US with Washington as part of broader bilateral talks, but they are not part of negotiations about a US$350 billion investment commitment South Korea made to the US in 2025 in exchange for lower US tariffs.",
-      "Across the globe, sentiment towards AI and chip-related stocks has retreated sharply as investors increasingly fret over whether rising interest rates will mean that companies involved in building out the AI supply chain will make sufficient earnings to repay their debts.",
-      "At the same time, in South Korea, concerns also have mounted that a listing of Solidigm in the US would dilute the interests of SK Hynix shareholders.",
-      "Financial Supervisory Service governor Lee Chan-jin told a parliamentary hearing this week that regulators were examining whether Solidigm’s potential US IPO would require a review under the country’s dual-listing restrictions, which were tightened in July to strengthen shareholder protections.",
-      "In addition to broad concerns about the AI sector, worries that a Solidigm IPO could dilute SK Hynix shareholders’ interests have weighed on the chipmaker’s shares, which have tumbled 31% since news of the potential listing emerged in late September.",
-      "That compares with a 20% decline in the benchmark KOSPI index over the same period.",
-      "The Korea Corporate Governance Forum, an independent body, welcomed SK Hynix’s decision.",
-      "Instead of a US listing for Solidigm, the chipmaker, which has made massive earnings gains on the AI boom, could instead inject capital through its AI Company entity, even if Solidigm requires tens of trillions of won in capital expenditure, it said.",
-      "Citing average estimates from South Korean brokerages, it said SK Hynix’s cash holdings were projected to reach 456 trillion won (S$439.9 billion) by the end of 2027.",
-      "SK Hynix shares were up 1.4% in afternoon trade, outperforming a 1.4% decline in the KOSPI. REUTERS"
+      "NEW YORK - Wall Street’s main indexes closed lower on Oct 23 even as technology shares steadied somewhat to end a turbulent week for the market-driving AI trade, and investors looked ahead to a busy slate of corporate earnings and a Federal Reserve interest-rate policy meeting.",
+      "The Nasdaq Composite posted a slim loss a day after the tech-heavy index suffered its biggest one-day drop since June, as concerns flared over financing costs to support heavy AI investment spending.",
+      "The S&P 500 technology sector posted a 0.35% gain on Oct 23.",
+      "Most S&P 500 sectors fell, however, including declines of well over 1% for the consumer staples and consumer discretionary groups as well as the financials sector.",
+      "Next week, about one-third of S&P 500 companies report quarterly results, including Alphabet, Microsoft and Amazon, three AI hyperscalers whose capital spending forecasts will be closely watched on Wall Street.",
+      "“There is still fallout from the questioning of the AI trade,” said Kristina Hooper, chief market strategist at Man Group. “There’s certainly the potential that we see less invested in an AI data centre build-out next year than has been projected. So I certainly think that’s giving pause.”",
+      "The Dow Jones Industrial Average fell 652.82 points, or 1.23%, to 52,215.16; the S&P 500 lost 39.75 points, or 0.52%, to 7,623.68 and the Nasdaq Composite lost 53.52 points, or 0.21%, to 25,955.34.",
+      "For the week, the S&P 500 fell 0.5% and the Nasdaq dropped 0.7%.",
+      "The blue-chip Dow rose 0.4%, its third straight weekly gain.",
+      "Telecommunications stocks fell, weighing on the communication services sector, after a report that SpaceX was seeking thousands of cell sites for a fourth wireless carrier.",
+      "Shares of AT&T and T-Mobile both sank nearly 8% while Verizon shed 1.2%. SpaceX shares rose 1.9%.",
+      "US cell tower operators gained, with Crown Castle up 9% and American Tower up 4%.",
+      "The energy sector rose 2.5%, hitting a record high. Brent crude hit its highest level since late April, after Houthi attacks in Saudi Arabia stoked concern over further disruption to energy supplies from the Middle East.",
+      "American Express shares fell 3.7%, weighing on the Dow. The company raised its profit forecast as it also announced plans to eliminate 5% of its workforce.",
+      "SLB shares rose 7% after the oilfield services provider beat Wall Street estimates for third-quarter profit.",
+      "Data from the University of Michigan showed US consumer sentiment edged down near a record low in October, as rising prices because of the Middle East conflict soured households’ views of the economy.",
+      "Market focus remains on the earnings season, with robust corporate profit growth underpinning gains for major equity indexes this year. S&P 500 companies are on track to have increased earnings by more than 32% in the third quarter, according to LSEG IBES data.",
+      "The Fed is expected to keep interest rates steady when it gives its policy statement on Wednesday, but investors will be eager for clues about whether the US central bank will hike rates at its December meeting. Wall Street is also increasingly focused on the Nov 3 midterm elections, which will decide control of the US Congress.",
+      "Declining issues outnumbered advancers by a 1.72-to-1 ratio on the New York Stock Exchange. On the Nasdaq, declining issues outnumbered advancers by a 1.57-to-1 ratio.",
+      "The S&P 500 posted 18 new 52-week highs and 8 new lows while the Nasdaq Composite recorded 74 new highs and 334 new lows.",
+      "Volume on US exchanges was 15.4 billion shares, compared with the 17.2 billion average over the last 20 trading days. REUTERS"
     ]
   },
   "cna": {
-    "headline": "Singapore’s core inflation eases to 2% in September on lower services, retail prices",
-    "teaser": "A \"sharp and sustained surge\" in global energy or food prices could lift Singapore’s import costs by more than projected, say MAS and METI.",
-    "url": "https://www.channelnewsasia.com/singapore/singapore-inflation-september-2026-mas-mti-6485326",
+    "headline": "Majority of parents and youths prefer tiered access to social media over outright ban: MDDI",
+    "teaser": "Excessive use of social media ranked among the top concerns raised by more than 2,000 parents and youths in an engagement by the Ministry of Digital Development and Information.",
+    "url": "https://www.channelnewsasia.com/singapore/social-media-ban-teens-parents-access-6486036",
     "fullText": [
-      "SINGAPORE: Singapore’s core inflation eased to 2 per cent year-on-year in September, down from 2.2 per cent in August, according to official figures released on Friday (Oct 23).",
-      "This was because of lower inflation in services, retail and other goods and private transport, the Monetary Authority of Singapore (MAS) and Ministry of Energy, Trade and Industry (METI) said in a joint media release.",
-      "Core prices, which exclude accommodation and private transport, rose by 0.1 per cent month-on-month in September.",
-      "Overall inflation, as measured by the Consumer Price Index-All Items, fell to 2.2 per cent year-on-year in September from 2.3 per cent in August, due to lower core inflation and private transport inflation.",
-      "Official data released on Friday showed that services inflation eased to 1.7 per cent in September from 2 per cent in August due to a smaller increase in point-to-point transport service costs and a larger decline in telecommunication service prices.",
-      "Retail and other goods inflation also moderated to 1.2 per cent in September from 1.8 per cent in August as furniture prices declined and clothing prices rose at a slower pace.",
-      "Private transport inflation also fell to 7.1 per cent in September from 7.5 per cent in August due to a more gradual increase in car prices.",
-      "Electricity and gas inflation was unchanged at 8.7 per cent as prices rose at a similar pace in both September and August.",
-      "MAS and METI noted that the regulated electricity tariff for each quarter is set based largely on the average natural gas prices in the first two and a half months of the preceding quarter, among other factors.",
-      "“The increase in the regulated electricity tariff in the third quarter of 2026 is thus the result of the spike in global energy prices over the period of April to mid-June 2026,” the authorities said.",
-      "Accommodation inflation edged up to 0.9 per cent in September from 0.8 per cent in August, with housing rents increasing at a faster pace.",
-      "Food inflation also rose to 2.4 per cent in September from 2.3 per cent in August due to higher inflation in both non-cooked food and food services.",
-      "The authorities said that imported cost pressures are expected to remain firm for Singapore in the near term.",
-      "“Energy commodity prices have risen anew and are projected to remain high in the near term,” said MAS and METI.",
-      "“Global and regional food prices are also expected to pick up as costlier inputs and adverse weather patterns affect food production.”",
-      "But imported inflation should ease over 2027 as the effects of temporary supply disruptions fade, the authorities added.",
-      "On the domestic front, price pressures are likely to stay subdued, with unit labour costs in the services sector expected to remain contained amid continued productivity gains, MAS and METI said.",
-      "Enhanced government subsidies, such as for healthcare and education, will also dampen services inflation, the authorities added.",
-      "Taking into account these factors, core inflation and overall inflation are expected to remain slightly elevated in the immediate quarters ahead before easing more discernibly from mid-2027.",
-      "Core inflation is expected to average 1.5 per cent to 2 per cent in 2026, in line with MAS' full-year forecast range . It is also expected to average 1.5 per cent to 2.5 per cent in 2027.",
-      "Overall inflation is expected at around 2 per cent in 2026 and 1.5 per cent to 2.5 per cent in 2027.",
-      "“The risks to inflation remain tilted to the upside. A sharp and sustained surge in global energy or food prices could lift Singapore’s import costs by more than projected,” MAS and METI said.",
-      "Domestic inflation could also stay elevated if spillovers from the artificial intelligence-related boom broaden and unit labour costs rise more rapidly, the authorities added.",
-      "“However, higher-than-expected global interest rates or a pullback in AI-related investment could exert a drag on growth, and thus, inflation,” MAS and METI said.",
-      "“Energy production and shipments from the Middle East could also recover more quickly than projected, resulting in a greater decline in energy prices.”"
+      "SINGAPORE: About 80 per cent of parents and nearly 70 per cent of youths support tiered access to social media over an outright ban, according to findings from the Ministry of Digital Development and Information’s (MDDI) engagement with over 2,000 parents and youths.",
+      "The ministry said the findings reinforce the government’s proposed approach of age-appropriate access, alongside platform adjustments to let young people benefit from technology with stronger protections.",
+      "It intends to introduce legislation next year focused on age assurance and safer design of social media for teenagers.",
+      "Under the approach, platforms would have to put in place effective age assurance measures for young users and make their services safer by design , the Infocomm Media Development Authority (IMDA) said.",
+      "The findings come as more countries have enforced social media bans for children.",
+      "Indonesia was the first country in Southeast Asia to restrict children under 16 from using social media in March this year. Malaysia soon followed in June, enforcing rules barring children under 16 from having social media accounts.",
+      "The findings come from MDDI's engagements with parents and youths between June and August 2026 on young people's social media use, online risks and a tiered approach to social media access.",
+      "The engagements comprised focus group discussions, school dialogues and a survey on CrowdTaskSG. Community partners including TOUCH Community Services, Fei Yue Community Services, YouthTechSG and Singapore Children’s Society also provided perspectives.",
+      "Neither parents nor youths favoured an outright ban on social media for children, the ministry said. Both groups felt education, digital literacy and graduated access would be “more sustainable” than blanket restrictions.",
+      "Parents felt children should be introduced to online platforms gradually so they learn to navigate social media in a safer environment. Some youths said overly restrictive measures risk a “forbidden fruit” effect, which makes social media more appealing.",
+      "Both groups felt children aged zero to six should have no access, while those aged seven to 15 should have age-appropriate access. Youths generally supported greater access to social media from age 16, seeing young people as more mature and better able to manage their use independently, while parents continued to support age-appropriate access.",
+      "MDDI said some parents and youths also expressed caution against relying solely on age to gauge maturity.",
+      "Close to 80 per cent of parents agreed that age verification or age estimation should be implemented. Verification relies on a verified source of identity documentation and is seen as more reliable and easier to enforce, while estimation uses artificial intelligence and facial age analysis to determine a user’s likely age.",
+      "At the same time, parents also emphasised the importance of safeguarding privacy and not collecting excessive personal data.",
+      "Both parents and youths ranked excessive use of social media among their top concerns. About 84 per cent of parents ranked exposure to inappropriate content among their top concerns, a concern that ranked lower among youths.",
+      "Both groups also raised concerns that features such as autoplay, infinite scrolling and targeted feeds encourage compulsive use, MDDI said.",
+      "Parents generally supported daily screen-time limits but preferred the flexibility to adjust them to their children’s needs. The top three proposed default safeguards were disabling autoplay, disabling direct messaging and implementing a daily screen-time limit.",
+      "Youths were concerned that fixed and rigid limits could restrict legitimate uses such as schoolwork and extracurricular activities. While there was broad support for disabling algorithmic feeds, some saw value in their ability to surface educational content.",
+      "“In general, many parents expressed desire to retain some agency and flexibility over how safeguards were implemented, particularly where measures such as autoplay and daily time limits might need to be tailored to their children's developmental needs, maturity levels and family circumstances,” MDDI said.",
+      "IMDA is also partnering with government-supported preschools on lessons about digital habits , built around four key actions: setting boundaries online, thinking before acting, reporting inappropriate content, and parental engagement and support.",
+      "The curriculum was first piloted with more than 100 Kindergarten 2 students from E-Bridge preschool. It will be rolled out across all E-Bridge preschool centres from December, reaching close to 3,000 Kindergarten 1 and 2 students across 30 centres.",
+      "Skool4Kidz preschool also delivered the curriculum to 800 Kindergarten 2 children across 35 of its centres in September. IMDA said it will continue to engage the Early Childhood Development Agency and reach out to more preschool operators next year.",
+      "Parents and families can also access digital parenting resources on the Digital for Life portal, it said."
     ]
   },
   "mom": {
@@ -71,259 +72,259 @@
   },
   "lifeVocab": [
     {
-      "en": "simmer",
-      "cn": "慢炖；微沸",
-      "def": "cook gently in liquid just below boiling point",
-      "ex": "Let the soup simmer on low heat for twenty minutes.",
-      "emoji": "🍲"
+      "en": "MC (Medical Certificate)",
+      "cn": "病假条",
+      "def": "an official document provided by a doctor excusing an employee or student from work or school due to illness",
+      "ex": "I need to collect an MC from the GP at the polyclinic to submit to my HR department.",
+      "emoji": "📄"
     },
     {
-      "en": "marinate",
-      "cn": "腌制",
-      "def": "soak meat or vegetables in a seasoned liquid before cooking",
-      "ex": "Marinate the chicken overnight to enhance its flavour.",
-      "emoji": "🍗"
+      "en": "Referral letter",
+      "cn": "转诊信",
+      "def": "a document written by a primary care doctor directing a patient to a specialist for further evaluation",
+      "ex": "The doctor gave me a referral letter so I could book an appointment with a dermatologist at NCG.",
+      "emoji": "✉️"
     },
     {
-      "en": "dice",
-      "cn": "切成小方块",
-      "def": "cut food into small square cubes",
-      "ex": "Dice the onions before adding them to the hot pan.",
-      "emoji": "🧅"
+      "en": "Triaging",
+      "cn": "分诊",
+      "def": "the process of determining the urgency of patients' treatment based on the severity of their condition",
+      "ex": "During triaging, the nurse measured my blood pressure and temperature before assigning me a queue number.",
+      "emoji": "🩺"
     },
     {
-      "en": "blanch",
-      "cn": "焯水",
-      "def": "scald food briefly in boiling water and then immerse in cold water",
-      "ex": "Blanch the broccoli so it stays bright green and crunchy.",
-      "emoji": "🥦"
+      "en": "Consultation fee",
+      "cn": "诊疗费",
+      "def": "the charge made by a doctor or clinic for examining and advising a patient",
+      "ex": "The consultation fee at private GP clinics is usually higher than at government polyclinics.",
+      "emoji": "💳"
     },
     {
-      "en": "sauté",
-      "cn": "嫩炒；煎炒",
-      "def": "cook food quickly in a small amount of oil over medium-high heat",
-      "ex": "Sauté the garlic until it becomes fragrant.",
-      "emoji": "🍳"
+      "en": "Dosage",
+      "cn": "剂量",
+      "def": "the specific amount and frequency of a medicine to be taken",
+      "ex": "Please read the label carefully to ensure you take the recommended dosage of antibiotic syrup.",
+      "emoji": "💊"
     },
     {
-      "en": "garnish",
-      "cn": "点缀；饰菜",
-      "def": "decorate food with a small colorful item like herbs",
-      "ex": "Garnish the dish with freshly chopped coriander.",
-      "emoji": "🌿"
+      "en": "Chronic condition",
+      "cn": "慢性病",
+      "def": "a human health condition or disease that is persistent or long-lasting in its effects",
+      "ex": "Under the Healthier SG scheme, Singaporeans receive subsidised care for managing chronic conditions like diabetes.",
+      "emoji": "🫀"
     },
     {
-      "en": "knead",
-      "cn": "揉面",
-      "def": "work dough with your hands to develop gluten",
-      "ex": "Knead the dough for ten minutes until smooth and elastic.",
-      "emoji": "🍞"
+      "en": "Subsidised rate",
+      "cn": "补贴价格",
+      "def": "a reduced price where part of the cost is paid for by government funds or subsidies",
+      "ex": "Singapore citizens enjoy heavily subsidised rates when obtaining medication from polyclinics.",
+      "emoji": "🏷️"
     },
     {
-      "en": "sear",
-      "cn": "高温灼烧；生煎",
-      "def": "fry food quickly at a very high temperature until browned",
-      "ex": "Sear the beef steak to lock in the juices.",
-      "emoji": "🥩"
+      "en": "Symptom",
+      "cn": "症状",
+      "def": "a physical or mental feature that indicates a condition of disease",
+      "ex": "A high fever and persistent body aches are common symptoms of dengue fever.",
+      "emoji": "🤧"
     },
     {
-      "en": "whisk",
-      "cn": "搅拌；打发",
-      "def": "beat ingredients vigorously with a wire loop tool",
-      "ex": "Whisk the egg whites until stiff peaks form.",
-      "emoji": "🥚"
+      "en": "Pharmacist",
+      "cn": "药剂师",
+      "def": "a healthcare professional qualified to prepare and dispense prescription drugs",
+      "ex": "The pharmacist carefully explained the potential side effects of the prescribed painkiller.",
+      "emoji": "🥼"
     },
     {
-      "en": "deglaze",
-      "cn": "洗锅做汁（用液体融化锅底焦屑）",
-      "def": "add liquid to a hot pan to dissolve browned food residue",
-      "ex": "Deglaze the pan with chicken stock to make a rich gravy.",
-      "emoji": "🥘"
+      "en": "Non-drowsy",
+      "cn": "不引起嗜睡的",
+      "def": "describing medication designed not to cause sleepiness or sedation as a side effect",
+      "ex": "I requested non-drowsy allergy medication so that I could remain alert during work meetings.",
+      "emoji": "☀️"
     }
   ],
   "levelVocab": [
     {
-      "w": "spearhead",
-      "ipa": "/ˈspɪəhed/",
+      "w": "Delineate",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
       "pos": "v.",
-      "cn": "带头；领头",
-      "def": "lead an attack, movement, or course of action",
-      "ex": "She was appointed to spearhead the digital transformation project."
+      "cn": "勾勒；明确阐述",
+      "def": "to describe or portray precisely",
+      "ex": "The updated corporate agreement clearly delineates the operational boundaries of each regional team."
     },
     {
-      "w": "surmount",
-      "ipa": "/səˈmaʊnt/",
-      "pos": "v.",
-      "cn": "克服；解决",
-      "def": "overcome a difficulty or obstacle",
-      "ex": "The team had to surmount several regulatory hurdles before launch."
-    },
-    {
-      "w": "reconcile",
-      "ipa": "/ˈrekənsaɪl/",
-      "pos": "v.",
-      "cn": "调和；使一致",
-      "def": "find a way in which two conflicting ideas can co-exist",
-      "ex": "It was difficult to reconcile the competing demands of cost and speed."
-    },
-    {
-      "w": "stagnant",
-      "ipa": "/ˈstæɡnənt/",
+      "w": "Pivotal",
+      "ipa": "/ˈpɪv.ə.təl/",
       "pos": "adj.",
-      "cn": "停滞不前的",
-      "def": "showing no activity, increase, or development",
-      "ex": "Sales remained stagnant throughout the second quarter."
+      "cn": "关键的；枢纽的",
+      "def": "of crucial importance in relation to the development or success of something",
+      "ex": "Securing regulatory approval was a pivotal moment for the expansion of our biotech firm."
     },
     {
-      "w": "predicament",
-      "ipa": "/prɪˈdɪkəmənt/",
+      "w": "Bottleneck",
+      "ipa": "/ˈbɒt.əl.nek/",
       "pos": "n.",
-      "cn": "困境；尴尬处境",
-      "def": "a difficult, unpleasant, or embarrassing situation",
-      "ex": "The sudden cancellation of funding put the firm in a tricky predicament."
+      "cn": "瓶颈；阻碍",
+      "def": "a point of congestion in a system that severely slows down progress",
+      "ex": "Port congestion created severe supply chain bottlenecks for cross-border e-commerce vendors."
     },
     {
-      "w": "intermittent",
-      "ipa": "/ˌɪntəˈmɪtənt/",
+      "w": "Contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案；突发事件",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "The risk management committee established a financial contingency fund to address sudden market drops."
+    },
+    {
+      "w": "Ubiquitous",
+      "ipa": "/juːˈbɪk.wɪ.təs/",
       "pos": "adj.",
-      "cn": "断断续续的",
-      "def": "occurring at irregular intervals; not continuous",
-      "ex": "The system experienced intermittent connectivity issues during the migration."
+      "cn": "无处不在的",
+      "def": "present, appearing, or found everywhere in daily life",
+      "ex": "QR code payment systems have become ubiquitous across retail counters throughout East Asia."
     },
     {
-      "w": "discerning",
-      "ipa": "/dɪˈsɜːnɪŋ/",
-      "pos": "adj.",
-      "cn": "有眼光的；敏锐的",
-      "def": "having or showing good judgement",
-      "ex": "The boutique caters to discerning clients who demand premium quality."
-    },
-    {
-      "w": "amplify",
-      "ipa": "/ˈæmplɪfaɪ/",
+      "w": "Disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
       "pos": "v.",
-      "cn": "放大；增强",
-      "def": "increase the strength or magnitude of something",
-      "ex": "Social media channels served to amplify customer feedback."
+      "cn": "散播；广泛传播",
+      "def": "to spread or disperse information widely",
+      "ex": "Human Resources will disseminate the revised remote-work policy via email tomorrow morning."
     },
     {
-      "w": "unravel",
-      "ipa": "/ʌnˈrævl/",
-      "pos": "v.",
-      "cn": "解开；瓦解",
-      "def": "investigate and solve, or begin to fail and fall apart",
-      "ex": "Investigators began to unravel the complex network of offshore accounts."
+      "w": "Attrition",
+      "ipa": "/əˈtrɪʃ.ən/",
+      "pos": "n.",
+      "cn": "员工流活；自然消耗",
+      "def": "the gradual reduction of a workforce through retirement, resignation, or sickness",
+      "ex": "High staff attrition in the hospitality sector forced hoteliers to raise entry-level wages."
     },
     {
-      "w": "deliberate",
-      "ipa": "/dɪˈlɪbəreɪt/",
+      "w": "Benchmark",
+      "ipa": "/ˈbentʃ.mɑːk/",
+      "pos": "n.",
+      "cn": "基准；标杆",
+      "def": "a standard or point of reference against which things may be evaluated",
+      "ex": "Our quarterly revenue growth served as a benchmark for performance across the industry."
+    },
+    {
+      "w": "Overhaul",
+      "ipa": "/ˈəʊ.və.hɔːl/",
       "pos": "v.",
-      "cn": "仔细讨论；深思熟虑",
-      "def": "engage in long and careful consideration",
-      "ex": "The board will deliberate on the merger proposal tomorrow morning."
+      "cn": "彻底检修；改革",
+      "def": "to thoroughly examine and repair or reform a system or structure",
+      "ex": "The executive board voted to overhaul the internal procurement process to cut unnecessary expenses."
+    },
+    {
+      "w": "Synergy",
+      "ipa": "/ˈsɪn.ə.dʒi/",
+      "pos": "n.",
+      "cn": "协同效应",
+      "def": "the interaction of elements that when combined produce a total effect greater than the sum of individual efforts",
+      "ex": "The acquisition created operational synergy between the logistics network and the technology platform."
     }
   ],
   "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore Expands Solar Adoption Across HDB Estates",
-    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ræmpɪŋ ʌp/ (phr. v.) rapidly increasing in amount or effort — 加快；扩大\">ramping up</span> its clean energy efforts by installing solar panels across thousands of public housing blocks. Officials say the initiative aims to generate enough electricity to power common services like lifts and corridor lighting. Economists note that while initial capital costs are <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/səbˈstænʃl/ (adj.) large in size, value, or importance — 相当大的；可观的\">substantial</span>, the long-term environmental and financial returns will be immense. Local residents have welcomed the move, seeing it as a <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈtændʒəbl/ (adj.) clear and definite; real — 切实可行的；有形的\">tangible</span> step toward urban sustainability."
+    "source": "CNA Style · Intermediate",
+    "title": "Singapore Expands EV Charging Infrastructure Across Residential Estates",
+    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈsel.ə.reɪ.tɪŋ/ (v.) speeding up or causing to happen faster — 加快\">accelerating</span> its transition towards greener transportation by expanding electric vehicle charging stations across residential heartlands. The Land Transport Authority announced that thousands of new charging points will be installed in public carparks over the coming months. This <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈnɪʃ.ə.tɪv/ (n.) an act or strategy intended to resolve a problem — 举措/倡议\">initiative</span> aims to reassure drivers about charging accessibility and encourage faster adoption of clean-energy cars. Officials emphasized that building a <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/rəʊˈbʌst/ (adj.) strong, healthy, and resilient — 稳固的/强健的\">robust</span> ecosystem is essential to meeting the nation's 2030 sustainability targets."
   },
   "economistArticle": {
-    "title": "Rethinking the China Shock: Was Trade Really to Blame?",
+    "title": "Defusing the China Shock: Rethinking the Cost of Globalisation",
     "paras": [
-      "Two decades ago, China's <span class=\"voc\">accession</span> to the World Trade Organisation triggered a <span class=\"voc\">monumental</span> shift in global commerce. A landmark body of academic research, coined the 'China shock' literature, argued that rapid Chinese import penetration <span class=\"voc\">crippled</span> manufacturing communities in Western nations, causing persistent job losses that standard economic models had failed to anticipate.",
-      "However, fresh <span class=\"voc\">empirical</span> research is challenging this conventional wisdom, sparking an almighty fight among economists. New studies suggest that earlier models overestimated the negative impact by focusing narrowly on local labour markets while ignoring the broader <span class=\"voc\">compensatory</span> mechanisms within regional supply chains.",
-      "Re-evaluations reveal that lower import prices significantly reduced production costs for downstream domestic firms, enabling them to expand and generate secondary employment. Furthermore, cheap consumer goods <span class=\"voc\">bolstered</span> real incomes, indirectly stimulating demand across service sectors that were previously omitted from the analytical scope.",
-      "This academic squabble is far from an <span class=\"voc\">esoteric</span> dispute; it carries profound geopolitical <span class=\"voc\">ramifications</span>. If trade integration was not the primary driver of industrial decline, then the aggressive tariffs and protectionist policies championed by contemporary politicians may be targeting the wrong <span class=\"voc\">culprit</span> altogether.",
-      "Ultimately, defusing the 'China shock' narrative requires recognizing that structural technological shifts played a far more decisive role in eroding factory jobs. <span class=\"gem\">By <span class=\"voc\">misattributing</span> technological disruption to global trade, policymakers risk enacting remedies that worsen economic welfare rather than safeguarding it.</span>"
+      "For two decades, the <span class=\"voc\">consensus</span> among Western economists was that free trade generated broad prosperity, even if localized disruptions occurred. That consensus shattered in 2016 following landmark research on the so-called China shock. Economists David Autor, David Dorn, and Gordon Hanson demonstrated that rapid Chinese import <span class=\"voc\">penetration</span> after its entry into the World Trade Organisation severely damaged manufacturing communities across America. The paper fundamentally altered the political debate, providing <span class=\"voc\">empirical</span> backing for rising <span class=\"voc\">protectionism</span>.",
+      "Now, fresh academic literature is attempting to re-evaluate those explosive findings. Newer studies suggest that while initial employment losses in specific manufacturing regions were genuine, the broader nationwide remedies and offset effects were underestimated. Researchers argue that lower consumer prices and growth in service-sector employment provided significant economic buffers that <span class=\"voc\">diluted</span> the aggregate damage across national economies over time.",
+      "Furthermore, critics of the original thesis contend that technology, rather than Chinese competition, played a primary role in displacing factory labor. Automation and digital supply chain management were already reshaping industrial landscapes long before Beijing became the world factory floor. <span class=\"gem\">Distinguishing between technological <span class=\"voc\">obsolescence</span> and trade competition remains a complex empirical challenge for macroeconomic researchers.</span>",
+      "This ongoing scholastic battle carries profound real-world policy implications. If trade with emerging economies was indeed the central <span class=\"voc\">culprit</span> for industrial decline, aggressive tariffs and <span class=\"voc\">reshoring</span> directives appear justified. Conversely, if trade friction was merely a secondary symptom of broader technological shifts, protectionist barriers will simply raise living costs without restoring factory jobs.",
+      "As geopolitical tensions escalate, policymakers must navigate these competing economic interpretations carefully. Overreacting with sweeping trade restrictions risks strangling economic dynamism and reigniting inflationary pressures. Defusing the <span class=\"voc\">hyperbole</span> around the China shock is therefore not merely an academic exercise, but an urgent <span class=\"voc\">prerequisite</span> for crafting sound economic policy in an interconnected world."
     ],
-    "cn": "二十年前，中国加入世界贸易组织引发了全球贸易的巨变。被称为“中国冲击”文献的里程碑式学术研究指出，中国进口商品的快速渗透压垮了西方国家的制造业社区，导致了标准经济模型未能预测到的持久失业。\n然而，最新的实证研究正在挑战这一传统观点，并在经济学界引发了一场激烈的争论。新研究表明，早期模型过于专注于局部劳动力市场，却忽视了区域供应链内更广泛的补偿机制，从而高估了其负面影响。\n重新评估表明，较低的进口价格显著降低了下游本土企业的生产成本，使其能够扩张并创造二次就业机会。此外，廉价的消费品拉动了实际收入，间接刺激了此前被排除在分析范围之外的服务业需求。\n这场学术争吵绝非离奇古怪的偏僻争端，它具有深刻的地缘政治影响。如果贸易一体化并非工业衰退的主要推手，那么当代政治家所倡导的激进关税和保护主义政策，可能完全针对错了罪魁祸首。\n归根结底，拆解“中国冲击”这一叙事需要认识到，结构性技术变革在削弱工厂岗位方面发挥了远为决定性的作用。通过将技术颠覆错怪给全球贸易，政策制定者冒着制定出恶化经济福利而非保障福利的政策风险。",
+    "cn": "二十年来，西方经济学家的共识是，自由贸易即使造成局部阵痛，也能带来广泛繁荣。这一共识在2016年关于所谓“中国冲击”的里程碑式研究出炉后被打破。经济学家戴维·奥特尔、戴维·多恩和戈登·汉森证明，中国加入世界贸易组织后快速的进口渗透，严重破坏了全美制造业社区。这篇论文从根本上改变了政治辩论，为日益抬头的保护主义提供了实证支持。\n\n如今，最新的学术文献正在尝试重新评估这些爆发性的研究结论。近期的研究表明，虽然特定制造业地区的初期就业损失是真实的，但更广泛的全国性补救措施和抵消效应却被低估了。研究人员指出，更低廉的商品价格以及服务业就业的增长提供了显著的经济缓冲，随着时间的推移稀释了对国家经济的总体损害。\n\n此外，原始论点的批评者主张，技术而非中国的竞争，才是淘汰工厂劳动力的主因。早在北京成为“世界工厂”之前，自动化和数字供应链管理就已经在重塑工业格局。区分技术淘汰与贸易竞争对宏观经济研究人员而言仍是一个复杂的实证挑战。\n\n这场持续的学术争论具有深远的现实政策意义。如果与新兴经济体的贸易确实是工业衰退的核心罪魁祸首，那么激进的关税和产能回流指令似乎顺理成章。反之，如果贸易摩擦只是更广泛技术变革的次要症状，那么保护主义壁垒只会提高生活成本，却无法恢复工厂岗位。\n\n随着地缘政治紧张局势的加剧，政策制定者必须审慎应对这些相互竞争的经济解释。采取一刀切的贸易限制措施进行过度反应，可能会扼杀经济活力并重新引发通胀压力。因此，化解围绕“中国冲击”的夸大说法不仅是一项学术研究，更是当今互联世界中制定合理经济政策的迫切前提。",
     "vocab": [
       {
-        "w": "accession",
-        "ipa": "/əkˈseʃn/",
+        "w": "consensus",
+        "ipa": "/kənˈsen.səs/",
         "pos": "n.",
-        "mean": "加入；正式就任",
-        "def": "the act of joining an organization or agreeing to a treaty",
-        "ex": "The country's accession to the trade block opened new export channels."
-      },
-      {
-        "w": "monumental",
-        "ipa": "/ˌmɒnjuˈmentl/",
-        "pos": "adj.",
-        "mean": "巨大的；具有里程碑意义的",
-        "def": "great in importance, extent, or size",
-        "ex": "The treaty was a monumental achievement in international diplomacy."
-      },
-      {
-        "w": "crippled",
-        "ipa": "/ˈkrɪpld/",
-        "pos": "v.",
-        "mean": "严重削弱；使瘫痪",
-        "def": "severely damaged or limited the efficiency of something",
-        "ex": "Soaring energy costs crippled small manufacturing businesses."
+        "mean": "共识",
+        "def": "a general agreement among a group of people",
+        "ex": "Reaching a global consensus on carbon reduction targets proved challenging."
       },
       {
         "w": "empirical",
-        "ipa": "/ɪmˈpɪrɪkl/",
+        "ipa": "/ɪmˈpɪr.ɪ.kəl/",
         "pos": "adj.",
-        "mean": "实证的；凭经验的",
-        "def": "based on observation or experience rather than theory",
-        "ex": "The paper provides strong empirical evidence to support the claim."
+        "mean": "实证的；经验主义的",
+        "def": "based on testing or experience rather than theory",
+        "ex": "The researchers gathered empirical evidence to test their economic theories."
       },
       {
-        "w": "compensatory",
-        "ipa": "/kəmˈpensətrɪ/",
-        "pos": "adj.",
-        "mean": "补偿性的；赔偿的",
-        "def": "intended to offset or make up for something lost or damaged",
-        "ex": "The government introduced compensatory measures for displaced workers."
-      },
-      {
-        "w": "bolstered",
-        "ipa": "/ˈbəʊlstəd/",
-        "pos": "v.",
-        "mean": "支持；提振",
-        "def": "supported, strengthened, or boosted",
-        "ex": "Strong quarterly earnings bolstered investor confidence."
-      },
-      {
-        "w": "esoteric",
-        "ipa": "/ˌiːsəˈterɪk/",
-        "pos": "adj.",
-        "mean": "深奥的；冷门的",
-        "def": "intended for or understood by only a small group with specialized knowledge",
-        "ex": "The debate centered on esoteric details of tax legislation."
-      },
-      {
-        "w": "ramifications",
-        "ipa": "/ˌræmɪfɪˈkeɪʃnz/",
+        "w": "penetration",
+        "ipa": "/ˌpen.ɪˈtreɪ.ʃən/",
         "pos": "n.",
-        "mean": "后果；衍生影响",
-        "def": "complex or unwelcome consequences of an action or event",
-        "ex": "The legal ruling has far-reaching ramifications for the tech industry."
+        "mean": "渗透；进入率",
+        "def": "the extent to which a product or idea is recognized or bought in a market",
+        "ex": "The rapid market penetration of smart appliances reshaped home consumer habits."
+      },
+      {
+        "w": "protectionism",
+        "ipa": "/prəˈtek.ʃən.ɪ.zəm/",
+        "pos": "n.",
+        "mean": "保护主义",
+        "def": "the theory or practice of shielding a country's domestic industries from foreign competition by taxing imports",
+        "ex": "Rising economic protectionism threatens to slow international trade volume."
+      },
+      {
+        "w": "diluted",
+        "ipa": "/daɪˈluː.tɪd/",
+        "pos": "v.",
+        "mean": "稀释；削弱",
+        "def": "made weaker or less effective by adding other elements",
+        "ex": "The impact of the tax reduction was diluted by surging fuel prices."
+      },
+      {
+        "w": "obsolescence",
+        "ipa": "/ˌɒb.səˈles.əns/",
+        "pos": "n.",
+        "mean": "淘汰；过时",
+        "def": "the process of becoming outdated or no longer used",
+        "ex": "Rapid digital advances accelerated the technological obsolescence of legacy hardware."
       },
       {
         "w": "culprit",
-        "ipa": "/ˈkʌlprɪt/",
+        "ipa": "/ˈkʌl.prɪt/",
         "pos": "n.",
-        "mean": "罪魁祸首；问题根源",
-        "def": "the cause of a problem or fault",
-        "ex": "Excessive supply chain bottlenecks were identified as the main culprit."
+        "mean": "罪魁祸首；成因",
+        "def": "a person or thing responsible for a main issue or problem",
+        "ex": "High debt accumulation was identified as the primary culprit behind the firm's collapse."
       },
       {
-        "w": "misattributing",
-        "ipa": "/ˌmɪsəˈtrɪbjuːtɪŋ/",
-        "pos": "v.",
-        "mean": "错误归因",
-        "def": "incorrectly ascribing something to a particular cause",
-        "ex": "Misattributing inflation solely to wage growth leads to flawed monetary policy."
+        "w": "reshoring",
+        "ipa": "/ˌriːˈʃɔː.rɪŋ/",
+        "pos": "n.",
+        "mean": "制造业回流",
+        "def": "the practice of transferring business operations back to the home country",
+        "ex": "Government incentives encouraged the reshoring of vital semiconductor manufacturing."
+      },
+      {
+        "w": "hyperbole",
+        "ipa": "/haɪˈpɜː.bəl.i/",
+        "pos": "n.",
+        "mean": "夸张；夸大言词",
+        "def": "exaggerated statements or claims not meant to be taken literally",
+        "ex": "Political rhetoric surrounding the trade deficit was often filled with hyperbole."
+      },
+      {
+        "w": "prerequisite",
+        "ipa": "/priːˈrek.wɪ.zɪt/",
+        "pos": "n.",
+        "mean": "先决条件",
+        "def": "a thing that is required as a prior condition for something else to happen",
+        "ex": "Stable macroeconomic policy is a prerequisite for attracting long-term foreign investment."
       }
     ],
     "gems": [
       {
-        "s": "By misattributing technological disruption to global trade, policymakers risk enacting remedies that worsen economic welfare rather than safeguarding it.",
-        "why": "Uses a contrastive participial clause ('By misattributing...') to clearly highlight the cause-and-effect relationship between flawed analysis and bad policy. 通过使用对比分词状语从句（“通过将...错怪给...”），清晰指出了错误分析与糟糕政策之间的因果关系。"
+        "s": "Distinguishing between technological obsolescence and trade competition remains a complex empirical challenge for macroeconomic researchers.",
+        "why": "This sentence uses a clear framing technique ('Distinguishing between X and Y remains Z') to balance two competing academic hypotheses, offering a sophisticated structure for analytical writing. 句子采用了清晰的对比表述结构（‘区分X与Y仍是Z’），平衡了两种不同的学术假说，是严谨分析类写作的优秀示范。"
       }
     ]
   }
