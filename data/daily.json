@@ -1,56 +1,343 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T04:57:26.653494+00:00",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T05:00:40.654872+00:00",
   "economist": {
     "headline": "New research tries to defuse the “China shock”",
     "teaser": "An almighty fight over an influential finding",
     "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
-    "vocab": []
+    "vocab": [
+      {
+        "word": "research",
+        "phonetic": "/ɹɪˈsɜːtʃ/",
+        "def": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth."
+      },
+      {
+        "word": "almighty",
+        "phonetic": "/ɔːlˈmaɪti/",
+        "def": "(sometimes postpositive) Unlimited in might; omnipotent; all-powerful"
+      }
+    ]
   },
   "st": {
-    "headline": "Japanese carmakers to cut development times to counter Chinese rivals",
-    "teaser": "They typically spend around four years developing a new model, more than twice that of their Chinese rivals.",
-    "url": "https://www.straitstimes.com/business/japanese-carmakers-to-cut-development-times-to-counter-chinese-rivals",
+    "headline": "First Resources, Bumitama Agri shares fall after receiving NEA notices over haze",
+    "teaser": "Other plantation stocks saw more muted movements.",
+    "url": "https://www.straitstimes.com/business/companies-markets/first-resources-bumitama-agri-shares-fall-after-receiving-nea-notices-over-haze",
     "fullText": [
-      "TOKYO – Japanese carmakers are stepping up efforts to shorten their vehicle development times as they seek to catch up with Chinese rivals that offer new models to global markets more quickly, to better respond to changing customer demand.",
-      "Toyota Motor, Honda Motor, Nissan Motor and other Japanese carmakers typically spend around four to five years developing a new model, more than twice as long as the less than two years taken by Chinese companies.",
-      "As part of its reform measures, Nissan aims to slash development times under its new family-based vehicle development strategy. The carmaker will design a common platform for multiple models of the same size.",
-      "The carmaker, for example, plans to shorten the lead time for developing a new sport-utility vehicle model to three years and one month for launch in North America in 2028.",
-      "It will then use the same platform as that of the new SUV for its derivative models, enabling it to reduce development time by up to 40% to 2½ years.",
-      "The new product strategy will cover 80% of the company’s global sales and is expected to cut the number of part types by 70%.",
-      "“This is a reform to become a company that responds to changes and delivers good cars in a timely manner,” Hidemi Sasaki, deputy general manager of Nissan’s product planning division, said.",
-      "Honda, seeking a V-shaped recovery from its first net loss in the last fiscal year, has introduced the “Triple Half” approach designed to halve development costs, time frames and workloads from 2025 levels, making full use of artificial intelligence and other digital technologies.",
-      "The new initiatives will begin with new models whose development the company will start in 2028.",
-      "Toyota, the world’s largest carmaker by volume, is also working to reduce types of parts, depending on customer needs, as fewer parts will improve productivity and speed up development work.",
-      "Naming the project Area 35, Toyota aims to improve the use of plant floor space by 35%.",
-      "Suzuki Motor plans to halve its current development time to around two years, while Mitsubishi Motors also aims to shorten the period by 20% to three years by around 2030. KYODO NEWS"
+      "SINGAPORE – Shares of Singapore-listed palm oil producers First Resources and Bumitama Agri fell in early trading on Oct 26 before recovering some ground by noon.",
+      "They were among 10 Singapore-registered companies that received notices from the National Environment Agency (NEA) after the market closed on Oct 23, seeking documents and information on the transboundary haze affecting the region.",
+      "First Resources shares fell as much as 4.9 per cent, or 18 cents, to $3.50, from their closing price of $3.68 on Oct 23.",
+      "Bumitama Agri shares fell as much as 6.7 per cent, or 11 cents, to $1.52 at the opening. Its previous closing price on Oct 23 was $1.63.",
+      "Both counters recovered ground by noon on Oct 26, with First Resources trading at $3.64 and Bumitama Agri at $1.61.",
+      "Other plantation stocks saw more muted movements.",
+      "At noon, shares of Wilmar International edged down one cent to $3.33 from their closing price of $3.34 on Oct 23. Golden Agri-Resources shares rose 0.5 cent, or 1.9 per cent, to 27.5 cents, from 27 cents previously.",
+      "Shares of Indofood Agri Resources, Kencana Agri and TSH Resources remained unchanged amid thin trading volumes. NEA said it had issued notices to 10 Singapore-registered companies under the Transboundary Haze Pollution Act (THPA).",
+      "The notices require the companies to provide information about their corporate relationships, locations of their land concessions in Indonesia and measures taken to prevent and combat fires to facilitate investigations.",
+      "Besides First Resources and Bumitama Agri, the companies served notices included Wilmar International, Indofood Agri Resources, Kencana Agri, Golden Agri International, Asia Pulp & Paper Company, Asia Pulp & Paper Company (China), TSH Global Plantation and TSH Oversea.",
+      "Golden Agri International is a subsidiary of Singapore Exchange (SGX)-listed Golden Agri-Resources, while TSH Global Plantation and TSH Oversea are linked to plantation group TSH Resources, which has a primary listing in Malaysia and a secondary listing in Singapore.",
+      "The five SGX-listed companies named by NEA have since issued statements addressing the notices.",
+      "Wilmar International was the first to announce its plan to comply with the directive from NEA on Oct 23. This was about three hours after the agency announced that it had issued the legal notices.",
+      "A spokesperson for Wilmar later told ST that it is working to provide the relevant documents and information, and will give more details when there are material updates.",
+      "First Resources said in its filing on Oct 24 that it has agreed to provide the necessary details.",
+      "Subsequently, Bumitama Agri and its subsidiaries said in a filing on Oct 24 that the company will provide the requested documents and information to NEA.",
+      "Golden Agri-Resources also said on Oct 24 that its Singapore subsidiary Golden Agri International has received the NEA notice and will cooperate with the government agency.",
+      "Meanwhile, Indofood Agri Resources said on Oct 25 it received a notice from NEA requiring it to provide documents and information. The company said it will make further announcements as and when there are material developments.",
+      "Kencana Agri said on Oct 25 that it received a notice from NEA on the same day “requesting certain documents and information”, adding that it would cooperate fully with NEA in accordance with applicable laws.",
+      "TSH Resources said on Oct 26 that its Singapore-incorporated subsidiaries, TSH Oversea and TSH Global Plantation, received notices from NEA on Oct 23 requiring them to provide documents and information by Nov 2.",
+      "TSH Resources said it was reviewing the notices and would engage with NEA.",
+      "Introduced in September 2014, the THPA targets those responsible for causing or condoning fires, and can be activated if the haze causes the Pollutant Standards Index, which measures air quality in Singapore, to stay in the unhealthy range in any part of the island for 24 hours or more.",
+      "Those guilty under the Act can be fined up to $100,000 a day, with the total capped at $2 million.",
+      "The current haze is caused by fires raging in forests and plantations in Indonesia, primarily Kalimantan and Sumatra.",
+      "The blazes are sparked by slash-and-burn practices to clear land. Such practices are illegal in Indonesia, but are still carried out as they are cheaper than removing trees using excavators."
     ]
   },
   "cna": {
-    "headline": "PAP votes in top decision-making body, Jeffrey Siow and Jasmin Lau nominated but not voted in",
-    "teaser": "Sunday’s ballot was the first for secretary-general Lawrence Wong since he led the party through his first General Election as prime minister last year.",
-    "url": "https://www.channelnewsasia.com/singapore/pap-leadership-election-cec-6489086",
+    "headline": "Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI",
+    "teaser": "Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI",
+    "url": "https://www.channelnewsasia.com/business/indonesia-stock-manipulation-market-rout-msci-6492141",
     "fullText": [
-      "SINGAPORE: The People’s Action Party (PAP) has elected its next central executive committee (CEC), as cadres voted in a renewed leadership slate at the party’s conference on Sunday (Oct 25).",
-      "First-term Members of Parliament Jeffrey Siow and Jasmin Lau made the nomination list for the party’s top decision-making body, but were not voted in.",
-      "Sunday’s ballot was the first for secretary-general Lawrence Wong since he led the party through his first General Election as prime minister last year. The PAP conference takes place every two years.",
-      "In no particular order, the PAP’s 39th CEC comprises:",
-      "These 12 members were elected from a secret ballot of 19 candidates earlier in the morning.",
-      "Minister for Energy, Trade and Industry (Energy and Industry) Tan See Leng and Acting Minister-in-charge of Muslim Affairs Zaqy Mohamad were then co-opted into the CEC with the 13th and 14th highest number of votes among party cadres. The PAP’s constitution allows for up to six members to be co-opted.",
-      "Party insiders told CNA that the other five candidates on the ballot were: Marsiling-Yew Tee GRC MP Alex Yam, Acting Minister for Manpower Jasmin Lau, Minister for Transport Jeffrey Siow, Minister for Digital Development and Information Josephine Teo, Second Minister for Home Affairs and Foreign Affairs Sim Ann.",
-      "First-term minister David Neo was not on the list of nominees.",
-      "CNA understands that Mr Wong, Mr Lee Hsien Loong, Mr Desmond Lee, Mr Chan, Mr Masagos, Mr Shanmugam and Ms Fu were identified as the core leaders of this team.",
-      "Other co-opted members, as well as specific appointments within the committee – such as chairman, secretary-general, treasurer and organising secretaries – will be announced in the weeks ahead.",
-      "The timing for this has varied in the past. It took 10 days in 2024, 20 days in 2022, and 11 days in 2020.",
-      "At Sunday’s conference, Mr Wong said the party cannot expect younger Singaporeans to feel the same bond with it simply for its past work, and must connect with them on their own terms.",
-      "“The strong mandate we received at the last election does not guarantee continued support,” he said. “We must continue to earn the trust of Singaporeans through what we deliver, how we conduct ourselves, and how well we serve Singaporeans.”",
-      "He called for the party to have the courage to make difficult decisions and the determination to see them through, and to remain a party for Singaporeans across generations, communities and all walks of life.",
-      "“The world around us may be growing darker. But together, we will keep our little red dot shining brightly. Together, we will secure a brighter future for all Singaporeans,” said Mr Wong."
+      "JAKARTA: Indonesia on Monday (Oct 26) introduced more measures to address stock market manipulation, including adding independent parties to a committee determining stocks with concentrated ownership structures, after MSCI said the country could be demoted due to concerns about opaque trading .",
+      "The measures came after MSCI announced earlier this month that it could demote Indonesia's stock exchange to \"standalone\" market status , saying not enough had been done to arrest coordinated trading practices in its stock market.",
+      "That was more severe than the global index provider's January warning that it could downgrade the country to \"frontier\" status. At present, MSCI still classifies Indonesia as an \"emerging\" market.",
+      "The Indonesia Stock Exchange (IDX) plans to expand the membership of a committee that comes up with a list of stocks with high shareholder concentration to include independent parties like Indonesian academics and F Chapman Taylor as a representative of foreign investors, chief Jeffrey Hendrik said at a press conference.",
+      "\"We encourage the IDX to strengthen the mechanism and methodology of trading supervision, including its capacity to identify patterns of irregular transactions, detect coordinated trading and strengthen the mechanism to respond to such events,\" said Hasan Fawzi, the financial regulator's capital market supervisor.",
+      "Last week, the IDX said it would exclude stocks with high shareholding concentrations from its main Jakarta index starting on Nov 2. The current list includes 80 companies.",
+      "The MSCI downgrade warning spurred Indonesia's deepest-ever two-day stock selloff on Oct 16 and Oct 19 sending the main index to its lowest point since 2020. It has since rebounded.",
+      "At 3.20am GMT (11.20am Singapore time) on Monday, the index was down around 0.6 per cent. The rupiah weakened 0.4 per cent to its weakest point since July.",
+      "The exchange also plans to launch investigations when it detects possible coordinated trading to manipulate share prices and freeze suspicious investor accounts, Hendrik said.",
+      "The new measure, to take effect in November, is more proactive than the IDX's previous response. The IDX previously warned public investors of unusual market activities when a stock price moved sharply and requested an explanation from the company. The process could also lead to a temporary freeze in share trading.",
+      "A policy that allows share buybacks without requiring approval from a general shareholders' meeting has also been extended until June 2027, Hasan said, adding that any buyback must consider rules about the minimum free float, or shares available to trade in the market.",
+      "Hasan said Indonesia has been communicating with MSCI and other global index providers like FTSE Russell to reiterate its regulators' commitment to market reforms.",
+      "The market showed resilience following MSCI's recent announcement, Hasan said, describing local investors as \"mature\" and \"wise\" for buying stocks in companies with good fundamentals.",
+      "President Prabowo Subianto told his cabinet last week that MSCI was trying to \"intimidate\" Indonesia, but said the country would not be afraid, striking a combative tone in his first public reaction to the downgrade warning.",
+      "Since MSCI's January warning, Indonesia has launched a series of reforms including releasing more details on investor accounts and ownership data, increasing the minimum free-float level and unveiling record fines against parties involved in market manipulation.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
     "headline": "Additional Guidance for Employers on Use of 1-Hour PM2.5 Readings to Protect Outdoor Workers During Haze",
     "teaser": "1 The Ministry of Manpower (MOM) has issued new guidance on how employers should adjust outdoor work based on the 1-hour PM2.5 readings. This complements the existing guidance based on the PSI forecast, and helps employers respond within the day as air quality changes.",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1020-guidance-for-employers-on-use-of-1-hour-pm25-readings-to-protect-outdoor-workers-during-haze"
+  },
+  "lifeVocab": [
+    {
+      "en": "badminton court",
+      "cn": "羽毛球场",
+      "def": "a marked rectangular area where badminton is played",
+      "ex": "You need to book the badminton court at the Community Club a week in advance.",
+      "emoji": "🏸"
+    },
+    {
+      "en": "resident pass",
+      "cn": "居民通行证/积分卡",
+      "def": "a card verifying local residence, often used for discounts or access",
+      "ex": "Show your resident pass at the counter to enjoy discounted course fees.",
+      "emoji": "💳"
+    },
+    {
+      "en": "interest group",
+      "cn": "兴趣小组",
+      "def": "a group of people who meet to pursue a shared hobby",
+      "ex": "She joined the local gardening interest group to learn how to grow orchids.",
+      "emoji": "👥"
+    },
+    {
+      "en": "subsidised course",
+      "cn": "有补贴的课程",
+      "def": "a class or training program where part of the cost is paid by the government or an organization",
+      "ex": "Seniors can sign up for subsidised cooking classes every weekend.",
+      "emoji": "🎓"
+    },
+    {
+      "en": "multi-purpose hall",
+      "cn": "多用途礼堂",
+      "def": "a large room used for various activities such as sports, events, and meetings",
+      "ex": "The town hall meeting will take place in the multi-purpose hall on level two.",
+      "emoji": "🏛️"
+    },
+    {
+      "en": "volunteering slot",
+      "cn": "志愿者时段",
+      "def": "a scheduled time period dedicated to unpaid service work",
+      "ex": "I booked a volunteering slot to distribute meal packs to low-income households.",
+      "emoji": "🙋"
+    },
+    {
+      "en": "registration desk",
+      "cn": "报到处",
+      "def": "a counter where people sign up or check in for activities",
+      "ex": "Please check in at the registration desk before entering the workshop.",
+      "emoji": "📝"
+    },
+    {
+      "en": "public noticeboard",
+      "cn": "公共公告栏",
+      "def": "a board on a wall where messages, notices, or announcements are displayed",
+      "ex": "Check the public noticeboard for updates on the upcoming neighborhood fiesta.",
+      "emoji": "📌"
+    },
+    {
+      "en": "fitness station",
+      "cn": "健身角",
+      "def": "outdoor exercise equipment located in public residential areas",
+      "ex": "Many elderly residents exercise at the outdoor fitness station in the morning.",
+      "emoji": "🏋️"
+    },
+    {
+      "en": "active ageing center",
+      "cn": "乐龄活动中心",
+      "def": "a facility providing recreational and health services for senior citizens",
+      "ex": "My grandfather visits the active ageing center daily to play chess with friends.",
+      "emoji": "👴"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "acquiesce",
+      "ipa": "/ˌæk.wiˈes/",
+      "pos": "v.",
+      "cn": "默许；勉强同意",
+      "def": "to accept something reluctantly but without protest",
+      "ex": "Management eventually acquiesced to the demands for flexible working hours."
+    },
+    {
+      "w": "bureaucratic",
+      "ipa": "/ˌbjʊə.rəˈkræt.ɪk/",
+      "pos": "adj.",
+      "cn": "官僚主义的；繁文缛节的",
+      "def": "relating to complicated official rules and processes",
+      "ex": "The approval process was delayed due to excessive bureaucratic hurdles."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案；突发事件",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "We must formulate a robust contingency plan in case supply chains are disrupted."
+    },
+    {
+      "w": "delineate",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
+      "pos": "v.",
+      "cn": "勾勒；明确界定",
+      "def": "to describe or portray something precisely",
+      "ex": "The project charter clearly delineates the roles and responsibilities of each team member."
+    },
+    {
+      "w": "efficacy",
+      "ipa": "/ˈef.ɪ.kə.si/",
+      "pos": "n.",
+      "cn": "功效；效力",
+      "def": "the ability to produce a desired or intended result",
+      "ex": "The clinical trial demonstrated the high efficacy of the new treatment."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈper.ə.tɪv/",
+      "pos": "adj.",
+      "cn": "迫切的；至关重要的",
+      "def": "of vital importance; crucial",
+      "ex": "It is imperative that we upgrade our cybersecurity protocols immediately."
+    },
+    {
+      "w": "juxtapose",
+      "ipa": "/ˌdʒʌk.stəˈpəʊz/",
+      "pos": "v.",
+      "cn": "把……并置/对比",
+      "def": "to place or deal with close together for contrasting effect",
+      "ex": "The report juxtaposes historical earnings against current projections to highlight growth."
+    },
+    {
+      "w": "manifestation",
+      "ipa": "/ˌmæn.ɪ.fesˈteɪ.ʃən/",
+      "pos": "n.",
+      "cn": "表现；体现",
+      "def": "an event, action, or object that clearly shows or embodies something",
+      "ex": "The sudden rise in sales is a clear manifestation of effective marketing."
+    },
+    {
+      "w": "paramount",
+      "ipa": "/ˈpær.ə.maʊnt/",
+      "pos": "adj.",
+      "cn": "首要的；至高无上的",
+      "def": "more important than anything else; supreme",
+      "ex": "Ensuring customer data privacy remains of paramount importance to the firm."
+    },
+    {
+      "w": "prevalent",
+      "ipa": "/ˈprev.əl.ənt/",
+      "pos": "adj.",
+      "cn": "普遍的；盛行的",
+      "def": "widespread in a particular area or at a particular time",
+      "ex": "Hybrid work arrangements have become increasingly prevalent across multinational firms."
+    }
+  ],
+  "listening": {
+    "source": "CNA Style · Upper-Intermediate",
+    "title": "Singapore Accelerates Rooftop Solar Panel Deployment Across HDB Blocks",
+    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ræmpɪŋ ʌp/ (phrv.) increasing or expanding activity substantially — 加速；扩大\">ramping up</span> its national solar initiative, with thousands of public housing blocks now fitted with rooftop solar panels. Officials state that the clean energy generated will help power common services such as lifts and corridor lighting, reducing the carbon footprint of residential estates. As urban space remains constrained, <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈkæp.ɪ.təl.aɪ.zɪŋ/ (v.) taking advantage of a situation — 利用\">capitalizing</span> on existing infrastructure proves essential for achieving carbon <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/njuːˈtræl.ə.ti/ (n.) state of balancing emitted and absorbed carbon — 碳中和\">neutrality</span> targets."
+  },
+  "economistArticle": {
+    "title": "Re-evaluating the 'China Shock': Did Imports Really Destroy Western Manufacturing?",
+    "paras": [
+      "For two decades, mainstream economic policy in the West was haunted by a single, powerful narrative: the 'China shock'. Groundbreaking academic research published in the early 2010s demonstrated that the sudden surge of cheap Chinese exports following Beijing's <span class=\"voc\">accession</span> to the World Trade Organisation in 2001 devastated Western manufacturing hubs, wiping out millions of blue-collar jobs that never truly recovered.",
+      "This empirical thesis reshaped modern geopolitics, fueling protectionist rhetoric and laying the intellectual groundwork for tariffs across successive American administrations. However, a fresh wave of empirical research is now challenging this <span class=\"voc\">orthodox</span> reading. Revisionist economists argue that while import <span class=\"voc\">penetration</span> certainly caused localized disruption, its overall role in manufacturing job losses has been dramatically <span class=\"voc\">overstated</span>.",
+      "New quantitative models suggest that structural shifts—most notably rapid automation and an economy-wide transition toward service industries—were already systematically <span class=\"voc\">eroding</span> industrial employment long before Chinese goods <span class=\"voc\">inundated</span> Western markets. Furthermore, earlier studies often failed to account for the secondary benefits of cheap intermediate imports, which lowered input costs for <span class=\"voc\">downstream</span> domestic firms and spurred hiring in non-manufacturing sectors.",
+      "<span class=\"gem\">The <span class=\"voc\">methodological</span> debate is far from a mere academic exercise; it carries profound implications for contemporary industrial policy.</span> <span class=\"gem\">If structural technological changes, rather than foreign trade competition, were the primary cause of industrial decline, aggressive tariff regimes will prove largely ineffective at <span class=\"voc\">resurrecting</span> lost factory positions.</span>",
+      "As Western governments double down on <span class=\"voc\">subsidising</span> domestic green infrastructure and semiconductors, policymakers would do well to heed these fresh insights. Blindly penalising global trade will not reverse technological progress, nor will it magically restore the manufacturing eco-systems of the past."
+    ],
+    "cn": "二十年来，西方的主流经济政策一直被一个强大而单一的叙事所困扰，那就是“中国冲击”。2010年代初期发表的突破性学术研究表明，在2001年中国加入世界贸易组织后，廉价中国出口商品的大幅激增摧毁了西方的制造业中心，抹去了数百万永远未能真正恢复的蓝领岗位。\n\n这一实证论题重塑了现代地缘政治，加剧了保护主义言论，并为历届美国政府征收关税奠定了理论基础。然而，新一轮的实证研究正在挑战这一正统解读。修正派经济学家争辩称，尽管进口渗透确实造成了局部破坏，但其在制造业岗位流失中的总体作用被大幅夸大了。\n\n新的定量模型表明，结构性转变——尤其是快速自动化以及整个经济向服务业的转型——早在中国商品淹没西方市场之前，就已在系统性地侵蚀工业就业。此外，早期的研究往往未能考虑到廉价中间进口商品的二次效益，这些进口商品降低了下游本土企业的投入成本，并促进了非制造业领域的招聘。\n\n这种方法论上的辩论绝非单纯的学术探讨，它对当代的工业政策具有深远的影响。如果结构性技术变革而非外贸竞争才是工业衰退的主因，那么激进的关税制度将被证明在复兴已流失的工厂岗位方面在很大程度上是无效的。\n\n随着西方政府加倍加大对本土绿色基础设施和半导体的补贴，政策制定者最好听取这些新的见解。盲目惩罚全球贸易既不会扭转技术进步，也不会奇迹般地恢复过去的制造业生态系统。",
+    "vocab": [
+      {
+        "w": "accession",
+        "ipa": "/ækˈseʃ.ən/",
+        "pos": "n.",
+        "mean": "加入；就职",
+        "def": "the act of joining an organization or agreeing to a treaty",
+        "ex": "The country's accession to the trade bloc boosted foreign investment."
+      },
+      {
+        "w": "orthodox",
+        "ipa": "/ˈɔː.θə.dɒks/",
+        "pos": "adj.",
+        "mean": "正统的；传统观点的",
+        "def": "conforming to what is traditionally accepted as right or true",
+        "ex": "The report challenges orthodox assumptions about economic growth."
+      },
+      {
+        "w": "penetration",
+        "ipa": "/ˌpen.ɪˈtreɪ.ʃən/",
+        "pos": "n.",
+        "mean": "渗透；市场占有",
+        "def": "the extent to which a product or idea is recognized or bought in a market",
+        "ex": "Market penetration increased significantly after the price cut."
+      },
+      {
+        "w": "inundated",
+        "ipa": "/ˈɪn.ʌn.deɪ.tɪd/",
+        "pos": "v.",
+        "mean": "淹没；使应接不暇",
+        "def": "overwhelmed or flooded with things or people to be dealt with",
+        "ex": "Local businesses were inundated with complaints after the service outage."
+      },
+      {
+        "w": "downstream",
+        "ipa": "/ˌdaʊnˈstriːm/",
+        "pos": "adj.",
+        "mean": "下游的；处于后期阶段的",
+        "def": "relating to something occurring at a later stage in a process or chain",
+        "ex": "Lower steel prices benefited downstream automobile manufacturers."
+      },
+      {
+        "w": "methodological",
+        "ipa": "/ˌmeθ.ə.dəˈlɒdʒ.ɪ.kəl/",
+        "pos": "adj.",
+        "mean": "方法论的",
+        "def": "relating to the system of methods used in a particular area of study",
+        "ex": "The team faced methodological challenges in gathering reliable field data."
+      },
+      {
+        "w": "resurrecting",
+        "ipa": "/ˌrez.əˈrekt.ɪŋ/",
+        "pos": "v.",
+        "mean": "复兴；使复苏",
+        "def": "bringing back into use, impression, or activity",
+        "ex": "The government is keen on resurrecting legacy manufacturing industries."
+      },
+      {
+        "w": "subsidising",
+        "ipa": "/ˈsʌb.sɪ.daɪ.zɪŋ/",
+        "pos": "v.",
+        "mean": "资助；给……补助金",
+        "def": "paying part of the cost of something to keep the price low",
+        "ex": "State agencies are subsidising clean energy transitions for small businesses."
+      },
+      {
+        "w": "eroding",
+        "ipa": "/ɪˈrəʊd.ɪŋ/",
+        "pos": "v.",
+        "mean": "侵蚀；逐渐削弱",
+        "def": "gradually destroying or wearing away something",
+        "ex": "Inflation is steadily eroding consumer purchasing power."
+      },
+      {
+        "w": "overstated",
+        "ipa": "/ˌəʊ.vəˈsteɪ.tɪd/",
+        "pos": "adj.",
+        "mean": "夸大的",
+        "def": "expressed or stated too strongly; exaggerated",
+        "ex": "The impact of the reform on immediate employment was widely overstated."
+      }
+    ],
+    "gems": [
+      {
+        "s": "The methodological debate is far from a mere academic exercise; it carries profound implications for contemporary industrial policy.",
+        "why": "The contrast 'far from a mere X; it carries Y' creates strong rhetorical momentum, emphasizing practical relevance over abstract theory. 这种“绝非单纯的X；它对Y具有深远意义”的对比手法增强了修辞气势，凸显了实用价值而非抽象理论。"
+      },
+      {
+        "s": "If structural technological changes, rather than foreign trade competition, were the primary cause of industrial decline, aggressive tariff regimes will prove largely ineffective at resurrecting lost factory positions.",
+        "why": "This conditional structure effectively exposes policy flaws by isolating the root cause of an economic phenomenon. 这种条件假定句式通过剖析经济现象的根本原因，有力地揭示了政策方案的局限性。"
+      }
+    ]
   }
 }
