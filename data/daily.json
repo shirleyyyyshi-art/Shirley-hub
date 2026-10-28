@@ -1,63 +1,317 @@
 {
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T05:17:21.801572+00:00",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T05:56:15.617821+00:00",
   "economist": {
-    "headline": "New research tries to defuse the “China shock”",
-    "teaser": "An almighty fight over an influential finding",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+    "headline": "In an AI blow-up, would insurance pay out?",
+    "teaser": "Credit default swaps are back in vogue amid fears of a debt disaster",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
     "vocab": [
       {
-        "word": "almighty",
-        "phonetic": "/ɔːlˈmaɪti/",
-        "def": "(sometimes postpositive) Unlimited in might; omnipotent; all-powerful"
+        "word": "insurance",
+        "phonetic": "/ɪn.ˈʃɔː.ɹəns/",
+        "def": "A means of indemnity against a future occurrence of an uncertain event."
       },
       {
-        "word": "influential",
-        "phonetic": "/ɪnfluˈɛnʃəl/",
-        "def": "A person who has influence"
+        "word": "disaster",
+        "phonetic": "/dɪˈzæs.tə/",
+        "def": "An unexpected natural or man-made catastrophe of substantial extent causing significant physical damage or destruction, loss of life or sometimes permanent change to the natural environment."
       }
     ]
   },
   "st": {
-    "headline": "Bond market is a buy right now, J.P. Morgan Asset Management’s fixed income head says",
-    "teaser": "The bond market has rebounded following a sell-off in October and September.",
-    "url": "https://www.straitstimes.com/business/bond-market-is-a-buy-right-now-j-p-morgan-asset-managements-fixed-income-head-says",
+    "headline": "Ambani’s Jio surges 21% in Mumbai debut after record $3.2 billion India IPO",
+    "teaser": "The listing drew demand for more than 22 times the shares on offer.",
+    "url": "https://www.straitstimes.com/business/billionaire-ambanis-jio-to-debut-after-record-india-ipo",
     "fullText": [
-      "SINGAPORE – There is a “generational amount of yield” in bond markets and it is time to buy debt, with a return of as much as 8% on offer in the US over the next the year, Bob Michele, J.P. Morgan Asset Management’s head of global fixed income, said on Oct 27 .",
-      "The bond market has rebounded following a sell-off in October and September , especially in developed-market sovereign debt.",
-      "“We expect both the Fed funds rate and the Treasury curve to converge (around 4.5%),” Michele told reporters in Singapore.",
-      "“Generally at the end of a hiking cycle the yield curve is flat... so there’s plenty of room for yields to run from where they are.”",
-      "Carry and price appreciation are likely to deliver a return in the US market of 7% to 8% over the next 12 months, he added.",
-      "US 10-year yields were around 4.99% on Oct 27 having spent much of the past few weeks above 5%.",
-      "Investors expect the Fed funds rate window to stay at 3.75% to 4% when the Federal Reserve announces its interest rate decision on Oct 28 .",
-      "“There is yield all over the place,” said Michele. “When we looked at the Treasury curve a few weeks ago when it first went above 5%, to us the buy signal was real yield in the US that got to 3%. The last time we saw that was 2002. So at close to 25 years, that’s a buying opportunity.”",
-      "Japan, Australia, investment-grade credit and emerging market sovereign debt are among the stronger picks, he said.",
-      "“Everyone senses there’s a generational amount of yield in bond markets,” he said. “It’s pretty clear with the global capex cycle out there, recession is a very low probability. That means every back-up in credit spread (you) should buy.”",
-      "The “tail risk,” he said, was the Fed needing to hike much further than 4.5% to contain inflation. REUTERS"
+      "MUMBAI – Jio Platforms shares soared 21% in their Mumbai debut on Oct 28 , giving India’s biggest-ever initial public offering a roaring start and Mukesh Ambani’s Reliance Industries its first listing in two decades.",
+      "With the listing, Jio, whose telecoms business serves more than 530 million customers, has become the second-largest company by market capitalisation in India, trailing its parent, Reliance. Ambani’s digital and telecoms unit is backed by Meta Platforms and Alphabet’s Google.",
+      "The stock opened at 1,358 rupees (S$18.30) a share, compared with its 1,119-rupee offer price. Jio is now valued at about US$131.52 billion (S$168.6 billion), overtaking Bharti Airtel and HDFC Bank as the second-largest Indian firm in terms of market capitalisation.",
+      "The listing furthers Ambani’s plan to turn Jio’s parent Reliance Industries from an oil-and-chemicals conglomerate into an “everything company” spanning consumer and technology.",
+      "The listing ceremony for Jio was attended by Mukesh Ambani, Akash Ambani, his eldest son, who is Jio’s managing director, and his wife Nita Ambani. Ambani’s other children Isha and Anant Ambani also attended.",
+      "An emotional Mukesh Ambani was seen in tears as Anant traced Reliance’s and Jio’s legacies and journey in a speech at the ceremony.",
+      "The family rang the IPO bell on stage at the National Stock Exchange in Mumbai.",
+      "Major Indian newspapers on Oct 28 carried front-page ads from Reliance Jio, saying “Thank you, India”.",
+      "Ahead of the listing, the premium for Jio shares in the grey market – an unregulated market that allows investors to trade in unlisted shares – indicated gains of about 22%.",
+      "India has become the world’s busiest IPO market in 2026 in terms of the number of deals, with 246 listings so far, though it ranked fourth by money raised at US$13.5 billion, behind the US, mainland China and Hong Kong, LSEG data showed.",
+      "Several brokerages called the US$108.3 billion valuation attractive, with some pointing to potential upside, though they flagged competition, heavy capital spending and changes in India’s telecom rules, including those related to spectrum, licensing and fees, as risks. REUTERS"
     ]
   },
   "cna": {
-    "headline": "China's industrial profit growth picks up amid deepening economic divergence",
-    "teaser": "China's industrial profit growth picks up amid deepening economic divergence",
-    "url": "https://www.channelnewsasia.com/business/chinas-industrial-profit-growth-picks-up-amid-deepening-economic-divergence-6495031",
+    "headline": "AI chips worth US$12.1 million seized at Malaysia airport, customs authority says",
+    "teaser": "AI chips worth US$12.1 million seized at Malaysia airport, customs authority says",
+    "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
     "fullText": [
-      "BEIJING: China's industrial profits grew at a faster pace in September, though a deepening divergence across the economy weighed on business earnings.",
-      "Profits at industrial firms rose 14.4 per cent from a year earlier last month, quickening from a 4.2 per cent increase in August, data from the National Bureau of Statistics (NBS) showed on Tuesday (Oct 27). Profits were up 15.5 per in the first nine months of this year, largely unchanged from the 15.7 per cent increase in the January-August period.",
-      "The sectoral divide remained pronounced, with profits in the computer, communication and other electronic equipment manufacturing category more than doubling over the nine-month period, whereas profits in the furniture manufacturing sector fell by more than half, making it one of the worst performers.",
-      "Also casting a shadow over the sustainability of profit growth, export-oriented firms are bracing for greater uncertainty as expanding trade surpluses stoke tensions with trading partners, particularly Europe.",
-      "\"This suggests that domestic and external demand generated by the development of the AI supply chain has become a key force supporting industrial profits,\" he said.",
-      "\"Barring a major reversal in the global AI investment boom, industrial profits are expected to continue growing at a rapid pace.\"",
-      "A stronger-than-expected 4.5 per cent expansion in third-quarter GDP put China within reach of its annual growth target of 4.5 per cent to 5.0 per cent, but disparities across different parts of the economy suggest the recovery remains unbalanced, with persistent weakness in some sectors continuing to erode corporate profitability.",
-      "That pressure has become increasingly visible at the company level. Net profit growth at the world's largest electric vehicle battery maker, CATL, slowed sharply in the past quarter, as intense competition in the EV battery market squeezed margins at a time when China's auto sales were in a downturn.",
-      "China will continue to leverage macroeconomic policies to support growth, expand domestic demand and optimize supply, said NBS statistician Yu Weining, underscoring a push to replace traditional growth drivers with new ones.",
-      "Industrial profit figures cover firms with yearly revenue of at least 20 million yuan (US$3.0 million) from main operations.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "KUALA LUMPUR: Malaysian customs said on Wednesday (Oct 28) that it had seized about 49.5 million ringgit (US$12.11 million) worth of advanced artificial intelligence chips this month, as authorities close in on a syndicate suspected of smuggling high-performance semiconductors through the country's main airport.",
+      "Malaysia imposed export controls last year on the movement of advanced AI chips of US origin, following pressure from the United States to stem their flow into China.",
+      "On Oct 15, authorities found 30 server units containing advanced AI chips during an inspection at Kuala Lumpur International Airport's free trade zone, the airport's customs director Aspalila Ag Tuah told reporters.",
+      "Initial investigations found that the shipment, originating from an Asian country, was to be re-exported to another nation in the continent, a move that required a trade permit, she said.",
+      "A Malaysian firm that facilitated the shipment has been called in to assist investigations, she added.",
+      "The shipment was suspected to have been carried out by a network responsible for a similar smuggling attempt foiled by customs authorities in June, she said.",
+      "At least five cases were linked to the syndicate, involving seizures of chips worth more than 100 million ringgit in total, she said, declining to divulge further details citing an ongoing probe.",
+      "An automated curation of our top stories to start your day."
     ]
   },
   "mom": {
-    "headline": "Tripartite Workgroup Recommends Six Measures to Build Age-Friendly Jobs and Multi-Generational Workplaces",
-    "teaser": "The Tripartite Workgroup on Senior Employment (TWG-SE) released its report today. The report sets out six recommendations to help more seniors remain in meaningful and sustainable employment for longer if they choose to, while fostering age-friendly and multi-generational workplaces. Building on the foundations laid by",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1026-twg-se-recommendations"
+    "headline": "ASEAN launches labour statistician network to support future workforce planning",
+    "teaser": "1 The ASEAN Labour Statisticians Network (ALSN) was launched today to support member states in earlier identification of emerging jobs and skills to strengthen workforce planning across the region. The Network, which was proposed by Singapore, will support ASEAN member states to better anticipate labour market impact o",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1027-launch-of-alsn"
+  },
+  "lifeVocab": [
+    {
+      "en": "triage",
+      "cn": "诊察分类",
+      "def": "preliminary assessment of patients to determine urgency of treatment",
+      "ex": "The nurse at the triage counter took my temperature before assigning a queue number.",
+      "emoji": "🏥"
+    },
+    {
+      "en": "referral",
+      "cn": "转诊单",
+      "def": "an official direction to see a medical specialist or hospital",
+      "ex": "I obtained a referral letter from the polyclinic doctor to see an eye specialist.",
+      "emoji": "📄"
+    },
+    {
+      "en": "subsidy",
+      "cn": "医疗补贴",
+      "def": "financial assistance provided by the government to reduce healthcare costs",
+      "ex": "Singapore citizens enjoy substantial government subsidies for medical consultations.",
+      "emoji": "💰"
+    },
+    {
+      "en": "dispensary",
+      "cn": "药房",
+      "def": "a place in a clinic where medicines are prepared and given out",
+      "ex": "Please collect your prescribed medication at the dispensary after payment.",
+      "emoji": "💊"
+    },
+    {
+      "en": "symptom",
+      "cn": "症状",
+      "def": "a physical or mental feature indicating a condition or disease",
+      "ex": "Fatigue and a persistent cough are common symptoms of a respiratory infection.",
+      "emoji": "🤒"
+    },
+    {
+      "en": "appointment",
+      "cn": "预约",
+      "def": "an arrangement to meet a doctor at a set time",
+      "ex": "I booked my polyclinic appointment online to avoid long waiting times.",
+      "emoji": "📅"
+    },
+    {
+      "en": "consultation",
+      "cn": "问诊",
+      "def": "a formal meeting with a medical professional for discussion and advice",
+      "ex": "During the consultation, the doctor asked about my recent medical history.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "chronic",
+      "cn": "慢性（病）",
+      "def": "referring to a medical condition that persists for a long time",
+      "ex": "He attends regular check-ups to manage his chronic hypertension.",
+      "emoji": "⏳"
+    },
+    {
+      "en": "MC (Medical Certificate)",
+      "cn": "病假条",
+      "def": "an official document from a medical practitioner certifying illness",
+      "ex": "She submitted her two-day MC to human resources after falling sick.",
+      "emoji": "📝"
+    },
+    {
+      "en": "vital signs",
+      "cn": "生命体征",
+      "def": "clinical measurements indicating essential body functions like pulse and blood pressure",
+      "ex": "The healthcare assistant measured my vital signs before I saw the physician.",
+      "emoji": "📊"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案/突发事件",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "The management team established a contingency budget to cover sudden operational shortfalls."
+    },
+    {
+      "w": "stringent",
+      "ipa": "/ˈstrɪn.dʒənt/",
+      "pos": "adj.",
+      "cn": "严格的",
+      "def": "strict, precise, and exacting in standards or requirements",
+      "ex": "Financial institutions must comply with stringent regulatory safeguards."
+    },
+    {
+      "w": "preemptive",
+      "ipa": "/priːˈemp.tɪv/",
+      "pos": "adj.",
+      "cn": "先发制人的",
+      "def": "taken as a measure against something anticipated or feared",
+      "ex": "The central bank made a preemptive rate cut to protect market liquidity."
+    },
+    {
+      "w": "divergence",
+      "ipa": "/daɪˈvɜː.dʒəns/",
+      "pos": "n.",
+      "cn": "分歧/差异",
+      "def": "a difference or conflict in opinions, interests, or direction",
+      "ex": "A growing divergence between executive expectations and regional outcomes caused delay."
+    },
+    {
+      "w": "benchmark",
+      "ipa": "/ˈbentʃ.mɑːk/",
+      "pos": "n.",
+      "cn": "基准/标杆",
+      "def": "a standard or point of reference against which things may be evaluated",
+      "ex": "The quarterly performance metrics serve as a benchmark for local teams."
+    },
+    {
+      "w": "impasse",
+      "ipa": "/æmˈpɑːs/",
+      "pos": "n.",
+      "cn": "僵局",
+      "def": "a situation in which no progress is possible due to disagreement",
+      "ex": "Contract negotiations reached an impasse over intellectual property rights."
+    },
+    {
+      "w": "incur",
+      "ipa": "/ɪnˈkɜːr/",
+      "pos": "v.",
+      "cn": "招致/产生（费用、损失）",
+      "def": "become subject to something unwelcome as a result of one's own actions",
+      "ex": "Late payments will incur additional interest charges from next month."
+    },
+    {
+      "w": "paramount",
+      "ipa": "/ˈpær.ə.maʊnt/",
+      "pos": "adj.",
+      "cn": "至关重要的",
+      "def": "more important than anything else; supreme",
+      "ex": "Ensuring data privacy remains of paramount importance to the leadership."
+    },
+    {
+      "w": "repercussion",
+      "ipa": "/ˌriː.pəˈkʌʃ.ən/",
+      "pos": "n.",
+      "cn": "后果/反响",
+      "def": "an unintended consequence occurring after an event, usually unwelcome",
+      "ex": "The supply chain disruption had serious economic repercussions across the region."
+    },
+    {
+      "w": "surmount",
+      "ipa": "/səˈmaʊnt/",
+      "pos": "v.",
+      "cn": "克服/跨越",
+      "def": "overcome a difficulty or obstacle successfully",
+      "ex": "The enterprise managed to surmount market volatility through strategic diversification."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Green Grants for Enterprise Digitalization",
+    "transcript": "Singapore's Ministry of Trade and Industry announced a new <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌdɒl.ə.fəˈdɒl.ər/ (adj.) matching funds in an equal amount — 一比一配套（等额匹配）\">dollar-for-dollar</span> matching grant to help small businesses transition to sustainable digital practices. Local enterprises adopting energy-efficient data hardware can apply for funding starting next month. Authorities hope this <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/faɪˈnæn.ʃəl ɪnˈdʒek.ʃən/ (n. phrase) an input of capital into an enterprise or economy — 资金注入\">financial injection</span> will bolster supply chain sustainability across Southeast Asia. Small business owners have welcomed the initiative, citing high upfront costs as a major <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɜː.dəl/ (n.) a problem or obstacle that must be overcome — 障碍/困难\">hurdle</span>."
+  },
+  "economistArticle": {
+    "title": "In an AI blow-up, would insurance pay out?",
+    "paras": [
+      "As billions of dollars pour into artificial intelligence infrastructure, corporate debt linked to tech megaprojects has exploded. Heavy investments in data centres and specialized microchips are being financed not just through equity, but via massive debt issuances. Yet, institutional investors are growing nervous about the sheer scale of capital expenditure required to keep pace with rapid technological <span class=\"voc\">obsolescence</span>.",
+      "This unease has sparked a revival of interest in financial derivatives designed to hedge against corporate defaults. Credit default swaps (CDS), financial instruments that function as insurance policies against borrower <span class=\"voc\">insolvency</span>, are experiencing a surge in trading volumes. Traders are increasingly buying protection against potential defaults by second-tier cloud providers and heavily <span class=\"voc\">leveraged</span> tech firms.",
+      "However, a crucial question haunts the credit markets: if an AI bubble bursts, will insurance payouts actually materialize? Traditional CDS contracts were designed around conventional corporate failure, such as operational bankruptcy or fraud. <span class=\"gem\">Disentangling systemic tech failures from market-wide macroeconomic stress presents complex legal hurdles, leading to ambiguous contract interpretations.</span>",
+      "Insurance providers and underwriters argue that catastrophic losses stemming from speculative technology cycles may trigger exclusions embedded in policy fine print. If a central AI hub fails due to technical obsolescence rather than outright credit default, contract triggers may fail to activate. This regulatory ambiguity threatens to leave debt holders exposed just when they expect to be insulated.",
+      "Until credit protection rules are explicitly recalibrated to account for tech-driven capital structures, market participants face <span class=\"voc\">precarious</span> conditions. The resurgence of CDS instruments signals growing skepticism about AI's short-term profitability. Capital markets must prepare for potential friction between debt holders and insurers if the promised tech <span class=\"voc\">bonanza</span> stumbles into insolvency."
+    ],
+    "cn": "随着数十亿美元涌入人工智能基础设施，与科技超大项目挂钩的公司债务呈爆炸式增长。针对数据中心和专用微芯片的大额投资，不仅通过股权融资，还通过大规模发债来进行。然而，保持对快速技术淘汰步伐所必需的资本支出规模如此庞大，令机构投资者越来越不安。\n\n这种不安引发了人们对旨在规避企业违约风险的金融衍生品的新兴趣。信用违约互换（CDS）作为一种针对借款人无力偿债的保险工具，交易量大幅增加。交易员越来越倾向于购买针对第二梯队云服务商及高杠杆科技公司潜在违约的保护。\n\n然而，一个关键问题困扰着信贷市场：如果人工智能泡沫破裂，保险赔付真的会兑现吗？传统的CDS合约是围绕传统的企业失败（如运营破产或欺诈）而设计的。将系统性科技失败与市场整体宏观经济压力区分开来会带来复杂的法律障碍，从而引发模糊的合约解释。\n\n保险提供商和承销商主张，由投机性科技周期引发的灾难性损失可能会触发政策细则中嵌入的排除条款。如果核心人工智能中心由于技术淘汰而非直接的信用违约而崩溃，合约触发条件可能无法启动。这种监管的不确定性可能会让债务人在期望获得保障时暴露于风险之中。\n\n在信贷保护规则得到明确重新校准以适应科技驱动的资本结构之前，市场参与者将面临不确定的局面。CDS工具的重新抬头表明，人们对人工智能短期盈利能力的怀疑日益增加。如果预期的科技狂欢跌入破产陷阱，资本市场必须为债务人与保险公司之间潜在的摩擦做好准备。",
+    "vocab": [
+      {
+        "w": "obsolescence",
+        "ipa": "/ˌɒb.səˈles.əns/",
+        "pos": "n.",
+        "mean": "淘汰/陈旧",
+        "def": "the process of becoming outdated or no longer used",
+        "ex": "Rapid technological obsolescence makes early equipment purchases risky."
+      },
+      {
+        "w": "derivative",
+        "ipa": "/dɪˈrɪv.ə.tɪv/",
+        "pos": "n.",
+        "mean": "金融衍生品",
+        "def": "a financial instrument whose value is derived from underlying assets",
+        "ex": "Investors traded financial derivatives to hedge their exposure to corporate debt."
+      },
+      {
+        "w": "insolvency",
+        "ipa": "/ɪnˈsɒl.vən.si/",
+        "pos": "n.",
+        "mean": "无力偿付/破产",
+        "def": "the state of being unable to pay debts owed",
+        "ex": "High debt levels pushed several speculative startups into insolvency."
+      },
+      {
+        "w": "leveraged",
+        "ipa": "/ˈliː.vər.ɪdʒd/",
+        "pos": "adj.",
+        "mean": "利用杠杆的/高负债的",
+        "def": "financed largely through borrowed capital",
+        "ex": "The heavily leveraged firm struggled when central bank interest rates rose."
+      },
+      {
+        "w": "disentangle",
+        "ipa": "/ˌdɪs.ɪnˈtæŋ.ɡəl/",
+        "pos": "v.",
+        "mean": "理清/解开",
+        "def": "free something from an entanglement or separate complex factors",
+        "ex": "It is difficult to disentangle temporary market fluctuations from long-term economic shifts."
+      },
+      {
+        "w": "underwriter",
+        "ipa": "/ˈʌn.dəˌraɪ.tər/",
+        "pos": "n.",
+        "mean": "保险承销商",
+        "def": "a institution that accepts financial risk in exchange for a premium",
+        "ex": "The insurance underwriter examined the policy conditions carefully."
+      },
+      {
+        "w": "exclusion",
+        "ipa": "/ɪkˈskluː.ʒən/",
+        "pos": "n.",
+        "mean": "排除条款/例外",
+        "def": "a provision in an insurance contract excluding specific coverage",
+        "ex": "Losses caused by systemic design flaws were listed under policy exclusions."
+      },
+      {
+        "w": "recalibrate",
+        "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
+        "pos": "v.",
+        "mean": "重新校准/调整",
+        "def": "alter or adjust something to fit new parameters or conditions",
+        "ex": "Lenders must recalibrate risk assessment frameworks for emerging technology firms."
+      },
+      {
+        "w": "precarious",
+        "ipa": "/prɪˈkeə.ri.əs/",
+        "pos": "adj.",
+        "mean": "不稳定的/危险的",
+        "def": "not securely held or positioned; dangerously uncertain",
+        "ex": "Unhedged credit exposure leaves debt holders in a precarious state."
+      },
+      {
+        "w": "bonanza",
+        "ipa": "/bəˈnæn.zə/",
+        "pos": "n.",
+        "mean": "财源/突然的大丰收",
+        "def": "a situation creating a sudden, massive increase in wealth or opportunity",
+        "ex": "The initial hardware boom provided a temporary financial bonanza for suppliers."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Disentangling systemic tech failures from market-wide macroeconomic stress presents complex legal hurdles, leading to ambiguous contract interpretations.",
+        "why": "This sentence uses a dynamic gerund subject ('Disentangling...') to open a complex analytical statement, elegantly connecting underlying causes to downstream legal consequences. 句首采用动名词短语作为主语，流畅地将系统性成因与后续的法律争议后果联系起来。"
+      }
+    ]
   }
 }
