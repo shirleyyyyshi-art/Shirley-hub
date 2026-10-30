@@ -1,323 +1,51 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T06:01:57.649127+00:00",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T06:02:59.378435+00:00",
   "economist": {
-    "headline": "China’s stock markets are the great global exception",
-    "teaser": "If the country is winning the future, why are its investors so glum?",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
-    "vocab": [
-      {
-        "word": "exception",
-        "phonetic": "/əkˈsɛpʃən/",
-        "def": "The act of excepting or excluding; exclusion; restriction by taking out something which would otherwise be included, as in a class, statement, rule."
-      },
-      {
-        "word": "winning",
-        "phonetic": "/ˈwɪnɪŋ/",
-        "def": "To conquer, defeat."
-      }
-    ]
+    "headline": "Christine Lagarde departs at a moment of peril",
+    "teaser": "Her successor as ECB chief will have an unenviable job",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+    "vocab": []
   },
   "st": {
-    "headline": "Wilmar slides more than 4% after weaker Q3 earnings; Indonesian police probe plantation fires",
-    "teaser": "Indonesian police are investigating about 28ha of plantation land belonging to Wilmar's subsidiaries.",
-    "url": "https://www.straitstimes.com/business/wilmar-slides-more-than-4-after-weaker-q3-earnings-indonesian-police-probe-plantation-fires",
+    "headline": "AEM and other Singapore chip stocks tumble after Wall Street hits a tech rout",
+    "teaser": "This follows an overnight Wall Street sell-off after Intel’s sales forecast missed analyst estimates.",
+    "url": "https://www.straitstimes.com/business/companies-markets/aem-and-other-singapore-chip-stocks-tumble-after-wall-street-hits-a-tech-rout",
     "fullText": [
-      "SINGAPORE – Shares of agribusiness group Wilmar International tumbled more than 4% on Oct 29, extending a months-long decline as the company faced an Indonesian police investigation into plantation fires and reported weaker underlying third-quarter earnings.",
-      "The counter was trading at $3.12 as at 10.47am, down 4.6% or 15 cents from its previous closing price of $3.27. Some 4.7 million shares changed hands. This was the lowest the stock has been trading at since Jan 21.",
-      "The shares subsequently pared some losses to trade at $3.14 as at noon.",
-      "The sell-off on Oct 29 marked a further slide for Wilmar’s shares, which have shed more than 20% over the past six months. Shares of Wilmar were trading at $3.99 on Apr 8.",
-      "Wilmar revealed on Oct 28 , in response to queries from the Singapore Exchange Regulation, that Indonesian police were conducting preliminary investigations into fires affecting about 28 hectares of plantation land belonging to its subsidiaries in West Kalimantan.",
-      "The group said it was cooperating fully with the authorities .",
-      "According to Wilmar, its internal investigations found that the fires originated either outside its concession boundaries or in non-planted areas, including land farmed by local communities and conservation areas under its management.",
-      "The mainboard-listed company said it found no evidence linking the fires to its land preparation or clearing activities. It estimated losses involving crops and oil palms at less than US$500,000 ( S$640,000 ).",
-      "The disclosures came after the regulator issued a second round of queries to listed agribusinesses with operations in Indonesia, seeking further information on their exposure to the fires and haze affecting Singapore.",
-      "The regulator also asked companies to disclose any investigations by the authorities in Singapore, Indonesia or elsewhere, and whether they had links to 10 Indonesian companies issued preventive measure notices under Singapore’s Transboundary Haze Pollution Act.",
-      "Wilmar said it had no operational, supply-chain or business relationships with those 10 companies.",
-      "Separately, Wilmar’s chairman and CEO Kuok Khoon Hong was among the company representatives who attended a closed-door meeting with Senior Minister K Shanmugam and other Singapore ministers on Oct 28 over the haze.",
-      "At the meeting, Shanmugam urged the companies to cooperate fully with investigations into the Indonesian fires, warning that the authorities would use their powers to establish responsibility for the transboundary haze.",
-      "Wilmar maintained that the fires and haze had not resulted in, and were not expected to result in, any material operational, financial, legal or regulatory impact on the group.",
-      "The developments came as Wilmar reported weaker underlying earnings for the third quarter ended Sept 30.",
-      "Although its net profit stood at US$281 million, reversing a year-ago loss that had been weighed down by a one-off compensation expense paid to the Indonesian government, its core net profit fell 25.2% year on year to US$267.3 million.",
-      "The group attributed the weaker underlying performance partly to higher raw material costs and lower soybean crushing margins. THE BUSINESS TIMES"
+      "SINGAPORE – Singapore’s tech and chip companies took a tumble on the stock exchange, following tech giants falling on Wall Street.",
+      "Semiconductor solutions company AEM saw its stock fall as much as 11% in the early trading hours on Oct 30, before moderating to a decline of 7% by the noon trading break.",
+      "Newly-listed Mi Material, which makes chip packaging materials, slid over 14%, while semiconductor equipment manufacturer UMS Integration was also down by nearly 6%.",
+      "PC Partner, a global manufacturer of computer electronics and hardware listed on the Singapore Exchange (SGX), also fell over 4%.",
+      "This follows a sell-off on Wall Street overnight, when Intel’s sales forecast missed analyst estimates.",
+      "The chipmaker’s shares plunged 23% ​after hours on Oct 29 after it warned that it would burn cash in 2026 due to the slowing personal computer market, bottlenecks in manufacturing ‌and heavy spending on expanding production.",
+      "It also faced supply disruptions that limited its ability to fully capitalise on growing demand for data-centre chips.",
+      "Intel chief executive Tan Lip-Bu reportedly told analysts on a conference call that the company faces near-term challenges, including manufacturing supply shortages, an unprecedented memory crunch, and softness in personal computer demand as a result.",
+      "Singapore’s AEM has a long-standing, strategic relationship with Intel as a key supplier of advanced semiconductor test solutions.",
+      "Meanwhile, Google’s Alphabet closed over 12% lower on Oct 29, too, wiping out roughly US$500 billion in market value in what reports called its “worst day ever”.",
+      "This sell off came after the tech giant’s third quarter earnings fell short of analysts’ profit expectations.",
+      "The ripples were also felt in the Asian region, with South Korea’s Kospi index falling some 5% during morning trading on Oct 30. The index is also home to global chip firms like SK Hynix and Samsung Electronics.",
+      "Saxo Markets chief investment strategist Charu Chanana said the latest tech earnings confirm that AI demand is still booming, but investors are becoming much harder to impress.",
+      "“AI demand is not the problem. The challenge is increasingly about the cost of meeting that demand and how much of the growth eventually translates into profits and cash flow,” she said in a research note on Oct 30.",
+      "She noted that cloud providers are growing rapidly, semiconductor and memory companies are enjoying exceptional demand, and AI is beginning to generate revenues for software businesses.",
+      "“Yet, strong results have not always been rewarded by investors. Higher spending, uncertain future margins and elevated valuations are making markets more selective,” she said.",
+      "She added that the issue now is that the cost of supplying AI demand rises faster than the profit it generates.",
+      "“For investors, the distinction between companies capable of financing investment through recurring cash flow and those reliant on external capital is becoming more important.”"
     ]
   },
   "cna": {
-    "headline": "Japan bonds steady ahead of BOJ decision; strong auction lends support",
-    "teaser": "Japan bonds steady ahead of BOJ decision; strong auction lends support",
-    "url": "https://www.channelnewsasia.com/business/japan-bonds-steady-ahead-boj-decision-strong-auction-lends-support-6502456",
+    "headline": "Spotify targets 2027 launch for AI remix service, FT reports",
+    "teaser": "Spotify targets 2027 launch for AI remix service, FT reports",
+    "url": "https://www.channelnewsasia.com/business/spotify-targets-2027-launch-ai-remix-service-ft-reports-6506086",
     "fullText": [
-      "TOKYO, Oct 29 : Japanese government bonds (JGBs) were steady on Thursday, a day before the Bank of Japan's monetary policy decision, while strong demand at an auction of 2-year notes provided support.",
-      "The market was also buoyed by gains in US Treasuries after the Federal Reserve left interest rates unchanged and gave few signals about the chances of a hike at the next meeting in December.",
-      "\"The market seemed to perceive it as less hawkish than expected,\" said Yuhi Kawano, a market analyst at Mizuho Securities.",
-      "\"Under these circumstances, it’s easy to see why the need for the Bank of Japan to raise rates at a high pace seems low, which should be supportive for the yen bond market.\"",
-      "• A measure of demand called the bid-to-cover ratio rose to 4.03 at the 2-year auction, from 3.89 at a sale last month",
-      "• The 10-year JGB yield also added 0.5 bp to 2.83 per cent, while the 5-year yield was flat at 2.265 per cent",
-      "• The 30-year yield edged up half a basis point to 3.88 per cent; the 20-year JGB hadn't traded as of 0514 GMT",
-      "• The BOJ is likely to leave rates unchanged on Friday and hike by a quarter-point in December, according to a Reuters poll of economists",
+      "Oct 30 : Spotify aims to launch an AI-powered music remix service in the first quarter of 2027, targeting a potential unveiling around the Grammy Awards in February, the Financial Times reported on Friday, citing people familiar with the plans.",
+      "• Spotify has struck licensing deals with Universal Music Group, independent label group Merlin and French music company Believe for the remix feature, the FT said",
+      "• The company is still negotiating with Sony Music and Warner Music to implement the feature, according to the FT report",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
-    "headline": "Company and General Manager Charged Under the Foreign Employee Dormitories Act for Operating an Unlicensed Dormitory",
-    "teaser": "On 29 October 2026, LBD Engineering Pte Ltd (\"LBD\") and its General Manager, Alvin Lim Yee Hong (\"Lim\") were charged in Court for allegedly operating a foreign employee dormitory without a valid licence, an offence under the Foreign Employee Dormitories Act 2015 (\"FEDA\"). Case Details 2 On 6 January 2026, MOM inspected",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/2910-company-and-general-manager-charged-under-the-feda-for-operating-an-unlicensed-dormitory"
-  },
-  "lifeVocab": [
-    {
-      "en": "barcode scanner",
-      "cn": "条形码扫描仪",
-      "def": "an electronic device used to read printed barcodes on products",
-      "ex": "The cashier used the barcode scanner to process my grocery items quickly.",
-      "emoji": "🏷️"
-    },
-    {
-      "en": "non-perishable",
-      "cn": "不易腐烂的（食品）",
-      "def": "food that can be stored for a long time without spoiling",
-      "ex": "During sales, it is wise to stock up on non-perishable goods like canned soup and rice.",
-      "emoji": "🥫"
-    },
-    {
-      "en": "cashier",
-      "cn": "收银员",
-      "def": "a person whose job is to receive payments in a store",
-      "ex": "She handed her loyalty card to the cashier at checkout.",
-      "emoji": "🧑‍💼"
-    },
-    {
-      "en": "aisle",
-      "cn": "货架间的过道",
-      "def": "a passage between rows of shelves in a supermarket",
-      "ex": "You can find cooking oil and condiments in aisle four.",
-      "emoji": "🛒"
-    },
-    {
-      "en": "expiration date",
-      "cn": "保质期 / 有效期",
-      "def": "the date after which a food product should not be eaten",
-      "ex": "Always check the expiration date on fresh milk before placing it in your basket.",
-      "emoji": "📅"
-    },
-    {
-      "en": "self-checkout",
-      "cn": "自助结账机",
-      "def": "an automated system where customers scan and pay for their own items",
-      "ex": "Using the self-checkout counter saved us a lot of time during the evening rush.",
-      "emoji": "💻"
-    },
-    {
-      "en": "re-usable bag",
-      "cn": "环保袋 / 可重复使用购物袋",
-      "def": "a sturdy shopping bag designed to be used multiple times",
-      "ex": "Remember to bring your own re-usable bag to avoid paying extra plastic bag charges.",
-      "emoji": "🛍️"
-    },
-    {
-      "en": "inventory",
-      "cn": "库存 / 存货",
-      "def": "a complete list or quantity of goods in stock",
-      "ex": "The supermarket restocks its fresh produce inventory every morning.",
-      "emoji": "📦"
-    },
-    {
-      "en": "receipt",
-      "cn": "收据 / 发票",
-      "def": "a printed paper showing that something has been paid for",
-      "ex": "Keep your purchase receipt in case you need to return a damaged item.",
-      "emoji": "🧾"
-    },
-    {
-      "en": "bulk purchase",
-      "cn": "大批量购买",
-      "def": "the act of buying large quantities of goods, often at a discounted price",
-      "ex": "Making a bulk purchase of household paper towels reduces long-term expenses.",
-      "emoji": "📦"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "spearhead",
-      "ipa": "/ˈspɪə.hed/",
-      "pos": "v.",
-      "cn": "带头发起 / 领导",
-      "def": "to lead an attack, movement, or business initiative",
-      "ex": "She was chosen to spearhead the regional digital transformation project."
-    },
-    {
-      "w": "curtail",
-      "ipa": "/kəˈteɪl/",
-      "pos": "v.",
-      "cn": "缩减 / 限制",
-      "def": "to reduce in extent or quantity; impose a restriction on",
-      "ex": "Management decided to curtail non-essential corporate travel to cut expenses."
-    },
-    {
-      "w": "delineate",
-      "ipa": "/dɪˈlɪn.i.eɪt/",
-      "pos": "v.",
-      "cn": "明确阐述 / 勾勒",
-      "def": "to describe or portray precisely",
-      "ex": "The policy document clearly delineates the operational boundaries of each unit."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "增加 / 扩充",
-      "def": "to make something greater by adding to it",
-      "ex": "The firm plans to augment its customer support staff with automated tools."
-    },
-    {
-      "w": "preempt",
-      "ipa": "/priːˈempt/",
-      "pos": "v.",
-      "cn": "先发制人 / 预先阻止",
-      "def": "to take action in order to prevent an anticipated event from happening",
-      "ex": "By introducing the new product early, the company managed to preempt competitor moves."
-    },
-    {
-      "w": "underpin",
-      "ipa": "/ˌʌn.dəˈpɪn/",
-      "pos": "v.",
-      "cn": "支撑 / 作为...的基础",
-      "def": "to support, justify, or form the foundation of",
-      "ex": "Robust regulatory standards underpin the stability of the local banking sector."
-    },
-    {
-      "w": "culminate",
-      "ipa": "/ˈkʌl.mɪ.neɪt/",
-      "pos": "v.",
-      "cn": "达到顶峰 / 以...告终",
-      "def": "to reach a climax or highest point of development",
-      "ex": "Months of delicate negotiations culminated in a binding joint-venture agreement."
-    },
-    {
-      "w": "elucidate",
-      "ipa": "/iˈluː.sɪ.deɪt/",
-      "pos": "v.",
-      "cn": "解释 / 阐明",
-      "def": "to make something clear; explain thoroughly",
-      "ex": "The financial director delivered a presentation to elucidate the cause of the deficit."
-    },
-    {
-      "w": "extrapolate",
-      "ipa": "/ɪkˈstræp.ə.leɪt/",
-      "pos": "v.",
-      "cn": "推断 / 外推",
-      "def": "to estimate or conclude by assuming existing trends will continue",
-      "ex": "Analysts should not extrapolate short-term gains when forecasting full-year revenue."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
-      "pos": "v.",
-      "cn": "散播 / 广泛传播",
-      "def": "to spread information or knowledge widely",
-      "ex": "The human resources department will disseminate the revised remote-work policy today."
-    }
-  ],
-  "listening": {
-    "source": "CNA Style · Intermediate",
-    "title": "Singapore Expands Green EV Charging Network in Housing Estates",
-    "transcript": "Singapore is accelerating its <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃ.ən/ (n.) the process of changing from one state to another — 转型 / 过渡\">transition</span> toward cleaner transport by installing thousands of electric vehicle charging points across public housing estates. Officials report that over half of all HDB car parks now offer accessible charging slots for residents. This <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪn.frəˌstrʌk.tʃər/ (n.) basic physical and organizational structures needed for operation — 基础设施\">infrastructure</span> expansion aims to support the nation's broader goal of phasing out internal combustion engine vehicles by 2040. Local drivers have welcomed the initiative, citing increased convenience and reduced range <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/æŋˈzaɪ.ə.ti/ (n.) a feeling of worry, nervousness, or unease — 焦虑 / 担忧\">anxiety</span>."
-  },
-  "economistArticle": {
-    "title": "The Great Disconnect in Chinese Equities",
-    "paras": [
-      "China’s industrial machine continues to churn out world-leading high-tech exports, from electric vehicles to solar panels, yet its domestic equity markets tell a starkly different story. Benchmark indices in Shanghai and Shenzhen remain sluggish, leaving local and international investors alike harboring a sense of profound gloom.",
-      "This <span class=\"voc\">paradox</span> stems from a fundamental <span class=\"voc\">misalignment</span> between corporate revenue growth and shareholder returns. <span class=\"gem\">While state-directed investment has propelled rapid technological advancement, intense domestic price wars and <span class=\"voc\">persistent</span> <span class=\"voc\">deflationary</span> pressures have severely <span class=\"voc\">compressed</span> corporate profit margins across key manufacturing sectors.</span>",
-      "Furthermore, real estate slumps have dampened consumer confidence, leading households to hoard cash in high-yielding savings accounts rather than risk their capital in <span class=\"voc\">volatile</span> equity markets. Regulatory uncertainties and shifting policy priorities have further discouraged foreign <span class=\"voc\">institutional</span> capital from taking long-term positions.",
-      "To reverse this <span class=\"voc\">skepticism</span>, Beijing must demonstrate that policy interventions will focus not merely on supply-side expansion, but on <span class=\"voc\">bolstering</span> consumer demand and safeguarding market transparency. Until investors see sustainable earnings growth translated into consistent dividend payouts, Chinese equities will likely remain a global <span class=\"voc\">anomaly</span>."
-    ],
-    "cn": "中国的工业体系继续大量产出全球领先的高科技出口产品，从电动汽车到太阳能电池板不一而足，然而其国内股市却呈现出截然不同的景象。上海和深圳的基准指数依然低迷，使得本土与国际投资者普遍笼罩在一片深沉的消极情绪之中。\n\n这种悖论源于企业收入增长与股东回报之间的根本不匹配。虽然国家主导的投资推动了技术的飞速进步，但国内激烈的价格战和持续的通货紧缩压力，严重压缩了各大关键制造业的企业利润率。\n\n此外，房地产市场的低迷打击了消费者信心，导致家庭倾向于将资金囤积在收益相对较高的储蓄账户中，而非冒风险投向动荡不安的股市。监管政策的不确定性以及政策优先事项的动态调整，也进一步挫伤了外国机构资本长期建仓的积极性。\n\n要扭转这种怀疑态度，北京方面必须表明其政策干预不仅关注供给侧的扩张，还将重点放在提振消费需求和保障市场透明度上。在投资者看到可持续的利润增长真正转化为稳定分红之前，中国股市很可能仍将是全球市场中的一个异常现象。",
-    "vocab": [
-      {
-        "w": "paradox",
-        "ipa": "/ˈpær.ə.dɒks/",
-        "pos": "n.",
-        "mean": "悖论 / 矛盾现象",
-        "def": "a situation that seems contradictory or absurd but may be true",
-        "ex": "The contradiction between high output and low stock valuations represents a perplexing economic paradox."
-      },
-      {
-        "w": "misalignment",
-        "ipa": "/ˌmɪs.əˈlaɪn.mənt/",
-        "pos": "n.",
-        "mean": "错位 / 不一致",
-        "def": "the condition of being incorrectly aligned or positioned",
-        "ex": "There is a clear misalignment between the board's targets and the realities of the market."
-      },
-      {
-        "w": "compressed",
-        "ipa": "/kəmˈprest/",
-        "pos": "adj.",
-        "mean": "被压缩的 / 缩减的",
-        "def": "squeezed together or reduced in area, margin, or duration",
-        "ex": "Intense price competition led to compressed profit margins for automobile makers."
-      },
-      {
-        "w": "persistent",
-        "ipa": "/pəˈsɪs.tənt/",
-        "pos": "adj.",
-        "mean": "持续的 / 难以消除的",
-        "def": "continuing firmly or obstinately in a course or condition",
-        "ex": "Persistent inflation concerns forced central banks to raise interest rates again."
-      },
-      {
-        "w": "deflationary",
-        "ipa": "/dɪˈfleɪ.ʃən.ər.i/",
-        "pos": "adj.",
-        "mean": "通货紧缩的",
-        "def": "relating to or causing a reduction in the general level of prices",
-        "ex": "Weak domestic spending created deflationary pressures across consumer goods."
-      },
-      {
-        "w": "volatile",
-        "ipa": "/ˈvɒl.ə.taɪl/",
-        "pos": "adj.",
-        "mean": "动荡的 / 易变的",
-        "def": "liable to change rapidly and unpredictably, especially for the worse",
-        "ex": "Uncertain geopolitical events have made foreign exchange markets exceptionally volatile."
-      },
-      {
-        "w": "institutional",
-        "ipa": "/ˌɪn.stɪˈtjuː.ʃən.əl/",
-        "pos": "adj.",
-        "mean": "机构的",
-        "def": "relating to large financial organizations like banks or hedge funds",
-        "ex": "Institutional investors retreated from the market pending policy clarification."
-      },
-      {
-        "w": "skepticism",
-        "ipa": "/ˈskep.tɪ.sɪ.zəm/",
-        "pos": "n.",
-        "mean": "怀疑态度",
-        "def": "an attitude of doubt or a disposition toward disbelief",
-        "ex": "Market analysts expressed widespread skepticism regarding the short-term recovery plan."
-      },
-      {
-        "w": "bolstering",
-        "ipa": "/ˈbəʊl.stər.ɪŋ/",
-        "pos": "v.",
-        "mean": "提振 / 支撑",
-        "def": "supporting or strengthening something",
-        "ex": "The government announced targeted measures aimed at bolstering private consumption."
-      },
-      {
-        "w": "anomaly",
-        "ipa": "/əˈnɒm.ə.li/",
-        "pos": "n.",
-        "mean": "异常现象 / 反常事物",
-        "def": "something that deviates from what is standard, normal, or expected",
-        "ex": "A plummeting stock price alongside record profit reports is a rare financial anomaly."
-      }
-    ],
-    "gems": [
-      {
-        "s": "While state-directed investment has propelled rapid technological advancement, intense domestic price wars and persistent deflationary pressures have severely compressed corporate profit margins across key manufacturing sectors.",
-        "why": "This sentence employs a contrasting clause starting with 'While' to skillfully balance positive macroeconomic achievements with underlying financial struggles. 本句使用 While 引导的让步状语从句，巧妙对比了宏观技术成就与微观财务困境，体现出极其严密的逻辑论述结构。"
-      }
-    ]
+    "headline": "Labour Market Advance Release 3Q 2026",
+    "teaser": "Advance data indicate that Singapore's labour market continued to expand in 3Q 2026, with stronger employment growth, although conditions remained uneven across sectors. Total employment 1 grew by 27,700, with faster growth for both resident and non-resident employment. Retrenchments edged up and remained elevated in s",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1030-labour-market-advance-release-3q-2026"
   }
 }
