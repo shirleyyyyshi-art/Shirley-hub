@@ -1,51 +1,318 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T06:02:59.378435+00:00",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T05:57:54.756063+00:00",
   "economist": {
     "headline": "Christine Lagarde departs at a moment of peril",
     "teaser": "Her successor as ECB chief will have an unenviable job",
     "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
-    "vocab": []
+    "vocab": [
+      {
+        "word": "departs",
+        "phonetic": "",
+        "def": "To leave."
+      },
+      {
+        "word": "successor",
+        "phonetic": "/səkˈsɛsə(ɹ)/",
+        "def": "A person or thing that immediately follows another in holding an office or title."
+      }
+    ]
   },
   "st": {
-    "headline": "AEM and other Singapore chip stocks tumble after Wall Street hits a tech rout",
-    "teaser": "This follows an overnight Wall Street sell-off after Intel’s sales forecast missed analyst estimates.",
-    "url": "https://www.straitstimes.com/business/companies-markets/aem-and-other-singapore-chip-stocks-tumble-after-wall-street-hits-a-tech-rout",
+    "headline": "Apple overtakes Nvidia to become world’s most valuable company",
+    "teaser": "This is the first time Apple has overtaken Nvidia since briefly doing so in late July.",
+    "url": "https://www.straitstimes.com/business/companies-markets/apple-overtakes-nvidia-to-become-worlds-most-valuable-company",
     "fullText": [
-      "SINGAPORE – Singapore’s tech and chip companies took a tumble on the stock exchange, following tech giants falling on Wall Street.",
-      "Semiconductor solutions company AEM saw its stock fall as much as 11% in the early trading hours on Oct 30, before moderating to a decline of 7% by the noon trading break.",
-      "Newly-listed Mi Material, which makes chip packaging materials, slid over 14%, while semiconductor equipment manufacturer UMS Integration was also down by nearly 6%.",
-      "PC Partner, a global manufacturer of computer electronics and hardware listed on the Singapore Exchange (SGX), also fell over 4%.",
-      "This follows a sell-off on Wall Street overnight, when Intel’s sales forecast missed analyst estimates.",
-      "The chipmaker’s shares plunged 23% ​after hours on Oct 29 after it warned that it would burn cash in 2026 due to the slowing personal computer market, bottlenecks in manufacturing ‌and heavy spending on expanding production.",
-      "It also faced supply disruptions that limited its ability to fully capitalise on growing demand for data-centre chips.",
-      "Intel chief executive Tan Lip-Bu reportedly told analysts on a conference call that the company faces near-term challenges, including manufacturing supply shortages, an unprecedented memory crunch, and softness in personal computer demand as a result.",
-      "Singapore’s AEM has a long-standing, strategic relationship with Intel as a key supplier of advanced semiconductor test solutions.",
-      "Meanwhile, Google’s Alphabet closed over 12% lower on Oct 29, too, wiping out roughly US$500 billion in market value in what reports called its “worst day ever”.",
-      "This sell off came after the tech giant’s third quarter earnings fell short of analysts’ profit expectations.",
-      "The ripples were also felt in the Asian region, with South Korea’s Kospi index falling some 5% during morning trading on Oct 30. The index is also home to global chip firms like SK Hynix and Samsung Electronics.",
-      "Saxo Markets chief investment strategist Charu Chanana said the latest tech earnings confirm that AI demand is still booming, but investors are becoming much harder to impress.",
-      "“AI demand is not the problem. The challenge is increasingly about the cost of meeting that demand and how much of the growth eventually translates into profits and cash flow,” she said in a research note on Oct 30.",
-      "She noted that cloud providers are growing rapidly, semiconductor and memory companies are enjoying exceptional demand, and AI is beginning to generate revenues for software businesses.",
-      "“Yet, strong results have not always been rewarded by investors. Higher spending, uncertain future margins and elevated valuations are making markets more selective,” she said.",
-      "She added that the issue now is that the cost of supplying AI demand rises faster than the profit it generates.",
-      "“For investors, the distinction between companies capable of financing investment through recurring cash flow and those reliant on external capital is becoming more important.”"
+      "Apple reclaimed the title of world’s most valuable company on Oct 30, taking the mantle from Nvidia as investors seek the perceived safety of the iPhone maker amid concerns about artificial intelligence spending.",
+      "Shares of Apple fell 1.2% on Oct 30, resulting in a market capitalisation of US$5.03 trillion (S$6.4 trillion), while Nvidia sank 4.2% to close with a valuation of US$4.93 trillion.",
+      "This is the first time Apple has overtaken Nvidia since briefly doing so in late July.",
+      "The Oct 30 sell-off came as a number of major technology companies disappointed with their results, including Intel and Amazon, which followed similarly disappointing reports from Alphabet and Meta Platforms, among others.",
+      "The reports renewed concerns about the outlook for AI spending, something Apple has largely foregone.",
+      "Fears that heavy spending on AI computing infrastructure will not pay off have helped make Apple, which has kept a lid on capital expenditures, by far the best performing of the Magnificent Seven tech giants in 2026.",
+      "Its shares are up 27% in 2026, more than twice the gain of second-place Nvidia, which is a key beneficiary of AI spending.",
+      "The outlays have become so large that companies like Alphabet and Amazon have seen their free cash flow turn negative, forcing them to increasingly turn to debt markets for funding.",
+      "Meanwhile, rising interest rates are raising the cost of borrowing.",
+      "Apple, by contrast, is projected to see its free cash flow climb 38% to US$142 billion in fiscal 2026, which ended on Sept 30.",
+      "The tech-heavy Nasdaq 100 Index fell 6.7% in October, its worst month since March 2025.",
+      "CoreWeave and Nebius Group, data centre owners that offer AI computing services, have dropped more than 30% in October. With the Oct 30 collapse, Intel lost more than 45% in October, its biggest ever one-month drop in data compiled by Bloomberg going back more than 40 years. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Spotify targets 2027 launch for AI remix service, FT reports",
-    "teaser": "Spotify targets 2027 launch for AI remix service, FT reports",
-    "url": "https://www.channelnewsasia.com/business/spotify-targets-2027-launch-ai-remix-service-ft-reports-6506086",
+    "headline": "AI giants promise publishers new way to block some scraping",
+    "teaser": "Publishers currently have to implement multiple blocking commands for every bot that crawls the web to collect data, but the new proposed solution will allow them to enter a single, standardised instruction that's recognised and honoured.",
+    "url": "https://www.channelnewsasia.com/world/ai-giants-promise-publishers-new-way-block-some-scraping-6509181",
     "fullText": [
-      "Oct 30 : Spotify aims to launch an AI-powered music remix service in the first quarter of 2027, targeting a potential unveiling around the Grammy Awards in February, the Financial Times reported on Friday, citing people familiar with the plans.",
-      "• Spotify has struck licensing deals with Universal Music Group, independent label group Merlin and French music company Believe for the remix feature, the FT said",
-      "• The company is still negotiating with Sony Music and Warner Music to implement the feature, according to the FT report",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "SAN FRANCISCO: OpenAI, Google, Microsoft and Anthropic pledged on Friday (Oct 31) to give media outlets and other websites a single way to prevent their content from being scraped to train artificial intelligence (AI) models, amid growing criticisms and legal battles from news publishers.",
+      "Publishers currently have to implement multiple blocking commands for every bot that crawls the web to collect data, but the new proposed solution will allow them to enter a single, standardised instruction that's recognised and honoured by any AI company that adopts the protocol.",
+      "The solution will not fully take effect for months, though.",
+      "Microsoft will implement it beginning Feb 1, 2027, and Google sometime in 2027. ChatGPT-maker OpenAI said it will roll it out \"in the coming months\", while Claude-maker Anthropic said it has \"already started\" rolling it out.",
+      "In December 2023, the Times sued OpenAI and Microsoft for allegedly using millions of its articles without authorization or payment to train ChatGPT. The two tech companies are invoking an exception to copyright law known as fair use.",
+      "Meanwhile, internet infrastructure provider Cloudflare has blocked AI bots by default on new customer sites since July 2025, and a standard called Really Simple Licensing already allows publishers to charge bots that visit their pages.",
+      "The new setting will apply only to future training of models but does not prevent bots from crawling otherwise, and content scraping will be allowed by default until the setting is changed by a publisher, Microsoft said in a blog post.",
+      "Opting out of AI training could reduce the chances that a publisher's content will surface in AI apps and experiences, Microsoft and Google said in separate blog posts.",
+      "\"We believe creating a common signal that conveys such preferences to multiple providers at once is an important step. And we look forward to working with other AI companies on the standards and their implementation across the industry,\" Meta spokesperson Andy Stone wrote on X, conveying his support for the effort."
     ]
   },
   "mom": {
     "headline": "Labour Market Advance Release 3Q 2026",
     "teaser": "Advance data indicate that Singapore's labour market continued to expand in 3Q 2026, with stronger employment growth, although conditions remained uneven across sectors. Total employment 1 grew by 27,700, with faster growth for both resident and non-resident employment. Retrenchments edged up and remained elevated in s",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1030-labour-market-advance-release-3q-2026"
+  },
+  "lifeVocab": [
+    {
+      "en": "MC (Medical Certificate)",
+      "cn": "病假条 / 医生证明",
+      "def": "an official document issued by a medical practitioner excusing a patient from work or school",
+      "ex": "I need to get an MC from the polyclinic so I can submit it to my employer tomorrow.",
+      "emoji": "📄"
+    },
+    {
+      "en": "consultation",
+      "cn": "问诊 / 咨询",
+      "def": "a formal meeting with a doctor to discuss medical conditions or treatment options",
+      "ex": "The doctor listened patiently to my concerns during the fifteen-minute consultation.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "referral",
+      "cn": "转诊信 / 推荐信",
+      "def": "an official direction to a specialist or hospital for further medical evaluation",
+      "ex": "The general practitioner gave me a referral to see a cardiologist at NGH.",
+      "emoji": "📝"
+    },
+    {
+      "en": "symptom",
+      "cn": "症状",
+      "def": "a physical or mental feature that indicates a condition of disease or illness",
+      "ex": "A high fever and persistent sore throat are common symptoms of flu.",
+      "emoji": "🤒"
+    },
+    {
+      "en": "dosage",
+      "cn": "用药剂量",
+      "def": "the exact size or amount of a dose of medicine to be taken",
+      "ex": "Please follow the exact dosage written on the pharmacy label.",
+      "emoji": "💊"
+    },
+    {
+      "en": "chronic",
+      "cn": "慢性的 / 长期的",
+      "def": "persisting for a long time or constantly recurring",
+      "ex": "Many elderly patients manage chronic conditions like high blood pressure with daily medication.",
+      "emoji": "⏳"
+    },
+    {
+      "en": "specialist",
+      "cn": "专科医生",
+      "def": "a physician who concentrates on a specific branch of medicine",
+      "ex": "You need to schedule an appointment with a dermatologist for your skin rash.",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "en": "subsidy",
+      "cn": "医疗补贴",
+      "def": "a sum of money granted by the government to lower healthcare costs for citizens",
+      "ex": "Singaporeans receive government subsidies when visiting public health clinics.",
+      "emoji": "💰"
+    },
+    {
+      "en": "prescription",
+      "cn": "处方药",
+      "def": "an instruction written by a doctor authorizing a patient to be issued a medicine",
+      "ex": "You must present a valid prescription at the dispensary to collect antibiotics.",
+      "emoji": "💊"
+    },
+    {
+      "en": "non-drowsy",
+      "cn": "不引起嗜睡的",
+      "def": "medication that does not cause sleepiness as a side effect",
+      "ex": "I asked the pharmacist for non-drowsy antihistamines so I could stay alert at work.",
+      "emoji": "☀️"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "corroborate",
+      "ipa": "/kəˈrɒb.ə.reɪt/",
+      "pos": "v.",
+      "cn": "证实 / 支持（说法、理论等）",
+      "def": "to confirm or give support to a statement, theory, or finding",
+      "ex": "Audit logs were presented to corroborate the financial figures reported in the annual review."
+    },
+    {
+      "w": "impede",
+      "ipa": "/ɪmˈpiːd/",
+      "pos": "v.",
+      "cn": "阻碍 / 妨碍",
+      "def": "to delay or prevent someone or something by obstructing them",
+      "ex": "Regulatory delays could severely impede the expansion plan of the fintech start-up."
+    },
+    {
+      "w": "pertinent",
+      "ipa": "/ˈpɜː.tɪ.nənt/",
+      "pos": "adj.",
+      "cn": "相关的 / 切题的",
+      "def": "relevant or applicable to a particular matter under consideration",
+      "ex": "The legal counsel raised several pertinent points during the compliance briefing."
+    },
+    {
+      "w": "delineate",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
+      "pos": "v.",
+      "cn": "勾勒 / 明确界定",
+      "def": "to describe or portray something precisely",
+      "ex": "The new organizational chart clearly delineates the responsibilities of each department head."
+    },
+    {
+      "w": "circumvent",
+      "ipa": "/ˌsɜː.kəmˈvent/",
+      "pos": "v.",
+      "cn": "规避 / 绕过",
+      "def": "to find a clever way around an obstacle or rule",
+      "ex": "The team searched for legal mechanisms to circumvent trade restrictions without breaching sanctions."
+    },
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
+      "pos": "v.",
+      "cn": "增加 / 扩充",
+      "def": "to make something greater by adding to it or increasing its capacity",
+      "ex": "The firm plans to augment its software engineering division by hiring twenty senior developers."
+    },
+    {
+      "w": "precarious",
+      "ipa": "/prɪˈkeə.ri.əs/",
+      "pos": "adj.",
+      "cn": "摇摇欲坠的 / 不稳固的",
+      "def": "not securely held or positioned; dangerously uncertain or unstable",
+      "ex": "Global supply shocks have placed small manufacturing firms in a precarious financial state."
+    },
+    {
+      "w": "disparity",
+      "ipa": "/dɪˈspær.ə.ti/",
+      "pos": "n.",
+      "cn": "差距 / 明显的不平等",
+      "def": "a noticeable difference or inequality between two or more things",
+      "ex": "The compensation review highlighted a marked disparity between regional pay scales."
+    },
+    {
+      "w": "expunge",
+      "ipa": "/ɪkˈspʌndʒ/",
+      "pos": "v.",
+      "cn": "抹去 / 彻底消除",
+      "def": "to erase or remove completely, especially unwanted information or records",
+      "ex": "The company moved swiftly to expunge outdated user records from its server database."
+    },
+    {
+      "w": "pivotal",
+      "ipa": "/ˈpɪv.ə.təl/",
+      "pos": "adj.",
+      "cn": "至关重要的 / 枢纽性的",
+      "def": "of crucial importance in relation to the development or success of something",
+      "ex": "Securing early funding played a pivotal role in accelerating the company's regional rollout."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Green Corridor Network to Enhance Biodiversity",
+    "transcript": "Singapore has officially announced the expansion of its Nature Park Network, adding over fifty hectares of connected green spaces across the island. The initiative aims to enhance urban <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/ (n.) the variety of plant and animal life in a particular habitat — 生物多样性\">biodiversity</span> while offering residents greater access to recreational trails. Officials emphasized that seamlessly linking these habitats will protect native wildlife species amidst ongoing urban <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌriː.dɪˈvel.əp.mənt/ (n.) the clearance and renovation of an urban area — 重新开发/城市更新\">redevelopment</span>."
+  },
+  "economistArticle": {
+    "title": "The Leadership Vacuum at the European Central Bank",
+    "paras": [
+      "When Christine Lagarde steps down from the helm of the European Central Bank, she will leave behind an institution grappling with unprecedented structural headwinds. The Eurozone economy, long plagued by <span class=\"voc\">sluggish</span> growth and fragile fiscal <span class=\"voc\">cohesion</span>, faces an increasingly <span class=\"voc\">volatile</span> macroeconomic landscape. Negotiating this treacherous terrain will require a delicate balancing act that her successor may struggle to maintain.",
+      "High interest rates, deployed to tame post-pandemic inflation, have begun to sap vitality from core industrial sectors, particularly in Germany and France. Meanwhile, public debt levels across southern member states remain perilously elevated, leaving national treasuries with limited room for counter-cyclical spending. <span class=\"gem\">The Central Bank finds itself caught between the <span class=\"voc\">imperative</span> to quell persistent service-sector inflation and the urgent need to cushion <span class=\"voc\">faltering</span> output.</span>",
+      "Geopolitical friction further complicates the policy <span class=\"voc\">calculus</span>. Rising trade barriers and supply-chain <span class=\"voc\">fragmentation</span> threaten to erode Europe's export-oriented economic model. Should a new wave of protectionist tariffs emerge from Washington or Beijing, the monetary authority in Frankfurt will have few conventional tools left to <span class=\"voc\">insulate</span> the bloc from external shocks.",
+      "Consequently, the individual chosen to succeed Lagarde will assume command during a crucial <span class=\"voc\">juncture</span>. Without decisive reform and institutional realignment, the central bank risks being overburdened by political expectations it cannot realistically fulfill. The task ahead is not merely technical monetary management, but the delicate preservation of monetary union itself."
+    ],
+    "cn": "当克里斯蒂安·拉加德卸任欧洲中央银行行长一职时，她留下的将是一个正在与前所未有的结构性逆风作斗争的机构。长期受增长缓慢和财政凝聚力脆弱困扰的欧元区经济，正面临着日益动荡的宏观经济环境。应对这一艰难局面需要维持微妙的平衡，而她的继任者可能难以维系。为了遏制疫情后的通胀而实施的高利率，已开始削弱核心工业部门（尤其是德国和法国）的活力。与此同时，南部成员国的公共债务水平仍处于危险的高位，使各国财政部逆周期支出的空间十分有限。中央银行发现自己处于两难境地：一边是遏制持续的服务业通胀的必要举措，另一边则是缓冲摇摇欲坠的产出的迫切需求。地缘政治摩擦进一步使政策考量复杂化。日益高企的贸易壁垒和供应链碎片化威胁着欧洲出口导向型经济模式。如果华盛顿或北京掀起新一轮保护主义关税浪潮，法兰克福的货币当局将几乎没有传统工具来保护该贸易集团免受外部冲击。因此，被选来接替拉加德的人选将在关键时刻接掌大权。如果没有决断性的改革和机构重组，中央银行可能会因政治期望负担过重，而这些期望是它在现实中无法实现的。前面的任务不仅是技术性的货币管理，而是精心维护货币联盟本身。",
+    "vocab": [
+      {
+        "w": "grapple",
+        "ipa": "/ˈɡræp.əl/",
+        "pos": "v.",
+        "mean": "努力应对 / 挣扎解决",
+        "def": "to struggle to deal with or overcome a difficult situation",
+        "ex": "Central bankers must grapple with persistent core inflation while steering clear of recession."
+      },
+      {
+        "w": "sluggish",
+        "ipa": "/ˈslʌɡ.ɪʃ/",
+        "pos": "adj.",
+        "mean": "停滞不前的 / 萧条的",
+        "def": "slow-moving or lacking energy and activity",
+        "ex": "Sluggish manufacturing activity has weighed heavily on overall quarterly GDP growth."
+      },
+      {
+        "w": "cohesion",
+        "ipa": "/kəʊˈhiː.ʒən/",
+        "pos": "n.",
+        "mean": "凝聚力 / 结合",
+        "def": "the action or state of forming a united whole",
+        "ex": "Diverging economic priorities threaten the fiscal cohesion of the trading bloc."
+      },
+      {
+        "w": "volatile",
+        "ipa": "/ˈvɒl.ə.taɪl/",
+        "pos": "adj.",
+        "mean": "动荡不安的 / 易变的",
+        "def": "liable to change rapidly and unpredictably, especially for the worse",
+        "ex": "Investors moved assets into stable treasury bonds amid a highly volatile market."
+      },
+      {
+        "w": "imperative",
+        "ipa": "/ɪmˈper.ə.tɪv/",
+        "pos": "n.",
+        "mean": "当务之急 / 必要之事",
+        "def": "an essential or urgent thing or duty",
+        "ex": "Controlling wage growth became a primary policy imperative for financial ministers."
+      },
+      {
+        "w": "faltering",
+        "ipa": "/ˈfɒl.tər.ɪŋ/",
+        "pos": "adj.",
+        "mean": "摇摇欲坠的 / 衰退的",
+        "def": "losing strength or momentum",
+        "ex": "Targeted subsidies were introduced to boost the country's faltering housing sector."
+      },
+      {
+        "w": "calculus",
+        "ipa": "/ˈkæl.kjə.ləs/",
+        "pos": "n.",
+        "mean": "考量 / 权衡",
+        "def": "a particular process or logic of reasoning and calculation",
+        "ex": "Electoral pressures have significantly altered the geopolitical calculus of eurozone leaders."
+      },
+      {
+        "w": "fragmentation",
+        "ipa": "/ˌfræɡ.menˈteɪ.ʃən/",
+        "pos": "n.",
+        "mean": "碎片化 / 分裂",
+        "def": "the process or state of breaking into separate or isolated parts",
+        "ex": "Global supply chain fragmentation has pushed production costs significantly higher."
+      },
+      {
+        "w": "insulate",
+        "ipa": "/ˈɪn.sjə.leɪt/",
+        "pos": "v.",
+        "mean": "隔离 / 保护",
+        "def": "to protect from unpleasant experiences or external influences",
+        "ex": "Capital reserves help insulate smaller retail banks from sudden market liquidity freezes."
+      },
+      {
+        "w": "juncture",
+        "ipa": "/ˈdʒʌŋk.tʃər/",
+        "pos": "n.",
+        "mean": "关键时刻 / 关头",
+        "def": "a particular point in time or stage in a process",
+        "ex": "The policy shift arrived at a critical juncture for European business confidence."
+      }
+    ],
+    "gems": [
+      {
+        "s": "The Central Bank finds itself caught between the imperative to quell persistent service-sector inflation and the urgent need to cushion faltering output.",
+        "why": "Uses a elegant 'caught between A and B' contrast structure paired with parallel noun phrases to vividly portray a policy dilemma. 此句使用对称的‘夹在A与B之间’对比结构，配合强有力的平行名词短语，极其生动地展现了央行面临的政策两难困境。"
+      }
+    ]
   }
 }
