@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T05:57:54.756063+00:00",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T06:26:30.616797+00:00",
   "economist": {
     "headline": "Christine Lagarde departs at a moment of peril",
     "teaser": "Her successor as ECB chief will have an unenviable job",
@@ -19,38 +19,61 @@
     ]
   },
   "st": {
-    "headline": "Apple overtakes Nvidia to become world’s most valuable company",
-    "teaser": "This is the first time Apple has overtaken Nvidia since briefly doing so in late July.",
-    "url": "https://www.straitstimes.com/business/companies-markets/apple-overtakes-nvidia-to-become-worlds-most-valuable-company",
+    "headline": "Crypto shaken after Binance hack; Wilmar discloses sales to firms in haze probe: Markets this week",
+    "teaser": "Temasek-backed Mapletree Investments is reported to be looking at an SGX IPO.",
+    "url": "https://www.straitstimes.com/business/bitcoin-slips-after-binance-hack-tech-stocks-slide-as-ai-realities-bite-markets-this-week",
     "fullText": [
-      "Apple reclaimed the title of world’s most valuable company on Oct 30, taking the mantle from Nvidia as investors seek the perceived safety of the iPhone maker amid concerns about artificial intelligence spending.",
-      "Shares of Apple fell 1.2% on Oct 30, resulting in a market capitalisation of US$5.03 trillion (S$6.4 trillion), while Nvidia sank 4.2% to close with a valuation of US$4.93 trillion.",
-      "This is the first time Apple has overtaken Nvidia since briefly doing so in late July.",
-      "The Oct 30 sell-off came as a number of major technology companies disappointed with their results, including Intel and Amazon, which followed similarly disappointing reports from Alphabet and Meta Platforms, among others.",
-      "The reports renewed concerns about the outlook for AI spending, something Apple has largely foregone.",
-      "Fears that heavy spending on AI computing infrastructure will not pay off have helped make Apple, which has kept a lid on capital expenditures, by far the best performing of the Magnificent Seven tech giants in 2026.",
-      "Its shares are up 27% in 2026, more than twice the gain of second-place Nvidia, which is a key beneficiary of AI spending.",
-      "The outlays have become so large that companies like Alphabet and Amazon have seen their free cash flow turn negative, forcing them to increasingly turn to debt markets for funding.",
-      "Meanwhile, rising interest rates are raising the cost of borrowing.",
-      "Apple, by contrast, is projected to see its free cash flow climb 38% to US$142 billion in fiscal 2026, which ended on Sept 30.",
-      "The tech-heavy Nasdaq 100 Index fell 6.7% in October, its worst month since March 2025.",
-      "CoreWeave and Nebius Group, data centre owners that offer AI computing services, have dropped more than 30% in October. With the Oct 30 collapse, Intel lost more than 45% in October, its biggest ever one-month drop in data compiled by Bloomberg going back more than 40 years. BLOOMBERG"
+      "SINGAPORE – A multibillion-dollar hack at cryptocurrency exchange Binance shook the industry this week, sending prices lower amid concerns over the safety of investors’ assets on trading platforms.",
+      "Bitcoin fell about 5% over 24 hours since the Oct 29 incident, while Ether lost about 5.7%. Both extended their declines on Oct 30 before recovering some ground. On Nov 1, Bitcoin was trading at around US$77,450, while Ether was US$2,249.",
+      "About US$6.4 billion (S$8.2 billion) worth of cryptocurrencies was stolen on Binance within 30 minutes, with attackers linked to North Korea draining the platform’s internet-connected “hot wallets”, then rushing to exchange stolen stablecoins for cryptocurrencies such as Ether.",
+      "Unlike stablecoins, whose issuers can freeze assets, Bitcoin and Ether have no central issuer able to block their movement.",
+      "Approximately US$2.8 billion in stablecoins has been frozen by investigators, law enforcement agencies and stablecoin issuers so far.",
+      "In a video circulated on social media on Oct 30, Binance co-chief executive Richard Teng said the exchange has been working non-stop to recover the stolen assets, and added that it had reserved more than US$6.4 billion of its own money to cover all losses .",
+      "Teng said customer assets were safe and would not be used to cover the losses, and attributed Binance’s ability to absorb the losses to retained earnings and reinvestment into the business.",
+      "He added that withdrawals from the exchange, which have been suspended pending a security overhaul, are expected to resume by Nov 1 .",
+      "In Singapore, the Binance.com trading platform operates outside the Monetary Authority of Singapore’s (MAS) regulatory safeguards.",
+      "MAS placed the platform on its Investor Alert List in September 2021, warning that it was not regulated or licensed to provide payment services here. It also ordered Binance to stop providing such services in Singapore and cease soliciting business from residents.",
+      "Investors dealing with unregulated platforms forgo protections under MAS regulations.",
+      "Wilmar International on Oct 31 disclosed that it sold fertilisers and diesel for heavy equipment to six of the 10 companies named by the National Environment Agency (NEA) as linked to the haze caused by fires in Indonesia, generating revenue of around US$22.5 million in financial year 2025.",
+      "Updating its Oct 28 response to the regulatory arm of the Singapore Exchange (SGX RegCo) based on newly received information, Wilmar said none of the 10 companies named was its subsidiary. It added that it had no operational or supply-chain ties with six buyers and no operational, supply-chain or business relationship with the remaining four companies.",
+      "Shares of Wilmar took a beating during the week from rising raw material costs, which ate into its earnings, and elevated risks arising from a Government-led haze-related probe.",
+      "The shares fell 11% across the week to close Oct 30 at $3.01.",
+      "The conglomerate said its food products segment was hit by higher raw material costs, and the feed and industrial products segment by weaker soya bean crushing margins, triggering several analyst downgrades on the stock.",
+      "Wilmar said in a separate announcement that it has reviewed available information and assessed that the fires in Indonesia and transboundary haze have neither resulted in, nor are expected to result in, any material operational, financial, legal or regulatory impact on the company.",
+      "This was after 10 Singapore-registered, Indonesian oil palm-related companies, which included Wilmar, were issued preventive-measure notices by NEA under the Transboundary Haze Pollution Act.",
+      "The Government has begun investigating companies linked to the haze, and on Oct 28 met the senior leadership of the Singapore businesses allegedly linked to haze-related activities.",
+      "Kuok Khoon Hong, chairman and CEO of Wilmar, was one of the executives present at the meeting. Besides Kuok, the bosses of Golden-Agri Resources, First Resources, Bumitama Agri, Indofood Agri Resources and Kencana Agri, and representatives from TSH Resources and the Sinar Mas Group, which includes Asia Pulp & Paper (APP), were also at the meeting.",
+      "On Oct 31, NEA said seven Singapore-registered companies had indicated their willingness to engage assessors to examine their links to fires contributing to transboundary haze.",
+      "Five companies – Wilmar, Golden Agri-Resources, APP Company, APP Company (China) and Indofood Agri Resources – have agreed to engage assessors from the Panel on Transboundary Haze and cooperate with the assessment process, following meetings with NEA.",
+      "The agency will also meet Kencana Agri, which has expressed willingness to voluntarily engage assessors.",
+      "NEA said it was awaiting written confirmation of First Resources’ participation in the assessment process.",
+      "In its statement, NEA also welcomed First Resources’ recent public statement that it was prepared to engage an investigation firm and a law firm to assess whether the group had any involvement in or connection with the fires that contributed to transboundary haze.",
+      "The Government on Oct 30 had appointed seven investigation and law firms and one individual to a specialist panel assembled to investigate companies linked to the transboundary haze.",
+      "US-listed tech stocks, including stalwarts like Alphabet, Amazon and Nvidia, had a rough week as fears around artificial intelligence spending collided with disappointing earnings.",
+      "Heavy infrastructure spending by mega-cap tech firms have led to cash flow strains and heightened investor sensitivity towards execution and investment returns, hitting the valuations of companies like Alphabet.",
+      "Google’s parent suffered its worst one-day percentage decline on record on Oct 29, falling as much as 12.6% and wiping out almost US$500 million in market value.",
+      "Investors dumped the stock after the company reported negative free cash flow of US$9.1 billion for the third quarter as a result of soaring AI-related costs. The stock closed on Oct 30 at US$278.22."
     ]
   },
   "cna": {
-    "headline": "AI giants promise publishers new way to block some scraping",
-    "teaser": "Publishers currently have to implement multiple blocking commands for every bot that crawls the web to collect data, but the new proposed solution will allow them to enter a single, standardised instruction that's recognised and honoured.",
-    "url": "https://www.channelnewsasia.com/world/ai-giants-promise-publishers-new-way-block-some-scraping-6509181",
+    "headline": "Heavy traffic expected at Singapore-Malaysia land checkpoints during Deepavali long weekend",
+    "teaser": "The Immigration and Checkpoints Authority (ICA) issued the travel advisory for Nov 6 to Nov 9, encouraging travellers to plan their journey ahead of time and consider travelling during non-peak hours.",
+    "url": "https://www.channelnewsasia.com/singapore/heavy-traffic-woodlands-tuas-checkpoints-6510666",
     "fullText": [
-      "SAN FRANCISCO: OpenAI, Google, Microsoft and Anthropic pledged on Friday (Oct 31) to give media outlets and other websites a single way to prevent their content from being scraped to train artificial intelligence (AI) models, amid growing criticisms and legal battles from news publishers.",
-      "Publishers currently have to implement multiple blocking commands for every bot that crawls the web to collect data, but the new proposed solution will allow them to enter a single, standardised instruction that's recognised and honoured by any AI company that adopts the protocol.",
-      "The solution will not fully take effect for months, though.",
-      "Microsoft will implement it beginning Feb 1, 2027, and Google sometime in 2027. ChatGPT-maker OpenAI said it will roll it out \"in the coming months\", while Claude-maker Anthropic said it has \"already started\" rolling it out.",
-      "In December 2023, the Times sued OpenAI and Microsoft for allegedly using millions of its articles without authorization or payment to train ChatGPT. The two tech companies are invoking an exception to copyright law known as fair use.",
-      "Meanwhile, internet infrastructure provider Cloudflare has blocked AI bots by default on new customer sites since July 2025, and a standard called Really Simple Licensing already allows publishers to charge bots that visit their pages.",
-      "The new setting will apply only to future training of models but does not prevent bots from crawling otherwise, and content scraping will be allowed by default until the setting is changed by a publisher, Microsoft said in a blog post.",
-      "Opting out of AI training could reduce the chances that a publisher's content will surface in AI apps and experiences, Microsoft and Google said in separate blog posts.",
-      "\"We believe creating a common signal that conveys such preferences to multiple providers at once is an important step. And we look forward to working with other AI companies on the standards and their implementation across the industry,\" Meta spokesperson Andy Stone wrote on X, conveying his support for the effort."
+      "SINGAPORE: Heavy traffic is expected at the Woodlands and Tuas checkpoints during the upcoming Deepavali long weekend.",
+      "The Immigration and Checkpoints Authority (ICA) on Sunday (Nov 1) issued the travel advisory for Nov 6 to Nov 9.",
+      "It encouraged travellers to plan their journey ahead of time and consider travelling during non-peak hours, such as early mornings and late evenings.",
+      "Travellers should check the traffic situation at the land checkpoints before starting their journey, ICA said.",
+      "ICA also strongly encouraged travellers to use QR codes generated via the MyICA mobile app for faster and more seamless immigration clearance.",
+      "It noted that initiatives such as QR code clearance and facial recognition for motorcyclists and pillion riders have increased clearance throughput by more than 35 per cent during departure peak periods - equivalent to an additional 7,600 travellers per hour compared with pre-COVID-19 levels in 2019.",
+      "Since Sep 30, short-term visitors entering Singapore through the land checkpoints who submit their SG Arrival Card via the MyICA app must update the app to the latest version before doing so.",
+      "Travellers entering Singapore by foreign-registered car must also ensure that the vehicle has a valid Vehicle Entry Permit (VEP) before submitting their SG Arrival Card. They will not be able to complete the submission without a valid VEP.",
+      "\"While driving on roads leading to and within the land checkpoints, motorists are to cooperate with ICA officers, observe lane discipline and comply with traffic rules,\" said ICA.",
+      "\"Queue cutting disrupts traffic flow and delays other travellers. Those caught queue cutting will be directed to make a U-turn and re-join the queue from the back.\"",
+      "ICA added that it will take firm action against travellers who do not comply with its officers' instructions or who commit traffic offences at the checkpoints.",
+      "During the recent September school holidays from Sep 4 to Sep 14, more than 6.1 million travellers crossed both land checkpoints, with the volume peaking at more than 599,000 on Sep 4.",
+      "This set a new record, ICA said, surpassing the previous peak of more than 598,000 crossings on Jun 19, 2026. Car travellers departing during peak hours experienced waiting times of up to three hours for immigration clearance, due to traffic tailbacks from Malaysia.",
+      "During that travel period, 27 motorists were caught for traffic-related offences and dangerous road behaviour."
     ]
   },
   "mom": {
@@ -60,258 +83,262 @@
   },
   "lifeVocab": [
     {
-      "en": "MC (Medical Certificate)",
-      "cn": "病假条 / 医生证明",
-      "def": "an official document issued by a medical practitioner excusing a patient from work or school",
-      "ex": "I need to get an MC from the polyclinic so I can submit it to my employer tomorrow.",
-      "emoji": "📄"
+      "en": "registration counter",
+      "cn": "挂号柜台",
+      "def": "the desk where patients sign in and present their identification documents",
+      "ex": "Please show your NRIC at the registration counter upon arrival at the polyclinic.",
+      "emoji": "🏥"
     },
     {
-      "en": "consultation",
-      "cn": "问诊 / 咨询",
-      "def": "a formal meeting with a doctor to discuss medical conditions or treatment options",
-      "ex": "The doctor listened patiently to my concerns during the fifteen-minute consultation.",
+      "en": "referral letter",
+      "cn": "转诊信",
+      "def": "an official document from a doctor directing a patient to a specialist",
+      "ex": "The general practitioner gave her a referral letter to see an eye specialist at the hospital.",
+      "emoji": "✉️"
+    },
+    {
+      "en": "queue ticket",
+      "cn": "排队号码牌",
+      "def": "a printed slip showing your waiting number for service",
+      "ex": "Take a queue ticket from the automated kiosk before taking a seat in the waiting area.",
+      "emoji": "🎟️"
+    },
+    {
+      "en": "triage",
+      "cn": "分诊 / 检伤分类",
+      "def": "the initial evaluation process to determine the urgency of a patient's medical condition",
+      "ex": "During triage, the nurse checked my blood pressure and asked about my symptoms.",
+      "emoji": "📋"
+    },
+    {
+      "en": "consultation room",
+      "cn": "问诊室",
+      "def": "a private room where a physician examines and speaks with a patient",
+      "ex": "The doctor called number 1042 into consultation room five.",
       "emoji": "🩺"
     },
     {
-      "en": "referral",
-      "cn": "转诊信 / 推荐信",
-      "def": "an official direction to a specialist or hospital for further medical evaluation",
-      "ex": "The general practitioner gave me a referral to see a cardiologist at NGH.",
-      "emoji": "📝"
-    },
-    {
-      "en": "symptom",
-      "cn": "症状",
-      "def": "a physical or mental feature that indicates a condition of disease or illness",
-      "ex": "A high fever and persistent sore throat are common symptoms of flu.",
-      "emoji": "🤒"
-    },
-    {
-      "en": "dosage",
-      "cn": "用药剂量",
-      "def": "the exact size or amount of a dose of medicine to be taken",
-      "ex": "Please follow the exact dosage written on the pharmacy label.",
+      "en": "prescription",
+      "cn": "处方药单",
+      "def": "an official medical note authorizing a patient to receive specific medication",
+      "ex": "You can collect your medicine from the pharmacy counter after paying for your prescription.",
       "emoji": "💊"
     },
     {
-      "en": "chronic",
-      "cn": "慢性的 / 长期的",
-      "def": "persisting for a long time or constantly recurring",
-      "ex": "Many elderly patients manage chronic conditions like high blood pressure with daily medication.",
-      "emoji": "⏳"
-    },
-    {
-      "en": "specialist",
-      "cn": "专科医生",
-      "def": "a physician who concentrates on a specific branch of medicine",
-      "ex": "You need to schedule an appointment with a dermatologist for your skin rash.",
-      "emoji": "👨‍⚕️"
-    },
-    {
-      "en": "subsidy",
-      "cn": "医疗补贴",
-      "def": "a sum of money granted by the government to lower healthcare costs for citizens",
-      "ex": "Singaporeans receive government subsidies when visiting public health clinics.",
+      "en": "subsidised rate",
+      "cn": "津贴价格",
+      "def": "a reduced fee for a service supported by government funding",
+      "ex": "Singapore citizens enjoy a heavily subsidised rate for consultation fees at public clinics.",
       "emoji": "💰"
     },
     {
-      "en": "prescription",
-      "cn": "处方药",
-      "def": "an instruction written by a doctor authorizing a patient to be issued a medicine",
-      "ex": "You must present a valid prescription at the dispensary to collect antibiotics.",
-      "emoji": "💊"
+      "en": "medical certificate",
+      "cn": "病假单",
+      "def": "an official document certifying that a patient is unfit for work or study due to illness",
+      "ex": "He submitted his medical certificate to the HR department after resting for two days.",
+      "emoji": "📝"
     },
     {
-      "en": "non-drowsy",
-      "cn": "不引起嗜睡的",
-      "def": "medication that does not cause sleepiness as a side effect",
-      "ex": "I asked the pharmacist for non-drowsy antihistamines so I could stay alert at work.",
-      "emoji": "☀️"
+      "en": "dispensary",
+      "cn": "药房 / 配药处",
+      "def": "a place within a medical facility where drugs are prepared and given out",
+      "ex": "Please wait near the dispensary until your queue number is displayed on the screen.",
+      "emoji": "🏥"
+    },
+    {
+      "en": "follow-up appointment",
+      "cn": "复诊预约",
+      "def": "a scheduled future visit to check the progress of a patient's treatment",
+      "ex": "The doctor scheduled a follow-up appointment in six weeks to monitor her recovery.",
+      "emoji": "📅"
     }
   ],
   "levelVocab": [
     {
-      "w": "corroborate",
-      "ipa": "/kəˈrɒb.ə.reɪt/",
+      "w": "recalibrate",
+      "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
       "pos": "v.",
-      "cn": "证实 / 支持（说法、理论等）",
-      "def": "to confirm or give support to a statement, theory, or finding",
-      "ex": "Audit logs were presented to corroborate the financial figures reported in the annual review."
+      "cn": "重新调整 / 重新校准",
+      "def": "to adjust or refine a plan, system, or strategy in response to new conditions",
+      "ex": "The leadership team had to recalibrate their regional expansion strategy after market conditions changed."
     },
     {
-      "w": "impede",
-      "ipa": "/ɪmˈpiːd/",
-      "pos": "v.",
-      "cn": "阻碍 / 妨碍",
-      "def": "to delay or prevent someone or something by obstructing them",
-      "ex": "Regulatory delays could severely impede the expansion plan of the fintech start-up."
-    },
-    {
-      "w": "pertinent",
-      "ipa": "/ˈpɜː.tɪ.nənt/",
+      "w": "contingent",
+      "ipa": "/kənˈtɪn.dʒənt/",
       "pos": "adj.",
-      "cn": "相关的 / 切题的",
-      "def": "relevant or applicable to a particular matter under consideration",
-      "ex": "The legal counsel raised several pertinent points during the compliance briefing."
+      "cn": "视……而定的 / 依条件而定的",
+      "def": "dependent on certain circumstances or future events",
+      "ex": "The final approval of the deal is contingent upon completing a thorough financial audit."
     },
     {
       "w": "delineate",
       "ipa": "/dɪˈlɪn.i.eɪt/",
       "pos": "v.",
-      "cn": "勾勒 / 明确界定",
-      "def": "to describe or portray something precisely",
-      "ex": "The new organizational chart clearly delineates the responsibilities of each department head."
+      "cn": "清晰地勾勒 / 明确界定",
+      "def": "to describe or outline something precisely",
+      "ex": "The project brief clearly delineates the scope of work for each department involved."
     },
     {
-      "w": "circumvent",
-      "ipa": "/ˌsɜː.kəmˈvent/",
-      "pos": "v.",
-      "cn": "规避 / 绕过",
-      "def": "to find a clever way around an obstacle or rule",
-      "ex": "The team searched for legal mechanisms to circumvent trade restrictions without breaching sanctions."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "增加 / 扩充",
-      "def": "to make something greater by adding to it or increasing its capacity",
-      "ex": "The firm plans to augment its software engineering division by hiring twenty senior developers."
-    },
-    {
-      "w": "precarious",
-      "ipa": "/prɪˈkeə.ri.əs/",
-      "pos": "adj.",
-      "cn": "摇摇欲坠的 / 不稳固的",
-      "def": "not securely held or positioned; dangerously uncertain or unstable",
-      "ex": "Global supply shocks have placed small manufacturing firms in a precarious financial state."
-    },
-    {
-      "w": "disparity",
-      "ipa": "/dɪˈspær.ə.ti/",
+      "w": "precedent",
+      "ipa": "/ˈpres.ɪ.dənt/",
       "pos": "n.",
-      "cn": "差距 / 明显的不平等",
-      "def": "a noticeable difference or inequality between two or more things",
-      "ex": "The compensation review highlighted a marked disparity between regional pay scales."
+      "cn": "先例 / 前例",
+      "def": "an earlier action or decision that serves as an example or guide for future situations",
+      "ex": "Approving this emergency budget request might set an unhelpful precedent for future quarters."
     },
     {
-      "w": "expunge",
-      "ipa": "/ɪkˈspʌndʒ/",
+      "w": "accentuate",
+      "ipa": "/əkˈsen.tʃu.eɪt/",
       "pos": "v.",
-      "cn": "抹去 / 彻底消除",
-      "def": "to erase or remove completely, especially unwanted information or records",
-      "ex": "The company moved swiftly to expunge outdated user records from its server database."
+      "cn": "强调 / 突出",
+      "def": "to make something more noticeable or prominent",
+      "ex": "The presentation was designed to accentuate the firm's competitive edge in Asia."
     },
     {
-      "w": "pivotal",
-      "ipa": "/ˈpɪv.ə.təl/",
+      "w": "impediment",
+      "ipa": "/ɪmˈped.ɪ.mənt/",
+      "pos": "n.",
+      "cn": "阻碍 / 障碍",
+      "def": "something that obstructs or slows down progress",
+      "ex": "High operating costs remain a principal impediment to startup growth in major tech hubs."
+    },
+    {
+      "w": "stagnation",
+      "ipa": "/stæɡˈneɪ.ʃən/",
+      "pos": "n.",
+      "cn": "停滞 / 不景气",
+      "def": "a state of lacking growth, progress, or activity",
+      "ex": "Prolonged productivity stagnation has prompted policymakers to invest heavily in retraining initiatives."
+    },
+    {
+      "w": "amplify",
+      "ipa": "/ˈæm.plɪ.faɪ/",
+      "pos": "v.",
+      "cn": "放大 / 增强",
+      "def": "to increase the strength, effect, or visibility of something",
+      "ex": "Social media campaigns can amplify brand visibility across multiple demographic segments."
+    },
+    {
+      "w": "stringent",
+      "ipa": "/ˈstrɪn.dʒənt/",
       "pos": "adj.",
-      "cn": "至关重要的 / 枢纽性的",
-      "def": "of crucial importance in relation to the development or success of something",
-      "ex": "Securing early funding played a pivotal role in accelerating the company's regional rollout."
+      "cn": "严格的 / 严厉的",
+      "def": "strict, precise, and demanding exact compliance",
+      "ex": "Financial institutions must adhere to stringent anti-money laundering compliance standards."
+    },
+    {
+      "w": "commensurate",
+      "ipa": "/kəˈmen.sjər.ət/",
+      "pos": "adj.",
+      "cn": "相称的 / 相当的",
+      "def": "corresponding in size, degree, or proportion to something else",
+      "ex": "Compensation packages should be commensurate with an applicant's level of technical expertise."
     }
   ],
   "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore Expands Green Corridor Network to Enhance Biodiversity",
-    "transcript": "Singapore has officially announced the expansion of its Nature Park Network, adding over fifty hectares of connected green spaces across the island. The initiative aims to enhance urban <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/ (n.) the variety of plant and animal life in a particular habitat — 生物多样性\">biodiversity</span> while offering residents greater access to recreational trails. Officials emphasized that seamlessly linking these habitats will protect native wildlife species amidst ongoing urban <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌriː.dɪˈvel.əp.mənt/ (n.) the clearance and renovation of an urban area — 重新开发/城市更新\">redevelopment</span>."
+    "source": "CNA Style · Intermediate",
+    "title": "Singapore Expands Electric Bus Fleet in Public Transport Push",
+    "transcript": "Singapore's Land Transport Authority has <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ʌnˈveɪld/ (v.) introduced or revealed publicly for the first time — 推出，揭幕\">unveiled</span> plans to rollout hundreds of new electric buses across major public routes by next year. The initiative aims to significantly reduce carbon emissions from city transit while enhancing commuter comfort. Officials noted that charging <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪnfrəstrʌktʃər/ (n.) basic physical and organizational structures needed for operation — 基础设施\">infrastructure</span> is being upgraded rapidly to support the expanding green fleet across island-wide depots."
   },
   "economistArticle": {
-    "title": "The Leadership Vacuum at the European Central Bank",
+    "title": "The Poisoned Chalice at Frankfurt",
     "paras": [
-      "When Christine Lagarde steps down from the helm of the European Central Bank, she will leave behind an institution grappling with unprecedented structural headwinds. The Eurozone economy, long plagued by <span class=\"voc\">sluggish</span> growth and fragile fiscal <span class=\"voc\">cohesion</span>, faces an increasingly <span class=\"voc\">volatile</span> macroeconomic landscape. Negotiating this treacherous terrain will require a delicate balancing act that her successor may struggle to maintain.",
-      "High interest rates, deployed to tame post-pandemic inflation, have begun to sap vitality from core industrial sectors, particularly in Germany and France. Meanwhile, public debt levels across southern member states remain perilously elevated, leaving national treasuries with limited room for counter-cyclical spending. <span class=\"gem\">The Central Bank finds itself caught between the <span class=\"voc\">imperative</span> to quell persistent service-sector inflation and the urgent need to cushion <span class=\"voc\">faltering</span> output.</span>",
-      "Geopolitical friction further complicates the policy <span class=\"voc\">calculus</span>. Rising trade barriers and supply-chain <span class=\"voc\">fragmentation</span> threaten to erode Europe's export-oriented economic model. Should a new wave of protectionist tariffs emerge from Washington or Beijing, the monetary authority in Frankfurt will have few conventional tools left to <span class=\"voc\">insulate</span> the bloc from external shocks.",
-      "Consequently, the individual chosen to succeed Lagarde will assume command during a crucial <span class=\"voc\">juncture</span>. Without decisive reform and institutional realignment, the central bank risks being overburdened by political expectations it cannot realistically fulfill. The task ahead is not merely technical monetary management, but the delicate preservation of monetary union itself."
+      "When Christine Lagarde assumed leadership of the European Central Bank, the eurozone was grappling with sluggish growth and stubbornly low inflation. Years later, as whispers of her departure grow louder across European capitals, the financial landscape appears even more <span class=\"voc\">precarious</span>. Her successor will step into an institution caught between sticky core inflation, persistent industrial <span class=\"voc\">stagnation</span> in Germany, and deepening geopolitical fragmentation.",
+      "The challenges facing Frankfurt are compounded by political <span class=\"voc\">volatility</span> across key member states. <span class=\"gem\">Fiscal policy remains <span class=\"voc\">fractured</span> across the bloc, leaving monetary policy to bear an unfair share of the economic burden.</span> Central bankers must attempt to maintain price stability without triggering a severe credit <span class=\"voc\">contraction</span> in already fragile national economies.",
+      "Furthermore, the ECB's task is complicated by widening interest rate <span class=\"voc\">divergence</span> across global markets. As foreign central banks navigate their own domestic priorities, European monetary authorities risk currency <span class=\"voc\">depreciation</span> if they loosen policy settings too aggressively. Navigating this delicate balance will require exceptional diplomatic <span class=\"voc\">finesse</span> alongside analytical rigor.",
+      "Whoever inherits the top job at the ECB will quickly discover that quiet institutional consensus is a luxury of the past. <span class=\"gem\">Balancing the divergent demands of <span class=\"voc\">hawkish</span> northern member states and heavily indebted southern economies will make the role an <span class=\"voc\">unenviable</span> task in a deeply troubled economic era.</span>"
     ],
-    "cn": "当克里斯蒂安·拉加德卸任欧洲中央银行行长一职时，她留下的将是一个正在与前所未有的结构性逆风作斗争的机构。长期受增长缓慢和财政凝聚力脆弱困扰的欧元区经济，正面临着日益动荡的宏观经济环境。应对这一艰难局面需要维持微妙的平衡，而她的继任者可能难以维系。为了遏制疫情后的通胀而实施的高利率，已开始削弱核心工业部门（尤其是德国和法国）的活力。与此同时，南部成员国的公共债务水平仍处于危险的高位，使各国财政部逆周期支出的空间十分有限。中央银行发现自己处于两难境地：一边是遏制持续的服务业通胀的必要举措，另一边则是缓冲摇摇欲坠的产出的迫切需求。地缘政治摩擦进一步使政策考量复杂化。日益高企的贸易壁垒和供应链碎片化威胁着欧洲出口导向型经济模式。如果华盛顿或北京掀起新一轮保护主义关税浪潮，法兰克福的货币当局将几乎没有传统工具来保护该贸易集团免受外部冲击。因此，被选来接替拉加德的人选将在关键时刻接掌大权。如果没有决断性的改革和机构重组，中央银行可能会因政治期望负担过重，而这些期望是它在现实中无法实现的。前面的任务不仅是技术性的货币管理，而是精心维护货币联盟本身。",
+    "cn": "当克里斯蒂娜·拉加德出任欧洲中央银行行长时，欧元区正面临经济增长缓慢和通胀持续低迷的困境。多年后的今天，随着有关她即将离任的传言在欧洲各国首都流传，金融局势显得更加摇摇欲坠。她的继任者将接手一个夹在粘性核心通胀、德国持续工业停滞以及日益加剧的地缘政治碎片化之间的机构。\n\n法兰克福面临的挑战因主要成员国的政治波动而变得更加复杂。整个区的财政政策依然撕裂，使得货币政策承担了不公平的经济重担。中央银行家们必须努力维持物价稳定，同时避免在本已脆弱的国家经济中引发严重的信贷紧缩。\n\n此外，全球市场日益扩大加剧的利率分歧使欧洲央行的任务更加复杂。随着外国中央银行应对各自国内的优先事项，如果欧洲货币当局过于激进地放松政策设定，将面临本币贬值的风险。要保持这种微妙的平衡，不仅需要精湛的技术严谨性，还需要卓越的外交技巧。\n\n无论谁接任欧洲央行的最高职位，都会很快发现，安静的机构共识已成为过去的奢望。平衡北部鹰派成员国与负债累累的南部经济体之间的分歧需求，将使这一职位成为深陷困境的经济时代中一项令人望而生畏的任务。",
     "vocab": [
       {
-        "w": "grapple",
-        "ipa": "/ˈɡræp.əl/",
-        "pos": "v.",
-        "mean": "努力应对 / 挣扎解决",
-        "def": "to struggle to deal with or overcome a difficult situation",
-        "ex": "Central bankers must grapple with persistent core inflation while steering clear of recession."
-      },
-      {
-        "w": "sluggish",
-        "ipa": "/ˈslʌɡ.ɪʃ/",
+        "w": "precarious",
+        "ipa": "/prɪˈkeə.ri.əs/",
         "pos": "adj.",
-        "mean": "停滞不前的 / 萧条的",
-        "def": "slow-moving or lacking energy and activity",
-        "ex": "Sluggish manufacturing activity has weighed heavily on overall quarterly GDP growth."
+        "mean": "摇摇欲坠的 / 不稳固的",
+        "def": "not securely held or positioned; dangerously likely to collapse",
+        "ex": "The country's economic recovery remains in a precarious state."
       },
       {
-        "w": "cohesion",
-        "ipa": "/kəʊˈhiː.ʒən/",
+        "w": "stagnation",
+        "ipa": "/stæɡˈneɪ.ʃən/",
         "pos": "n.",
-        "mean": "凝聚力 / 结合",
-        "def": "the action or state of forming a united whole",
-        "ex": "Diverging economic priorities threaten the fiscal cohesion of the trading bloc."
+        "mean": "停滞",
+        "def": "a prolonged period of little or no growth",
+        "ex": "Industrial stagnation has weighed heavily on tax revenues."
       },
       {
-        "w": "volatile",
-        "ipa": "/ˈvɒl.ə.taɪl/",
+        "w": "volatility",
+        "ipa": "/ˌvɒl.əˈtɪl.ə.ti/",
+        "pos": "n.",
+        "mean": "波动性 / 不稳定性",
+        "def": "liability to change rapidly and unpredictably",
+        "ex": "High political volatility disrupted long-term infrastructure investment."
+      },
+      {
+        "w": "fractured",
+        "ipa": "/ˈfræk.tʃəd/",
         "pos": "adj.",
-        "mean": "动荡不安的 / 易变的",
-        "def": "liable to change rapidly and unpredictably, especially for the worse",
-        "ex": "Investors moved assets into stable treasury bonds amid a highly volatile market."
+        "mean": "分裂的 / 破裂的",
+        "def": "divided into distinct parts or factions",
+        "ex": "A fractured parliament struggled to agree on a unified budget."
       },
       {
-        "w": "imperative",
-        "ipa": "/ɪmˈper.ə.tɪv/",
+        "w": "contraction",
+        "ipa": "/kənˈtræk.ʃən/",
         "pos": "n.",
-        "mean": "当务之急 / 必要之事",
-        "def": "an essential or urgent thing or duty",
-        "ex": "Controlling wage growth became a primary policy imperative for financial ministers."
+        "mean": "紧缩 / 萎缩",
+        "def": "a process of becoming smaller or reducing economic activity",
+        "ex": "A sharp credit contraction choked off funding for local enterprise."
       },
       {
-        "w": "faltering",
-        "ipa": "/ˈfɒl.tər.ɪŋ/",
+        "w": "divergence",
+        "ipa": "/daɪˈvɜː.dʒəns/",
+        "pos": "n.",
+        "mean": "分歧 / 偏离",
+        "def": "a difference or deviation in direction, opinion, or policy",
+        "ex": "Interest rate divergence created capital flows toward higher-yielding assets."
+      },
+      {
+        "w": "depreciation",
+        "ipa": "/dɪˌpriː.ʃiˈeɪ.ʃən/",
+        "pos": "n.",
+        "mean": "贬值",
+        "def": "a reduction in the value of an asset or currency",
+        "ex": "Sudden currency depreciation fueled domestic import costs."
+      },
+      {
+        "w": "finesse",
+        "ipa": "/fɪˈnes/",
+        "pos": "n.",
+        "mean": "手腕 / 手段技巧",
+        "def": "intricate and refined skill or diplomacy in handling difficult situations",
+        "ex": "Managing diplomatic disputes requires immense patience and finesse."
+      },
+      {
+        "w": "hawkish",
+        "ipa": "/ˈhɔː.kɪʃ/",
         "pos": "adj.",
-        "mean": "摇摇欲坠的 / 衰退的",
-        "def": "losing strength or momentum",
-        "ex": "Targeted subsidies were introduced to boost the country's faltering housing sector."
+        "mean": "鹰派的 / 主张紧缩政策的",
+        "def": "advocating aggressive or high-interest monetary policy to suppress inflation",
+        "ex": "Hawkish central bankers pushed for further rate increases."
       },
       {
-        "w": "calculus",
-        "ipa": "/ˈkæl.kjə.ləs/",
-        "pos": "n.",
-        "mean": "考量 / 权衡",
-        "def": "a particular process or logic of reasoning and calculation",
-        "ex": "Electoral pressures have significantly altered the geopolitical calculus of eurozone leaders."
-      },
-      {
-        "w": "fragmentation",
-        "ipa": "/ˌfræɡ.menˈteɪ.ʃən/",
-        "pos": "n.",
-        "mean": "碎片化 / 分裂",
-        "def": "the process or state of breaking into separate or isolated parts",
-        "ex": "Global supply chain fragmentation has pushed production costs significantly higher."
-      },
-      {
-        "w": "insulate",
-        "ipa": "/ˈɪn.sjə.leɪt/",
-        "pos": "v.",
-        "mean": "隔离 / 保护",
-        "def": "to protect from unpleasant experiences or external influences",
-        "ex": "Capital reserves help insulate smaller retail banks from sudden market liquidity freezes."
-      },
-      {
-        "w": "juncture",
-        "ipa": "/ˈdʒʌŋk.tʃər/",
-        "pos": "n.",
-        "mean": "关键时刻 / 关头",
-        "def": "a particular point in time or stage in a process",
-        "ex": "The policy shift arrived at a critical juncture for European business confidence."
+        "w": "unenviable",
+        "ipa": "/ʌnˈen.vi.ə.bəl/",
+        "pos": "adj.",
+        "mean": "令人望而生畏的 / 艰难的",
+        "def": "difficult, unpleasant, or undesirable",
+        "ex": "He took on the unenviable task of restructuring the troubled corporate division."
       }
     ],
     "gems": [
       {
-        "s": "The Central Bank finds itself caught between the imperative to quell persistent service-sector inflation and the urgent need to cushion faltering output.",
-        "why": "Uses a elegant 'caught between A and B' contrast structure paired with parallel noun phrases to vividly portray a policy dilemma. 此句使用对称的‘夹在A与B之间’对比结构，配合强有力的平行名词短语，极其生动地展现了央行面临的政策两难困境。"
+        "s": "Fiscal policy remains fractured across the bloc, leaving monetary policy to bear an unfair share of the economic burden.",
+        "why": "This sentence uses a clear cause-and-effect structure ending with a participial clause ('leaving monetary policy to...'), neatly illustrating how to express complex macroeconomic tensions concisely. 句子结尾使用分词短语结构引出后果，简洁精炼地展示了如何表达复杂的宏观经济矛盾。"
+      },
+      {
+        "s": "Balancing the divergent demands of hawkish northern member states and heavily indebted southern economies will make the role an unenviable task in a deeply troubled economic era.",
+        "why": "The author uses contrasting paired modifiers ('hawkish northern' versus 'heavily indebted southern') to vividly summarize internal geopolitical divides in policy creation. 作者通过两组鲜明对比的修饰词，生动勾勒出政策制定中内部地缘经济的分歧。"
       }
     ]
   }
