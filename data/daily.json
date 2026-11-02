@@ -1,79 +1,59 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T06:26:30.616797+00:00",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T06:28:08.427045+00:00",
   "economist": {
-    "headline": "Christine Lagarde departs at a moment of peril",
-    "teaser": "Her successor as ECB chief will have an unenviable job",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+    "headline": "Intensive parenting is no longer the preserve of the rich",
+    "teaser": "But wealthy families still come out on top",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
     "vocab": [
       {
-        "word": "departs",
-        "phonetic": "",
-        "def": "To leave."
+        "word": "intensive",
+        "phonetic": "/ɪnˈtɛnsɪv/",
+        "def": "Form of a word with a stronger or more forceful sense than the root on which the intensive is built."
       },
       {
-        "word": "successor",
-        "phonetic": "/səkˈsɛsə(ɹ)/",
-        "def": "A person or thing that immediately follows another in holding an office or title."
+        "word": "preserve",
+        "phonetic": "/pɹəˈzɜːv/",
+        "def": "A sweet spread made of any of a variety of fruits."
       }
     ]
   },
   "st": {
-    "headline": "Crypto shaken after Binance hack; Wilmar discloses sales to firms in haze probe: Markets this week",
-    "teaser": "Temasek-backed Mapletree Investments is reported to be looking at an SGX IPO.",
-    "url": "https://www.straitstimes.com/business/bitcoin-slips-after-binance-hack-tech-stocks-slide-as-ai-realities-bite-markets-this-week",
+    "headline": "Sheng Siong shares continue last week’s slide, fall over 9% to hit one-year low",
+    "teaser": "The company says competition in grocery retail could intensify over the coming year.",
+    "url": "https://www.straitstimes.com/business/sheng-siong-shares-continue-last-weeks-slide-fall-over-9-to-hit-one-year-low",
     "fullText": [
-      "SINGAPORE – A multibillion-dollar hack at cryptocurrency exchange Binance shook the industry this week, sending prices lower amid concerns over the safety of investors’ assets on trading platforms.",
-      "Bitcoin fell about 5% over 24 hours since the Oct 29 incident, while Ether lost about 5.7%. Both extended their declines on Oct 30 before recovering some ground. On Nov 1, Bitcoin was trading at around US$77,450, while Ether was US$2,249.",
-      "About US$6.4 billion (S$8.2 billion) worth of cryptocurrencies was stolen on Binance within 30 minutes, with attackers linked to North Korea draining the platform’s internet-connected “hot wallets”, then rushing to exchange stolen stablecoins for cryptocurrencies such as Ether.",
-      "Unlike stablecoins, whose issuers can freeze assets, Bitcoin and Ether have no central issuer able to block their movement.",
-      "Approximately US$2.8 billion in stablecoins has been frozen by investigators, law enforcement agencies and stablecoin issuers so far.",
-      "In a video circulated on social media on Oct 30, Binance co-chief executive Richard Teng said the exchange has been working non-stop to recover the stolen assets, and added that it had reserved more than US$6.4 billion of its own money to cover all losses .",
-      "Teng said customer assets were safe and would not be used to cover the losses, and attributed Binance’s ability to absorb the losses to retained earnings and reinvestment into the business.",
-      "He added that withdrawals from the exchange, which have been suspended pending a security overhaul, are expected to resume by Nov 1 .",
-      "In Singapore, the Binance.com trading platform operates outside the Monetary Authority of Singapore’s (MAS) regulatory safeguards.",
-      "MAS placed the platform on its Investor Alert List in September 2021, warning that it was not regulated or licensed to provide payment services here. It also ordered Binance to stop providing such services in Singapore and cease soliciting business from residents.",
-      "Investors dealing with unregulated platforms forgo protections under MAS regulations.",
-      "Wilmar International on Oct 31 disclosed that it sold fertilisers and diesel for heavy equipment to six of the 10 companies named by the National Environment Agency (NEA) as linked to the haze caused by fires in Indonesia, generating revenue of around US$22.5 million in financial year 2025.",
-      "Updating its Oct 28 response to the regulatory arm of the Singapore Exchange (SGX RegCo) based on newly received information, Wilmar said none of the 10 companies named was its subsidiary. It added that it had no operational or supply-chain ties with six buyers and no operational, supply-chain or business relationship with the remaining four companies.",
-      "Shares of Wilmar took a beating during the week from rising raw material costs, which ate into its earnings, and elevated risks arising from a Government-led haze-related probe.",
-      "The shares fell 11% across the week to close Oct 30 at $3.01.",
-      "The conglomerate said its food products segment was hit by higher raw material costs, and the feed and industrial products segment by weaker soya bean crushing margins, triggering several analyst downgrades on the stock.",
-      "Wilmar said in a separate announcement that it has reviewed available information and assessed that the fires in Indonesia and transboundary haze have neither resulted in, nor are expected to result in, any material operational, financial, legal or regulatory impact on the company.",
-      "This was after 10 Singapore-registered, Indonesian oil palm-related companies, which included Wilmar, were issued preventive-measure notices by NEA under the Transboundary Haze Pollution Act.",
-      "The Government has begun investigating companies linked to the haze, and on Oct 28 met the senior leadership of the Singapore businesses allegedly linked to haze-related activities.",
-      "Kuok Khoon Hong, chairman and CEO of Wilmar, was one of the executives present at the meeting. Besides Kuok, the bosses of Golden-Agri Resources, First Resources, Bumitama Agri, Indofood Agri Resources and Kencana Agri, and representatives from TSH Resources and the Sinar Mas Group, which includes Asia Pulp & Paper (APP), were also at the meeting.",
-      "On Oct 31, NEA said seven Singapore-registered companies had indicated their willingness to engage assessors to examine their links to fires contributing to transboundary haze.",
-      "Five companies – Wilmar, Golden Agri-Resources, APP Company, APP Company (China) and Indofood Agri Resources – have agreed to engage assessors from the Panel on Transboundary Haze and cooperate with the assessment process, following meetings with NEA.",
-      "The agency will also meet Kencana Agri, which has expressed willingness to voluntarily engage assessors.",
-      "NEA said it was awaiting written confirmation of First Resources’ participation in the assessment process.",
-      "In its statement, NEA also welcomed First Resources’ recent public statement that it was prepared to engage an investigation firm and a law firm to assess whether the group had any involvement in or connection with the fires that contributed to transboundary haze.",
-      "The Government on Oct 30 had appointed seven investigation and law firms and one individual to a specialist panel assembled to investigate companies linked to the transboundary haze.",
-      "US-listed tech stocks, including stalwarts like Alphabet, Amazon and Nvidia, had a rough week as fears around artificial intelligence spending collided with disappointing earnings.",
-      "Heavy infrastructure spending by mega-cap tech firms have led to cash flow strains and heightened investor sensitivity towards execution and investment returns, hitting the valuations of companies like Alphabet.",
-      "Google’s parent suffered its worst one-day percentage decline on record on Oct 29, falling as much as 12.6% and wiping out almost US$500 million in market value.",
-      "Investors dumped the stock after the company reported negative free cash flow of US$9.1 billion for the third quarter as a result of soaring AI-related costs. The stock closed on Oct 30 at US$278.22."
+      "SINGAPORE - Shares of supermarket operator Sheng Siong continued to fall, dropping as much as 9.4 per cent on the morning of Nov 2, after the group reported a marginal 1.9 per cent year-on-year increase in third-quarter net profit on the evening of Oct 29.",
+      "The stock had closed down 4.6 per cent or S$0.13 at S$2.67 on Oct 30.",
+      "The counter opened on Nov 2 down 7.1 per cent at S$2.48 as at 9.01am, before slipping to S$2.46 as at 9.16 am.",
+      "It fell further to S$2.42, down 9.4 per cent, as at 10.44am. This is the lowest level the stock has reached since Nov 3, 2025, when it hit S$2.33 in intra-day trade.",
+      "Some 7.4 million shares changed hands as at 10.44am on Nov 2. No married deals were reported, according to data from ShareInvestor.",
+      "The mainboard-listed supermarket operator reported a net profit of S$44.6 million for the three months ended Sept 30, up from S$43.7 million in the corresponding year-ago period.",
+      "Revenue for the quarter rose 6.2 per cent to S$441.5 million, from S$415.5 million a year earlier. The group attributed the increase to a larger store network in Singapore, as well as improvements in comparable same-store sales.",
+      "The stock’s decline also comes after management said during its Q3 results briefing that the grocery retail landscape remains competitive, with sustained promotional activity potentially putting pressure on revenue and margins.",
+      "Competition could intensify further with the upcoming Johor Bahru-Singapore Rapid Transit System (RTS) Link, which is expected to begin operations in February 2027. The link could encourage more cross-border shopping and heighten price competition for selected packaged groceries and household products.",
+      "Sheng Siong said it would adapt its strategies as developments surrounding the RTS Link unfold, in order to address the potential impact on its business.",
+      "Beyond competition, the group also flagged rising labour costs as another challenge. These include wage increases under the Progressive Wage Model and the National Wages Council’s guidelines for 2026 to 2027.",
+      "The group had raised the salaries of its retail workers in September last year to meet Progressive Wage Model requirements for the retail sector.",
+      "DBS analyst Chee Zheng Feng said in a note on Friday that he expects Sheng Siong’s earnings growth to moderate further in the fourth quarter, as it comes down from a high base boosted by SG60 vouchers.",
+      "Another potential factor is the full-quarter impact of the Thomson Imperial Court store’s closure on Sep 25, while higher utility prices and rising staff costs could also weigh on the supermarket chain’s profitability, he added.",
+      "The brokerage maintained a hold and unchanged target price of S$3 for the counter. THE BUSINESS TIMES"
     ]
   },
   "cna": {
-    "headline": "Heavy traffic expected at Singapore-Malaysia land checkpoints during Deepavali long weekend",
-    "teaser": "The Immigration and Checkpoints Authority (ICA) issued the travel advisory for Nov 6 to Nov 9, encouraging travellers to plan their journey ahead of time and consider travelling during non-peak hours.",
-    "url": "https://www.channelnewsasia.com/singapore/heavy-traffic-woodlands-tuas-checkpoints-6510666",
+    "headline": "BOJ flags progress in anchoring inflation around target",
+    "teaser": "BOJ flags progress in anchoring inflation around target",
+    "url": "https://www.channelnewsasia.com/business/boj-flags-progress-in-anchoring-inflation-around-target-6512336",
     "fullText": [
-      "SINGAPORE: Heavy traffic is expected at the Woodlands and Tuas checkpoints during the upcoming Deepavali long weekend.",
-      "The Immigration and Checkpoints Authority (ICA) on Sunday (Nov 1) issued the travel advisory for Nov 6 to Nov 9.",
-      "It encouraged travellers to plan their journey ahead of time and consider travelling during non-peak hours, such as early mornings and late evenings.",
-      "Travellers should check the traffic situation at the land checkpoints before starting their journey, ICA said.",
-      "ICA also strongly encouraged travellers to use QR codes generated via the MyICA mobile app for faster and more seamless immigration clearance.",
-      "It noted that initiatives such as QR code clearance and facial recognition for motorcyclists and pillion riders have increased clearance throughput by more than 35 per cent during departure peak periods - equivalent to an additional 7,600 travellers per hour compared with pre-COVID-19 levels in 2019.",
-      "Since Sep 30, short-term visitors entering Singapore through the land checkpoints who submit their SG Arrival Card via the MyICA app must update the app to the latest version before doing so.",
-      "Travellers entering Singapore by foreign-registered car must also ensure that the vehicle has a valid Vehicle Entry Permit (VEP) before submitting their SG Arrival Card. They will not be able to complete the submission without a valid VEP.",
-      "\"While driving on roads leading to and within the land checkpoints, motorists are to cooperate with ICA officers, observe lane discipline and comply with traffic rules,\" said ICA.",
-      "\"Queue cutting disrupts traffic flow and delays other travellers. Those caught queue cutting will be directed to make a U-turn and re-join the queue from the back.\"",
-      "ICA added that it will take firm action against travellers who do not comply with its officers' instructions or who commit traffic offences at the checkpoints.",
-      "During the recent September school holidays from Sep 4 to Sep 14, more than 6.1 million travellers crossed both land checkpoints, with the volume peaking at more than 599,000 on Sep 4.",
-      "This set a new record, ICA said, surpassing the previous peak of more than 598,000 crossings on Jun 19, 2026. Car travellers departing during peak hours experienced waiting times of up to three hours for immigration clearance, due to traffic tailbacks from Malaysia.",
-      "During that travel period, 27 motorists were caught for traffic-related offences and dangerous road behaviour."
+      "TOKYO, Nov 2 : Japan has made gradual progress towards anchoring inflation around the central bank's 2 per cent target, the Bank of Japan said in a report on Monday, bolstering the case for raising interest rates.",
+      "In reaching its decision, the BOJ weighed up inflation expectations, firms' wage- and price-setting behaviour, and the degree to which households and firms act based on the assumption that prices will rise by around 2 per cent, the central bank said.",
+      "\"With underlying inflation moving around 2 per cent and upside risks to prices warranting attention, interest rate hikes will likely alleviate price pressures and underpin consumption,\" the bank said in the full version of its quarterly outlook.",
+      "Firms' inflation outlook appears to gradually converge around 2 per cent, while households' inflation expectations vary widely, it added.",
+      "\"As such, underlying inflation has risen toward a level around 2 per cent over the past few years, and there has been gradual progress toward anchoring it at that level.\"",
+      "Domestic consumption has recently been sluggish in real terms, the bank added, due to bad weather during the summer and a hit to spending from rising living costs.",
+      "\"But consumption as a whole is likely to remain resilient\" partly thanks to government subsidies to curb fuel prices, higher stock prices and rising wages from a tight job market, it said.",
+      "The BOJ publishes the full version of its quarterly report on the market day after it concludes its policy meeting, at which it releases a summary.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
@@ -83,262 +63,263 @@
   },
   "lifeVocab": [
     {
-      "en": "registration counter",
-      "cn": "挂号柜台",
-      "def": "the desk where patients sign in and present their identification documents",
-      "ex": "Please show your NRIC at the registration counter upon arrival at the polyclinic.",
-      "emoji": "🏥"
+      "en": "fresh produce",
+      "cn": "生鲜农产品",
+      "def": "freshly harvested fruits and vegetables",
+      "ex": "I like to visit the wet market early in the morning for the freshest produce.",
+      "emoji": "🥬"
     },
     {
-      "en": "referral letter",
-      "cn": "转诊信",
-      "def": "an official document from a doctor directing a patient to a specialist",
-      "ex": "The general practitioner gave her a referral letter to see an eye specialist at the hospital.",
-      "emoji": "✉️"
+      "en": "stallholder",
+      "cn": "摊主",
+      "def": "a person who rents or manages a stall in a market",
+      "ex": "The friendly fish stallholder always gives me extra prawns for free.",
+      "emoji": "👨‍🌾"
     },
     {
-      "en": "queue ticket",
-      "cn": "排队号码牌",
-      "def": "a printed slip showing your waiting number for service",
-      "ex": "Take a queue ticket from the automated kiosk before taking a seat in the waiting area.",
-      "emoji": "🎟️"
+      "en": "haggling",
+      "cn": "讨价还价",
+      "def": "arguing good-humouredly over the price of an item",
+      "ex": "Haggling is less common nowadays, but some older shoppers still try it.",
+      "emoji": "🗣️"
     },
     {
-      "en": "triage",
-      "cn": "分诊 / 检伤分类",
-      "def": "the initial evaluation process to determine the urgency of a patient's medical condition",
-      "ex": "During triage, the nurse checked my blood pressure and asked about my symptoms.",
-      "emoji": "📋"
+      "en": "poultry",
+      "cn": "家禽肉类",
+      "def": "meat from birds such as chickens, ducks, or geese",
+      "ex": "The poultry stall has fresh chicken delivered daily at dawn.",
+      "emoji": "🍗"
     },
     {
-      "en": "consultation room",
-      "cn": "问诊室",
-      "def": "a private room where a physician examines and speaks with a patient",
-      "ex": "The doctor called number 1042 into consultation room five.",
-      "emoji": "🩺"
+      "en": "herbal tea",
+      "cn": "凉茶",
+      "def": "a beverage made from traditional herbs to cool the body",
+      "ex": "After shopping in the humid market, I grabbed a cold herbal tea.",
+      "emoji": "🍵"
     },
     {
-      "en": "prescription",
-      "cn": "处方药单",
-      "def": "an official medical note authorizing a patient to receive specific medication",
-      "ex": "You can collect your medicine from the pharmacy counter after paying for your prescription.",
-      "emoji": "💊"
+      "en": "cleaver",
+      "cn": "菜刀 / 砍刀",
+      "def": "a heavy butcher knife with a broad blade",
+      "ex": "The butcher expertly chopped the pork ribs with a heavy cleaver.",
+      "emoji": "🔪"
     },
     {
-      "en": "subsidised rate",
-      "cn": "津贴价格",
-      "def": "a reduced fee for a service supported by government funding",
-      "ex": "Singapore citizens enjoy a heavily subsidised rate for consultation fees at public clinics.",
-      "emoji": "💰"
+      "en": "seafood counter",
+      "cn": "海鲜柜台",
+      "def": "a display section where fresh fish and shellfish are sold",
+      "ex": "The seafood counter was packed with live crabs and tiger prawns.",
+      "emoji": "🦐"
     },
     {
-      "en": "medical certificate",
-      "cn": "病假单",
-      "def": "an official document certifying that a patient is unfit for work or study due to illness",
-      "ex": "He submitted his medical certificate to the HR department after resting for two days.",
-      "emoji": "📝"
+      "en": "bargain",
+      "cn": "划算的商品",
+      "def": "something bought for less than its usual price",
+      "ex": "Buying vegetables at the wet market is often a real bargain.",
+      "emoji": "🏷️"
     },
     {
-      "en": "dispensary",
-      "cn": "药房 / 配药处",
-      "def": "a place within a medical facility where drugs are prepared and given out",
-      "ex": "Please wait near the dispensary until your queue number is displayed on the screen.",
-      "emoji": "🏥"
+      "en": "groceries",
+      "cn": "日常杂货 / 食品",
+      "def": "items of food and household supplies sold in a market",
+      "ex": "She carried two heavy bags of groceries back to her flat.",
+      "emoji": "🛍️"
     },
     {
-      "en": "follow-up appointment",
-      "cn": "复诊预约",
-      "def": "a scheduled future visit to check the progress of a patient's treatment",
-      "ex": "The doctor scheduled a follow-up appointment in six weeks to monitor her recovery.",
-      "emoji": "📅"
+      "en": "early bird",
+      "cn": "早起的人",
+      "def": "a person who gets up or arrives early",
+      "ex": "You need to be an early bird if you want to get the best catch of the day.",
+      "emoji": "🌅"
     }
   ],
   "levelVocab": [
     {
-      "w": "recalibrate",
-      "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
+      "w": "galvanize",
+      "ipa": "/ˈɡæl.və.naɪz/",
       "pos": "v.",
-      "cn": "重新调整 / 重新校准",
-      "def": "to adjust or refine a plan, system, or strategy in response to new conditions",
-      "ex": "The leadership team had to recalibrate their regional expansion strategy after market conditions changed."
-    },
-    {
-      "w": "contingent",
-      "ipa": "/kənˈtɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "视……而定的 / 依条件而定的",
-      "def": "dependent on certain circumstances or future events",
-      "ex": "The final approval of the deal is contingent upon completing a thorough financial audit."
+      "cn": "激励；动员",
+      "def": "to shock or excite someone into taking urgent action",
+      "ex": "The CEO's inspiring speech helped to galvanize the sales team before the product launch."
     },
     {
       "w": "delineate",
       "ipa": "/dɪˈlɪn.i.eɪt/",
       "pos": "v.",
-      "cn": "清晰地勾勒 / 明确界定",
-      "def": "to describe or outline something precisely",
-      "ex": "The project brief clearly delineates the scope of work for each department involved."
-    },
-    {
-      "w": "precedent",
-      "ipa": "/ˈpres.ɪ.dənt/",
-      "pos": "n.",
-      "cn": "先例 / 前例",
-      "def": "an earlier action or decision that serves as an example or guide for future situations",
-      "ex": "Approving this emergency budget request might set an unhelpful precedent for future quarters."
-    },
-    {
-      "w": "accentuate",
-      "ipa": "/əkˈsen.tʃu.eɪt/",
-      "pos": "v.",
-      "cn": "强调 / 突出",
-      "def": "to make something more noticeable or prominent",
-      "ex": "The presentation was designed to accentuate the firm's competitive edge in Asia."
+      "cn": "清晰地勾勒；详细阐明",
+      "def": "to describe or portray something precisely",
+      "ex": "The contract clearly delineates the responsibilities of each partner."
     },
     {
       "w": "impediment",
-      "ipa": "/ɪmˈped.ɪ.mənt/",
+      "ipa": "/ɪmˈped.ə.mənt/",
       "pos": "n.",
-      "cn": "阻碍 / 障碍",
-      "def": "something that obstructs or slows down progress",
-      "ex": "High operating costs remain a principal impediment to startup growth in major tech hubs."
+      "cn": "阻碍；妨碍物",
+      "def": "a hindrance or obstruction in doing something",
+      "ex": "Bureaucratic delays remain a major impediment to regional trade."
     },
     {
-      "w": "stagnation",
-      "ipa": "/stæɡˈneɪ.ʃən/",
-      "pos": "n.",
-      "cn": "停滞 / 不景气",
-      "def": "a state of lacking growth, progress, or activity",
-      "ex": "Prolonged productivity stagnation has prompted policymakers to invest heavily in retraining initiatives."
+      "w": "pivotal",
+      "ipa": "/ˈpɪv.ə.təl/",
+      "pos": "adj.",
+      "cn": "举足轻重的；关键的",
+      "def": "of crucial importance in relation to the development of something else",
+      "ex": "Data analytics played a pivotal role in shaping our new marketing strategy."
     },
     {
-      "w": "amplify",
-      "ipa": "/ˈæm.plɪ.faɪ/",
+      "w": "corroborate",
+      "ipa": "/kəˈrɒb.ə.reɪt/",
       "pos": "v.",
-      "cn": "放大 / 增强",
-      "def": "to increase the strength, effect, or visibility of something",
-      "ex": "Social media campaigns can amplify brand visibility across multiple demographic segments."
+      "cn": "证实；确证",
+      "def": "to confirm or give support to a statement or finding",
+      "ex": "Audit reports helped corroborate the financial claims made by management."
     },
     {
-      "w": "stringent",
-      "ipa": "/ˈstrɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "严格的 / 严厉的",
-      "def": "strict, precise, and demanding exact compliance",
-      "ex": "Financial institutions must adhere to stringent anti-money laundering compliance standards."
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案；突发事件",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "The finance department created a contingency fund for unexpected supply chain costs."
     },
     {
-      "w": "commensurate",
-      "ipa": "/kəˈmen.sjər.ət/",
+      "w": "lucrative",
+      "ipa": "/ˈluː.krə.tɪv/",
       "pos": "adj.",
-      "cn": "相称的 / 相当的",
-      "def": "corresponding in size, degree, or proportion to something else",
-      "ex": "Compensation packages should be commensurate with an applicant's level of technical expertise."
+      "cn": "获利丰厚的；赚大钱的",
+      "def": "producing a great deal of profit",
+      "ex": "The firm secured a lucrative deal to supply technology to local banks."
+    },
+    {
+      "w": "curtail",
+      "ipa": "/kəˈteɪl/",
+      "pos": "v.",
+      "cn": "削减；缩减",
+      "def": "to reduce in extent or quantity; to impose a restriction on",
+      "ex": "The company had to curtail unnecessary travel expenses during the quarter."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "pos": "v.",
+      "cn": "散播；宣扬",
+      "def": "to spread info or knowledge widely",
+      "ex": "HR will disseminate the updated remote-work policy via email tomorrow."
+    },
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
+      "pos": "v.",
+      "cn": "增加；扩大",
+      "def": "to make something greater by adding to it",
+      "ex": "The team plans to augment its current manpower by hiring seasonal freelancers."
     }
   ],
   "listening": {
-    "source": "CNA Style · Intermediate",
-    "title": "Singapore Expands Electric Bus Fleet in Public Transport Push",
-    "transcript": "Singapore's Land Transport Authority has <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ʌnˈveɪld/ (v.) introduced or revealed publicly for the first time — 推出，揭幕\">unveiled</span> plans to rollout hundreds of new electric buses across major public routes by next year. The initiative aims to significantly reduce carbon emissions from city transit while enhancing commuter comfort. Officials noted that charging <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪnfrəstrʌktʃər/ (n.) basic physical and organizational structures needed for operation — 基础设施\">infrastructure</span> is being upgraded rapidly to support the expanding green fleet across island-wide depots."
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Urban Farming on Carpark Rooftops",
+    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈsel.ə.reɪ.tɪŋ/ (v.) moving faster or increasing speed — 加快\">accelerating</span> its efforts to enhance food security by turning unused rooftops into high-tech urban farms. Commuters across the island may soon notice lush green vegetables growing atop multi-storey car parks in their residential estates. Officials hope these community-led agriculture initiatives will reduce <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/rɪˈlaɪ.əns/ (n.) dependence on someone or something — 依赖\">reliance</span> on imported produce while fostering social bonding among neighbours."
   },
   "economistArticle": {
-    "title": "The Poisoned Chalice at Frankfurt",
+    "title": "The Parenting Trap: Why Hard Work by Less-Affluent Parents Cannot Bridge the Class Gap",
     "paras": [
-      "When Christine Lagarde assumed leadership of the European Central Bank, the eurozone was grappling with sluggish growth and stubbornly low inflation. Years later, as whispers of her departure grow louder across European capitals, the financial landscape appears even more <span class=\"voc\">precarious</span>. Her successor will step into an institution caught between sticky core inflation, persistent industrial <span class=\"voc\">stagnation</span> in Germany, and deepening geopolitical fragmentation.",
-      "The challenges facing Frankfurt are compounded by political <span class=\"voc\">volatility</span> across key member states. <span class=\"gem\">Fiscal policy remains <span class=\"voc\">fractured</span> across the bloc, leaving monetary policy to bear an unfair share of the economic burden.</span> Central bankers must attempt to maintain price stability without triggering a severe credit <span class=\"voc\">contraction</span> in already fragile national economies.",
-      "Furthermore, the ECB's task is complicated by widening interest rate <span class=\"voc\">divergence</span> across global markets. As foreign central banks navigate their own domestic priorities, European monetary authorities risk currency <span class=\"voc\">depreciation</span> if they loosen policy settings too aggressively. Navigating this delicate balance will require exceptional diplomatic <span class=\"voc\">finesse</span> alongside analytical rigor.",
-      "Whoever inherits the top job at the ECB will quickly discover that quiet institutional consensus is a luxury of the past. <span class=\"gem\">Balancing the divergent demands of <span class=\"voc\">hawkish</span> northern member states and heavily indebted southern economies will make the role an <span class=\"voc\">unenviable</span> task in a deeply troubled economic era.</span>"
+      "Over the past few decades, the <span class=\"voc\">ethos</span> of intensive parenting—spending vast amounts of time, energy, and money on stimulating children's <span class=\"voc\">cognitive</span> growth—has ceased to be an exclusive practice of the wealthy elite. Working-class and lower-middle-class parents now read to their infants, enroll them in extracurricular activities, and carefully monitor their homework with a dedication that rivals their wealthier peers.",
+      "<span class=\"gem\">This shift reflects a widespread anxiety about social mobility in an increasingly competitive economy.</span> Parents across all income brackets recognize that educational achievement is <span class=\"voc\">paramount</span> for securing stable employment. Consequently, even families operating on modest budgets sacrifice leisure hours and disposable income to purchase educational toys, private tutoring, and sports coaching.",
+      "Yet, despite this <span class=\"voc\">democratization</span> of effort, the developmental gap between children of different socio-economic <span class=\"voc\">strata</span> persists. Richer parents possess financial reserves that enable them to buy structural advantages—such as elite private schooling, specialized exam preparation, and broad international exposure—that low-income parents simply cannot <span class=\"voc\">replicate</span> regardless of their dedication.",
+      "Moreover, <span class=\"voc\">prosperous</span> parents command significant social capital. They can secure prestigious internships through professional networks and navigate complex educational systems with ease. This <span class=\"voc\">implicit</span> leverage transforms high effort into <span class=\"voc\">tangible</span> career rewards far more reliably than effort alone can achieve for less-connected families.",
+      "<span class=\"gem\">Thus, while intensive parenting has become a universal norm, it has not proven to be the great <span class=\"voc\">equalizer</span> many hoped for.</span> Policy interventions must move beyond simply urging parents to work harder, focusing instead on structural remedies like subsidizing high-quality early childhood care and broadening access to top-tier educational pathways."
     ],
-    "cn": "当克里斯蒂娜·拉加德出任欧洲中央银行行长时，欧元区正面临经济增长缓慢和通胀持续低迷的困境。多年后的今天，随着有关她即将离任的传言在欧洲各国首都流传，金融局势显得更加摇摇欲坠。她的继任者将接手一个夹在粘性核心通胀、德国持续工业停滞以及日益加剧的地缘政治碎片化之间的机构。\n\n法兰克福面临的挑战因主要成员国的政治波动而变得更加复杂。整个区的财政政策依然撕裂，使得货币政策承担了不公平的经济重担。中央银行家们必须努力维持物价稳定，同时避免在本已脆弱的国家经济中引发严重的信贷紧缩。\n\n此外，全球市场日益扩大加剧的利率分歧使欧洲央行的任务更加复杂。随着外国中央银行应对各自国内的优先事项，如果欧洲货币当局过于激进地放松政策设定，将面临本币贬值的风险。要保持这种微妙的平衡，不仅需要精湛的技术严谨性，还需要卓越的外交技巧。\n\n无论谁接任欧洲央行的最高职位，都会很快发现，安静的机构共识已成为过去的奢望。平衡北部鹰派成员国与负债累累的南部经济体之间的分歧需求，将使这一职位成为深陷困境的经济时代中一项令人望而生畏的任务。",
+    "cn": "在过去的几十年里，“密集型育儿”的理念——即投入大量时间、精力和金钱来刺激儿童的认知成长——已不再是富裕精英阶层的专属做法。工薪阶层和中产阶级下层的父母现在也像富裕同行一样，热衷于为婴儿朗读、报名参加课外活动，并仔细监督孩子的作业。\n\n这种转变反映了人们在竞争日益激烈的经济环境中对社会阶层流动性的普遍焦虑。各个收入阶层的父母都认识到，教育成就对于获得稳定就业至关重要。因此，即便预算紧张的家庭也会牺牲休闲时间和可支配收入，去购买教育玩具、请私人补习和参加体育教练课程。\n\n然而，尽管这种努力走向了普及，不同社会经济阶层儿童之间的发展差距依然存在。富裕父母拥有雄厚的财务储备，使其能够购买结构性优势——例如精英私立教育、专业考试辅导以及广泛的国际视野——而无论低收入父母多么投入，都根本无法复制这些优势。\n\n此外，富裕父母拥有丰厚的社会资本。他们能通过职业网络为子女争取到名企实习机会，并从容应对复杂的教育体系。相比人脉较少的家庭，这种隐性优势能更稳定地将高额投入转化为实在的职业回报。\n\n因此，尽管密集型育儿已成为一种普遍规范，但事实证明它并非人们所期待的社会平等调节器。政策干预必须超越单纯呼吁父母更加努力，转而关注结构性补救措施，例如补贴高质量的早期托育服务以及拓宽通往顶尖教育资源的途径。",
     "vocab": [
       {
-        "w": "precarious",
-        "ipa": "/prɪˈkeə.ri.əs/",
+        "w": "ethos",
+        "ipa": "/ˈiː.θɒs/",
+        "pos": "n.",
+        "mean": "特质，风气",
+        "def": "the characteristic spirit of a culture, era, or community",
+        "ex": "The company ethos emphasizes collaboration and continuous innovation."
+      },
+      {
+        "w": "cognitive",
+        "ipa": "/ˈkɒɡ.nə.tɪv/",
         "pos": "adj.",
-        "mean": "摇摇欲坠的 / 不稳固的",
-        "def": "not securely held or positioned; dangerously likely to collapse",
-        "ex": "The country's economic recovery remains in a precarious state."
+        "mean": "认知的",
+        "def": "relating to cognition or mental processes of understanding",
+        "ex": "Puzzles can help children develop early cognitive skills."
       },
       {
-        "w": "stagnation",
-        "ipa": "/stæɡˈneɪ.ʃən/",
-        "pos": "n.",
-        "mean": "停滞",
-        "def": "a prolonged period of little or no growth",
-        "ex": "Industrial stagnation has weighed heavily on tax revenues."
-      },
-      {
-        "w": "volatility",
-        "ipa": "/ˌvɒl.əˈtɪl.ə.ti/",
-        "pos": "n.",
-        "mean": "波动性 / 不稳定性",
-        "def": "liability to change rapidly and unpredictably",
-        "ex": "High political volatility disrupted long-term infrastructure investment."
-      },
-      {
-        "w": "fractured",
-        "ipa": "/ˈfræk.tʃəd/",
+        "w": "paramount",
+        "ipa": "/ˈpær.ə.maʊnt/",
         "pos": "adj.",
-        "mean": "分裂的 / 破裂的",
-        "def": "divided into distinct parts or factions",
-        "ex": "A fractured parliament struggled to agree on a unified budget."
+        "mean": "至高无上的，首要的",
+        "def": "more important than anything else; supreme",
+        "ex": "Maintaining quality control is of paramount importance to the brand."
       },
       {
-        "w": "contraction",
-        "ipa": "/kənˈtræk.ʃən/",
+        "w": "democratization",
+        "ipa": "/dɪˌmɒk.rə.taɪˈzeɪ.ʃən/",
         "pos": "n.",
-        "mean": "紧缩 / 萎缩",
-        "def": "a process of becoming smaller or reducing economic activity",
-        "ex": "A sharp credit contraction choked off funding for local enterprise."
+        "mean": "普及，大众化",
+        "def": "the action of making something accessible to everyone",
+        "ex": "The democratization of smartphone technology changed how people communicate."
       },
       {
-        "w": "divergence",
-        "ipa": "/daɪˈvɜː.dʒəns/",
+        "w": "strata",
+        "ipa": "/ˈstrɑː.tə/",
         "pos": "n.",
-        "mean": "分歧 / 偏离",
-        "def": "a difference or deviation in direction, opinion, or policy",
-        "ex": "Interest rate divergence created capital flows toward higher-yielding assets."
+        "mean": "阶层，层级",
+        "def": "levels or classes to which people are assigned according to social status",
+        "ex": "The survey gathered opinions from across different economic strata."
       },
       {
-        "w": "depreciation",
-        "ipa": "/dɪˌpriː.ʃiˈeɪ.ʃən/",
-        "pos": "n.",
-        "mean": "贬值",
-        "def": "a reduction in the value of an asset or currency",
-        "ex": "Sudden currency depreciation fueled domestic import costs."
+        "w": "replicate",
+        "ipa": "/ˈrep.lɪ.keɪt/",
+        "pos": "v.",
+        "mean": "复制，模拟",
+        "def": "to make an exact copy of or reproduce",
+        "ex": "Small firms struggle to replicate the massive marketing budget of tech giants."
       },
       {
-        "w": "finesse",
-        "ipa": "/fɪˈnes/",
-        "pos": "n.",
-        "mean": "手腕 / 手段技巧",
-        "def": "intricate and refined skill or diplomacy in handling difficult situations",
-        "ex": "Managing diplomatic disputes requires immense patience and finesse."
-      },
-      {
-        "w": "hawkish",
-        "ipa": "/ˈhɔː.kɪʃ/",
+        "w": "prosperous",
+        "ipa": "/ˈprɒs.pər.əs/",
         "pos": "adj.",
-        "mean": "鹰派的 / 主张紧缩政策的",
-        "def": "advocating aggressive or high-interest monetary policy to suppress inflation",
-        "ex": "Hawkish central bankers pushed for further rate increases."
+        "mean": "繁荣的，富裕的",
+        "def": "successful in material terms; flourishing financially",
+        "ex": "The city became prosperous due to its bustling sea port."
       },
       {
-        "w": "unenviable",
-        "ipa": "/ʌnˈen.vi.ə.bəl/",
+        "w": "implicit",
+        "ipa": "/ɪmˈplɪs.ɪt/",
         "pos": "adj.",
-        "mean": "令人望而生畏的 / 艰难的",
-        "def": "difficult, unpleasant, or undesirable",
-        "ex": "He took on the unenviable task of restructuring the troubled corporate division."
+        "mean": "隐性的，含蓄的",
+        "def": "implied though not plainly expressed",
+        "ex": "There was an implicit understanding between the two negotiators."
+      },
+      {
+        "w": "tangible",
+        "ipa": "/ˈtæn.dʒə.bəl/",
+        "pos": "adj.",
+        "mean": "有形的，切实的",
+        "def": "perceptible by touch; clear and definite",
+        "ex": "The investment produced tangible results within the first six months."
+      },
+      {
+        "w": "equalizer",
+        "ipa": "/ˈiː.kwə.laɪ.zər/",
+        "pos": "n.",
+        "mean": "平衡因素，使平等的工具",
+        "def": "a thing that makes people or things equal",
+        "ex": "Education is often described as the great equalizer in modern society."
       }
     ],
     "gems": [
       {
-        "s": "Fiscal policy remains fractured across the bloc, leaving monetary policy to bear an unfair share of the economic burden.",
-        "why": "This sentence uses a clear cause-and-effect structure ending with a participial clause ('leaving monetary policy to...'), neatly illustrating how to express complex macroeconomic tensions concisely. 句子结尾使用分词短语结构引出后果，简洁精炼地展示了如何表达复杂的宏观经济矛盾。"
+        "s": "This shift reflects a widespread anxiety about social mobility in an increasingly competitive economy.",
+        "why": "This sentence uses concise abstract nouns ('shift', 'anxiety', 'mobility') to succinctly link behavioral change with macro-economic pressure. 句子通过使用抽象名词（转变、焦虑、流动性），将微观行为与宏观经济压力有机联系在一起。"
       },
       {
-        "s": "Balancing the divergent demands of hawkish northern member states and heavily indebted southern economies will make the role an unenviable task in a deeply troubled economic era.",
-        "why": "The author uses contrasting paired modifiers ('hawkish northern' versus 'heavily indebted southern') to vividly summarize internal geopolitical divides in policy creation. 作者通过两组鲜明对比的修饰词，生动勾勒出政策制定中内部地缘经济的分歧。"
+        "s": "Thus, while intensive parenting has become a universal norm, it has not proven to be the great equalizer many hoped for.",
+        "why": "The contrast clause starting with 'while' effectively sets up a concession before delivering a critical conclusion using the metaphor 'great equalizer'. 使用 while 引导的让步状语从句，随后用“伟大平衡器”这一比喻引出深刻的结论。"
       }
     ]
   }
