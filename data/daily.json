@@ -1,315 +1,77 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T07:00:09.862710+00:00",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T06:43:01.879597+00:00",
   "economist": {
-    "headline": "Intensive parenting is no longer the preserve of the rich",
-    "teaser": "But wealthy families still come out on top",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+    "headline": "America’s renters are in serious trouble",
+    "teaser": "Several gauges of their financial health are flashing red",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
     "vocab": [
       {
-        "word": "intensive",
-        "phonetic": "/ɪnˈtɛnsɪv/",
-        "def": "Form of a word with a stronger or more forceful sense than the root on which the intensive is built."
+        "word": "renters",
+        "phonetic": "",
+        "def": "A male prostitute, typically young and gay."
       },
       {
-        "word": "parenting",
-        "phonetic": "/ˈpɛəɹəntɪŋ/",
-        "def": "To act as parent, to raise or rear."
+        "word": "serious",
+        "phonetic": "/ˈsɪə.ɹi.əs/",
+        "def": "Without humor or expression of happiness; grave in manner or disposition"
       }
     ]
   },
   "st": {
-    "headline": "ST Headstart: How to deal with your paggro boss",
-    "teaser": "Deflect backhanded compliments with poise.",
-    "url": "https://www.straitstimes.com/business/st-headstart-how-to-deal-with-your-paggro-boss"
+    "headline": "Bitcoin slides as Democratic sweep bets threaten crypto agenda",
+    "teaser": "The original cryptocurrency slid as much as 2.8% to 75,630.57 in Asia trading on Nov 4.",
+    "url": "https://www.straitstimes.com/business/bitcoin-slides-as-democratic-sweep-bets-threaten-crypto-agenda",
+    "fullText": [
+      "WASHINGTON – Bitcoin fell to a seven-week low as the prospect of a Democratic sweep of the US Congress began showing up in early US midterm election results, adding political uncertainty to a market already struggling with fragile investor appetite.",
+      "The original cryptocurrency slid as much as 2.8% to 75,630.57 in Asia trading on Nov 4 , its lowest level since Sept 17.",
+      "It pared some losses to trade around US$76,600 (S$98,000) as of 12.20pm in Singapore.",
+      "The move followed declines in US stock futures and the dollar , while Treasuries gained, reflecting expectations that Democratic control of Congress could lead to gridlock in Washington.",
+      "“Markets react to change, and a blue flip will likely introduce additional scepticism given the party’s historically choke-point stance toward crypto,” said Daniel Reis-Faria, chief executive officer of ZeroStack. “I expect that uncertainty to be temporary.”",
+      "Major cryptocurrencies began sliding as initial vote counts came in.",
+      "Democrats, who have traditionally favoured tighter oversight of the crypto industry, had been expected to take control of the House of Representatives, a result that is now projected.",
+      "They are also projected to take control of the US Senate.",
+      "The digital-asset industry has poured money into shaping the political landscape since Trump ran for a second presidential term in 2024.",
+      "Crypto companies contributed US$189 million to political action committees in the 2026 midterm cycle through the first quarter – more than a third of election spending, according to the consumer rights advocacy group Public Citizen.",
+      "For investors, the immediate concern is that a Democratic takeover could stall industry-backed legislation and bring tougher scrutiny of digital-asset firms.",
+      "The broader macroeconomic implications are less clear.",
+      "Political stalemate could limit further fiscal stimulus and weigh on speculative assets, though lower Treasury yields could eventually provide support by easing financial conditions.",
+      "For now, Bitcoin trading offers limited utility as a gauge of broader market sentiment.",
+      "Crypto has been grappling with the fallout from a US$6.3 billion hack of largest exchange Binance last week and diminished retail enthusiasm amid the artificial intelligence boom.",
+      "Those pressures make it harder to separate the macro-driven market moves from industry-specific issues already weighing on digital assets.",
+      "“Overall sentiment in crypto is near-term moderate fear and long-term uncertainty,” said Damien Loh, chief investment officer at Ericsenz Capital.",
+      "“Near-term fear because it is still tracking overall risk assets, and with the tech selloff and potentially a restart to the war in the Middle East that is causing some downward pressure.”",
+      "Democratic control of the Senate, in addition to the House, would put Congress at odds with US President Donald Trump’s Republican White House.",
+      "The Trump family’s financial gains from its crypto ventures became a contentious issue in 2026 , helping derail a regulatory bill seen as critical to the industry.",
+      "“With the Clarity Act already stalled in the Senate, a change in committee control would most likely mean renegotiation rather than a quick revival, and markets had largely priced that in,” said Rachael Lucas, an analyst at BTC Markets.",
+      "Bitcoin is down roughly 6% from the high on Oct 29 , before the Binance hack.",
+      "More than US$1 billion flowed out of US-listed spot Bitcoin exchange-traded funds on Oct 30 and Nov 2 .",
+      "Options markets continued to show demand for downside protection across maturities, even as open interest remains tilted toward calls, or the right to buy Bitcoin, in several of the largest expiries.",
+      "“As a Democratic sweep became more likely, clients shifted from buying upside calls to downside puts,” said Sean McNulty, a derivatives trader at market maker AQC Tech.",
+      "“Attention is shifting back to interest rates and currencies, which is also driving Bitcoin’s decline today.” BLOOMBERG"
+    ]
   },
   "cna": {
-    "headline": "'Ongoing dialogue' with China after Mbappe row: Liga chief Tebas",
-    "teaser": "Kylian Mbappe, Real Madrid and La Liga apologised for the comment after a backlash in China, where mocking former leader Mao Zedong is taboo.",
-    "url": "https://www.channelnewsasia.com/sport/la-liga-ongoing-dialogue-china-mbappe-6516006",
+    "headline": "Indonesian ex-police chief may have committed 'treason' by wiretapping president: Government",
+    "teaser": "Listyo Sigit Prabowo had served as the national police chief during the period of the alleged wiretapping.",
+    "url": "https://www.channelnewsasia.com/asia/indonesia-listyo-sigit-prabowo-treason-wiretapping-6521676",
     "fullText": [
-      "BARCELONA: La Liga president Javier Tebas said on Monday (Nov 2) he is maintaining dialogue with Chinese authorities in an effort to defuse a row over Kylian Mbappe's comments about former Chinese leader Mao Zedong .",
-      "Chinese state broadcaster CCTV did not air a single La Liga match this weekend, while Real Madrid's win at Racing Santander on Sunday was also not shown on pay television in the country.",
-      "In a clip from an interview with French show The Bridge which has since been taken down, Mbappe had said he was amused by an internet meme showing his face photoshopped onto \"some guy, think he's a Chinese dictator\", an apparent reference to Mao.",
-      "Mbappe, Real Madrid and La Liga apologised for the comment after a backlash in China, where mocking former leader Mao - blamed by historians for millions of deaths - is taboo.",
-      "\"There will be ongoing dialogue - I'm speaking with the Chinese authorities, both in Madrid and in Beijing, and we're going to wait.\"",
-      "Tebas, who held a meeting with Chinese ambassador to Spain Yao Jing last week, highlighted several strong links between China and Spanish football which could help resolve the dispute.",
-      "\"We've had a strategy for several years now with the political and sporting authorities in China,\" he explained.",
-      "Tebas met Chinese State Councillor Shen Yiqin and a high-ranking delegation at Barcelona's La Masia youth academy facilities in February, along with Barcelona president Joan Laporta.",
-      "\"With the president of China Media Group (the parent organisation of CCTV) we have a good agreement,\" continued Tebas.",
-      "\"He's been to La Liga, I've met with him (Shen Haixiong). Every time I travel to Beijing I have a meeting with him.\"",
-      "China effectively cut ties with the NBA for several years from 2019 after then-Houston Rockets general manager Daryl Morey tweeted his support for Hong Kong protesters, but Tebas said he was \"hopeful\" of reverting the current situation.",
-      "\"I'm going to travel, talk, and keep talking with the Chinese authorities,\" he added.",
-      "\"We'll try everything possible to normalise the situation as much as we can.\"",
-      "Mbappe scored on Sunday as Real Madrid beat Racing 3-0 in La Liga to move within three points of leaders Barcelona.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "JAKARTA: Indonesia's former police chief, fired this week from his latest post as presidential chief of staff, may have committed \"treason\" through his alleged involvement in wiretapping the head of state's telephone , the government said on Wednesday (Nov 4).",
+      "\"What was done may have fallen into the category of being considered as leading to treason,\" presidential spokesman Prasetyo Hadi told reporters in Jakarta of Tuesday's arrest of Listyo Sigit Prabowo.",
+      "\"This also constitutes actions that endanger the security of the interests of the state, including jeopardising the safety of the country’s leader,\" he said.",
+      "On Tuesday, the national police announced it had arrested Listyo and two other senior officers for allegedly tapping the phone of President Prabowo Subianto, government officials and politicians, journalists, NGO representatives and businesspeople.",
+      "Prabowo, who took office in 2024, has come under increasing pressure for his government's handling of the economy and destructive wildfires in the Southeast Asian archipelago.",
+      "The former general reshuffled his Cabinet for a seventh time last month, appointing Listyo, 57, as his chief of staff.",
+      "Listyo had until then served as national police chief during the period of the alleged wiretapping that investigators said started in 2025.",
+      "On Wednesday, Prasetyo said the reason for the wiretap was not yet known.",
+      "\"When we talk about the head of state ... there is a great deal of information there that is naturally very sensitive, which could endanger ... the interests and the strength of the nation and the state,\" he said.",
+      "Prasetyo added the president had expressed his \"profound concern\" about the case.",
+      "An automated curation of our top stories to start your day."
     ]
   },
   "mom": {
     "headline": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "teaser": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1102-mom-investigating-companies-involved-in-airport-operations-for-suspected-work-pass-offences"
-  },
-  "lifeVocab": [
-    {
-      "en": "borrowing limit",
-      "cn": "借阅上限",
-      "def": "the maximum number of books or materials you can check out at one time",
-      "ex": "My NLB borrowing limit was reached, so I had to return two books before taking out new ones.",
-      "emoji": "📚"
-    },
-    {
-      "en": "overdue fine",
-      "cn": "逾期罚款",
-      "def": "a small fee charged for returning borrowed library items past the due date",
-      "ex": "You can pay your overdue fine easily through the library mobile app.",
-      "emoji": "💸"
-    },
-    {
-      "en": "book drop",
-      "cn": "还书箱",
-      "def": "a designated slot or box outside a library where items can be returned anytime",
-      "ex": "I dropped off my novels at the community library book drop after opening hours.",
-      "emoji": "📬"
-    },
-    {
-      "en": "silent zone",
-      "cn": "静音区",
-      "def": "a designated quiet area in a library meant for focused studying without noise",
-      "ex": "Please put your phone on silent when entering the silent zone on the third floor.",
-      "emoji": "🤫"
-    },
-    {
-      "en": "e-resources",
-      "cn": "电子资源",
-      "def": "digital materials such as e-books, audiobooks, and online databases",
-      "ex": "Members can access thousands of e-resources using their library card details online.",
-      "emoji": "📱"
-    },
-    {
-      "en": "renew loan",
-      "cn": "续借",
-      "def": "to extend the borrowing period of a library item for more time",
-      "ex": "I decided to renew the loan for another fortnight as I haven't finished the manual.",
-      "emoji": "🔄"
-    },
-    {
-      "en": "study pod",
-      "cn": "自习隔间",
-      "def": "a small, enclosed seating booth designed for individual study or quiet work",
-      "ex": "She reserved a study pod at the Tampines Regional Library to prepare for her exams.",
-      "emoji": "💻"
-    },
-    {
-      "en": "reservation hold",
-      "cn": "预约保留",
-      "def": "a system where requested books are kept aside for a specific reader to collect",
-      "ex": "Your reservation hold will be kept at the collection counter until Sunday evening.",
-      "emoji": "🏷️"
-    },
-    {
-      "en": "workshop registration",
-      "cn": "工作坊报名",
-      "def": "the process of signing up for an educational or skill-building class",
-      "ex": "Workshop registration opens tomorrow morning on the Community Club website.",
-      "emoji": "📝"
-    },
-    {
-      "en": "reference collection",
-      "cn": "馆藏参考书",
-      "def": "books or documents that can be read inside the library but cannot be checked out",
-      "ex": "Historical maps of old Singapore are kept in the library's reference collection.",
-      "emoji": "📖"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "stringent",
-      "ipa": "/ˈstrɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "严格的；严厉的",
-      "def": "extremely strict or severe in rule, requirement, or condition",
-      "ex": "Financial institutions must adhere to stringent compliance regulations set by the authority."
-    },
-    {
-      "w": "bolster",
-      "ipa": "/ˈbəʊl.stər/",
-      "pos": "v.",
-      "cn": "强化；支持",
-      "def": "to support, strengthen, or fortify something",
-      "ex": "The government launched new initiatives to bolster local workforce capabilities."
-    },
-    {
-      "w": "prevalent",
-      "ipa": "/ˈprev.əl.ənt/",
-      "pos": "adj.",
-      "cn": "普遍的；盛行的",
-      "def": "widespread or commonly existing in a particular area or time",
-      "ex": "Hybrid work arrangements have become increasingly prevalent in tech companies."
-    },
-    {
-      "w": "juxtapose",
-      "ipa": "/ˌdʒʌk.stəˈpəʊz/",
-      "pos": "v.",
-      "cn": "把…并置；对比",
-      "def": "to place two things side by side to highlight contrast",
-      "ex": "The exhibition juxtaposes traditional Asian artwork with modern digital installations."
-    },
-    {
-      "w": "impasse",
-      "ipa": "/ˈæm.pɑːs/",
-      "pos": "n.",
-      "cn": "僵局",
-      "def": "a situation in which no progress can be made due to disagreement",
-      "ex": "Negotiations reached an impasse when neither side agreed to compromise on pricing."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪˈper.ə.tɪv/",
-      "pos": "adj.",
-      "cn": "极重要的；迫切的",
-      "def": "vital, crucial, or needing immediate attention",
-      "ex": "It is imperative that data security measures are updated before the software migration."
-    },
-    {
-      "w": "disparate",
-      "ipa": "/ˈdɪs.pər.ət/",
-      "pos": "adj.",
-      "cn": "迥异的；截然不同的",
-      "def": "essentially different in kind; impossible to compare",
-      "ex": "The committee managed to synthesize disparate opinions into a cohesive strategy."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
-      "pos": "v.",
-      "cn": "传播；散播",
-      "def": "to spread information or knowledge widely to many people",
-      "ex": "Public health agencies used social channels to disseminate timely updates."
-    },
-    {
-      "w": "latent",
-      "ipa": "/ˈleɪ.tənt/",
-      "pos": "adj.",
-      "cn": "潜在的；隐伏的",
-      "def": "existing but not yet developed, obvious, or active",
-      "ex": "The mentorship program helped young entrepreneurs unleash their latent leadership talent."
-    },
-    {
-      "w": "alignment",
-      "ipa": "/əˈlaɪn.mənt/",
-      "pos": "n.",
-      "cn": "对齐；理念一致",
-      "def": "arrangement or position in agreement with goals or standards",
-      "ex": "Clear communication ensures strategic alignment across all regional business departments."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore Expands Green Spaces in Urban Planning",
-    "transcript": "Singapore's National Parks Board has announced new <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈnɪʃ.ə.tɪvz/ (n.) new plans or actions intended to solve a problem or achieve a goal — 新举措\">initiatives</span> to integrate biodiversity into residential estates. City planners aim to ensure that every household lives within a five-minute walk of a park by 2030. Environmental groups have welcomed the strategy, noting that urban greening lowers <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈæm.bi.ənt/ (adj.) relating to the immediate surroundings or environment — 周围环境的\">ambient</span> temperatures and enhances mental well-being."
-  },
-  "economistArticle": {
-    "title": "The Demands of Intensive Parenting Reach the Masses",
-    "paras": [
-      "For decades, intensive parenting—a childrearing style characterized by rigorous scheduling, extracurricular enrichment, and constant <span class=\"voc\">cognitive</span> stimulation—was largely the preserve of the affluent upper-middle class. High-earning parents possessed both the disposable income to fund music tuition and the flexible schedules required to ferry children between activities. Today, however, sociological research suggests this demanding <span class=\"voc\">ethos</span> has trickled down across income brackets. Parents from modest backgrounds now spend a larger share of their earnings and free time striving to cultivate their children's talents.",
-      "<span class=\"gem\">Driven by heightened anxiety about social mobility, lower-income households are sacrificing personal leisure to <span class=\"voc\">emulate</span> high-resource childrearing techniques.</span> In urban hubs from London to Singapore, parents working hourly shifts prioritize educational applications, supplementary tuition, and athletic programs. The pervasive narrative that early childhood decisions dictate lifelong financial security has rendered <span class=\"voc\">hyper-vigilance</span> the standard <span class=\"voc\">benchmark</span> for responsible parenting nationwide.",
-      "Yet, despite this widespread adoption of intensive parenting ideals, the structural playfield remains undeniably uneven. Wealthy families possess far greater financial cushions to absorb economic setbacks, as well as social networks that open doors to elite internships and prestigious mentorships. While a middle-class family might stretch their budget to pay for a single coding workshop, wealthy households seamlessly combine private coaching with <span class=\"voc\">bespoke</span> overseas educational travel.",
-      "Moreover, the <span class=\"voc\">relentless</span> pressure of intensive parenting extracts a <span class=\"voc\">disproportionate</span> toll on lower-income caregivers. Wealthier households routinely outsource domestic chores to domestic workers or commercial services, freeing up high-quality energy for child engagement. Conversely, working-class parents face severe cognitive fatigue when trying to balance demanding shift work with the exhausting expectations of hyper-involved parenting.",
-      "<span class=\"gem\">Ultimately, while the desire to cultivate successful children has become nearly universal, economic inequality continues to dictate the return on that emotional investment.</span> Narrowing the mobility gap will require structural policy interventions in public education and childcare support, rather than relying solely on parental effort."
-    ],
-    "cn": "几十年来，强化育儿——一种以严苛的时间安排、课外兴趣培养和持续的认知刺激为特征的抚养方式——在很大程度上是富裕的中产阶级上层的专属。高收入父母既有支配收入来资助音乐课，也有灵活的时间安排来接送孩子参加各项活动。然而，如今的社会学研究表明，这种苛刻的育儿理念已逐渐渗透到各个收入阶层。来自普通家庭背景的父母现在也花费更大比例的收入和空闲时间，努力培养孩子的才能。\n在对社会流动性日益加剧的焦虑驱使下，低收入家庭正在牺牲个人休闲时间，以效仿资源丰富的育儿技巧。从伦敦到新加坡的各大都市，打零工或按小时计薪的父母优先考虑教育软件、额外补习和体育项目。早期儿童教育决定终身经济安全这一普遍流传的说法，已使“高度警惕”成为全国衡量负责任育儿的标准基准。\n然而，尽管密集型育儿理念已被广泛采纳，但结构性的竞争场地依然不可避免地存在不公。富裕家庭拥有厚得多的经济缓冲来抵御经济挫折，并拥有能够通往精英实习和知名导师资源的社交网络。当一个中产阶级家庭咬牙预算支付一个编程工作坊时，富裕家庭却能无缝整合私人辅导与定制的海外游学体验。\n此外，密集型育儿带来的无休止压力对低收入照顾者造成了不成比例的沉重负担。富裕家庭通常将家务外包给家政人员或商业服务，从而腾出高质量的精力投入亲子互动。相反，工薪阶层父母在平衡高强度的轮班工作与过度介入式育儿的疲惫期望时，面临着严重的认知疲劳。\n归根结底，尽管培养成功下一代的愿望已几乎成为全民共识，但经济不平等仍在决定着这种情感投资的回报率。缩小阶层流动差距需要公共教育和托育支持方面的结构性政策干预，而不仅仅依靠父母个人的努力。",
-    "vocab": [
-      {
-        "w": "ethos",
-        "ipa": "/ˈiː.θɒs/",
-        "pos": "n.",
-        "mean": "理念；精神特质",
-        "def": "the characteristic spirit or beliefs of a culture or group",
-        "ex": "The company's corporate ethos emphasizes sustainability and continuous learning."
-      },
-      {
-        "w": "emulate",
-        "ipa": "/ˈem.jə.leɪt/",
-        "pos": "v.",
-        "mean": "效仿；努力赶上",
-        "def": "to match or suppress a person or achievement, typically by imitation",
-        "ex": "Young athletes often strive to emulate the discipline of Olympic champions."
-      },
-      {
-        "w": "hyper-vigilance",
-        "ipa": "/ˌhaɪ.pəˈvɪdʒ.ɪ.ləns/",
-        "pos": "n.",
-        "mean": "高度警惕；过度关注",
-        "def": "a state of extreme or excessive watchfulness and responsiveness",
-        "ex": "Hyper-vigilance regarding school grades can lead to unnecessary student burnout."
-      },
-      {
-        "w": "benchmark",
-        "ipa": "/ˈbentʃ.mɑːk/",
-        "pos": "n.",
-        "mean": "基准；参照标准",
-        "def": "a standard or point of reference against which things may be compared",
-        "ex": "International test scores serve as a global benchmark for educational quality."
-      },
-      {
-        "w": "cushion",
-        "ipa": "/ˈkʊʃ.ən/",
-        "pos": "n.",
-        "mean": "缓冲物；经济保障",
-        "def": "financial resources or protection against hardship or distress",
-        "ex": "Emergency savings provide a financial cushion during unexpected economic downturns."
-      },
-      {
-        "w": "bespoke",
-        "ipa": "/bɪˈspəʊk/",
-        "pos": "adj.",
-        "mean": "定制的；按要求制作的",
-        "def": "specially made for a particular customer or purpose",
-        "ex": "The firm offers bespoke advisory services tailored to individual wealth management goals."
-      },
-      {
-        "w": "relentless",
-        "ipa": "/rɪˈlent.ləs/",
-        "pos": "adj.",
-        "mean": "持续不断的；严酷的",
-        "def": "unceasingly intense or unforgivingly harsh",
-        "ex": "Success in fast-paced industries requires relentless dedication and adaptability."
-      },
-      {
-        "w": "disproportionate",
-        "ipa": "/ˌdɪs.prəˈpɔː.ʃən.ət/",
-        "pos": "adj.",
-        "mean": "不成比例的；过大的",
-        "def": "too large or too small in comparison with something else",
-        "ex": "Rising living expenses place a disproportionate burden on low-income households."
-      },
-      {
-        "w": "cognitive",
-        "ipa": "/ˈkɒɡ.nə.tɪv/",
-        "pos": "adj.",
-        "mean": "认知的；脑力的",
-        "def": "relating to mental processes of perception, memory, and judgment",
-        "ex": "Multitasking for extended periods can cause severe cognitive fatigue."
-      },
-      {
-        "w": "intervention",
-        "ipa": "/ˌɪn.təˈven.ʃən/",
-        "pos": "n.",
-        "mean": "干预；介入措施",
-        "def": "action taken to improve a situation or prevent harm",
-        "ex": "Early government intervention helped stabilize employment during the crisis."
-      }
-    ],
-    "gems": [
-      {
-        "s": "Driven by heightened anxiety about social mobility, lower-income households are sacrificing personal leisure to emulate high-resource childrearing techniques.",
-        "why": "This sentence uses a participial phrase fronting structure ('Driven by...') to establish cause before effect, creating a persuasive analytical tone. 这句话通过分词短语前置结构开篇，先声夺人地阐明因果关系，突出了分析的严密性与说服力。"
-      },
-      {
-        "s": "Ultimately, while the desire to cultivate successful children has become nearly universal, economic inequality continues to dictate the return on that emotional investment.",
-        "why": "This sentence expertly uses a concessive clause ('while...') to acknowledge a shared truth before emphasizing the contrasting economic reality. 句中巧妙使用让步状语从句，在承认社会共识的前提下凸显经济现实的残酷对比，修辞效果十分有力。"
-      }
-    ]
   }
 }
