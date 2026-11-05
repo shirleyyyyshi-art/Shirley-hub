@@ -1,77 +1,337 @@
 {
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T06:43:01.879597+00:00",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T07:01:45.975056+00:00",
   "economist": {
-    "headline": "America’s renters are in serious trouble",
-    "teaser": "Several gauges of their financial health are flashing red",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+    "headline": "What markets make of the midterms",
+    "teaser": "Democrats triumph. Investors yawn",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
     "vocab": [
       {
-        "word": "renters",
-        "phonetic": "",
-        "def": "A male prostitute, typically young and gay."
+        "word": "triumph",
+        "phonetic": "/ˈtɹaɪ.ʌmf/",
+        "def": "A conclusive success following an effort, conflict, or confrontation of obstacles; victory; conquest."
       },
       {
-        "word": "serious",
-        "phonetic": "/ˈsɪə.ɹi.əs/",
-        "def": "Without humor or expression of happiness; grave in manner or disposition"
+        "word": "investors",
+        "phonetic": "",
+        "def": "A person who invests money in order to make a profit."
       }
     ]
   },
   "st": {
-    "headline": "Bitcoin slides as Democratic sweep bets threaten crypto agenda",
-    "teaser": "The original cryptocurrency slid as much as 2.8% to 75,630.57 in Asia trading on Nov 4.",
-    "url": "https://www.straitstimes.com/business/bitcoin-slides-as-democratic-sweep-bets-threaten-crypto-agenda",
+    "headline": "Democrats’ midterm sweep puts AI boom to the test – with much at stake for Asia",
+    "teaser": "With tech stocks rallying after the vote, markets appear to be betting on a more measured build-out.",
+    "url": "https://www.straitstimes.com/business/democrats-midterm-sweep-puts-ai-boom-to-the-test-with-much-at-stake-for-asia",
     "fullText": [
-      "WASHINGTON – Bitcoin fell to a seven-week low as the prospect of a Democratic sweep of the US Congress began showing up in early US midterm election results, adding political uncertainty to a market already struggling with fragile investor appetite.",
-      "The original cryptocurrency slid as much as 2.8% to 75,630.57 in Asia trading on Nov 4 , its lowest level since Sept 17.",
-      "It pared some losses to trade around US$76,600 (S$98,000) as of 12.20pm in Singapore.",
-      "The move followed declines in US stock futures and the dollar , while Treasuries gained, reflecting expectations that Democratic control of Congress could lead to gridlock in Washington.",
-      "“Markets react to change, and a blue flip will likely introduce additional scepticism given the party’s historically choke-point stance toward crypto,” said Daniel Reis-Faria, chief executive officer of ZeroStack. “I expect that uncertainty to be temporary.”",
-      "Major cryptocurrencies began sliding as initial vote counts came in.",
-      "Democrats, who have traditionally favoured tighter oversight of the crypto industry, had been expected to take control of the House of Representatives, a result that is now projected.",
-      "They are also projected to take control of the US Senate.",
-      "The digital-asset industry has poured money into shaping the political landscape since Trump ran for a second presidential term in 2024.",
-      "Crypto companies contributed US$189 million to political action committees in the 2026 midterm cycle through the first quarter – more than a third of election spending, according to the consumer rights advocacy group Public Citizen.",
-      "For investors, the immediate concern is that a Democratic takeover could stall industry-backed legislation and bring tougher scrutiny of digital-asset firms.",
-      "The broader macroeconomic implications are less clear.",
-      "Political stalemate could limit further fiscal stimulus and weigh on speculative assets, though lower Treasury yields could eventually provide support by easing financial conditions.",
-      "For now, Bitcoin trading offers limited utility as a gauge of broader market sentiment.",
-      "Crypto has been grappling with the fallout from a US$6.3 billion hack of largest exchange Binance last week and diminished retail enthusiasm amid the artificial intelligence boom.",
-      "Those pressures make it harder to separate the macro-driven market moves from industry-specific issues already weighing on digital assets.",
-      "“Overall sentiment in crypto is near-term moderate fear and long-term uncertainty,” said Damien Loh, chief investment officer at Ericsenz Capital.",
-      "“Near-term fear because it is still tracking overall risk assets, and with the tech selloff and potentially a restart to the war in the Middle East that is causing some downward pressure.”",
-      "Democratic control of the Senate, in addition to the House, would put Congress at odds with US President Donald Trump’s Republican White House.",
-      "The Trump family’s financial gains from its crypto ventures became a contentious issue in 2026 , helping derail a regulatory bill seen as critical to the industry.",
-      "“With the Clarity Act already stalled in the Senate, a change in committee control would most likely mean renegotiation rather than a quick revival, and markets had largely priced that in,” said Rachael Lucas, an analyst at BTC Markets.",
-      "Bitcoin is down roughly 6% from the high on Oct 29 , before the Binance hack.",
-      "More than US$1 billion flowed out of US-listed spot Bitcoin exchange-traded funds on Oct 30 and Nov 2 .",
-      "Options markets continued to show demand for downside protection across maturities, even as open interest remains tilted toward calls, or the right to buy Bitcoin, in several of the largest expiries.",
-      "“As a Democratic sweep became more likely, clients shifted from buying upside calls to downside puts,” said Sean McNulty, a derivatives trader at market maker AQC Tech.",
-      "“Attention is shifting back to interest rates and currencies, which is also driving Bitcoin’s decline today.” BLOOMBERG"
+      "SINGAPORE – The Democratic Party’s unexpected takeover of both chambers of the US Congress is giving way to renewed debate on what the future holds for the AI infrastructure build-out.",
+      "For Singapore and other Asian economies riding the AI investment boom, the key question after the Democrats’ US midterm sweep is whether tighter scrutiny will derail data centre spending or impose the financial discipline investors want.",
+      "With technology stocks rallying after the vote, markets appear to be betting on a more measured build-out rather than an abrupt slowdown.",
+      "Beyond US interest rates , bond yield s and tariff s , the election’s biggest implication for Asian exports, including Singapore’s, is its potential impact on the AI boom, which has become a major growth drive r.",
+      "If Democrats, who are mostly sceptical about artificial intelligence, take an aggressive policy approach towards the construction of new data centres, the much-feared scenario of a sharp pull-back in economic growth and a financial market upheaval may yet be possible.",
+      "However, there is optimism that things may not go that far.",
+      "In fact, the unexpected scale of the Democratic victory is giving way to an even more surprising rally in tech stocks, the opposite of what was expected over the past month, when stocks of Big Tech hyperscalers were hammered.",
+      "The US tech benchmark Nasdaq Composite rose 1.44% on Nov 4, the day after the midterms, after having suffered a massive sell-off over the past month. Shares of Google’s parent Alphabet surged 3.25%, Microsoft rose 6.68% and Amazon was up 6.1%.",
+      "Regardless, the market expects Democratic gains in key state capitols – including governorships, Senate and House seats in some of President Donald Trump’s Republican Party’s strongholds – to trigger restrictions on data centres, such as conditional moratoria over water, noise and high electricity demands.",
+      "But a higher hurdle to AI build-out may not be entirely bad. In fact, new restrictions may moderate the pace of the build-out and ease investor and shareholder concerns around the enormous capital expenditures by hyperscalers.",
+      "The market appears to be betting that while Congress could increase oversight and restrict new incentives for AI data centres, sweeping regulatory legislation would still face a presidential veto.",
+      "And if tech firms respond by showing fiscal discipline, investors would get the chance to pick outstanding performers.",
+      "Charu Chanana, Singapore-based chief investment strategist at Danish investment bank Saxo, said the US election has accelerated a reassessment of AI that was already under way.",
+      "“The sector entered the midterms with elevated valuations, enormous capital expenditure commitments and growing investor concerns about how quickly AI investments will translate into profits,” she said.",
+      "Increased regulatory scrutiny by a Democratic Congress could further accelerate investors’ shift from broad AI exposure towards companies with strong cash flows, pricing power and visible returns on investment, she noted.",
+      "“Investors should distinguish between three things: the immediate reaction to a political surprise, the policies that could realistically change, and the underlying corporate fundamentals,” Chanana added.",
+      "Bernard Yaros, deputy chief US economist at Britain -based research firm Oxford Economics, said risks to the AI build-out lie more with state and local policy, as state governors, utility regulators and zoning boards control rates, incentives, permitting and grid access.",
+      "Hence, a worst-case scenario would be a simultaneous tightening of data centre policies in the US South and Midwest, which are the country’s biggest regional drivers for future construction.",
+      "“That said, there are strong incentives to avoid policies that would severely disrupt data centre construction,” he added.",
+      "Yaros said data centres are increasingly framed as a national security priority and the AI investment cycle has become a meaningful source of economic growth, as these projects bring tax revenue and construction jobs that state and local officials would be reluctant to forgo.",
+      "Near-term investment is likely to remain resilient, but restrictions on new projects could become a more meaningful headwind to the AI investment boom from 2028.",
+      "Robert St Clair, managing director and head of investment strategy at Temasek-linked Fullerton Fund Management, said that over time, the Democrats may push for less favourable policy supports for certain AI-linked infrastructure and data centres, as well as seek stronger guardrails to avoid any adverse impacts from the technology on society and jobs.",
+      "However, US AI-related infrastructure investment is already growing rapidly, with a robust pipeline of projects planned for the years ahead. Hence, it is unclear how significant a headwind any potential policy changes could prove, he said.",
+      "If Big Tech dials back its capital borrowing , there will likely be some easing in bond yields as well.",
+      "But the major impact on bond yields and possibly Federal Reserve interest rates may come from a divided government that hamstrings federal spending.",
+      "Chanana said that while existing tax legislation will not disappear, new tax cuts or major spending packages would become harder for the Trump administration to pass.",
+      "Government funding will lapse after Dec 11, before the new Congress starts on Jan 3. A rapid reconciliation Bill focused on defence during the lame-duck session is a near-term risk for the bond market to watch.",
+      "On tariffs, Trump will retain substantial executive authority.",
+      "Hence, Yaros said, the risk is that his administration will become more aggressive on trade issues.",
+      "He added that the US-China trade truce will also be top of mind in the new year. The latest truce is set to expire on Jan 10, which will bring both countries back to the negotiating table. If they fail to extend the truce, Trump may seek to use the pending Section 301 investigation into overcapacity to impose a fresh round of tariffs on China."
     ]
   },
   "cna": {
-    "headline": "Indonesian ex-police chief may have committed 'treason' by wiretapping president: Government",
-    "teaser": "Listyo Sigit Prabowo had served as the national police chief during the period of the alleged wiretapping.",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-listyo-sigit-prabowo-treason-wiretapping-6521676",
+    "headline": "Sony posts 45% Q2 profit rise on movies, games boost",
+    "teaser": "Sony posts 45% Q2 profit rise on movies, games boost",
+    "url": "https://www.channelnewsasia.com/business/sony-posts-45-q2-profit-rise-movies-games-boost-6526721",
     "fullText": [
-      "JAKARTA: Indonesia's former police chief, fired this week from his latest post as presidential chief of staff, may have committed \"treason\" through his alleged involvement in wiretapping the head of state's telephone , the government said on Wednesday (Nov 4).",
-      "\"What was done may have fallen into the category of being considered as leading to treason,\" presidential spokesman Prasetyo Hadi told reporters in Jakarta of Tuesday's arrest of Listyo Sigit Prabowo.",
-      "\"This also constitutes actions that endanger the security of the interests of the state, including jeopardising the safety of the country’s leader,\" he said.",
-      "On Tuesday, the national police announced it had arrested Listyo and two other senior officers for allegedly tapping the phone of President Prabowo Subianto, government officials and politicians, journalists, NGO representatives and businesspeople.",
-      "Prabowo, who took office in 2024, has come under increasing pressure for his government's handling of the economy and destructive wildfires in the Southeast Asian archipelago.",
-      "The former general reshuffled his Cabinet for a seventh time last month, appointing Listyo, 57, as his chief of staff.",
-      "Listyo had until then served as national police chief during the period of the alleged wiretapping that investigators said started in 2025.",
-      "On Wednesday, Prasetyo said the reason for the wiretap was not yet known.",
-      "\"When we talk about the head of state ... there is a great deal of information there that is naturally very sensitive, which could endanger ... the interests and the strength of the nation and the state,\" he said.",
-      "Prasetyo added the president had expressed his \"profound concern\" about the case.",
-      "An automated curation of our top stories to start your day."
+      "TOKYO, Nov 5 : Sony on Thursday reported a 45 per cent rise in second-quarter operating profit of 622.3 billion yen ($3.95 billion), beating market estimates, due to stronger performance at its games and movies units.",
+      "Contributors to the stronger performance, which led the Japanese entertainment and technology conglomerate to hike its full-year profit outlook by 9 per cent, included the hit movie \"Spider-Man: Brand New Day\".",
+      "Sony's games business is expected to be a major beneficiary of the launch of \"Grand Theft Auto VI\" on November 19 but is grappling with higher memory chip prices due to the AI boom.",
+      "Companies continue to be squeezed by elevated memory prices, with iPhone maker Apple this week flagging pressure on margins over the holiday quarter.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
     "headline": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "teaser": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1102-mom-investigating-companies-involved-in-airport-operations-for-suspected-work-pass-offences"
+  },
+  "lifeVocab": [
+    {
+      "en": "Borrow",
+      "cn": "借阅",
+      "def": "to take and use something belonging to someone else for a period of time",
+      "ex": "You can borrow up to sixteen books using your NLB mobile app.",
+      "emoji": "📚"
+    },
+    {
+      "en": "Renew",
+      "cn": "续借",
+      "def": "to extend the period of time for which something is valid or borrowed",
+      "ex": "I need to renew my borrowed items online before the due date.",
+      "emoji": "🔄"
+    },
+    {
+      "en": "Reservation",
+      "cn": "预约",
+      "def": "an arrangement to hold something, such as a book, for later collection",
+      "ex": "She placed a reservation for the popular thriller at the Tampines Regional Library.",
+      "emoji": "🔖"
+    },
+    {
+      "en": "Overdue",
+      "cn": "逾期的",
+      "def": "not returned or paid by the required time",
+      "ex": "The app sent a notification warning that two of my books were overdue.",
+      "emoji": "⏰"
+    },
+    {
+      "en": "Catalogue",
+      "cn": "图书目录",
+      "def": "a complete list of items, such as books, in a library collection",
+      "ex": "You can search the digital catalogue on the self-service kiosk.",
+      "emoji": "💻"
+    },
+    {
+      "en": "Reference section",
+      "cn": "参考书区",
+      "def": "an area in a library containing books that can only be consulted on site",
+      "ex": "Rare Singapore history documents are kept strictly in the reference section.",
+      "emoji": "📖"
+    },
+    {
+      "en": "Silent zone",
+      "cn": "静音区",
+      "def": "a designated area where absolute silence must be maintained",
+      "ex": "Students head to the silent zone to study for their upcoming examinations.",
+      "emoji": "🤫"
+    },
+    {
+      "en": "Call number",
+      "cn": "索书号",
+      "def": "a series of numbers and letters used to identify and locate a library item",
+      "ex": "Check the call number printed on the book spine to find it on the shelf.",
+      "emoji": "🏷️"
+    },
+    {
+      "en": "Multimedia",
+      "cn": "多媒体",
+      "def": "using more than one medium of expression or communication like audio and video",
+      "ex": "The library offers free access to multimedia resources including online documentaries.",
+      "emoji": "🎧"
+    },
+    {
+      "en": "Return chute",
+      "cn": "还书口",
+      "def": "a slot where borrowed items can be dropped off outside opening hours",
+      "ex": "I dropped off my borrowed magazines in the 24-hour return chute outside the building.",
+      "emoji": "📮"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "elucidate",
+      "ipa": "/ɪˈluː.sɪ.deɪt/",
+      "pos": "v.",
+      "cn": "阐明",
+      "def": "to make something clear or easy to understand",
+      "ex": "The consultant was asked to elucidate the complex financial framework to the executive committee."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈper.ə.tɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的",
+      "def": "extremely important or urgent",
+      "ex": "It is imperative that we complete the compliance audit before the regulatory deadline."
+    },
+    {
+      "w": "prevalent",
+      "ipa": "/ˈprev.əl.ənt/",
+      "pos": "adj.",
+      "cn": "普遍的",
+      "def": "widespread in a particular area or at a particular time",
+      "ex": "Hybrid work models have become increasingly prevalent across financial institutions."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急计划/突发情况",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "The project manager created a contingency budget to cover unexpected operational delays."
+    },
+    {
+      "w": "underpin",
+      "ipa": "/ˌʌn.dəˈpɪn/",
+      "pos": "v.",
+      "cn": "支撑/巩固",
+      "def": "to support, justify, or form the basis of something",
+      "ex": "Robust data encryption practices underpin client trust in digital banking services."
+    },
+    {
+      "w": "divergent",
+      "ipa": "/daɪˈvɜː.dʒənt/",
+      "pos": "adj.",
+      "cn": "分歧的",
+      "def": "developing in different directions or holding different opinions",
+      "ex": "The directors expressed divergent opinions on how to execute the regional market entry."
+    },
+    {
+      "w": "fluctuate",
+      "ipa": "/ˈflʌk.tʃu.eɪt/",
+      "pos": "v.",
+      "cn": "波动",
+      "def": "to rise and fall irregularly in number or amount",
+      "ex": "Foreign exchange rates continue to fluctuate due to global interest rate announcements."
+    },
+    {
+      "w": "concur",
+      "ipa": "/kənˈkɜːr/",
+      "pos": "v.",
+      "cn": "同意",
+      "def": "to agree with an opinion or decision",
+      "ex": "The board members concurred with the chief financial officer's cost-cutting proposal."
+    },
+    {
+      "w": "subsequent",
+      "ipa": "/ˈsʌb.sɪ.kwənt/",
+      "pos": "adj.",
+      "cn": "随后的",
+      "def": "coming after something in time or following",
+      "ex": "The initial trial was successful, and subsequent rollouts expanded to three neighboring countries."
+    },
+    {
+      "w": "promulgate",
+      "ipa": "/ˈprɒm.əl.ɡeɪt/",
+      "pos": "v.",
+      "cn": "颁布/传播",
+      "def": "to promote or make widely known an idea or policy",
+      "ex": "The human resources division will promulgate the updated telecommuting guidelines next week."
+    }
+  ],
+  "listening": {
+    "source": "CNA Style · Intermediate",
+    "title": "Singapore Expands Green Corridor Initiative",
+    "transcript": "Singapore has announced an ambitious urban design plan aimed at extending <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/pəˈdes.tri.ən/ (adj.) relating to pedestrians; walking — 行人的\">pedestrian</span> pathways across several central districts. City planners hope the expanded green corridors will reduce heat while encouraging active <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/məʊˈbɪl.ə.ti/ (n.) the ability to move freely and easily — 出行能力/流动性\">mobility</span> among residents. Community feedback has been overwhelmingly positive, with citizens welcoming shaded connection routes between parks. Construction on the first phase is scheduled to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəˈmens/ (v.) to begin or start — 开始\">commence</span> early next year."
+  },
+  "economistArticle": {
+    "title": "What markets make of the midterms",
+    "paras": [
+      "When American voters handed Democrats a series of unexpected victories in the midterm elections, political commentators scrambled to rewrite their narratives. Yet across trading desks in New York and London, reaction was muted. Stock indexes barely budged, while bond yields shifted only <span class=\"voc\">imperceptibly</span>. Investors, it seems, greeted the surprising political outcome with a collective yawn.",
+      "Part of this <span class=\"voc\">nonchalance</span> stems from gridlock, which equity markets historically favor. Even with Democrats holding key positions, a divided Congress curtails ambitious legislative initiatives. Wall Street generally prefers policy <span class=\"voc\">stagnation</span> to sweeping statutory overhauls that introduce regulatory uncertainty. For major corporations, gridlock implies fewer fiscal surprises and a lower likelihood of sudden corporate tax hikes.",
+      "Furthermore, investor attention remains firmly anchored on macroeconomics rather than partisan politics. The Federal Reserve's monetary stance, persistent inflation, and global supply constraints exert far greater influence on equity valuations than congressional committee chairs. <span class=\"gem\">Traders recognize that central bank policies will dictate capital allocation long after electoral banners are packed away.</span>",
+      "Currency markets similarly mirrored this <span class=\"voc\">tranquility</span>. The dollar index traded within a narrow band, reflecting the view that macroeconomic fundamentals remain the true drivers of foreign exchange sentiment. <span class=\"voc\">Sovereign</span> bond yields, too, remained stable, indicating that debt markets perceive little immediate threat to fiscal stability.",
+      "Ultimately, the market response underscores a practical reality: political drama makes compelling television, but earnings reports and interest rates drive asset prices. <span class=\"gem\">Until fiscal policy threatens to <span class=\"voc\">destabilize</span> macroeconomic balance, financial markets will continue to treat midterm results as secondary noise.</span>"
+    ],
+    "cn": "当美国选民在中期选举中赋予民主党一系列出人意料的胜利时，政治评论员们纷纷忙着重写分析逻辑。然而，在纽约和伦敦的交易室里，市场的反应却十分平静。股票指数几乎没有波动，而债券收益率也微乎其微地移动。投资者们似乎以集体打哈欠的方式迎来了这一意外结果。\n这种冷淡的一部分原因在于政治僵局，而股票市场历史性地偏爱僵局。即便民主党保住了关键席位，一个分化分裂的国会也会限制有雄心的立法计划。华尔街通常更倾向于政策停滞，而不是带来监管不确定性的激进法律改革。对于大型企业而言，政治僵局意味着更少的财政意外，以及突然上调企业税的可能性降低。\n此外，投资者的注意力依然紧紧锚定在宏观经济而非党派政治上。美联储的货币政策立场、持续的通胀以及全球供应限制对股票估值的影响，远大于国会各委员会主席的人选。交易员们意识到，在选举横幅被收起很久之后，央行政策仍将决定资本的配置方向。\n汇率市场同样反映了这种平静。美元指数在狭窄区间内交易，这表明宏观经济基本面仍是外汇市场情绪的真正主导力量。主权债券收益率也保持稳定，表明债务市场认为财政稳定性不会受到直接威胁。\n归根结底，市场的反应强调了一个务实的现实：政治戏剧适合制作引人入胜的电视节目，但盈利报告和利率才是驱动资产价格的根本因素。在财政政策威胁到打破宏观经济平衡之前，金融市场将继续把中期选举结果视为次要噪音。",
+    "vocab": [
+      {
+        "w": "scramble",
+        "ipa": "/ˈskræm.bəl/",
+        "pos": "v.",
+        "mean": "仓促行动/争抢",
+        "def": "to move or act quickly, frantically, or clumsily",
+        "ex": "Analysts scrambled to adjust their revenue forecasts following the sudden policy announcement."
+      },
+      {
+        "w": "imperceptibly",
+        "ipa": "/ˌɪm.pəˈsep.tə.bli/",
+        "pos": "adv.",
+        "mean": "察觉不到地/微弱地",
+        "def": "in a way that is so slight or subtle as to be almost impossible to perceive",
+        "ex": "Treasury yields moved imperceptibly after the economic report was published."
+      },
+      {
+        "w": "nonchalance",
+        "ipa": "/ˌnɒn.ʃəˈlɑːns/",
+        "pos": "n.",
+        "mean": "漠不关心/冷淡",
+        "def": "the state of feeling or appearing casually calm and relaxed",
+        "ex": "The chief executive displayed remarkable nonchalance despite intense media scrutiny."
+      },
+      {
+        "w": "curtail",
+        "ipa": "/kəˈteɪl/",
+        "pos": "v.",
+        "mean": "限制/缩减",
+        "def": "to reduce in extent or quantity; impose a restriction on",
+        "ex": "A divided parliament tends to curtail legislative spending plans."
+      },
+      {
+        "w": "stagnation",
+        "ipa": "/stæɡˈneɪ.ʃən/",
+        "pos": "n.",
+        "mean": "停滞",
+        "def": "a state of not flowing, changing, or developing",
+        "ex": "Prolonged economic stagnation can erode investor confidence over time."
+      },
+      {
+        "w": "overhaul",
+        "ipa": "/ˌəʊ.vəˈhɔːl/",
+        "pos": "n.",
+        "mean": "全面改革/大修",
+        "def": "a thorough examination and transformation or repair of a system",
+        "ex": "The administration proposed a sweeping overhaul of corporate tax laws."
+      },
+      {
+        "w": "anchor",
+        "ipa": "/ˈæŋ.kər/",
+        "pos": "v.",
+        "mean": "固定/锚定",
+        "def": "to fix firmly or secure in a particular position or state",
+        "ex": "Central banks strive to anchor long-term inflation expectations."
+      },
+      {
+        "w": "tranquility",
+        "ipa": "/træŋˈkwɪl.ə.ti/",
+        "pos": "n.",
+        "mean": "平静/宁静",
+        "def": "the quality or state of being calm and peaceful",
+        "ex": "The initial equity market tranquility surprised many political commentators."
+      },
+      {
+        "w": "sovereign",
+        "ipa": "/ˈsɒv.rɪn/",
+        "pos": "adj.",
+        "mean": "主权的",
+        "def": "relating to a self-governing state or its national obligations",
+        "ex": "Sovereign bond yields remained remarkably resilient despite global turbulence."
+      },
+      {
+        "w": "destabilize",
+        "ipa": "/diːˈsteɪ.bɪ.laɪz/",
+        "pos": "v.",
+        "mean": "使不稳定",
+        "def": "to upset the stability of a system, economy, or government",
+        "ex": "Sudden tariff changes can destabilize international supply chains."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Until fiscal policy threatens to destabilize macroeconomic balance, financial markets will continue to treat midterm results as secondary noise.",
+        "why": "This sentence uses a conditional clause beginning with 'Until' to establish a clear analytical boundary, framing political news as subordinate to economic fundamentals. 句子运用以'Until'开头的条件从句设定了明确的分析界限，将政治新闻置于经济基本面之下。"
+      },
+      {
+        "s": "Traders recognize that central bank policies will dictate capital allocation long after electoral banners are packed away.",
+        "why": "The phrase 'long after electoral banners are packed away' provides vivid imagery that contrasts ephemeral political events with enduring monetary forces. 词组'long after electoral banners are packed away'使用了生动的意象，将短暂的政治事件与持久的货币力量形成鲜明对比。"
+      }
+    ]
   }
 }
