@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T07:01:45.975056+00:00",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T07:01:37.761622+00:00",
   "economist": {
-    "headline": "What markets make of the midterms",
-    "teaser": "Democrats triumph. Investors yawn",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+    "headline": "Markets realise they hate America’s blue wave",
+    "teaser": "Investors worry that Democratic dominance will slow down the AI boom",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
     "vocab": [
       {
-        "word": "triumph",
-        "phonetic": "/ˈtɹaɪ.ʌmf/",
-        "def": "A conclusive success following an effort, conflict, or confrontation of obstacles; victory; conquest."
+        "word": "realise",
+        "phonetic": "",
+        "def": "To make real; to convert from the imaginary or fictitious into reality; to bring into real existence"
       },
       {
         "word": "investors",
@@ -19,52 +19,71 @@
     ]
   },
   "st": {
-    "headline": "Democrats’ midterm sweep puts AI boom to the test – with much at stake for Asia",
-    "teaser": "With tech stocks rallying after the vote, markets appear to be betting on a more measured build-out.",
-    "url": "https://www.straitstimes.com/business/democrats-midterm-sweep-puts-ai-boom-to-the-test-with-much-at-stake-for-asia",
+    "headline": "Japan’s nominal wages rise at fastest pace in about 30 years",
+    "teaser": "Nominal wages rose 4.6% in September compared with a year earlier, marking the largest gain since 1997.",
+    "url": "https://www.straitstimes.com/business/japans-nominal-wages-rise-at-fastest-pace-in-about-30-years",
     "fullText": [
-      "SINGAPORE – The Democratic Party’s unexpected takeover of both chambers of the US Congress is giving way to renewed debate on what the future holds for the AI infrastructure build-out.",
-      "For Singapore and other Asian economies riding the AI investment boom, the key question after the Democrats’ US midterm sweep is whether tighter scrutiny will derail data centre spending or impose the financial discipline investors want.",
-      "With technology stocks rallying after the vote, markets appear to be betting on a more measured build-out rather than an abrupt slowdown.",
-      "Beyond US interest rates , bond yield s and tariff s , the election’s biggest implication for Asian exports, including Singapore’s, is its potential impact on the AI boom, which has become a major growth drive r.",
-      "If Democrats, who are mostly sceptical about artificial intelligence, take an aggressive policy approach towards the construction of new data centres, the much-feared scenario of a sharp pull-back in economic growth and a financial market upheaval may yet be possible.",
-      "However, there is optimism that things may not go that far.",
-      "In fact, the unexpected scale of the Democratic victory is giving way to an even more surprising rally in tech stocks, the opposite of what was expected over the past month, when stocks of Big Tech hyperscalers were hammered.",
-      "The US tech benchmark Nasdaq Composite rose 1.44% on Nov 4, the day after the midterms, after having suffered a massive sell-off over the past month. Shares of Google’s parent Alphabet surged 3.25%, Microsoft rose 6.68% and Amazon was up 6.1%.",
-      "Regardless, the market expects Democratic gains in key state capitols – including governorships, Senate and House seats in some of President Donald Trump’s Republican Party’s strongholds – to trigger restrictions on data centres, such as conditional moratoria over water, noise and high electricity demands.",
-      "But a higher hurdle to AI build-out may not be entirely bad. In fact, new restrictions may moderate the pace of the build-out and ease investor and shareholder concerns around the enormous capital expenditures by hyperscalers.",
-      "The market appears to be betting that while Congress could increase oversight and restrict new incentives for AI data centres, sweeping regulatory legislation would still face a presidential veto.",
-      "And if tech firms respond by showing fiscal discipline, investors would get the chance to pick outstanding performers.",
-      "Charu Chanana, Singapore-based chief investment strategist at Danish investment bank Saxo, said the US election has accelerated a reassessment of AI that was already under way.",
-      "“The sector entered the midterms with elevated valuations, enormous capital expenditure commitments and growing investor concerns about how quickly AI investments will translate into profits,” she said.",
-      "Increased regulatory scrutiny by a Democratic Congress could further accelerate investors’ shift from broad AI exposure towards companies with strong cash flows, pricing power and visible returns on investment, she noted.",
-      "“Investors should distinguish between three things: the immediate reaction to a political surprise, the policies that could realistically change, and the underlying corporate fundamentals,” Chanana added.",
-      "Bernard Yaros, deputy chief US economist at Britain -based research firm Oxford Economics, said risks to the AI build-out lie more with state and local policy, as state governors, utility regulators and zoning boards control rates, incentives, permitting and grid access.",
-      "Hence, a worst-case scenario would be a simultaneous tightening of data centre policies in the US South and Midwest, which are the country’s biggest regional drivers for future construction.",
-      "“That said, there are strong incentives to avoid policies that would severely disrupt data centre construction,” he added.",
-      "Yaros said data centres are increasingly framed as a national security priority and the AI investment cycle has become a meaningful source of economic growth, as these projects bring tax revenue and construction jobs that state and local officials would be reluctant to forgo.",
-      "Near-term investment is likely to remain resilient, but restrictions on new projects could become a more meaningful headwind to the AI investment boom from 2028.",
-      "Robert St Clair, managing director and head of investment strategy at Temasek-linked Fullerton Fund Management, said that over time, the Democrats may push for less favourable policy supports for certain AI-linked infrastructure and data centres, as well as seek stronger guardrails to avoid any adverse impacts from the technology on society and jobs.",
-      "However, US AI-related infrastructure investment is already growing rapidly, with a robust pipeline of projects planned for the years ahead. Hence, it is unclear how significant a headwind any potential policy changes could prove, he said.",
-      "If Big Tech dials back its capital borrowing , there will likely be some easing in bond yields as well.",
-      "But the major impact on bond yields and possibly Federal Reserve interest rates may come from a divided government that hamstrings federal spending.",
-      "Chanana said that while existing tax legislation will not disappear, new tax cuts or major spending packages would become harder for the Trump administration to pass.",
-      "Government funding will lapse after Dec 11, before the new Congress starts on Jan 3. A rapid reconciliation Bill focused on defence during the lame-duck session is a near-term risk for the bond market to watch.",
-      "On tariffs, Trump will retain substantial executive authority.",
-      "Hence, Yaros said, the risk is that his administration will become more aggressive on trade issues.",
-      "He added that the US-China trade truce will also be top of mind in the new year. The latest truce is set to expire on Jan 10, which will bring both countries back to the negotiating table. If they fail to extend the truce, Trump may seek to use the pending Section 301 investigation into overcapacity to impose a fresh round of tariffs on China."
+      "Japanese workers’ nominal wages rose at the fastest pace in almost three decades, underscoring sustained momentum in pay growth that will keep the Bank of Japan (BOJ) on track to hike interest rates as soon as December.",
+      "Nominal wages rose 4.6% in September compared with a year earlier, marking the largest gain since 1997, the Labour Ministry reported on Nov 6 . Base pay increased 3.7%, while a more stable gauge excluding bonuses, overtime and sampling distortions rose by a record 3.1% for full-time workers.",
+      "Real cash earnings – adjusted for inflation excluding rents – climbed 2.2% from a year earlier, accelerating from a revised 1.6% gain in August and beating the consensus estimate of 1.3%. Economists had expected growth to slow due to fewer working days.",
+      "The data come as labour unions prepare for the next round of annual wage negotiations that will culminate in March, with early anecdotal evidence suggesting momentum built over the last few years will be maintained.",
+      "The largest labour union federation in October urged its members to demand wage increases of around 6%, setting a more ambitious target than in 2026 .",
+      "Workers represented by the group have secured raises exceeding 5% for three consecutive years, signalling that pay gains are becoming the norm in a country long plagued by wage stagnation after an asset bubble burst in the the early 1990s, ushering in years of deflation.",
+      "“I expect wage increases in next year’s wage negotiations to come in at around 5%, roughly the same pace as in 2026,” said Yasunari Tanaka, researcher at Mitsubishi Research Institute.",
+      "Sustained upward pressure on wages is expected to keep the BOJ on track to keep raising its benchmark rate for some time.",
+      "The median economist forecast puts the terminal rate for the current cycle at 1.75%, implying two more quarter-point hikes.",
+      "BNP Paribas and JPMorgan Securities are among those forecasting the benchmark rate will reach 2.5%.",
+      "Bloomberg economist Taro Kimura said: “Wage growth is likely to accelerate next year as unions seek bigger pay rises in the next annual shunto negotiations. But wobbling AI-related stocks argue for caution. Our baseline has three more 25-basis-point hikes in December, March and July, taking the policy rate to 2%.”",
+      "After leaving interest rates unchanged last week, BOJ Governor Kazuo Ueda said that underlying inflation had reached a level broadly consistent with the central bank’s 2% target, while stressing the importance of labour and management factoring 2% inflation into their coming pay negotiations.",
+      "More than 80% of economists surveyed by Bloomberg expect the BOJ to raise borrowing costs when it next sets policy on Dec 18.",
+      "The central bank has previously cited early momentum in wage talks as a factor supporting rate hikes.",
+      "Pay trends, particularly inflation-adjusted earnings, will also be crucial to Prime Minister Sanae Takaichi as households grapple with elevated living costs.",
+      "With markets wary of the potential for a worsening fiscal outlook, Takaichi faces a delicate balance between easing the burden on consumers with price relief measures and containing fiscal costs.",
+      "In the latest developments, Takaichi in October announced that she will begin gradually scaling back petrol subsidies from December, while reviving electricity and gas support for the winter starting the same month.",
+      "A persistent labour shortage has been a major driver of Japan’s recent wage gains.",
+      "In its latest Outlook report, the BOJ said that labour market conditions are likely to remain tight, and nominal wages are projected to continue increasing steadily, with base pay increases being realised at around the same level as in 2025.",
+      "The BOJ’s Tankan survey released in October showed staffing shortages across industries remained among the most severe on record, forcing companies to offer higher pay to attract and retain employees.",
+      "The resulting rise in personnel expenses, however, is squeezing smaller businesses.",
+      "Bankruptcies linked to labour shortages hit a record 240 in the first half of the fiscal year, according to a report released in October by Tokyo Shoko Research.",
+      "More than half of those cases cited higher labour costs, underscoring the growing financial strain on smaller firms struggling to keep pace with wage demands, the report said.",
+      "“If we look at same sample data, base pay is recently rising by around 3%, so wage growth at its current pace is consistent with 2% inflation” if factoring in productivity gains, Tanaka said. “I think sustained strong wage growth would support rate hikes by the BOJ.” BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Sony posts 45% Q2 profit rise on movies, games boost",
-    "teaser": "Sony posts 45% Q2 profit rise on movies, games boost",
-    "url": "https://www.channelnewsasia.com/business/sony-posts-45-q2-profit-rise-movies-games-boost-6526721",
+    "headline": "How anime tourism is helping breathe new life into Japan's shrinking towns",
+    "teaser": "Anime and manga fans are flocking to towns across Japan, bringing new opportunities to communities grappling with depopulation and economic decline.",
+    "url": "https://www.channelnewsasia.com/asia/anime-manga-pop-culture-tourism-japan-communities-6526746",
     "fullText": [
-      "TOKYO, Nov 5 : Sony on Thursday reported a 45 per cent rise in second-quarter operating profit of 622.3 billion yen ($3.95 billion), beating market estimates, due to stronger performance at its games and movies units.",
-      "Contributors to the stronger performance, which led the Japanese entertainment and technology conglomerate to hike its full-year profit outlook by 9 per cent, included the hit movie \"Spider-Man: Brand New Day\".",
-      "Sony's games business is expected to be a major beneficiary of the launch of \"Grand Theft Auto VI\" on November 19 but is grappling with higher memory chip prices due to the AI boom.",
-      "Companies continue to be squeezed by elevated memory prices, with iPhone maker Apple this week flagging pressure on margins over the holiday quarter.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "NUMAZU, Japan: When Maki Nishiono first visited the coastal city of Numazu, she was chasing a fictional anime world. Today, she calls the place home.",
+      "A fan of the hit anime Love Live! Sunshine!!, the 27-year-old was drawn to Numazu in Japan’s Shizuoka Prefecture by the real-life locations featured in the series.",
+      "Nishiono was so captivated by the city that she eventually left Osaka to work at Awashima Hotel, one of the settings in the anime.",
+      "“Every scene was exactly the same as in the anime. It was real. I was fascinated,” she recalled of her first visit.",
+      "Her experience reflects a growing trend across Japan, where fans are turning their love of anime and manga into real-world journeys.",
+      "For some destinations grappling with ageing populations, declining industries and the departure of young people, pop culture tourism offers opportunities beyond tourist spending.",
+      "Numazu has become a pilgrimage destination for fans of Love Live! Sunshine!!, which first aired in 2016.",
+      "The anime follows nine schoolgirls who form an idol group to save their school from closing amid falling enrolment.",
+      "Today the characters are everywhere – appearing on buses, banners, and even manhole covers.",
+      "Businesses featured in the series have also embraced their newfound fame.",
+      "The 130-year-old Yasudaya Ryokan, a traditional Japanese inn, is depicted in the anime as the home of the group’s leader, Chika Takami.",
+      "The ryokan’s general manager, Kazunori Yasuda, remembers a sudden change in clientele.",
+      "“When the anime began showing on TV, we had a spike in young male guests,” he said.",
+      "The inn had previously attracted admirers of renowned Japanese novelist Osamu Dazai, who once stayed there.",
+      "On nearby Awashima Island, businesses have recreated scenes from the show.",
+      "Awashima Hotel – portrayed in the anime as the family hotel of one of the main characters Mari Ohara – also features a special suite modelled after her room.",
+      "For the hotel’s management, however, the anime’s influence extends beyond attracting guests.",
+      "“It’s an island. So it’s difficult to find people to work with us,” said the hotel’s representative director Hiromi Miyashiro.",
+      "Yuki Terasawa, the hotel’s strategy manager, is another Liver who relocated to work at the property.",
+      "“I graduated from a university in Tokyo. I had no hesitation to work here. I’m quite happy to have this job,” said the 24-year-old.",
+      "That ability to attract workers is particularly significant for Numazu.",
+      "According to mayor Shuichi Yorishige, the city’s population has fallen from a peak of 210,000 to 180,000.",
+      "“Young people especially – after graduating (from) high school, they leave for the metropolis for university and jobs,” he said.",
+      "Love Live! Sunshine!! proved to be an unexpected pull.",
+      "After repeatedly visiting Numazu, hundreds of fans have moved to the city, the mayor said.",
+      "Among them is 30-year-old Naoto Moroto, who moved from Kyoto and now works for the city government as a policy promotion officer.",
+      "“Learning that it was a pilgrimage site for Love Live! Sunshine!!, I decided to work in Numazu,” he said.",
+      "“The sea here is beautiful. I want everyone to see it.”",
+      "For married couple Aki Kinjo and Taketo Kinjo, the decision to move was about building a life beyond the fandom.",
+      "The pair visited Numazu about 20 times for leisure before settling down in 2022. They now have a two-year-old daughter."
     ]
   },
   "mom": {
@@ -74,263 +93,263 @@
   },
   "lifeVocab": [
     {
-      "en": "Borrow",
-      "cn": "借阅",
-      "def": "to take and use something belonging to someone else for a period of time",
-      "ex": "You can borrow up to sixteen books using your NLB mobile app.",
-      "emoji": "📚"
+      "en": "Tap in",
+      "cn": "刷卡进站",
+      "def": "To touch a contactless smart card or device against a reader to pay a transit fare",
+      "ex": "Remember to tap in with your SimplyGo card at the gantry before entering the MRT platform.",
+      "emoji": "💳"
     },
     {
-      "en": "Renew",
-      "cn": "续借",
-      "def": "to extend the period of time for which something is valid or borrowed",
-      "ex": "I need to renew my borrowed items online before the due date.",
+      "en": "Concession pass",
+      "cn": "优惠车票",
+      "def": "A discounted travel pass for specific demographic groups like students or senior citizens",
+      "ex": "She bought a monthly concession pass to reduce her daily transport expenses.",
+      "emoji": "🎫"
+    },
+    {
+      "en": "Feeder bus",
+      "cn": "接驳巴士",
+      "def": "A local bus service that transports passengers from residential neighborhoods to a major transit hub",
+      "ex": "Take the feeder bus from the interchange straight to your HDB block.",
+      "emoji": "🚌"
+    },
+    {
+      "en": "Grab a seat",
+      "cn": "找座位坐下",
+      "def": "To quickly sit down in an available seat on public transport",
+      "ex": "I was fortunate to grab a seat on the crowded East-West Line during the morning rush.",
+      "emoji": "🪑"
+    },
+    {
+      "en": "Commute",
+      "cn": "通勤",
+      "def": "To travel regularly between one's home and place of work or study",
+      "ex": "My daily commute from Tampines to Raffles Place takes approximately forty minutes.",
+      "emoji": "🚆"
+    },
+    {
+      "en": "Priority seat",
+      "cn": "关爱座",
+      "def": "A seat designated for elderly passengers, pregnant women, or persons with disabilities",
+      "ex": "He immediately stood up to offer his priority seat to an expectant mother.",
+      "emoji": "👵"
+    },
+    {
+      "en": "Interchange",
+      "cn": "交通枢纽/转乘站",
+      "def": "A central station where passengers can transfer between different railway lines or bus routes",
+      "ex": "Bishan is a bustling interchange connecting the North-South Line and the Circle Line.",
       "emoji": "🔄"
     },
     {
-      "en": "Reservation",
-      "cn": "预约",
-      "def": "an arrangement to hold something, such as a book, for later collection",
-      "ex": "She placed a reservation for the popular thriller at the Tampines Regional Library.",
-      "emoji": "🔖"
-    },
-    {
-      "en": "Overdue",
-      "cn": "逾期的",
-      "def": "not returned or paid by the required time",
-      "ex": "The app sent a notification warning that two of my books were overdue.",
+      "en": "Peak hour",
+      "cn": "高峰时段",
+      "def": "The busiest time of day for traffic or public transport systems",
+      "ex": "Trains run every two minutes during peak hour to accommodate the heavy crowds.",
       "emoji": "⏰"
     },
     {
-      "en": "Catalogue",
-      "cn": "图书目录",
-      "def": "a complete list of items, such as books, in a library collection",
-      "ex": "You can search the digital catalogue on the self-service kiosk.",
-      "emoji": "💻"
+      "en": "Top up",
+      "cn": "充值",
+      "def": "To add money to a smart card or digital payment wallet",
+      "ex": "I need to top up my EZ-Link card at the ticketing machine before boarding.",
+      "emoji": "🔋"
     },
     {
-      "en": "Reference section",
-      "cn": "参考书区",
-      "def": "an area in a library containing books that can only be consulted on site",
-      "ex": "Rare Singapore history documents are kept strictly in the reference section.",
-      "emoji": "📖"
-    },
-    {
-      "en": "Silent zone",
-      "cn": "静音区",
-      "def": "a designated area where absolute silence must be maintained",
-      "ex": "Students head to the silent zone to study for their upcoming examinations.",
-      "emoji": "🤫"
-    },
-    {
-      "en": "Call number",
-      "cn": "索书号",
-      "def": "a series of numbers and letters used to identify and locate a library item",
-      "ex": "Check the call number printed on the book spine to find it on the shelf.",
-      "emoji": "🏷️"
-    },
-    {
-      "en": "Multimedia",
-      "cn": "多媒体",
-      "def": "using more than one medium of expression or communication like audio and video",
-      "ex": "The library offers free access to multimedia resources including online documentaries.",
-      "emoji": "🎧"
-    },
-    {
-      "en": "Return chute",
-      "cn": "还书口",
-      "def": "a slot where borrowed items can be dropped off outside opening hours",
-      "ex": "I dropped off my borrowed magazines in the 24-hour return chute outside the building.",
-      "emoji": "📮"
+      "en": "First train",
+      "cn": "首班车",
+      "def": "The earliest scheduled train service operating on a transit line",
+      "ex": "If you catch the first train at five-thirty in the morning, you will easily beat the crowd.",
+      "emoji": "🌅"
     }
   ],
   "levelVocab": [
     {
-      "w": "elucidate",
-      "ipa": "/ɪˈluː.sɪ.deɪt/",
-      "pos": "v.",
-      "cn": "阐明",
-      "def": "to make something clear or easy to understand",
-      "ex": "The consultant was asked to elucidate the complex financial framework to the executive committee."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪmˈper.ə.tɪv/",
-      "pos": "adj.",
-      "cn": "至关重要的",
-      "def": "extremely important or urgent",
-      "ex": "It is imperative that we complete the compliance audit before the regulatory deadline."
-    },
-    {
-      "w": "prevalent",
-      "ipa": "/ˈprev.əl.ənt/",
-      "pos": "adj.",
-      "cn": "普遍的",
-      "def": "widespread in a particular area or at a particular time",
-      "ex": "Hybrid work models have become increasingly prevalent across financial institutions."
-    },
-    {
-      "w": "contingency",
-      "ipa": "/kənˈtɪn.dʒən.si/",
+      "w": "Arbitrage",
+      "ipa": "/ˈɑːrbɪtrɑːʒ/",
       "pos": "n.",
-      "cn": "应急计划/突发情况",
-      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "The project manager created a contingency budget to cover unexpected operational delays."
+      "cn": "套利",
+      "def": "The simultaneous buying and selling of assets in different markets to exploit price differences",
+      "ex": "Traders capitalized on price disparities between exchanges to perform risk-free arbitrage."
     },
     {
-      "w": "underpin",
-      "ipa": "/ˌʌn.dəˈpɪn/",
+      "w": "Precipitate",
+      "ipa": "/prɪˈsɪpɪteɪt/",
       "pos": "v.",
-      "cn": "支撑/巩固",
-      "def": "to support, justify, or form the basis of something",
-      "ex": "Robust data encryption practices underpin client trust in digital banking services."
+      "cn": "引发，促成",
+      "def": "To cause an event or situation, typically a bad one, to happen suddenly or unexpectedly",
+      "ex": "The unexpected regulatory announcement could precipitate a sudden decline in investor confidence."
     },
     {
-      "w": "divergent",
-      "ipa": "/daɪˈvɜː.dʒənt/",
+      "w": "Juxtapose",
+      "ipa": "/ˌdʒʌkstəˈpoʊz/",
+      "pos": "v.",
+      "cn": "并置，对比",
+      "def": "To place two things side by side in order to contrast or compare them",
+      "ex": "The report juxtaposes current fiscal deficits with past economic surpluses to highlight structural flaws."
+    },
+    {
+      "w": "Prognosis",
+      "ipa": "/prɒɡˈnoʊsɪs/",
+      "pos": "n.",
+      "cn": "预测，前景",
+      "def": "A forecast of the likely outcome or future course of a situation",
+      "ex": "Analysts offered a cautious economic prognosis following the mid-year market corrections."
+    },
+    {
+      "w": "Exacerbate",
+      "ipa": "/ɪɡˈzæsərbeɪt/",
+      "pos": "v.",
+      "cn": "加剧，恶化",
+      "def": "To make a problem, bad situation, or negative feeling worse",
+      "ex": "Rising interest rates threatened to exacerbate the debt burden for middle-market firms."
+    },
+    {
+      "w": "Efficacy",
+      "ipa": "/ˈɛfɪkəsi/",
+      "pos": "n.",
+      "cn": "功效，效力",
+      "def": "The ability to produce a desired or intended result",
+      "ex": "The board evaluated the efficacy of the new compliance strategy after six months of implementation."
+    },
+    {
+      "w": "Stalemate",
+      "ipa": "/ˈsteɪlmeɪt/",
+      "pos": "n.",
+      "cn": "僵局",
+      "def": "A situation in which further action or progress by opposing parties seems impossible",
+      "ex": "Negotiations reached a complete stalemate after neither side agreed to compromise on valuations."
+    },
+    {
+      "w": "Capitulate",
+      "ipa": "/kəˈpɪtʃəleɪt/",
+      "pos": "v.",
+      "cn": "屈服，妥协",
+      "def": "To cease resisting an opponent or an unwelcome demand; to surrender",
+      "ex": "Faced with shrinking margins, executives were forced to capitulate to aggressive shareholder demands."
+    },
+    {
+      "w": "Disparate",
+      "ipa": "/ˈdɪspərət/",
       "pos": "adj.",
-      "cn": "分歧的",
-      "def": "developing in different directions or holding different opinions",
-      "ex": "The directors expressed divergent opinions on how to execute the regional market entry."
+      "cn": "迥异的，不同的",
+      "def": "Essentially different in kind; not allowing comparison",
+      "ex": "The merged firm struggled initially to integrate disparate corporate cultures and legacy systems."
     },
     {
-      "w": "fluctuate",
-      "ipa": "/ˈflʌk.tʃu.eɪt/",
+      "w": "Sanction",
+      "ipa": "/ˈsæŋkʃən/",
       "pos": "v.",
-      "cn": "波动",
-      "def": "to rise and fall irregularly in number or amount",
-      "ex": "Foreign exchange rates continue to fluctuate due to global interest rate announcements."
-    },
-    {
-      "w": "concur",
-      "ipa": "/kənˈkɜːr/",
-      "pos": "v.",
-      "cn": "同意",
-      "def": "to agree with an opinion or decision",
-      "ex": "The board members concurred with the chief financial officer's cost-cutting proposal."
-    },
-    {
-      "w": "subsequent",
-      "ipa": "/ˈsʌb.sɪ.kwənt/",
-      "pos": "adj.",
-      "cn": "随后的",
-      "def": "coming after something in time or following",
-      "ex": "The initial trial was successful, and subsequent rollouts expanded to three neighboring countries."
-    },
-    {
-      "w": "promulgate",
-      "ipa": "/ˈprɒm.əl.ɡeɪt/",
-      "pos": "v.",
-      "cn": "颁布/传播",
-      "def": "to promote or make widely known an idea or policy",
-      "ex": "The human resources division will promulgate the updated telecommuting guidelines next week."
+      "cn": "批准，认可",
+      "def": "To give official permission or formal approval for an action",
+      "ex": "The committee decided to sanction the capital outlay for regional data center expansion."
     }
   ],
   "listening": {
-    "source": "CNA Style · Intermediate",
-    "title": "Singapore Expands Green Corridor Initiative",
-    "transcript": "Singapore has announced an ambitious urban design plan aimed at extending <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/pəˈdes.tri.ən/ (adj.) relating to pedestrians; walking — 行人的\">pedestrian</span> pathways across several central districts. City planners hope the expanded green corridors will reduce heat while encouraging active <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/məʊˈbɪl.ə.ti/ (n.) the ability to move freely and easily — 出行能力/流动性\">mobility</span> among residents. Community feedback has been overwhelmingly positive, with citizens welcoming shaded connection routes between parks. Construction on the first phase is scheduled to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəˈmens/ (v.) to begin or start — 开始\">commence</span> early next year."
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Electric Vehicle Charging Infrastructure Across Heartlands",
+    "transcript": "Singapore is accelerating its green <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃən/ (n.) the process or period of changing from one state to another — 过渡/转变\">transition</span> by expanding electric vehicle charging stations across residential estates. The government aims to install over sixty thousand charging points by the end of the decade. Urban planners emphasize that accessible <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪnfrəstrʌktʃər/ (n.) the basic physical systems and facilities of a region — 基础设施\">infrastructure</span> is key to encouraging drivers to switch from petrol vehicles. Commuters can expect <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsiːmləsli/ (adv.) smoothly and continuously without awkward transitions — 无缝地\">seamlessly</span> integrated charging spots near HDB carparks in the coming months."
   },
   "economistArticle": {
-    "title": "What markets make of the midterms",
+    "title": "Markets realise they hate America’s blue wave",
     "paras": [
-      "When American voters handed Democrats a series of unexpected victories in the midterm elections, political commentators scrambled to rewrite their narratives. Yet across trading desks in New York and London, reaction was muted. Stock indexes barely budged, while bond yields shifted only <span class=\"voc\">imperceptibly</span>. Investors, it seems, greeted the surprising political outcome with a collective yawn.",
-      "Part of this <span class=\"voc\">nonchalance</span> stems from gridlock, which equity markets historically favor. Even with Democrats holding key positions, a divided Congress curtails ambitious legislative initiatives. Wall Street generally prefers policy <span class=\"voc\">stagnation</span> to sweeping statutory overhauls that introduce regulatory uncertainty. For major corporations, gridlock implies fewer fiscal surprises and a lower likelihood of sudden corporate tax hikes.",
-      "Furthermore, investor attention remains firmly anchored on macroeconomics rather than partisan politics. The Federal Reserve's monetary stance, persistent inflation, and global supply constraints exert far greater influence on equity valuations than congressional committee chairs. <span class=\"gem\">Traders recognize that central bank policies will dictate capital allocation long after electoral banners are packed away.</span>",
-      "Currency markets similarly mirrored this <span class=\"voc\">tranquility</span>. The dollar index traded within a narrow band, reflecting the view that macroeconomic fundamentals remain the true drivers of foreign exchange sentiment. <span class=\"voc\">Sovereign</span> bond yields, too, remained stable, indicating that debt markets perceive little immediate threat to fiscal stability.",
-      "Ultimately, the market response underscores a practical reality: political drama makes compelling television, but earnings reports and interest rates drive asset prices. <span class=\"gem\">Until fiscal policy threatens to <span class=\"voc\">destabilize</span> macroeconomic balance, financial markets will continue to treat midterm results as secondary noise.</span>"
+      "Wall Street spent months fantasising about political clarity, convincing itself that a decisive victory for Democrats would bring predictable regulatory frameworks and fiscal stability. Yet as the prospect of a Democratic sweep grows more <span class=\"voc\">tangible</span>, financial markets are experiencing a sudden pang of buyer's remorse. The initial <span class=\"voc\">euphoria</span> surrounding policy certainty has swiftly yielded to anxieties about aggressive interventionism, particularly aimed at the tech titans powering the current market rally.",
+      "At the heart of this panic lies the <span class=\"voc\">burgeoning</span> artificial intelligence sector. Capital expenditure on AI infrastructure has surged past unprecedented milestones, driven by massive private investments and optimistic earnings forecasts. However, market analysts now warn that a unified Democratic administration could introduce <span class=\"voc\">stringent</span> guardrails, antitrust litigation, and heavy taxation that threaten to curb this momentum. Investors fear that Silicon Valley's standard playbook of <span class=\"voc\">unbridled</span> innovation may soon collide with Washington's regulatory zeal.",
+      "Furthermore, corporate tax hikes remain a central pillar of the Democratic platform. A rise in the statutory corporate tax rate from twenty-one percent to twenty-eight percent would directly <span class=\"voc\">erode</span> net profit margins for blue-chip equities. <span class=\"gem\">While corporate treasurers have spent years optimizing balance sheets, a tax adjustment of this magnitude leaves precious little room for defensive maneuvering.</span> Equity valuations, already stretched thin by high interest rates, look increasingly fragile under such fiscal tightening.",
+      "Capital markets are notoriously <span class=\"voc\">averse</span> to friction, and heightened oversight of mergers and acquisitions poses another formidable headwind. Under strict regulatory <span class=\"voc\">scrutiny</span>, big tech firms may find it virtually impossible to acquire promising AI startups or acquire specialized talent through acqui-hires. Consequently, the rapid venture capital exit routes that historically nourished Silicon Valley’s ecosystem could dry up, dampening innovation across the entire technology supply chain.",
+      "In short, the prospect of an unchallenged blue wave presents a perplexing <span class=\"voc\">dilemma</span> for global investors. <span class=\"gem\">While political cohesion eliminates legislative gridlock, it simultaneously unleashes policy initiatives that could stifle economic dynamism.</span> As Wall Street recalibrates its risk models, the exuberant AI trade is confronting a far more sobering reality: political dominance in Washington often comes at a steep price for corporate profits."
     ],
-    "cn": "当美国选民在中期选举中赋予民主党一系列出人意料的胜利时，政治评论员们纷纷忙着重写分析逻辑。然而，在纽约和伦敦的交易室里，市场的反应却十分平静。股票指数几乎没有波动，而债券收益率也微乎其微地移动。投资者们似乎以集体打哈欠的方式迎来了这一意外结果。\n这种冷淡的一部分原因在于政治僵局，而股票市场历史性地偏爱僵局。即便民主党保住了关键席位，一个分化分裂的国会也会限制有雄心的立法计划。华尔街通常更倾向于政策停滞，而不是带来监管不确定性的激进法律改革。对于大型企业而言，政治僵局意味着更少的财政意外，以及突然上调企业税的可能性降低。\n此外，投资者的注意力依然紧紧锚定在宏观经济而非党派政治上。美联储的货币政策立场、持续的通胀以及全球供应限制对股票估值的影响，远大于国会各委员会主席的人选。交易员们意识到，在选举横幅被收起很久之后，央行政策仍将决定资本的配置方向。\n汇率市场同样反映了这种平静。美元指数在狭窄区间内交易，这表明宏观经济基本面仍是外汇市场情绪的真正主导力量。主权债券收益率也保持稳定，表明债务市场认为财政稳定性不会受到直接威胁。\n归根结底，市场的反应强调了一个务实的现实：政治戏剧适合制作引人入胜的电视节目，但盈利报告和利率才是驱动资产价格的根本因素。在财政政策威胁到打破宏观经济平衡之前，金融市场将继续把中期选举结果视为次要噪音。",
+    "cn": "华尔街曾用数月时间幻想政治上的明确性，自诩民主党的全面胜利将带来可预测的监管框架和财政稳定。然而，随着民主党一统国会的可能性日益清晰，金融市场却突然产生了买家悔意。最初对政策确定性的欢欣鼓舞，迅速转变为对激进干预主义的忧虑，特别是针对支撑当前股市上涨的科技巨头。\n\n这场恐慌的核心在于蓬勃发展的人工智能领域。在巨额私人投资和乐观盈利预测的推动下，AI基础设施的资本支出已跨越空前里程碑。然而，市场分析师如今警告称，统一的民主党政府可能会出台严格的保障措施、反垄断诉讼以及沉重税负，从而遏制这一势头。投资者担心，硅谷一贯不加约束的创新模式很快将与华盛顿的监管热情发生正面碰撞。\n\n此外，提高企业税仍是民主党竞选纲领的核心支柱。法定企业税率从21%提高至28%，将直接侵蚀蓝筹股的净利润率。尽管企业财务主管多年来一直在优化资产负债表，但如此规模的税率调整几乎没有给防御性腾挪留下空间。在高利率环境下本已绷紧的股票估值，在这种财政紧缩下显得愈发脆弱。\n\n资本市场素来厌恶阻力，而对并购审查的加强构成了另一大严峻逆风。在严厉的监管审视下，大型科技公司可能发现几乎不可能收购有前景的AI初创公司或通过人才并购获取专业人才。因此，历史上滋养硅谷生态系统的风险投资快速退出途径可能会干涸，从而抑制整个科技供应链的创新。\n\n简而言之，面对毫无悬念的民主党胜选浪潮，全球投资者面临着一个令人困惑的抉择。虽然政治凝聚力消除了立法僵局，但它同时也释放出了可能压制经济动力的政策举措。随着华华尔街重新调整其风险模型，狂热的AI交易正在面对一个极为严峻的现实：华盛顿的政治主导权往往以牺牲企业利润为昂贵代价。",
     "vocab": [
       {
-        "w": "scramble",
-        "ipa": "/ˈskræm.bəl/",
-        "pos": "v.",
-        "mean": "仓促行动/争抢",
-        "def": "to move or act quickly, frantically, or clumsily",
-        "ex": "Analysts scrambled to adjust their revenue forecasts following the sudden policy announcement."
-      },
-      {
-        "w": "imperceptibly",
-        "ipa": "/ˌɪm.pəˈsep.tə.bli/",
-        "pos": "adv.",
-        "mean": "察觉不到地/微弱地",
-        "def": "in a way that is so slight or subtle as to be almost impossible to perceive",
-        "ex": "Treasury yields moved imperceptibly after the economic report was published."
-      },
-      {
-        "w": "nonchalance",
-        "ipa": "/ˌnɒn.ʃəˈlɑːns/",
-        "pos": "n.",
-        "mean": "漠不关心/冷淡",
-        "def": "the state of feeling or appearing casually calm and relaxed",
-        "ex": "The chief executive displayed remarkable nonchalance despite intense media scrutiny."
-      },
-      {
-        "w": "curtail",
-        "ipa": "/kəˈteɪl/",
-        "pos": "v.",
-        "mean": "限制/缩减",
-        "def": "to reduce in extent or quantity; impose a restriction on",
-        "ex": "A divided parliament tends to curtail legislative spending plans."
-      },
-      {
-        "w": "stagnation",
-        "ipa": "/stæɡˈneɪ.ʃən/",
-        "pos": "n.",
-        "mean": "停滞",
-        "def": "a state of not flowing, changing, or developing",
-        "ex": "Prolonged economic stagnation can erode investor confidence over time."
-      },
-      {
-        "w": "overhaul",
-        "ipa": "/ˌəʊ.vəˈhɔːl/",
-        "pos": "n.",
-        "mean": "全面改革/大修",
-        "def": "a thorough examination and transformation or repair of a system",
-        "ex": "The administration proposed a sweeping overhaul of corporate tax laws."
-      },
-      {
-        "w": "anchor",
-        "ipa": "/ˈæŋ.kər/",
-        "pos": "v.",
-        "mean": "固定/锚定",
-        "def": "to fix firmly or secure in a particular position or state",
-        "ex": "Central banks strive to anchor long-term inflation expectations."
-      },
-      {
-        "w": "tranquility",
-        "ipa": "/træŋˈkwɪl.ə.ti/",
-        "pos": "n.",
-        "mean": "平静/宁静",
-        "def": "the quality or state of being calm and peaceful",
-        "ex": "The initial equity market tranquility surprised many political commentators."
-      },
-      {
-        "w": "sovereign",
-        "ipa": "/ˈsɒv.rɪn/",
+        "w": "tangible",
+        "ipa": "/ˈtændʒəbəl/",
         "pos": "adj.",
-        "mean": "主权的",
-        "def": "relating to a self-governing state or its national obligations",
-        "ex": "Sovereign bond yields remained remarkably resilient despite global turbulence."
+        "mean": "明确的，有形的",
+        "def": "Perceptible by touch; clear and definite",
+        "ex": "As the concrete economic proposal became more tangible, investors adjusted their portfolio exposure."
       },
       {
-        "w": "destabilize",
-        "ipa": "/diːˈsteɪ.bɪ.laɪz/",
+        "w": "euphoria",
+        "ipa": "/juːˈfɔːriə/",
+        "pos": "n.",
+        "mean": "狂热，欣快感",
+        "def": "A feeling or state of intense excitement and happiness",
+        "ex": "The initial market euphoria surrounding the quarterly profit beat faded quickly by late afternoon."
+      },
+      {
+        "w": "burgeoning",
+        "ipa": "/ˈbɜːrdʒənɪŋ/",
+        "pos": "adj.",
+        "mean": "蓬勃发展的",
+        "def": "Beginning to grow or increase rapidly; flourishing",
+        "ex": "Venture firms poured billions into the burgeoning generative AI software market."
+      },
+      {
+        "w": "stringent",
+        "ipa": "/ˈstrɪndʒənt/",
+        "pos": "adj.",
+        "mean": "严格的，严厉的",
+        "def": "Strict, precise, and exacting",
+        "ex": "Regulators imposed stringent compliance requirements on cross-border data transfers."
+      },
+      {
+        "w": "unbridled",
+        "ipa": "/ʌnˈbraɪdəld/",
+        "pos": "adj.",
+        "mean": "不受约束的",
+        "def": "Uncontrolled; unconstrained",
+        "ex": "Unbridled expansion without capital discipline often leads to corporate insolvency."
+      },
+      {
+        "w": "erode",
+        "ipa": "/ɪˈroʊd/",
         "pos": "v.",
-        "mean": "使不稳定",
-        "def": "to upset the stability of a system, economy, or government",
-        "ex": "Sudden tariff changes can destabilize international supply chains."
+        "mean": "侵蚀，削弱",
+        "def": "To gradually destroy or diminish something",
+        "ex": "Persistent wage inflation began to erode earnings for major consumer retail brands."
+      },
+      {
+        "w": "averse",
+        "ipa": "/əˈvɜːrs/",
+        "pos": "adj.",
+        "mean": "厌恶的，反感的",
+        "def": "Having a strong dislike of or opposition to something",
+        "ex": "Institutional money managers are notoriously averse to sudden political volatility."
+      },
+      {
+        "w": "scrutiny",
+        "ipa": "/ˈskruːtəni/",
+        "pos": "n.",
+        "mean": "严格审查",
+        "def": "Critical observation or examination",
+        "ex": "The proposed semiconductor merger faces intense regulatory scrutiny from antitrust authorities."
+      },
+      {
+        "w": "dilemma",
+        "ipa": "/dɪˈlɛmə/",
+        "pos": "n.",
+        "mean": "困境，两难选择",
+        "def": "A situation in which a difficult choice has to be made between two options",
+        "ex": "Central bankers face a perplexing dilemma between curbing inflation and supporting employment growth."
+      },
+      {
+        "w": "recalibrate",
+        "ipa": "/ˌriːˈkælɪbreɪt/",
+        "pos": "v.",
+        "mean": "重新调整",
+        "def": "To adjust or calibrate something again or differently",
+        "ex": "Fund managers were forced to recalibrate their asset allocations after the interest rate hike."
       }
     ],
     "gems": [
       {
-        "s": "Until fiscal policy threatens to destabilize macroeconomic balance, financial markets will continue to treat midterm results as secondary noise.",
-        "why": "This sentence uses a conditional clause beginning with 'Until' to establish a clear analytical boundary, framing political news as subordinate to economic fundamentals. 句子运用以'Until'开头的条件从句设定了明确的分析界限，将政治新闻置于经济基本面之下。"
+        "s": "While corporate treasurers have spent years optimizing balance sheets, a tax adjustment of this magnitude leaves precious little room for defensive maneuvering.",
+        "why": "This sentence employs antithesis and elevated economic terminology to contrast past corporate balance-sheet optimization with future legislative constraints. 本句利用对照手法与高级经济术语，将企业过去的财务准备与未来政策限制形成鲜明对比。"
       },
       {
-        "s": "Traders recognize that central bank policies will dictate capital allocation long after electoral banners are packed away.",
-        "why": "The phrase 'long after electoral banners are packed away' provides vivid imagery that contrasts ephemeral political events with enduring monetary forces. 词组'long after electoral banners are packed away'使用了生动的意象，将短暂的政治事件与持久的货币力量形成鲜明对比。"
+        "s": "While political cohesion eliminates legislative gridlock, it simultaneously unleashes policy initiatives that could stifle economic dynamism.",
+        "why": "This sentence uses a balanced parallel structure to neatly juxtapose the single benefit of political unity against its broader economic risks. 本句运用结构对称的平行句式，精准平衡了政治统一带来的单一正面效益与其引发的更广泛经济风险。"
       }
     ]
   }
