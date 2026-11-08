@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T06:15:12.810360+00:00",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T06:20:09.823922+00:00",
   "economist": {
     "headline": "Markets realise they hate America’s blue wave",
     "teaser": "Investors worry that Democratic dominance will slow down the AI boom",
@@ -19,43 +19,53 @@
     ]
   },
   "st": {
-    "headline": "Nasdaq rebounds but posts fourth straight weekly decline",
-    "teaser": "Unofficially, the Nasdaq gained 1.09% to 24,579.43 points.",
-    "url": "https://www.straitstimes.com/business/companies-markets/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline",
+    "headline": "DBS, OCBC, UOB shares drop after Q3 results; SATS hit by work pass concerns: Markets this week",
+    "teaser": "The US Democrats midterm elections' victory led a US$2.5 trillion wipeout for the tech-heavy Nasdaq 100 on Nov 5.",
+    "url": "https://www.straitstimes.com/business/global-tech-fallout-after-us-democrats-victory-dbs-ocbc-oub-shares-drop-markets-this-week",
     "fullText": [
-      "NEW YORK - Technology stocks bounced back on Nov 6 from their worst drubbing in more than a year, but the Nasdaq Composite Index posted a fourth consecutive weekly decline as investors sifted for clues about what comes next in the AI trade.",
-      "Gains within technology were broadly shared, with the semiconductor index rallying and Nvidia, Advanced Micro Devices and Sandisk rebounding.",
-      "The broad revival underscores investor faith in the AI buildout that has driven US stock indexes to dozens of record closes this year, despite a shakeout that began with a US long-term Treasury yield spike in August and the stock volatility of the past month.",
-      "“We still think AI is the dominant theme in this bull market,” said Keith Lerner, chief investment officer at Truist Advisory Services in Atlanta. “We are still giving technology the benefit of the doubt.”",
-      "Unofficially, the S&P 500 climbed 0.32% to end the session at 7,376.92 points.",
-      "The Nasdaq gained 1.09% to 24,579.43 points, while the Dow Jones Industrial Average declined 0.46% to 51,286.21 points.",
-      "Lerner said he views the selloff this week, which has taken the Nasdaq into correction territory denoting a 10% decline from its peak a month ago, as likely offering a longer-term buying opportunity for many investors.",
-      "“AI has gone on trial several times in this cycle and come away with an innocent verdict,” said Adam Turnquist, chief cross-asset strategist for LPL Financial in Charlotte, North Carolina.",
-      "Referring to the US midterm election results that spurred heavy selling in AI stocks, he said, “This week we saw a little bit of a knee-jerk reaction.”",
-      "The S&P 500 sectors were mixed, with information technology leading gains and consumer staples and healthcare lagging. The benchmark index headed for its worst week since June.",
-      "US nonfarm payrolls increased more than expected in October and the unemployment rate fell to 4.1%, suggesting the labour market remained resilient.",
-      "Traders added to bets that the Federal Reserve could hike rates as soon as next month, with a 78% chance of a December move compared with a 70% chance seen earlier, according to LSEG.",
-      "“Those are strong numbers,” said Joe Saluzzi, co-head of equity trading at Themis Trading in Chatham, New Jersey. But he asked: “Will the Fed want to raise interest rates in the face of a market which is teetering?“",
-      "Tesla and SpaceX were among technology shares bouncing back from the Nov 6 plunge.",
-      "Among other stock movers, software firm Atlassian dropped after reporting first-quarter results.",
-      "Airbnb climbed after the vacation rental platform raised its full-year 2026 revenue growth forecast.",
-      "Oil prices were slightly lower, adding to bullish sentiment for riskier assets, and were on track for sharp weekly declines. The S&P 500 energy index was on track for a double-digit weekly percentage drop.",
-      "Despite the volatility, Turnquist said a bullish sign for the AI buildout is the performance of copper, a major ingredient in data centre buildouts and other technology. Copper futures remain above their 200-day moving average and their September lows, he said.",
-      "“If this is real demand destruction on AI, you’d think copper would start to roll over,” Turnquist said. “It’s not a perfect barometer, but I look at it as a reality check.” REUTERS"
+      "SINGAPORE – Singapore’s three major banks saw their share prices drop this week. This followed DBS and UOB reporting lower-than-expected earnings and net interest margins for the third quarter ending Sept 30.",
+      "DBS closed on Nov 6 at $69.72, down 3.78% from Nov 2 when it opened at $72.46, as net profit for the quarter missed estimates and fell 5% to $2.81 billion due to lower market trading income amid unfavourable equity market conditions.",
+      "The group’s ​markets trading income sank 65% year on year to $152 million for the quarter because of weaker Asian asset performance, dislocated equity market volatility, rising interest rates towards the end of the third quarter, and a drop in volume.",
+      "The bank announced on Nov 5 that its chairman Peter Seah will retire at the end of 2026 after 16 years at the helm, with board member Anthony Lim taking over from Jan 1, 2027. Seah will be appointed senior adviser for a year.",
+      "UOB shares fell 10.27% over the week, closing at $36.83 from the week’s high of $41.10 on Nov 2.",
+      "The bank’s third-quarter net profit jumped 182% to $1.25 billion from a year earlier, on the back of strong growth in wealth, cards and loan-related activities.",
+      "The main contributors were a sharp decline in provisions for credit and other losses to $258 million from $1.36 billion, a 1% increase in net interest income to $2.28 billion and 19% growth in net fee income to $733 million.",
+      "Still, net profit was 15% lower than the previous quarter’s $1.48 billion and it missed the $1.38 billion consensus among analysts polled by Bloomberg.",
+      "OCBC saw a 4.28% drop during the week on its shares, closing on Nov 6 at $27.73 from a high of $28.97 on Nov 2.",
+      "This was despite net earnings going up 3% compared to a year ago to hit $2.04 billion, making it the bank’s second consecutive quarter in which the bank’s earnings exceeded $2 billion.",
+      "Its insurance arm Great Eastern, however, saw a 72% year-on-year drop for its third quarter net profit at $102.9 million, due to weaker investment valuations and a one-off loss from the partial divestment of its Indonesian subsidiary.",
+      "OCBC’s net profit for the first nine months of 2026 reached a record $6.24 billion, up 10% from the same period a year earlier.",
+      "Its group chief executive Tan Teck Long said on Nov 6 that the bank’s performance was underpinned by strong contributions from its wealth management and wholesale banking businesses as the group continued to execute its growth strategy.",
+      "The banks contributed to the Straits Times Index (STI) ending the week 2.2% or 117.08 points lower to close at 5,179.17 on Nov 6.",
+      "All STI counters fell, with the exception of SATS. Yangzijiang Shipbuilding led the decline, falling 6.5% to close at $4.35.",
+      "Airport ground-handler SATS saw its share price fall about 3% to $3.54 after the market opened on Nov 3, after news broke on Nov 2 that the Ministry of Manpower (MOM) was investigating 45 firms involved in Changi Airport operations for work pass offences.",
+      "MOM said it had identified around 270 workers employed by SATS’ contractors and sub-contractors whose deployment may not have complied with work pass regulations.",
+      "SATS responded on Nov 2 that it had identified work pass-related irregularities involving workers employed by some of its contractors during a routine internal audit, and that it took action against contractor companies that did not meet their contracted standards and obligations.",
+      "Some SATS employees have been temporarily redeployed and assigned others additional responsibilities to keep its Changi Airport operations running smoothly.",
+      "SATS’ share prices rebounded to close the week at $3.73 on Nov 6.",
+      "Grab announced on Nov 3 that its third-quarter revenue rose 27% from a year ago to US$1.11 billion, or 30% on a constant currency basis. The group recorded its 19th consecutive quarter of adjusted earnings before interest, taxes, depreciation, and amortisation (EBITDA) growth to a record US$237 million.",
+      "The firm behind Southeast Asia’s leading superapp raised its full-year 2026 guidance as operating leverage continues to build across core segments. It now expects group revenue of $4.20 billion instead of $4.15 billion for 2026, and adjusted EBITDA of $800 million instead of $790 million.",
+      "Grab also returned capital to shareholders through a $400 million share buyback in September and October.",
+      "Grab’s share price on the Nasdaq rose to US$3.26 after the announcement on Nov 3, and climbed further to US$3.48 when markets closed on Nov 5. ((can update this to Nov 6 for print))",
+      "The blue wave in the US midterm elections on Nov 5 triggered a steep plunge in the tech-heavy Nasdaq 100, wiping out an estimated US$2.5 trillion in market value amid fears that the Democrats’ win might lead to slower AI infrastructure spending.",
+      "The index plunged 1,421.52 points, or 5.52%, to close at 24,315.00 in the worst single-session drop since April 2025, when US President Trump announced his infamous global tariffs.",
+      "The Nasdaq Composite fell 5.5%, with much of the sell-off on Nov 5 in AI, semiconductor and tech stocks.",
+      "US analysts said the scale of the declines suggests further selling is expected, although tech and AI stocks rebounded slightly in the US on Nov 6.",
+      "On the STI, tech stocks – semiconductor-related stocks, in particular – also recorded steep drops. UMS Integration and Frencken fell 18.9% and 16.2%, respectively, over the week.",
+      "Japan’s Nikkei 225 fell by 5.96% to close at 57,434.77 on Nov 6, more than a 20% drop from its peak in June."
     ]
   },
   "cna": {
-    "headline": "India's Shami keeps white-ball focus after ending test career",
-    "teaser": "India's Shami keeps white-ball focus after ending test career",
-    "url": "https://www.channelnewsasia.com/sport/indias-shami-keeps-white-ball-focus-after-ending-test-career-6532806",
+    "headline": "France call up seven for Springboks clash as Ntamack ruled out",
+    "teaser": "France call up seven for Springboks clash as Ntamack ruled out",
+    "url": "https://www.channelnewsasia.com/sport/france-call-up-seven-springboks-clash-ntamack-ruled-out-6533996",
     "fullText": [
-      "Nov 7 : India fast bowler Mohammed Shami said he would continue playing white-ball cricket and remain available for domestic multi-day matches after retiring from test cricket on Friday, bringing the curtain down on a 13-year red-ball career.",
-      "The 36-year-old, who took 229 wickets in 64 tests after making a memorable debut against West Indies in 2013, announced his decision in a video posted on social media on the anniversary of his first test appearance.",
-      "\"Let's end this 13-year journey here today,\" Shami said.",
-      "\"I made my debut today, and today I am taking retirement. I am leaving this, but I will continue to play white-ball cricket, whether it is IPL or domestic.",
-      "His final test appearance came in the World Test Championship final against Australia in 2023, but he continued to play limited-overs cricket before injuries and fitness concerns hampered his appearances for India.",
-      "Shami, India's all-time leading wicket-taker in 50-over World Cups with 55 wickets, last featured for India in a one-day international against New Zealand last year and in a Twenty20 match against England in February 2025.",
-      "He currently represents Bengal in domestic cricket and plays for Lucknow Super Giants in the Indian Premier League.",
+      "Nov 8 : France have called up seven new players to a reshuffled 42-man squad for their Nations Championship clash against South Africa this week after they beat Fiji 54-17 in Lyon on Saturday, including a return after five years for Teddy Thomas.",
+      "• The 33-year-old winger Thomas won the last of his 28 caps in Australia in July 2021",
+      "• Centre Gael Fickou, 32, is also back and has a chance to move closer to the landmark of 100 caps. His 98th appearance was against Australia in Paris one year ago",
+      "• Hooker Julien Marchand has won a recall after returning from injury for Toulouse in their Top 14 clash against Clermont",
+      "• Also called up are the Pau pair of winger Gregoire Arfeuil and loose forward Loic Credoz",
+      "• France must do without flyhalf Romain Ntamack, who hurt his left shoulder in the first half of the test and is replaced in the squad by Louis Carbonel",
       "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
@@ -63,5 +73,267 @@
     "headline": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "teaser": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1102-mom-investigating-companies-involved-in-airport-operations-for-suspected-work-pass-offences"
+  },
+  "lifeVocab": [
+    {
+      "en": "Tap in",
+      "cn": "刷卡进站",
+      "def": "to swipe or scan a smartcard to enter a transit gate",
+      "ex": "Remember to tap in with your EZ-Link card before boarding the bus.",
+      "emoji": "💳"
+    },
+    {
+      "en": "Alight",
+      "cn": "下车",
+      "def": "to get off a bus, train, or other vehicle",
+      "ex": "Passengers should wait for others to alight before boarding the train.",
+      "emoji": "🚶"
+    },
+    {
+      "en": "Interchange",
+      "cn": "转换站",
+      "def": "a transit station where passengers can change lines",
+      "ex": "Jurong East is a busy MRT interchange during peak hours.",
+      "emoji": "🚉"
+    },
+    {
+      "en": "Commute",
+      "cn": "上下班往返",
+      "def": "the daily journey to and from work or school",
+      "ex": "Her daily commute from Tampines to Raffles Place takes thirty minutes.",
+      "emoji": "🚌"
+    },
+    {
+      "en": "Feeder bus",
+      "cn": "接驳巴士",
+      "def": "a local bus route serving residential areas to connect to main transit hubs",
+      "ex": "I take a feeder bus from my block to the nearest MRT station.",
+      "emoji": "🚍"
+    },
+    {
+      "en": "Peak hours",
+      "cn": "高峰时段",
+      "def": "periods of high traffic or travel volume, usually mornings and evenings",
+      "ex": "Fares are slightly higher and trains are crowded during peak hours.",
+      "emoji": "⏰"
+    },
+    {
+      "en": "Priority seat",
+      "cn": "爱心座位",
+      "def": "seats reserved for the elderly, pregnant women, or those in need",
+      "ex": "He offered his priority seat to an elderly woman on the MRT.",
+      "emoji": "🪑"
+    },
+    {
+      "en": "Breakdown",
+      "cn": "故障/停运",
+      "def": "a mechanical failure or service disruption",
+      "ex": "A minor signal fault caused a train breakdown on the North-South Line.",
+      "emoji": "⚠️"
+    },
+    {
+      "en": "Route map",
+      "cn": "路线图",
+      "def": "a diagram showing transit lines and stations",
+      "ex": "You can check the route map to see which station is closest to your hotel.",
+      "emoji": "🗺️"
+    },
+    {
+      "en": "Concession card",
+      "cn": "优惠卡",
+      "def": "a transit card offering discounted fares for seniors or students",
+      "ex": "Students can apply for a concession card to save on monthly public transport costs.",
+      "emoji": "🎫"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "contingent",
+      "ipa": "/kənˈtɪn.dʒənt/",
+      "pos": "adj.",
+      "cn": "视……而定的",
+      "def": "subject to chance or dependent on specific conditions",
+      "ex": "The annual bonus payout is contingent upon achieving our regional revenue targets."
+    },
+    {
+      "w": "paramount",
+      "ipa": "/ˈpær.ə.maʊnt/",
+      "pos": "adj.",
+      "cn": "至关重要的",
+      "def": "more important than anything else; supreme",
+      "ex": "Ensuring client data privacy remains of paramount importance to our compliance board."
+    },
+    {
+      "w": "synthesize",
+      "ipa": "/ˈsɪn.θə.saɪz/",
+      "pos": "v.",
+      "cn": "综合/汇总",
+      "def": "to combine elements or information to form a coherent whole",
+      "ex": "The analyst synthesized feedback from regional department heads into a unified strategic plan."
+    },
+    {
+      "w": "delineate",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
+      "pos": "v.",
+      "cn": "明确界定",
+      "def": "to describe or portray something precisely",
+      "ex": "The contract clearly delineates the operational boundaries for each partner agency."
+    },
+    {
+      "w": "underscore",
+      "ipa": "/ˌʌn.dəˈskɔːr/",
+      "pos": "v.",
+      "cn": "强调/突出",
+      "def": "to emphasize or stress the importance of something",
+      "ex": "The recent internal audit underscores the urgency of upgrading our cybersecurity defenses."
+    },
+    {
+      "w": "transient",
+      "ipa": "/ˈtræn.zi.ənt/",
+      "pos": "adj.",
+      "cn": "短暂的",
+      "def": "lasting only for a short time; impermanent",
+      "ex": "Economists expect the spike in shipping rates to be transient rather than structural."
+    },
+    {
+      "w": "ubiquitous",
+      "ipa": "/juːˈbɪk.wɪ.təs/",
+      "pos": "adj.",
+      "cn": "无处不在的",
+      "def": "present, appearing, or found everywhere",
+      "ex": "QR-code payments have become ubiquitous across retail outlets in Southeast Asia."
+    },
+    {
+      "w": "pertinent",
+      "ipa": "/ˈpɜː.tɪ.nənt/",
+      "pos": "adj.",
+      "cn": "相关的/切题的",
+      "def": "relevant or applicable to a particular matter",
+      "ex": "Please submit only the financial documentation pertinent to this tax assessment."
+    },
+    {
+      "w": "facilitate",
+      "ipa": "/fəˈsɪl.ɪ.teɪt/",
+      "pos": "v.",
+      "cn": "促进/推动",
+      "def": "to make a process or action easier or smoother",
+      "ex": "The new cloud portal will facilitate seamless cross-border communication between teams."
+    },
+    {
+      "w": "volatile",
+      "ipa": "/ˈvɒl.ə.taɪl/",
+      "pos": "adj.",
+      "cn": "易变的/波动的",
+      "def": "liable to change rapidly and unpredictably",
+      "ex": "Commodity prices remained highly volatile due to ongoing geopolitical tensions."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Green Corridor Networks to Boost Urban Biodiversity",
+    "transcript": "Singapore is stepping up efforts to connect its urban parks with lush green <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈkɒr.ɪ.dɔːz/ (n.) strips of land connecting wildlife habitats or urban zones — 绿道/走廊\">corridors</span> across the island. City planners hope these continuous natural <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpɑːθ.weɪz/ (n.) tracks or paths for walking or transit — 通道/路径\">pathways</span> will allow native wildlife to travel safely between nature reserves. Meanwhile, residents have welcomed the shaded walking trails, which help mitigate heat <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/rɪˈten.ʃən/ (n.) the continued possession, holding, or keeping of something — 保留/保持\">retention</span> in built-up housing estates."
+  },
+  "economistArticle": {
+    "title": "The Silicon Reckoning: Why Wall Street Fears a Blue Wave for AI",
+    "paras": [
+      "For months, equity markets took solace in the prospect of political continuity, believing that predictable governance would keep the technology boom on track. Yet as the likelihood of a sweeping Democratic victory grows, investors are <span class=\"voc\">recalibrating</span> their expectations with <span class=\"voc\">palpable</span> anxiety. <span class=\"gem\">The <span class=\"voc\">euphoria</span> surrounding artificial intelligence is suddenly confronting the cold reality of potential regulatory friction in Washington.</span>",
+      "Central to these concerns is the prospect of aggressive <span class=\"voc\">antitrust</span> enforcement and strict oversight of frontier technology models. Under a unified Democratic administration, regulatory bodies would likely gain renewed momentum to scrutinize data acquisition, algorithmic bias, and big tech market dominance. Institutional investors fear that <span class=\"voc\">onerous</span> compliance burdens could stifle capital deployment into risky, capital-intensive AI ventures.",
+      "Moreover, fiscal policy under a blue sweep presents a dual challenge for enterprise <span class=\"voc\">valuations</span>. Higher corporate taxation could erode profit margins for mega-cap technology firms, which have heavily <span class=\"voc\">bankrolled</span> the current infrastructure wave. Simultaneously, increased labor protections and mandatory disclosure rules might hamper the rapid operational scaling that Silicon Valley startups rely upon.",
+      "Capital markets are particularly sensitive to legislative proposals targeting data centers and energy consumption. The immense power requirements of training large language models have drawn sharp criticism from environmental advocates within the party. Should lawmakers impose <span class=\"voc\">stringent</span> carbon offsets or energy quotas, soaring operational costs could severely constrain the expansion of computing infrastructure across the nation.",
+      "Ultimately, market sentiment reflects a fundamental shift in perception regarding technology policy. While public investment in domestic manufacturing may continue, the prospect of heightened legislative intervention has injected fresh <span class=\"voc\">volatility</span> into tech equities. <span class=\"gem\">Investors are realizing that political dominance by progressive reformers might transform the AI boom from an <span class=\"voc\">unbridled</span> gold rush into a heavily regulated public utility.</span>"
+    ],
+    "cn": "几个月来，股票市场一直对政治延续性的前景感到安慰，认为可预测的治理将使科技繁荣保持在轨道上。然而，随着民主党取得全面胜利的可能性增加，投资者正带着明显的焦虑重新调整预期。围绕人工智能的狂热突然面临华盛顿潜在监管摩擦的冷酷现实。\n\n这些担心的核心是激进的反垄断执法和对前沿科技模型的严格监管前景。在统一的民主党政府领导下，监管机构可能会获得新的动力，审查数据获取、算法偏见和大科技公司的市场主导地位。机构投资者担心，繁重的合规负担可能会抑制资金向高风险、资本密集型人工智能项目的投放。\n\n此外，民主党全面执政下的财政政策对企业估值构成了双重挑战。更高的企业税可能会侵蚀巨型科技公司的利润率，而这些公司为当前的硬件基础设施浪潮提供了巨额资金支持。同时，增加的劳工保护和强制性信息披露规则可能会阻碍硅谷初创公司所依赖的快速运营扩张。\n\n资本市场对针对数据中心和能源消耗的立法提案尤为敏感。训练大型语言模型的巨大电力需求遭到了党内环保拥护者的强烈批评。如果立法者实施严格的碳抵消或能源配额，飙升的运营成本可能会严重限制全国计算基础设施的扩张。\n\n最终，市场情绪反映了对科技政策看法的根本转变。尽管对本土制造业的公共投资可能会继续，但立法干预增加的前景给科技股注入了新的波动性。投资者正在意识到，进步派改革者的政治主导地位可能会将人工智能繁荣从一场不受约束的淘金热转变为受严格监管的公用事业。",
+    "vocab": [
+      {
+        "w": "recalibrating",
+        "ipa": "/ˌriːˈkæl.ɪ.breɪ.tɪŋ/",
+        "pos": "v.",
+        "mean": "重新调整",
+        "def": "adjusting or altering precisely in response to new input",
+        "ex": "Fund managers are recalibrating their risk exposure ahead of the upcoming election."
+      },
+      {
+        "w": "palpable",
+        "ipa": "/ˈpæl.pə.bəl/",
+        "pos": "adj.",
+        "mean": "明显的/易察觉的",
+        "def": "so intense as to seem almost tangible; easily felt or noticed",
+        "ex": "There was a palpable sense of tension in the boardroom before the earnings call."
+      },
+      {
+        "w": "euphoria",
+        "ipa": "/juːˈfɔː.ri.ə/",
+        "pos": "n.",
+        "mean": "狂热/极度兴奋",
+        "def": "a feeling or state of intense excitement and happiness",
+        "ex": "The initial market euphoria over the merger gradually faded as operational challenges emerged."
+      },
+      {
+        "w": "antitrust",
+        "ipa": "/ˌæn.tiˈtrʌst/",
+        "pos": "adj.",
+        "mean": "反垄断的",
+        "def": "relating to legislation preventing or controlling monopolies",
+        "ex": "Regulators launched an antitrust investigation into the software giant's acquisition strategy."
+      },
+      {
+        "w": "onerous",
+        "ipa": "/ˈɒn.ər.əs/",
+        "pos": "adj.",
+        "mean": "繁重的/艰巨的",
+        "def": "involving an amount of effort and difficulty that is oppressively burdensome",
+        "ex": "Small fintech firms struggled to fulfill the onerous reporting requirements."
+      },
+      {
+        "w": "valuations",
+        "ipa": "/ˌvæl.juˈeɪ.ʃənz/",
+        "pos": "n.",
+        "mean": "估值",
+        "def": "estimations of something's worth, especially market value of companies",
+        "ex": "Tech stock valuations reached record highs despite broader economic uncertainties."
+      },
+      {
+        "w": "bankrolled",
+        "ipa": "/ˈbæŋk.rəʊld/",
+        "pos": "v.",
+        "mean": "提供资金/资助",
+        "def": "supported financially by paying for expenses",
+        "ex": "Venture capital funds have bankrolled the rapid development of generative language models."
+      },
+      {
+        "w": "stringent",
+        "ipa": "/ˈstrɪn.dʒənt/",
+        "pos": "adj.",
+        "mean": "严格的",
+        "def": "strict, precise, and exacting",
+        "ex": "The government introduced more stringent emission controls for data centers."
+      },
+      {
+        "w": "volatility",
+        "ipa": "/ˌvɒl.əˈtɪl.ə.ti/",
+        "pos": "n.",
+        "mean": "波动性",
+        "def": "liability to change rapidly and unpredictably, especially in asset prices",
+        "ex": "Heightened geopolitical risk triggered sharp volatility across foreign exchange markets."
+      },
+      {
+        "w": "unbridled",
+        "ipa": "/ʌnˈbraɪ.dəld/",
+        "pos": "adj.",
+        "mean": "不受约束的",
+        "def": "uncontrolled or unconstrained",
+        "ex": "Unbridled optimism in property speculation created a significant asset bubble."
+      }
+    ],
+    "gems": [
+      {
+        "s": "The euphoria surrounding artificial intelligence is suddenly confronting the cold reality of potential regulatory friction in Washington.",
+        "why": "Uses vivid stylistic contrast between emotional optimism (euphoria) and stark pragmatism (cold reality) to highlight a dramatic shift in market sentiment. 通过“狂热”与“冷酷现实”的对比，强烈突出了市场情绪的急剧改变。"
+      },
+      {
+        "s": "Investors are realizing that political dominance by progressive reformers might transform the AI boom from an unbridled gold rush into a heavily regulated public utility.",
+        "why": "Employs a powerful metaphorical shift from an unbridled gold rush to a heavily regulated public utility to frame long-term structural risk. 巧用“野蛮金矿”向“严管公用事业”的比喻转变，精准概括了行业面临的结构性监管风险。"
+      }
+    ]
   }
 }
