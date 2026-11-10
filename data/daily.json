@@ -1,71 +1,59 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T06:53:48.638577+00:00",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T07:30:31.815183+00:00",
   "economist": {
-    "headline": "Markets realise they hate America’s blue wave",
-    "teaser": "Investors worry that Democratic dominance will slow down the AI boom",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+    "headline": "The future of Trumponomics: compromise or failure",
+    "teaser": "How the art of the deal may yet prevail over the art of denial",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
     "vocab": [
       {
-        "word": "realise",
-        "phonetic": "",
-        "def": "To make real; to convert from the imaginary or fictitious into reality; to bring into real existence"
+        "word": "compromise",
+        "phonetic": "/ˈkɒmpɹəˌmaɪz/",
+        "def": "The settlement of differences by arbitration or by consent reached by mutual concessions."
       },
       {
-        "word": "investors",
-        "phonetic": "",
-        "def": "A person who invests money in order to make a profit."
+        "word": "failure",
+        "phonetic": "/ˈfeɪl.jɚ/",
+        "def": "State or condition of not meeting a desirable or intended objective, opposite of success."
       }
     ]
   },
   "st": {
-    "headline": "Nvidia’s out-of-hour shares fall as firm probes CEO Jensen Huang",
-    "teaser": "Analysts also said a long probe could delay Nvidia decisions.",
-    "url": "https://www.straitstimes.com/business/nvidias-out-of-hour-shares-fall-as-firm-probes-ceo-jensen-huang",
+    "headline": "China’s trade surplus soars past US$1 trillion as AI boom powers exports",
+    "teaser": "China’s trade surplus tops US$1 trillion for a second consecutive year, reaching the milestone a month earlier than in 2025.",
+    "url": "https://www.straitstimes.com/business/chinas-trade-surplus-soars-past-us1-trillion-as-ai-boom-powers-exports",
     "fullText": [
-      "SEOUL – Nvidia shares fell in out-of-hours trading on Nov 9 after an internal investigation into whether chief executive Jensen Huang had been targeted by a foreign intelligence effort put his future at the AI chipmaker under scrutiny.",
-      "The internal probe followed a media report that Huang had a close relationship with a Chinese businesswoman who allegedly passed information to Beijing.",
-      "Huang told Nvidia’s employees that he had been unfaithful to his wife, without disclosing details of the relationship.",
-      "The investigation, announced on Nov 8, has put a spotlight on Huang’s future given Nvidia’s status as the world’s most valuable chipmaker and the CEO’s role as the most prolific salesman of the AI boom.",
-      "The fallout extended to South Korea, where Madison Huang, Huang’s daughter and an Nvidia executive, cancelled a planned visit to Seoul for an Nvidia conference that was set to begin on Nov 9, according to companies she had been scheduled to meet.",
-      "Perpetual futures trading on the Hyperliquid exchange and after-hours shares trading on the Blue Ocean system showed Nvidia prices around US$180.30 a share, down about 3.4% from the Nov 6 Nasdaq closing price of US$186.64.",
-      "“The market’s probably telling you now this does no favours to the stock whatsoever in a time when there’s a lot of conjecture as to the build out of data centres,” said Chris Weston, head of research at brokerage Pepperstone in Melbourne.",
-      "But Weston said he did not think Huang, whom he described as the “godfather of AI”, would be replaced.",
-      "“If we genuinely thought he was going to step down... the stock would be down – it would be an absolute bloodbath, to be honest,” he said.",
-      "The New York Times reported in October that Huang had a relationship with Alice Huang, an unrelated former executive of Singapore-based company Megaspeed, who US authorities investigated and concluded was a Chinese intelligence asset.",
-      "Megaspeed did not respond immediately to a request for comment on Nov 9, a public holiday in Singapore.",
-      "Alice Huang did not respond to the New York Times in October when it first reported her relationship with Huang, and Reuters could not determine her location to seek comment on Nov 9.",
-      "Shares in Nvidia’s key Asian chip suppliers Taiwan Semiconductor Manufacturing Co, Samsung Electronics and SK Hynix rebounded on Nov 9 after last week’s sell-off of AI-related stocks.",
-      "TSMC shares jumped 6.5%, while those in Samsung and SK Hynix climbed 2.9% and 4.7%, respectively.",
-      "Some prominent figures weighed in on Huang’s admission. Billionaire investor Bill Ackman, founder of Pershing Square Capital Management, said on X that the Nvidia CEO was an “incredible human”, but if “indeed this is more than an affair, then it is obviously a real problem”.",
-      "“I am hoping for a simple affair, not a risk to our national security,” he added.",
-      "Tesla CEO Elon Musk commented “I agree” on a post by Sequoia partner Shaun Maguire that said Huang “did something incredibly dumb” that was “bad for America” but that “Jensen is irreplaceable for America’s AI leadership”.",
-      "US President Donald Trump said on Nov 8 he had not spoken to Huang about the allegations, but called him a fine person.",
-      "“I hope everything’s fine. He’s done such an incredible job,” he added.",
-      "When asked if he believed he should have acted on intelligence when he was briefed about it, Trump said: “No, I don’t think so. I think he’s an honourable guy. I think he probably has an excuse for it. You have to hear it.”",
-      "The Times reported that Trump was briefed about the intelligence findings roughly a year ago and chose not to do anything with the information.",
-      "Madison Huang had initially planned to visit South Korean artificial intelligence start-up Rebellions and hold a question-and-answer session with Kakao Mobility.",
-      "Rebellions said the events were cancelled due to “unavoidable internal circumstances at Nvidia”.",
-      "Nvidia AI Day Seoul, a two-day event expected to draw about 2,000 participants to discuss physical AI, agentic AI and infrastructure, will proceed as planned, according to South Korean media.",
-      "Nvidia did not respond immediately to a request for comment.",
-      "Analysts said a prolonged investigation or internal review could potentially delay Nvidia’s investment decisions or product launches, with broader implications for the semiconductor industry.",
-      "Ryu Young-ho, a senior analyst at NH Investment & Securities, said Nvidia’s rivals, including Advanced Micro Devices, could attract greater attention in the short term, potentially putting Samsung, which has close business ties with AMD, in the spotlight.",
-      "Still, he said Nvidia’s products would be difficult to replace, limiting the potential impact, although shipments to China could face further delays depending on how the situation developed.",
-      "South Korea’s deputy science minister said on Nov 9 the government expected no disruptions to contracted deliveries of Nvidia graphics processing units despite issues currently facing the company. REUTERS"
+      "BEIJING – China’s trade surplus surged past US$1 trillion (S$1.3 trillion) in the first 10 months as a global race to build artificial intelligence (AI) infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners.",
+      "The figures highlight Beijing’s growing reliance on overseas demand to support an economy hobbled by subdued consumption and a protracted property slump.",
+      "But while the global AI investment boom is expected to keep demand for Chinese technology products strong into 2027, it risks deepening domestic imbalances and fuelling trade frictions with partners including the European Union (EU).",
+      "Exports rose sharply by 35.2% in October from the same month in 2025 in US dollar terms, customs data showed on Nov 10, only a touch slower than the 36.3% surge in September, but ahead of economists’ forecast for an increase of 33.5%.",
+      "That helped lift China’s trade surplus to US$1.04 trillion in the first 10 months, topping US$1 trillion for a second consecutive year and reaching the milestone a month earlier than in 2025.",
+      "The swelling surplus could fuel further tensions with the EU, where leaders have called for more trade curbs with China after reaching an agreement with Beijing to limit Chinese exports of hybrid vehicles to the bloc over the next few years.",
+      "Because the measures have yet to take effect, factories are expected to bring forward shipments, bolstering exports in the near term.",
+      "China on Nov 9 officially announced the extension of a trade truce with Washington due to expire on Nov 10 by two months, but said last week that expanding its purchases of American farm goods would hinge on the implementation of their agreed reciprocal tariff-reduction arrangement.",
+      "“The risk of additional tariffs and other trade barriers will remain elevated in 2027, particularly as Chinese manufacturers continue expanding their presence in overseas markets,” said Joe Peissel, lead macroeconomist at Trivium China.",
+      "Imports grew 41.6%, beating the median forecast for a 32% increase in the Reuters poll and accelerating from the 31% growth in September.",
+      "China’s trade surplus with the US dipped slightly to US$32.71 billion in October from US$34.01 billion the previous month, but the larger gap remains a point of friction between the two economic superpowers.",
+      "Oil imports fell 13.3% from a year earlier, though shipments reached their highest level since March as buyers sought supplies after the US-Israeli war on Iran disrupted Middle East flows.",
+      "The trade data comes ahead of next week’s Asia-Pacific Economic Cooperation summit in Shenzhen, where Chinese President Xi Jinping and US President Donald Trump are expected to meet for the third time in 2026, putting trade frictions and tariff policy squarely in focus .",
+      "Following a September summit between Xi and Trump in Washington, the two sides proposed a US$60 billion package of reciprocal tariff cuts, including roughly US$17 billion worth of US farm goods.",
+      "One big worry for Beijing is that consumers remain reluctant to spend, constrained by a property market downturn that has battered household wealth and dented confidence in the economic outlook.",
+      "Sluggish demand at home has pushed Chinese carmakers to seek sales in overseas markets. China’s car exports maintained a solid pace of growth in October, while domestic vehicle sales recorded a 12th straight month of declines, separate data released by an industry association showed.",
+      "Greater reliance on exports, however, leaves China’s economy increasingly exposed to any slowdown in global demand.",
+      "Much of the strength in exports in 2026 has been fuelled by a global push to expand AI infrastructure.",
+      "“The outlook for exports depends on how long the AI boom will last,” Macquarie analysts wrote. They expect China’s exports to accelerate further in the fourth quarter before starting to slow from the first quarter of 2027. REUTERS"
     ]
   },
   "cna": {
-    "headline": "EU sues IBM and two European companies over troubled border system, FT reports",
-    "teaser": "EU sues IBM and two European companies over troubled border system, FT reports",
-    "url": "https://www.channelnewsasia.com/business/eu-sues-ibm-and-two-european-companies-over-troubled-border-system-ft-reports-6535541",
+    "headline": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand",
+    "teaser": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand",
+    "url": "https://www.channelnewsasia.com/business/chipmaker-infineon-forecasts-strong-2027-growth-data-centre-demand-6538616",
     "fullText": [
-      "Nov 9 : The European Union has sued IBM, French IT group Atos and Italian defence contractor Leonardo over repeated delays in developing its new smart border system, the Financial Times reported on Monday, citing internal communications.",
-      "EU-Lisa, the agency responsible for the operational management of large-scale IT systems in the area has sued the firms, according to the newspaper.",
-      "The Entry/Exit System electronically records the entry and exit of non-EU nationals at the bloc's external borders. The system applies across the 29 countries in the Schengen area and is designed to identify visa overstayers, combat identity fraud and curb illegal migration.",
-      "EU-Lisa told the FT that the legal proceedings had \"no impact on the functioning of the Entry/Exit System (EES),\" adding that the dispute relates to delays in the delivery of the EES at the time of the system development and is not related to the operation of the EES.",
-      "In 2019, the EU agency awarded a core EES contract to a consortium including IBM Belgium, Atos Belgium and Leonardo. The six-year contract covered implementation and maintenance of the central Entry/Exit System.",
-      "In an October 2021 letter seen by FT, Atos Belgium and IBM Belgium contested \"both the principle ... and the calculation\" of a fine imposed by the agency, arguing that delays stemmed from external factors, including the COVID-19 pandemic.",
-      "A few months later, in February 2022, the three companies pushed back against new deadlines set by EU-Lisa.",
+      "BERLIN, Nov 10 : Infineon on Tuesday forecast 2027 revenue growth of more than 20 per cent and an increase of about 5 per centage points in profitability, driven by demand from data centres, power infrastructure and software-defined vehicles.",
+      "• The German chipmaker reported fourth-quarter revenue of €4.706 billion ($5.28 billion) and a segment result of €1.119 billion, yielding a segment margin of 23.8 per cent. For the full fiscal year, revenue rose 12 per cent to €16.353 billion, while adjusted free cash flow reached €1.925 billion",
+      "• CEO Jochen Hanebeck said the company was entering the new fiscal year with \"continued strong momentum\", supported by an ongoing cyclical recovery and demand in structural growth markets",
+      "• For 2027, Infineon forecasts revenue of around €20 billion, including close to €4 billion from data-centre power supplies",
+      "• The company also plans to propose raising its dividend to €0.38 per share from €0.35",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
@@ -73,267 +61,5 @@
     "headline": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "teaser": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1102-mom-investigating-companies-involved-in-airport-operations-for-suspected-work-pass-offences"
-  },
-  "lifeVocab": [
-    {
-      "en": "queue number",
-      "cn": "排队号码 / 排队号",
-      "def": "a printed number given to patients or customers to show their order in line",
-      "ex": "Please take a queue number at the kiosk before waiting in the lobby.",
-      "emoji": "🎫"
-    },
-    {
-      "en": "medical certificate",
-      "cn": "病假条 (MC)",
-      "def": "an official note from a doctor stating that someone is unfit for work or school",
-      "ex": "The doctor issued me a two-day medical certificate because of my high fever.",
-      "emoji": "📄"
-    },
-    {
-      "en": "referral letter",
-      "cn": "转诊信",
-      "def": "a document written by a general practitioner directing a patient to a specialist",
-      "ex": "You need a referral letter from the polyclinic to get subsidized rates at the hospital.",
-      "emoji": "✉️"
-    },
-    {
-      "en": "subsidy",
-      "cn": "津贴 / 补贴",
-      "def": "money paid by the government to reduce the cost of services such as healthcare",
-      "ex": "Singapore citizens enjoy a higher healthcare subsidy at public clinics.",
-      "emoji": "💰"
-    },
-    {
-      "en": "prescription",
-      "cn": "处方 / 药方",
-      "def": "an official piece of paper or digital order from a doctor for medicine",
-      "ex": "Collect your medication at the pharmacy counter after paying for your prescription.",
-      "emoji": "💊"
-    },
-    {
-      "en": "chronic condition",
-      "cn": "慢性病",
-      "def": "a long-term medical health issue that requires ongoing management",
-      "ex": "High blood pressure is a common chronic condition managed by family doctors.",
-      "emoji": "🩺"
-    },
-    {
-      "en": "consultation fee",
-      "cn": "诊察费 / 问诊费",
-      "def": "the payment charged by a doctor for examining a patient",
-      "ex": "The consultation fee at private clinics is usually higher on weekends.",
-      "emoji": "💳"
-    },
-    {
-      "en": "dosage",
-      "cn": "用量 / 剂量",
-      "def": "the specific amount of medicine that you should take at one time",
-      "ex": "Make sure to read the label carefully to take the correct dosage.",
-      "emoji": "🧪"
-    },
-    {
-      "en": "side effect",
-      "cn": "副作用",
-      "def": "an unintended physical reaction caused by taking a medicine",
-      "ex": "Drowsiness is a common side effect of taking antihistamines for allergies.",
-      "emoji": "⚠️"
-    },
-    {
-      "en": "follow-up appointment",
-      "cn": "复诊预约",
-      "def": "a scheduled future visit to check the progress of a medical condition",
-      "ex": "The nurse scheduled a follow-up appointment for me in two weeks.",
-      "emoji": "📅"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "bottleneck",
-      "ipa": "/ˈbɒt.əl.nek/",
-      "pos": "n.",
-      "cn": "瓶颈",
-      "def": "a point of congestion or delay in a system or process",
-      "ex": "Supply chain issues created a major bottleneck in our quarterly production schedule."
-    },
-    {
-      "w": "deliberate",
-      "ipa": "/dɪˈlɪb.ər.eɪt/",
-      "pos": "v.",
-      "cn": "仔细讨论 / 审议",
-      "def": "to engage in long and careful consideration before making a decision",
-      "ex": "The board will deliberate on the merger proposal during tomorrow's executive session."
-    },
-    {
-      "w": "contingent",
-      "ipa": "/kənˈtɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "取决于…的 / 视情况而定的",
-      "def": "subject to chance or depending on specific conditions",
-      "ex": "The approval of the project budget remains contingent on final board authorization."
-    },
-    {
-      "w": "benchmark",
-      "ipa": "/ˈbentʃ.mɑːk/",
-      "pos": "n.",
-      "cn": "基准 / 标杆",
-      "def": "a standard or point of reference against which things may be compared",
-      "ex": "The startup set a new market benchmark for customer service response times."
-    },
-    {
-      "w": "overhaul",
-      "ipa": "/ˌəʊ.vəˈhɔːl/",
-      "pos": "v.",
-      "cn": "全面改革 / 彻底检修",
-      "def": "to analyze and renovate a system or process completely",
-      "ex": "Management decided to overhaul the compliance framework to align with new regulations."
-    },
-    {
-      "w": "trajectory",
-      "ipa": "/trəˈdʒek.tər.i/",
-      "pos": "n.",
-      "cn": "发展轨迹 / 路径",
-      "def": "the path or course of development over time",
-      "ex": "The company's earnings trajectory points toward record profits by year-end."
-    },
-    {
-      "w": "mandate",
-      "ipa": "/ˈmæn.deɪt/",
-      "pos": "n.",
-      "cn": "授权 / 指令",
-      "def": "an official order or authority to carry out a policy or task",
-      "ex": "The newly appointed CEO has a clear mandate to drive digital transformation."
-    },
-    {
-      "w": "pivot",
-      "ipa": "/ˈpɪv.ət/",
-      "pos": "v.",
-      "cn": "改变策略 / 转向",
-      "def": "to change strategy or direction rapidly in response to market conditions",
-      "ex": "The tech firm had to pivot to enterprise software when consumer sales slowed down."
-    },
-    {
-      "w": "stringent",
-      "ipa": "/ˈstrɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "严格的 / 严厉的",
-      "def": "strict, precise, and exacting in rules or requirements",
-      "ex": "Financial institutions must adhere to stringent anti-money laundering regulations."
-    },
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "增加 / 扩充",
-      "def": "to make something greater by adding to it",
-      "ex": "The company plans to augment its current sales force by hiring ten new account managers."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Changi Airport Expands Sustainability Initiatives",
-    "transcript": "Singapore’s Changi Airport has launched a new green <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈnɪʃ.ə.tɪv/ (n.) an official plan or action taken to solve a problem — 倡议 / 举措\">initiative</span> aimed at reducing carbon emissions across all four terminals. The plan includes installing extensive solar panels on rooftop areas and <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃ.ən.ɪŋ/ (v.) changing or moving from one state or condition to another — 转型 / 过渡\">transitioning</span> ground support vehicles to electric power. Officials state that these steps will help the airport achieve <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌnetˈzɪə.rəʊ/ (adj.) achieving a balance between greenhouse gas produced and removed — 净零排放的\">net-zero</span> carbon operations by 2050 while maintaining its standard of operational excellence."
-  },
-  "economistArticle": {
-    "title": "Markets Realise They Hate America’s Blue Wave",
-    "paras": [
-      "For months, Wall Street investors watched political polls with a mixture of <span class=\"voc\">apathy</span> and quiet anticipation. Many assumed that a sweeping Democratic victory, often termed a blue wave, would primarily bring fiscal stimulus and infrastructure investments. <span class=\"gem\">Yet as the realistic prospect of single-party control over Washington looms closer, equity markets have begun to <span class=\"voc\">recoil</span>, troubled by a growing realization that total power in progressive hands could chill Silicon Valley's most prized growth engine: artificial intelligence.</span>",
-      "The immediate source of anxiety lies in regulatory philosophy. While market participants initially welcomed targeted subsidies for domestic chip fabrication, tech sector executives now dread the <span class=\"voc\">impending</span> wave of stringent oversight. A unified Democratic administration is widely expected to push for aggressive antitrust enforcement, algorithmic accountability laws, and strict <span class=\"voc\">guardrails</span> on corporate data usage. Such measures could significantly slow down the rapid deployment of large-scale generative models.",
-      "Beyond direct regulation, fiscal policy poses an equally <span class=\"voc\">daunting</span> hurdle for capital-intensive technology firms. Building power-hungry data centres and procuring cutting-edge graphics processors requires astronomical capital <span class=\"voc\">expenditure</span>. Proposals to raise corporate tax rates and levy higher taxes on capital gains would inevitably compress profit margins and <span class=\"voc\">diminish</span> capital available for speculative research and development. Investors worry that diminished cash reserves will hamper American tech titans in their global race against international rivals.",
-      "Capital markets are already signaling their discomfort through heightened volatility in big tech equities. Hedge funds and institutional investors have started unwinding lucrative positions in artificial intelligence <span class=\"voc\">bellwethers</span>, reallocating funds into defensive sectors like health care and consumer staples. Analysts note that while government spending may prop up green energy, the massive valuations of semiconductor design firms depend heavily on unrestricted technological momentum.",
-      "Ultimately, the market’s sudden <span class=\"voc\">aversion</span> to a blue wave underscores a delicate balance between public policy and industrial dynamism. <span class=\"gem\">Antitrust scrutiny and regulatory friction may aim to protect privacy and competition, but in a market propelled by speculative momentum, any policy that <span class=\"voc\">stifles</span> innovation risks triggering a prolonged retreat in broad market indexes.</span>"
-    ],
-    "cn": "数月来，华尔街投资者抱着冷漠与隐秘期待交织的心态关注着政治民调。许多人曾假定，民主党大获全胜（通常被称为“蓝色浪潮”）将主要带来财政刺激和基础设施投资。然而，随着单一政党控制华盛顿的现实前景日益临近，股市已开始退缩，因为人们日益意识到，进步派掌管全部权力可能会抑制硅谷最珍贵的增长引擎：人工智能。\n\n焦虑的直接来源在于监管理念。尽管市场参与者最初对针对国内芯片制造的专项补贴表示欢迎，但科技行业的高管们如今却对即将到来的严苛监管浪潮感到恐惧。外界普遍预计，统一的民主党政府将推动激进的反垄断执法、算法问责法以及对企业数据使用的严格安全防范措施。此类举措可能会显著放缓大规模生成式模型的快速部署。\n\n除了直接监管之外，财政政策对资本密集型科技公司构成了同样令人畏惧的障碍。建设耗电巨大的数据中心和采购顶尖的图形处理器需要天文数字般的资本支出。提高企业税率和对资本收益征收更高税款的提案将不可避免地压低利润率，并减少用于投机性研发的可用资本。投资者担心，现金储备减少将阻碍美国科技巨头在与国际对手的全球竞争中取得优势。\n\n资本市场已经通过大型科技股波动的加剧释放出不安信号。对冲基金和机构投资者已开始平仓人工智能领头羊公司的盈利头寸，将资金重新分配到医疗保健和日常消费品等防御性板块。分析师指出，尽管政府支出可能会支撑绿色能源，但半导体设计公司的巨额估值严重依赖于不受限制的技术发展势头。\n\n归根结底，市场对“蓝色浪潮”的突然反感凸显了公共政策与产业活力之间的微妙平衡。反垄断审查和监管摩擦可能旨在保护隐私和竞争，但在一个由投机势头推动的市场中，任何扼杀创新的政策都有可能引发大盘指数的长期回撤。",
-    "vocab": [
-      {
-        "w": "apathy",
-        "ipa": "/ˈæp.ə.θi/",
-        "pos": "n.",
-        "mean": "冷漠 / 不关心",
-        "def": "lack of interest, enthusiasm, or concern",
-        "ex": "Investor apathy vanished quickly when regulatory risks became clear."
-      },
-      {
-        "w": "recoil",
-        "ipa": "/rɪˈkɔɪl/",
-        "pos": "v.",
-        "mean": "退缩 / 畏缩",
-        "def": "to suddenly spring or shrink back in fear or disgust",
-        "ex": "Markets began to recoil from tech stocks following the regulatory announcement."
-      },
-      {
-        "w": "impending",
-        "ipa": "/ɪmˈpend.ɪŋ/",
-        "pos": "adj.",
-        "mean": "即将发生的 / 迫近的",
-        "def": "about to happen; looming",
-        "ex": "Executives prepared for the impending changes in environmental laws."
-      },
-      {
-        "w": "guardrails",
-        "ipa": "/ˈɡɑːd.reɪlz/",
-        "pos": "n.",
-        "mean": "安全防范措施 / 保护屏障",
-        "def": "measures or rules designed to prevent straying from a safe path",
-        "ex": "Policymakers want clear guardrails on how tech firms use personal data."
-      },
-      {
-        "w": "daunting",
-        "ipa": "/ˈdɔːn.tɪŋ/",
-        "pos": "adj.",
-        "mean": "令人畏惧的 / 艰巨的",
-        "def": "seeming difficult to deal with in prospect; intimidating",
-        "ex": "Building nationwide clean energy infrastructure presents a daunting financial challenge."
-      },
-      {
-        "w": "expenditure",
-        "ipa": "/ɪkˈspen.dɪ.tʃər/",
-        "pos": "n.",
-        "mean": "开支 / 支出",
-        "def": "the action of spending funds or the amount of money spent",
-        "ex": "Capital expenditure on cloud architecture reached unprecedented levels this quarter."
-      },
-      {
-        "w": "diminish",
-        "ipa": "/dɪˈmɪn.ɪʃ/",
-        "pos": "v.",
-        "mean": "减少 / 削弱",
-        "def": "to make or become less",
-        "ex": "Higher borrowing costs will inevitably diminish profit expectations for startups."
-      },
-      {
-        "w": "bellwethers",
-        "ipa": "/ˈbelˌweð.əz/",
-        "pos": "n.",
-        "mean": "领头羊 / 行业风向标",
-        "def": "leading indicators or companies that show the direction of a trend",
-        "ex": "Semiconductor bellwethers often lead the movement of the broader market index."
-      },
-      {
-        "w": "aversion",
-        "ipa": "/əˈvɜː.ʃən/",
-        "pos": "n.",
-        "mean": "厌恶 / 反感",
-        "def": "a strong feeling of dislike or opposition",
-        "ex": "The market's risk aversion drove capital out of speculative tech ventures."
-      },
-      {
-        "w": "stifles",
-        "ipa": "/ˈstaɪ.fəlz/",
-        "pos": "v.",
-        "mean": "压制 / 扼杀",
-        "def": "to restrain, suppress, or stop something from developing",
-        "ex": "Excessive bureaucracy stifles creativity and slows product innovation."
-      }
-    ],
-    "gems": [
-      {
-        "s": "Yet as the realistic prospect of single-party control over Washington looms closer, equity markets have begun to recoil, troubled by a growing realization that total power in progressive hands could chill Silicon Valley's most prized growth engine: artificial intelligence.",
-        "why": "This sentence uses strong figurative language ('looms closer', 'recoil', 'chill') to build suspense and convey market anxiety effectively. 句中使用了 looms closer、recoil 和 chill 等强有力的形象化词汇，有效地营造出紧张气氛并传达了市场的焦虑感。"
-      },
-      {
-        "s": "Antitrust scrutiny and regulatory friction may aim to protect privacy and competition, but in a market propelled by speculative momentum, any policy that stifles innovation risks triggering a prolonged retreat in broad market indexes.",
-        "why": "This compound sentence effectively contrasts regulatory intentions with market dynamics using a balanced structure. 这个复合句结构严谨，通过对比的手法巧妙地将监管意图与市场动态结合在一起。"
-      }
-    ]
   }
 }
