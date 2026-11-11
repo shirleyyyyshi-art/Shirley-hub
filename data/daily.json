@@ -1,65 +1,337 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T07:30:31.815183+00:00",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T06:48:02.127675+00:00",
   "economist": {
-    "headline": "The future of Trumponomics: compromise or failure",
-    "teaser": "How the art of the deal may yet prevail over the art of denial",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+    "headline": "Lessons from a miserable month for hedge funds",
+    "teaser": "The struggle to invest in anything other than AI",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
     "vocab": [
       {
-        "word": "compromise",
-        "phonetic": "/ˈkɒmpɹəˌmaɪz/",
-        "def": "The settlement of differences by arbitration or by consent reached by mutual concessions."
+        "word": "miserable",
+        "phonetic": "/ˈmɪz(ə)ɹəbəl/",
+        "def": "A miserable person; a wretch."
       },
       {
-        "word": "failure",
-        "phonetic": "/ˈfeɪl.jɚ/",
-        "def": "State or condition of not meeting a desirable or intended objective, opposite of success."
+        "word": "struggle",
+        "phonetic": "/ˈstrʌɡəl/",
+        "def": "A contortion of the body in an attempt to escape or to perform a difficult task."
       }
     ]
   },
   "st": {
-    "headline": "China’s trade surplus soars past US$1 trillion as AI boom powers exports",
-    "teaser": "China’s trade surplus tops US$1 trillion for a second consecutive year, reaching the milestone a month earlier than in 2025.",
-    "url": "https://www.straitstimes.com/business/chinas-trade-surplus-soars-past-us1-trillion-as-ai-boom-powers-exports",
+    "headline": "Asian stocks fluctuate as US rate worries temper tech bounce",
+    "teaser": "Confidence was lifted by data centre operator CoreWeave's earning report and Anthropic's filing.",
+    "url": "https://www.straitstimes.com/business/asian-stocks-fluctuate-as-us-rate-worries-temper-tech-bounce",
     "fullText": [
-      "BEIJING – China’s trade surplus surged past US$1 trillion (S$1.3 trillion) in the first 10 months as a global race to build artificial intelligence (AI) infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners.",
-      "The figures highlight Beijing’s growing reliance on overseas demand to support an economy hobbled by subdued consumption and a protracted property slump.",
-      "But while the global AI investment boom is expected to keep demand for Chinese technology products strong into 2027, it risks deepening domestic imbalances and fuelling trade frictions with partners including the European Union (EU).",
-      "Exports rose sharply by 35.2% in October from the same month in 2025 in US dollar terms, customs data showed on Nov 10, only a touch slower than the 36.3% surge in September, but ahead of economists’ forecast for an increase of 33.5%.",
-      "That helped lift China’s trade surplus to US$1.04 trillion in the first 10 months, topping US$1 trillion for a second consecutive year and reaching the milestone a month earlier than in 2025.",
-      "The swelling surplus could fuel further tensions with the EU, where leaders have called for more trade curbs with China after reaching an agreement with Beijing to limit Chinese exports of hybrid vehicles to the bloc over the next few years.",
-      "Because the measures have yet to take effect, factories are expected to bring forward shipments, bolstering exports in the near term.",
-      "China on Nov 9 officially announced the extension of a trade truce with Washington due to expire on Nov 10 by two months, but said last week that expanding its purchases of American farm goods would hinge on the implementation of their agreed reciprocal tariff-reduction arrangement.",
-      "“The risk of additional tariffs and other trade barriers will remain elevated in 2027, particularly as Chinese manufacturers continue expanding their presence in overseas markets,” said Joe Peissel, lead macroeconomist at Trivium China.",
-      "Imports grew 41.6%, beating the median forecast for a 32% increase in the Reuters poll and accelerating from the 31% growth in September.",
-      "China’s trade surplus with the US dipped slightly to US$32.71 billion in October from US$34.01 billion the previous month, but the larger gap remains a point of friction between the two economic superpowers.",
-      "Oil imports fell 13.3% from a year earlier, though shipments reached their highest level since March as buyers sought supplies after the US-Israeli war on Iran disrupted Middle East flows.",
-      "The trade data comes ahead of next week’s Asia-Pacific Economic Cooperation summit in Shenzhen, where Chinese President Xi Jinping and US President Donald Trump are expected to meet for the third time in 2026, putting trade frictions and tariff policy squarely in focus .",
-      "Following a September summit between Xi and Trump in Washington, the two sides proposed a US$60 billion package of reciprocal tariff cuts, including roughly US$17 billion worth of US farm goods.",
-      "One big worry for Beijing is that consumers remain reluctant to spend, constrained by a property market downturn that has battered household wealth and dented confidence in the economic outlook.",
-      "Sluggish demand at home has pushed Chinese carmakers to seek sales in overseas markets. China’s car exports maintained a solid pace of growth in October, while domestic vehicle sales recorded a 12th straight month of declines, separate data released by an industry association showed.",
-      "Greater reliance on exports, however, leaves China’s economy increasingly exposed to any slowdown in global demand.",
-      "Much of the strength in exports in 2026 has been fuelled by a global push to expand AI infrastructure.",
-      "“The outlook for exports depends on how long the AI boom will last,” Macquarie analysts wrote. They expect China’s exports to accelerate further in the fourth quarter before starting to slow from the first quarter of 2027. REUTERS"
+      "HONG KONG – Asian stocks diverged on Nov 11 as renewed optimism over the AI trade was offset by forecast-topping US inflation data and the prospect of a bumper interest rate hike in December .",
+      "After last week’s rout fuelled by fears that Democrats would ramp up regulation of artificial intelligence , beaten-down tech stocks have bounced this week on bargain buying and a feeling their fears may have been overdone.",
+      "Sentiment was also given a boost by earnings from data centre operator CoreWeave, which said sales would come in at US$13 billion ( S$16.66 billion ) to US$13.3 billion in 2026 , beating estimates.",
+      "The news soothed worries about the company’s health after suffering heavy selling in October amid speculation that it could struggle to finance its vast debt pile as borrowing costs continued to rise.",
+      "That sparked a period of panic over the tech sector as firms rely heavily on debt to fund their eye-watering AI investments.",
+      "Also lifting confidence was Anthropic’s filing showing it planned to raise up to US$64 billion in its upcoming initial public offering , valuing it at as much as US$1.4 trillion.",
+      "The maker of AI agent Claude had been expected to raise up to US$100 billion in its IPO, which would have made it the largest IPO on record.",
+      "The stock market debut is being seen as a gauge of how long the AI spending boom can last.",
+      "Its filing also revealed that revenue soared to US$17 billion in the third quarter, up from just US$1.4 billion in 2025 .",
+      "And in another sign of the sector’s health, Bloomberg reported that ChatGPT-maker OpenAI had earned US$10 billion in quarterly revenue for the first time in July-September, thanks to demand for its software.",
+      "The figure marked an increase of nearly 50% from the previous three months and a near threefold jump year-on-year.",
+      "However, chip giant Nvidia was still in focus following the bombshell revelation of an affair between chief executive officer Jensen Huang and a woman reportedly suspected of being a Chinese spy.",
+      "The firm is now the subject of a Federal Bureau of Investigation probe .",
+      "All three main indexes on Wall Street ended in the red on Nov 10 , snapping a two-day rally, and Asia stuttered.",
+      "Tokyo, Seoul and Taipei – where most of Asia’s leading AI-linked firms are listed – continued to rise, with Singapore and Jakarta also up.",
+      "But there were losses in Hong Kong, Shanghai, Sydney, Wellington and Manila.",
+      "Traders are also now fretting over the possibility of a bigger-than-expected rate hike by the Federal Reserve when it next meets in December.",
+      "US consumer prices rose 0.4% on-month in October, a slowdown from September’s 0.6% but more than the 0.3% forecast.",
+      "While the reading reflected a significant moderation in energy price increases, food prices shot higher with medical care, household furnishings and several other categories.",
+      "Chicago Fed boss Austan Goolsbee told PBS Newshour the reading was “another distressing report, borderline disturbing”.",
+      "The report came hours after Fed governor Christopher Waller called for a swift response to inflation, suggesting he could even support a 50-basis-point hike in December.",
+      "A second Fed official, Dallas Fed president Lorie Logan, also signalled strong support for swift action to address inflation.",
+      "“Market participants continue to navigate the political implications of the Democratic swee p a nd the economics of AI infrastructure,” said Chris Weston at Pepperstone .",
+      "He said investors were “forced to reassess assumptions around future revenues, cash flows and funding conditions”.",
+      "“Add a hotter-than-expected US (consumer price) print, a heightened focus on Anthropic’s IP O and a major buyers’ strike on Nvidia, and there’s no shortage of catalysts driving market price action,” he added.",
+      "Oil prices edged up after sinking again on Nov 10 in the hope of a US-Iran agreement to end their war and reopen the crucial Strait of Hormuz.",
+      "International benchmark Brent was hovering around US$92 a barrel, after dropping below US$90 for the first time since August. Both contracts are down around 20% since the start of the month.",
+      "In company news, Japanese tech investment giant SoftBank tumbled as much as 8% in Tokyo after reporting a more than US$7 billion loss in the fiscal second quarter. AFP"
     ]
   },
   "cna": {
-    "headline": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand",
-    "teaser": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand",
-    "url": "https://www.channelnewsasia.com/business/chipmaker-infineon-forecasts-strong-2027-growth-data-centre-demand-6538616",
+    "headline": "Tampines Mall gets S$24 million revamp with 21 new brands",
+    "teaser": "The 31-year-old mall will complete its upgrading works in December, adding 21 brands new to the mall, including 15 making their debut in the east.",
+    "url": "https://www.channelnewsasia.com/living/tampines-mall-24-million-upgrade-21-new-brands-6541736",
     "fullText": [
-      "BERLIN, Nov 10 : Infineon on Tuesday forecast 2027 revenue growth of more than 20 per cent and an increase of about 5 per centage points in profitability, driven by demand from data centres, power infrastructure and software-defined vehicles.",
-      "• The German chipmaker reported fourth-quarter revenue of €4.706 billion ($5.28 billion) and a segment result of €1.119 billion, yielding a segment margin of 23.8 per cent. For the full fiscal year, revenue rose 12 per cent to €16.353 billion, while adjusted free cash flow reached €1.925 billion",
-      "• CEO Jochen Hanebeck said the company was entering the new fiscal year with \"continued strong momentum\", supported by an ongoing cyclical recovery and demand in structural growth markets",
-      "• For 2027, Infineon forecasts revenue of around €20 billion, including close to €4 billion from data-centre power supplies",
-      "• The company also plans to propose raising its dividend to €0.38 per share from €0.35",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "Tampines Mall's S$24 million (US$18.7 million) makeover is concluding, with more beauty stores, dining options and upgraded facilities as part of a revamp set to be completed in December 2026.",
+      "The 31-year-old CapitaLand-managed shopping centre, which first opened in 1995, will welcome 21 brands new to the mall, including 15 making their debut in eastern Singapore. Ten returning brands have also refreshed their stores.",
+      "One of the biggest changes is the mall's growing focus on beauty, with a cluster of 14 retailers that CapitaLand says is the largest in the east.",
+      "Shoppers can expect a mix of beauty brand names such as Sephora and Shiseido, alongside newer additions including Judydoll and Rituals.",
+      "Some luxury brands that previously operated through store concessions, including Chanel and Dior, now also have standalone boutiques.",
+      "There are also more places to eat, with several restaurants and cafes opening their first outlets in the east. These include Italian restaurant Casa Vostra, Hong Kong's Ging Sun Ho King of Bun, known for its pan-fried pork soup buns, and Charlie's Tea, a Guangzhou milk tea brand making its Singapore debut.",
+      "Other additions include Thai-Malay restaurant IM QALB by Pun Im, which has introduced a Tampines Mall-exclusive menu, and Guangzhou dessert cafe Ruxu.",
+      "For sports enthusiasts, a larger Decathlon is returning to Tampines Mall with an 18,000 sq ft store carrying more than 6,000 products across over 60 sports. Visitors can also try selected equipment before buying, while services include basic bicycle maintenance and racket restringing.",
+      "The revamp extends beyond the stores, with upgraded common areas and facilities. The mall's refreshed interiors also incorporate its familiar Tampines tree motif.",
+      "Tampines Mall general manager Adrian Lai said the changes are intended to give shoppers more choices while continuing to serve the community.",
+      "The eight-storey mall, located next to Tampines MRT and bus interchanges, currently houses more than 160 stores.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
     "headline": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "teaser": "MOM Investigating Companies Involved in Airport Operations for Suspected Work Pass Offences",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1102-mom-investigating-companies-involved-in-airport-operations-for-suspected-work-pass-offences"
+  },
+  "lifeVocab": [
+    {
+      "en": "consultation fee",
+      "cn": "诊察费",
+      "def": "the money paid to a medical professional for a medical examination",
+      "ex": "The general practitioner charged a modest consultation fee for the routine check-up.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "MC (Medical Certificate)",
+      "cn": "病假条",
+      "def": "an official note from a doctor stating that a patient is unfit for work or school",
+      "ex": "The doctor issued an MC for two days so he could rest at home.",
+      "emoji": "📄"
+    },
+    {
+      "en": "referral letter",
+      "cn": "转诊信",
+      "def": "an official letter from a primary doctor directing a patient to see a specialist",
+      "ex": "She requested a referral letter to visit a cardiologist at Singapore General Hospital.",
+      "emoji": "✉️"
+    },
+    {
+      "en": "over-the-counter",
+      "cn": "非处方药",
+      "def": "medicines sold directly to consumers without requiring a doctor's prescription",
+      "ex": "You can buy pain relievers over-the-counter at any local pharmacy.",
+      "emoji": "💊"
+    },
+    {
+      "en": "subsidy",
+      "cn": "津贴 / 补贴",
+      "def": "money granted by the government to help reduce the cost of healthcare services",
+      "ex": "Pioneer Generation citizens receive a higher healthcare subsidy at polyclinics.",
+      "emoji": "💰"
+    },
+    {
+      "en": "symptom",
+      "cn": "症状",
+      "def": "a physical or mental sign indicating a condition or illness",
+      "ex": "A high fever and persistent cough are common symptoms of the flu.",
+      "emoji": "🤒"
+    },
+    {
+      "en": "chronic",
+      "cn": "慢性疾病",
+      "def": "persisting for a long time or constantly recurring",
+      "ex": "The neighborhood clinic specializes in managing chronic conditions like hypertension.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "dispensing",
+      "cn": "配药 / 发药",
+      "def": "the process of preparing and giving out medicine to patients",
+      "ex": "The pharmacist carefully checked the dosage before dispensing the medicine.",
+      "emoji": "💊"
+    },
+    {
+      "en": "triage",
+      "cn": "分诊 / 初步评估",
+      "def": "the assignment of urgency to decide the order of treatment for patients",
+      "ex": "Patients undergo quick triage upon arriving at the emergency room.",
+      "emoji": "🏥"
+    },
+    {
+      "en": "follow-up",
+      "cn": "复诊",
+      "def": "a medical appointment to check the progress of a patient after initial treatment",
+      "ex": "The doctor scheduled a follow-up appointment for next month to check her recovery.",
+      "emoji": "📅"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "stipulate",
+      "ipa": "/ˈstɪp.jə.leɪt/",
+      "pos": "v.",
+      "cn": "规定 / 约定",
+      "def": "specify a requirement as part of an agreement or contract",
+      "ex": "The vendor agreement stipulates that deliverables must be submitted every Friday."
+    },
+    {
+      "w": "impediment",
+      "ipa": "/ɪmˈped.ə.mənt/",
+      "pos": "n.",
+      "cn": "阻碍 / 障碍",
+      "def": "a hindrance or obstruction in doing something",
+      "ex": "Regulatory hurdles proved to be a major impediment to the company's regional expansion."
+    },
+    {
+      "w": "alleviate",
+      "ipa": "/əˈliː.vi.eɪt/",
+      "pos": "v.",
+      "cn": "缓解 / 减轻",
+      "def": "make suffering, deficiency, or a problem less severe",
+      "ex": "Management introduced flexible hours to alleviate burnout among operational staff."
+    },
+    {
+      "w": "volatile",
+      "ipa": "/ˈvɒl.ə.taɪl/",
+      "pos": "adj.",
+      "cn": "动荡不安的 / 易激变的",
+      "def": "liable to change rapidly and unpredictably, especially for the worse",
+      "ex": "Investors remained cautious due to volatile foreign exchange market conditions."
+    },
+    {
+      "w": "benchmark",
+      "ipa": "/ˈbentʃ.mɑːk/",
+      "pos": "n.",
+      "cn": "基准 / 参照标准",
+      "def": "a standard or point of reference against which things may be evaluated",
+      "ex": "Our customer satisfaction score serves as a benchmark for regional offices."
+    },
+    {
+      "w": "iterate",
+      "ipa": "/ˈɪt.ər.eɪt/",
+      "pos": "v.",
+      "cn": "迭代 / 重复",
+      "def": "perform or utter again, especially to refine a product or process",
+      "ex": "The product team decided to iterate on the user interface after receiving early feedback."
+    },
+    {
+      "w": "facilitate",
+      "ipa": "/fəˈsɪl.ɪ.teɪt/",
+      "pos": "v.",
+      "cn": "促进 / 使便利",
+      "def": "make an action or process easy or easier",
+      "ex": "The project lead organised daily stand-ups to facilitate smooth cross-team collaboration."
+    },
+    {
+      "w": "retain",
+      "ipa": "/rɪˈteɪn/",
+      "pos": "v.",
+      "cn": "保留 / 留住",
+      "def": "continue to have something; keep possession of",
+      "ex": "The firm introduced competitive bonuses to retain key engineering talent."
+    },
+    {
+      "w": "align",
+      "ipa": "/əˈlaɪn/",
+      "pos": "v.",
+      "cn": "对齐 / 保持一致",
+      "def": "place or arrange in agreement with a particular policy or goal",
+      "ex": "We need to align our department targets with the overarching business strategy."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案 / 突发事件",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "The enterprise budget includes a reserve fund for any unforeseen operational contingency."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore's Green Economy Push in Changi",
+    "transcript": "Singapore is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈsel.ə.reɪ.tɪŋ/ (v.) speeding up or moving faster — 加速\">accelerating</span> its transition towards sustainable aviation by expanding its use of eco-friendly fuels. Changi Airport Group announced today that all departing flights will gradually <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪnˈkɔː.pər.eɪt/ (v.) include something as part of a whole — 纳入/包含\">incorporate</span> sustainable aviation fuel over the coming decade. Officials hope this step will maintain the city-state's position as a regional hub while reducing carbon emissions. Industry experts believe the initiative could set a <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpres.ɪ.dənt/ (n.) an earlier event that serves as an example or guide — 先例\">precedent</span> for air travel across Asia."
+  },
+  "economistArticle": {
+    "title": "Lessons from a miserable month for hedge funds",
+    "paras": [
+      "For global hedge fund managers, recent weeks have brought a stark dose of reality. As capital flows relentlessly into artificial intelligence giants, fund managers attempting to diversify into conventional equities, commodities, and emerging markets have suffered <span class=\"voc\">dismal</span> returns. What was intended as <span class=\"voc\">prudent</span> risk management has instead yielded painful underperformance.",
+      "The concentration of market gains in a handful of technology behemoths has created an <span class=\"voc\">acute</span> dilemma. Quantitative funds relying on historical statistical arbitrage found their predictive models upended by single-track sentiment. Meanwhile, fundamental stock-pickers who strayed from the narrow path of silicon-chip makers saw their portfolios falter as broader economic indicators flashed mixed signals.",
+      "This narrow breadth of market participation poses structural challenges for alternative investment firms. Clients pay lavish management fees expecting uncorrelated returns, yet the current landscape penalizes almost every strategy that eschews the dominant narrative. <span class=\"gem\">Attempting to hedge against an AI pullback has proven exceedingly costly, as momentum continues to override traditional valuations.</span>",
+      "Ultimately, the month's <span class=\"voc\">ordeal</span> underscores the peril of fighting strong <span class=\"voc\">secular</span> trends in liquidity-starved markets. Fund managers must now reconcile their <span class=\"voc\">fiduciary</span> duties with an unforgiving financial reality: in a regime dominated by single-theme <span class=\"voc\">euphoria</span>, conventional wisdom can temporarily become a severe liability."
+    ],
+    "cn": "对于全球对冲基金经理而言，最近几周带来了残酷的现实教训。随着资金源源不断地流向人工智能巨头，试图多元化投资于传统股票、大宗商品和新兴市场的基金经理遭受了惨淡的回报。原本旨在实施审慎风险管理的策略，反而导致了痛苦的业绩落后。\n\n市场收益集中于少数科技巨头，这造成了严峻的困境。依赖历史统计套利的量化基金发现，其预测模型被单向的主导情绪所打破。与此同时，偏离芯片制造领域这一狭窄路径的基本面选股者则发现，随着更广泛的经济指标释放出矛盾信号，其投资组合陷入困顿。\n\n这种狭窄的市场参与度对替代投资机构构成了结构性挑战。客户支付高昂的管理费是希望获得非相关性的回报，但当下的市场环境几乎惩罚了所有避开这一主导叙事的策略。事实证明，试图针对人工智能回调进行套期保值的成本极其高昂，因为动能持续压倒了传统估值。\n\n归根结底，这个月的惨痛经历凸显了在流动性匮乏的市场中违背强劲长期趋势的危险。基金经理现在必须调和其受托责任与残酷的财务现实：在一个由单一主题狂热主导的机制中，传统智慧暂时可能成为沉重的负担。",
+    "vocab": [
+      {
+        "w": "dismal",
+        "ipa": "/ˈdɪz.məl/",
+        "pos": "adj.",
+        "mean": "惨淡的 / 糟透的",
+        "def": "gloomy, depressing, or remarkably bad",
+        "ex": "Fund managers suffered dismal returns after diversifying away from the main tech sector."
+      },
+      {
+        "w": "prudent",
+        "ipa": "/ˈpruː.dənt/",
+        "pos": "adj.",
+        "mean": "审慎的 / 谨慎的",
+        "def": "acting with or showing care and thought for the future",
+        "ex": "What was intended as prudent risk management instead led to portfolio underperformance."
+      },
+      {
+        "w": "behemoth",
+        "ipa": "/bɪˈhiː.məθ/",
+        "pos": "n.",
+        "mean": "巨头 / 庞然大物",
+        "def": "a huge or extremely powerful organization or entity",
+        "ex": "Capital concentrated heavily in a small group of technology behemoths."
+      },
+      {
+        "w": "acute",
+        "ipa": "/əˈkjuːt/",
+        "pos": "adj.",
+        "mean": "严峻的 / 剧烈的",
+        "def": "intense, severe, or critical",
+        "ex": "The extreme market concentration has created an acute dilemma for investment managers."
+      },
+      {
+        "w": "upend",
+        "ipa": "/ʌpˈend/",
+        "pos": "v.",
+        "mean": "颠覆 / 倒立",
+        "def": "turn upside down or disrupt completely",
+        "ex": "Unpredictable market movements upended their quantitative trading models."
+      },
+      {
+        "w": "eschew",
+        "ipa": "/ɪsˈtʃuː/",
+        "pos": "v.",
+        "mean": "避开 / 放弃",
+        "def": "deliberately avoid using or abstain from",
+        "ex": "Strategies that eschew the dominant AI narrative have faced steep losses."
+      },
+      {
+        "w": "ordeal",
+        "ipa": "/ɔːˈdiːl/",
+        "pos": "n.",
+        "mean": "严酷考验 / 惨痛经历",
+        "def": "a very painful, severe, or difficult experience",
+        "ex": "The month's financial ordeal exposed structural vulnerabilities in modern portfolio construction."
+      },
+      {
+        "w": "secular",
+        "ipa": "/ˈsek.jə.lər/",
+        "pos": "adj.",
+        "mean": "长期的 / 持续的 (金融术语)",
+        "def": "continuing or persisting over a long period of time in financial markets",
+        "ex": "Fighting strong secular trends in illiquid markets often results in significant losses."
+      },
+      {
+        "w": "fiduciary",
+        "ipa": "/fɪˈdjuː.ʃər.i/",
+        "pos": "adj.",
+        "mean": "受托的 / 信托的",
+        "def": "involving trust, especially with regard to financial relationships",
+        "ex": "Asset managers must balance their fiduciary duties with harsh market conditions."
+      },
+      {
+        "w": "euphoria",
+        "ipa": "/juːˈfɔː.ri.ə/",
+        "pos": "n.",
+        "mean": "狂热 / 极度兴奋",
+        "def": "a state of intense excitement and optimism",
+        "ex": "Single-theme euphoria swept through equity markets, overriding standard valuation metrics."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Attempting to hedge against an AI pullback has proven exceedingly costly, as momentum continues to override traditional valuations.",
+        "why": "This sentence uses a clear cause-and-effect structure with 'as' to contrast market momentum against valuation rules, creating a persuasive economic analysis. 该句利用“as”引导的原因状语从句，对比了市场动能与传统估值指标，使金融视点的论证简洁且富有说服力。"
+      }
+    ]
   }
 }
