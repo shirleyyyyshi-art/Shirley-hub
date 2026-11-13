@@ -1,337 +1,81 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T07:25:45.619223+00:00",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T06:57:33.730232+00:00",
   "economist": {
-    "headline": "Lessons from a miserable month for hedge funds",
-    "teaser": "The struggle to invest in anything other than AI",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+    "headline": "Where to find the anti-AI trade",
+    "teaser": "The worse chipmakers do, the better Indian equities perform",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
     "vocab": [
       {
-        "word": "lessons",
-        "phonetic": "/ˈlɛsn̩z/",
-        "def": "A section of learning or teaching into which a wider learning content is divided."
+        "word": "chipmakers",
+        "phonetic": "",
+        "def": "A company that manufactures integrated circuit chips."
       },
       {
-        "word": "miserable",
-        "phonetic": "/ˈmɪz(ə)ɹəbəl/",
-        "def": "A miserable person; a wretch."
+        "word": "equities",
+        "phonetic": "",
+        "def": "Fairness, impartiality, or justice as determined in light of \"natural law\" or \"natural right\"."
       }
     ]
   },
   "st": {
-    "headline": "Rupiah’s drop to record low spurs Bank Indonesia intervention",
-    "teaser": "The rupiah has come under renewed pressure as the dollar strengthened overnight.",
-    "url": "https://www.straitstimes.com/business/indonesia-rupiah-drops-to-record-low-on-strong-us-dollar-msci-woes",
+    "headline": "Haze-linked First Resources, Bumitama post higher profits for Q3",
+    "teaser": "Both First Resources and Bumitama reiterated their commitment to upholding a zero-burning policy",
+    "url": "https://www.straitstimes.com/business/haze-linked-first-resources-bumitama-post-higher-profits-for-q3",
     "fullText": [
-      "JAKARTA – The Indonesian rupiah fell to an all-time low, adding pressure on authorities to contain a recent sell-off that also hit the nation’s stocks and bonds.",
-      "The central bank said it is intervening in the offshore non-deliverable forwards, domestic non-deliverable forwards and spot markets, as well as via government bond purchases in the secondary market to stabilise the rupiah, Asia’s worst-performing currency in 2026.",
-      "“Bank Indonesia remains present in the market to maintain the stability of the rupiah exchange rate, ensuring it aligns with its fundamental value,” the central bank’s executive director of Monetary and Securities Management Erwin Hutapea said in a statement on Nov 12.",
-      "The rupiah weakened as much as 0.5% to 18,241 per US dollar on Nov 12, falling past the previous record low of 18,190 seen in early June. The 10-year bond yield climbed four basis points to 7.66%.",
-      "The rupiah has come under renewed pressure as the dollar strengthened overnight on expectations that the Federal Reserve would resume raising interest rates in December. Investor sentiment remains fragile after MSCI in October unveiled a proposal to reclassify Indonesia as a standalone market, compounding a host of concerns already weighing on Indonesian assets, including political uncertainty.",
-      "“The rupiah continues to face relatively poor investor sentiment due to the confluence of unfavourable news headlines and the shift in the outlook for the US inflation and Fed policy,” said Homin Lee, senior macro strategist at Lombard Odier in Singapore.",
-      "“MSCI reclassification risk and Bank Indonesia’s relatively slow tightening cycle are also deterring value-seeking investors for the rupiah,” he added.",
-      "The rupiah has weakened more than 8% against the US dollar in 2026. Bank Indonesia has said it remains vigilant about market developments and is monitoring capital outflows following the MSCI announcement.",
-      "Local regulators have stepped up efforts to improve the equity market’s transparency and surveillance to avert MSCI’s double-downgrade threat, with the decision to be announced by the end of June.",
-      "They fined companies and individuals involved in stock manipulations, excluded tightly held shares from the benchmark index and enhanced shareholders’ affiliation information.",
-      "Goldman Sachs Group estimated about US$5.6 billion (S$7.2 billion) of passive outflows in the event the country’s stocks are removed from MSCI’s indexes.",
-      "The rupiah was also weighed down by a stronger dollar, which climbed to an 18-month high on Nov 11 as traders began pricing in a small chance of a half-point Federal Reserve rate hike in December following hawkish comments from officials and hotter-than-expected inflation data.",
-      "Meanwhile, renewed concerns over political uncertainty are also hurting markets after Vice-President Gibran Rakabuming Raka’s resignation.",
-      "Gibran, the son of former President Joko Widodo, had faced growing calls from politicians for his impeachment over questions about his educational credentials.",
-      "“The optics around the resignation are negative, the politics remain messy and investor sentiment is still fragile,” though there should be little fundamental spillover from this, said Galvin Chia, an emerging Asia strategist at Societe Generale. BLOOMBERG"
+      "SINGAPORE – Two palm oil companies linked to the transboundary haze in October reported higher profits for the third quarter ended Sept 30, in separate business updates published on the morning of Nov 13.",
+      "Palm oil producer First Resources posted a 40.1% rise in its underlying net profit to US$122.7 million (S$158 million) for the third quarter of 2026, from US$87.5 million in the year-ago period.",
+      "The increase was boosted by higher sales of palm oil products and fruit bunches harvested from oil palms, it said.",
+      "Sales were up 24.9% at US$578.6 million for the quarter, compared with US$463.3 million in the third quarter of 2025.",
+      "Earnings before interest, taxes, depreciation and amortisation rose 26.6% to US$207.4 million in the third quarter of 2026, up from US$163.8 million a year ago.",
+      "For the nine months ended Sept 30, sales grew 36.5% year on year to US$1.6 billion, driven by higher sales volumes.",
+      "A net inventory drawdown of 28,000 tonnes over the nine-month period, compared with a build-up of 80,000 tonnes in the corresponding period in 2025, also supported higher sales volumes.",
+      "The group’s stronger production output in the first nine months of 2026 was also attributable in part to the full nine-month contribution from Austindo Nusantara Jaya, an Indonesian agribusiness company acquired in May 2025.",
+      "However, profits were partially offset by foreign currency translation losses resulting from the depreciation of the Indonesian rupiah against the US dollar.",
+      "The group said it expects demand for palm oil to remain supported by Indonesia’s biodiesel programme.",
+      "In addition, elevated crude oil prices arising from geopolitical tensions in the Middle East are expected to support biodiesel economics and crude palm oil demand.",
+      "Meanwhile, Bumitama reported a 1.9% increase in its net profit to 614.1 billion rupiah (S$43 million) for the quarter ended Sept 30, compared with 602.9 billion rupiah in the previous corresponding period.",
+      "For the nine-month period, net profit rose 30.6% to 2.4 trillion rupiah, up from 1.9 trillion rupiah in the year-ago period.",
+      "Revenue increased 9.7% to 4.2 trillion rupiah in the third quarter, up from 3.9 trillion rupiah a year ago. For the nine-month period, revenue was up 20% at 16.3 trillion rupiah.",
+      "Bumitama said its performance was supported by productivity improvements in its plantations and mills, particularly during the earlier part of the quarter.",
+      "In July, internal production of fresh fruit bunches reached 383,203 tonnes, accounting for almost 40% of the quarter’s production.",
+      "Quarterly production of crude palm oil increased 14% year on year to 368,323 tonnes.",
+      "However, exceptionally dry weather conditions in its Kalimantan estates during the third quarter put additional pressure on logistics infrastructure and disrupted shipments, said Bumitama.",
+      "Consequently, third-quarter revenue declined compared with the second quarter.",
+      "The prolonged dry season also heightened the risk of land and forest fires across parts of Kalimantan.",
+      "Fires affected certain areas within or adjoining the group’s concessions, including community-managed, conservation and unplanted land, the group noted.",
+      "Bumitama said that elevated energy prices and Indonesia’s biodiesel programme coupled with a relatively constrained palm oil supply growth could provide a “supportive backdrop” for palm oil fundamentals heading into 2027.",
+      "However, market conditions remain subject to uncertainty. These include changes in global energy prices, supply-and-demand dynamics, and the potential effects of prolonged dry weather on future production, it added.",
+      "Both First Resources and Bumitama reiterated their commitment to upholding a zero-burning policy, and cooperating with the Indonesian and Singapore authorities in relation to the haze.",
+      "Shares of First Resources closed flat at $2.79 and those of Bumitama closed flat at $1.39 on Nov 12, before the updates. THE BUSINESS TIMES"
     ]
   },
   "cna": {
-    "headline": "Dakar Youth Games test waters for Russia's comeback",
-    "teaser": "Dakar Youth Games test waters for Russia's comeback",
-    "url": "https://www.channelnewsasia.com/sport/dakar-youth-games-test-waters-russias-comeback-6545306",
+    "headline": "Burberry defies luxury downturn as trench coats and scarves power revival",
+    "teaser": "Fashion group’s sales continue to rise in China and US as strategy of refocusing on core products pays off.",
+    "url": "https://www.channelnewsasia.com/obsessions/burberry-defies-luxury-downturn-trench-coats-and-scarves-power-revival-6548776",
     "fullText": [
-      "DAKAR, Nov 12 : Russia's national anthem played during the medal ceremony on the first day of the Youth Olympics at a pool in Senegal's capital Dakar, a small but symbolic victory in Moscow's quest to return to the international sporting stage.",
-      "The International Olympic Committee (IOC) suspended the Russian Olympic Committee (ROC) in 2023 after the ROC recognised regional Olympic councils in Russian-occupied parts of Ukraine.",
-      "Two years later, however, the IOC said youth athletes should not be held accountable for the actions of their governments, urging federations to readmit Russian youth athletes to international events without any restrictions.",
-      "The fruits of that guidance have been on display during the Games in Dakar, with 13 Russian athletes competing in nine events, including swimming, judo and skateboarding.",
-      "\"Of course, I was happy, how could I not be? I was proud of myself and of my country,\" the teenager told Reuters last week before winning another gold in the women's 50-metre butterfly.",
-      "Not everyone in the audience was pleased, however. One spectator refused to stand for the Russian anthem.",
-      "\"Europeans, and in particular the European Union, are fiercely opposed to this return,\" Jean-Baptiste Guegan, a French expert on the geopolitics of sport, told Reuters.",
-      "National federations in countries including Norway, Denmark and Sweden have said their teams will not play against Russia in international competitions.",
-      "The Russian government sees Russians' participation as a political victory.",
-      "In a post on Telegram last month, Sports Minister Mikhail Degtyarev called the Olympics in Senegal \"an important step towards the full return of all Russian sport to the international stage without any restrictions\".",
-      "Russian athletes competed as neutrals at the 2024 Paris Olympics and the 2026 Milano Cortina Winter Games.",
-      "The IOC provisionally lifted its ban on the ROC in July in a further step towards Russia's return to international sport.",
-      "But it still needs to decide whether Russia can display its flag and colours and have its anthem played at the Los Angeles 2028 Games.",
-      "Sanctions-hit Moscow is trying to convince each international sports federation to allow its athletes to compete. Federations for sports including aquatics and judo have moved to loosen or remove restrictions on Russian athletes, while athletics still bans them from participating.",
-      "In Senegal, as in other African countries, many people have a more favourable view of Russia than in the West. Among young Africans who describe Russia as an influential country, 83 per cent say that influence is positive, according to a survey released in July by the Johannesburg-based Ichikowitz Family Foundation.",
-      "This has reduced the likelihood of organised political opposition or public criticism, according to Spencer Harris, professor of sport governance and sport policy at the University of Colorado, Colorado Springs.",
-      "The Youth Olympic Games also receive little global attention compared to the other Olympic competitions, he said.",
-      "The Dakar Games have given officials within the IOC and beyond an opportunity to test public reactions to a potential change in status for Russian athletes.",
-      "\"Many of these leaders appear interested in finding pathways for Russian athletes to gradually return to international competition, while still balancing the political and legal complexities surrounding Russia's invasion of Ukraine,\" Harris told Reuters.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "Buoyant demand for Burberry’s scarves and trench coats helped the UK’s leading luxury brand sustain its rebound in sales, bucking a trend of worsening performance across the industry.",
+      "The FTSE 100 company’s comparable sales rose 4 per cent in the three months to September 26, ahead of analysts’ expectations, outperforming larger rivals such as LVMH and Gucci owner Kering. Burberry’s adjusted operating profit rose to £62 million (US$82.01 million; S$105.53 million) in the first half of the year, above forecasts of £44 million.",
+      "The luxury industry’s downturn has been driven primarily by weaker sales in China, an engine of growth for decades. Burberry, however, reported a 5 per cent rise in comparable sales in the country during the second quarter after delivering 9 per cent growth in the previous quarter.",
+      "Chief executive Joshua Schulman said: “Luxury customers around the world, but particularly in China, are experiencing some fatigue with exorbitant pricing, and in this context our strategy of having enduring value and providing great value for money is resonating strongly with the Chinese customers.”",
+      "Bernstein analyst Luca Solca noted that Burberry’s overall growth was “almost as good as Hermes and 9 percentage points better than LVMH’s fashion and leather goods division in the same quarter”.",
+      "The company’s strongest region was the Americas, predominantly the US, where sales rose 11 per cent in the second quarter. Burberry’s shares rose 7 per cent in morning trading on Thursday.",
+      "The results are a boost to Schulman, who was appointed in 2024 to lead a turnaround of the UK’s pre-eminent luxury brand after it made an ill-timed push upmarket just as demand for luxury goods began to wilt.",
+      "Schulman said on Thursday that Burberry’s ability to outperform the luxury market gave him “increasing confidence” that his revival plan was “the right path”.",
+      "Burberry has enlisted British celebrities such as actors Pierce Brosnan and Fiona Shaw for campaigns promoting the brand’s renewed focus on its signature products such as trench coats and scarves. The brand has also focused on providing more affordable products at a time when “aspirational” luxury consumers are less willing to spend.",
+      "Last year, it announced a major restructuring plan to cut almost a fifth of its workforce to help save £100 million in annual costs by early next year.",
+      "The company counts Mike Ashley’s Frasers Group as an investor. The high street tycoon told the FT this summer that he was driven to invest in Burberry — which is stocked in Frasers’ Flannels chain — because of a belief in Schulman’s turnaround.",
+      "Burberry investor Kernow Asset Management said its turnaround was “progressing well, outperforming its peers this year and delivering a fifth consecutive quarter of growth”. They added that the next phase of its revival was “taking shape” as the fashion brand prepares to update investors on its strategy in March.",
+      "By Laura Onita © 2026 The Financial Times.",
+      "This article originally appeared in The Financial Times.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
     "headline": "Former Site Manager Convicted and Imprisoned for Demanding Kickbacks from Migrant Workers",
     "teaser": "Former Site Manager Convicted and Imprisoned for Demanding Kickbacks from Migrant Workers",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1111-former-site-manager-convicted-and-imprisoned-for-demanding-kickbacks-from-migrant-workers"
-  },
-  "lifeVocab": [
-    {
-      "en": "take a queue number",
-      "cn": "取预约/排队号",
-      "def": "to obtain a numbered ticket to wait for your turn at a service counter",
-      "ex": "Upon entering the polyclinic, remember to take a queue number at the kiosk.",
-      "emoji": "🎫"
-    },
-    {
-      "en": "triage desk",
-      "cn": "预检分诊台",
-      "def": "a counter where medical staff assess patients' urgency of care before treatment",
-      "ex": "The nurse at the triage desk took my temperature and checked my blood pressure.",
-      "emoji": "🩺"
-    },
-    {
-      "en": "consultation room",
-      "cn": "诊室",
-      "def": "a private room where a doctor examines and talks to a patient",
-      "ex": "Please wait outside consultation room 5 until your number is called.",
-      "emoji": "🚪"
-    },
-    {
-      "en": "subsidised medication",
-      "cn": "津贴药物",
-      "def": "medicines sold at a lower cost because of government financial support",
-      "ex": "Singapore citizens enjoy subsidised medication at government polyclinics.",
-      "emoji": "💊"
-    },
-    {
-      "en": "chronic disease",
-      "cn": "慢性疾病",
-      "def": "a long-lasting medical condition that requires ongoing management",
-      "ex": "Regular check-ups help patients manage chronic disease like diabetes effectively.",
-      "emoji": "📊"
-    },
-    {
-      "en": "follow-up appointment",
-      "cn": "复诊预约",
-      "def": "a scheduled medical visit to monitor a patient's progress after treatment",
-      "ex": "The doctor booked a follow-up appointment for me in three months.",
-      "emoji": "📅"
-    },
-    {
-      "en": "dispensary",
-      "cn": "药房 / 配药处",
-      "def": "a office or counter in a clinic or hospital where medicines are prepared and given out",
-      "ex": "Collect your prescribed medicine at the dispensary counter after paying.",
-      "emoji": "🏥"
-    },
-    {
-      "en": "blood pressure monitor",
-      "cn": "血压计",
-      "def": "a device used to measure the force of blood pushing against artery walls",
-      "ex": "You can self-check your reading using the automated blood pressure monitor in the lobby.",
-      "emoji": "🦾"
-    },
-    {
-      "en": "medical certificate",
-      "cn": "病假条 (MC)",
-      "def": "an official note signed by a doctor stating that a patient is unfit for work or school",
-      "ex": "The physician issued a two-day medical certificate so I could rest at home.",
-      "emoji": "📄"
-    },
-    {
-      "en": "referral letter",
-      "cn": "转诊信",
-      "def": "a document written by a general practitioner directing a patient to a specialist",
-      "ex": "You will need a referral letter from the polyclinic to see a specialist at the public hospital.",
-      "emoji": "✉️"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "bottleneck",
-      "ipa": "/ˈbɒt.əl.nek/",
-      "pos": "n.",
-      "cn": "瓶颈 / 阻碍",
-      "def": "a point of congestion or blockage that slows down a process",
-      "ex": "Supply chain bottlenecks delayed the delivery of essential hardware components."
-    },
-    {
-      "w": "capitulate",
-      "ipa": "/kəˈpɪtʃ.ə.leɪt/",
-      "pos": "v.",
-      "cn": "屈服 / 妥协",
-      "def": "to surrender or cease resisting an opponent or unwelcome demand",
-      "ex": "After months of negotiations, the management team eventually capitulated to employee demands."
-    },
-    {
-      "w": "delineate",
-      "ipa": "/dɪˈlɪn.i.eɪt/",
-      "pos": "v.",
-      "cn": "明确界定 / 勾勒",
-      "def": "to describe, portray, or outline precisely",
-      "ex": "The contract clearly delineates the specific responsibilities of each regional partner."
-    },
-    {
-      "w": "disparate",
-      "ipa": "/ˈdɪs.pər.ət/",
-      "pos": "adj.",
-      "cn": "迥然不同的 / 不相干的",
-      "def": "essentially different in kind; not allowing comparison",
-      "ex": "The new manager attempted to integrate data from disparate software systems."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪmˈper.ə.tɪv/",
-      "pos": "n.",
-      "cn": "当务之急 / 必须做的事",
-      "def": "an essential or urgent thing; a vital duty",
-      "ex": "Digital transformation has become a strategic imperative for modern retail banks."
-    },
-    {
-      "w": "juxtapose",
-      "ipa": "/ˌdʒʌk.stəˈpəʊz/",
-      "pos": "v.",
-      "cn": "并置对比",
-      "def": "to place two things close together to contrast them",
-      "ex": "The report juxtaposes quarterly corporate profits with broader macroeconomic indicators."
-    },
-    {
-      "w": "obfuscate",
-      "ipa": "/ˈɒb.fʌs.keɪt/",
-      "pos": "v.",
-      "cn": "使模糊 / 混淆视听",
-      "def": "to render obscure, unclear, or unintelligible deliberately",
-      "ex": "Using overly dense legal jargon serves only to obfuscate the core contract terms."
-    },
-    {
-      "w": "predicament",
-      "ipa": "/prɪˈdɪk.ə.mənt/",
-      "pos": "n.",
-      "cn": "困境 / 难题",
-      "def": "a difficult, unpleasant, or embarrassing situation",
-      "ex": "The sudden export ban placed several overseas suppliers in a precarious predicament."
-    },
-    {
-      "w": "surmount",
-      "ipa": "/səˈmaʊnt/",
-      "pos": "v.",
-      "cn": "克服 / 战胜",
-      "def": "to overcome a difficulty or obstacle successfully",
-      "ex": "The startup managed to surmount severe regulatory obstacles before launching its service."
-    },
-    {
-      "w": "underpin",
-      "ipa": "/ˌʌn.dəˈpɪn/",
-      "pos": "v.",
-      "cn": "支撑 / 巩固",
-      "def": "to support, justify, or form the basis of an argument or system",
-      "ex": "Robust cybersecurity measures underpin consumer trust in online banking platforms."
-    }
-  ],
-  "listening": {
-    "source": "CNA Style · Intermediate",
-    "title": "New Green Corridors Connect Urban Parks Across Singapore",
-    "transcript": "Singapore has launched a fresh network of park connectors designed to boost <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/ (n.) the variety of plant and animal life in a particular habitat — 生物多样性\">biodiversity</span> and enhance urban walking routes. Residents in the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈhɑːt.ləndz/ (n.) residential suburban areas, especially HDB estates in Singapore — 组屋区/心源地带\">heartlands</span> can now travel seamlessly between nature reserves without leaving shaded pathways. Authorities hope these green corridors will encourage active <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəˈmjuː.tɪŋ/ (n.) travelling regularly between home and work — 通勤\">commuting</span> while preserving local flora. Initial feedback from weekend joggers has been overwhelmingly positive."
-  },
-  "economistArticle": {
-    "title": "The Monoculture Trap in High-Finance",
-    "paras": [
-      "For hedge fund managers accustomed to outsmarting the market, the past month offered a brutal lesson in financial concentration. Quantitative models failed, macro strategies <span class=\"voc\">foundered</span>, and stock-pickers found themselves trapped in identical portfolios. The source of this collective misery was not a surprise systemic crash, but an uncomfortable truth: almost every profitable trade in recent quarters has rested on a single underlying wager on artificial intelligence.",
-      "When semiconductor giants and cloud providers stumbled mid-season, the resulting pullbacks <span class=\"voc\">reverberated</span> across the global financial landscape. Funds that had quietly doubled down on tech supply chains suffered rapid <span class=\"voc\">drawdowns</span>, while traditional diversification strategies yielded <span class=\"voc\">negligible</span> defense. The market revealed itself to be far narrower than benchmark indexes had previously suggested.",
-      "This environment highlights the subtle <span class=\"voc\">peril</span> of momentum trading in an era dominated by technological hype. As capital poured into a handful of megacap tech equities, alternative asset classes were starved of liquidity and attention. <span class=\"gem\">Value stocks <span class=\"voc\">languished</span>, commodities traded sideways, and foreign exchange strategies ran into unprecedented volatility caused by interest rate <span class=\"voc\">recalibrations</span>.</span>",
-      "Crucially, the episode exposes structural flaws in modern risk assessment tools. Many risk models had registered these crowded tech trades as distinct and <span class=\"voc\">uncorrelated</span> simply because the companies operated in different sub-sectors or geographies. Yet when market sentiment inverted, liquidity evaporated in <span class=\"voc\">lockstep</span>, demonstrating that thematic overlap matters far more than traditional sector classifications.",
-      "Looking forward, fund managers face a difficult <span class=\"voc\">dilemma</span>. <span class=\"gem\">Abandoning the AI theme completely risks missing out on generational productivity gains, yet staying crowded leaves portfolios exposed to sharp sentiment shifts.</span> Until institutional capital discovers viable growth narratives outside of Silicon Valley, hedge funds will remain vulnerable to the brutal whims of a single crowded trade."
-    ],
-    "cn": "对于习惯于耍聪明战胜市场的对冲基金经理来说，过去一个月在金融集中度方面给他们上了残忍的一课。量化模型失效，宏观策略挫败，选股人发现自己陷于完全同质化的投资组合中。这片共同痛苦的根源并非一场突如其来的系统性崩溃，而是一个令人不安的事实：近几季度几乎所有盈利的交易，都建立在对人工智能这单一方向的押注之上。\n\n当半导体巨头和云服务提供商在季中遭遇挫折时，随之而来的回调在全球金融格局中掀起回响。悄悄对科技供应链加倍押注的基金遭遇了快速的资产回撤，而传统的分散投资策略几乎没有起到防御作用。市场所展现出的狭窄程度，远比基准指数先前所提示的更为严重。\n\n这一环境突显了在由科技炒作主导的时代进行顺势/动量交易的隐蔽危险。随着资本涌入少数超大型科技股，其他资产类别极度匮乏流动性和关注度。价值股陷入停滞，大宗商品横盘整理，外汇策略则因利率重新校准而遭遇前所未有的波动。\n\n关键在于，这一事件暴露了现代风险评估工具的结构性缺陷。许多风险模型曾将这些拥挤的科技交易标注为独立且互不相关的，仅仅因为这些公司处于不同的子行业或地理区域。然而，当市场情绪逆转时，流动性同步蒸发，这表明主题重合度比传统的行业分类重要得多。\n\n展望未来，基金经理面临着艰难的困境。彻底放弃人工智能主题面临着错失代际生产力红利的风险，然而保持拥挤又使投资组合暴露于剧烈的情绪转变之中。在机构资本于硅谷之外找到可行的增长叙事之前，对冲基金将继续易受单一拥挤交易残酷无情冲刷的影响。",
-    "vocab": [
-      {
-        "w": "foundered",
-        "ipa": "/ˈfaʊn.dəd/",
-        "pos": "v.",
-        "mean": "失败 / 陷于困境",
-        "def": "failed completely or collapsed due to particular difficulties",
-        "ex": "Several quantitative funds foundered during the unexpected market shift."
-      },
-      {
-        "w": "reverberated",
-        "ipa": "/rɪˈvɜː.bər.eɪ.tɪd/",
-        "pos": "v.",
-        "mean": "产生回响 / 造成广泛影响",
-        "def": "echoed or had continuing serious effects over a wide area",
-        "ex": "The interest rate decision reverberated throughout international bond markets."
-      },
-      {
-        "w": "drawdowns",
-        "ipa": "/ˈdrɔː.daʊnz/",
-        "pos": "n.",
-        "mean": "资产回撤 / 资金减少",
-        "def": "decline in investment value from its peak to its trough",
-        "ex": "Investors grew anxious after the fund experienced consecutive monthly drawdowns."
-      },
-      {
-        "w": "negligible",
-        "ipa": "/ˈneɡ.lɪ.dʒə.bəl/",
-        "pos": "adj.",
-        "mean": "微不足道的 / 可忽略不计的",
-        "def": "so small or unimportant as to be not worth considering",
-        "ex": "The hedging strategy offered negligible protection during the sell-off."
-      },
-      {
-        "w": "peril",
-        "ipa": "/ˈper.əl/",
-        "pos": "n.",
-        "mean": "隐患 / 严重危险",
-        "def": "serious and immediate danger or difficulty",
-        "ex": "Analysts warned of the financial peril associated with excessive market concentration."
-      },
-      {
-        "w": "languished",
-        "ipa": "/ˈlæŋ.ɡwɪʃt/",
-        "pos": "v.",
-        "mean": "萎靡不振 / 停滞",
-        "def": "failed to make progress or be successful; lost vitality",
-        "ex": "Traditional energy stocks languished while momentum surged in tech names."
-      },
-      {
-        "w": "recalibrations",
-        "ipa": "/ˌriː.kæl.ɪˈbreɪ.ʃənz/",
-        "pos": "n.",
-        "mean": "重新校准 / 调整",
-        "def": "adjustments made to systems, expectations, or plans in response to new data",
-        "ex": "Frequent recalibrations of central bank policy created market uncertainty."
-      },
-      {
-        "w": "uncorrelated",
-        "ipa": "/ˌʌn.kɒr.əˈleɪ.tɪd/",
-        "pos": "adj.",
-        "mean": "不相关的",
-        "def": "having no mutual relationship or connection in movement or trend",
-        "ex": "Asset managers sought truly uncorrelated assets to buffer against volatility."
-      },
-      {
-        "w": "lockstep",
-        "ipa": "/ˈlɒk.step/",
-        "pos": "n.",
-        "mean": "同步 / 紧密步调",
-        "def": "a rigid, unbroken pattern or synchronized movement",
-        "ex": "During panic selling, distinct asset classes often drop in lockstep."
-      },
-      {
-        "w": "dilemma",
-        "ipa": "/dɪˈlem.ə/",
-        "pos": "n.",
-        "mean": "进退两难的困境",
-        "def": "a situation requiring a difficult choice between two undesirable options",
-        "ex": "Portfolio managers face a constant dilemma between risk mitigation and return targets."
-      }
-    ],
-    "gems": [
-      {
-        "s": "Abandoning the AI theme completely risks missing out on generational productivity gains, yet staying crowded leaves portfolios exposed to sharp sentiment shifts.",
-        "why": "This sentence utilizes a balanced parallel structure ('Abandoning X risks... yet staying Y leaves...') to articulate a classic strategic dilemma succinctly. 句子使用了平衡的平行句式（“放弃X面临……风险，然而保持Y又使……暴露于……”），简洁明了地阐述了一个经典的战略困境。"
-      },
-      {
-        "s": "Value stocks languished, commodities traded sideways, and foreign exchange strategies ran into unprecedented volatility caused by interest rate recalibrations.",
-        "why": "This sentence employs tricolon (a series of three parallel clauses) to vividly describe the broad collateral damage across multiple asset classes. 句中使用三段式（三个平行从句）生动地描写了多个资产类别所遭受的广泛波及。"
-      }
-    ]
   }
 }
