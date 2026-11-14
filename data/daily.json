@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T06:57:33.730232+00:00",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T06:45:30.587471+00:00",
   "economist": {
     "headline": "Where to find the anti-AI trade",
     "teaser": "The worse chipmakers do, the better Indian equities perform",
@@ -19,63 +19,324 @@
     ]
   },
   "st": {
-    "headline": "Haze-linked First Resources, Bumitama post higher profits for Q3",
-    "teaser": "Both First Resources and Bumitama reiterated their commitment to upholding a zero-burning policy",
-    "url": "https://www.straitstimes.com/business/haze-linked-first-resources-bumitama-post-higher-profits-for-q3",
+    "headline": "Nvidia’s next CEO: Some prediction market traders bet Jensen Huang will make a comeback",
+    "teaser": "Nvidia faces big risks because it has no succession plan and 60 executives report to Huang.",
+    "url": "https://www.straitstimes.com/business/nvidias-next-ceo-some-prediction-market-traders-bet-jensen-huang-will-make-a-comeback",
     "fullText": [
-      "SINGAPORE – Two palm oil companies linked to the transboundary haze in October reported higher profits for the third quarter ended Sept 30, in separate business updates published on the morning of Nov 13.",
-      "Palm oil producer First Resources posted a 40.1% rise in its underlying net profit to US$122.7 million (S$158 million) for the third quarter of 2026, from US$87.5 million in the year-ago period.",
-      "The increase was boosted by higher sales of palm oil products and fruit bunches harvested from oil palms, it said.",
-      "Sales were up 24.9% at US$578.6 million for the quarter, compared with US$463.3 million in the third quarter of 2025.",
-      "Earnings before interest, taxes, depreciation and amortisation rose 26.6% to US$207.4 million in the third quarter of 2026, up from US$163.8 million a year ago.",
-      "For the nine months ended Sept 30, sales grew 36.5% year on year to US$1.6 billion, driven by higher sales volumes.",
-      "A net inventory drawdown of 28,000 tonnes over the nine-month period, compared with a build-up of 80,000 tonnes in the corresponding period in 2025, also supported higher sales volumes.",
-      "The group’s stronger production output in the first nine months of 2026 was also attributable in part to the full nine-month contribution from Austindo Nusantara Jaya, an Indonesian agribusiness company acquired in May 2025.",
-      "However, profits were partially offset by foreign currency translation losses resulting from the depreciation of the Indonesian rupiah against the US dollar.",
-      "The group said it expects demand for palm oil to remain supported by Indonesia’s biodiesel programme.",
-      "In addition, elevated crude oil prices arising from geopolitical tensions in the Middle East are expected to support biodiesel economics and crude palm oil demand.",
-      "Meanwhile, Bumitama reported a 1.9% increase in its net profit to 614.1 billion rupiah (S$43 million) for the quarter ended Sept 30, compared with 602.9 billion rupiah in the previous corresponding period.",
-      "For the nine-month period, net profit rose 30.6% to 2.4 trillion rupiah, up from 1.9 trillion rupiah in the year-ago period.",
-      "Revenue increased 9.7% to 4.2 trillion rupiah in the third quarter, up from 3.9 trillion rupiah a year ago. For the nine-month period, revenue was up 20% at 16.3 trillion rupiah.",
-      "Bumitama said its performance was supported by productivity improvements in its plantations and mills, particularly during the earlier part of the quarter.",
-      "In July, internal production of fresh fruit bunches reached 383,203 tonnes, accounting for almost 40% of the quarter’s production.",
-      "Quarterly production of crude palm oil increased 14% year on year to 368,323 tonnes.",
-      "However, exceptionally dry weather conditions in its Kalimantan estates during the third quarter put additional pressure on logistics infrastructure and disrupted shipments, said Bumitama.",
-      "Consequently, third-quarter revenue declined compared with the second quarter.",
-      "The prolonged dry season also heightened the risk of land and forest fires across parts of Kalimantan.",
-      "Fires affected certain areas within or adjoining the group’s concessions, including community-managed, conservation and unplanted land, the group noted.",
-      "Bumitama said that elevated energy prices and Indonesia’s biodiesel programme coupled with a relatively constrained palm oil supply growth could provide a “supportive backdrop” for palm oil fundamentals heading into 2027.",
-      "However, market conditions remain subject to uncertainty. These include changes in global energy prices, supply-and-demand dynamics, and the potential effects of prolonged dry weather on future production, it added.",
-      "Both First Resources and Bumitama reiterated their commitment to upholding a zero-burning policy, and cooperating with the Indonesian and Singapore authorities in relation to the haze.",
-      "Shares of First Resources closed flat at $2.79 and those of Bumitama closed flat at $1.39 on Nov 12, before the updates. THE BUSINESS TIMES"
+      "SINGAPORE – Jensen Huang has stepped down as Nvidia’s chief executive , but some traders on the prediction market Kalshi are betting that the chipmaker will name him its next permanent CEO before 2029.",
+      "Nvidia has yet to name a permanent successor to one of the AI industry’s most influential leaders, with some in the industry calling him irreplaceable.",
+      "On Kalshi, which is regulated in the US but banned in Singapore, the implied odds of Nvidia naming Huang as its next permanent chief executive by the end of 2028 rose as high as 15% on the evening of Nov 13, before falling to around 7%.",
+      "Nvidia executive Ian Buck is currently in the lead, with a 33% chance on Kalshi of becoming Nvidia’s next CEO.",
+      "Buck is vice-president and general manager of hyperscale and high-performance computing at Nvidia. He leads its multibillion-dollar data centre business, which supplies AI chips and software to major tech companies worldwide.",
+      "Kalshi put the odds of Colette Kress getting the permanent job at 13%. Kress is Nvidia’s chief financial officer and was made interim CEO following Huang’s resignation on Nov 12.",
+      "She is tied with Rene Haas, chief executive of British chip design company Arm Holdings.",
+      "Other executives Kalshi traders are betting on include Apple chief hardware officer Johny Srouji, Palo Alto Networks chairman and CEO Nikesh Arora, Nvidia executive vice-president Jay Puri, and AMD chairman and CEO Lisa Su. Puri oversees Nvidia’s global sales, business development and partnerships.",
+      "Tech executives, investors and fans have voiced support for Huang, who stepped down following reports of three affairs. He has admitted to being involved with Alice Huang, a former executive of Singapore-based, Alibaba-backed data centre firm Megaspeed . She is suspected by the US of spying for China.",
+      "“Jensen is one of the greatest entrepreneurs of this generation,” Shaun Maguire, a partner at Sequoia Capital, wrote in an X post on Nov 8. He concluded that Nvidia’s Huang is “irreplaceable for America’s AI leadership”.",
+      "About an hour later, Elon Musk quoted the post, noting: “I agree.”",
+      "Maguire added on Nov 12 that Huang’s ousting “will leave a huge void, with the loss of a technical, aggressive, founder-CEO.",
+      "“The American AI community needs to work double-time in an attempt to fill this void.”",
+      "Even US President Donald Trump called Huang before he stepped down, urging him to keep fighting for his job , according to The New York Times, quoting sources familiar with the call.",
+      "After Huang announced his resignation, Trump wrote in a Nov 12 Truth Social post : “Nvidia CEO Jensen Huang, who has done a fantastic job, has resigned, there is only one man to take his place – Tim Cook of Apple. A Legend replaces a Legend!”",
+      "On prediction market Polymarket, trading implied a 6% chance that Nvidia would name Apple executive chairman Tim Cook as its next permanent chief executive by the end of 2028.",
+      "There is also a 11% probability on Polymarket that Nvidia does not find a CEO by Dec 31, 2028.",
+      "Regardless of who takes over, Nvidia’s stakes are high because so much of the AI industry relies on chips, delivered by a company that Huang co-founded, transformed and led for the past 30 years.",
+      "A total of 60 executives across the firm report directly to him, and there is no succession plan.",
+      "Huang’s departure therefore leaves Nvidia investors weighing several risks, Saxo UK investor strategist Neil Wilson said in a Nov 13 note.",
+      "Nvidia is “about to find out whether Huang’s grip on the company and flat organisational structure was effectively storing up trouble”, said Wilson.",
+      "While a successor could keep Nvidia on the same course, Huang’s detailed knowledge of its products and his hands-on management style is unique and would be hard to replicate.",
+      "Wilson also pointed to scrutiny in Washington, citing reported US Justice Department inquiries involving Megaspeed and Alice Huang, and a request by three House committee chairs for a closed-door briefing on Nov 18 over national security concerns.",
+      "He expects Nvidia’s relationship with Washington to become more difficult, even with US Commerce Secretary Howard Lutnick’s support.",
+      "Investors, however, appear to think otherwise. Shares of Nvidia, which had fallen from around US$200 to a low of US$150 at the time of Huang’s ousting on Nov 12, have since rebounded and last traded at around US$162 each.",
+      "Brokers said trading in Nvidia surged after Huang’s resignation.",
+      "According to The Business Times, Nvidia orders at Syfe hit 13 times their six-week daily average in Singapore, while volume at FSM Global reached 11 times its October daily average. At IG, trading volume among Singapore clients rose nearly sixfold from the previous week.",
+      "Nvidia still has an edge after Huang’s departure. Its chips are powerful, many developers already use its software to build and run AI models, and it has longstanding ties with major customers.",
+      "Still, the lack of a credible succession plan could force Nvidia’s board, and investors, to reassess how much of the company’s future depends on Huang personally.",
+      "“He cannot be replaced, but a great CEO can also be found and take the company in a similar direction,” said Wilson."
     ]
   },
   "cna": {
-    "headline": "Burberry defies luxury downturn as trench coats and scarves power revival",
-    "teaser": "Fashion group’s sales continue to rise in China and US as strategy of refocusing on core products pays off.",
-    "url": "https://www.channelnewsasia.com/obsessions/burberry-defies-luxury-downturn-trench-coats-and-scarves-power-revival-6548776",
+    "headline": "Figure skating-Malinin leads Skate America short program in season debut",
+    "teaser": "Figure skating-Malinin leads Skate America short program in season debut",
+    "url": "https://www.channelnewsasia.com/sport/figure-skating-malinin-leads-skate-america-short-program-in-season-debut-6551436",
     "fullText": [
-      "Buoyant demand for Burberry’s scarves and trench coats helped the UK’s leading luxury brand sustain its rebound in sales, bucking a trend of worsening performance across the industry.",
-      "The FTSE 100 company’s comparable sales rose 4 per cent in the three months to September 26, ahead of analysts’ expectations, outperforming larger rivals such as LVMH and Gucci owner Kering. Burberry’s adjusted operating profit rose to £62 million (US$82.01 million; S$105.53 million) in the first half of the year, above forecasts of £44 million.",
-      "The luxury industry’s downturn has been driven primarily by weaker sales in China, an engine of growth for decades. Burberry, however, reported a 5 per cent rise in comparable sales in the country during the second quarter after delivering 9 per cent growth in the previous quarter.",
-      "Chief executive Joshua Schulman said: “Luxury customers around the world, but particularly in China, are experiencing some fatigue with exorbitant pricing, and in this context our strategy of having enduring value and providing great value for money is resonating strongly with the Chinese customers.”",
-      "Bernstein analyst Luca Solca noted that Burberry’s overall growth was “almost as good as Hermes and 9 percentage points better than LVMH’s fashion and leather goods division in the same quarter”.",
-      "The company’s strongest region was the Americas, predominantly the US, where sales rose 11 per cent in the second quarter. Burberry’s shares rose 7 per cent in morning trading on Thursday.",
-      "The results are a boost to Schulman, who was appointed in 2024 to lead a turnaround of the UK’s pre-eminent luxury brand after it made an ill-timed push upmarket just as demand for luxury goods began to wilt.",
-      "Schulman said on Thursday that Burberry’s ability to outperform the luxury market gave him “increasing confidence” that his revival plan was “the right path”.",
-      "Burberry has enlisted British celebrities such as actors Pierce Brosnan and Fiona Shaw for campaigns promoting the brand’s renewed focus on its signature products such as trench coats and scarves. The brand has also focused on providing more affordable products at a time when “aspirational” luxury consumers are less willing to spend.",
-      "Last year, it announced a major restructuring plan to cut almost a fifth of its workforce to help save £100 million in annual costs by early next year.",
-      "The company counts Mike Ashley’s Frasers Group as an investor. The high street tycoon told the FT this summer that he was driven to invest in Burberry — which is stocked in Frasers’ Flannels chain — because of a belief in Schulman’s turnaround.",
-      "Burberry investor Kernow Asset Management said its turnaround was “progressing well, outperforming its peers this year and delivering a fifth consecutive quarter of growth”. They added that the next phase of its revival was “taking shape” as the fashion brand prepares to update investors on its strategy in March.",
-      "By Laura Onita © 2026 The Financial Times.",
-      "This article originally appeared in The Financial Times.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "EVERETT, WASHINGTON, Nov 14 : American Ilia Malinin shrugged off a minor error to lead the men's short program at Skate America in Everett, Washington, on Friday in his first competition since winning a third world title in March.",
+      "The 21-year-old scored 96.74 points to open a 5.45-point advantage over Japan's Sota Yamamoto, while Mexico's Donovan Carrillo sat third with 86.49 points heading into Saturday's free skate.",
+      "Malinin landed a quadruple flip and a triple Axel but made a mistake on his quadruple Lutz, putting a hand down on the ice and managing only a double toe-loop combination.",
+      "The error proved costly only on paper as the American's superior technical score kept him comfortably clear of the field.",
+      "\"I definitely felt a lot of support behind that short program. I feel like as the season goes on, this short program is going to be really easy to skate.\"",
+      "The three-time world champion began his campaign directly on the Grand Prix circuit after opting against competing at a lower-level event earlier in the season.",
+      "Malinin enters the new campaign looking to move on from a dramatic 2025-26 season in which his 14-event winning streak came to an end at the Winter Olympics, where he finished eighth overall in the singles competition.",
+      "The disappointment proved short-lived, however, as he rebounded weeks later in Prague to secure a third successive world title.",
+      "After Skate America, Malinin is scheduled to compete at the NHK Trophy, where he will bid to secure a place at December's Grand Prix Final, an event he has won in each of the last three seasons.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
     "headline": "Former Site Manager Convicted and Imprisoned for Demanding Kickbacks from Migrant Workers",
     "teaser": "Former Site Manager Convicted and Imprisoned for Demanding Kickbacks from Migrant Workers",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1111-former-site-manager-convicted-and-imprisoned-for-demanding-kickbacks-from-migrant-workers"
+  },
+  "lifeVocab": [
+    {
+      "en": "barcode",
+      "cn": "条形码",
+      "def": "a pattern of printed parallel lines used for identifying goods",
+      "ex": "The cashier scanned the barcode on the carton of fresh milk.",
+      "emoji": "🏷️"
+    },
+    {
+      "en": "trolley",
+      "cn": "手推车",
+      "def": "a large basket on wheels used for carrying groceries",
+      "ex": "She filled her trolley with tropical fruits and vegetables at FairPrice.",
+      "emoji": "🛒"
+    },
+    {
+      "en": "perishable",
+      "cn": "易腐烂的",
+      "def": "food items that decay quickly if not stored properly",
+      "ex": "Put the perishable items in the refrigerator as soon as you get home.",
+      "emoji": "🥛"
+    },
+    {
+      "en": "aisle",
+      "cn": "过道/通道",
+      "def": "a passage between rows of shelves in a supermarket",
+      "ex": "You can find local sauces and spices in aisle four.",
+      "emoji": "🏬"
+    },
+    {
+      "en": "receipt",
+      "cn": "收据",
+      "def": "a written acknowledgement that a specified sum of money has been received",
+      "ex": "Please keep your receipt in case you need to request an exchange.",
+      "emoji": "🧾"
+    },
+    {
+      "en": "discount",
+      "cn": "折扣",
+      "def": "a deduction from the usual cost of something",
+      "ex": "Senior citizens enjoy a special discount on Tuesdays at selected outlets.",
+      "emoji": "🏷️"
+    },
+    {
+      "en": "cashless",
+      "cn": "无现金的",
+      "def": "involving transactions made electronically rather than with paper money",
+      "ex": "Most shoppers prefer cashless payment methods like PayNow at checkout.",
+      "emoji": "💳"
+    },
+    {
+      "en": "expiry",
+      "cn": "到期日/保质期",
+      "def": "the end of the period for which something is valid or fresh",
+      "ex": "Always check the expiry date on packaged meat before purchasing.",
+      "emoji": "📅"
+    },
+    {
+      "en": "brand",
+      "cn": "品牌",
+      "def": "a type of product manufactured by a particular company under a particular name",
+      "ex": "This local brand of sesame oil is famous for its rich aroma.",
+      "emoji": "🏷️"
+    },
+    {
+      "en": "reusable",
+      "cn": "可重复使用的",
+      "def": "able to be used again or multiple times",
+      "ex": "Shoppers are encouraged to bring their own reusable bags to reduce plastic waste.",
+      "emoji": "🛍️"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案/突发事件",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "The management team prepared a contingency plan in response to sudden supply disruptions."
+    },
+    {
+      "w": "bottleneck",
+      "ipa": "/ˈbɒt.əl.nek/",
+      "pos": "n.",
+      "cn": "瓶颈",
+      "def": "a point of congestion in a system or process that slows down progress",
+      "ex": "Lengthy approval procedures created a major bottleneck in project delivery."
+    },
+    {
+      "w": "delineate",
+      "ipa": "/dɪˈlɪn.i.eɪt/",
+      "pos": "v.",
+      "cn": "勾勒/明确划定",
+      "def": "to describe or portray something precisely",
+      "ex": "The operational framework clearly delineates the duties of each department."
+    },
+    {
+      "w": "galvanize",
+      "ipa": "/ˈɡæl.və.naɪz/",
+      "pos": "v.",
+      "cn": "激励/刺激",
+      "def": "to shock or excite someone into taking rapid action",
+      "ex": "The urgent market update served to galvanize the sales team into hitting target metrics."
+    },
+    {
+      "w": "recalibrate",
+      "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
+      "pos": "v.",
+      "cn": "重新调整",
+      "def": "to adjust or alter an approach or system in response to changing conditions",
+      "ex": "Firms must recalibrate their growth targets following recent economic adjustments."
+    },
+    {
+      "w": "benchmark",
+      "ipa": "/ˈbentʃ.mɑːk/",
+      "pos": "n.",
+      "cn": "基准/标杆",
+      "def": "a standard or point of reference against which things may be evaluated",
+      "ex": "The firm's customer satisfaction scores remain a benchmark for the regional industry."
+    },
+    {
+      "w": "stipend",
+      "ipa": "/ˈstaɪ.pend/",
+      "pos": "n.",
+      "cn": "津贴/定额报酬",
+      "def": "a fixed regular sum paid as a salary or allowance",
+      "ex": "Graduate trainees receive a monthly stipend to cover living expenses during orientation."
+    },
+    {
+      "w": "tangible",
+      "ipa": "/ˈtæn.dʒə.bəl/",
+      "pos": "adj.",
+      "cn": "有形的/明确的",
+      "def": "perceptible by touch, or clear and definite in effect",
+      "ex": "The new training initiative yielded tangible improvements in staff productivity."
+    },
+    {
+      "w": "disparate",
+      "ipa": "/ˈdɪs.pər.ət/",
+      "pos": "adj.",
+      "cn": "迥然不同的",
+      "def": "essentially different in kind; not allowing comparison",
+      "ex": "The project brought together specialists from disparate disciplines to solve the problem."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈper.ə.tɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的",
+      "def": "of vital importance; crucial or mandatory",
+      "ex": "It is imperative that all personnel comply with updated cybersecurity protocols."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Green Energy Imports",
+    "transcript": "Singapore is taking another major step towards its <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/səˌsteɪ.nəˈbɪl.ə.ti/ (n.) the quality of causing little or no damage to the environment — 可持续性\">sustainability</span> goals by securing regional green energy deals. The nation plans to import low-carbon electricity from neighboring countries to reduce its <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/rɪˈlaɪ.əns/ (n.) dependence on or trust in someone or something — 依赖/依靠\">reliance</span> on natural gas. Industry experts note that building a <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/rɪˈzɪl.i.ənt/ (adj.) able to withstand or recover quickly from difficult conditions — 有韧性的/能迅速恢复的\">resilient</span> power grid will require significant cross-border collaboration across Southeast Asia."
+  },
+  "economistArticle": {
+    "title": "Where to find the anti-AI trade: The worse chipmakers do, the better Indian equities perform",
+    "paras": [
+      "Global financial markets have been dominated by the <span class=\"voc\">relentless</span> rise of artificial intelligence stocks, particularly semiconductor powerhouses. Yet for fund managers seeking a hedge against tech-driven <span class=\"voc\">volatility</span>, an intriguing <span class=\"voc\">inverse</span> relationship has emerged in South Asia. <span class=\"gem\">As enthusiasm for hardware giants occasionally stumbles, Indian equities are quietly carving out a niche as the ultimate anti-AI play.</span>",
+      "The logic underpinning this dynamic hinges on capital allocation and commodity pricing. High-flying technology hardware manufacturers soak up immense <span class=\"voc\">liquidity</span> in global portfolios, drawing funds away from emerging markets with alternative growth drivers. When profit-taking occurs in the semiconductor sector, institutional investors frequently redistribute their gains into stable domestic consumer markets like India.",
+      "Furthermore, the massive computing infrastructure required for artificial intelligence consumes vast amounts of energy and capital expenditure, which can inflate global energy costs and squeeze corporate margins elsewhere. India, primarily a service-driven economy with limited hardware manufacturing exposure, remains <span class=\"voc\">insulated</span> from tech-supply bottlenecks while benefiting from lower input costs when hardware rallies cool off.",
+      "Local macroeconomic fundamentals also <span class=\"voc\">fortify</span> this hedge. Driven by robust internal consumption, infrastructure expansion, and a rapidly growing middle class, Indian shares offer <span class=\"voc\">sustained</span> momentum independent of Silicon Valley earnings cycles. While chipmakers fret over order volumes and geopolitical trade restrictions, Indian firms draw strength from domestic policy support.",
+      "Consequently, international investors looking to diversify away from concentrated tech positions are finding solace in Mumbai. <span class=\"gem\">Treating Indian equities as a <span class=\"voc\">counterweight</span> to AI volatility may not only preserve capital during tech drawdowns, but also deliver consistent long-term growth rooted in real-economy fundamentals.</span>"
+    ],
+    "cn": "全球金融市场一直由人工智能概念股（尤其是半导体巨头）的持续上涨所主导。然而，对于希望规避科技股波动风险的基金经理而言，南亚市场出现了一种有趣的反向关联。每当市场对硬件巨头的热情偶尔遭遇挫折时，印度股市正悄然塑造出作为终极“反AI对冲”的独特地位。支撑这一动态的逻辑在于资本配置与商品定价。高歌猛进的科技硬件制造商吸收了全球投资组合中的巨额流动性，将资金从拥有其他增长引擎的新兴市场吸走。当半导体板块出现获利回吐时，机构投资者往往会将收益重新分配到像印度这样稳定的本土消费市场。此外，人工智能所需的庞大计算基础设施消耗了大量能源和资本支出，这可能推高全球能源成本并挤压其他行业的利润率。印度作为一个主要由服务业驱动、硬件制造参与度有限的经济体，在硬件热潮降温时，既能免受科技供应链瓶颈的影响，又能从较低的投入成本中受益。本土的宏观经济基本面也进一步巩固了这一对冲逻辑。在强劲的内部消费、基础设施扩张和快速增长的中产阶级推动下，印度股票提供了独立于硅谷盈利周期的持续增长动能。当芯片制造商为订单量和地缘政治贸易限制感到焦虑时，印度企业则从本土政策支持中吸取力量。因此，寻求摆脱高度集中科技头寸的国际投资者正在孟买找到安慰。将印度股票作为应对AI波动的平衡力量，不仅可以在科技股回撤期间保全资本，还能带来立足于实体经济基本面的稳定长期增长。",
+    "vocab": [
+      {
+        "w": "relentless",
+        "ipa": "/rɪˈlent.ləs/",
+        "pos": "adj.",
+        "mean": "持续不断的/无情的",
+        "def": "unceasingly intense or severe",
+        "ex": "The company faced relentless competition in the global technology market."
+      },
+      {
+        "w": "volatility",
+        "ipa": "/ˌvɒl.əˈtɪl.ə.ti/",
+        "pos": "n.",
+        "mean": "波动性/不稳定",
+        "def": "liability to change rapidly and unpredictably, especially for the worse",
+        "ex": "Investors prepared their portfolios for sustained volatility ahead of earnings announcements."
+      },
+      {
+        "w": "inverse",
+        "ipa": "/ɪnˈvɜːs/",
+        "pos": "adj.",
+        "mean": "相反的/反向的",
+        "def": "opposite in position, direction, order, or effect",
+        "ex": "There is often an inverse relationship between bond prices and interest rates."
+      },
+      {
+        "w": "hinge",
+        "ipa": "/hɪndʒ/",
+        "pos": "v.",
+        "mean": "取决于/以...为转移",
+        "def": "to depend entirely on a specific condition or event",
+        "ex": "The investment strategy hinges on predictable domestic consumer growth."
+      },
+      {
+        "w": "liquidity",
+        "ipa": "/lɪˈkwɪd.ə.ti/",
+        "pos": "n.",
+        "mean": "流动性/变现能力",
+        "def": "the availability of liquid assets to a market or company",
+        "ex": "High liquidity in semiconductor stocks allowed funds to move capital rapidly."
+      },
+      {
+        "w": "insulated",
+        "ipa": "/ˈɪn.sjə.leɪ.tɪd/",
+        "pos": "adj.",
+        "mean": "免受影响的/隔绝的",
+        "def": "protected from unpleasant experiences or harmful influences",
+        "ex": "Service-oriented firms remained insulated from global manufacturing disruptions."
+      },
+      {
+        "w": "fortify",
+        "ipa": "/ˈfɔː.tɪ.faɪ/",
+        "pos": "v.",
+        "mean": "加强/巩固",
+        "def": "to strengthen or invigorate mentally or physically",
+        "ex": "Strong domestic earnings helped fortify investor confidence during global turbulence."
+      },
+      {
+        "w": "sustained",
+        "ipa": "/səˈsteɪnd/",
+        "pos": "adj.",
+        "mean": "持续的/持久的",
+        "def": "continuing for an extended period without interruption",
+        "ex": "The region has enjoyed sustained economic expansion driven by local demand."
+      },
+      {
+        "w": "counterweight",
+        "ipa": "/ˈkaʊn.tə.weɪt/",
+        "pos": "n.",
+        "mean": "抗衡力量/平衡因素",
+        "def": "a factor or force that balances or neutralizes another",
+        "ex": "Emerging market equities can serve as a counterweight to tech sector downturns."
+      },
+      {
+        "w": "drawdown",
+        "ipa": "/ˈdrɔː.daʊn/",
+        "pos": "n.",
+        "mean": "回撤/资金减少",
+        "def": "a decline in an investment or fund value from its peak level",
+        "ex": "The fund managed to minimize capital drawdowns during the tech market correction."
+      }
+    ],
+    "gems": [
+      {
+        "s": "As enthusiasm for hardware giants occasionally stumbles, Indian equities are quietly carving out a niche as the ultimate anti-AI play.",
+        "why": "The sentence uses vivid personification ('carving out a niche') and contrast to present an investment strategy in an engaging narrative style. 该句运用生动的拟人手法和对比，以富有叙事感的方式呈现投资策略。"
+      },
+      {
+        "s": "Treating Indian equities as a counterweight to AI volatility may not only preserve capital during tech drawdowns, but also deliver consistent long-term growth rooted in real-economy fundamentals.",
+        "why": "The sentence employs a 'not only... but also' structure alongside precise financial terminology to construct a compelling, balanced argument. 该句采用'not only... but also'并列句式，结合精准的金融术语，构建了严密且具说服力的论点。"
+      }
+    ]
   }
 }
