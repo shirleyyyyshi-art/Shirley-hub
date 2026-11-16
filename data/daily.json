@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T06:50:28.649352+00:00",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T06:50:01.195748+00:00",
   "economist": {
     "headline": "Where to find the anti-AI trade",
     "teaser": "The worse chipmakers do, the better Indian equities perform",
@@ -19,60 +19,37 @@
     ]
   },
   "st": {
-    "headline": "Jensen Huang’s ousting sends tech stocks tumbling; Singtel CEO sells shares: Markets this week",
-    "teaser": "Singtel Group CEO Yuen Kuan Moon on Nov 13 sold 2 million shares in the company at $4.07 per share, or $8.14 million in total.",
-    "url": "https://www.straitstimes.com/business/companies-markets/jensen-huangs-ousting-sends-tech-stocks-tumbling-singtel-ceo-sells-shares-markets-this-week",
+    "headline": "CNMC Goldmine shares plunge as gold falls below US$4,000",
+    "teaser": "Spot gold fell 0.24% to US$3,872 an ounce on Nov 16.",
+    "url": "https://www.straitstimes.com/business/companies-markets/cnmc-goldmine-shares-plunge-as-gold-falls-below-us4000",
     "fullText": [
-      "SINGAPORE - Nvidia lost about US$700 billion in market value over the past week as its chief executive, Jensen Huang, resigned on Nov 12. It was also revealed that he had a third alleged extramarital affair involving a company executive.",
-      "The chipmaker’s share price fell by more than 12% through the week, its sixth straight weekly drop and the longest losing streak since 2012. Once the world’s most valuable company, Nvidia has since October lost about US$1.8 trillion in market value.",
-      "Nvidia announced its chief financial officer Colette Kress will take over as interim CEO while it commences its search for a new leader. Its board was reported by the media to have approached British chip designer Arm Holdings CEO Rene Haas in its search for a potential successor, even as prediction market traders speculated that Huang could make a comeback.",
-      "Many in the industry, from Nvidia employees to Elon Musk, have voiced support for Huang, who has run Nvidia for the past 30 years and become one of the most influential executives leading the AI boom.",
-      "Huang’s departure added to the volatility in tech stocks following the US midterm elections.",
-      "Shares of chipmakers AMD and Broadcom closed higher on Nov 12 as analysts said the two companies could pick up orders amid Nvidia’s turmoil. At least two investment firms also upgraded their ratings on AMD, citing higher sales of server racks and early shipments of its AI chips.",
-      "But tech stocks fell again when markets opened the following day, with chipmakers and major cloud providers among the decliners. AMD fell more than 8%, while Broadcom dropped more than 4%.",
-      "Microsoft’s shares recovered marginally after falling through the week, but still closed 0.3% lower than a week ago as it grappled with a worldwide outage of its Outlook and Teams services on Nov 13 that lasted for more than 24 hours.",
-      "The Nasdaq closed 0.9% lower, while the S&P 500 also fell 0.4%",
-      "Singapore tech stocks closed the week higher, rebounding after the previous week’s rout following the US mid-term elections.",
-      "Semiconductor equipment maker AEM Holdings rose by 14.5% through the week to close at $7.10, while UMS Integration was up 8.9% at $1.84. Frencken Group, another SGX-listed company on the global semiconductor supply chain dealing in high-precision component manufacturing, also closed the week 6.4% higher at $1.84.",
-      "Singtel Group CEO Yuen Kuan Moon on Nov 13 sold 2 million shares in the company at $4.07 per share, or $8.14 million in total.",
-      "The transaction came hours after Singtel raised its forecast for operating profit growth at the businesses it runs directly. It now expects mid- to high-single-digit growth for the 2027 financial year, up from the low- to mid-single-digit growth it forecast in May.",
-      "The revision came on the back of an 8.7% rise in first-half earnings before interest and taxes (EBIT) for its operating companies to $902 million, led by strong performance by Australian subsidiary Optus, tech service provider NCS and its digital infrastructure arm Digital InfraCo.",
-      "The group’s operating revenue also rose 5.5% to $7.3 billion, up from $6.9 billion in the year-ago period.",
-      "But the telco still reported a 54.7 per cent drop in net profit to $1.5 billion for the first half ended Sept 30, in the absence of one-off gains in the year-ago period totalling $2.2 billion from the partial stake sale in Indian telco Airtel and Thailand’s Intouch-Gulf Energy merger.",
-      "Its Singapore business also saw EBIT drop 4.5% as a result of the absence of one-off income in the previous year, though mobile service revenue grew 3.8% in the second quarter compared to the first quarter - its second consecutive quarter of sequential growth.",
-      "Still, group chief financial officer Arthur Lang said at the media briefing for the telco’s first-half results that the company was entering the second half of the year “with a renewed confidence versus six months ago”.",
-      "He noted that Singtel had previously set a lower guidance due to the growing level of uncertainty, as the Strait of Hormuz crisis had just broken out and rising inflation was a concern.",
-      "Yuen added that the Nvidia leadership crisis would likely not have an impact on deliveries of chips for its sovereign artificial-intelligence cloud arm RE:AI, under Digital InfraCo.",
-      "The company provides local infrastructure for enterprises and government agencies to train and deploy AI models while keeping their data within Singapore, and is currently the only Singtel business that purchases chips directly from Nvidia.",
-      "Around 2 MW of chips is due to be deployed from the fourth quarter of FY2027, and the shipment is expected to arrive on schedule.",
-      "Shares of Singtel fell by 3.6% when the market opened on Nov 13, before paring losses to close the week 0.5% higher at $4.11.",
-      "Singapore Airlines reported a 43.9% slump in net profit to $134 million for the first-half its 2027 financial year, as high fuel costs continued to weigh on its earnings.",
-      "Despite a strong second quarter recording $5.6 billion in revenue, 14.3% higher year on year, and operating profit up 16.3% year on year to $463 million, total expenditure also rose by 14.1% to a hefty $5.1 billion over the same period.",
-      "This was mainly due to a surge in fuel prices as a result of the war in the Middle East, with the group’s fuel costs before hedging rising 63.3% to $2.1 billion during the quarter.",
-      "Jet fuel prices were lower in the second quarter than the first quarter, said group chief financial officer JoAnn Tan at the airline’s results briefing on Nov 12. But the surge still led to a 90.3% increase in fuel costs before hedging for the first half of the financial year.",
-      "Chief executive Goh Choon Phong added that the airline would review the feedback it has received on its newly unveiled business-class seats, which has drawn criticism for its shape and colour palette, and explore the possibility of making further refinements.",
-      "SIA is revamping its seats across all four cabin classes in a fleetwide revamp costing $2 billion.",
-      "Shares of the airline closed the week 3% higher at $7.16."
+      "SINGAPORE - Shares of CNMC Goldmine Holdings plunged on Nov 16, extending recent losses as gold prices dipped below US$4,000 an ounce following a sell-off in the precious metal.",
+      "The mainboard-listed mining stock sank nearly 11% to 85 cents at the midday trading break on Nov 16, bringing its losses to about 20.56% over the past five trading sessions and almost 30% over the past month.",
+      "About 5.5 million shares changed hands during the morning trading session on Nov 16.",
+      "Spot gold, meanwhile, fell 0.24% to US$3,872 (S$4,990) an ounce, as signs that the US Federal Reserve could raise rates weighed on sentiment. This came ahead of remarks by Fed chair Kevin Warsh at a Nov 16 US conference that could offer further clues on the direction of interest rates.",
+      "Gold has fallen nearly 6% since the start of the year, as elevated US Treasury yields and a stronger greenback dampened demand for the precious metal.",
+      "CNMC’s net profit rose 17.8% to US$18.6 million for the six months ended June 30, 2026, from US$15.8 million a year earlier.",
+      "The Singapore-headquartered gold and base metals producer, which operates in Kelantan, Malaysia, generated US$65.2 million in revenue for first half of 2026, up 23.4% from a year earlier, driven by higher gold, silver and zinc prices.",
+      "Revenue from gold produced at its carbon-in-leach plant at its flagship Sokor mine increased 32% to US$49.8 million.",
+      "Revenue from gold produced at its flagship Sokor mine’s carbon-in-leach plant rose 32% to US$49.8 million, even as production fell 6% to 11,105 ounces.",
+      "Including gold produced from lead concentrate at its flotation plant, which is used primarily to recover base metals, the company generated total revenue of US$56.7 million from gold in the first half of 2026, a 27.4% increase from a year earlier.",
+      "Still, CNMC’s all-in production cost is about US$2000 per ounce, so margins would still be intact even if gold retreats further."
     ]
   },
   "cna": {
-    "headline": "Figure Skating-Malinin opens season in style with Skate America title",
-    "teaser": "Figure Skating-Malinin opens season in style with Skate America title",
-    "url": "https://www.channelnewsasia.com/sport/figure-skating-malinin-opens-season-in-style-skate-america-title-6552731",
+    "headline": "India's Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
+    "teaser": "India's Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
+    "url": "https://www.channelnewsasia.com/business/indias-mphasis-says-clients-boost-cybersecurity-spending-ai-driven-threats-rise-6554581",
     "fullText": [
-      "EVERETT, Washington, Nov 15 : Three-time world champion Ilia Malinin claimed the Skate America title in Everett on Saturday, winning the event for a fourth time and delighting audiences with a choreo spin inspired by his mother.",
-      "It marked a successful start to a campaign in which Malinin is seeking to balance the technical difficulty he is known for with greater artistic expression.",
-      "The American finished with a total score of 284.31 points after topping the short program on Friday and placing second in the free skate, securing victory by 9.58 points over Italy's Daniel Grassl.",
-      "Grassl produced the strongest free skate of the event, climbing from fourth after the short program to finish with 274.73, while Israel's Tamir Kuperman completed the podium on with 248.55 in his senior Grand Prix debut.",
-      "The 21-year-old, nicknamed the \"Quad God\", then landed a quad Lutz-triple Axel-double Axel combination, adding a triple Lutz-double toe loop and a quad Salchow before bringing the crowd to its feet with his trademark backflip.",
-      "He opted against attempting his signature quadruple Axel, instead delighting the crowd with a choreo spin.",
-      "\"It was definitely the most fun I've ever had, but skating that program, man, I'm tired,\" Malinin told NBC.",
-      "\"My legs, at the end of the program, just nearly gave up on me, but I'm glad I was able to stay on my feet most of the time, and I'm just looking forward to how the program progresses in the future.\"",
-      "Malinin said his mother Tatiana Malinina, the 1999 Grand Prix Final champion, was a constant source of inspiration.",
-      "\"She's been there for me ever since I was born, and I always appreciate everything she does for me,\" he said.",
-      "Malinin had a roller-coaster 2025-26 season. He saw his 14-event winning streak end at the Winter Olympics, where he finished eighth in the singles event, before rebounding weeks later to capture a third consecutive world title.",
-      "Malinin will return to action at the NHK Trophy in Japan in two weeks, where a podium finish is expected to secure his place at December's Grand Prix Final, an event he has won in each of the last three seasons.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "Nov 16 : Blackstone-backed Mphasis said companies globally are increasing cybersecurity spending in the race to strengthen their defences, CEO Nitin Rakesh told Reuters, as AI enables increasingly sophisticated attacks that are faster and cheaper.",
+      "Banks and insurers are leading the increase in cybersecurity spending, aided by larger technology budgets and regulatory requirements, while retailers and consumer firms are also stepping up investments to protect customer data, Rakesh said last week, without providing figures.",
+      "The comments follow a record $6.3 billion theft from cryptocurrency exchange Binance last month, in which hackers used social engineering and compromised AI tools, highlighting the growing complexity of cyber threats.",
+      "Against that backdrop, companies are stepping up cybersecurity spending as AI makes attacks faster and cheaper and increases the number of vulnerabilities they must address.",
+      "A related survey found awareness of advanced AI cyber threats prompted 85 per cent of organisations to plan higher security spending, versus 64 per cent after suffering a breach.",
+      "Rakesh said clients were increasingly investing in identity and access controls covering employees, software accounts and automated agents, while also using AI to detect and fix vulnerabilities.",
+      "While threat detection is already heavily automated, fixing vulnerabilities still requires significant manual work, he said.",
+      "\"You can't really throw people at that problem because you won't be able to keep up with the volume that is required in the time-frame that you need to fix those patches,\" Rakesh said.",
+      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
@@ -82,74 +59,74 @@
   },
   "lifeVocab": [
     {
-      "en": "polyclinic",
-      "cn": "综合诊所",
-      "def": "a government-subsidised outpatient medical clinic in Singapore",
-      "ex": "I booked an appointment at the nearest polyclinic for my routine check-up.",
-      "emoji": "🏥"
+      "en": "borrow a book",
+      "cn": "借书",
+      "def": "to take a book from a library for a limited period of time",
+      "ex": "You can borrow up to sixteen books at a time using your NLB app.",
+      "emoji": "📚"
     },
     {
-      "en": "medical certificate (MC)",
-      "cn": "病假单",
-      "def": "an official note from a doctor excusing an employee or student from work or class",
-      "ex": "Please remember to submit your MC to HR by tomorrow morning.",
-      "emoji": "📄"
+      "en": "reservation",
+      "cn": "预约/保留",
+      "def": "an arrangement to hold a book or facility for someone",
+      "ex": "I placed a reservation for the popular novel online.",
+      "emoji": "🔖"
     },
     {
-      "en": "consultation",
-      "cn": "问诊 / 咨询",
-      "def": "a meeting with a medical professional to discuss health concerns and get medical advice",
-      "ex": "The doctor asked about my daily diet during the consultation.",
-      "emoji": "🩺"
+      "en": "quiet zone",
+      "cn": "静音区",
+      "def": "a designated area in a library where visitors must keep noise to a minimum",
+      "ex": "Please put your mobile phone on silent when entering the quiet zone.",
+      "emoji": "🤫"
     },
     {
-      "en": "symptom",
-      "cn": "症状",
-      "def": "a physical or mental condition that indicates an illness",
-      "ex": "A sore throat and mild fever are common symptoms of a viral infection.",
-      "emoji": "🤒"
+      "en": "renewal",
+      "cn": "续借",
+      "def": "an extension of the loan period for a borrowed item",
+      "ex": "If no one else has reserved the book, you can apply for an automatic renewal.",
+      "emoji": "🔄"
     },
     {
-      "en": "dosage",
-      "cn": "剂量",
-      "def": "the specified amount of medicine to be taken at one time or over a period",
-      "ex": "Read the prescription label carefully to verify the correct dosage.",
-      "emoji": "💊"
+      "en": "overdue fine",
+      "cn": "逾期罚款",
+      "def": "a fee charged for returning borrowed library materials after the due date",
+      "ex": "She paid a small overdue fine because she returned the art manual late.",
+      "emoji": "💸"
     },
     {
-      "en": "referral",
-      "cn": "转诊单",
-      "def": "an official recommendation from a primary care doctor to visit a specialist",
-      "ex": "The GP gave me a referral to see a cardiologist at the regional hospital.",
-      "emoji": "📋"
+      "en": "digital catalogue",
+      "cn": "数字图书目录",
+      "def": "an online searchable database of library resources",
+      "ex": "Search the digital catalogue to check which branch holds the title.",
+      "emoji": "💻"
     },
     {
-      "en": "chronic condition",
-      "cn": "慢性病",
-      "def": "a human health condition that is long-lasting and requires ongoing medical attention",
-      "ex": "Regular blood tests help manage chronic conditions like high blood pressure.",
-      "emoji": "🫀"
+      "en": "audiobook",
+      "cn": "有声读物",
+      "def": "an audiocassette or CD recording of a book being read aloud",
+      "ex": "He prefers listening to audiobooks during his daily MRT commute.",
+      "emoji": "🎧"
     },
     {
-      "en": "subsidy",
-      "cn": "医疗补贴",
-      "def": "financial assistance provided by the government to reduce healthcare costs",
-      "ex": "Singaporean citizens enjoy a higher healthcare subsidy at public clinics.",
-      "emoji": "💰"
+      "en": "study corner",
+      "cn": "自习角",
+      "def": "a specific seating area allocated for focused individual work or study",
+      "ex": "Students occupied almost every desk at the library study corner during exam season.",
+      "emoji": "✍️"
     },
     {
-      "en": "pharmacist",
-      "cn": "药剂师",
-      "def": "a qualified health professional who dispenses prescription medications",
-      "ex": "The pharmacist explained how to take the antibiotics safely with meals.",
-      "emoji": "🧑‍⚕️"
+      "en": "return chute",
+      "cn": "还书口",
+      "def": "a small opening or slot where borrowed items can be dropped off after hours",
+      "ex": "You can drop off your borrowed items at the 24-hour return chute outside.",
+      "emoji": "📮"
     },
     {
-      "en": "queue number",
-      "cn": "排号 / 候诊号",
-      "def": "a ticket number assigned to determine the order of service at a healthcare facility",
-      "ex": "Take a queue number at the self-service registration kiosk upon arrival.",
-      "emoji": "🎟️"
+      "en": "e-read",
+      "cn": "电子书阅读",
+      "def": "a digital publication or ebook designed to be read on electronic devices",
+      "ex": "The app offers thousands of e-reads accessible directly from your tablet.",
+      "emoji": "📱"
     }
   ],
   "levelVocab": [
@@ -157,188 +134,188 @@
       "w": "augment",
       "ipa": "/ɔːɡˈment/",
       "pos": "v.",
-      "cn": "增加 / 扩充",
-      "def": "to make something greater by adding to it",
-      "ex": "The company plans to augment its local workforce by recruiting specialist software developers."
+      "cn": "增加，补充",
+      "def": "to make something greater by adding to it; increase",
+      "ex": "The company decided to augment its sales team ahead of the product launch."
     },
     {
       "w": "contingency",
       "ipa": "/kənˈtɪn.dʒən.si/",
       "pos": "n.",
-      "cn": "应急预案 / 突发事件",
+      "cn": "应急预案，突发事件",
       "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "We must establish a robust contingency plan in case supply lines are disrupted."
+      "ex": "Management established a contingency fund to manage unexpected supply chain delays."
     },
     {
-      "w": "elicit",
-      "ipa": "/iˈlɪs.ɪt/",
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
       "pos": "v.",
-      "cn": "引出 / 启发",
-      "def": "to evoke or draw out a response or answer from someone",
-      "ex": "The town hall meeting was designed to elicit constructive feedback from community members."
+      "cn": "传播，散播",
+      "def": "to spread or disperse information widely",
+      "ex": "The human resources department will disseminate the new compliance policy by Friday."
     },
     {
       "w": "imperative",
       "ipa": "/ɪmˈper.ə.tɪv/",
-      "pos": "n.",
-      "cn": "当务之急 / 必要的事",
-      "def": "an essential or urgent thing; a vital duty",
-      "ex": "Improving energy efficiency has become an economic imperative for manufacturing firms."
+      "pos": "adj.",
+      "cn": "必要的，紧迫的",
+      "def": "of vital importance; crucial",
+      "ex": "It is imperative that all regional offices align their quarterly goals."
     },
     {
       "w": "juxtapose",
-      "ipa": "/ˌdʒʌk.stəˈpəʊz/",
+      "ipa": "/ˈdʒʌk.stə.pəʊz/",
       "pos": "v.",
-      "cn": "并置 / 对比",
-      "def": "to place two things side by side to highlight their contrast",
-      "ex": "The annual financial report juxtaposed last year's losses with this quarter's record profits."
+      "cn": "并列，对比",
+      "def": "to place or deal with close together for contrasting effect",
+      "ex": "The report juxtaposed last year's revenue against current projected earnings."
     },
     {
-      "w": "oversight",
-      "ipa": "/ˈəʊ.və.saɪt/",
+      "w": "proliferation",
+      "ipa": "/prəˌlɪf.əˈreɪ.ʃən/",
       "pos": "n.",
-      "cn": "监管 / 监督",
-      "def": "regulatory supervision or management of an operation",
-      "ex": "Regulatory oversight ensures that financial institutions adhere to fair trading standards."
+      "cn": "激增，扩散",
+      "def": "rapid increase in the number or amount of something",
+      "ex": "The rapid proliferation of mobile payment options transformed local commerce."
     },
     {
-      "w": "preempt",
-      "ipa": "/priːˈempt/",
+      "w": "reconcile",
+      "ipa": "/ˈrek.ən.saɪl/",
       "pos": "v.",
-      "cn": "抢先采取行动",
-      "def": "to take action in order to prevent an anticipated event from happening",
-      "ex": "The central bank acted early to preempt runaway inflation across domestic consumer markets."
+      "cn": "调和，对账",
+      "def": "restore friendly relations or make consistent",
+      "ex": "The accounting team took two days to reconcile the balance sheet discrepancies."
     },
     {
-      "w": "recalibrate",
-      "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
+      "w": "stagnate",
+      "ipa": "/stæɡˈneɪt/",
       "pos": "v.",
-      "cn": "重新调整 / 校准",
-      "def": "to alter or adjust a strategy or mechanism in response to changing conditions",
-      "ex": "Businesses must recalibrate their expansion strategies following the sudden interest rate hike."
+      "cn": "停滞，不发展",
+      "def": "cease to flow or make progress; be inactive",
+      "ex": "Without ongoing innovation, brand market share can easily stagnate."
     },
     {
-      "w": "stagnant",
-      "ipa": "/ˈstæɡ.nənt/",
-      "pos": "adj.",
-      "cn": "停滞不前的",
-      "def": "showing no activity, growth, or development; sluggish",
-      "ex": "Wage growth remained stagnant despite strong employment figures in the retail sector."
+      "w": "truncate",
+      "ipa": "/trʌŋˈkeɪt/",
+      "pos": "v.",
+      "cn": "截短，缩短",
+      "def": "shorten something by cutting off the top or the end",
+      "ex": "Due to time constraints, the speaker had to truncate her presentation."
     },
     {
-      "w": "unilateral",
-      "ipa": "/ˌjuː.nɪˈlæt.ər.əl/",
+      "w": "volatile",
+      "ipa": "/ˈvɒl.ə.taɪl/",
       "pos": "adj.",
-      "cn": "单方面的",
-      "def": "performed by or affecting only one person, group, or country without agreement from others",
-      "ex": "The board made a unilateral decision to restructure the international sales division."
+      "cn": "动荡的，易变的",
+      "def": "liable to change rapidly and unpredictably, especially for the worse",
+      "ex": "Investors remained cautious due to volatile conditions in global energy markets."
     }
   ],
   "listening": {
-    "source": "CNA Market Insight · Intermediate",
-    "title": "Singapore Tech Hub Adapts to Global Semiconductor Shifts",
-    "transcript": "As global markets <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌriːˈkæl.ɪ.breɪt/ (v.) to alter or adjust a plan or strategy in response to changing conditions — 重新调整\">recalibrate</span> their reliance on semiconductor giants, regional investors are looking toward alternative sectors across Southeast Asia. Singapore's position as a key supply chain node provides a unique <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈvɑːn.tɪdʒ ˌpɔɪnt/ (n.) a position giving a good view or clear perspective of a situation — 有利位置 / 视角\">vantage point</span> on these equity realignments. Local funds are increasingly diversifying into regional infrastructure and financial assets to buffer against tech sector <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌvɒl.əˈtɪl.ə.ti/ (n.) liability to change rapidly and unpredictably — 波动性\">volatility</span>."
+    "source": "CNA style · Intermediate",
+    "title": "Singapore's Green Transition in Urban Transport",
+    "transcript": "Singapore is accelerating its <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃ.ən/ (n.) the process or a period of changing from one state to another — 过渡\">transition</span> towards clean-energy public transport by expanding its electric bus fleet across major residential towns. Commuters can expect quieter rides and significantly lower carbon <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/iˈmɪʃ.ənz/ (n.) substances, especially gases, discharged into the air — 排放量\">emissions</span> as old diesel buses are progressively phased out. Authorities emphasize that this initiative aligns directly with the nation's broader Green Plan 2030 goals."
   },
   "economistArticle": {
-    "title": "The Counterweight Strategy: Finding the Anti-AI Trade in Emerging Markets",
+    "title": "The Counter-Weight Market: India's Hedge Against Tech Turbulence",
     "paras": [
-      "For the past two years, global equity markets have been dominated by a single obsession: artificial intelligence. Trillions of dollars in market <span class=\"voc\">capitalisation</span> have flowed into semiconductor foundries, cloud computing giants, and hardware suppliers. Yet, for investors uneasy about skyrocketing valuations and the long-term payoff of generative AI investments, a quiet counter-trend is emerging. When tech stocks stumble, a distinct subset of global equities reliably surges, presenting what portfolio managers now call the anti-AI trade.",
-      "Nowhere is this <span class=\"voc\">inverse</span> correlation more pronounced than in India's stock market. Unlike Silicon Valley or Taiwan, whose public equities are heavily weighted towards advanced hardware and microchips, India's stock exchanges are dominated by consumer banking, domestic infrastructure, and services. <span class=\"gem\">When enthusiasm for hardware suppliers wanes due to <span class=\"voc\">overcapacity</span> fears or delayed adoption timelines, capital flees valuation-heavy tech hubs and seeks shelter in consumer-led growth engines like Mumbai.</span>",
-      "The mechanics behind this trade are <span class=\"voc\">grounded</span> in macroeconomics. High expenditure on AI infrastructure has pushed global interest rates higher and absorbed massive amounts of capital. When tech valuations face correction, broader monetary conditions tend to ease, benefiting credit-hungry emerging markets. Indian banks and domestic developers thrive precisely when global capital steps back from hyper-expensive silicon assets and looks for stable, high-margin domestic consumption.",
-      "Furthermore, the nature of India's corporate earnings provides a structural hedge against disruption fears. While global software services face <span class=\"voc\">existential</span> questions regarding automation, India's core equity indices remain <span class=\"voc\">insulated</span> by physical infrastructure expansion, consumer spending, and credit growth. Investors seeking relief from tech exposure find that Indian equities operate on an entirely different economic <span class=\"voc\">cadence</span>, driven by demographic tailwinds rather than server farm builds.",
-      "This pattern suggests that constructing a resilient portfolio no longer requires completely abandoning growth for defensive cash holdings. Instead, allocation strategies are shifting toward geographical and sectorial dynamic hedges. <span class=\"gem\">As chipmakers navigate volatile supply cycles and uncertain AI returns, Indian equities offer a structural refuge—a reminder that in global finance, every powerful trend generates an equally <span class=\"voc\">lucrative</span> <span class=\"voc\">counterweight</span>.</span>"
+      "For the past two years, global equity indices have danced to a single tune: the dizzying <span class=\"voc\">ascent</span> of artificial intelligence and its hardware enablers. Semiconductor giants in Taiwan, South Korea, and the United States have captured the lion's share of foreign portfolio inflows, driving valuations to lofty heights. Yet this intense <span class=\"voc\">concentration</span> has left fund managers vulnerable to any sudden correction in tech sentiment.",
+      "Intriguingly, an <span class=\"voc\">inverse</span> relationship has begun to emerge between global tech hardware stocks and South Asian equities. <span class=\"gem\">When enthusiasm for semiconductor manufacturers falters, global investors often pivot towards market segments that rely less on silicon cycles and more on domestic consumption.</span> India, with its vast internal market and consumer-driven economy, has increasingly functioned as an anti-AI trade.",
+      "This negative correlation stems from fundamental differences in economic <span class=\"voc\">architecture</span>. Unlike East Asian export powerhouses whose fortunes are <span class=\"voc\">tethered</span> to global technology spending, India's corporate earnings depend heavily on domestic credit growth, infrastructure spending, and financial services. Consequently, broad pullbacks in global technology stocks spark capital reallocation rather than widespread <span class=\"voc\">capitulation</span>.",
+      "Moreover, high semiconductor valuations have prompted institutional investors to seek valuation shelter. While chipmakers trade at <span class=\"voc\">demanding</span> multiples premised on perpetual growth, Indian financial and industrial firms offer earnings visibility grounded in tangible domestic demand. The flow of funds acts as an automatic stabilizer for emerging market portfolios seeking shelter from hardware volatility.",
+      "Whether this inverse dynamic endures depends on how global macroeconomic conditions evolve. If artificial intelligence hype cools permanently, foreign capital may permanently <span class=\"voc\">recalibrate</span> its emerging market weightings. <span class=\"gem\">In an era marked by technological unpredictability, India’s <span class=\"voc\">insulation</span> from the silicon cycle presents a compelling counterweight for risk-conscious investors.</span>"
     ],
-    "cn": "在过去两年中，全球股票市场一直被一个单一的执念所主导：人工智能。数万亿美元的市值涌入了半导体代工厂、云计算巨头和硬件供应商。然而，对于那些对暴涨的估值和生成式人工智能投资的长期回报感到不安的投资者来说，一个安静的逆向趋势正在兴起。当科技股陷入困境时，全球股票的一个特定子集却能够稳健上涨，展现出投资组合经理们现在所说的“反人工智能交易”。\n\n这种负相关关系在印度股市表现得最为明显。与硅谷或台湾不同——后者的公募股权极度依赖于先进硬件和微芯片——印度的证券交易所主要由消费银行、国内基础设施和服务业所主导。当出于对产能过剩的担忧或采用周期的延迟而导致硬件供应商的热情消退时，资金就会从高估值的科技枢纽撤出，并前往像孟买这样由消费驱动的增长引擎中寻找避风港。\n\n这种交易背后的运作机制植根于宏观经济学。在人工智能基础设施上的巨大支出推高了全球利率，并吸收了大量的资金。当科技股估值面临回调时，整体货币环境往往会趋于宽松，从而使饥渴于信贷的新兴市场受益。当全球资本从极其昂贵的硅芯片资产中退步，转而寻找稳定、高利润的国内消费时，印度的银行和本土开发商恰恰能够蓬勃发展。\n\n此外，印度公司盈利的本质为抵御颠覆的担忧提供了结构性套期保值。尽管全球软件服务业面临着关于自动化的生存质疑，但印度的核心股票指数凭借实体基础设施扩展、消费者支出和信贷增长依然保持稳固。寻求摆脱科技股风险敞口的投资者发现，印度股票的运作遵循着完全不同的经济节奏，这种节奏是由人口红利顺风而非服务器机房建设所驱动的。\n\n这一模式表明，构建具有韧性的投资组合不再需要为了防御性现金储备而完全放弃增长。相反，配置策略正在转向地理和行业层面的动态套期保值。随着芯片制造商应对动荡的供应周期和不确定的人工智能回报，印度股票提供了一个结构性的避难所——这提醒人们，在全球金融中，每一个强大的趋势都会产生一个同样有利可图的平衡力量。",
+    "cn": "在过去两年中，全球股票指数一直围绕着同一个主题起舞：人工智能及其硬件支持者的令人眩目的崛起。台湾、韩国和美国的半导体巨头吸纳了大部分外资证券投资，将估值推向高位。然而，这种高度集中也使基金经理更容易受到科技股情绪突然回调的影响。\n\n有趣的是，全球科技硬件股票与南亚股市之间开始呈现出一种逆向关系。当市场对半导体制造商的热情衰退时，全球投资者往往会转向那些较少依赖芯片周期、更多依赖内需的市场板块。凭借庞大的国内市场和消费驱动型经济，印度越来越扮演起“反人工智能交易”的角色。\n\n这种负相关性源于经济结构的根本差异。与财富紧密挂钩于全球科技支出的东亚出口强国不同，印度的企业盈利高度依赖于国内信贷增长、基础设施投资和金融服务。因此，全球科技股的广泛回调引发的是资本重新配置，而非泛的抛售投降。\n\n此外，半导体板块的高估值促使机构投资者寻找估值避风港。虽然芯片制造商的交易估值处于以永久增长为前提的高倍数水平，但印度的金融和工业企业却提供了依托于实体内需的清晰盈利可见度。资金流动充当了新兴市场投资组合抵御硬件波动影响的自动稳定器。\n\n这种逆向动态能否持续，取决于全球宏观经济条件如何演变。如果人工智能的热潮永久降温，外资可能会永久重新调整其新兴市场的配置权重。在一个以技术不可预测性为特征的时代，印度对芯片周期的隔离效应为注重风险控制的投资者提供了一个强有力的平衡杠杆。",
     "vocab": [
       {
-        "w": "capitalisation",
-        "ipa": "/ˌkæp.ɪ.təl.aɪˈzeɪ.ʃən/",
+        "w": "ascent",
+        "ipa": "/əˈsent/",
         "pos": "n.",
-        "mean": "总市值 / 资本化",
-        "def": "the total value of a company's outstanding shares of stock",
-        "ex": "The tech giant reached a market capitalisation of three trillion dollars."
+        "mean": "升高，上升",
+        "def": "a rise of status, power, or value",
+        "ex": "The dizzying ascent of tech stocks surprised analysts."
+      },
+      {
+        "w": "concentration",
+        "ipa": "/ˌkɒn.sənˈtreɪ.ʃən/",
+        "pos": "n.",
+        "mean": "集中度",
+        "def": "the action or process of gathering together in one place",
+        "ex": "Heavy concentration in a few stocks increases portfolio risk."
       },
       {
         "w": "inverse",
         "ipa": "/ɪnˈvɜːs/",
         "pos": "adj.",
-        "mean": "相反的 / 逆向的",
+        "mean": "相反的，逆向的",
         "def": "opposite in position, direction, order, or effect",
         "ex": "There is an inverse relationship between interest rates and bond prices."
       },
       {
-        "w": "wane",
-        "ipa": "/weɪn/",
+        "w": "falter",
+        "ipa": "/ˈfɔːl.tər/",
         "pos": "v.",
-        "mean": "减弱 / 衰退",
-        "def": "to decrease gradually in size, strength, or intensity",
-        "ex": "Investor enthusiasm began to wane after the release of weaker quarterly earnings."
+        "mean": "动摇，衰退",
+        "def": "lose strength or momentum",
+        "ex": "When chip demand falters, investors reallocate capital."
       },
       {
-        "w": "overcapacity",
-        "ipa": "/ˌəʊ.və.kəˈpæs.ə.ti/",
+        "w": "architecture",
+        "ipa": "/ˈɑː.kɪ.tek.tʃər/",
         "pos": "n.",
-        "mean": "产能过剩",
-        "def": "a situation where an industry can produce more goods than market demand requires",
-        "ex": "Fears of overcapacity led semiconductor manufacturers to slow down factory construction."
+        "mean": "结构，体系",
+        "def": "the complex structure or organization of something",
+        "ex": "The underlying architecture of the economy remains resilient."
       },
       {
-        "w": "grounded",
-        "ipa": "/ˈɡraʊn.dɪd/",
+        "w": "tethered",
+        "ipa": "/ˈteð.əd/",
         "pos": "adj.",
-        "mean": "基于...的 / 扎实的",
-        "def": "based on firm principles or clear logical foundations",
-        "ex": "The investment thesis is grounded in solid macroeconomic fundamentals."
+        "mean": "绑定的，挂钩的",
+        "def": "tied or connected to a particular thing",
+        "ex": "Earnings are closely tethered to foreign trade cycles."
       },
       {
-        "w": "existential",
-        "ipa": "/ˌeɡ.zɪˈsten.ʃəl/",
-        "pos": "adj.",
-        "mean": "生存的 / 关乎存亡的",
-        "def": "relating to existence or the continued survival of an entity",
-        "ex": "Rapid technological change poses an existential threat to traditional retail banking."
-      },
-      {
-        "w": "insulated",
-        "ipa": "/ˈɪn.sjə.leɪ.tɪd/",
-        "pos": "adj.",
-        "mean": "免受影响的 / 隔离的",
-        "def": "protected from unpleasant experiences, risks, or financial shocks",
-        "ex": "Domestic consumption helped keep the local economy insulated from external shocks."
-      },
-      {
-        "w": "cadence",
-        "ipa": "/ˈkeɪ.dəns/",
+        "w": "capitulation",
+        "ipa": "/kəˌpɪtʃ.əˈleɪ.ʃən/",
         "pos": "n.",
-        "mean": "节奏 / 韵律",
-        "def": "a regular modulation or rhythmic flow of events or activity",
-        "ex": "Emerging market equities often trade at an economic cadence distinct from Western tech hubs."
+        "mean": "放弃，抛售",
+        "def": "the action of surrendering or giving up resistance",
+        "ex": "The market sell-off ended in complete capitulation."
       },
       {
-        "w": "lucrative",
-        "ipa": "/ˈluː.krə.tɪv/",
+        "w": "demanding",
+        "ipa": "/dɪˈmɑːn.dɪŋ/",
         "pos": "adj.",
-        "mean": "获利丰厚的",
-        "def": "producing a great deal of profit or financial gain",
-        "ex": "The firm expanded its advisory services into several lucrative regional markets."
+        "mean": "苛刻的，高要求的（在此指高估值倍数）",
+        "def": "requiring high standards or multiples",
+        "ex": "Stock prices reflect demanding expectations for future growth."
       },
       {
-        "w": "counterweight",
-        "ipa": "/ˈkaʊn.tə.weɪt/",
+        "w": "recalibrate",
+        "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
+        "pos": "v.",
+        "mean": "重新调整",
+        "def": "adjust or change something in response to new circumstances",
+        "ex": "Fund managers must recalibrate their portfolio allocations."
+      },
+      {
+        "w": "insulation",
+        "ipa": "/ˌɪn.sjəˈleɪ.ʃən/",
         "pos": "n.",
-        "mean": "制衡力量 / 抗衡物",
-        "def": "a factor or force that balances or offsets another force",
-        "ex": "Strong consumer demand acts as a vital counterweight to declining industrial exports."
+        "mean": "隔绝，缓冲",
+        "def": "protection from unpleasant exposures or influences",
+        "ex": "Domestic growth provides insulation from global trade shocks."
       }
     ],
     "gems": [
       {
-        "s": "When enthusiasm for hardware suppliers wanes due to overcapacity fears or delayed adoption timelines, capital flees valuation-heavy tech hubs and seeks shelter in consumer-led growth engines like Mumbai.",
-        "why": "This sentence uses vivid motion verbs ('flees', 'seeks shelter') paired with rich compound nouns ('valuation-heavy tech hubs', 'consumer-led growth engines') to create a clear economic contrast. 这句话运用形象的动作动词与丰富的复合名词形成鲜明对比，展现了资本在科技板块撤资与新兴市场寻找避风港之间的动态关系。"
+        "s": "When enthusiasm for semiconductor manufacturers falters, global investors often pivot towards market segments that rely less on silicon cycles and more on domestic consumption.",
+        "why": "This sentence uses a conditional structure ('When... often pivot towards...') to neatly contrast two economic drivers—silicon cycles versus domestic consumption—illustrating cause-and-effect in financial markets. 该句子使用条件句结构（'When... often pivot towards...'）简洁地对比了芯片周期与国内消费这两个经济驱动因素，生动说明了金融市场中的因果关系。"
       },
       {
-        "s": "As chipmakers navigate volatile supply cycles and uncertain AI returns, Indian equities offer a structural refuge—a reminder that in global finance, every powerful trend generates an equally lucrative counterweight.",
-        "why": "It uses an engaging introductory clause followed by an insightful aphoristic statement after the dash, elevating the business report into broader market philosophy. 该句先提出前提，再在破折号后以富含哲理的言论收尾，使商业分析升华为深刻的金融洞察。"
+        "s": "In an era marked by technological unpredictability, India’s insulation from the silicon cycle presents a compelling counterweight for risk-conscious investors.",
+        "why": "The sentence employs a descriptive prepositional phrase ('In an era marked by...') to set the macroeconomic context before presenting a decisive thesis statement. 该句子通过前置介词短语（'In an era marked by...'）交代宏观背景，随后切入主题，语言凝练且具说服力。"
       }
     ]
   }
