@@ -1,322 +1,75 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T06:50:01.195748+00:00",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T08:09:44.719199+00:00",
   "economist": {
-    "headline": "Where to find the anti-AI trade",
-    "teaser": "The worse chipmakers do, the better Indian equities perform",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
+    "headline": "America does not produce world-beating statistics. Who does?",
+    "teaser": "We search for the world’s worst—and best—economic data",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
     "vocab": [
       {
-        "word": "chipmakers",
+        "word": "produce",
         "phonetic": "",
-        "def": "A company that manufactures integrated circuit chips."
+        "def": "To yield, make or manufacture; to generate."
       },
       {
-        "word": "equities",
-        "phonetic": "",
-        "def": "Fairness, impartiality, or justice as determined in light of \"natural law\" or \"natural right\"."
+        "word": "beating",
+        "phonetic": "/ˈbiːtɪŋ/",
+        "def": "To hit; strike"
       }
     ]
   },
   "st": {
-    "headline": "CNMC Goldmine shares plunge as gold falls below US$4,000",
-    "teaser": "Spot gold fell 0.24% to US$3,872 an ounce on Nov 16.",
-    "url": "https://www.straitstimes.com/business/companies-markets/cnmc-goldmine-shares-plunge-as-gold-falls-below-us4000",
+    "headline": "HSBC offloads US$300m in troubled data centre loan at steep discount",
+    "teaser": "Lenders are weighing AI debt and a regulatory backlash after Democrats swept the US midterms.",
+    "url": "https://www.straitstimes.com/business/banking/hsbc-offloads-us300m-in-troubled-data-centre-loan-at-steep-discount",
     "fullText": [
-      "SINGAPORE - Shares of CNMC Goldmine Holdings plunged on Nov 16, extending recent losses as gold prices dipped below US$4,000 an ounce following a sell-off in the precious metal.",
-      "The mainboard-listed mining stock sank nearly 11% to 85 cents at the midday trading break on Nov 16, bringing its losses to about 20.56% over the past five trading sessions and almost 30% over the past month.",
-      "About 5.5 million shares changed hands during the morning trading session on Nov 16.",
-      "Spot gold, meanwhile, fell 0.24% to US$3,872 (S$4,990) an ounce, as signs that the US Federal Reserve could raise rates weighed on sentiment. This came ahead of remarks by Fed chair Kevin Warsh at a Nov 16 US conference that could offer further clues on the direction of interest rates.",
-      "Gold has fallen nearly 6% since the start of the year, as elevated US Treasury yields and a stronger greenback dampened demand for the precious metal.",
-      "CNMC’s net profit rose 17.8% to US$18.6 million for the six months ended June 30, 2026, from US$15.8 million a year earlier.",
-      "The Singapore-headquartered gold and base metals producer, which operates in Kelantan, Malaysia, generated US$65.2 million in revenue for first half of 2026, up 23.4% from a year earlier, driven by higher gold, silver and zinc prices.",
-      "Revenue from gold produced at its carbon-in-leach plant at its flagship Sokor mine increased 32% to US$49.8 million.",
-      "Revenue from gold produced at its flagship Sokor mine’s carbon-in-leach plant rose 32% to US$49.8 million, even as production fell 6% to 11,105 ounces.",
-      "Including gold produced from lead concentrate at its flotation plant, which is used primarily to recover base metals, the company generated total revenue of US$56.7 million from gold in the first half of 2026, a 27.4% increase from a year earlier.",
-      "Still, CNMC’s all-in production cost is about US$2000 per ounce, so margins would still be intact even if gold retreats further."
+      "HONG KONG – HSBC Holdings offloaded a roughly US$300 million (S$386 million) piece of a loan to build a troubled New Mexico data centre project at a steep discount, underscoring deepening anxiety surrounding the AI boom.",
+      "The bank sold the slice of an US$18 billion financing package, which funds construction of the campus in Dona Ana County tied to Oracle, at prices in the mid-80s, according to people familiar with the matter.",
+      "The sale took place several weeks ago, shortly after Oracle sent a notice to the project’s developer citing force majeure, the people said, asking not to be identified discussing private information.",
+      "HSBC’s move comes as lenders weigh their exposure to AI debt alongside renewed regulatory pushback following a Democratic sweep in the US midterm elections .",
+      "Jensen Huang’s abrupt departure from Nvidia , a linchpin of AI’s rapid expansion, has also triggered concerns about the pace of AI growth.",
+      "The massive venture in southern New Mexico, known as Project Jupiter, has been beset by regulatory hurdles and opposition.",
+      "Oracle sent the force majeure notice to the developer, a unit of Blue Owl Capital, in an attempt to put off payments should the venture get derailed, Bloomberg reported in late September.",
+      "A group of about 20 banks provided the US$18 billion loan to help fund the data centre’s construction, Bloomberg reported in late 2025. The construction financing is referred to as Project Miner. The loan comprises different tranches tied to various buildings at the site.",
+      "While lenders in the syndicated loan market are generally free to sell their stakes in the secondary market, banks holding construction project financing loans typically keep them on their balance sheets.",
+      "In some circumstances, they have to wait for a so-called pooled sell-down agreement to expire before they can sell.",
+      "Banks looking to exit before the completion of a project’s construction will often have to sell their debt at a discount greater than the upfront fees received.",
+      "Project Jupiter is a major part of the Stargate AI infrastructure build-out that US President Donald Trump unveiled in early 2025 alongside leaders of Oracle, OpenAI and SoftBank Group.",
+      "But the campus, designed to handle 2.45 gigawatts, has hit serious setbacks, including delays in acquiring air and pipeline permits key to its plans. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "India's Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
-    "teaser": "India's Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
-    "url": "https://www.channelnewsasia.com/business/indias-mphasis-says-clients-boost-cybersecurity-spending-ai-driven-threats-rise-6554581",
+    "headline": "Trust, innovation key to Singapore's efforts to grow and generate wealth: Alvin Tan",
+    "teaser": "AI research and application in sectors like finance, air and sea connectivity and healthcare are key areas where Singapore can generate wealth, says the minister of state.",
+    "url": "https://www.channelnewsasia.com/singapore/wealth-hub-grow-finance-trust-innovation-6558016",
     "fullText": [
-      "Nov 16 : Blackstone-backed Mphasis said companies globally are increasing cybersecurity spending in the race to strengthen their defences, CEO Nitin Rakesh told Reuters, as AI enables increasingly sophisticated attacks that are faster and cheaper.",
-      "Banks and insurers are leading the increase in cybersecurity spending, aided by larger technology budgets and regulatory requirements, while retailers and consumer firms are also stepping up investments to protect customer data, Rakesh said last week, without providing figures.",
-      "The comments follow a record $6.3 billion theft from cryptocurrency exchange Binance last month, in which hackers used social engineering and compromised AI tools, highlighting the growing complexity of cyber threats.",
-      "Against that backdrop, companies are stepping up cybersecurity spending as AI makes attacks faster and cheaper and increases the number of vulnerabilities they must address.",
-      "A related survey found awareness of advanced AI cyber threats prompted 85 per cent of organisations to plan higher security spending, versus 64 per cent after suffering a breach.",
-      "Rakesh said clients were increasingly investing in identity and access controls covering employees, software accounts and automated agents, while also using AI to detect and fix vulnerabilities.",
-      "While threat detection is already heavily automated, fixing vulnerabilities still requires significant manual work, he said.",
-      "\"You can't really throw people at that problem because you won't be able to keep up with the volume that is required in the time-frame that you need to fix those patches,\" Rakesh said.",
+      "SINGAPORE: Singapore is focusing on trust and innovation in its role as a global financial hub where wealth can continue to grow and be generated, Minister of State for Foreign Affairs and National Development Alvin Tan said on Tuesday (Nov 17).",
+      "For global investors, this means not just parking their wealth in the country or funds flowing out to invest in external markets, but creating new opportunities for wealth in Singapore, he told an audience at the inaugural HSBC Singapore Wealth Investment Summit.",
+      "The financial sector contributes about 14 per cent to Singapore's GDP and employs about 200,000 people, noted Mr Tan, who is also a Monetary Authority of Singapore (MAS) board member.",
+      "Noting that the financial sector is wide and spans areas like wealth and asset management, banking and fintech, he said agentic finance and artificial intelligence (AI) are among Singapore's areas of innovation.",
+      "Financial institutions are establishing AI competency centres in Singapore, building on multimillion dollar investments by frontier AI labs like OpenAI and Google DeepMind , he added.",
+      "Aside from finance, he pointed to Singapore's air and sea connectivity, advanced manufacturing, healthcare and the built environment as key areas for AI deployment and innovation.",
+      "Turning to trust, Mr Tan said that Singapore takes a \"risk-proportionate\" approach in the financial sector even as it seeks to maintain its status as a strong regulatory hub.",
+      "Singapore tightened anti-money laundering measures and slapped millions of dollars in penalties on banks in the wake of the S$3 billion Fujian gang money laundering case.",
+      "Mr Tan pointed to safeguards around account openings, while reducing the time it takes to open an account, as a specific area of anti-money laundering efforts where banks are working with Singapore authorities.",
+      "Geopolitical fragmentation and its impact on capital markets were the focus of another panel featuring Singapore's former foreign minister George Yeo and former US deputy secretary of the treasury Justin Muzinich.",
+      "Mr Yeo, now a visiting scholar at the Lee Kuan Yew School of Public Policy, said that investors should not assume continuity, but must learn to anticipate disruptions.",
+      "\"In this period we are in, it's good to think through different possible failure scenarios,\" he said, citing the bursting of the AI bubble, the collapse of the US dollar, the bungling of China's leadership transition and the use of nuclear weapons in the Middle East as potential scenarios.",
+      "Mr Muzinich, CEO of investment firm Muzinich & Co, said that after the US government stepped in effectively in the last two economic crises in 2008 and 2020, people assume that it will continue to be able to do so.",
+      "He said that unlike the crisis triggered by the COVID-19 pandemic, which was an external event, it was uncertain if there would be the political will for another massive fiscal stimulus if the next crisis is internally generated by industry, such as developments in AI.",
+      "Mr Yeo was also asked how Singapore can preserve manoeuvring space in a world where trade, investment and finance can become instruments of political pressure.",
+      "\"We have to be flexible but firm, and our reputation is everything,\" he said.",
+      "He referred to how the government issued a statement clarifying its investigations into Alice Huang , the former executive of Singapore-based Megaspeed, after revelations of her affair with Nvidia CEO Jensen Huang and allegations that she was spying for Beijing.",
+      "If being firm means that \"there's a price to be paid, so be it\", Mr Yeo added.",
+      "Earlier on, Mr Tan also discussed Singapore's \"immense\" potential as a philanthropy hub where those who have wealth can give back and leave a legacy.",
+      "He pointed to the Impact Philanthropy Partnership between the Private Banking Industry Group and Wealth Management Institute, which is supported by MAS, as well as philanthropy tax incentives for single family offices.",
+      "Governing a vulnerable country like Singapore means making plans decades into the future, and the hope is that the government can continue to maintain the country as a financial hub generating good jobs for Singaporeans, he said.",
       "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
     ]
   },
   "mom": {
-    "headline": "Former Site Manager Convicted and Imprisoned for Demanding Kickbacks from Migrant Workers",
-    "teaser": "Former Site Manager Convicted and Imprisoned for Demanding Kickbacks from Migrant Workers",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1111-former-site-manager-convicted-and-imprisoned-for-demanding-kickbacks-from-migrant-workers"
-  },
-  "lifeVocab": [
-    {
-      "en": "borrow a book",
-      "cn": "借书",
-      "def": "to take a book from a library for a limited period of time",
-      "ex": "You can borrow up to sixteen books at a time using your NLB app.",
-      "emoji": "📚"
-    },
-    {
-      "en": "reservation",
-      "cn": "预约/保留",
-      "def": "an arrangement to hold a book or facility for someone",
-      "ex": "I placed a reservation for the popular novel online.",
-      "emoji": "🔖"
-    },
-    {
-      "en": "quiet zone",
-      "cn": "静音区",
-      "def": "a designated area in a library where visitors must keep noise to a minimum",
-      "ex": "Please put your mobile phone on silent when entering the quiet zone.",
-      "emoji": "🤫"
-    },
-    {
-      "en": "renewal",
-      "cn": "续借",
-      "def": "an extension of the loan period for a borrowed item",
-      "ex": "If no one else has reserved the book, you can apply for an automatic renewal.",
-      "emoji": "🔄"
-    },
-    {
-      "en": "overdue fine",
-      "cn": "逾期罚款",
-      "def": "a fee charged for returning borrowed library materials after the due date",
-      "ex": "She paid a small overdue fine because she returned the art manual late.",
-      "emoji": "💸"
-    },
-    {
-      "en": "digital catalogue",
-      "cn": "数字图书目录",
-      "def": "an online searchable database of library resources",
-      "ex": "Search the digital catalogue to check which branch holds the title.",
-      "emoji": "💻"
-    },
-    {
-      "en": "audiobook",
-      "cn": "有声读物",
-      "def": "an audiocassette or CD recording of a book being read aloud",
-      "ex": "He prefers listening to audiobooks during his daily MRT commute.",
-      "emoji": "🎧"
-    },
-    {
-      "en": "study corner",
-      "cn": "自习角",
-      "def": "a specific seating area allocated for focused individual work or study",
-      "ex": "Students occupied almost every desk at the library study corner during exam season.",
-      "emoji": "✍️"
-    },
-    {
-      "en": "return chute",
-      "cn": "还书口",
-      "def": "a small opening or slot where borrowed items can be dropped off after hours",
-      "ex": "You can drop off your borrowed items at the 24-hour return chute outside.",
-      "emoji": "📮"
-    },
-    {
-      "en": "e-read",
-      "cn": "电子书阅读",
-      "def": "a digital publication or ebook designed to be read on electronic devices",
-      "ex": "The app offers thousands of e-reads accessible directly from your tablet.",
-      "emoji": "📱"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "augment",
-      "ipa": "/ɔːɡˈment/",
-      "pos": "v.",
-      "cn": "增加，补充",
-      "def": "to make something greater by adding to it; increase",
-      "ex": "The company decided to augment its sales team ahead of the product launch."
-    },
-    {
-      "w": "contingency",
-      "ipa": "/kənˈtɪn.dʒən.si/",
-      "pos": "n.",
-      "cn": "应急预案，突发事件",
-      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "Management established a contingency fund to manage unexpected supply chain delays."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
-      "pos": "v.",
-      "cn": "传播，散播",
-      "def": "to spread or disperse information widely",
-      "ex": "The human resources department will disseminate the new compliance policy by Friday."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪmˈper.ə.tɪv/",
-      "pos": "adj.",
-      "cn": "必要的，紧迫的",
-      "def": "of vital importance; crucial",
-      "ex": "It is imperative that all regional offices align their quarterly goals."
-    },
-    {
-      "w": "juxtapose",
-      "ipa": "/ˈdʒʌk.stə.pəʊz/",
-      "pos": "v.",
-      "cn": "并列，对比",
-      "def": "to place or deal with close together for contrasting effect",
-      "ex": "The report juxtaposed last year's revenue against current projected earnings."
-    },
-    {
-      "w": "proliferation",
-      "ipa": "/prəˌlɪf.əˈreɪ.ʃən/",
-      "pos": "n.",
-      "cn": "激增，扩散",
-      "def": "rapid increase in the number or amount of something",
-      "ex": "The rapid proliferation of mobile payment options transformed local commerce."
-    },
-    {
-      "w": "reconcile",
-      "ipa": "/ˈrek.ən.saɪl/",
-      "pos": "v.",
-      "cn": "调和，对账",
-      "def": "restore friendly relations or make consistent",
-      "ex": "The accounting team took two days to reconcile the balance sheet discrepancies."
-    },
-    {
-      "w": "stagnate",
-      "ipa": "/stæɡˈneɪt/",
-      "pos": "v.",
-      "cn": "停滞，不发展",
-      "def": "cease to flow or make progress; be inactive",
-      "ex": "Without ongoing innovation, brand market share can easily stagnate."
-    },
-    {
-      "w": "truncate",
-      "ipa": "/trʌŋˈkeɪt/",
-      "pos": "v.",
-      "cn": "截短，缩短",
-      "def": "shorten something by cutting off the top or the end",
-      "ex": "Due to time constraints, the speaker had to truncate her presentation."
-    },
-    {
-      "w": "volatile",
-      "ipa": "/ˈvɒl.ə.taɪl/",
-      "pos": "adj.",
-      "cn": "动荡的，易变的",
-      "def": "liable to change rapidly and unpredictably, especially for the worse",
-      "ex": "Investors remained cautious due to volatile conditions in global energy markets."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore's Green Transition in Urban Transport",
-    "transcript": "Singapore is accelerating its <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/trænˈzɪʃ.ən/ (n.) the process or a period of changing from one state to another — 过渡\">transition</span> towards clean-energy public transport by expanding its electric bus fleet across major residential towns. Commuters can expect quieter rides and significantly lower carbon <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/iˈmɪʃ.ənz/ (n.) substances, especially gases, discharged into the air — 排放量\">emissions</span> as old diesel buses are progressively phased out. Authorities emphasize that this initiative aligns directly with the nation's broader Green Plan 2030 goals."
-  },
-  "economistArticle": {
-    "title": "The Counter-Weight Market: India's Hedge Against Tech Turbulence",
-    "paras": [
-      "For the past two years, global equity indices have danced to a single tune: the dizzying <span class=\"voc\">ascent</span> of artificial intelligence and its hardware enablers. Semiconductor giants in Taiwan, South Korea, and the United States have captured the lion's share of foreign portfolio inflows, driving valuations to lofty heights. Yet this intense <span class=\"voc\">concentration</span> has left fund managers vulnerable to any sudden correction in tech sentiment.",
-      "Intriguingly, an <span class=\"voc\">inverse</span> relationship has begun to emerge between global tech hardware stocks and South Asian equities. <span class=\"gem\">When enthusiasm for semiconductor manufacturers falters, global investors often pivot towards market segments that rely less on silicon cycles and more on domestic consumption.</span> India, with its vast internal market and consumer-driven economy, has increasingly functioned as an anti-AI trade.",
-      "This negative correlation stems from fundamental differences in economic <span class=\"voc\">architecture</span>. Unlike East Asian export powerhouses whose fortunes are <span class=\"voc\">tethered</span> to global technology spending, India's corporate earnings depend heavily on domestic credit growth, infrastructure spending, and financial services. Consequently, broad pullbacks in global technology stocks spark capital reallocation rather than widespread <span class=\"voc\">capitulation</span>.",
-      "Moreover, high semiconductor valuations have prompted institutional investors to seek valuation shelter. While chipmakers trade at <span class=\"voc\">demanding</span> multiples premised on perpetual growth, Indian financial and industrial firms offer earnings visibility grounded in tangible domestic demand. The flow of funds acts as an automatic stabilizer for emerging market portfolios seeking shelter from hardware volatility.",
-      "Whether this inverse dynamic endures depends on how global macroeconomic conditions evolve. If artificial intelligence hype cools permanently, foreign capital may permanently <span class=\"voc\">recalibrate</span> its emerging market weightings. <span class=\"gem\">In an era marked by technological unpredictability, India’s <span class=\"voc\">insulation</span> from the silicon cycle presents a compelling counterweight for risk-conscious investors.</span>"
-    ],
-    "cn": "在过去两年中，全球股票指数一直围绕着同一个主题起舞：人工智能及其硬件支持者的令人眩目的崛起。台湾、韩国和美国的半导体巨头吸纳了大部分外资证券投资，将估值推向高位。然而，这种高度集中也使基金经理更容易受到科技股情绪突然回调的影响。\n\n有趣的是，全球科技硬件股票与南亚股市之间开始呈现出一种逆向关系。当市场对半导体制造商的热情衰退时，全球投资者往往会转向那些较少依赖芯片周期、更多依赖内需的市场板块。凭借庞大的国内市场和消费驱动型经济，印度越来越扮演起“反人工智能交易”的角色。\n\n这种负相关性源于经济结构的根本差异。与财富紧密挂钩于全球科技支出的东亚出口强国不同，印度的企业盈利高度依赖于国内信贷增长、基础设施投资和金融服务。因此，全球科技股的广泛回调引发的是资本重新配置，而非泛的抛售投降。\n\n此外，半导体板块的高估值促使机构投资者寻找估值避风港。虽然芯片制造商的交易估值处于以永久增长为前提的高倍数水平，但印度的金融和工业企业却提供了依托于实体内需的清晰盈利可见度。资金流动充当了新兴市场投资组合抵御硬件波动影响的自动稳定器。\n\n这种逆向动态能否持续，取决于全球宏观经济条件如何演变。如果人工智能的热潮永久降温，外资可能会永久重新调整其新兴市场的配置权重。在一个以技术不可预测性为特征的时代，印度对芯片周期的隔离效应为注重风险控制的投资者提供了一个强有力的平衡杠杆。",
-    "vocab": [
-      {
-        "w": "ascent",
-        "ipa": "/əˈsent/",
-        "pos": "n.",
-        "mean": "升高，上升",
-        "def": "a rise of status, power, or value",
-        "ex": "The dizzying ascent of tech stocks surprised analysts."
-      },
-      {
-        "w": "concentration",
-        "ipa": "/ˌkɒn.sənˈtreɪ.ʃən/",
-        "pos": "n.",
-        "mean": "集中度",
-        "def": "the action or process of gathering together in one place",
-        "ex": "Heavy concentration in a few stocks increases portfolio risk."
-      },
-      {
-        "w": "inverse",
-        "ipa": "/ɪnˈvɜːs/",
-        "pos": "adj.",
-        "mean": "相反的，逆向的",
-        "def": "opposite in position, direction, order, or effect",
-        "ex": "There is an inverse relationship between interest rates and bond prices."
-      },
-      {
-        "w": "falter",
-        "ipa": "/ˈfɔːl.tər/",
-        "pos": "v.",
-        "mean": "动摇，衰退",
-        "def": "lose strength or momentum",
-        "ex": "When chip demand falters, investors reallocate capital."
-      },
-      {
-        "w": "architecture",
-        "ipa": "/ˈɑː.kɪ.tek.tʃər/",
-        "pos": "n.",
-        "mean": "结构，体系",
-        "def": "the complex structure or organization of something",
-        "ex": "The underlying architecture of the economy remains resilient."
-      },
-      {
-        "w": "tethered",
-        "ipa": "/ˈteð.əd/",
-        "pos": "adj.",
-        "mean": "绑定的，挂钩的",
-        "def": "tied or connected to a particular thing",
-        "ex": "Earnings are closely tethered to foreign trade cycles."
-      },
-      {
-        "w": "capitulation",
-        "ipa": "/kəˌpɪtʃ.əˈleɪ.ʃən/",
-        "pos": "n.",
-        "mean": "放弃，抛售",
-        "def": "the action of surrendering or giving up resistance",
-        "ex": "The market sell-off ended in complete capitulation."
-      },
-      {
-        "w": "demanding",
-        "ipa": "/dɪˈmɑːn.dɪŋ/",
-        "pos": "adj.",
-        "mean": "苛刻的，高要求的（在此指高估值倍数）",
-        "def": "requiring high standards or multiples",
-        "ex": "Stock prices reflect demanding expectations for future growth."
-      },
-      {
-        "w": "recalibrate",
-        "ipa": "/ˌriːˈkæl.ɪ.breɪt/",
-        "pos": "v.",
-        "mean": "重新调整",
-        "def": "adjust or change something in response to new circumstances",
-        "ex": "Fund managers must recalibrate their portfolio allocations."
-      },
-      {
-        "w": "insulation",
-        "ipa": "/ˌɪn.sjəˈleɪ.ʃən/",
-        "pos": "n.",
-        "mean": "隔绝，缓冲",
-        "def": "protection from unpleasant exposures or influences",
-        "ex": "Domestic growth provides insulation from global trade shocks."
-      }
-    ],
-    "gems": [
-      {
-        "s": "When enthusiasm for semiconductor manufacturers falters, global investors often pivot towards market segments that rely less on silicon cycles and more on domestic consumption.",
-        "why": "This sentence uses a conditional structure ('When... often pivot towards...') to neatly contrast two economic drivers—silicon cycles versus domestic consumption—illustrating cause-and-effect in financial markets. 该句子使用条件句结构（'When... often pivot towards...'）简洁地对比了芯片周期与国内消费这两个经济驱动因素，生动说明了金融市场中的因果关系。"
-      },
-      {
-        "s": "In an era marked by technological unpredictability, India’s insulation from the silicon cycle presents a compelling counterweight for risk-conscious investors.",
-        "why": "The sentence employs a descriptive prepositional phrase ('In an era marked by...') to set the macroeconomic context before presenting a decisive thesis statement. 该句子通过前置介词短语（'In an era marked by...'）交代宏观背景，随后切入主题，语言凝练且具说服力。"
-      }
-    ]
+    "headline": "13 Individuals Charged with False Declaration Offences in Work Pass Applications",
+    "teaser": "13 individuals linked to construction companies have been charged with false declaration offences under the Employment of Foreign Manpower Act (EFMA). This follows MOM's investigations into alleged arrangements to inflate foreign worker quotas by making CPF contributions to individuals who did not genuinely work for th",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1117-13-individuals-charged-with-false-declaration-offences-in-work-pass-applications"
   }
 }
