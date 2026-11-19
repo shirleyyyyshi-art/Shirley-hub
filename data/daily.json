@@ -1,334 +1,77 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T07:43:42.259286+00:00",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T07:39:51.376414+00:00",
   "economist": {
-    "headline": "Why startups still go public, eventually",
-    "teaser": "Costly regulation is not a big deterrent to IPOs",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+    "headline": "Meet the European Central Bank’s new squad",
+    "teaser": "A Spaniard, a German and a Frenchwoman",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
     "vocab": [
       {
-        "word": "startups",
-        "phonetic": "",
-        "def": "The act or process of starting a process or machine."
-      },
-      {
-        "word": "eventually",
-        "phonetic": "/ɪ.ˈvɛn.tjʊ.li/",
-        "def": "In the end; at some later time, especially after a long time, a series of problems, struggles, delays or setbacks."
+        "word": "central",
+        "phonetic": "/ˈsɛntɹəl/",
+        "def": "Being in the centre."
       }
     ]
   },
   "st": {
-    "headline": "Singlife to phase out Singlife Account insurance savings plan by end-2027",
-    "teaser": "The move does not affect customers who hold other insurance policies.",
-    "url": "https://www.straitstimes.com/business/singlife-to-phase-out-singlife-account-insurance-savings-plan-by-end-2027",
+    "headline": "South Korea’s exports top US$1 trillion for first time on chip boom",
+    "teaser": "Cumulative exports crossed the mark on Nov 19, 62 years after reaching US$100 million.",
+    "url": "https://www.straitstimes.com/business/south-koreas-exports-top-us1-trillion-for-first-time-on-chip-boom",
     "fullText": [
-      "SINGAPORE – Home-grown insurer Singlife will discontinue its savings and insurance product Singlife Account, with all remaining accounts to be closed by Dec 16, 2027.",
-      "Singlife said it generally does not disclose customer numbers for individual products.",
-      "The decision to discontinue Singlife Account is “part of our ongoing review of our product offerings to ensure they remain relevant to customers’ evolving financial needs”, said a Singlife spokesperson on Nov 18.",
-      "In an e-mail on Nov 16 at about 5pm, Singlife Account executive director Bernard Low notified existing customers of the account closure, providing details on what to expect from the changes. Customers also received a pop-up notification on their Singlife app.",
-      "Singlife will also stop accepting new account applications.",
-      "The closure date depends on the account value. Accounts with less than $100 will close on Dec 16, 2026. If the account has remained below $100 for more than 120 days as of Nov 11, 2026, it will close from Dec 16, 2026. If the 120-day mark is reached after Nov 11, 2026, the account will be closed in the following month.",
-      "Accounts with $100 and above will close on Dec 16, 2027. Until then, customers with at least $100 in their accounts can continue to make top-ups and withdrawals, earn the base rate of 1.5% per annum, and continue to be covered as long as their policy remains in force.",
-      "The insurance coverage bundled with the Singlife Account will lapse when the account is closed, but existing customers can still submit claims for insured events that occurred while the policy was in force.",
-      "From Dec 16, 2026, customers will no longer be able to make payments to third-party merchants using funds from the Singlife Account via PayNow UEN.",
-      "Customers can opt to withdraw their funds earlier, but the account will still close on its scheduled date. Singlife urged customers to make sure they have linked and updated their bank account details in the Singlife app to automatically return their remaining funds. If the refund process fails, customers will be contacted.",
-      "The discontinuation of Singlife Account does not affect customers who hold other insurance policies with Singlife.",
-      "Singlife was founded by former HSBC Insurance Singapore CEO Walter de Oude in 2014. He led Singlife’s acquisition and integration of Singlife with Aviva in 2020, before leaving the firm. He launched Chocolate Finance in 2024.",
-      "In several Reddit threads posted on Nov 16, some existing customers discussed alternatives to switch their cash to, laying out other options in the market, such as MariBank, GXS Bank, Trust Bank, Syfe, Chocolate Finance and SingFinance.",
-      "The Singlife Account, launched in 2019, is an insurance savings plan that functions much like a savings account, allowing customers to earn returns on their deposits with no lock-in period and fees. It also provides payment features, and death or terminal illness coverage of up to 105% of the account value.",
-      "In a media release announcing Singlife’s merger with Aviva Singapore in 2020, it reported that the Singlife Account hit 100,000 downloads within the first three months of launch, with customers entrusting almost $500 million through the product. It was also referred to as a “mobile-first” insurance savings plan.",
-      "At the time, customers could earn 2.5% interest per annum on their first $10,000 with an initial contribution of $500.",
-      "Singlife is now a wholly owned subsidiary of Sumitomo Life , a Japanese insurer based in Osaka.",
-      "“C ustomer needs have evolved, and we are focusing our efforts on developing solutions that better serve our customers,” said the firm spokesperson.",
-      "As demand for legacy planning solutions grows, the insurer recently introduced newer insurance savings plans, such as Singlife Heritage Income to help individuals preserve and distribute their wealth."
+      "SEOUL – South Korea’s annual exports surpassed US$1 trillion (S$1.29 trillion) for the first time, making it the fourth country to reach the milestone after Germany, the US and China, and the first new entrant to the club in 19 years, as global spending on artificial intelligence sent semiconductor prices and shipments soaring.",
+      "Cumulative exports crossed the mark at 2.09pm on Nov 19 (1.09pm Singapore time), a year after first topping US$700 billion and 62 years after reaching US$100 million.",
+      "President Lee Jae Myung hailed the achievement as the culmination of generations of effort, paying tribute to workers who spent their youth in garment factories, shoe plants and shipyards.",
+      "“The gains from exports must, above all, improve people’s lives,” Lee said in a message on X, pledging to ensure that growth benefits large and small companies and communities across the country.",
+      "“We must now turn this achievement into sustained growth. We will strengthen the competitiveness of our key industries and nurture future growth engines such as AI and biotechnology.",
+      "“We will also actively support Korean consumer products, including beauty products and food, as they expand into global markets.”",
+      "Germany and the US crossed the US$1 trillion mark in 2006, followed by China in 2007, riding a trade boom after China joined the World Trade Organization.",
+      "South Korea did so amid rising tariffs and the US-China rivalry, with a population of 51.6 million and an economy of just US$1.88 trillion, smaller than any of its predecessors at the time.",
+      "The Ministry of Trade, Industry and Resources projects full-year exports of US$1.17 trillion, up about 65% from a record US$709.3 billion in 2025.",
+      "“Given our smaller population and economy, this is a remarkable achievement,” Kang Kam-chan, the ministry’s deputy minister for trade and investment, told reporters.",
+      "Exports totalled US$930.2 billion in the first 10 months, including US$396.8 billion in semiconductors, accounting for about 43% of the total and nearly triple the previous record for the period.",
+      "AI data centre demand drove up DRAM and NAND prices, while the build-out lifted shipments of solid-state drives, transformers, cables and copper, according to the ministry.",
+      "Exports excluding chips rose 20%, with 16 of 20 major categories gaining. Cosmetics exports reached US$12.4 billion, topping the 2025 full-year record in 10 months. Shipments rose in seven of nine major markets, led by China, up 88%, and the US, up 77%. Small and midsize companies also posted record exports.",
+      "Imports rose 21% to US$635.1 billion, leaving a surplus of about US$295 billion through October, against US$77.4 billion for all of 2025.",
+      "“Part of the US$1 trillion belongs to imports,” Kang said, citing steady supplies of crude oil, naphtha and chipmaking equipment.",
+      "Much of the record reflects higher prices, not higher output. Kang said rising prices drove much of the growth, as AI demand sent memory chip prices soaring and petroleum product export prices jumped 62% to US$1,105 a ton.",
+      "Kang acknowledged the gains have gone mostly to large companies, citing structural limits in chips and petrochemicals, which have short supply chains and employ relatively few workers, unlike automobiles or ships.",
+      "“It is regrettable that the profits have not flowed through to suppliers,” he said, adding that new chip plants and joint research with equipment-makers could spread the benefits.",
+      "Normally, a large trade surplus lifts the won, because exporters convert their dollar earnings into local currency. But many keep those dollars abroad or spend them on imported parts and overseas factories, meaning less of the surplus reaches the currency market.",
+      "Kang said exports could exceed US$1 trillion again in 2027, though easing chip and oil prices could pull them below the 2026 level.",
+      "He expects AI infrastructure demand to hold through the third quarter of 2027. Delays in US data centre projects, Chinese competition and protectionism remain risks.",
+      "Kang said Korea’s major industries appear to be undergoing a structural shift. When exports first passed US$10 billion in 1977, they were led by ships, frozen fish, plywood and clothing. The AI build-out now creates markets for Korean power equipment, copper and aluminium alongside chips.",
+      "That shift, he said, calls for rethinking how Korea manages its surpluses. Japan, Germany and China channelled theirs into overseas investment that now returns income home.",
+      "“As an economy matures and costs rise, it cannot keep expanding production at home indefinitely,” Kang said. “The export structure has to gradually shift toward investment.”",
+      "He sees overseas investment as a way to build strategic ties, particularly with partners sensitive to trade deficits, such as the US, where the administration of Donald Trump has made shrinking them a priority.",
+      "Korean factories abroad can create local jobs, buy from local suppliers and export to third markets, giving partners a stake in the relationship.",
+      "“Korea should not be a country that simply sells goods,” he said.",
+      "Asked whether Korea would follow Japan, which came to rely on income from overseas investment after the 1985 Plaza Accord, Kang said Korea is likely to take a similar path.",
+      "But he noted that Japanese companies prospered while ordinary Japanese saw fewer gains.",
+      "Korea should instead keep research and “mother factories”, the advanced plants that develop new processes, at home while expanding overseas, he said. THE KOREA HERALD /ASIA NEWS NETWORK"
     ]
   },
   "cna": {
-    "headline": "Thailand orders clean water for thousands facing arsenic pollution",
-    "teaser": "Thailand orders clean water for thousands facing arsenic pollution",
-    "url": "https://www.channelnewsasia.com/asia/thailand-arsenic-water-pollution-chiang-rai-6561821",
+    "headline": "Norris casts Russell as F1's Bond candidate",
+    "teaser": "Norris casts Russell as F1's Bond candidate",
+    "url": "https://www.channelnewsasia.com/sport/norris-casts-russell-f1s-bond-candidate-6565186",
     "fullText": [
-      "BANGKOK: Thai authorities scrambled on Wednesday (Nov 18) to provide clean water for more than 20,000 households in the country's north affected by arsenic pollution linked to mining operations in neighbouring Myanmar.",
-      "Prime Minister Anutin Charnvirakul late on Tuesday ordered government agencies to find alternative water sources and closely monitor tap water quality in Chiang Rai province, said deputy government spokeswoman Lalida Persvivatana.",
-      "Tap water supplies to 14 villages in Mae Sai district near the Myanmar border were suspended this month after officials found arsenic levels in the local waterworks to be 30 times higher than the safe limit.",
-      "The villages comprise more than 20,000 households, the government said.",
-      "Authorities have deployed two trucks to supply residents with clean drinking water, while the government is also considering alternative river water sources.",
-      "Researchers at Naresuan University said last week that chemical analysis and satellite modelling traced much of the arsenic-laden sediment in the Sai River to gold mining operations across the border in Myanmar.",
-      "Myanmar's long-running civil war enables unregulated exploitation of natural resources, including rare earth elements used in smartphones, wind turbines and electric vehicles.",
-      "Thai Foreign Minister Sihasak Phuangketkeow raised the issue of what he said was a \"dramatic\" increase in pollution in the Sai River during a visit last week to Myanmar to meet government officials.",
-      "He blamed \"wastewater from mining\", adding that it was an \"urgent matter that needs urgent attention\".",
-      "The Thai government says it has also discussed the issue with Beijing, with researchers saying many of the mining operations in Myanmar are Chinese-run.",
-      "There are fears the pollution is being washed far down the Mekong River, a waterway supporting millions of people across several countries.",
-      "Thai officials said arsenic had been found in the urine of 17 out of 177 people tested in October in the northeastern province of Nong Khai, on the border with Laos.",
-      "An automated curation of our top stories to start your day."
+      "LAS VEGAS, Nov 18 : Lando Norris has nominated George Russell as Formula One's most likely James Bond, citing the Mercedes driver's fondness for suits and apparent readiness to trade the paddock for a licence to kill.",
+      "Asked which current driver would best suit the role of Britain's best-known fictional spy, McLaren's Norris offered a swift answer.",
+      "\"George,\" he told reporters ahead of Saturday's Las Vegas Grand Prix.",
+      "\"I mean, he normally dresses in suits and stuff. I reckon George would stop Formula One to become James Bond.",
+      "On Monday, it was revealed that Russell's compatriot Robert Pattinson will be the next James Bond, taking on one of cinema's most coveted roles.",
+      "Russell, who has occasionally been described as one of the more polished figures in the Formula One paddock, said he was taken aback by praise from his rival.",
+      "\"I was surprised to hear Lando say something nice about me, so that's one thing,\" he said with a laugh.",
+      "Russell, whose current racing number is 63, said the Bond franchise had long been a favourite.",
+      "\"James Bond has always been my favourite movie. I love the character,\" he said.",
+      "\"But yeah, I said before, 0063 for a few more years and then see what my career takes me. Maybe post-career.\"",
+      "For now, Russell's principal missions remain qualifying laps, tyre management and beating Norris on track, although a tailored tuxedo may be waiting after Formula One.",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
-    "headline": "13 Individuals Charged with False Declaration Offences in Work Pass Applications",
-    "teaser": "13 individuals linked to construction companies have been charged with false declaration offences under the Employment of Foreign Manpower Act (EFMA). This follows MOM's investigations into alleged arrangements to inflate foreign worker quotas by making CPF contributions to individuals who did not genuinely work for th",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1117-13-individuals-charged-with-false-declaration-offences-in-work-pass-applications"
-  },
-  "lifeVocab": [
-    {
-      "en": "triage",
-      "cn": "检伤分类",
-      "def": "the process of deciding the order of treatment of patients based on their need",
-      "ex": "The nurse at the polyclinic assigned me to priority triage because of my high fever.",
-      "emoji": "🏥"
-    },
-    {
-      "en": "queue ticket",
-      "cn": "排队号码单",
-      "def": "a printed slip with a number showing your turn for service",
-      "ex": "Don't forget to take a queue ticket at the self-service kiosk upon arrival.",
-      "emoji": "🎫"
-    },
-    {
-      "en": "consultation",
-      "cn": "看诊 / 问诊",
-      "def": "a meeting with a doctor to seek medical advice",
-      "ex": "My consultation lasted less than ten minutes, but the doctor was very thorough.",
-      "emoji": "👨‍⚕️"
-    },
-    {
-      "en": "dispensary",
-      "cn": "药房",
-      "def": "a room or counter where medicines are prepared and given out",
-      "ex": "Please wait near the dispensary until your number is called on the screen.",
-      "emoji": "💊"
-    },
-    {
-      "en": "referral letter",
-      "cn": "转诊信",
-      "def": "an official letter from a doctor sending a patient to a specialist",
-      "ex": "The general practitioner gave me a referral letter to see an orthopaedic specialist.",
-      "emoji": "📄"
-    },
-    {
-      "en": "medical certificate",
-      "cn": "病假单",
-      "def": "an official document from a doctor certifying illness for sick leave",
-      "ex": "He submitted his medical certificate to human resources after taking two days of sick leave.",
-      "emoji": "📝"
-    },
-    {
-      "en": "co-payment",
-      "cn": "自付额",
-      "def": "a fixed amount paid by a patient for a healthcare service",
-      "ex": "My company insurance covered most of the bill, leaving me with a small co-payment.",
-      "emoji": "💳"
-    },
-    {
-      "en": "symptom",
-      "cn": "症状",
-      "def": "a physical or mental feature indicating a condition or disease",
-      "ex": "Fever and a sore throat are common symptoms of a viral infection.",
-      "emoji": "🤒"
-    },
-    {
-      "en": "chronic condition",
-      "cn": "慢性疾病",
-      "def": "a long-term medical health condition that requires ongoing attention",
-      "ex": "Singapore's Healthier SG initiative helps residents manage chronic conditions like diabetes.",
-      "emoji": "🩺"
-    },
-    {
-      "en": "prescription",
-      "cn": "处方",
-      "def": "an official note from a doctor authorizing a patient to get medicine",
-      "ex": "The doctor issued a digital prescription directly to the pharmacy.",
-      "emoji": "📑"
-    }
-  ],
-  "levelVocab": [
-    {
-      "w": "commensurate",
-      "ipa": "/kəˈmen.sjər.ət/",
-      "pos": "adj.",
-      "cn": "相称的 / 相当的",
-      "def": "corresponding in size or degree; in proportion",
-      "ex": "Salary will be commensurate with your experience and qualifications."
-    },
-    {
-      "w": "precarious",
-      "ipa": "/prɪˈkeə.ri.əs/",
-      "pos": "adj.",
-      "cn": "不稳定的 / 危险的",
-      "def": "not securely held or in position; dangerously likely to collapse",
-      "ex": "The company's financial situation remains precarious following the market downturn."
-    },
-    {
-      "w": "reiterate",
-      "ipa": "/riːˈɪt.ər.eɪt/",
-      "pos": "v.",
-      "cn": "重申 / 反复强调",
-      "def": "say something again or a number of times, typically for emphasis",
-      "ex": "The director reiterated the importance of meeting strict regulatory deadlines."
-    },
-    {
-      "w": "contingent",
-      "ipa": "/kənˈtɪn.dʒənt/",
-      "pos": "adj.",
-      "cn": "视……而定的 / 附带条件于",
-      "def": "subject to chance or dependent on certain circumstances",
-      "ex": "The product launch is contingent on obtaining regulatory approval from the authorities."
-    },
-    {
-      "w": "standardise",
-      "ipa": "/ˈstæn.də.daɪz/",
-      "pos": "v.",
-      "cn": "使标准化 / 统一",
-      "def": "cause something to conform to a standard",
-      "ex": "The bank plans to standardise its customer service operations across all regional branches."
-    },
-    {
-      "w": "benchmark",
-      "ipa": "/ˈbentʃ.mɑːk/",
-      "pos": "n.",
-      "cn": "基准 / 标杆",
-      "def": "a standard or point of reference against which things may be compared",
-      "ex": "Singapore often serves as a global benchmark for efficient public infrastructure."
-    },
-    {
-      "w": "facilitate",
-      "ipa": "/fəˈsɪl.ɪ.teɪt/",
-      "pos": "v.",
-      "cn": "促进 / 推动",
-      "def": "make an action or process easy or easier",
-      "ex": "The new digital platform is designed to facilitate smoother cross-border trade transactions."
-    },
-    {
-      "w": "oversight",
-      "ipa": "/ˈəʊ.və.saɪt/",
-      "pos": "n.",
-      "cn": "监督 / 监管",
-      "def": "the action of overseeing or supervising something",
-      "ex": "The monetary authority exercises strict regulatory oversight over regional financial institutions."
-    },
-    {
-      "w": "aligned",
-      "ipa": "/əˈlaɪnd/",
-      "pos": "adj.",
-      "cn": "保持一致的 / 齐心的",
-      "def": "placed in correct relative positions or agreeing with a set goal",
-      "ex": "Our marketing strategy must remain tightly aligned with long-term corporate goals."
-    },
-    {
-      "w": "transient",
-      "ipa": "/ˈtræn.zi.ənt/",
-      "pos": "adj.",
-      "cn": "短暂的 / 暂时的",
-      "def": "lasting only for a short time; impermanent",
-      "ex": "Economists predict that the sudden spike in commodity prices will prove transient."
-    }
-  ],
-  "listening": {
-    "source": "CNA style · Intermediate",
-    "title": "Singapore Expands Electric Vehicle Charging Network in Public Housing",
-    "transcript": "Singapore is stepping up its green mobility efforts by installing thousands of new electric vehicle charging points across public housing estates. Officials state that providing convenient charging <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈɪn.frəˌstrʌk.tʃər/ (n.) basic physical and organizational structures needed for operation — 基础建设\">infrastructure</span> is essential for encouraging drivers to switch from traditional petrol engines. Local residents have welcomed the move, though some note that parking spaces remain limited during peak hours. Urban planners expect the network to be fully <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌɒp.ərˈeɪ.ʃən.əl/ (adj.) in working order and ready to be used — 准备就绪的 / 投入运营的\">operational</span> by the end of next year."
-  },
-  "economistArticle": {
-    "title": "The Enduring Lure of the Public Market",
-    "paras": [
-      "In recent years, corporate <span class=\"voc\">commentators</span> have repeatedly warned that public stock markets are losing their shine. Venture capital funds, sitting on vast dry powder, have allowed tech startups to stay private for longer than ever before. Regulatory compliance costs, regulatory scrutiny, and the <span class=\"voc\">relentless</span> pressure of quarterly reporting are frequently cited as overwhelming burdens that deter founders from floating their companies.",
-      "Yet despite these complaints, the ultimate destination for high-growth tech firms remains remarkably consistent: an initial public offering. <span class=\"gem\">Private capital, for all its <span class=\"voc\">abundance</span>, cannot substitute forever for the <span class=\"voc\">liquidity</span> and prestige that public exchanges provide.</span> Sooner or later, early investors demand an exit, and employees seeking to <span class=\"voc\">monetize</span> their equity force the founder's hand.",
-      "Furthermore, the argument that stringent regulation acts as an <span class=\"voc\">insurmountable</span> deterrent fails to hold up under scrutiny. While complying with disclosure rules and accounting standardisation is indeed expensive, it also serves as a crucial stamp of <span class=\"voc\">legitimacy</span>. Institutional investors are far more willing to commit massive capital to firms whose financial statements are subjected to rigorous public oversight.",
-      "Public listing also grants companies a currency for acquisitions that private equity cannot easily <span class=\"voc\">replicate</span>. Listed shares can be used directly as valuation units to acquire competitors, facilitating expansion without draining cash reserves. Moreover, the brand prestige of being listed on major exchanges remains an unmatched marketing tool for global expansion.",
-      "Ultimately, the choice to go public is delayed rather than abandoned. <span class=\"gem\">While regulatory burdens may alter the timing of a listing, they rarely alter the eventual outcome.</span> For ambitious startups aiming to build enduring global institutions, the public market remains the <span class=\"voc\">indispensable</span> <span class=\"voc\">proving ground</span>."
-    ],
-    "cn": "近年来，企业评论家反复警告称，公开股票市场正逐渐失去吸引力。由于手里握着巨额未投资资金，风险投资基金使得科技初创公司能够比以往任何时候都维持更长时间的私有状态。合规成本、监管审查以及季度财报带来的无休止压力，常被指责为阻碍创始人将公司上市的沉重负担。\n\n然而，尽管存在这些抱怨，高增长科技企业的最终归宿依然高度一致：首次公开募股（IPO）。尽管私人资本非常充裕，但它无法永远替代公开交易所提供的流动性和声望。早晚有一天，早期投资者会要求退出，而希望将股权变现的员工也会倒逼创始人做出选择。\n\n此外，认为严格的监管构成了不可逾越之阻碍的观点在细究之下难以立足。尽管遵守信息披露规则和会计标准化确实成本高昂，但这同时也构成了至关重要的合法性认可。机构投资者更愿意将巨额资金投入到财务报表经过严格公开监督的企业中。\n\n公开上市还为公司提供了收购交易中的“硬通货”，这是私募股权难以轻松复制的。上市公司股票可以直接用作估值单位来收购竞争对手，从而在不消耗现金储备的情况下促进扩张。此外，在主要交易所上市所带来的品牌声誉，对于全球扩张而言仍然是无与伦比的营销工具。\n\n归根结底，去公开市场的选择只是被推迟了，而非被放弃。尽管监管负担可能会改变上市的时机，但它们很少能改变最终的结果。对于旨在打造持久全球性企业的雄心勃勃的初创公司而言，公开市场依然是不可或缺的试金石。",
-    "vocab": [
-      {
-        "w": "commentators",
-        "ipa": "/ˈkɒm.ən.teɪ.təz/",
-        "pos": "n.",
-        "mean": "评论员",
-        "def": "people who comment on or express opinions about a subject",
-        "ex": "Market commentators suggest that interest rates will remain stable."
-      },
-      {
-        "w": "relentless",
-        "ipa": "/rɪˈlent.ləs/",
-        "pos": "adj.",
-        "mean": "持续不断的 / 严苛的",
-        "def": "unceasingly intense or severe",
-        "ex": "The start-up faced relentless competition from established tech giants."
-      },
-      {
-        "w": "abundance",
-        "ipa": "/əˈbʌn.dəns/",
-        "pos": "n.",
-        "mean": "丰富 / 充裕",
-        "def": "a very large quantity of something",
-        "ex": "There is an abundance of capital looking for promising green energy projects."
-      },
-      {
-        "w": "liquidity",
-        "ipa": "/lɪˈkwɪd.ə.ti/",
-        "pos": "n.",
-        "mean": "流动性",
-        "def": "the availability of liquid assets to a market or company",
-        "ex": "Public markets offer superior liquidity compared to private real estate funds."
-      },
-      {
-        "w": "monetize",
-        "ipa": "/ˈmʌn.ɪ.taɪz/",
-        "pos": "v.",
-        "mean": "变现 / 货币化",
-        "def": "convert into or express in the form of currency",
-        "ex": "Early employees were eager to monetize their stock options."
-      },
-      {
-        "w": "insurmountable",
-        "ipa": "/ˌɪn.səˈmaʊn.tə.bəl/",
-        "pos": "adj.",
-        "mean": "无法克服的 / 难以逾越的",
-        "def": "too great to be overcome",
-        "ex": "The compliance requirements proved to be an insurmountable hurdle for the smaller firm."
-      },
-      {
-        "w": "legitimacy",
-        "ipa": "/lɪˈdʒɪt.ə.mə.si/",
-        "pos": "n.",
-        "mean": "合法性 / 正当性",
-        "def": "conformity to the law or to rules",
-        "ex": "An independent audit gives added financial legitimacy to the enterprise."
-      },
-      {
-        "w": "replicate",
-        "ipa": "/ˈrep.lɪ.keɪt/",
-        "pos": "v.",
-        "mean": "复制",
-        "def": "make an exact copy of; reproduce",
-        "ex": "Competitors have tried to replicate the firm's business model with little success."
-      },
-      {
-        "w": "indispensable",
-        "ipa": "/ˌɪn.dɪˈspen.sə.bəl/",
-        "pos": "adj.",
-        "mean": "不可或缺的",
-        "def": "absolutely necessary",
-        "ex": "Robust risk management is indispensable for modern financial institutions."
-      },
-      {
-        "w": "proving ground",
-        "ipa": "/ˈpruː.vɪŋ ˌɡraʊnd/",
-        "pos": "n.",
-        "mean": "试金石 / 检验场",
-        "def": "an environment in which someone or something is tested",
-        "ex": "The competitive Asian market served as a proving ground for their new service."
-      }
-    ],
-    "gems": [
-      {
-        "s": "Private capital, for all its abundance, cannot substitute forever for the liquidity and prestige that public exchanges provide.",
-        "why": "The sentence uses the prepositional contrast 'for all its [noun]' to gracefully acknowledge a counter-argument before delivering the primary thesis. 句子使用了 'for all its [名词]' 的介词让步结构，在阐述核心论点之前优雅地承认了对立事实。"
-      },
-      {
-        "s": "While regulatory burdens may alter the timing of a listing, they rarely alter the eventual outcome.",
-        "why": "This sentence employs antithesis through parallel structure ('alter the timing' vs 'alter the outcome') to make a concise and memorable conclusion. 该句通过平行结构（改变时机 vs 改变结果）运用了对照手法，使结论简洁有力且令人印象深刻。"
-      }
-    ]
+    "headline": "Seven Individuals and a Company Charged for False Declarations in Work Pass Applications",
+    "teaser": "On 19 November 2026, seven individuals and a company were charged in court for offences under the Employment of Foreign Manpower Act (EFMA). The offences involved making false declarations in Employment Pass (EP) and Training Employment Pass (TEP) applications, as well as providing false information to a Ministry of Ma",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1911-seven-individuals-and-a-company-charged-for-false-declarations-in-work-pass-applications"
   }
 }
