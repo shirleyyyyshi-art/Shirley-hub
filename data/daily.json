@@ -1,11 +1,16 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T07:39:51.376414+00:00",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T07:31:00.815544+00:00",
   "economist": {
-    "headline": "Meet the European Central Bank’s new squad",
-    "teaser": "A Spaniard, a German and a Frenchwoman",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
+    "headline": "Bond yields are rising everywhere—except China",
+    "teaser": "The Chinese central bank has cut interest rates despite itself",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
     "vocab": [
+      {
+        "word": "everywhere",
+        "phonetic": "/ɛv.ɹi.(h)weə(ɹ)/",
+        "def": "In or to all locations under discussion."
+      },
       {
         "word": "central",
         "phonetic": "/ˈsɛntɹəl/",
@@ -14,64 +19,48 @@
     ]
   },
   "st": {
-    "headline": "South Korea’s exports top US$1 trillion for first time on chip boom",
-    "teaser": "Cumulative exports crossed the mark on Nov 19, 62 years after reaching US$100 million.",
-    "url": "https://www.straitstimes.com/business/south-koreas-exports-top-us1-trillion-for-first-time-on-chip-boom",
+    "headline": "Singapore-based DayOne is said to pause US IPO plans on data centre, market concerns",
+    "teaser": "Doubts about the potential payoff from massive investments into AI have fuelled volatility in global markets.",
+    "url": "https://www.straitstimes.com/business/singapore-based-dayone-is-said-to-pause-us-ipo-plans-on-data-centre-market-concerns",
     "fullText": [
-      "SEOUL – South Korea’s annual exports surpassed US$1 trillion (S$1.29 trillion) for the first time, making it the fourth country to reach the milestone after Germany, the US and China, and the first new entrant to the club in 19 years, as global spending on artificial intelligence sent semiconductor prices and shipments soaring.",
-      "Cumulative exports crossed the mark at 2.09pm on Nov 19 (1.09pm Singapore time), a year after first topping US$700 billion and 62 years after reaching US$100 million.",
-      "President Lee Jae Myung hailed the achievement as the culmination of generations of effort, paying tribute to workers who spent their youth in garment factories, shoe plants and shipyards.",
-      "“The gains from exports must, above all, improve people’s lives,” Lee said in a message on X, pledging to ensure that growth benefits large and small companies and communities across the country.",
-      "“We must now turn this achievement into sustained growth. We will strengthen the competitiveness of our key industries and nurture future growth engines such as AI and biotechnology.",
-      "“We will also actively support Korean consumer products, including beauty products and food, as they expand into global markets.”",
-      "Germany and the US crossed the US$1 trillion mark in 2006, followed by China in 2007, riding a trade boom after China joined the World Trade Organization.",
-      "South Korea did so amid rising tariffs and the US-China rivalry, with a population of 51.6 million and an economy of just US$1.88 trillion, smaller than any of its predecessors at the time.",
-      "The Ministry of Trade, Industry and Resources projects full-year exports of US$1.17 trillion, up about 65% from a record US$709.3 billion in 2025.",
-      "“Given our smaller population and economy, this is a remarkable achievement,” Kang Kam-chan, the ministry’s deputy minister for trade and investment, told reporters.",
-      "Exports totalled US$930.2 billion in the first 10 months, including US$396.8 billion in semiconductors, accounting for about 43% of the total and nearly triple the previous record for the period.",
-      "AI data centre demand drove up DRAM and NAND prices, while the build-out lifted shipments of solid-state drives, transformers, cables and copper, according to the ministry.",
-      "Exports excluding chips rose 20%, with 16 of 20 major categories gaining. Cosmetics exports reached US$12.4 billion, topping the 2025 full-year record in 10 months. Shipments rose in seven of nine major markets, led by China, up 88%, and the US, up 77%. Small and midsize companies also posted record exports.",
-      "Imports rose 21% to US$635.1 billion, leaving a surplus of about US$295 billion through October, against US$77.4 billion for all of 2025.",
-      "“Part of the US$1 trillion belongs to imports,” Kang said, citing steady supplies of crude oil, naphtha and chipmaking equipment.",
-      "Much of the record reflects higher prices, not higher output. Kang said rising prices drove much of the growth, as AI demand sent memory chip prices soaring and petroleum product export prices jumped 62% to US$1,105 a ton.",
-      "Kang acknowledged the gains have gone mostly to large companies, citing structural limits in chips and petrochemicals, which have short supply chains and employ relatively few workers, unlike automobiles or ships.",
-      "“It is regrettable that the profits have not flowed through to suppliers,” he said, adding that new chip plants and joint research with equipment-makers could spread the benefits.",
-      "Normally, a large trade surplus lifts the won, because exporters convert their dollar earnings into local currency. But many keep those dollars abroad or spend them on imported parts and overseas factories, meaning less of the surplus reaches the currency market.",
-      "Kang said exports could exceed US$1 trillion again in 2027, though easing chip and oil prices could pull them below the 2026 level.",
-      "He expects AI infrastructure demand to hold through the third quarter of 2027. Delays in US data centre projects, Chinese competition and protectionism remain risks.",
-      "Kang said Korea’s major industries appear to be undergoing a structural shift. When exports first passed US$10 billion in 1977, they were led by ships, frozen fish, plywood and clothing. The AI build-out now creates markets for Korean power equipment, copper and aluminium alongside chips.",
-      "That shift, he said, calls for rethinking how Korea manages its surpluses. Japan, Germany and China channelled theirs into overseas investment that now returns income home.",
-      "“As an economy matures and costs rise, it cannot keep expanding production at home indefinitely,” Kang said. “The export structure has to gradually shift toward investment.”",
-      "He sees overseas investment as a way to build strategic ties, particularly with partners sensitive to trade deficits, such as the US, where the administration of Donald Trump has made shrinking them a priority.",
-      "Korean factories abroad can create local jobs, buy from local suppliers and export to third markets, giving partners a stake in the relationship.",
-      "“Korea should not be a country that simply sells goods,” he said.",
-      "Asked whether Korea would follow Japan, which came to rely on income from overseas investment after the 1985 Plaza Accord, Kang said Korea is likely to take a similar path.",
-      "But he noted that Japanese companies prospered while ordinary Japanese saw fewer gains.",
-      "Korea should instead keep research and “mother factories”, the advanced plants that develop new processes, at home while expanding overseas, he said. THE KOREA HERALD /ASIA NEWS NETWORK"
+      "SINGAPORE – DayOne Data Centers has put plans for its multibillion-dollar US initial public offering on hold, sources familiar with the matter said, as investors question the sustainability of frothy valuations for digital infrastructure supporting the artificial intelligence boom.",
+      "The data centre operator, whose biggest customer is ByteDance, the Chinese owner of TikTok, was initially intending to raise as much as US$5 billion (S$6.45 billion) from an IPO as soon as the fourth quarter, Bloomberg News reported previously.",
+      "But it started to reassess options including a delay or a smaller listing as volatility increased around data centres and AI stocks.",
+      "Singapore-based DayOne may still pursue an IPO in 2027 if the situation and market sentiment improves, the sources said, asking not to be identified because the information is not public.",
+      "The company filed for the IPO in October and has been working with Morgan Stanley, JPMorgan Chase, Bank of America, Citigroup and BNP Paribas on the listing.",
+      "Deliberations are ongoing and no final decisions on the IPO have been made, the sources said.",
+      "A representative for DayOne declined to comment.",
+      "Doubts about the potential payoff from massive investments into AI have fuelled volatility in global markets.",
+      "The Nasdaq 100 has dropped more than 6% in November, heading for its worst November performance since 2008.",
+      "Still, Anthropic staged a record-breaking US$107.3 billion IPO and private placement and rose 17% on its trading debut on Nov 19, becoming the world’s seventh-most valuable company.",
+      "Other data centre-related companies have either pulled or delayed their IPO plans amid investor concerns in the sector.",
+      "In October, Firmus Grid abandoned its attempt at one of Australia’s biggest-ever initial public offerings, while Blackstone-backed AirTrunk is delaying a listing of a real estate investment trust in Singapore until 2027.",
+      "DayOne has hyperscale facilities in countries including Singapore, Malaysia, Thailand and Indonesia, which have seen a boom in data centre development, fuelled by demand from Chinese tech companies like ByteDance and Alibaba Group.",
+      "The US in November put interim rules on those four countries to restrict China’s access to advanced AI chips and servers, telling data centre operators they will need a license to purchase American tech hardware.",
+      "DayOne’s backers include Coatue, Hillhouse, GDS Holdings, SoftBank Vision Fund and Citadel’s Ken Griffin. BLOOMBERG"
     ]
   },
   "cna": {
-    "headline": "Norris casts Russell as F1's Bond candidate",
-    "teaser": "Norris casts Russell as F1's Bond candidate",
-    "url": "https://www.channelnewsasia.com/sport/norris-casts-russell-f1s-bond-candidate-6565186",
+    "headline": "TikTok launches tool to help public figures detect deepfakes globally",
+    "teaser": "The \"likeness detection tool\" allows politicians and accounts with a large number of followers on TikTok to find and report AI-generated content using their image without consent.",
+    "url": "https://www.channelnewsasia.com/world/tiktok-tool-public-figures-detect-deepfakes-6568406",
     "fullText": [
-      "LAS VEGAS, Nov 18 : Lando Norris has nominated George Russell as Formula One's most likely James Bond, citing the Mercedes driver's fondness for suits and apparent readiness to trade the paddock for a licence to kill.",
-      "Asked which current driver would best suit the role of Britain's best-known fictional spy, McLaren's Norris offered a swift answer.",
-      "\"George,\" he told reporters ahead of Saturday's Las Vegas Grand Prix.",
-      "\"I mean, he normally dresses in suits and stuff. I reckon George would stop Formula One to become James Bond.",
-      "On Monday, it was revealed that Russell's compatriot Robert Pattinson will be the next James Bond, taking on one of cinema's most coveted roles.",
-      "Russell, who has occasionally been described as one of the more polished figures in the Formula One paddock, said he was taken aback by praise from his rival.",
-      "\"I was surprised to hear Lando say something nice about me, so that's one thing,\" he said with a laugh.",
-      "Russell, whose current racing number is 63, said the Bond franchise had long been a favourite.",
-      "\"James Bond has always been my favourite movie. I love the character,\" he said.",
-      "\"But yeah, I said before, 0063 for a few more years and then see what my career takes me. Maybe post-career.\"",
-      "For now, Russell's principal missions remain qualifying laps, tyre management and beating Norris on track, although a tailored tuxedo may be waiting after Formula One.",
-      "A single handpicked story that we think you shouldn't miss. Just one a day."
+      "LONDON: TikTok announced on Friday (Nov 20) the global launch of its deepfake-detection tool for public figures as the social media platform seeks to curb AI-generated disinformation ahead of a wave of European elections next year.",
+      "The \"likeness detection tool\" allows politicians and accounts with a large number of followers on TikTok to find and report AI-generated content using their image without consent, with the tool gradually being rolled out.",
+      "Deepfakes are text, images, videos and sounds that appear to be real but are generated or manipulated by AI.",
+      "For TikTok, owned by China-based ByteDance, the tool is a key part of protecting against disinformation during elections across Europe next year, including in Italy, France and Greece.",
+      "She added that the likeness tool would help \"politicians and government identify potentially AI-generated content that has been shared potentially without their consent\".",
+      "The European Union began rolling out sweeping artificial intelligence transparency rules in August, including a requirement for deepfakes and other AI-generated content to be labelled.",
+      "TikTok has required content creators to label realistic AI-generated images, audio and video for several years.",
+      "The company last year said that technological improvements would allow it to cut down on moderation jobs and locations worldwide.",
+      "AI has grown in importance for social media moderation as operators look to save money on human checks for content like pornography, misinformation and hate speech.",
+      "YouTube has also developed its own likeness detection tool to let creators detect AI-generated videos depicting their impersonators.",
+      "AFP, among more than a dozen other fact-checking organisations, is paid by TikTok in several countries to verify videos that potentially contain false information."
     ]
   },
   "mom": {
-    "headline": "Seven Individuals and a Company Charged for False Declarations in Work Pass Applications",
-    "teaser": "On 19 November 2026, seven individuals and a company were charged in court for offences under the Employment of Foreign Manpower Act (EFMA). The offences involved making false declarations in Employment Pass (EP) and Training Employment Pass (TEP) applications, as well as providing false information to a Ministry of Ma",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1911-seven-individuals-and-a-company-charged-for-false-declarations-in-work-pass-applications"
+    "headline": "More than 782,000 Singaporean Seniors to Benefit from $1.04 Billion Budget 2026 CPF Top-Up to Boost Retirement Savings",
+    "teaser": "More than 782,000 eligible Singaporean seniors will receive a CPF top-up of up to $1,500 by 8 December 2026. First announced at Budget 2026, this top-up will support seniors who may face challenges in building their retirement savings.",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1120-b2026-cpf-top-up"
   }
 }
