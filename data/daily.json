@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T07:26:57.487958+00:00",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T07:07:28.768924+00:00",
   "economist": {
     "headline": "Bond yields are rising everywhere—except China",
     "teaser": "The Chinese central bank has cut interest rates despite itself",
@@ -19,59 +19,324 @@
     ]
   },
   "st": {
-    "headline": "Anthropic pulls off mega IPO amid AI slump, gold tumbles: Markets this week",
-    "teaser": "The broader Singapore market also came under pressure on Nov 20.",
-    "url": "https://www.straitstimes.com/business/companies-markets/anthropic-pulls-off-mega-ipo-amid-ai-slump-gold-tumbles-markets-this-week",
+    "headline": "He gave up an iron rice bowl and sold his home to chase his business dreams",
+    "teaser": "Kelvin Hong has had a passion for economics since his university days.",
+    "url": "https://www.straitstimes.com/business/he-gave-up-the-iron-rice-bowl-and-sold-his-condo-to-chase-his-business-dreams",
     "fullText": [
-      "SINGAPORE – Artificial intelligence company Anthropic pulled off a blockbuster stock market debut even as a sell-off in technology shares weighed on broader markets, while gold prices slumped as investors assessed the outlook for US interest rates.",
-      "Anthropic, the company behind the Claude chatbot, raised more than US$81 billion (S$105 billion) on Nov 19 in the biggest initial public offering (IPO) in history, topping SpaceX’s US$75 billion base deal. Its shares closed at US$97.17, more than 17% above its offer price.",
-      "Still, the historic debut did little to lift sentiment in the broader AI sector, with technology stocks continuing to face selling pressure over concerns about valuations and the significant sums being poured into AI development.",
-      "Shares of chip giant Nvidia fell 3.3% on Nov 19, extending their losing streak to six sessions , while Micron Technology declined 2.1%. The tech-heavy Nasdaq Composite fell 2.25%, while the S&P 500 dipped 2.02%.",
-      "Zavier Wong, market analyst at eToro, said the broader market was grappling with several developments at once, including expectations of further US interest rate hikes, scrutiny over chip exports and a short-selling report targeting chipmaker Advanced Micro Devices.",
-      "He noted that Nvidia had also given up the gains it made following its latest earnings announcement, while the departure of its former chief executive Jensen Huang added to market uncertainty.",
-      "The chipmaker had reported a 103% year-on-year jump in revenue to US$115.8 billion for its third quarter ended Oct 25, beating analysts’ expectations. Its net profit more than doubled to US$65.3 billion, while revenue from its data centre business rose 110% to US$107.6 billion.",
-      "“The different factors are why the sell-off has been so hard to quell,” said Wong, noting that the S&P 500 had fallen for six consecutive sessions and was down about 8% from its record high in October.",
-      "“An interest rate hike in December is more or less priced in, which makes the Fed’s upcoming meeting the next key date the market is watching.”",
-      "Meanwhile, gold saw its worst weekly decline since March , tumbling about 7% to hover just above US$3,500 as expectations of further rate hikes and selling by investors seeking to cover losses in equities weighed on the precious metal.",
-      "Gold is down 8.5% in 2026 and is 37% below January’s intraday peak of US$5,602.",
-      "CMC Markets sales trader Alex Ho noted that the yield on the benchmark 10-year US Treasury note had risen above 5%, while real yields, which are adjusted for inflation, had climbed from 2.66% to 2.88% since Nov 9.",
-      "This has made gold, which does not pay interest, less attractive to investors. The AI stock sell-off also added to the pressure on the precious metal.",
-      "“When portfolios are hurting, investors sell what they can, not what they want... So gold is being sold to raise cash, but that is not the same as it failing as a hedge,” said Ho.",
-      "“A quick bounce is possible, but a lasting recovery needs gold back above US$3,850 to US$3,900, and that won’t happen unless real yields and the dollar ease",
-      "“The next tests are the Fed’s meeting on Dec 8 and 9 and US inflation data on Dec 10,” he added.",
-      "Alvin Lee, premium client manager at IG Singapore, said the stronger US dollar had added to selling pressure on gold by increasing the opportunity cost of holding the precious metal.",
-      "“The general risk off sentiment now is driving investors to hold on to cash and the safe haven status for gold has been called into question recently but for reasons stated above, it seems like the market has a preference for holding cash now,” he said.",
-      "The decline in gold prices also weighed on Singapore-listed gold-related stocks.",
-      "Shares of gold miner CNMC Goldmine Holdings fell 13.61% over the week to close at 82 cents on Nov 20, down about 60% from their record high of $2.12 in March.",
-      "Pawnbroking firms ValueMax Group and MoneyMax Financial Services have also come under pressure in recent months, with their shares falling 25% and nearly 36.6%, respectively, over the past six months.",
-      "ValueMax shares fell 8.7% over the week to close at 74 cents on Nov 20, while MoneyMax declined 6.25% to close at 45 cents.",
-      "The broader Singapore market also came under pressure on Nov 20, with the benchmark Straits Times Index falling to a six-month low of 4,980.81 before paring some losses to close at 4,972.23 points.",
-      "The three local banks were among the decliners , with DBS falling 5.26% over the week to close at $66.11 on Nov 20. OCBC declined 7.3% to $26.54, while UOB lost 6.17% to close at $35.42.",
-      "James Ooi, chief market strategist at Tiger Brokers, said hawkish signals from the latest US Federal Reserve meeting minutes and concerns over US restrictions on AI chip exports continued to weigh on investor appetite.",
-      "He noted that Singapore’s index heavyweights had benefited from a significant rise in valuations earlier this year, but said the market’s direction would increasingly depend on whether earnings growth could catch up with valuations.",
-      "“Companies with access to larger regional and global markets could also offer greater room for expansion and longer-term earnings growth, particularly those with established competitive advantages across multiple markets,” he said.",
-      "Local furniture company HomesToLife secured its secondary listing on the Singapore Exchange (SGX) Mainboard on Nov 17 with a placement of 7.5 million shares at $1.15 each, raising some $8.6 million in gross proceeds.",
-      "The placement attracted more than 50 accredited and institutional investors, including funds under the Equity Market Development Programme.",
-      "HomesToLife is the second company to achieve a dual listing on the SGX and Nasdaq, with the first being cybersecurity firm Avepoint in September 2025."
+      "SINGAPORE – Kelvin Hong spent seven years in the civil service before giving up the security of public service to pursue his entrepreneurial dream – establishing a vocational school and a chain of spa and wellness outlets.",
+      "As a civil servant, he worked on economic policy, including writing the first policy paper setting out the Government’s approach to fighting SARS, or s evere acute respiratory syndrome.",
+      "Having previously enjoyed the security of an “iron rice bowl” career, he now had to make difficult financial decisions to fund his business.",
+      "He sold his condominium unit and moved his family of five to a rental property, and later downsized to an HDB resale flat, all while dealing with the uncertainty of running a business and providing for his family.",
+      "He sold his chain of wellness outlets in 2010.",
+      "“Education has always been a passion of mine. I’ve been tutoring since my university days and have accumulated about 28 years of experience teaching economics,” said Hong, 52, who founded The Economics Tutor in 1998 while running other businesses.",
+      "Throughout his entrepreneurial journey, he continued to tutor in economics, a passion he had developed at university.",
+      "After selling his other businesses, he decided to focus fully on tuition.",
+      "Today, Hong is the founder and principal tutor of The Economics Tutor and Ace GP Tuition, where he helps pre-university students build a strong foundation in economics and General Paper.",
+      "He graduated from the National University of Singapore with a Bachelor of Social Sciences, with first-class honours in economics.",
+      "His wife, 50, is also his partner in the tuition business, and they have three children aged 22, 20 and 11.",
+      "The Economics Tutor and Ace GP Tuition are my current ventures. I have run and sold off other businesses over the last two decades.",
+      "I prefer investing in my businesses because making money on its own has never given me much joy. What I enjoy is creating something and developing it until it succeeds, because by then, it adds real value to society. I am also considering other business ventures in the tech and education space.",
+      "I don’t own any individual stocks at the moment. My savings sit in safe assets. They won’t make anyone rich, but they’re secure. I’ve been tempted to buy a few individual stocks over the past year, but prices have looked too high to me, so I’m keeping dry powder and waiting for a correction rather than chasing the market. Knowing when not to invest is part of investing too.",
+      "My children’s education isn’t a financial asset in the usual sense, but it’s the investment I’m most certain of. Besides carefully choosing tuition that deepens their understanding and mastery beyond exams, I invest heavily in building their competencies: carpentry, baking, art and craft, music, robotics, various sports and communication skills, as well as their own little start- ups.",
+      "On paper, probably my home. But the asset that actually pays the bills is my tuition business. Unlike most assets, it doesn’t depreciate as long as I keep using it.",
+      "Spend less than you earn, don’t borrow what you can’t comfortably repay, don’t buy what you don’t understand, work really hard, and be patient.",
+      "None of it is original, but after working on economic policy and then running businesses through good years and bad, I’ve found that most financial disasters come from impatience: wanting the return without putting in the time or effort.",
+      "A lot of what passes for investment advice online today is really marketing. If someone is promising high returns with no risk, the question I’d ask is – who is actually making money from the arrangement?",
+      "No. As an economist, I find it hard to love an asset that pays no income and whose value depends entirely on another person fancying it. The closest I came to tangible assets was a small property portfolio, which I have since sold.",
+      "My first real investment, in the sense of putting serious money at risk, was buying some stocks on the Singapore Exchange and some unit trusts. I don’t think they fared well. I was a greenhorn who had just started earning serious money and was happily experimenting. In hindsight, there are cheaper ways to learn.",
+      "In a previous business, an overseas outlet ended in a six-figure loss. Looking back, I had made the classic mistake of planning around the demand I hoped for rather than the demand I could actually see. I now use that outlet as a case study when I teach company strategies. Students remember a real six-figure mistake far better than a textbook example.",
+      "My best financial decision was to sell off, in 2010, my chain of wellness outlets. It was a multimillion-dollar business, but my greatest returns came in the form of a sabbatical to reset my spiritual condition, including my lifestyle and life goals.",
+      "I traded in my business world back then for my soul, and it has been my best investment to date. During those sabbatical years, I was still providing tuition, albeit on a very small scale, and I have built it up since then into my current ventures.",
+      "My mum was a homemaker and my dad was a senior executive in a multinational corporation. It was a comfortable childhood, and maybe that is why I was rather spendthrift as a young adult.",
+      "I did start working early, selling Newsweek subscription s and tutoring during my varsity days, so I was earning my own money from about 18. That taught me what an hour of my time was worth, and that the most reliable way to earn more was to become better at something people needed.",
+      "Selling Newsweek subscriptions in schools during the holidays was my first lesson in selling – a few minutes in front of strangers to make my case and far more noes than yeses.",
+      "I learnt that selling is mostly about informing people in a persuasive way, which turns out not to be so different from teaching. I don’t remember exactly what it paid, but it was decent money for someone my age.",
+      "I don’t recall actually saving up for anything. I was more of a spender as a child. I learnt to save only as I became wiser and more mature.",
+      "My students sometimes assume I live a lavish, branded lifestyle, and I tell them it’s quite the opposite: When I need to shop, I mostly do it online or in Johor Bahru."
     ]
   },
   "cna": {
-    "headline": "Indonesia fines and sanctions firms for stock manipulation, disclosure failures",
-    "teaser": "This comes amid efforts by Indonesia to strengthen enforcement, bolster market integrity and protect investors.",
-    "url": "https://www.channelnewsasia.com/asia/indonesia-financial-services-authority-ojk-capital-market-violations-6571336",
+    "headline": "Verstappen wins in Las Vegas for third time in four years",
+    "teaser": "Verstappen wins in Las Vegas for third time in four years",
+    "url": "https://www.channelnewsasia.com/sport/verstappen-wins-in-las-vegas-third-time-in-four-years-6572686",
     "fullText": [
-      "JAKARTA: Indonesia's Financial Services Authority (OJK) on Saturday (Nov 21) announced sanctions in 10 capital market violation cases, amid efforts to strengthen enforcement, bolster market integrity and protect investors.",
-      "OJK ordered the return of 23.77 billion rupiah (US$1.3 million) in illicit gains from three stock manipulation cases, involving shares of PT Grand House Mulia, PT Saraswanti Anugerah Makmur and PT Suryamas Dutamakmur.",
-      "In the HOMI case, OJK also ordered the closure of 15 securities accounts linked to the trading activity between March and July 2023.",
-      "The agency also imposed a total of 3.71 billion rupiah in administrative fines on seven listed companies for disclosure failures, material and affiliated-party transaction breaches, financial reporting violations and non-compliance with share transfer obligations.",
-      "OJK also barred multiple individuals involved in the manipulation cases from participating in Indonesia's capital markets, derivatives and carbon exchange sectors for periods ranging from three to 10 years.",
-      "OJK previously sanctioned three listed firms as part of Indonesia's market reforms following concerns raised by global index providers over the transparency and investability of Indonesia's capital markets.",
-      "An automated curation of our top stories to start your day."
+      "LAS VEGAS, Nov 21 : Red Bull's Max Verstappen won a crazy, slipstreaming Las Vegas Grand Prix for the third time in four years on Saturday, while Mercedes rival George Russell hit the barriers late on and finished ninth.",
+      "In a race of 35 lead changes over 50 laps, and drivers nose-to-tail under the floodlights with track advantage swinging back and forth like a yo-yo, McLaren's 2025 champion Lando Norris and teammate Oscar Piastri finished second and third behind the polesitter.",
+      "Ferrari drivers Lewis Hamilton and Charles Leclerc collided again in a race in which both collected 10-second penalties for separate incidents and finished seventh and 10th respectively.",
+      "\"That was crazy. Really, really surreal and something I've never seen before in Formula One myself,\" said Verstappen, who beat Norris by 0.639 seconds.",
+      "Mercedes have already won both titles, with 20-year-old Italian Kimi Antonelli this month becoming the youngest ever Formula One world champion, while Verstappen and Russell started the weekend scrapping to end the season as overall runner-up.",
+      "Verstappen's fourth win in six races sent him 37 points clear of Ferrari's Hamilton with Russell, who started on the front row, dropping to fourth overall and level with Norris.",
+      "Antonelli was fourth with Alpine's Pierre Gasly fifth and teammate Franco Colapinto sixth. Carlos Sainz was eighth for Williams in the Spaniard's 250th race.",
+      "\"I think that must have been the most chaotic race ever in the history of Formula One,\" said Norris.",
+      "\"I didn't know what was happening half the time. I didn't know if I was going to have the best race and have a chance to win or end up last. It had everything this race.\"",
+      "Piastri, who started 17th, could only agree.",
+      "\"They say Las Vegas is the entertainment capital of the world and that was pretty entertaining to be a part of,\" said the Australian.",
+      "\"It was pretty random. You would pass someone on one straight super easy, then the next straight you would struggle and then with someone else it would be different strengths and weaknesses.\"",
+      "(Writing by Alan Baldwin in London, editing by Peter Rutherford)",
+      "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
   "mom": {
     "headline": "More than 782,000 Singaporean Seniors to Benefit from $1.04 Billion Budget 2026 CPF Top-Up to Boost Retirement Savings",
     "teaser": "More than 782,000 eligible Singaporean seniors will receive a CPF top-up of up to $1,500 by 8 December 2026. First announced at Budget 2026, this top-up will support seniors who may face challenges in building their retirement savings.",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1120-b2026-cpf-top-up"
+  },
+  "lifeVocab": [
+    {
+      "en": "consultation fee",
+      "cn": "诊察费",
+      "def": "a fee charged by a doctor or medical clinic for an appointment",
+      "ex": "Always check the clinic's consultation fee before registering at the counter.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "medical certificate",
+      "cn": "病假条 (MC)",
+      "def": "an official note from a doctor stating a patient is unfit for work",
+      "ex": "The doctor issued a two-day medical certificate for her viral fever.",
+      "emoji": "📄"
+    },
+    {
+      "en": "referral letter",
+      "cn": "转诊信",
+      "def": "a letter from a GP to a specialist doctor explaining a patient's case",
+      "ex": "You need a referral letter from your GP to see a hospital dermatologist.",
+      "emoji": "✉️"
+    },
+    {
+      "en": "dosage",
+      "cn": "剂量",
+      "def": "the exact amount of medicine that should be taken at one time",
+      "ex": "Read the prescription label carefully to check the correct daily dosage.",
+      "emoji": "💊"
+    },
+    {
+      "en": "non-drowsy",
+      "cn": "不引起嗜睡的",
+      "def": "medication formulated so that it does not make the patient feel sleepy",
+      "ex": "Ask the pharmacist for a non-drowsy allergy tablet if you need to drive.",
+      "emoji": "🚘"
+    },
+    {
+      "en": "chronic condition",
+      "cn": "慢性病",
+      "def": "a long-lasting medical condition that requires ongoing medical care",
+      "ex": "Hypertension is a chronic condition that requires regular health check-ups.",
+      "emoji": "🩺"
+    },
+    {
+      "en": "queue number",
+      "cn": "排队号码",
+      "def": "a printed sequence number given to patients waiting for their appointment",
+      "ex": "Take a queue number from the kiosk and wait in the seating area.",
+      "emoji": "🔢"
+    },
+    {
+      "en": "over-the-counter",
+      "cn": "非处方",
+      "def": "medicines sold directly to consumers without requiring a prescription",
+      "ex": "You can purchase basic painkillers over-the-counter at any retail pharmacy.",
+      "emoji": "🛍️"
+    },
+    {
+      "en": "fast for blood test",
+      "cn": "抽血前空腹",
+      "def": "refrain from eating or drinking anything except water before a lab test",
+      "ex": "You must fast for at least eight hours before your annual blood test.",
+      "emoji": "🛑"
+    },
+    {
+      "en": "subsidised rate",
+      "cn": "补贴费率",
+      "def": "a reduced fee made lower through government funding or financial aid",
+      "ex": "Singaporeans receive subsidised rates at public polyclinics.",
+      "emoji": "🇸🇬"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "concur",
+      "ipa": "/kənˈkɜːr/",
+      "pos": "v.",
+      "cn": "赞同",
+      "def": "be of the same opinion; agree with a decision or view",
+      "ex": "The board members concurred with the director's proposals for expansion."
+    },
+    {
+      "w": "preempt",
+      "ipa": "/priːˈempt/",
+      "pos": "v.",
+      "cn": "预先采取行动",
+      "def": "take action in order to prevent an anticipated event from happening",
+      "ex": "The executive team acted swiftly to preempt negative media coverage."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈper.ə.tɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的",
+      "def": "of vital importance; crucial or essential",
+      "ex": "It is imperative that all regulatory reports are submitted prior to the audit."
+    },
+    {
+      "w": "divergence",
+      "ipa": "/daɪˈvɜː.dʒəns/",
+      "pos": "n.",
+      "cn": "分歧/差异",
+      "def": "a difference or departure from a standard, trend, or opinion",
+      "ex": "Recent data reveals a sharp divergence in economic performance between regions."
+    },
+    {
+      "w": "alleviate",
+      "ipa": "/əˈliː.vi.eɪt/",
+      "pos": "v.",
+      "cn": "减轻/缓和",
+      "def": "make a problem, pain, or difficulty less severe",
+      "ex": "The new logistics software was designed to alleviate operational bottlenecks."
+    },
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "突发事件/应变计划",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "Every project scope must include a contingency fund for unexpected delays."
+    },
+    {
+      "w": "conducive",
+      "ipa": "/kənˈdʒuː.sɪv/",
+      "pos": "adj.",
+      "cn": "有利于...的",
+      "def": "making a certain situation or outcome likely or possible",
+      "ex": "A quiet work environment is conducive to sustained concentration."
+    },
+    {
+      "w": "stipulate",
+      "ipa": "/ˈstɪp.jə.leɪt/",
+      "pos": "v.",
+      "cn": "规定/约定",
+      "def": "demand or specify a requirement as part of a formal agreement",
+      "ex": "The contract stipulates that payments must be settled within thirty days."
+    },
+    {
+      "w": "discretionary",
+      "ipa": "/dɪˈskreʃ.ən.ər.i/",
+      "pos": "adj.",
+      "cn": "自由裁量的",
+      "def": "available for use at the user's discretion rather than by fixed rule",
+      "ex": "Department heads were granted discretionary authority over annual bonus allocations."
+    },
+    {
+      "w": "exacerbate",
+      "ipa": "/ɪɡˈzæs.ə.beɪt/",
+      "pos": "v.",
+      "cn": "使恶化/加重",
+      "def": "make a problem, bad situation, or negative feeling worse",
+      "ex": "Supply shortages threaten to exacerbate existing inflationary pressures."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore Expands Electric Bus Fleet to Cut Urban Emissions",
+    "transcript": "Singapore's Land Transport Authority has announced plans to deploy hundreds of new electric buses across public routes by next year. Officials stated that replacing traditional diesel vehicles will significantly reduce urban carbon <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈmɪʃ.ənz/ (n.) gases or pollutants released into the air — 气体排放\">emissions</span> and noise pollution. <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəˈmjuː.təz/ (n.) people who travel regularly between work and home — 通勤者\">commuters</span> can look forward to quieter journeys and improved air quality along major trunk routes. The <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈnɪʃ.ə.tɪv/ (n.) an official new plan or program intended to solve a problem — 倡议/新方案\">initiative</span> forms part of the nation's broader Green Plan 2030."
+  },
+  "economistArticle": {
+    "title": "The Lonely Yields: Why China is Bucking Global Bond Trends",
+    "paras": [
+      "Across major developed economies, sovereign bond yields have drifted steadily upward as central banks <span class=\"voc\">grapple</span> with sticky inflation and elevated policy rates. From Washington to Frankfurt, institutional investors are demanding higher returns to lock up their capital in government debt. Yet in Beijing, a <span class=\"voc\">starkly</span> different economic narrative is unfolding. Yields on Chinese sovereign bonds have plummeted to historic lows as the country struggles with persistent domestic demand weakness and lingering real estate troubles.",
+      "To counter this economic <span class=\"voc\">inertia</span>, the People’s Bank of China (PBOC) has taken the opposite path of its Western peers by repeatedly cutting benchmark interest rates. In theory, cheaper borrowing costs ought to spur commercial investment and <span class=\"voc\">reignite</span> consumer spending. In practice, however, risk-averse commercial banks and anxious household savers have poured massive sums into government bonds, driving prices up and yields down to levels that trouble senior policymakers.",
+      "<span class=\"gem\">The central bank finds itself in an awkward <span class=\"voc\">predicament</span>.</span> While it desires low interest rates to <span class=\"voc\">invigorate</span> domestic growth, it worries that excessively low long-term bond yields signal deep institutional pessimism about China's future growth <span class=\"voc\">trajectory</span>. Furthermore, ultra-low Chinese yields put downward pressure on the renminbi, encouraging capital flight to higher-yielding offshore dollar assets and threatening currency stability.",
+      "In response, Chinese authorities have attempted an unusual regulatory intervention by issuing stern warnings to domestic financial institutions against over-investing in long-term sovereign debt. Policymakers have even signaled a willingness to sell bonds from their own balance sheet to artificially push yields back up. Yet such verbal and market interventions highlight a fundamental tension between stimulating a <span class=\"voc\">sluggish</span> real economy and curbing market speculation.",
+      "Until consumer confidence returns and the embattled property sector stabilizes, investors will likely continue seeking safety in government debt. China's central bank may keep trimming rates to aid economic recovery, but forcing sovereign bond yields higher in a <span class=\"voc\">lukewarm</span> economy remains a delicate, if not contradictory, balancing act."
+    ],
+    "cn": "全球主要发达经济体的国债收益率随央行应对粘性通胀和高政策利率而稳步攀升。从华盛顿到法兰克福，机构投资者正要求更高的回报率以锁定政府债券资金。然而在北京，一个截然不同的经济故事正在上演。由于国内需求持续疲软以及房地产业危机未消，中国国债收益率已暴跌至历史低点。\n\n为了应对这种经济惯性下滑，中国人民银行采取了与西方同行相反的路径，屡次下调基准利率。理论上，较低的融资成本应当能刺激企业投资并重新点燃消费支出。然而在实践中，避险心切的商业银行和焦虑的家庭储户将巨额资金涌入国债，从而拉高了债券价格，并将收益率推低至让决策层担忧的水平。\n\n央行陷入了尴尬的困境。尽管它希望获得低利率来激活国内增长，但它担心极低的长期国债收益率反映出市场对中国未来增长轨迹的深层悲观情绪。此外，超低的中国收益率对人民币构成下行压力，促使资金流向海外的高收益美元资产，威胁货币稳定。\n\n作为回应，中国监管层尝试进行罕见的监管干预，向国内金融机构发出严厉警告，要求其不要过度投资长期国债。决策者甚至表明愿意从自己的资产负债表中抛售国债，以人为推高收益率。然而，此类口头干预与市场干预凸显了刺激疲软的实业经济与遏制市场炒作之间的根本张力。\n\n在消费者信心恢复且困境重重的房地产业稳定之前，投资者可能仍将继续在国债中寻求庇护。中国央行可能会继续降息以推行经济复苏，但在温吞的经济环境中强行推高国债收益率仍是一项微妙甚至自相矛盾的平衡术。",
+    "vocab": [
+      {
+        "w": "grapple",
+        "ipa": "/ˈɡræp.əl/",
+        "pos": "v.",
+        "mean": "努力应对",
+        "def": "struggle to deal with or overcome a difficult problem",
+        "ex": "Central bankers continue to grapple with persistent inflationary pressures."
+      },
+      {
+        "w": "starkly",
+        "ipa": "/ˈstɑːk.li/",
+        "pos": "adv.",
+        "mean": "鲜明地/明显地",
+        "def": "in a sharply clear, obvious, or contrasting manner",
+        "ex": "The two economic strategies contrast starkly with one another."
+      },
+      {
+        "w": "plummet",
+        "ipa": "/ˈplʌm.ɪt/",
+        "pos": "v.",
+        "mean": "暴跌",
+        "def": "fall or drop straight down at high speed",
+        "ex": "Government bond yields plummeted following the unexpected rate cut announcement."
+      },
+      {
+        "w": "inertia",
+        "ipa": "/ɪˈnɜː.ʃə/",
+        "pos": "n.",
+        "mean": "惯性/停滞",
+        "def": "a tendency to do nothing or to remain unchanged",
+        "ex": "The policy measures aim to overcome prolonged economic inertia."
+      },
+      {
+        "w": "reignite",
+        "ipa": "/ˌriː.ɪɡˈnaɪt/",
+        "pos": "v.",
+        "mean": "重新点燃/使复苏",
+        "def": "spark or cause to revive after a period of dormancy",
+        "ex": "Lower borrowing costs are intended to reignite private consumption."
+      },
+      {
+        "w": "predicament",
+        "ipa": "/prɪˈdɪk.ə.mənt/",
+        "pos": "n.",
+        "mean": "困境",
+        "def": "a difficult, unpleasant, or embarrassing situation",
+        "ex": "The central bank finds itself in a challenging monetary predicament."
+      },
+      {
+        "w": "invigorate",
+        "ipa": "/ɪnˈvɪɡ.ər.eɪt/",
+        "pos": "v.",
+        "mean": "激活/鼓舞",
+        "def": "give strength, energy, or vitality to something",
+        "ex": "Targeted fiscal stimulus could invigorate small business growth."
+      },
+      {
+        "w": "trajectory",
+        "ipa": "/trəˈdʒek.tər.i/",
+        "pos": "n.",
+        "mean": "轨迹/发展方向",
+        "def": "the path followed by a process, development, or object",
+        "ex": "Analysts are revising their forecasts regarding the nation's growth trajectory."
+      },
+      {
+        "w": "sluggish",
+        "ipa": "/ˈslʌɡ.ɪʃ/",
+        "pos": "adj.",
+        "mean": "缓慢的/疲软的",
+        "def": "slow-moving or lacking alertness, energy, or activity",
+        "ex": "Sluggish export demand has weighed heavily on quarterly economic growth."
+      },
+      {
+        "w": "lukewarm",
+        "ipa": "/ˌluːkˈwɔːm/",
+        "pos": "adj.",
+        "mean": "温吞的/冷淡的",
+        "def": "showing little enthusiasm or vigor",
+        "ex": "The economic response to the stimulus package has been lukewarm so far."
+      }
+    ],
+    "gems": [
+      {
+        "s": "The central bank finds itself in an awkward predicament.",
+        "why": "This short sentence uses clear, personified language to encapsulate a complex institutional dilemma succinctly. 这句简短的句子运用生动清晰的拟人化表达，精炼地概括了复杂的机构困境。"
+      }
+    ]
   }
 }
