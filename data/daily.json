@@ -1,78 +1,58 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T07:07:28.768924+00:00",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T07:54:20.090822+00:00",
   "economist": {
-    "headline": "Bond yields are rising everywhere—except China",
-    "teaser": "The Chinese central bank has cut interest rates despite itself",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+    "headline": "How much more air can come out of the AI trade?",
+    "teaser": "Markets are troubled—for good reason",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
     "vocab": [
       {
-        "word": "everywhere",
-        "phonetic": "/ɛv.ɹi.(h)weə(ɹ)/",
-        "def": "In or to all locations under discussion."
-      },
-      {
-        "word": "central",
-        "phonetic": "/ˈsɛntɹəl/",
-        "def": "Being in the centre."
+        "word": "troubled",
+        "phonetic": "/ˈtɹʌbl̩d/",
+        "def": "To disturb, stir up, agitate (a medium, especially water)."
       }
     ]
   },
   "st": {
-    "headline": "He gave up an iron rice bowl and sold his home to chase his business dreams",
-    "teaser": "Kelvin Hong has had a passion for economics since his university days.",
-    "url": "https://www.straitstimes.com/business/he-gave-up-the-iron-rice-bowl-and-sold-his-condo-to-chase-his-business-dreams",
+    "headline": "World’s largest miner unveils US$17.4b plan to double South Australian copper output by 2040",
+    "teaser": "BHP expects global copper demand to grow by 30% by 2040 to more than 45 million tonnes per year.",
+    "url": "https://www.straitstimes.com/business/worlds-largest-miner-unveils-us17-4b-plan-to-double-south-australian-copper-output-by-2040",
     "fullText": [
-      "SINGAPORE – Kelvin Hong spent seven years in the civil service before giving up the security of public service to pursue his entrepreneurial dream – establishing a vocational school and a chain of spa and wellness outlets.",
-      "As a civil servant, he worked on economic policy, including writing the first policy paper setting out the Government’s approach to fighting SARS, or s evere acute respiratory syndrome.",
-      "Having previously enjoyed the security of an “iron rice bowl” career, he now had to make difficult financial decisions to fund his business.",
-      "He sold his condominium unit and moved his family of five to a rental property, and later downsized to an HDB resale flat, all while dealing with the uncertainty of running a business and providing for his family.",
-      "He sold his chain of wellness outlets in 2010.",
-      "“Education has always been a passion of mine. I’ve been tutoring since my university days and have accumulated about 28 years of experience teaching economics,” said Hong, 52, who founded The Economics Tutor in 1998 while running other businesses.",
-      "Throughout his entrepreneurial journey, he continued to tutor in economics, a passion he had developed at university.",
-      "After selling his other businesses, he decided to focus fully on tuition.",
-      "Today, Hong is the founder and principal tutor of The Economics Tutor and Ace GP Tuition, where he helps pre-university students build a strong foundation in economics and General Paper.",
-      "He graduated from the National University of Singapore with a Bachelor of Social Sciences, with first-class honours in economics.",
-      "His wife, 50, is also his partner in the tuition business, and they have three children aged 22, 20 and 11.",
-      "The Economics Tutor and Ace GP Tuition are my current ventures. I have run and sold off other businesses over the last two decades.",
-      "I prefer investing in my businesses because making money on its own has never given me much joy. What I enjoy is creating something and developing it until it succeeds, because by then, it adds real value to society. I am also considering other business ventures in the tech and education space.",
-      "I don’t own any individual stocks at the moment. My savings sit in safe assets. They won’t make anyone rich, but they’re secure. I’ve been tempted to buy a few individual stocks over the past year, but prices have looked too high to me, so I’m keeping dry powder and waiting for a correction rather than chasing the market. Knowing when not to invest is part of investing too.",
-      "My children’s education isn’t a financial asset in the usual sense, but it’s the investment I’m most certain of. Besides carefully choosing tuition that deepens their understanding and mastery beyond exams, I invest heavily in building their competencies: carpentry, baking, art and craft, music, robotics, various sports and communication skills, as well as their own little start- ups.",
-      "On paper, probably my home. But the asset that actually pays the bills is my tuition business. Unlike most assets, it doesn’t depreciate as long as I keep using it.",
-      "Spend less than you earn, don’t borrow what you can’t comfortably repay, don’t buy what you don’t understand, work really hard, and be patient.",
-      "None of it is original, but after working on economic policy and then running businesses through good years and bad, I’ve found that most financial disasters come from impatience: wanting the return without putting in the time or effort.",
-      "A lot of what passes for investment advice online today is really marketing. If someone is promising high returns with no risk, the question I’d ask is – who is actually making money from the arrangement?",
-      "No. As an economist, I find it hard to love an asset that pays no income and whose value depends entirely on another person fancying it. The closest I came to tangible assets was a small property portfolio, which I have since sold.",
-      "My first real investment, in the sense of putting serious money at risk, was buying some stocks on the Singapore Exchange and some unit trusts. I don’t think they fared well. I was a greenhorn who had just started earning serious money and was happily experimenting. In hindsight, there are cheaper ways to learn.",
-      "In a previous business, an overseas outlet ended in a six-figure loss. Looking back, I had made the classic mistake of planning around the demand I hoped for rather than the demand I could actually see. I now use that outlet as a case study when I teach company strategies. Students remember a real six-figure mistake far better than a textbook example.",
-      "My best financial decision was to sell off, in 2010, my chain of wellness outlets. It was a multimillion-dollar business, but my greatest returns came in the form of a sabbatical to reset my spiritual condition, including my lifestyle and life goals.",
-      "I traded in my business world back then for my soul, and it has been my best investment to date. During those sabbatical years, I was still providing tuition, albeit on a very small scale, and I have built it up since then into my current ventures.",
-      "My mum was a homemaker and my dad was a senior executive in a multinational corporation. It was a comfortable childhood, and maybe that is why I was rather spendthrift as a young adult.",
-      "I did start working early, selling Newsweek subscription s and tutoring during my varsity days, so I was earning my own money from about 18. That taught me what an hour of my time was worth, and that the most reliable way to earn more was to become better at something people needed.",
-      "Selling Newsweek subscriptions in schools during the holidays was my first lesson in selling – a few minutes in front of strangers to make my case and far more noes than yeses.",
-      "I learnt that selling is mostly about informing people in a persuasive way, which turns out not to be so different from teaching. I don’t remember exactly what it paid, but it was decent money for someone my age.",
-      "I don’t recall actually saving up for anything. I was more of a spender as a child. I learnt to save only as I became wiser and more mature.",
-      "My students sometimes assume I live a lavish, branded lifestyle, and I tell them it’s quite the opposite: When I need to shop, I mostly do it online or in Johor Bahru."
+      "MELBOURNE – Top global miner BHP said on Nov 23 it plans to double its South Australian copper production by 2040, as it raises its exposure to the metal expected to drive electrification, with a final investment decision due in the first half of 2027.",
+      "BHP plans to spend between US$13.6 billion (S$17.5 billion) and US$17.4 billion to raise production to an estimated 650,000 tonnes a year from its sprawling copper operations in a remote region that it says is the world’s richest source of copper outside Chile.",
+      "The plan knits together its Copper South Australia operations at its anchor Olympic Dam copper mine, its Ankata deposit, and the mines gained in its A$9.6 billion (S$8.2 billion) purchase of OZ Minerals in 2023.",
+      "“We start from a strong position as the world’s largest copper producer, with a sector-leading growth pathway that can be funded from existing copper cash flows,” Geraldine Slattery, BHP’s head of Australian operations, told investors on a site tour, according to prepared remarks supplied by BHP.",
+      "“Copper South Australia is a centrepiece of that growth, contributing around a third of the increase to 2035.”",
+      "BHP projected Copper South Australia’s output would grow to rival its share in Escondida, the world’s largest copper mine, by 2040. That would underpin BHP’s goal to produce 2 million tonnes of the metal, or 2.5 million including byproducts, from its global operations by the mid-2030s.",
+      "Slattery said BHP expects global copper demand to grow by 30% by 2040 to more than 45 million tonnes per year, driven by electrification, digitalisation and AI demand.",
+      "BHP, the world’s largest listed miner, reaped more value from its copper division than from iron ore, its prior mainstay, for the first time in fiscal 2026.",
+      "BHP has twice shelved plans in previous decades to develop its rich but technically complex ore assets, citing high costs and commodity downturns.",
+      "The operations have proven challenging due to a combination of operational instability, complex metallurgy and external infrastructure constraints such as water and power, UBS said in a note.",
+      "As a result, the operations have achieved a low single-digit return on capital employed for many years, reaching only 10% in fiscal 2026 with record-high commodity prices, UBS added.",
+      "BHP said it expects block caving, which is a type of bulk mining, and two-stage smelting to underpin significantly lower operating costs. It said phase one, which aims to produce 500,000 tonnes of copper annually by 2035, would have an internal rate of return of 14% to 17%, and capital intensity of US$18,000 to US$23,000 per tonne of copper.",
+      "As part of the expansion, BHP plans to roughly double the capacity of its uranium processing plant to 5,000 to 6,000 tonnes a year. It would also boost its gold production by 45% to more than 570,000 troy ounces a year.",
+      "BHP’s mines sit within the Gawler Craton, an ancient geological structure formed roughly two billion years ago, in an increasingly arid region on the fringes of Australia’s remote Outback.",
+      "The miner uses water from the Great Artesian Basin, which has sparked concerns about overuse from traditional owner groups such as the Arabana people. BHP aims to mitigate its use of the artesian water by using a planned 260-megalitre-a-day seawater desalination plant at Cape Hardy on South Australia’s Spencer Gulf. That water would need to be piped hundreds of kilometres.",
+      "The state government is running a tender for the multi-user Northern Water infrastructure project with two global consortia. It is due to make a final investment decision in 2027 , and the first water from the project is targeted for fiscal 2032.",
+      "The planned expansion will also require power upgrades to existing electricity transmission infrastructure. REUTERS"
     ]
   },
   "cna": {
-    "headline": "Verstappen wins in Las Vegas for third time in four years",
-    "teaser": "Verstappen wins in Las Vegas for third time in four years",
-    "url": "https://www.channelnewsasia.com/sport/verstappen-wins-in-las-vegas-third-time-in-four-years-6572686",
+    "headline": "India draw feels like a win for New Zealand skipper Latham",
+    "teaser": "India draw feels like a win for New Zealand skipper Latham",
+    "url": "https://www.channelnewsasia.com/sport/india-draw-feels-win-new-zealand-skipper-latham-6574216",
     "fullText": [
-      "LAS VEGAS, Nov 21 : Red Bull's Max Verstappen won a crazy, slipstreaming Las Vegas Grand Prix for the third time in four years on Saturday, while Mercedes rival George Russell hit the barriers late on and finished ninth.",
-      "In a race of 35 lead changes over 50 laps, and drivers nose-to-tail under the floodlights with track advantage swinging back and forth like a yo-yo, McLaren's 2025 champion Lando Norris and teammate Oscar Piastri finished second and third behind the polesitter.",
-      "Ferrari drivers Lewis Hamilton and Charles Leclerc collided again in a race in which both collected 10-second penalties for separate incidents and finished seventh and 10th respectively.",
-      "\"That was crazy. Really, really surreal and something I've never seen before in Formula One myself,\" said Verstappen, who beat Norris by 0.639 seconds.",
-      "Mercedes have already won both titles, with 20-year-old Italian Kimi Antonelli this month becoming the youngest ever Formula One world champion, while Verstappen and Russell started the weekend scrapping to end the season as overall runner-up.",
-      "Verstappen's fourth win in six races sent him 37 points clear of Ferrari's Hamilton with Russell, who started on the front row, dropping to fourth overall and level with Norris.",
-      "Antonelli was fourth with Alpine's Pierre Gasly fifth and teammate Franco Colapinto sixth. Carlos Sainz was eighth for Williams in the Spaniard's 250th race.",
-      "\"I think that must have been the most chaotic race ever in the history of Formula One,\" said Norris.",
-      "\"I didn't know what was happening half the time. I didn't know if I was going to have the best race and have a chance to win or end up last. It had everything this race.\"",
-      "Piastri, who started 17th, could only agree.",
-      "\"They say Las Vegas is the entertainment capital of the world and that was pretty entertaining to be a part of,\" said the Australian.",
-      "\"It was pretty random. You would pass someone on one straight super easy, then the next straight you would struggle and then with someone else it would be different strengths and weaknesses.\"",
-      "(Writing by Alan Baldwin in London, editing by Peter Rutherford)",
+      "Nov 23 : New Zealand captain Tom Latham said the draw in the first test against India on Monday felt like a victory given the parlous positions his team were in at various points of the match in Wellington.",
+      "India, who posted 720-9 declared in their single innings, were left five wickets short of a victory after a battling rearguard from Daryl Mitchell and Glenn Phillips denied them for almost two sessions on the final day.",
+      "That the match remained alive until the fifth day looked highly unlikely after India reduced the home side to 70-5 just after lunch on the opening day before the pitch flattened out and New Zealand posted 368.",
+      "\"I guess that's one that we've probably got away with,\" Latham told reporters at Basin Reserve.",
+      "\"Heading into the third innings, where there's only a couple of results at play, I think (it's great) the way those guys were able to apply themselves and stick to their plans for a long period of time, and ultimately get the draw.\"",
+      "Latham, whose own contribution to the batting was a pair of ducks after being dismissed by Jasprit Bumrah in the first over of each innings, said the draw was particularly important for the race to the World Test Championship (WTC) final.",
+      "New Zealand were top of the WTC standings at the start of the test last week only to be overhauled by reigning champions South Africa. Monday's draw means they will slip down another place to third behind Australia.",
+      "With the second India test in Christchurch followed by a tour of Australia and a home series against Sri Lanka, however, Latham felt New Zealand still had plenty of time to secure one of the two slots in the final at The Oval in June.",
+      "\"Draws become important as well,\" added the opener, who helped New Zealand beat India in 2021 to win the first WTC final.",
+      "\"It's not necessarily over one series that you've got to play well. It's over a two-year period and it depends on how many games you've got.",
+      "\"Obviously, we've got more games left than most teams ... (and) hopefully, we'll give ourselves a chance throughout the next couple of months to be in that position.\"",
       "A single handpicked story that we think you shouldn't miss. Just one a day."
     ]
   },
@@ -83,259 +63,263 @@
   },
   "lifeVocab": [
     {
-      "en": "consultation fee",
-      "cn": "诊察费",
-      "def": "a fee charged by a doctor or medical clinic for an appointment",
-      "ex": "Always check the clinic's consultation fee before registering at the counter.",
-      "emoji": "🩺"
+      "en": "loan quota",
+      "cn": "借阅额度",
+      "def": "the maximum number of books or items you are allowed to borrow at one time",
+      "ex": "You can borrow up to sixteen books on your basic library membership loan quota.",
+      "emoji": "📚"
     },
     {
-      "en": "medical certificate",
-      "cn": "病假条 (MC)",
-      "def": "an official note from a doctor stating a patient is unfit for work",
-      "ex": "The doctor issued a two-day medical certificate for her viral fever.",
-      "emoji": "📄"
+      "en": "hold request",
+      "cn": "预约取书",
+      "def": "an official request to reserve a book that is currently checked out by someone else",
+      "ex": "I placed a hold request on the latest bestseller via the NLB mobile app.",
+      "emoji": "📱"
     },
     {
-      "en": "referral letter",
-      "cn": "转诊信",
-      "def": "a letter from a GP to a specialist doctor explaining a patient's case",
-      "ex": "You need a referral letter from your GP to see a hospital dermatologist.",
-      "emoji": "✉️"
+      "en": "overdue fine",
+      "cn": "逾期罚款",
+      "def": "a small fee charged when you return library items past their due date",
+      "ex": "Remember to renew your books on time to avoid paying an overdue fine.",
+      "emoji": "💸"
     },
     {
-      "en": "dosage",
-      "cn": "剂量",
-      "def": "the exact amount of medicine that should be taken at one time",
-      "ex": "Read the prescription label carefully to check the correct daily dosage.",
-      "emoji": "💊"
+      "en": "quiet zone",
+      "cn": "安静区域",
+      "def": "a designated area in a library where talking is strictly restricted",
+      "ex": "Students often study in the quiet zone on the fourth floor to concentrate.",
+      "emoji": "🤫"
     },
     {
-      "en": "non-drowsy",
-      "cn": "不引起嗜睡的",
-      "def": "medication formulated so that it does not make the patient feel sleepy",
-      "ex": "Ask the pharmacist for a non-drowsy allergy tablet if you need to drive.",
-      "emoji": "🚘"
+      "en": "self-checkout kiosk",
+      "cn": "自助借书机",
+      "def": "an automated machine used to scan and borrow books independently",
+      "ex": "Scan your library card at the self-checkout kiosk to borrow your titles in seconds.",
+      "emoji": "🤖"
     },
     {
-      "en": "chronic condition",
-      "cn": "慢性病",
-      "def": "a long-lasting medical condition that requires ongoing medical care",
-      "ex": "Hypertension is a chronic condition that requires regular health check-ups.",
-      "emoji": "🩺"
+      "en": "call number",
+      "cn": "索书号",
+      "def": "a set of numbers and letters on a book spine used to locate it on the shelf",
+      "ex": "Check the catalogue online to note down the call number before searching the shelves.",
+      "emoji": "🏷️"
     },
     {
-      "en": "queue number",
-      "cn": "排队号码",
-      "def": "a printed sequence number given to patients waiting for their appointment",
-      "ex": "Take a queue number from the kiosk and wait in the seating area.",
-      "emoji": "🔢"
+      "en": "renewal",
+      "cn": "续借",
+      "def": "an extension of the period for which you may keep a borrowed item",
+      "ex": "If you need more time to finish reading, you can apply for an online renewal.",
+      "emoji": "🔄"
     },
     {
-      "en": "over-the-counter",
-      "cn": "非处方",
-      "def": "medicines sold directly to consumers without requiring a prescription",
-      "ex": "You can purchase basic painkillers over-the-counter at any retail pharmacy.",
-      "emoji": "🛍️"
+      "en": "e-newspaper",
+      "cn": "电子报纸",
+      "def": "a digital version of a newspaper accessible on electronic devices",
+      "ex": "Library patrons can access foreign e-newspapers for free using the digital kiosks.",
+      "emoji": "📰"
     },
     {
-      "en": "fast for blood test",
-      "cn": "抽血前空腹",
-      "def": "refrain from eating or drinking anything except water before a lab test",
-      "ex": "You must fast for at least eight hours before your annual blood test.",
-      "emoji": "🛑"
+      "en": "reference section",
+      "cn": "参考书区",
+      "def": "a library section containing materials intended only for consultation on-site",
+      "ex": "Rare historical archives can only be read within the reference section.",
+      "emoji": "📑"
     },
     {
-      "en": "subsidised rate",
-      "cn": "补贴费率",
-      "def": "a reduced fee made lower through government funding or financial aid",
-      "ex": "Singaporeans receive subsidised rates at public polyclinics.",
-      "emoji": "🇸🇬"
+      "en": "audiobook",
+      "cn": "有声书",
+      "def": "an audio recording of a book being read aloud",
+      "ex": "Listening to an audiobook during your daily MRT commute is a great way to unwind.",
+      "emoji": "🎧"
     }
   ],
   "levelVocab": [
     {
-      "w": "concur",
-      "ipa": "/kənˈkɜːr/",
+      "w": "accentuate",
+      "ipa": "/əkˈsɛntʃʊeɪt/",
       "pos": "v.",
-      "cn": "赞同",
-      "def": "be of the same opinion; agree with a decision or view",
-      "ex": "The board members concurred with the director's proposals for expansion."
+      "cn": "突出，强调",
+      "def": "to make something more noticeable or prominent",
+      "ex": "The new quarterly report serves to accentuate our growing market share in Asia."
     },
     {
-      "w": "preempt",
-      "ipa": "/priːˈempt/",
-      "pos": "v.",
-      "cn": "预先采取行动",
-      "def": "take action in order to prevent an anticipated event from happening",
-      "ex": "The executive team acted swiftly to preempt negative media coverage."
-    },
-    {
-      "w": "imperative",
-      "ipa": "/ɪmˈper.ə.tɪv/",
-      "pos": "adj.",
-      "cn": "至关重要的",
-      "def": "of vital importance; crucial or essential",
-      "ex": "It is imperative that all regulatory reports are submitted prior to the audit."
-    },
-    {
-      "w": "divergence",
-      "ipa": "/daɪˈvɜː.dʒəns/",
+      "w": "bottleneck",
+      "ipa": "/ˈbɒt(ə)lˌnɛk/",
       "pos": "n.",
-      "cn": "分歧/差异",
-      "def": "a difference or departure from a standard, trend, or opinion",
-      "ex": "Recent data reveals a sharp divergence in economic performance between regions."
+      "cn": "瓶颈，阻碍因素",
+      "def": "a point of congestion or blockage that slows down a process",
+      "ex": "Supply chain delays created a severe bottleneck in regional production schedules."
     },
     {
-      "w": "alleviate",
-      "ipa": "/əˈliː.vi.eɪt/",
+      "w": "circumscribe",
+      "ipa": "/ˈsɜːkəmskraɪb/",
       "pos": "v.",
-      "cn": "减轻/缓和",
-      "def": "make a problem, pain, or difficulty less severe",
-      "ex": "The new logistics software was designed to alleviate operational bottlenecks."
+      "cn": "限制，约束",
+      "def": "to restrict something within limits",
+      "ex": "Strict monetary regulations may circumscribe the bank's cross-border expansion."
     },
     {
-      "w": "contingency",
-      "ipa": "/kənˈtɪn.dʒən.si/",
-      "pos": "n.",
-      "cn": "突发事件/应变计划",
-      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "Every project scope must include a contingency fund for unexpected delays."
+      "w": "delineate",
+      "ipa": "/dɪˈlɪnɪeɪt/",
+      "pos": "v.",
+      "cn": "勾勒，明确阐述",
+      "def": "to describe or portray something precisely",
+      "ex": "The strategy document clearly delineates the operational roles of each division."
     },
     {
-      "w": "conducive",
-      "ipa": "/kənˈdʒuː.sɪv/",
+      "w": "extrapolate",
+      "ipa": "/ɪkˈstræpəleɪt/",
+      "pos": "v.",
+      "cn": "推断，外推",
+      "def": "to estimate or infer future trends based on existing data",
+      "ex": "Analysts extrapolated next year's revenue targets from past sales performance."
+    },
+    {
+      "w": "impermanent",
+      "ipa": "/ɪmˈpɜːmənənt/",
       "pos": "adj.",
-      "cn": "有利于...的",
-      "def": "making a certain situation or outcome likely or possible",
-      "ex": "A quiet work environment is conducive to sustained concentration."
+      "cn": "暂时的，非永久的",
+      "def": "not lasting forever; temporary",
+      "ex": "The spike in commodity prices turned out to be impermanent as supply stabilized."
     },
     {
-      "w": "stipulate",
-      "ipa": "/ˈstɪp.jə.leɪt/",
+      "w": "juxtapose",
+      "ipa": "/ˌdʒʌkstəˈpəʊz/",
       "pos": "v.",
-      "cn": "规定/约定",
-      "def": "demand or specify a requirement as part of a formal agreement",
-      "ex": "The contract stipulates that payments must be settled within thirty days."
+      "cn": "并置对比",
+      "def": "to place two things close together to compare or contrast them",
+      "ex": "The presentation juxtaposed traditional retail metrics with digital e-commerce growth."
     },
     {
-      "w": "discretionary",
-      "ipa": "/dɪˈskreʃ.ən.ər.i/",
+      "w": "ostensible",
+      "ipa": "/ɒˈstɛnsəbl/",
       "pos": "adj.",
-      "cn": "自由裁量的",
-      "def": "available for use at the user's discretion rather than by fixed rule",
-      "ex": "Department heads were granted discretionary authority over annual bonus allocations."
+      "cn": "表面上的，宣称的",
+      "def": "stated or appearing to be true, but not necessarily so",
+      "ex": "The ostensible reason for the delay was weather, though funding issues also contributed."
     },
     {
-      "w": "exacerbate",
-      "ipa": "/ɪɡˈzæs.ə.beɪt/",
+      "w": "pre-empt",
+      "ipa": "/ˌpriːˈɛmpt/",
       "pos": "v.",
-      "cn": "使恶化/加重",
-      "def": "make a problem, bad situation, or negative feeling worse",
-      "ex": "Supply shortages threaten to exacerbate existing inflationary pressures."
+      "cn": "抢先采取行动，先发制人",
+      "def": "to take action in order to prevent an anticipated event from happening",
+      "ex": "The central bank raised interest rates early to pre-empt potential inflation risks."
+    },
+    {
+      "w": "recalibrate",
+      "ipa": "/ˌriːˈkælɪbreɪt/",
+      "pos": "v.",
+      "cn": "重新调整，重新评估",
+      "def": "to alter or adjust a plan, mechanism, or perspective in response to new input",
+      "ex": "Firms must recalibrate their long-term hiring plans amid changing macroeconomic conditions."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore Expands Electric Bus Fleet to Cut Urban Emissions",
-    "transcript": "Singapore's Land Transport Authority has announced plans to deploy hundreds of new electric buses across public routes by next year. Officials stated that replacing traditional diesel vehicles will significantly reduce urban carbon <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈmɪʃ.ənz/ (n.) gases or pollutants released into the air — 气体排放\">emissions</span> and noise pollution. <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kəˈmjuː.təz/ (n.) people who travel regularly between work and home — 通勤者\">commuters</span> can look forward to quieter journeys and improved air quality along major trunk routes. The <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˈnɪʃ.ə.tɪv/ (n.) an official new plan or program intended to solve a problem — 倡议/新方案\">initiative</span> forms part of the nation's broader Green Plan 2030."
+    "title": "Singapore Pilots Autonomous Shuttles in Punggol",
+    "transcript": "Singapore is set to pilot new <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɔːˈtɒnəməs/ (adj.) acting independently or having the freedom to do so; self-driving — 自动驾驶的，自主的\">autonomous</span> shuttles in Punggol by the end of this year, aiming to enhance first-and-last-mile <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌkɒnɛkˈtɪvɪti/ (n.) the degree to which a transport network or system facilitates travel — 连接性，交通连通性\">connectivity</span> for commuters. Transport authorities highlighted that these driverless vehicles will undergo rigorous safety testing before being integrated into daily transit schedules. Local residents expressed cautious optimism about the initiative, noting that reliable tech could ease peak-hour <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/kənˈdʒɛstʃən/ (n.) the state of being crowded or full of traffic — 拥堵，堵塞\">congestion</span> in suburban towns."
   },
   "economistArticle": {
-    "title": "The Lonely Yields: Why China is Bucking Global Bond Trends",
+    "title": "Deflating the Bubble: How Much Air Remains in the AI Market?",
     "paras": [
-      "Across major developed economies, sovereign bond yields have drifted steadily upward as central banks <span class=\"voc\">grapple</span> with sticky inflation and elevated policy rates. From Washington to Frankfurt, institutional investors are demanding higher returns to lock up their capital in government debt. Yet in Beijing, a <span class=\"voc\">starkly</span> different economic narrative is unfolding. Yields on Chinese sovereign bonds have plummeted to historic lows as the country struggles with persistent domestic demand weakness and lingering real estate troubles.",
-      "To counter this economic <span class=\"voc\">inertia</span>, the People’s Bank of China (PBOC) has taken the opposite path of its Western peers by repeatedly cutting benchmark interest rates. In theory, cheaper borrowing costs ought to spur commercial investment and <span class=\"voc\">reignite</span> consumer spending. In practice, however, risk-averse commercial banks and anxious household savers have poured massive sums into government bonds, driving prices up and yields down to levels that trouble senior policymakers.",
-      "<span class=\"gem\">The central bank finds itself in an awkward <span class=\"voc\">predicament</span>.</span> While it desires low interest rates to <span class=\"voc\">invigorate</span> domestic growth, it worries that excessively low long-term bond yields signal deep institutional pessimism about China's future growth <span class=\"voc\">trajectory</span>. Furthermore, ultra-low Chinese yields put downward pressure on the renminbi, encouraging capital flight to higher-yielding offshore dollar assets and threatening currency stability.",
-      "In response, Chinese authorities have attempted an unusual regulatory intervention by issuing stern warnings to domestic financial institutions against over-investing in long-term sovereign debt. Policymakers have even signaled a willingness to sell bonds from their own balance sheet to artificially push yields back up. Yet such verbal and market interventions highlight a fundamental tension between stimulating a <span class=\"voc\">sluggish</span> real economy and curbing market speculation.",
-      "Until consumer confidence returns and the embattled property sector stabilizes, investors will likely continue seeking safety in government debt. China's central bank may keep trimming rates to aid economic recovery, but forcing sovereign bond yields higher in a <span class=\"voc\">lukewarm</span> economy remains a delicate, if not contradictory, balancing act."
+      "For over two years, financial markets have been propelled by an <span class=\"voc\">unyielding</span> enthusiasm for artificial intelligence. Valuations for tech <span class=\"voc\">behemoths</span> soared to astronomical heights on the promise that generative models would fundamentally reshape global commerce. Yet, recent stock market tremors suggest that investors are beginning to suffer from collective exhaustion, questioning whether the vast capital expenditure on data centres and specialised microchips will yield proportionate returns in the near term.",
+      "<span class=\"gem\">The recent pullback is not merely a <span class=\"voc\">transient</span> glitch, but rather an overdue reality check.</span> Wall Street analysts are increasingly scrutinising tech earnings reports for signs of revenue monetization, only to find that commercial adoption remains in its <span class=\"voc\">nascent</span> stages. While chipmakers continue to report lucrative revenues, the enterprise software firms expected to convert AI capabilities into recurring subscription fees are struggling to show <span class=\"voc\">commensurate</span> growth.",
+      "This <span class=\"voc\">asymmetry</span> has ignited fears of a classic market correction. Capital allocation has become dangerously concentrated in a handful of megacap tech equities, leaving broader market indices vulnerable to sharp downturns. If the projected productivity gains fail to materialize quickly, the inflated <span class=\"voc\">multiples</span> attached to these technology titans could deflate rapidly, triggering wider systemic repercussions.",
+      "Moreover, supply chain bottlenecks and staggering power requirements pose formidable physical constraints to continued exponential expansion. Constructing energy-intensive server facilities requires unprecedented grid infrastructure, leading to regulatory delays that could further dampen institutional enthusiasm. Investors who once treated AI investments as a risk-free bet are now recalibrating their risk assessments in response to these structural <span class=\"voc\">headwinds</span>.",
+      "Ultimately, a moderate <span class=\"voc\">retrenchment</span> may prove healthy for the broader economic ecosystem. <span class=\"gem\">Stripping away the speculative <span class=\"voc\">froth</span> forces technology developers to pivot from grandiose promises to practical, value-generating applications.</span> The market may be troubled today, but a more sober valuation of artificial intelligence could lay the groundwork for sustainable long-term growth."
     ],
-    "cn": "全球主要发达经济体的国债收益率随央行应对粘性通胀和高政策利率而稳步攀升。从华盛顿到法兰克福，机构投资者正要求更高的回报率以锁定政府债券资金。然而在北京，一个截然不同的经济故事正在上演。由于国内需求持续疲软以及房地产业危机未消，中国国债收益率已暴跌至历史低点。\n\n为了应对这种经济惯性下滑，中国人民银行采取了与西方同行相反的路径，屡次下调基准利率。理论上，较低的融资成本应当能刺激企业投资并重新点燃消费支出。然而在实践中，避险心切的商业银行和焦虑的家庭储户将巨额资金涌入国债，从而拉高了债券价格，并将收益率推低至让决策层担忧的水平。\n\n央行陷入了尴尬的困境。尽管它希望获得低利率来激活国内增长，但它担心极低的长期国债收益率反映出市场对中国未来增长轨迹的深层悲观情绪。此外，超低的中国收益率对人民币构成下行压力，促使资金流向海外的高收益美元资产，威胁货币稳定。\n\n作为回应，中国监管层尝试进行罕见的监管干预，向国内金融机构发出严厉警告，要求其不要过度投资长期国债。决策者甚至表明愿意从自己的资产负债表中抛售国债，以人为推高收益率。然而，此类口头干预与市场干预凸显了刺激疲软的实业经济与遏制市场炒作之间的根本张力。\n\n在消费者信心恢复且困境重重的房地产业稳定之前，投资者可能仍将继续在国债中寻求庇护。中国央行可能会继续降息以推行经济复苏，但在温吞的经济环境中强行推高国债收益率仍是一项微妙甚至自相矛盾的平衡术。",
+    "cn": "两年来，金融市场一直受到对人工智能的不懈热情的推动。科技巨头们的估值升至天文数字，因为市场预期生成式模型将从根本上重塑全球商业。然而，近期股票市场的震荡表明，投资者正开始感到集体疲倦，开始质疑数据中心和专用芯片上的巨额资本支出能否在短期内带来成比例的回报。\n\n最近的回调不仅是一个短暂的小故障，更是一场迟到的现实检验。华尔街分析师正日益审视科技公司的财报，寻找营收变现的迹象，结果却发现商业应用仍处于初级阶段。虽然芯片制造商继续报告丰厚的收入，但那些被预期将人工智能能力转化为持续订阅费的企业软件公司，却难以展现出相匹配的增长。\n\n这种不对称引发了人们对经典市场回调的担忧。资本配置危险地集中在少数超级大盘科技股中，使得更广泛的股票市场指数极易受到剧烈下跌的影响。如果预期的生产力提升不能迅速实现，附着在这些科技巨头身上的膨胀估值倍数可能会迅速缩水，从而引发更广泛的系统性涟漪反应。\n\n此外，供应链瓶颈和惊人的电力需求对持续的指数级扩张构成了严峻的物理制约。建设能源密集型服务器设施需要前所未有的电网基础设施，从而导致监管延误，进一步打击机构投资者的热情。曾经将人工智能投资视为无风险押注的投资者，如今正因这些结构性逆风而重新评估其风险。\n\n归根结底，适度的收缩对更广泛的经济生态系统来说可能是健康的。剥离投机泡沫迫使技术开发人员从宏大的许诺转向务实且能创造价值的实际应用。今天的市场或许动荡不安，但对人工智能更为理性的估值，可能为可持续的长期增长奠定基础。",
     "vocab": [
       {
-        "w": "grapple",
-        "ipa": "/ˈɡræp.əl/",
-        "pos": "v.",
-        "mean": "努力应对",
-        "def": "struggle to deal with or overcome a difficult problem",
-        "ex": "Central bankers continue to grapple with persistent inflationary pressures."
-      },
-      {
-        "w": "starkly",
-        "ipa": "/ˈstɑːk.li/",
-        "pos": "adv.",
-        "mean": "鲜明地/明显地",
-        "def": "in a sharply clear, obvious, or contrasting manner",
-        "ex": "The two economic strategies contrast starkly with one another."
-      },
-      {
-        "w": "plummet",
-        "ipa": "/ˈplʌm.ɪt/",
-        "pos": "v.",
-        "mean": "暴跌",
-        "def": "fall or drop straight down at high speed",
-        "ex": "Government bond yields plummeted following the unexpected rate cut announcement."
-      },
-      {
-        "w": "inertia",
-        "ipa": "/ɪˈnɜː.ʃə/",
+        "w": "behemoths",
+        "ipa": "/bɪˈhiːmɒθs/",
         "pos": "n.",
-        "mean": "惯性/停滞",
-        "def": "a tendency to do nothing or to remain unchanged",
-        "ex": "The policy measures aim to overcome prolonged economic inertia."
+        "mean": "巨头，庞然大物",
+        "def": "huge and powerful organizations or entities",
+        "ex": "Tech behemoths dominated equity markets throughout the long bull run."
       },
       {
-        "w": "reignite",
-        "ipa": "/ˌriː.ɪɡˈnaɪt/",
-        "pos": "v.",
-        "mean": "重新点燃/使复苏",
-        "def": "spark or cause to revive after a period of dormancy",
-        "ex": "Lower borrowing costs are intended to reignite private consumption."
-      },
-      {
-        "w": "predicament",
-        "ipa": "/prɪˈdɪk.ə.mənt/",
-        "pos": "n.",
-        "mean": "困境",
-        "def": "a difficult, unpleasant, or embarrassing situation",
-        "ex": "The central bank finds itself in a challenging monetary predicament."
-      },
-      {
-        "w": "invigorate",
-        "ipa": "/ɪnˈvɪɡ.ər.eɪt/",
-        "pos": "v.",
-        "mean": "激活/鼓舞",
-        "def": "give strength, energy, or vitality to something",
-        "ex": "Targeted fiscal stimulus could invigorate small business growth."
-      },
-      {
-        "w": "trajectory",
-        "ipa": "/trəˈdʒek.tər.i/",
-        "pos": "n.",
-        "mean": "轨迹/发展方向",
-        "def": "the path followed by a process, development, or object",
-        "ex": "Analysts are revising their forecasts regarding the nation's growth trajectory."
-      },
-      {
-        "w": "sluggish",
-        "ipa": "/ˈslʌɡ.ɪʃ/",
+        "w": "unyielding",
+        "ipa": "/ʌnˈjiːldɪŋ/",
         "pos": "adj.",
-        "mean": "缓慢的/疲软的",
-        "def": "slow-moving or lacking alertness, energy, or activity",
-        "ex": "Sluggish export demand has weighed heavily on quarterly economic growth."
+        "mean": "不屈不挠的，坚定的",
+        "def": "not giving way to pressure; constant and relentless",
+        "ex": "The rally was sustained by unyielding optimism among retail traders."
       },
       {
-        "w": "lukewarm",
-        "ipa": "/ˌluːkˈwɔːm/",
+        "w": "transient",
+        "ipa": "/ˈtrænziənt/",
         "pos": "adj.",
-        "mean": "温吞的/冷淡的",
-        "def": "showing little enthusiasm or vigor",
-        "ex": "The economic response to the stimulus package has been lukewarm so far."
+        "mean": "短暂的，转瞬即逝的",
+        "def": "lasting only for a short time; impermanent",
+        "ex": "Economists argued whether the price increases were structural or merely transient."
+      },
+      {
+        "w": "nascent",
+        "ipa": "/ˈnæsnt/",
+        "pos": "adj.",
+        "mean": "初生的，萌芽阶段的",
+        "def": "just beginning to exist or develop",
+        "ex": "Commercial applications of the new tech remain in a nascent stage."
+      },
+      {
+        "w": "commensurate",
+        "ipa": "/kəˈmɛnʃərət/",
+        "pos": "adj.",
+        "mean": "相称的，成比例的",
+        "def": "corresponding in size, degree, or extent",
+        "ex": "High investment must generate commensurate revenue to satisfy shareholders."
+      },
+      {
+        "w": "asymmetry",
+        "ipa": "/eɪˈsɪmɪtri/",
+        "pos": "n.",
+        "mean": "不对称，不平衡",
+        "def": "lack of equality or equivalence between parts or aspects of something",
+        "ex": "The market asymmetry exposed broad index funds to concentrated risks."
+      },
+      {
+        "w": "multiples",
+        "ipa": "/ˈmʌltɪplz/",
+        "pos": "n.",
+        "mean": "估值倍数（金融术语）",
+        "def": "ratios used to value a company relative to a financial metric such as earnings",
+        "ex": "High earnings multiples left tech shares vulnerable to interest rate hikes."
+      },
+      {
+        "w": "headwinds",
+        "ipa": "/ˈhɛdwɪndz/",
+        "pos": "n.",
+        "mean": "逆风，不利因素",
+        "def": "conditions that restrict or slow down progress or growth",
+        "ex": "Rising energy costs present severe operational headwinds for data centers."
+      },
+      {
+        "w": "retrenchment",
+        "ipa": "/rɪˈtrɛnʧmənt/",
+        "pos": "n.",
+        "mean": "紧缩，削减开支",
+        "def": "the reduction of costs or spending in response to economic difficulty",
+        "ex": "A period of financial retrenchment helped tech firms restore profitability."
+      },
+      {
+        "w": "froth",
+        "ipa": "/frɒθ/",
+        "pos": "n.",
+        "mean": "泡沫，虚高成分",
+        "def": "unsubstantiated or speculative high value in financial markets",
+        "ex": "Regulators warned that market speculative froth could harm retail investors."
       }
     ],
     "gems": [
       {
-        "s": "The central bank finds itself in an awkward predicament.",
-        "why": "This short sentence uses clear, personified language to encapsulate a complex institutional dilemma succinctly. 这句简短的句子运用生动清晰的拟人化表达，精炼地概括了复杂的机构困境。"
+        "s": "The recent pullback is not merely a transient glitch, but rather an overdue reality check.",
+        "why": "Uses the contrasting frame 'not merely A, but rather B' alongside metaphors ('transient glitch', 'reality check') to reframe market decline as a necessary corrective rather than an anomaly. 巧妙运用“不仅不是A，反而是一场迟到的B”句型，将市场下跌重新定义为理性的回归，增强论证说服力。"
+      },
+      {
+        "s": "Stripping away the speculative froth forces technology developers to pivot from grandiose promises to practical, value-generating applications.",
+        "why": "Employs vivid imagery ('speculative froth') and dynamic verbs ('strip away', 'pivot') to contrast empty hype ('grandiose promises') with business utility ('value-generating applications'). 通过“剥离泡沫”这一生动比喻与“从虚妄承诺转向实际价值”的对比，鲜明指明了行业发展的正确方向。"
       }
     ]
   }
