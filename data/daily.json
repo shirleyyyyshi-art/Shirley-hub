@@ -1,52 +1,350 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T10:07:19.885147+00:00",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T08:52:22.569742+00:00",
   "economist": {
-    "headline": "How much more air can come out of the AI trade?",
-    "teaser": "Markets are troubled—for good reason",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+    "headline": "Are America’s supply chains really more vulnerable than China’s?",
+    "teaser": "Mapping the vulnerabilities in global commerce",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
     "vocab": [
       {
-        "word": "troubled",
-        "phonetic": "/ˈtɹʌbl̩d/",
-        "def": "To disturb, stir up, agitate (a medium, especially water)."
+        "word": "vulnerable",
+        "phonetic": "/ˈvʌln(ə)ɹəbl̩/",
+        "def": "More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally."
+      },
+      {
+        "word": "mapping",
+        "phonetic": "/ˈmæpɪŋ/",
+        "def": "To create a visual representation of a territory, etc. via cartography."
       }
     ]
   },
   "st": {
-    "headline": "Want to travel 3 times a year or cut your renovation costs? Watch this ST InvestMe discussion",
-    "teaser": "Watch the video to find out how you can plan for your dream life.",
-    "url": "https://www.straitstimes.com/business/invest/want-to-travel-3-times-a-year-or-cut-your-renovation-costs-watch-this-st-investme-discussion",
+    "headline": "Australian regulator finds more suspected audit misconduct at Big Four firms",
+    "teaser": "It follows a review of 558 audit complaints at KPMG, PwC, Deloitte and EY.",
+    "url": "https://www.straitstimes.com/business/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms",
     "fullText": [
-      "Sign up for ST InvestMe and unlock full access to exclusive insights and financial literacy courses today.",
-      "ST Business correspondent Sue-Ann Tan was able to have three holidays in Europe in 2026 on a total budget of $15,000."
+      "SYDNEY – Australia’s corporate regulator said on Nov 25 it has discovered dozens of additional cases of suspected audit misconduct among the Big Four accounting firms, ranging from misuse of client information to falsified work.",
+      "The Australian Securities and Investments Commission (ASIC) said it was now considering its enforcement and regulatory options following its review of 558 audit complaints at KPMG, PwC, Deloitte and EY.",
+      "The Big Four have been beset by a number of scandals in recent years.",
+      "The latest has KPMG under regulatory and political investigation after whistleblower allegations came to light in 2026 , accusing the firm of sharing confidential audit client information to bid for more work with other companies.",
+      "The Australian government is considering breaking up the Big ​Four firms and imposing partnership size caps as well as stipulating a mandatory rotation of audit firms in a bid to clean up the sector.",
+      "ASIC’s review, announced in July, required the firms to hand over internal documents dating back to July 2023. The Big Four recorded 3,215 internal complaints during the three-year period.",
+      "Of the 558 audit complaints ASIC examined, 35 raised questions about “the conduct of a statutory audit, or the misuse of statutory audit client information”, the review found.",
+      "The most common concerns involved audit work that had been falsified, inaccurately documented or recorded without adequate evidence, ASIC said.",
+      "A number of complaints alleged employees were directed to disregard, conceal or not escalate issues identified during an audit or that, when escalated, the issues were not investigated appropriately.",
+      "There was also misuse and sharing of confidential statutory audit client information, including during an audit tender process, ASIC said.",
+      "“Some of the complaints included serious allegations of misconduct that are under consideration for enforcement action,” ASIC’s report said.",
+      "Other issues related to matters currently being investigated by ASIC, including its existing KPMG probe.",
+      "ASIC criticised the firms’ internal responses to the complaints, finding they had investigated a number of concerns as workplace matters instead of audit quality issues.",
+      "It also said the majority of firms initially engaged with its inquiries in a “protracted and legalistic” way, withholding or redacting documents, making extensive legal privilege claims and missing deadlines.",
+      "PwC said in a statement it was considering ASIC’s report, and that audit quality was its highest priority.",
+      "“We take complaints raised seriously and are continuously improving our processes and practices,” a spokesperson said.",
+      "KPMG, Deloitte and EY did not immediately respond to a request for comment.",
+      "“What a shameful list of failures,” Deborah O’Neill, a senator from the ruling Labour Party who made the whistleblower allegations against KPMG public in March, said in a statement.",
+      "“It’s clearer than ever that the barrel contains more than just a few bad apples.”",
+      "Greens Senator Barbara Pocock said the “sheer scale of misconduct within the Big Four is alarming”, calling for ASIC to be given more powers to police the firms.",
+      "“The evidence points to a culture of misconduct running right across the Big Four,” she said.",
+      "“The Big Four cannot be allowed to continue operating like corporate cowboys, effectively policing themselves while misconduct goes unchecked. We need proper regulation, real oversight and a watchdog with teeth.”",
+      "The firms are treated as partnerships rather than companies in Australia. That means they are not subject to supervision by ASIC, which has strict reporting requirements, and are instead regulated by state-based ‌laws.",
+      "ASIC’s powers only extend to individual company auditors.",
+      "Commissioner Kate O’Rourke said ASIC would continue to engage with the government on the regulation of audit firms.",
+      "“The issues identified through this review reinforce the case for audit firm licensing and stronger enforcement and disciplinary powers,” she said.",
+      "The KPMG scandal comes three years after it emerged that PwC shared confidential government tax policy details to win clients. REUTERS"
     ]
   },
   "cna": {
-    "headline": "Nvidia suppliers, startups in Asia cheer Huang's return as uncertainty eases",
-    "teaser": "Jensen Huang is a big star in Taiwan, where his visits regularly draw crowds of fans and reporters, a phenomenon that local media have called \"Jensanity\".",
-    "url": "https://www.channelnewsasia.com/asia/nvidia-suppliers-startups-asia-cheer-huangs-return-6577521",
+    "headline": "Singapore, Japan to hold Exercise Singapan regularly, explore submarine rescue drills",
+    "teaser": "Both sides also discussed maritime security and closer cooperation ahead of Singapore's 2027 ASEAN chairmanship.",
+    "url": "https://www.channelnewsasia.com/singapore/japan-defence-exercise-singapan-navy-chan-chun-sing-6580986",
     "fullText": [
-      "TAIPEI: Taiwan, the birthplace of Nvidia CEO Jensen Huang, awoke on Tuesday (Nov 24) to see its homegrown hero back as head of the company he co-founded less than two weeks after being forced out .",
-      "Huang is a big star in Taiwan, home to the world's largest contract chipmaker, TSMC, and the island is a critical link in the global AI supply chain.",
-      "His visits regularly draw crowds of fans and reporters, a phenomenon that local media have called \"Jensanity\".",
-      "Huang's resignation earlier this month, following revelations of his extramarital affairs and questions over whether he had been targeted by a foreign intelligence effort, was met with shock in Taiwan. Supporters have said they never ruled out a comeback.",
-      "Gary Wu, a 31-year-old engineer, said his first thought after seeing the news of Huang's return overnight was the likely boost to Taiwan's stock market.",
-      "\"Sure enough, by this morning I could see it had hit the daily limit-up,\" he said. \"So we've got money to put food on the table now.\"",
-      "Taiwan's benchmark index closed up 9 per cent on Tuesday, rebounding from an eight-month low.",
-      "“I always felt he would come back,” said Jane Kuo, 50, who runs Flower Restaurant, a Taipei eatery that Huang frequented during his Taiwan trips. “He pulled through. That's great.”",
-      "Kuo said she was ready to welcome Huang back whenever he next visits Taiwan, saying he boosted business at her restaurant, bringing colleagues and family members and sometimes ordering takeaway to bring on his private jet.",
-      "Last week, prominent figures from Taiwan's technology industry organised a two-night light display on the Taipei 101 skyscraper featuring messages including \"Taiwan Loves Jensen\", \"Family and Friendship\" and \"Thrive Together\".",
-      "Beyond his celebrity status, Huang spent decades cultivating close personal relationships with Taiwan's tech leaders, helping build a supplier network that became the backbone of Nvidia's dominance in AI computing.",
-      "During his frequent visits to the island, he hosted gatherings of executives from TSMC, Foxconn, Wistron, Quanta Computer and other suppliers. Local media dubbed them \"trillion-dollar dinners\", a reference to the combined market value of the companies represented.",
-      "In May, Huang described Taiwan as the \"epicentre\" of the AI revolution and said Nvidia planned to invest about US$150 billion a year in the island, which has historically received relatively little public recognition for its contributions despite its role in global technology manufacturing.",
-      "\"Of course Taiwan really welcomes Jensen Huang's return,\" said Lee Chang-ken, the president of Cathay Financial, Taiwan's largest financial holding company. \"Naturally, we look forward to AI development continuing so that Taiwan's supply chain companies can keep making big profits.\"",
-      "An automated curation of our top stories to start your day."
+      "SINGAPORE: Singapore and Japan have agreed to further develop Exercise Singapan and conduct it on a regular basis after holding their first bilateral naval exercise this year.",
+      "Exercise Singapan was held in late August in the waters off Japan in the Pacific Ocean, with both sides exchanging personnel between their ships, taking part in conventional warfare drills, planning exercises and visiting each other's ships ashore.",
+      "Singapore's Ministry of Defence (MINDEF) said on Wednesday (Nov 25) that the two countries agreed to further develop the exercise and conduct it on a regular basis.",
+      "A joint statement by Japan and Singapore said that the agreement was reached during Minister for Defence Chan Chun Sing's meeting with his Japanese counterpart Koizumi Shinjiro on Wednesday, when they discussed the regional security environment and their countries' defence cooperation.",
+      "They also agreed to consider holding submarine rescue exercises.",
+      "The meeting took place during Mr Chan's introductory visit to Japan as defence minister, as the two countries mark 60 years of diplomatic relations.",
+      "Both ministers have held frequent meetings and maintained close communication on defence cooperation.",
+      "On Wednesday, they reaffirmed both countries' \"strong commitment\" to strengthening defence ties and tackling regional and global challenges together as like-minded partners.",
+      "Mr Koizumi outlined Japan's defence policy and the two ministers welcomed progress in security and defence cooperation under the Japan-Singapore \"Strategic Partnership\", established in March.",
+      "\"Amid an increasingly complex global and regional security environment, the two ministers affirmed their shared interest in regional peace and stability, including maritime security,\" MINDEF said.",
+      "They also reiterated the vital importance of open sea lanes to both countries.",
+      "Against this backdrop, the ministers agreed to step up cooperation by pooling both countries' knowledge and technologies to tackle shared challenges.",
+      "The ministry said that there had also been a \"healthy cadence of exchanges\" between the two countries' military leadership.",
+      "In August, General Uchikura Hiroaki, Chief of Staff of the Japan Joint Staff, made an introductory visit to Singapore where he met Mr Chan. Singapore's navy chief also made a working visit to Japan that month.",
+      "The ministers also looked forward to Vice-Admiral Aaron Beng, Chief of Defence Force of the Singapore Armed Forces , making his introductory visit to Japan.",
+      "Mr Chan, who is in Japan from Tuesday to Wednesday, has been meeting with other senior Japanese officials, including Mr Wakamiya Kenji, Special Advisor to the Prime Minister, and the ruling Liberal Democratic Party's executive acting secretary-general Hagiuda Koichi.",
+      "He also met young Japanese politicians over lunch and hosted a dinner for security-related personnel, MINDEF said in a separate news release.",
+      "\"These engagements provided opportunities to exchange views on regional and international security developments and strengthen bilateral ties,\" it added.",
+      "Both ministers also discussed Japan's cooperation with the Association of Southeast Asian Nations (ASEAN) and its role in regional stability.",
+      "Singapore will chair the 11-nation bloc in 2027 and formally received the chairmanship last week.",
+      "Mr Chan and Mr Koizumi said that cooperation through the ASEAN Defence Ministers' Meeting-Plus (ADMM-Plus) was important in promoting regional peace and stability.",
+      "ADMM-Plus is a platform for ASEAN and its eight dialogue partners, including China, Japan and the United States, to strengthen security and defence cooperation. Singapore took over as the 2027 chair of the ADMM and ADMM-Plus last month.",
+      "Mr Koizumi said that Japan intends to fully support the ADMM and ADMM-Plus in their efforts to promote regional peace and stability.",
+      "Both ministers also agreed to work with other ADMM and ADMM-Plus countries to strengthen the Experts' Working Groups in addressing shared security challenges ahead of next year's meeting , it said.",
+      "Separately, the two ministers discussed how Singapore, as ASEAN's current country coordinator for Japan, would continue to support the \"strong cooperative relationship between Japan and ASEAN\".",
+      "Mr Chan reiterated Singapore's hope that Japan would continue to play a constructive role in regional peace and security."
     ]
   },
   "mom": {
     "headline": "Five Individuals Charged For Allegedly Working Illegally as Food Delivery Drivers or Abetting Such Work",
     "teaser": "On 24 November 2026, five individuals were charged in Court for allegedly performing or abetting illegal employment offences under the Employment of Foreign Manpower Act 1990 ( \"EFMA\" ). Two foreigners were charged for allegedly performing food delivery work illegally, while three Singaporeans were charged with alleged",
     "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1124-ie-of-food-delivery-work"
+  },
+  "lifeVocab": [
+    {
+      "en": "EZ-Link card",
+      "cn": "易通卡",
+      "def": "a contactless smart card used for paying public transport fares in Singapore",
+      "ex": "Always remember to top up your EZ-Link card before tapping into the MRT station.",
+      "emoji": "💳"
+    },
+    {
+      "en": "MRT gantry",
+      "cn": "地铁自动进出闸门",
+      "def": "the automated turnstile barrier at a Singapore train station",
+      "ex": "You can tap your smartphone or smartwatch at the MRT gantry to enter.",
+      "emoji": "🚪"
+    },
+    {
+      "en": "interchange station",
+      "cn": "换乘站",
+      "def": "a train station where passengers can transfer between different rail lines",
+      "ex": "Jurong East is a major interchange station that connects two busy MRT lines.",
+      "emoji": "🚉"
+    },
+    {
+      "en": "reserved seat",
+      "cn": "关爱座 / 优先座位",
+      "def": "a seat designated for the elderly, pregnant women, or passengers with mobility needs",
+      "ex": "He immediately stood up to offer his reserved seat to an elderly woman.",
+      "emoji": "🪑"
+    },
+    {
+      "en": "first train",
+      "cn": "首班车",
+      "def": "the earliest scheduled train service departing from a terminal in the morning",
+      "ex": "If you want to reach the airport by dawn, you should catch the first train.",
+      "emoji": "🌅"
+    },
+    {
+      "en": "peak hour rush",
+      "cn": "高峰期人流",
+      "def": "the busiest period of the day when large numbers of commuters travel",
+      "ex": "Commuting during the peak hour rush requires extra patience on the platforms.",
+      "emoji": "👥"
+    },
+    {
+      "en": "platform screen doors",
+      "cn": "站台屏蔽门",
+      "def": "sliding glass doors on train platforms that open only when the train has parked",
+      "ex": "Stand clear of the platform screen doors when the chime sounds.",
+      "emoji": "🚪"
+    },
+    {
+      "en": "feeder bus",
+      "cn": "支线巴士",
+      "def": "a local bus route designed to bring passengers from housing estates to nearby train stations",
+      "ex": "Taking a feeder bus is the fastest way to get from our estate to the MRT station.",
+      "emoji": "🚌"
+    },
+    {
+      "en": "passenger service centre",
+      "cn": "乘客服务中心",
+      "def": "an office at a transit hub where commuters can ask for help or settle fare disputes",
+      "ex": "I misplaced my wallet on the train and reported it to the passenger service centre.",
+      "emoji": "ℹ️"
+    },
+    {
+      "en": "grab a ride",
+      "cn": "叫车 / 搭乘顺风车",
+      "def": "to hail or book a private-hire car or taxi quickly",
+      "ex": "It started pouring rain, so we decided to grab a ride home instead of walking.",
+      "emoji": "🚗"
+    }
+  ],
+  "levelVocab": [
+    {
+      "w": "contingency",
+      "ipa": "/kənˈtɪn.dʒən.si/",
+      "pos": "n.",
+      "cn": "应急预案 / 突发事件",
+      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
+      "ex": "The finance team developed a contingency plan to address potential exchange rate fluctuations."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsem.ɪ.neɪt/",
+      "pos": "v.",
+      "cn": "散播 / 分发（信息）",
+      "def": "to spread or disperse information, news, or knowledge widely",
+      "ex": "Human Resources will disseminate the updated remote-work policy via email tomorrow."
+    },
+    {
+      "w": "augment",
+      "ipa": "/ɔːɡˈment/",
+      "pos": "v.",
+      "cn": "增强 / 扩充",
+      "def": "to make something greater by adding to it; to increase or supplement",
+      "ex": "The company decided to augment its customer support team before the product launch."
+    },
+    {
+      "w": "preempt",
+      "ipa": "/priːˈempt/",
+      "pos": "v.",
+      "cn": "预先防范 / 先发制人",
+      "def": "to take action in order to prevent an anticipated event from happening",
+      "ex": "Management took decisive steps to preempt potential supply bottlenecks early in the quarter."
+    },
+    {
+      "w": "concur",
+      "ipa": "/kənˈkɜːr/",
+      "pos": "v.",
+      "cn": "同意 / 赞同",
+      "def": "to be of the same opinion; to agree with a decision or assessment",
+      "ex": "The board members concurred that expanding into Southeast Asia was the correct strategic move."
+    },
+    {
+      "w": "reconcile",
+      "ipa": "/ˈrek.ən.saɪl/",
+      "pos": "v.",
+      "cn": "调和 / 协调（账目或观点）",
+      "def": "to find a way in which two conflicting statements or situations can both be true or harmonised",
+      "ex": "The auditor spent hours trying to reconcile the internal figures with the bank statements."
+    },
+    {
+      "w": "deviate",
+      "ipa": "/ˈdiː.vi.eɪt/",
+      "pos": "v.",
+      "cn": "偏离 / 违背",
+      "def": "to depart from an established course, standard, or plan",
+      "ex": "Engineers were instructed not to deviate from the safety protocols under any circumstances."
+    },
+    {
+      "w": "stipulate",
+      "ipa": "/ˈstɪp.jə.leɪt/",
+      "pos": "v.",
+      "cn": "规定 / 约定",
+      "def": "to specify a requirement or condition as part of an official agreement",
+      "ex": "The contract explicitly stipulates that all deliverables must be submitted by Friday."
+    },
+    {
+      "w": "impediment",
+      "ipa": "/ɪmˈped.ɪ.mənt/",
+      "pos": "n.",
+      "cn": "阻碍 / 妨碍因素",
+      "def": "a hindrance or obstruction in doing something successfully",
+      "ex": "Bureaucratic delays remain a major impediment to regional infrastructure investment."
+    },
+    {
+      "w": "imperative",
+      "ipa": "/ɪmˈper.ə.tɪv/",
+      "pos": "adj.",
+      "cn": "紧迫的 / 至关重要的",
+      "def": "of vital importance; crucial or urgent",
+      "ex": "It is imperative that we resolve the client's system outage immediately."
+    }
+  ],
+  "listening": {
+    "source": "CNA style · Intermediate",
+    "title": "Singapore's Changi Airport Enhances Automated Immigration Clearance",
+    "transcript": "Changi Airport has officially expanded its passport-free clearance system across all four terminals. Travellers arriving in Singapore can now clear immigration <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈsiːm.ləs.li/ (adv.) smoothly and continuously, without any awkward transitions — 无缝地 / 顺畅地\">seamlessly</span> using <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˌbaɪ.oʊˈmet.rɪk/ (adj.) involving the measurement and analysis of unique physical characteristics — 生物识别的\">biometric</span> facial recognition instead of scanning physical passports. Officials state that this initiative will cut processing times significantly during peak holiday periods."
+  },
+  "economistArticle": {
+    "title": "Mapping the vulnerabilities in global commerce",
+    "paras": [
+      "For decades, global supply chains operated under the implicit assumption that geographical concentration was an acceptable <span class=\"voc\">trade-off</span> for cost efficiency. Factories clustered in East Asia, while consumer markets in the West absorbed the steady output of cheap finished goods. However, recent economic shocks and geopolitical rivalries have exposed the fragile <span class=\"voc\">underpinnings</span> of this global network. As policymakers in Washington and Beijing re-examine their supply chain reliance, a <span class=\"voc\">pertinent</span> debate has emerged regarding which superpower faces greater exposure to external disruptions.",
+      "American supply chains are often painted as <span class=\"voc\">inherently</span> fragile because of their heavy reliance on foreign manufacturing ecosystems. Critical inputs—ranging from active pharmaceutical ingredients to advanced electronics—flow into the United States through bottlenecked maritime passages and single-source foreign suppliers. Critics contend that Western corporations, driven by short-term financial returns, stripped domestic manufacturing capacity to its <span class=\"voc\">bare bones</span>. Consequently, when geopolitical friction or natural disasters sever these maritime <span class=\"voc\">arteries</span>, Western industries face immediate operational paralysis.",
+      "Conversely, China's industrial ecosystem appears far more resilient on the surface due to its comprehensive domestic supply networks. Yet, this internal integration conceals structural <span class=\"voc\">bottlenecks</span> of its own. China remains heavily dependent on foreign technology for advanced semiconductor equipment, high-end microprocessors, and key industrial software. Furthermore, its economic engine relies on imported raw materials, including iron ore, crude oil, and agricultural commodities. A naval blockade or targeted export restriction on critical components could bottleneck Chinese factories just as effectively as factory closures disrupt Western retail shelves.",
+      "<span class=\"gem\">Ultimately, vulnerability in global commerce is not a <span class=\"voc\">binary</span> metric where one power is wholly resilient and the other completely exposed.</span> America's vulnerabilities stem primarily from <span class=\"voc\">downstream</span> dependencies on imported end-products and mid-tier components, whereas China's vulnerabilities lie upstream in raw inputs and foundational technologies. Re-shoring or near-shoring production may buffer Western supply chains, but duplicating hyper-specialised global industrial nodes is <span class=\"voc\">prohibitively</span> expensive. In an era of escalating geopolitical tension, both nations are discovering that absolute economic self-sufficiency remains a costly illusion."
+    ],
+    "cn": "几十年来，全球供应链一直建立在一个默示假设之上：为了追求成本效率，地理上的高度集中是可以接受的权衡。工厂集中在东亚，而西方消费市场则持续消化所产出的廉价成品。然而，近期的经济冲击与地缘政治竞争暴露了这一全球网络脆弱的立足基础。随着华盛顿和北京的政策制定者重新审视对外部供应链的依赖，一场关于哪个超级大国在面对外部中断时面临更大风险的切题辩论随之浮现。\n\n美国的供应链常被描绘为本质上极为脆弱，原因在于其高度依赖外国的制造生态系统。从活性药物成分到先进电子元件，关键投入品皆需通过存在瓶颈的海上通道以及单一来源的外国供应商流入美国。批评人士主张，在短期财务回报驱动下，西方企业将本土制造能力剥离至只剩下最基本的框架。因此，一旦地缘政治摩擦或自然灾害切断这些海上要道，西方工业便面临即刻的瘫痪。\n\n相反，得益于其全面整合的国内供应网络，中国的工业生态系统表面上看要坚韧得多。然而，这种内部整合掩盖了其自身的结构性瓶颈。中国在先进半导体设备、高端微处理器和核心工业软件方面仍高度依赖外国技术。此外，其经济引擎依赖进口原材料，包括铁矿石、原油和农产品。针对关键零部件的海上封锁或定向出口限制，对中国工厂造成的瓶颈效应，绝不亚于工厂停产对西方零售货架造成的冲击。\n\n归根结底，全球商业中的脆弱性并非一种非黑即白的单维指标——既非一方绝对坚韧，另一方完全暴露。美国的脆弱性主要源于对进口终端产品和中端部件的下游依赖；而中国的脆弱性则位于原材料和基础技术等上游领域。将生产搬回国内或邻近国家或许能缓冲西方的供应链，但复制高度专业化的全球工业节点成本高得让人望而却步。在一个地缘政治紧张局势升级的时代，两国正逐渐发现，绝对的经济自给自足只是一种代价昂贵的幻觉。",
+    "vocab": [
+      {
+        "w": "trade-off",
+        "ipa": "/ˈtreɪd.ɒf/",
+        "pos": "n.",
+        "mean": "权衡 / 妥协",
+        "def": "a balance achieved between two desirable but incompatible features",
+        "ex": "Companies must manage the trade-off between speed of delivery and operational safety."
+      },
+      {
+        "w": "underpinnings",
+        "ipa": "/ˈʌn.dəˌpɪn.ɪŋz/",
+        "pos": "n.",
+        "mean": "基础 / 支柱",
+        "def": "a set of ideas, principles, or structures that support something",
+        "ex": "Geopolitical stability provides the necessary underpinnings for international trade agreements."
+      },
+      {
+        "w": "pertinent",
+        "ipa": "/ˈpɜː.tɪ.nənt/",
+        "pos": "adj.",
+        "mean": "切题的 / 相关的",
+        "def": "relevant or applicable to a particular matter under consideration",
+        "ex": "The analyst raised several pertinent questions regarding the firm's liquidity ratio."
+      },
+      {
+        "w": "inherently",
+        "ipa": "/ɪnˈhɪə.rənt.li/",
+        "pos": "adv.",
+        "mean": "固有地 / 本质上地",
+        "def": "in a permanent, essential, or characteristic way",
+        "ex": "Cross-border maritime investments are inherently subject to regulatory changes."
+      },
+      {
+        "w": "bare bones",
+        "ipa": "/ˌbeər ˈbəʊnz/",
+        "pos": "n.",
+        "mean": "最基本的框架 / 极度简化的状态",
+        "def": "the basic or essential elements of something, stripped of all extras",
+        "ex": "During the downturn, the firm reduced its staffing to bare bones."
+      },
+      {
+        "w": "arteries",
+        "ipa": "/ˈɑː.tə.riːz/",
+        "pos": "n.",
+        "mean": "干线 / 要道",
+        "def": "important transportation routes or channels within a complex system",
+        "ex": "Major shipping lanes act as the critical arteries of international commerce."
+      },
+      {
+        "w": "bottlenecks",
+        "ipa": "/ˈbɒt.əl.neks/",
+        "pos": "n.",
+        "mean": "瓶颈 / 拥堵点",
+        "def": "points of congestion or obstruction that slow down an entire process",
+        "ex": "Port congestion created severe supply bottlenecks throughout the region."
+      },
+      {
+        "w": "binary",
+        "ipa": "/ˈbaɪ.nər.i/",
+        "pos": "adj.",
+        "mean": "二元的 / 非黑即白的",
+        "def": "relating to, composed of, or involving two things or choices",
+        "ex": "Economic resilience cannot be evaluated through a simple binary perspective."
+      },
+      {
+        "w": "downstream",
+        "ipa": "/ˌdaʊnˈstriːm/",
+        "pos": "adj.",
+        "mean": "下游的",
+        "def": "relating to the later stages of a process, production, or supply chain",
+        "ex": "Downstream distributors experienced severe stock shortages following the factory shutdown."
+      },
+      {
+        "w": "prohibitively",
+        "ipa": "/prəˈhɪb.ɪ.tɪv.li/",
+        "pos": "adv.",
+        "mean": "过分地 / 令人望而却步地",
+        "def": "to a degree that prevents or discourages purchase or action due to extreme cost",
+        "ex": "Building duplicate semiconductor plants across multiple continents is prohibitively expensive."
+      }
+    ],
+    "gems": [
+      {
+        "s": "Ultimately, vulnerability in global commerce is not a binary metric where one power is wholly resilient and the other completely exposed.",
+        "why": "This sentence employs a balanced, analytical structure that refutes simplistic, black-and-white narratives using precise contrasting modifiers ('wholly resilient' vs 'completely exposed'). 本句通过平衡的分析语调和鲜明的修饰词对比（绝对坚韧对比完全暴露），有力破除了将复杂经济现象简单化、非黑即白化的片面思维。"
+      }
+    ]
   }
 }
