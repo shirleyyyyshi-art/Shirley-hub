@@ -1,344 +1,342 @@
 {
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T08:38:16.156092+00:00",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T08:49:25.649247+00:00",
   "economist": {
-    "headline": "Can America’s government afford “affordability”?",
-    "teaser": "Making things cheap is expensive",
-    "url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
+    "headline": "The fall of China’s most trusted wealth manager",
+    "teaser": "A hard landing for CreditEase",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
     "vocab": [
       {
-        "word": "affordability",
-        "phonetic": "",
-        "def": "The extent to which something is affordable, as measured by its cost relative to the amount that the purchaser is able to pay."
+        "word": "trusted",
+        "phonetic": "/ˈtɹʌstɪd/",
+        "def": "To place confidence in; to rely on, to confide, or have faith, in."
       },
       {
-        "word": "expensive",
-        "phonetic": "/ɛkˈspɛnsɪv/",
-        "def": "Given to expending a lot of money; profligate, lavish."
+        "word": "manager",
+        "phonetic": "/ˈmæn.ɪ.dʒə/",
+        "def": "A person whose job is to manage something, such as a business, a restaurant, or a sports team."
       }
     ]
   },
   "st": {
-    "headline": "Investment-linked insurance v participating plans: What drives demand and which suits you better",
-    "teaser": "Interest stems from rising costs, longer lives and a need for discipline.",
-    "url": "https://www.straitstimes.com/business/investment-linked-insurance-v-participating-plans-what-drives-demand-and-which-suits-you-better",
+    "headline": "‘Not about certification for certification’s sake’: What HR credentials can offer firms and workers",
+    "teaser": "Larger organisations in Singapore must have at least one IHRP-certified HR professional by July 1, 2028.",
+    "url": "https://www.straitstimes.com/business/not-about-certification-for-certifications-sake-what-hr-credentials-can-offer-firms-and-workers",
     "fullText": [
-      "SINGAPORE – After spending nearly a decade selling investment-linked insurance policies (ILPs) – hybrid products that combine investing with insurance coverage – former financial adviser Bobby Sim said the experience was “one of the reasons why I could not stay in the industry”.",
-      "Sim, who worked at Manulife and later advisory firm Finexis, shared that high commissions, particularly in the first two years, heavily incentivised insurance agents to push ILPs.",
-      "“Most of us sold what the company recommended, without fully understanding the returns behind the product,” he said.",
-      "“I am not saying every agent is bad. But if you look at net returns after fees, most of the ILPs I saw did worse than simply putting the money into the S&P 500.”",
-      "That experience shaped his personal financial planning – he now keeps his investments separate from his family’s insurance protection needs.",
-      "“When you mix the two in one product, you usually get a worse version of both,” he noted.",
-      "That said, Sim feels that ILPs may still suit three types of buyers: those who lack the discipline not to spend their money; those with an agent who consistently beats the market after fees; and those who lack the bandwidth to manage their own finances and prefer leaving both insurance and investments to a trusted adviser.",
-      "Latest figures from the Life Insurance Association Singapore (LIA) show that new life insurance sales from ILPs – measured by weighted new business premiums – rose 22.6% year on year to $2.51 billion in the first nine months of 2026.",
-      "These plans made up 46% of all new sales, up from 43% over the same period in 2025 and 37% in 2024.",
-      "P articipating (par) life insurance policies also recorded growth, with weighted new sales rising 5.7% to $1.24 billion over the same nine-month period.",
-      "Par plans accounted for 23% of all new sales in the first nine months of 2026, down slightly from 25% in 2024 and 2025.",
-      "These plans fall into three categories: whole life insurance, endowment savings plans and retirement income plans.",
-      "Rachel Luo, senior director of sales at Manulife Advisory Group, said interest in ILPs and par plans is driven by greater awareness of long-term financial planning, concerns about rising costs and longevity, and a desire for structure and discipline.",
-      "She added that many consumers lack the time, knowledge and confidence to manage a portfolio actively.",
-      "While both types of policies have investment components, they work differently, and the choice between an ILP and a par plan ultimately comes down to how much risk a consumer can bear.",
-      "Helen Shen, group head of products at Singlife, said ILPs bundle insurance protection with market exposure through investment sub-funds.",
-      "A policy’s value depends on the performance of the funds, minus insurance coverage and other fees.",
-      "Returns fluctuate with the market, and policyholders bear all the investment risk.",
-      "These products therefore suit customers who are comfortable riding out market cycles for potentially higher returns and want more flexibility to choose their own funds, Shen noted.",
-      "Manulife’s Luo sees interest in ILPs among younger and mid-career working adults, noting that these clients have longer investment horizons and are just starting to build their wealth and protection portfolios.",
-      "Unlike ILPs, which have no guaranteed cash value, par plans have a portion that is guaranteed.",
-      "Policyholders pay premiums that go into the insurer’s participating fund.",
-      "They share in the fund’s profits and receive a combination of guaranteed benefits and non-guaranteed bonuses.",
-      "The guaranteed portion – known as the guaranteed surrender value – is smaller if they cash out early, while the full guaranteed benefit is paid if they hold to maturity.",
-      "In exchange for that stability, policyholders have no say in asset selection – the insurer decides how the money is invested across a portfolio of assets.",
-      "Shen noted that the “sweet spot” for par plans lies in balancing guaranteed benefits with non-guaranteed bonuses to boost total returns.",
-      "She added that this balance suits customers who are cautious about market volatility and want stability without giving up growth potential.",
-      "These customers are typically more focused on protecting and managing their wealth over the longer term, Shen said.",
-      "Luo pointed out that young families may buy whole life par plans to safeguard against the loss of a breadwinner’s income due to death, total and permanent disability or critical illness.",
-      "Separately, endowment par policies are commonly used to fund children’s future education."
+      "SINGAPORE – After spending more than 20 years in operations and industry development, Wilson Tan moved into a regional human resource role at his company, Stolz Engineering, in 2024.",
+      "The senior manager of people, culture and organisational capability described the transition as one that left him with “a quiet dose of impostor syndrome”.",
+      "He said ga ining certificat ion from the Institute for Human Resource Professionals (IHRP) helped him bring more structure to work he had previously approached through operational instinct.",
+      "He said his employer gave him the flexibility to study alongside carrying out his regional responsibilities and apply what he learnt at work.",
+      "When handling workplace changes, Tan now uses IHRP’s Body of Competencies as a guide. This national competency framework defines the skills, knowledge, and mindsets HR professionals need to deliver strong employee experiences and sustainable business value.",
+      "During the roll-out of a company-wide enterprise resources planning system and career conversion programmes, he said he listened to employees’ concerns and explained how the changes could reduce repetitive work and support their growth.",
+      "“I learnt to step back, see challenges through an objective lens and ‘think like a marketer’ by actively selling the ‘why’ to secure genuine buy-in rather than forcing compliance.”",
+      "By July 1, 2028, organisations with more than 200 employees prepare must have at least one suitable HR professional certified at IHRP Certified Professional level or higher.",
+      "An equivalent qualification may also be accepted, subject to IHRP’s bridging requirements.",
+      "The requirement covers about 2,000 organisations, including 300 with at least 1,000 employees and 40 with at least 5,000, according to an earlier parliamentary reply by Acting Manpower Minister Jasmin Lau.",
+      "Together, the organisations employ more than 45% of Singapore’s total workforce. About 45% already have at least one IHRP-certified HR professional.",
+      "Lau also said the 200-employee threshold was chosen as a practical starting point, focusing on companies with the scale and means to take the lead on certification.",
+      "IHRP has seen more e-mail enquiries and participation in certification application clinics since the requirements was announced in September, its chief executive Aslam Sardar said.",
+      "He added that the certification requirement is a minimum baseline and encouraged employers to develop capabilities across their HR teams. The number of professionals a company should certify would depend on its size, business needs and workforce complexity, he said.",
+      "IHRP encourages employers to identify candidates early and offers preparation materials and assessment tutorials. Training partners, including the Singapore National Employers Federation (SNEF) also run preparatory programmes.",
+      "SNEF chief executive Hao Shuo said employers should set aside time for candidates to prepare, particularly to refresh their knowledge of Singapore’s labour laws. Some companies may need to balance preparation with manpower constraints and operational demands, he said.",
+      "Eligible Singapore citizens and permanent residents can receive a one-time $100 subsidy between Oct 1 and June 30, 2028, bringing the IHRP-CP certification fee to $163.50, inclusive of GST.",
+      "Eligible candidates can also use SkillsFuture Credit, while employers will be able to tap a redesigned SkillsFuture Enterprise Credit, with further details to be announced.",
+      "The certification is valid for three years.",
+      "The July 2028 deadline gives employers time to prepare, said a Ministry of Manpower spokesperson, who encouraged them to start early and make use of available support.",
+      "Carol Yap, director of HR and administration at Safran Aerosystems Services Asia, believes certification gives her company assurance that its HR professionals have the knowledge and competencies to fulfil roles effectively.",
+      "Certified as an IHRP senior professional, she said her biggest hurdle was taking the first step to register for certification. “Having spent more than 20 years in the HR profession, I found myself questioning whether I really needed another certification.”",
+      "She added: “I don’t think obtaining the certification necessarily changes the way I practise HR. After all, the experience and knowledge gained over more than 20 years in the profession have shaped the way I approach HR matters today.”",
+      "Nonetheless, revisiting HR case studies allowed her to refresh and reinforce her understanding of HR practices and employment legislation, she said, adding that the preparation journey was “a valuable learning experience”.",
+      "NTUC assistant secretary-general Patrick Tay stressed that the 2028 requirement does not require every HR professional to be certified, “so individuals should not feel pressured to pursue certification regardless of their circumstances”.",
+      "“Ultimately, this is not about certification for certification’s sake,” Tay said.",
+      "“It is about strengthening HR capabilities so that companies are better equipped to make fair and responsible workforce decisions, and workers can have greater confidence in how these decisions are made”."
     ]
   },
   "cna": {
-    "headline": "China says reserves right to take 'measures' after new US tariffs",
-    "teaser": "China says reserves right to take 'measures' after new US tariffs",
-    "url": "https://www.channelnewsasia.com/east-asia/china-threaten-measures-after-new-us-tariffs-6584526",
+    "headline": "China stocks surge most in two years as Beijing vows stronger market support",
+    "teaser": "China’s benchmark stock indexes jumped about 4 per cent, posting their biggest daily gains in more than two years after Beijing signalled stronger support for the market.",
+    "url": "https://www.channelnewsasia.com/business/china-stocks-rally-beijing-stronger-market-support-6586971",
     "fullText": [
-      "BEIJING: China said on Thursday (Nov 26) it reserves the right to take \"necessary measures\" after Washington unveiled new tariffs that could shake the uneasy truce in the two economic giants' trade war.",
-      "Chinese commerce ministry spokesman He Yadong told a regular briefing that citing \"overcapacity\" as a reason to impose tariffs was a \"pretext for protectionism\".",
-      "\"Such actions not only fail to address their own structural imbalances but also disrupt the security and stability of global industrial and supply chains, hinder industrial cooperation, drive up global inflation, harm the direct interests of businesses and consumers and pose long-term, systemic risks to global economic growth,\" He said.",
-      "\"China urges the United States to correct its erroneous practices and return to the right track of resolving issues through dialogue and consultation,\" He added.",
-      "US President Donald Trump has long criticised China's yawning trade surplus with the United States, which he has blamed for a decline in local manufacturing prowess and jobs.",
-      "After starting a second term in office last year, Trump imposed new tariffs on Chinese goods, kicking off a tit-for-tat escalation that at one point saw duties touch 145 per cent.",
-      "The trade ceasefire struck by Trump and Chinese President Xi Jinping in October 2025 is due to expire in January, after a two-month extension was agreed in September.",
-      "Th two men met last week at an APEC summit in Shenzhen in southern China and are due to see each other for the fourth time this year in December at a G20 summit in the United States.",
-      "The proposed new US levies target a range of trading partners including China, the European Union and Japan and range up to 20 per cent.",
-      "China is among those facing the highest 20-per cent rate, but US Trade Representative Jamieson Greer said the new levies were within the bounds of existing trade negotiations with Beijing.",
-      "\"China understands that we're going to have some level of tariffs. This falls within that understanding,\" he told US broadcaster CNBC, adding that the US was offering China exemptions on around US$30 billion of goods.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday.",
-      "Our chief editor shares analysis and picks of the week's biggest news every Saturday."
+      "SHANGHAI: China's share benchmarks jumped 4 per cent and the yuan rose on Friday (Nov 27), after Premier Li Qiang chaired a State Council meeting that called for a bigger role by \"national team\" investors to stabilise a falling stock market .",
+      "Chinese stocks have struggled this year despite policy easing, reflecting investor concerns over weak domestic demand, a prolonged property downturn and uncertainty over the economic outlook hurt by trade wars and geopolitics.",
+      "The benchmark Shanghai Composite Index ended 4.2 per cent up and the blue-chip CSI300 index was 3.7 per cent higher at the close, both notching their biggest daily gains since October 2024 when China rolled out massive stimulus measures to revive the market.",
+      "China's tech-focused STAR 50 Index surged 15 per cent, the biggest one-day jump in two years.",
+      "In Beijing's strongest gesture yet to support a stock market that had fallen to 16-month lows, the Cabinet said \"capital markets were crucial to the broader economy\", state media Xinhua reported. The Cabinet added that Central Huijin - the domestic unit of sovereign wealth fund China Investment Corp - would enhance its role as a quasi-stabilisation fund to ensure ample liquidity.",
+      "The meeting also called for better policies to encourage long-term funds to invest in the stock market, and for measures to strengthen defences against risks spilling over from overseas markets.",
+      "\"It's a shot in the arm for markets,\" said Kenny Ng, a strategist at Everbright Securities International in Hong Kong.",
+      "\"Sentiment has been downbeat for so long. There hasn't been much good news to trade on. At least now there's something to count on: the national team will come to the rescue if things really turn south.\"",
+      "The Chinese yuan gained 0.1 per cent against the dollar in offshore trading, reversing earlier weakness to hit its strongest in three weeks. The currency is nearing its firmest level in four years.",
+      "\"It's very rare that Executive meeting of the State Council would make such direct comments. Last time it happened was 2024 when they rolled out a liquidity support package,\" said Jason Chan, a Hong Kong-based strategest at Bank of East Asia.",
+      "Given the current low investor expectations, any incremental supportive policies would help boost confidence, said Meng Lei, China equity strategist at UBS Securities.",
+      "The latest statement follows the margin lending relaxation and trading fee reductions announced over the weekend, underscoring the government's growing determination to stabilise markets.",
+      "LSEG data showed trading volume surged across broad-based benchmarks and sub-indices after the midday break, pointing to a sharp improvement in investor sentiment.",
+      "The CSI Semiconductor Industry Index and the STAR Chip Index both shot up more than 17 per cent.",
+      "Indices tracking China's AI, cloud computing and consumer electronics stocks jumped more than 10 per cent.",
+      "But some analysts said it was too early to suggest the market was near a bottom as support from the national team alone was unlikely to lead to a sustained rally.",
+      "\"There is an increasingly clear signal that Chinese authorities are uncomfortable with the extent of the equity market selloff,\" said Charu Chanana, chief investment strategist at Saxo Bank.",
+      "\"I would distinguish between a turning point in policy resolve and a turning point in market fundamentals... A policy-induced bounce needs to evolve into a fundamentally driven recovery before we can confidently call it a durable bottom.\"",
+      "Also on Friday, Xinhua Finance reported that regulators will launch a campaign to further tighten rules on share sales by controlling shareholders of listed companies. Regulators will also guard against listings by \"pseudo-tech\" companies, or firms that inflate earnings, the state media said."
     ]
   },
   "mom": {
-    "headline": "Five Individuals Charged For Allegedly Working Illegally as Food Delivery Drivers or Abetting Such Work",
-    "teaser": "On 24 November 2026, five individuals were charged in Court for allegedly performing or abetting illegal employment offences under the Employment of Foreign Manpower Act 1990 ( \"EFMA\" ). Two foreigners were charged for allegedly performing food delivery work illegally, while three Singaporeans were charged with alleged",
-    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1124-ie-of-food-delivery-work"
+    "headline": "Labour Force in Singapore Advance Release 2026",
+    "teaser": "Labour Force in Singapore Advance Release 2026",
+    "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1127-labour-force-in-singapore-advance-release-2026"
   },
   "lifeVocab": [
     {
-      "en": "registration counter",
-      "cn": "挂号/登记柜台",
-      "def": "the place in a clinic where patients check in and present their IDs",
-      "ex": "Please hand your NRIC to the staff at the registration counter.",
-      "emoji": "🏥"
-    },
-    {
-      "en": "prescription",
-      "cn": "处方药/药方",
-      "def": "an official note from a doctor giving permission for a medicine to be prepared and used",
-      "ex": "You can collect your prescription at the pharmacy down the hall.",
-      "emoji": "💊"
-    },
-    {
-      "en": "symptom",
-      "cn": "症状",
-      "def": "a physical or mental feature indicating a condition of disease",
-      "ex": "The doctor asked if I had experienced any flu-like symptoms.",
-      "emoji": "🤒"
+      "en": "consultation fee",
+      "cn": "诊费",
+      "def": "The amount charged by a doctor for examining a patient",
+      "ex": "You need to pay the consultation fee before claiming reimbursement from your corporate insurance.",
+      "emoji": "🩺"
     },
     {
       "en": "referral letter",
-      "cn": "转诊信",
-      "def": "a letter from a general practitioner directing a patient to a specialist",
-      "ex": "He received a referral letter to see an orthopedic specialist at the hospital.",
+      "cn": "转诊信 / 推荐信",
+      "def": "An official document from a GP directing a patient to a specialist",
+      "ex": "The clinic doctor gave me a referral letter to see a cardiologist at Singapore General Hospital.",
       "emoji": "📄"
+    },
+    {
+      "en": "medical certificate",
+      "cn": "病假条 (MC)",
+      "def": "An official note issued by a doctor excusing an employee or student from duty due to illness",
+      "ex": "Please submit your medical certificate to the HR portal by tomorrow morning.",
+      "emoji": "📝"
+    },
+    {
+      "en": "over-the-counter",
+      "cn": "非处方药物",
+      "def": "Medicines sold directly to a consumer without requiring a doctor's prescription",
+      "ex": "Cough syrup and pain relievers are available over-the-counter at most local pharmacies.",
+      "emoji": "💊"
     },
     {
       "en": "dosage",
       "cn": "剂量",
-      "def": "the specified amount of medicine to be taken at one time",
-      "ex": "Make sure to follow the recommended dosage on the medicine label.",
-      "emoji": "🥄"
+      "def": "The prescribed amount of medicine to be taken at one time or over a specific period",
+      "ex": "Read the label carefully so you do not exceed the recommended daily dosage.",
+      "emoji": "⚖️"
     },
     {
       "en": "chronic condition",
       "cn": "慢性病",
-      "def": "a human health condition or disease that is persistent or otherwise long-lasting",
-      "ex": "Polyclinics help residents manage chronic conditions like high blood pressure.",
-      "emoji": "🩺"
-    },
-    {
-      "en": "consultation fee",
-      "cn": "问诊费/诊察费",
-      "def": "the money charged by a doctor for examining a patient",
-      "ex": "The consultation fee is partially covered by medical insurance.",
-      "emoji": "💳"
+      "def": "A long-term health condition that requires ongoing medical attention and management",
+      "ex": "Hypertension is a common chronic condition managed systematically at neighborhood polyclinics.",
+      "emoji": "🫀"
     },
     {
       "en": "subsidised rate",
-      "cn": "补贴后的价格",
-      "def": "a reduced price because part of the cost is paid by government support",
-      "ex": "Singapore citizens enjoy a subsidised rate at government polyclinics.",
-      "emoji": "🇸🇬"
+      "cn": "补贴价格",
+      "def": "A reduced price supported by government funds to make services affordable",
+      "ex": "Singapore citizens enjoy subsidised rates for healthcare services at public polyclinics.",
+      "emoji": "🏷️"
     },
     {
-      "en": "ointment",
-      "cn": "软膏/药膏",
-      "def": "a smooth oily substance rubbed on the skin for medicinal purposes",
-      "ex": "Apply this soothing ointment to the rash twice a day.",
-      "emoji": "🧴"
+      "en": "symptom",
+      "cn": "症状",
+      "def": "A physical or mental feature indicating a condition of disease or illness",
+      "ex": "High fever and joint pain are common symptoms of dengue fever in tropical regions.",
+      "emoji": "🌡️"
     },
     {
-      "en": "follow-up appointment",
-      "cn": "复诊预约",
-      "def": "a scheduled doctor's visit to check the progress of a patient's recovery",
-      "ex": "The clinic booked a follow-up appointment for next Thursday morning.",
-      "emoji": "📅"
+      "en": "polyclinic",
+      "cn": "综合诊所",
+      "def": "A government-subsidized primary care facility offering primary medical treatment in Singapore",
+      "ex": "I booked an online appointment at the nearest polyclinic for my routine health screening.",
+      "emoji": "🏥"
+    },
+    {
+      "en": "prescription",
+      "cn": "处方",
+      "def": "An official instruction written by a doctor authorizing a pharmacist to dispense medicine",
+      "ex": "The pharmacist prepared the medication right after reviewing the doctor's prescription.",
+      "emoji": "📑"
     }
   ],
   "levelVocab": [
     {
-      "w": "preempt",
-      "ipa": "/priːˈempt/",
-      "pos": "v.",
-      "cn": "预先采取行动以阻止/抢先",
-      "def": "to take action in order to prevent an anticipated event from happening",
-      "ex": "The company decided to lower prices to preempt a market push by competitors."
-    },
-    {
-      "w": "curtail",
-      "ipa": "/kɜːˈteɪl/",
-      "pos": "v.",
-      "cn": "缩减/限制",
-      "def": "to reduce in extent or quantity; impose a restriction on",
-      "ex": "Management was forced to curtail discretionary spending during the downturn."
-    },
-    {
-      "w": "delineate",
-      "ipa": "/dɪˈlɪn.i.eɪt/",
-      "pos": "v.",
-      "cn": "详细划定/勾勒",
-      "def": "to describe or portray something precisely",
-      "ex": "The project brief clearly delineates the roles and responsibilities of each team member."
-    },
-    {
-      "w": "disseminate",
-      "ipa": "/dɪˈsem.ɪ.neɪt/",
-      "pos": "v.",
-      "cn": "传播/散播",
-      "def": "to spread info or knowledge widely",
-      "ex": "The HR department will disseminate the updated safety policy tomorrow."
-    },
-    {
-      "w": "benchmark",
-      "ipa": "/ˈbentʃ.mɑːk/",
-      "pos": "n.",
-      "cn": "基准/标杆",
-      "def": "a standard or point of reference against which things may be compared",
-      "ex": "The firm set a new industry benchmark for client response time."
-    },
-    {
       "w": "concur",
       "ipa": "/kənˈkɜːr/",
       "pos": "v.",
-      "cn": "赞同/意见一致",
-      "def": "to agree or be of the same opinion",
-      "ex": "All members of the board concurred with the chief executive's assessment."
+      "cn": "同意；意见一致",
+      "def": "To agree or be of the same opinion.",
+      "ex": "The board members concur with the proposed commercial expansion strategy."
     },
     {
       "w": "alleviate",
-      "ipa": "/əˈliː.vi.eɪt/",
+      "ipa": "/əˈliːvieɪt/",
       "pos": "v.",
-      "cn": "缓解/减轻",
-      "def": "to make suffering, deficiency, or a problem less severe",
-      "ex": "New traffic management strategies helped alleviate congestion near the business district."
+      "cn": "减轻；缓和",
+      "def": "To make suffering, deficiency, or a problem less severe.",
+      "ex": "The strategic policy aims to alleviate regional supply chain bottlenecks."
     },
     {
-      "w": "promulgate",
-      "ipa": "/ˈprɒm.əl.ɡeɪt/",
+      "w": "surmise",
+      "ipa": "/səˈmaɪz/",
       "pos": "v.",
-      "cn": "颁布/公布",
-      "def": "to promote or make widely known an official idea or law",
-      "ex": "The regulator is expected to promulgate new compliance directives next quarter."
+      "cn": "推测；猜测",
+      "def": "To suppose that something is true without having firm evidence.",
+      "ex": "Market analysts surmise that consumer expenditure will rebound next quarter."
     },
     {
-      "w": "contingency",
-      "ipa": "/kənˈtɪn.dʒən.si/",
+      "w": "imperative",
+      "ipa": "/ɪmˈperətɪv/",
+      "pos": "adj.",
+      "cn": "至关重要的；迫切的",
+      "def": "Of vital importance; crucial or mandatory.",
+      "ex": "It is imperative that the engineering team resolves the network security flaw immediately."
+    },
+    {
+      "w": "corroborate",
+      "ipa": "/kəˈrɒbəreɪt/",
+      "pos": "v.",
+      "cn": "证实；支持（某种说法）",
+      "def": "To confirm or give support to a statement, theory, or finding.",
+      "ex": "Independent audit reports corroborate the revenue metrics presented by executive management."
+    },
+    {
+      "w": "consequence",
+      "ipa": "/ˈkɒnsɪkwəns/",
       "pos": "n.",
-      "cn": "应急预案/突发事件",
-      "def": "a future event or circumstance which is possible but cannot be predicted with certainty",
-      "ex": "We have allocated ten percent of the project budget for unexpected contingencies."
+      "cn": "后果；影响",
+      "def": "A result or effect of an action or condition.",
+      "ex": "Failure to comply with regulatory standards may produce severe financial consequences."
     },
     {
-      "w": "reconcile",
-      "ipa": "/ˈrek.ən.saɪl/",
+      "w": "prevalent",
+      "ipa": "/ˈprevələnt/",
+      "pos": "adj.",
+      "cn": "普遍的；盛行的",
+      "def": "Widespread in a particular area or at a particular time.",
+      "ex": "Flexible work arrangements remain prevalent among multinational enterprises."
+    },
+    {
+      "w": "impediment",
+      "ipa": "/ɪmˈpedɪmənt/",
+      "pos": "n.",
+      "cn": "阻碍；障碍",
+      "def": "A hindrance or obstruction in doing something.",
+      "ex": "Protracted administrative delays proved to be a major impediment to project execution."
+    },
+    {
+      "w": "salient",
+      "ipa": "/ˈseɪliənt/",
+      "pos": "adj.",
+      "cn": "显著的；最突出的",
+      "def": "Most noticeable or important.",
+      "ex": "The legal counsel carefully explained the salient terms of the joint venture contract."
+    },
+    {
+      "w": "disseminate",
+      "ipa": "/dɪˈsemɪneɪt/",
       "pos": "v.",
-      "cn": "调和/使一致",
-      "def": "to make two coexisting concepts or figures consistent with one another",
-      "ex": "The accountants worked overnight to reconcile the budget variance."
+      "cn": "传播；散播",
+      "def": "To spread or disperse information widely.",
+      "ex": "Corporate communications utilized internal portals to disseminate updated compliance policies."
     }
   ],
   "listening": {
     "source": "CNA style · Intermediate",
-    "title": "Singapore Expands Active Ageing Network Across Heartlands",
-    "transcript": "Singapore is rapidly <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ræmpɪŋ ʌp/ (phrasal v.) rapidly increasing or expanding — 加快/扩大\">ramping up</span> its network of active ageing centres to keep senior citizens engaged and healthy. These facilities offer a wide range of social activities, health screenings, and exercise sessions right at the <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈdɔː.step/ (n.) very close to where someone lives — 门前/近在咫尺\">doorstep</span> of heartland residents. Officials hope that promoting active ageing will reduce long-term healthcare costs while <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈfɒs.tər.ɪŋ/ (v.) encouraging the development of a feeling or idea — 促进/培养\">fostering</span> stronger community bonds among elderly residents."
+    "title": "Singapore Expands Green Transport Infrastructure",
+    "transcript": "Singapore has announced a fresh round of incentives to <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/əkˈseləreɪt/ (v.) to increase the speed or rate of something — 加速\">accelerate</span> the adoption of electric vehicles across the island. Transport authorities emphasize that building robust charging infrastructure is <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ˈpɪvətl/ (adj.) of crucial importance in relation to the development or success of something else — 关键的\">pivotal</span> to convincing private owners to make the switch. Public bus fleets will also undergo gradual <span class=\"dict-word\" data-action=\"lookup-word\" data-def=\"/ɪˌlektrɪfɪˈkeɪʃn/ (n.) the process of converting a system to operate using electric power — 电气化\">electrification</span> over the next decade to reduce overall urban emissions."
   },
   "economistArticle": {
-    "title": "The Hidden Costs of Mandated Affordability",
+    "title": "The fall of China’s most trusted wealth manager",
     "paras": [
-      "Political leaders worldwide are increasingly obsessed with a single word: affordability. Facing voter fury over rising living costs, governments from Washington to European capitals are rushing to promise subsidised housing, capped utility prices, and discounted childcare. Yet beneath these populist promises lies a sobering economic <span class=\"voc\">paradox</span>—attempting to make life artificially cheap often ends up costing the public purse far more than expected.",
-      "When fiscal policy attempts to suppress market prices without addressing supply constraints, the results are predictably <span class=\"voc\">counterproductive</span>. <span class=\"gem\">Subsidies inevitably <span class=\"voc\">stimulate</span> demand while failing to incentivize producers to expand output.</span> In the housing sector, for example, mortgage assistance programs meant to help first-time buyers frequently drive up home prices even further, <span class=\"voc\">neutralizing</span> the initial policy objective and expanding public debt.",
-      "Furthermore, <span class=\"voc\">interventionist</span> price controls distort price signals that are vital for efficient capital <span class=\"voc\">allocation</span>. When energy tariffs are capped below market clearing levels, energy companies curtail capital expenditure on next-generation <span class=\"voc\">infrastructure</span>. The resulting underinvestment compromises long-term energy security, creating a fiscal burden that future taxpayers must eventually shoulder.",
-      "The fiscal math is growing <span class=\"voc\">precarious</span>. As <span class=\"voc\">sovereign</span> debt burdens soar in major advanced economies, continuous interventions to subsidise consumption strain already overstretched state budgets. Sovereign bond yields rise when financial markets begin to doubt a government's long-term spending discipline, driving up borrowing costs across the entire real economy.",
-      "True affordability cannot be engineered through decree or continuous subsidies. Policymakers must focus on productivity growth, <span class=\"voc\">deregulation</span>, and structural reforms that lower the actual cost of production. <span class=\"gem\">Until governments accept that genuine affordability requires expanding supply rather than masking costs, their economic relief measures will remain an expensive illusion.</span>"
+      "For over a decade, CreditEase stood as a glittering symbol of China’s private wealth boom, connecting affluent entrepreneurs with high-yielding shadow-banking products. Established during an era of double-digit economic expansion, the firm successfully positioned itself as a dependable intermediary for individuals seeking alternatives to low-yielding bank deposits.",
+      "However, the <span class=\"voc\">unraveling</span> of China's property sector gradually eroded the foundation of this financial <span class=\"voc\">juggernaut</span>. As real estate developers defaulted on their debt obligations, the underlying assets backing many of CreditEase’s flagship wealth management products rapidly <span class=\"voc\">deteriorated</span>. Investors who had grown accustomed to reliable double-digit returns were suddenly confronted with delayed payments and restructuring notices.",
+      "Regulatory scrutiny further <span class=\"voc\">exacerbated</span> the firm's <span class=\"voc\">predicament</span>. Beijing's decisive campaign to <span class=\"voc\">dismantle</span> toxic shadow-banking channels forced wealth managers to bring off-balance-sheet items back into full public view. <span class=\"gem\">Under strict new regulatory standards, <span class=\"voc\">opaque</span> financial structures could no longer mask non-performing assets, revealing systemic vulnerabilities that had long lingered beneath the surface.</span>",
+      "The sharp downfall of CreditEase underscores a broader paradigm shift across China's wealth management industry. Individual investors are now <span class=\"voc\">recalibrating</span> their expectations, shifting away from <span class=\"voc\">implicit</span> government guarantees toward risk-conscious asset allocation. The era of easy returns derived from real estate speculation has <span class=\"voc\">unequivocally</span> drawn to a close."
     ],
-    "cn": "世界各地的政治领导人越来越执着于一个词：住房与生活成本的“可负担性”。面对选民对生活成本上涨的愤怒，从华盛顿到欧洲各国的政府都在争先恐后地承诺住房补贴、限制公用事业价格以及打折托儿服务。然而，在这些民粹主义承诺的背后，隐藏着一个令人深思的经济悖论——试图人为地让生活变得便宜，最终往往会让公共财政付出一比预期大得多的代价。\n当财政政策试图在不解决供给约束的情况下压制市场价格时，其结果必然适得其反。补贴不可避免地刺激了需求，却无法激励生产商扩大产出。例如，在住房领域，旨在帮助首次购房者的房贷补贴计划往往会进一步推高房价，从而抵消了最初的政策目标，并扩大了公共债务。\n此外，干预性的价格管制扭曲了对高效资本配置至关重要的价格信号。当能源资费被限制在市场结清水平以下时，能源公司就会削减对下一代基础设施的资本支出。由此导致的投资不足损害了长期能源安全，创造了未来纳税人最终必须承担的财政负担。\n财政账本正变得日益危险。随着主要发达经济体的主权债务负担飙升，补贴消费的持续干预使本已过度紧张的国家预算雪上加霜。当金融市场开始怀疑政府的长期支出纪律时，主权债券收益率就会上升，从而推高整个实体经济的借贷成本。\n真正的“可负担性”无法通过法令或持续补贴来工程化地制造出来。政策制定者必须专注于生产力增长、去监管化以及降低实际生产成本的结构性改革。在政府承认真正的可负担性需要扩大供给而非掩盖成本之前，其经济缓解措施将始终是一种昂贵的幻觉。",
+    "cn": "十多年来，宜信（CreditEase）一直是中国私人财富繁荣的耀眼象征，将富裕的企业家与高收益的影子银行产品联系在一起。该公司建立于两位数经济增长的时代，成功将自己定位为一个值得信赖的中介机构，服务于寻找替代低收益银行存款的个人人群。\n然而，中国房地产业的崩溃逐步侵蚀了这一金融巨头的基础。随着房地产开发商违约债务，支撑宜信许多旗舰理财产品的底层资产迅速恶化。那些习惯了稳定两位数回报的投资者，突然面临延期兑付和重组通知。\n监管审查进一步加剧了该公司的困境。北京方面拆除有毒影子银行渠道的决断行动，迫表外项目重新回到公众视野中。在严格的新监管标准下，不透明的金融结构再也无法掩盖不良资产，揭示了长期潜伏在表面之下的系统性脆弱性。\n宜信的猝然倒下凸显了中国财富管理行业更广泛的范式转变。散户投资者如今正在重新调整预期，从依赖隐性政府担保转向具备风险意识的资产配置。源于房地产投机的轻松获利时代已明确宣告结束。",
     "vocab": [
       {
-        "w": "paradox",
-        "ipa": "/ˈpær.ə.dɒks/",
+        "w": "juggernaut",
+        "ipa": "/ˈdʒʌɡənɔːt/",
         "pos": "n.",
-        "mean": "悖论/矛盾现象",
-        "def": "a situation or statement that seems contradictory or against common sense",
-        "ex": "It is a paradox that offering free subsidies can sometimes drive prices higher."
+        "mean": "巨头；不可阻挡的庞然大物",
+        "def": "A huge, powerful, and overwhelming force or institution.",
+        "ex": "The financial juggernaut collapsed under the pressure of non-performing loans."
       },
       {
-        "w": "counterproductive",
-        "ipa": "/ˌkaʊn.tə.prəˈdʌk.tɪv/",
-        "pos": "adj.",
-        "mean": "适得其反的",
-        "def": "having the opposite of the desired effect",
-        "ex": "Imposing strict price caps proved counterproductive by creating market shortages."
+        "w": "unraveling",
+        "ipa": "/ʌnˈrævəlɪŋ/",
+        "pos": "n.",
+        "mean": "崩溃；瓦解",
+        "def": "The process of a system or arrangement coming apart.",
+        "ex": "The rapid unraveling of the bond market caught many institutional investors off guard."
       },
       {
-        "w": "stimulate",
-        "ipa": "/ˈstɪm.jə.leɪt/",
+        "w": "deteriorated",
+        "ipa": "/dɪˈtɪəriəreɪtɪd/",
         "pos": "v.",
-        "mean": "刺激/激发",
-        "def": "encourage interest or activity in a system or economy",
-        "ex": "Lowering interest rates was intended to stimulate business investment."
+        "mean": "恶化；变坏",
+        "def": "Became progressively worse.",
+        "ex": "The quality of credit assets deteriorated after housing demand weakened."
       },
       {
-        "w": "neutralizing",
-        "ipa": "/ˈnjuː.trə.laɪz.ɪŋ/",
+        "w": "predicament",
+        "ipa": "/prɪˈdɪkəmənt/",
+        "pos": "n.",
+        "mean": "困境；窘境",
+        "def": "A difficult, unpleasant, or embarrassing situation.",
+        "ex": "The company faced a severe financial predicament when short-term funding dried up."
+      },
+      {
+        "w": "exacerbated",
+        "ipa": "/ɪɡˈzæsəbeɪtɪd/",
         "pos": "v.",
-        "mean": "抵消/使无效",
-        "def": "rendering something ineffective by applying an opposite force",
-        "ex": "High inflation is neutralizing the growth in nominal wages."
+        "mean": "加剧；使恶化",
+        "def": "Made a problem or negative situation worse.",
+        "ex": "Tightening liquidity conditions exacerbated the firm's operational challenges."
       },
       {
-        "w": "interventionist",
-        "ipa": "/ˌɪn.təˈven.ʃən.ɪst/",
+        "w": "dismantle",
+        "ipa": "/dɪsˈmæntl/",
+        "pos": "v.",
+        "mean": "拆除；废除",
+        "def": "To take apart or gradually cause a system to stop functioning.",
+        "ex": "Regulators worked steadily to dismantle high-risk wealth management operations."
+      },
+      {
+        "w": "opaque",
+        "ipa": "/oʊˈpeɪk/",
         "pos": "adj.",
-        "mean": "干预主义的",
-        "def": "favoring government intervention in economic affairs",
-        "ex": "The ministry took an interventionist stance during the currency crisis."
+        "mean": "不透明的；难懂的",
+        "def": "Not transparent or clear; difficult to understand.",
+        "ex": "Investors grew wary of opaque offshore investment vehicles."
       },
       {
-        "w": "allocation",
-        "ipa": "/ˌæl.əˈkeɪ.ʃən/",
-        "pos": "n.",
-        "mean": "配置/分配",
-        "def": "the action or process of distributing resources",
-        "ex": "Efficient capital allocation is essential for economic growth."
+        "w": "recalibrating",
+        "ipa": "/ˌriːˈkælɪbreɪtɪŋ/",
+        "pos": "v.",
+        "mean": "重新调整；重新审视",
+        "def": "Adjusting one's approach or thinking in response to new conditions.",
+        "ex": "Wealth managers are recalibrating their risk models in response to market volatility."
       },
       {
-        "w": "infrastructure",
-        "ipa": "/ˈɪn.frə.strʌk.tʃər/",
-        "pos": "n.",
-        "mean": "基础设施",
-        "def": "the basic physical and organizational structures needed for operation",
-        "ex": "Investment in clean energy infrastructure is vital for energy security."
-      },
-      {
-        "w": "precarious",
-        "ipa": "/prɪˈkeə.ri.əs/",
+        "w": "implicit",
+        "ipa": "/ɪmˈplɪsɪt/",
         "pos": "adj.",
-        "mean": "不稳固的/危险的",
-        "def": "not securely held or in position; dangerously uncertain",
-        "ex": "The country's financial state remains in a precarious position due to debt."
+        "mean": "含蓄的；默认的",
+        "def": "Implied though not plainly expressed.",
+        "ex": "The belief in an implicit state bailout proved to be a costly misconception."
       },
       {
-        "w": "sovereign",
-        "ipa": "/ˈsɒv.rɪn/",
-        "pos": "adj.",
-        "mean": "主权的",
-        "def": "possessing supreme power or relating to national fiscal status",
-        "ex": "Investors are monitoring sovereign bond yields in European markets."
-      },
-      {
-        "w": "deregulation",
-        "ipa": "/diːˌreɡ.jəˈleɪ.ʃən/",
-        "pos": "n.",
-        "mean": "去监管化/放松管制",
-        "def": "the removal of regulations or restrictions in a industry",
-        "ex": "Market deregulation can stimulate competition and reduce operational costs."
+        "w": "unequivocally",
+        "ipa": "/ˌʌnɪˈkwɪvəkli/",
+        "pos": "adv.",
+        "mean": "明确地；毫不含糊地",
+        "def": "In a way that leaves no doubt.",
+        "ex": "The central bank unequivocally stated that financial discipline will be strictly enforced."
       }
     ],
     "gems": [
       {
-        "s": "Subsidies inevitably stimulate demand while failing to incentivize producers to expand output.",
-        "why": "Uses a contrasting sentence structure ('while failing to...') to clearly highlight the asymmetry between demand generation and supply response in economic policy. 使用对比句式（“while failing to...”）清晰地凸显了经济政策中需求刺激与供给响应之间的不对称性。"
-      },
-      {
-        "s": "Until governments accept that genuine affordability requires expanding supply rather than masking costs, their economic relief measures will remain an expensive illusion.",
-        "why": "Employs a persuasive conditional opening frame ('Until...') paired with sharp antithesis ('expanding supply rather than masking costs') to deliver a strong concluding synthesis. 采用具说服力的条件句作为开头框架（“Until...”），结合鲜明的对照手法（“expanding supply rather than masking costs”），给出了强有力的总结性结论。"
+        "s": "Under strict new regulatory standards, opaque financial structures could no longer mask non-performing assets, revealing systemic vulnerabilities that had long lingered beneath the surface.",
+        "why": "This sentence employs cause-and-effect reasoning with strong imagery like 'mask' and 'lingered beneath the surface' to concisely capture regulatory impact. 这句话巧妙结合了因果句式与‘掩盖’、‘潜伏于表面之下’等生动动词，极为精准地总结了新规对于隐蔽风险的暴露力。"
       }
     ]
   }
